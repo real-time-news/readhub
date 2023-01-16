@@ -3,9 +3,7 @@ import writeFile from './writeFile'
 
 async function start() {
   const data = await fetchNews();
-  await writeFile(data);
-  // console.log('data', data)
-
+  writeFile(data);
 }
 
 start();
