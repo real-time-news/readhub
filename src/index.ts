@@ -1,8 +1,11 @@
-import fetch from "node-fetch";
-import featchNews from "./readhub";
+import fetchNews from "./fetchNews";
+import writeFile from './writeFile'
 
 async function start() {
-  featchNews();
+  const data = await fetchNews();
+  await writeFile(data);
+  // console.log('data', data)
+
 }
 
 start();
