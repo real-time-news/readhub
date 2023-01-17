@@ -1,11 +1,11 @@
 import fetchNews from "./fetchNews";
-import writeFile from './writeFiles'
-import submitFiles from './submitFiles'
+import write from './write'
+import submit from './submit'
 
 async function start() {
   const data = await fetchNews();
-  await writeFile(data);
-  submitFiles()
+  await write(data);
+  submit()
 }
 
 start();

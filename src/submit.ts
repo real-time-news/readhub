@@ -1,6 +1,6 @@
 import git from "simple-git";
 
-export default async function submitFiles() {
+export default async function submit() {
     try {
         const simpleGit = git();
         await simpleGit.add("./*");

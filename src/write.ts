@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-export default async function writeFile(newFileData: any) {
+export default async function write(newFileData: any) {
 
     const filePath = path.resolve(__dirname, '../data/2023-01-16.json');
 
