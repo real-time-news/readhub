@@ -13,7 +13,7 @@ export default async function writeFile(newFileData: any) {
         newFileData.map(item => {
             const isExist = fileDataJson.find((fileItem: any) => fileItem.id === item.id)
             if (!isExist) {
-                fileDataJson.unshift(item)
+                news.unshift(item)
             }
         })
 
