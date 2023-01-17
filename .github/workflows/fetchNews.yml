@@ -22,12 +22,12 @@ jobs:
         run: npm run start
       - name: Commit changes
         run: |
-          git config --local user.email "
-          git config --local user.name "
+          git config --local user.email "exposir@foxmail.com"
+          git config --local user.name "exposir"
           git add .
           git commit -m "Update News"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.ACTION_TOKEN }}
-          branch: master
+          branch: main
