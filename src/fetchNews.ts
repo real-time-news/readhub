@@ -5,5 +5,4 @@ export default async function featchNews() {
   const res = await fetch(url);
   const { links = {}, data = [] } = await res.json();
   return data
-  // console.log(data, links);
 }

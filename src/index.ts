@@ -1,9 +1,14 @@
 import fetchNews from "./fetchNews";
-import writeFile from './writeFile'
+import write from './write'
+import submit from './submit'
+import parse from "./parse";
+
 
 async function start() {
   const data = await fetchNews();
-  writeFile(data);
+  const parseData = parse(data)
+  await write([...await parseData]);
+  submit()
 }
 
 start();
