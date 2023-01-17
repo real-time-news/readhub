@@ -1,32 +1,30 @@
-name: Fetch_News
+name: Bing_Wallpaper_Node
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # 每10分钟执行一次
+    - cron: "1 1 * * *"
   workflow_dispatch:
 
 jobs:
-  fetch_news:
+  play:
     runs-on: ubuntu-latest
     steps:
-      - name: Set time zone
-        run: sudo ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
         with:
-          node-version: "16.x"
+          node-version: 12
           registry-url: https://npm.pkg.github.com/
       - name: Npm install
         run: npm install
       - name: Run Project
-        run: npm run start
-      - name: Commit changes
+        run: npm run build
+      - name: Commit files
         run: |
           git config --local user.email "exposir@foxmail.com"
           git config --local user.name "exposir"
           git pull
-          git add .
-          git commit -m "Update News"
+          git add ./
+          git commit -m "update wallpaper"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
