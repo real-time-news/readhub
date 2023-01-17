@@ -11,8 +11,8 @@ jobs:
     steps:
       - name: Set time zone
         run: sudo ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v2
         with:
           node-version: "16.x"
           registry-url: https://npm.pkg.github.com/
