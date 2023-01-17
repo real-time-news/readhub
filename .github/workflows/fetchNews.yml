@@ -26,7 +26,8 @@ jobs:
           git config --local user.name "exposir"
           git pull
           git add .
-          git commit -m "Update News"
+          git status
+          git commit -m "Update News" || echo "No changes to commit"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
