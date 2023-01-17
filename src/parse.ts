@@ -1,10 +1,11 @@
+import dayjs from "dayjs"
+
 export default async function parse(data: any) {
-    // const url = "https://api.readhub.cn/mina_v2/topic/list?&size=10&type=day";
-    // const res = await fetch(url);
-    // const { links = {}, data = [] } = await res.json();
 
-
-    // console.log(Array.isArray(data))
+    data = data.map((item: any) => {
+        item.date = dayjs(item.createdAt).format("YYYY-MM-DD HH:mm:ss")
+        return item
+    })
 
     return data
 }

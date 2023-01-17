@@ -10,14 +10,10 @@ export default async function write(newFileData: any) {
         const fileDataJson = JSON.parse(fileData.toString());
         const news = [...fileDataJson]
 
-        
-
-        // console.log(Array.isArray(newFileData))
-
         newFileData.map(item => {
             const isExist = fileDataJson.find((fileItem: any) => fileItem.id === item.id)
             if (!isExist) {
-                news.unshift(item)
+                news.push(item)
             }
         })
 
