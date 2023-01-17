@@ -1,4 +1,4 @@
-name: fetch_News
+name: Fetch_News
 
 on:
   schedule:
@@ -11,10 +11,10 @@ jobs:
     steps:
       - name: Set time zone
         run: sudo ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          node-version: 14
+          node-version: "16.x"
           registry-url: https://npm.pkg.github.com/
       - name: Npm install
         run: npm install
@@ -24,6 +24,7 @@ jobs:
         run: |
           git config --local user.email "exposir@foxmail.com"
           git config --local user.name "exposir"
+          git pull
           git add .
           git commit -m "Update News"
       - name: Push changes
