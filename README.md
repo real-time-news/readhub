@@ -1,1 +1,1 @@
-# [无码科技 readhub](https://readhub.cn)
+# [readhub](https://readhub.cn)
