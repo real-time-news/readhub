@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 import dayjs from 'dayjs';
+import parse from "./parse";
+
 
 export default async function write(newFileData: any) {
 
@@ -8,14 +10,14 @@ export default async function write(newFileData: any) {
     const fileName = `${date}.json`;
     const filePath = path.resolve(__dirname, `../data/${fileName}`);
 
-    fs.readFile(filePath, (err: any, fileData: any) => {
-        // 如果文件存在，就读取文件内容
+    fs.readFile(filePath, async (err: any, fileData: any) => {
+        // If the file exists, read the file content
         if (fileData) {
 
             const fileDataJson = JSON.parse(fileData.toString());
             const news = [...fileDataJson]
 
-            // 比较新旧数据，如果新数据中有旧数据中没有的，就添加到新数据中
+            // compare the new and old data, if there is new data in the new data that is not in the old data, add it to the new data
             newFileData.map((item: any) => {
                 const isExist = fileDataJson.find((fileItem: any) => fileItem.id === item.id)
                 if (!isExist) {
@@ -23,16 +25,19 @@ export default async function write(newFileData: any) {
                 }
             })
 
-            // 写入新数据
-            fs.writeFile(filePath, JSON.stringify(news), (err) => {
+            const parseData = parse(news)
+
+            //write new data
+            fs.writeFile(filePath, JSON.stringify([...await parseData]), (err) => {
                 if (err) {
                     console.log(err)
                 }
             })
 
         } else {
-            // 如果文件不存在，就创建一个新的文件
-            fs.writeFile(filePath, JSON.stringify(newFileData), (err) => {
+            // If the file does not exist, create a new file
+            const parseData = parse(newFileData)
+            fs.writeFile(filePath, JSON.stringify([...await parseData]), (err) => {
                 if (err) {
                     console.log(err)
                 }
