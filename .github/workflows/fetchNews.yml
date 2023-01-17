@@ -9,10 +9,12 @@ jobs:
   fetch_news:
     runs-on: ubuntu-latest
     steps:
+      - name: Set time zone
+        run: sudo ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 14
           registry-url: https://npm.pkg.github.com/
       - name: Npm install
         run: npm install
