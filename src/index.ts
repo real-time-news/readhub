@@ -8,7 +8,7 @@ async function start() {
   const data = await fetchNews();
   const parseData = parse(data)
   await write([...await parseData]);
-  submit()
+  // submit()
 }
 
 start();
