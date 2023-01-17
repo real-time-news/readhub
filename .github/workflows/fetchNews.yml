@@ -22,11 +22,10 @@ jobs:
         run: |
           git config --local user.email "exposir@foxmail.com"
           git config --local user.name "exposir"
-          git pull
-          git add ./
-          git commit -m "update wallpaper"
+          git add .
+          git commit -m "Update News"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.NEWS }}
+          github_token: ${{ secrets.ACTION_TOKEN }}
           branch: main
