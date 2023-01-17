@@ -20,6 +20,8 @@ jobs:
         run: npm install
       - name: Run Project
         run: npm run start
+      - name: Current time
+        run: date +%Y-%m-%d\ %H:%M:%S
       - name: Commit changes
         run: |
           git config --local user.email "exposir@foxmail.com"
