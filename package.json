@@ -1,27 +1,27 @@
 {
-    "name": "readhub",
-    "version": "0.0.1",
-    "main": "lib/index.js",
-    "scripts": {
-        "build": "tsc",
-        "start": "tsc && node lib/index.js",
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "tsc": "tsc",
-        "prettier": "prettier --write ."
-    },
-    "license": "MIT",
-    "engines": {
-        "node": ">=14.0.0"
-    },
-    "dependencies": {
-        "@types/node": "^18.7.13",
-        "dayjs": "^1.11.7",
-        "lodash": "^4.17.21",
-        "node-fetch": "2.6.1",
-        "typescript": "^4.8.2",
-        "uuid": "^9.0.0"
-    },
-    "devDependencies": {
-        "prettier": "2.8.4"
-    }
+  "name": "readhub",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node lib/index.js && prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc",
+    "prettier": "prettier --write ."
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^18.7.13",
+    "dayjs": "^1.11.7",
+    "lodash": "^4.17.21",
+    "node-fetch": "2.6.1",
+    "typescript": "^4.8.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.8.4"
+  }
 }
