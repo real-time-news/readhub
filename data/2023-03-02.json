@@ -1,6 +1,44 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "报告显示，Salesforce第四财季总营收为83.84亿美元，与上年同期的73.26亿美元相比增长14%，不计入汇率变动的影响为同比增长17% ...",
+    "id": "8nOKzT1JUn7",
+    "order": 513397,
+    "createdAt": "2023-03-01T23:49:11.518Z",
+    "title": "Salesforce第四财季营收83.84亿美元 净亏损同比扩大",
+    "score": 0.848395840815571,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-03-02 07:49:11",
+    "uuid": "204b2fff-2f59-421f-a2f1-605bff9a2394"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "已经加入并升级至 Public Beta 的尝鲜用户，可以从系统偏好设置应用程序的软件更新部分下载 macOS 13.3 Ventura 更新 ...",
+    "id": "8nOMMm0FWCf",
+    "order": 513396,
+    "createdAt": "2023-03-01T23:46:49.346Z",
+    "title": "苹果推出macOS Ventura 13.3的第2个Public Beta 版本更新",
+    "score": 0.758078392936528,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-03-02 07:46:49",
+    "uuid": "70c2fd2e-9762-4d05-ac61-4697ba695955"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" }
