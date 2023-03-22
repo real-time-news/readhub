@@ -1,5 +1,23 @@
 [
   {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "据集微网，比亚迪就这一减产传闻回应称，网传信息不实，目前，公司订销良好，市占率稳中有升，预计3月销量将超过2月份，创今年新高 ...",
+    "id": "8omdEwrCpP7",
+    "order": 519395,
+    "createdAt": "2023-03-22T03:45:25.463Z",
+    "title": "比亚迪否认减产：消息不实，3月销量将创今年新高",
+    "score": 0.658181735943941,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-03-22 11:45:25",
+    "uuid": "01cc64ff-62c1-4fca-854c-e9830c338d43"
+  },
+  {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "快科技" }],
     "summary": "3月21日，财富中文网公布了《2023年中国最具影响力的50位商界领袖》。榜单显示，2023年比亚迪股份有限公司董事长兼总裁王传福成最具影响力商界领袖。字节跳动创始人张一鸣、华为创始人任正非紧随其后，分别排名第二、第三。 ...",
     "id": "8om7Wl2O7bz",
@@ -122,6 +140,20 @@
     "uuid": "a6bf8f65-7372-41b5-bca1-21d39eee4ea2"
   },
   {
+    "newsArray": [{ "siteName": "搜狐" }, { "siteName": "TechWeb" }],
+    "summary": "微软在当地时间周二宣布在必应搜索引擎和Edge浏览器中新增一项图像生成功能。该功能名为“必应图像生成器”（Bing Image Creator），由OpenAI的DALL-E深度学习模型提供支持，可根据文本提示生成相应图片。 ...",
+    "id": "8olV677Gdhx",
+    "order": 519368,
+    "createdAt": "2023-03-22T02:23:48.987Z",
+    "title": "微软必应新增文字生成图像功能",
+    "score": -1,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-03-22 10:23:48",
+    "uuid": "421610d9-e742-472d-a60d-2c3bbccfae33"
+  },
+  {
     "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "IT 之家" },
@@ -138,6 +170,25 @@
     "voteDesc": "",
     "date": "2023-03-22 10:15:47",
     "uuid": "d1c6b481-24e9-4e4c-94af-bd3bdad191bd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "微软研究院首席研究员凯特・克劳福德（Kate Crawford）近日发布推文，表示谷歌推出的聊天机器人 Bard 在训练的数据集上，调用了 Gmail 数据 ...",
+    "id": "8om5NKl25qf",
+    "order": 519362,
+    "createdAt": "2023-03-22T02:13:47.103Z",
+    "title": "谷歌澄清：训练聊天机器人 Bard 的数据集并不包含 Gmail 数据",
+    "score": -1,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-03-22 10:13:47",
+    "uuid": "b220eeb1-63e8-4100-a95e-71b101e1ff95"
   },
   {
     "newsArray": [
