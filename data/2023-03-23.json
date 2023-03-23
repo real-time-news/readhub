@@ -1,6 +1,27 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "和讯科技" }
+    ],
+    "summary": "有微博博主发文称质疑文心一言文生图功能抄袭“StableDiffusion”，同时在中文语义理解方面存在局限 ...",
+    "id": "8onUR1vXF0F",
+    "order": 519733,
+    "createdAt": "2023-03-23T03:30:30.347Z",
+    "title": "百度回应文心一言文功能质疑：完全是自研大语言模型，训练数据符合行业惯例",
+    "score": 0.609462402973131,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-03-23 11:30:30",
+    "uuid": "110f4d98-5a21-4d0d-9d20-2ff927349439"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "中国证券网" },
       { "siteName": "界面" }
