@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "库克表示，当前全球在人工智能等方面的创新速度是非常迅速的，这些技术将对人类产生重大影响 ...",
+    "id": "8orcUSxcxQ2",
+    "order": 520439,
+    "createdAt": "2023-03-25T03:02:07.739Z",
+    "title": "苹果库克谈AI创新提速：发明者有责任保证技术被正确使用，并帮助人类",
+    "score": 0.544915430188861,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-03-25 11:02:07",
+    "uuid": "72e11b02-d68a-40a6-af72-188aa41a4ad3"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "澎湃新闻" },
       { "siteName": "澎湃新闻" },
@@ -35,5 +53,25 @@
     "voteDesc": "",
     "date": "2023-03-25 06:01:42",
     "uuid": "f601cb0a-c66d-4808-900f-c6d6360e0d13"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "这应该是 AirPods Pro 2 的USB-C 版本，预计将在今年第二到第三季度大量出货 ...",
+    "id": "8oqhV6krCAF",
+    "order": 520387,
+    "createdAt": "2023-03-24T16:13:57.788Z",
+    "title": "消息称苹果即将发布USB-C接口AirPods Pro 2",
+    "score": 0.596323411338552,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-03-25 00:13:57",
+    "uuid": "7c53d04e-b934-4cad-9aba-4a7d1d9cd102"
   }
 ]
