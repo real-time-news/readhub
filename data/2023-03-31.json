@@ -113,6 +113,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "36Kr" },
+      { "siteName": "搜狐" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "根据彭博社最新发布的报告显示，其构建迄今为止最大的特定领域数据集，并训练了专门用于金融领域的LLM，开发了拥有500亿参数的语言模型——BloombergGPT ...",
+    "id": "8oBfoe7V5rU",
+    "order": 522552,
+    "createdAt": "2023-03-31T10:55:45.367Z",
+    "title": "金融圈注意了，BloombergGPT来了",
+    "score": 0.548335762809844,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-03-31 18:55:45",
+    "uuid": "42d6d717-48a6-44a7-a1a2-a07305747ed5"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国证券网" },
       { "siteName": "澎湃新闻" },
       { "siteName": "钛媒体" }
