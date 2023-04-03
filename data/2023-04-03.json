@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "周一，据科技媒体The Information报道，知情人士透露称，字节跳动2022年营收超800亿美元（5514亿元人民币）直逼腾讯，较2021年的600亿美元涨超30%以上 ...",
+    "id": "8oGmHcTpLYF",
+    "order": 523065,
+    "createdAt": "2023-04-03T09:01:32.909Z",
+    "title": "报道：字节跳动2022年收入增长30%，超800亿美元",
+    "score": 0.851312420170703,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-03 17:01:32",
+    "uuid": "a4fa3a0a-d28d-4636-a5c8-c497c890a0af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "比尔·盖茨在博客GatesNotes发表了一篇关于自动驾驶的文章，文中分享了自己试乘自动驾驶汽车的经历 ...",
+    "id": "8oEINkjE0P5",
+    "order": 523064,
+    "createdAt": "2023-04-03T08:56:12.366Z",
+    "title": "比尔·盖茨试乘自动驾驶汽车并发文：技术创新未来十年达到顶点，广泛应用还要几十年",
+    "score": 0.49367001042185,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-03 16:56:12",
+    "uuid": "e3be4bf9-89ef-4854-82b0-9e750ffbaea8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "截至目前，银保监会已先后制定了人身险公司、财产保险公司、再保险公司、信托公司、保险资管公司、财务公司、金融租赁公司、消费金融公司、汽车金融公司、金融资产管理公司、保险集团公司十一类监管数据标准化规范，非银机构监管数据标准化规范体系基本成型 ...",
+    "id": "8oGxwsUfaLU",
+    "order": 523063,
+    "createdAt": "2023-04-03T08:55:33.900Z",
+    "title": "银保监会：将全面开展非银机构数据治理工作",
+    "score": 0.839003444795917,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-03 16:55:33",
+    "uuid": "49b146fd-c883-4c1b-b4da-0d44080308ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "海南省副省长、省委自贸港工委办主任倪强表示，海南积极打造外商投资新热土 ...",
+    "id": "8oGyVQZQ0Cg",
+    "order": 523062,
+    "createdAt": "2023-04-03T08:55:29.229Z",
+    "title": "海南省副省长倪强：海南正在全力打造面向太平洋、印度洋的航空枢纽和中转站",
+    "score": 0.699965973874444,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-03 16:55:29",
+    "uuid": "e3faf21b-a4ad-4065-840f-2fffcf8595d2"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "澎湃新闻" },
       { "siteName": "界面" }
