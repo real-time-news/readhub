@@ -1,5 +1,23 @@
 [
   {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "美国《福布斯》杂志4日在其中文网站公布2023全球亿万富豪榜显示，来自法国的奢侈品巨头贝尔纳·阿尔诺（Bernard Arnault）成为今年新全球首富，其目前个人财富约为2110亿美元 ...",
+    "id": "8oIslrWiOF8",
+    "order": 523576,
+    "createdAt": "2023-04-04T23:46:20.938Z",
+    "title": "福布斯发布2023亿万富豪榜，路易威登巨头跃升全球首富",
+    "score": 0.580588591600279,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-05 07:46:20",
+    "uuid": "a4c69aba-514d-4c65-85bb-2d3494f20cc8"
+  },
+  {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
     "summary": "Twitter CEO埃隆·马斯克（Elon Musk）曾经表示，从本月开始，只有Twitter Blue会员可以享受蓝V认证 ...",
     "id": "8oI7BvcSovd",
@@ -62,5 +80,28 @@
     "voteDesc": "",
     "date": "2023-04-05 00:18:05",
     "uuid": "c3f6f887-afe5-4458-9a69-ce6b3abbaef7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "中国证券网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "在投票中，瑞信管理层本年度的薪酬计划只得到了48.43%的赞成票，这一投票结果意味着瑞信的首席执行官乌尔里希·克尔纳（Ulich Körner）和执行委员会的其他成员都将不能再领取本年度的工资 ...",
+    "id": "8oIkLuu41Vs",
+    "order": 523537,
+    "createdAt": "2023-04-04T16:02:19.304Z",
+    "title": "瑞信股东大会否决管理层的薪酬计划",
+    "score": 0.486298184576508,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-05 00:02:19",
+    "uuid": "dfc6daa8-4a01-46fe-89dd-e5434378f5d7"
   }
 ]
