@@ -1,6 +1,126 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "谷歌已经开始采取措施打击这些借贷应用，禁止他们访问借款人手机中的通讯录、照片、地理位置等信息 ...",
+    "id": "8oMBxaeoEca",
+    "order": 524192,
+    "createdAt": "2023-04-07T00:46:40.297Z",
+    "title": "谷歌打击“流氓”借贷软件：限制访问用户通讯录、照片和地理位置等个人信息",
+    "score": 0.646433486719047,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-07 08:46:40",
+    "uuid": "ca24c5d7-3401-43d2-9c78-e2bb95872c30"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "新浪" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "据记者统计，今年一季度，共有8家公司申报科创板上市获受理，5家公司申报创业板上市获受理 ...",
+    "id": "8oMxgW2u1dS",
+    "order": 524191,
+    "createdAt": "2023-04-07T00:46:08.384Z",
+    "title": "一季度IPO受理扫描：医械扎堆科创板，数字经济蜂拥创业板",
+    "score": 0.640695597423724,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-07 08:46:08",
+    "uuid": "1026ecec-5f15-4266-b8b0-007f560af0b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "理想汽车在技术路线上选择了增程混动（串联 REV），该公司的 CEO 李想也曾多次发表观点，表达对增程的看好 ...",
+    "id": "8oMAx6Agw1k",
+    "order": 524190,
+    "createdAt": "2023-04-07T00:45:31.677Z",
+    "title": "理想汽车纯电解决方案官宣 4 月 18 日发布",
+    "score": 0.767051095936101,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-07 08:45:31",
+    "uuid": "3e674ffb-0731-4013-9754-99c957eac9c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "几天前，马斯克将Twitter蓝色小鸟Logo换成柴犬，而柴犬与马斯克力捧的狗狗币（Dogecoin）有着密切联系，因此狗狗币价格大涨 ...",
+    "id": "8oMznSJrYHI",
+    "order": 524183,
+    "createdAt": "2023-04-07T00:21:03.986Z",
+    "title": "马斯克将Twitter图标换回蓝鸟 狗狗币价格应声大跌",
+    "score": 0.649701123135664,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-07 08:21:03",
+    "uuid": "37318289-47bc-4b13-b8f8-d6a02792bfa5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "投中网" },
+      { "siteName": "新浪" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "受芯片市场状况进一步恶化，存储芯片的价格与出货量双双下滑影响，当前全球最大存储芯片制造商三星电子的业绩也将受到影响，分析师预计他们一季度的营业利润将创下近14年的新低 ...",
+    "id": "8oLcGX4n8eG",
+    "order": 524171,
+    "createdAt": "2023-04-07T00:08:29.632Z",
+    "title": "三星或将迎来14年来最差业绩",
+    "score": 0.658321058092515,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-07 08:08:29",
+    "uuid": "d99cabbc-ff11-4116-b0ba-8d1f8414e5ca"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }, { "siteName": "IT 之家" }],
+    "summary": "该专利描述的 Apple Watch 可以监测和响应微小的手指移动以及用户手势 ...",
+    "id": "8oLSRZFwyxD",
+    "order": 524166,
+    "createdAt": "2023-04-07T00:03:37.975Z",
+    "title": "苹果Apple Watch 手表新专利：表带嵌入电极传感器，可监测用户手势",
+    "score": 0.755994580084231,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-07 08:03:37",
+    "uuid": "b3d064b6-f827-4a37-8358-86eef6b5fbac"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }, { "siteName": "快科技" }],
+    "summary": "俄乌冲突之后，大量美国企业宣布结束在俄罗斯的业务运营，但撤出一个国家不是那么简单，资产、员工等都需要处理 ...",
+    "id": "8oLnnWHx9Mw",
+    "order": 524165,
+    "createdAt": "2023-04-07T00:02:52.383Z",
+    "title": "为了逃离俄罗斯：美国思科狠心销毁1.6亿元设备",
+    "score": 0.522158204882522,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-07 08:02:52",
+    "uuid": "60bef485-5a74-4fa0-a37a-fbfaf7274b76"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪" },
       { "siteName": "新浪" },
       { "siteName": "澎湃新闻" }
@@ -16,6 +136,26 @@
     "voteDesc": "",
     "date": "2023-04-07 07:31:48",
     "uuid": "439ed0b6-ebe3-4a2e-8caa-68f478b5e825"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "新浪" },
+      { "siteName": "36Kr" },
+      { "siteName": "搜狐" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "当地时间周三（4月5日），科技巨头微软高管表示，公司已将“必应映像创建器”（Bing Image Creator）试用版的功能整合到微软Edge浏览器的侧边栏上 ...",
+    "id": "8oM3e2WSqI3",
+    "order": 524155,
+    "createdAt": "2023-04-06T23:31:29.899Z",
+    "title": "又快谷歌一步，微软已将“文本生成图片”功能整合进浏览器",
+    "score": 0.670224585184965,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-07 07:31:29",
+    "uuid": "ddb9928b-0087-4726-a100-eab71ed15075"
   },
   {
     "newsArray": [
