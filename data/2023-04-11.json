@@ -1,6 +1,82 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "品玩" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "在今日的阿里云峰会上，阿里巴巴集团董事会主席兼首席执行官、阿里云智能集团首席执行官张勇发表《与实俱进，为创新提速》的演讲 ...",
+    "id": "8oTnIe0m0WY",
+    "order": 525230,
+    "createdAt": "2023-04-11T02:19:44.124Z",
+    "title": "张勇：阿里所有产品未来将接入通义千问大模型进行升级",
+    "score": 0.429365852261789,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-11 10:19:44",
+    "uuid": "3fa0c6ee-1306-492c-8f86-d6f8b3e1efbf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中信证券认为，4680版Model Y在美国官网上重新正式开放预订，是4680电池量产进度的又一里程碑事件 ...",
+    "id": "8oTgpU1efIq",
+    "order": 525223,
+    "createdAt": "2023-04-11T02:02:20.878Z",
+    "title": "中信证券：建议关注4680电池技术变化带来的增量需求",
+    "score": 0.600980607763254,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-11 10:02:20",
+    "uuid": "a8a64378-a1db-4247-ae11-60e0868691b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "中证网" },
+      { "siteName": "创业邦" }
+    ],
+    "summary": "2022年，公司实现营业收入47.4亿元，实现归属于上市公司股东的净利润11.5亿元，归属于上市公司股东的经营性净利润（不含投资）6.4亿，同比增长112% ...",
+    "id": "8oTht3FzSSL",
+    "order": 525222,
+    "createdAt": "2023-04-11T01:49:59.210Z",
+    "title": "昆仑万维2022年净利润11.5亿 经营性净利润同比大增112%",
+    "score": 0.673772732047,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-11 09:49:59",
+    "uuid": "b777a555-0b90-49fa-b5d4-1023efc69fdf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "前阵子，针对网上“最丑绿色车牌或在2年内取消”一事，乘联会秘书长崔东树表示，乘联会已经向国家有关部门提出了合并“蓝牌”“绿牌”的建议，预计未来两年就将成为现实 ...",
+    "id": "8oSBpqloVcx",
+    "order": 525221,
+    "createdAt": "2023-04-11T01:49:46.921Z",
+    "title": "乘联会：新能源车绿牌2年内或消失 但不是因为它难看",
+    "score": 0.467995809360822,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-11 09:49:46",
+    "uuid": "09cc2e28-9e3c-495d-b669-1df0663de532"
+  },
+  {
+    "newsArray": [
       { "siteName": "投资界" },
       { "siteName": "牛透社" },
       { "siteName": "投中网" }
