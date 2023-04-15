@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "有人注意到，周五至少有8枚H100芯片在eBay上售卖，价格从39995美元到46000美元不等 ...",
+    "id": "8oZJbJxozPS",
+    "order": 526786,
+    "createdAt": "2023-04-15T02:16:20.951Z",
+    "title": "英伟达顶级人工智能芯片在eBay上的售价超过4万美元",
+    "score": 0.554979528995088,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-15 10:16:20",
+    "uuid": "da275375-65f3-4c82-9245-1418974505c7"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "网易科技" },
       { "siteName": "搜狐科技" }
@@ -98,6 +116,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "IT之家查询国家知识产权局得知本公开整体涉及使用手部手势导航用户界面 ...",
+    "id": "8oYTtMdt23V",
+    "order": 526766,
+    "createdAt": "2023-04-15T01:01:42.535Z",
+    "title": "苹果“使用手部手势导航用户界面”专利公布",
+    "score": 0.835324504084239,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-15 09:01:42",
+    "uuid": "94cbbc89-ea1c-4ff8-b080-3f2e27672593"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪" },
       { "siteName": "新浪" },
       { "siteName": "澎湃新闻" }
@@ -113,5 +150,30 @@
     "voteDesc": "",
     "date": "2023-04-15 06:15:54",
     "uuid": "dfa74448-082e-48e0-b6ee-05425f11b22d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "根据内华达州备案文件，马斯克是 X.AI 的唯一董事，而马斯克家族办公室主任贾里德・伯查尔则是该公司的秘书 ...",
+    "id": "8oZsfLD7QUp",
+    "order": 526750,
+    "createdAt": "2023-04-14T18:56:56.271Z",
+    "title": "消息称马斯克已成立人工智能公司 X.AI，将与 OpenAI 展开竞争",
+    "score": 0.417939524571059,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-15 02:56:56",
+    "uuid": "7225728f-bdcd-4f55-b23c-b9f442952dce"
   }
 ]
