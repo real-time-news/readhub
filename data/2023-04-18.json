@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "该补充公告在原有的“同一企业及其控股的各个公司不得参加同一宗地的竞买”基础上进一步收紧，禁止多“马甲”拍地 ...",
+    "id": "8p3x4WMPM6i",
+    "order": 527423,
+    "createdAt": "2023-04-18T01:03:24.998Z",
+    "title": "北京土拍收紧，禁止多“马甲”摇号",
+    "score": 0.548220866787003,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-18 09:03:24",
+    "uuid": "5881f17a-42d4-47db-b08f-dcbae104a4ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "苹果首款“跌倒检测”功能专利可追溯到 2018 年公示的20190103007，后续又获得了至少 5 项相关专利 ...",
+    "id": "8p4lY15iyXs",
+    "order": 527422,
+    "createdAt": "2023-04-18T01:01:28.248Z",
+    "title": "苹果获跌倒检测新专利：提高检测准确度，评估未来12个月内跌倒风险",
+    "score": 0.746635881965956,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-18 09:01:28",
+    "uuid": "61b50e00-40f3-4bec-8471-c91ec9f27c36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "由于用户增长率的放缓，以及来自面临亚马逊(AMZN)、迪士尼(DIS)和华纳兄弟等科技公司在该领域的激烈竞争，使得了Netflix的股价和市值出现了大幅下跌 ...",
+    "id": "8p3ZVKkJn1k",
+    "order": 527420,
+    "createdAt": "2023-04-18T00:51:26.341Z",
+    "title": "深度分析Netflix的投资价值，虽面临激烈竞争，但前景无限光明",
+    "score": 0.409457260584516,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-18 08:51:26",
+    "uuid": "0cd2461c-e319-4db2-8e61-e98dce200ae3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "IT之家科普：AMD Phoenix 是采用 Zen 4 和 RDNA3 架构的新一代 APU，适用于笔记本电脑，旨在接替代号为 Rembrandt 的 Ryzen 6000 系列 ...",
+    "id": "8p4iaX4KS4j",
+    "order": 527413,
+    "createdAt": "2023-04-18T00:34:30.215Z",
+    "title": "消息称 AMD Ryzen 7040 系列“Phoenix”处理器本月末 / 下月初发售",
+    "score": 0.479113522840538,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-18 08:34:30",
+    "uuid": "acf77332-2564-4ec7-aca2-5dddc881ed16"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "特斯拉向美国监管机构提交资料，披露一起与自动辅助驾驶系统有关的致命车祸事故 ...",
+    "id": "8p4Syzhwsak",
+    "order": 527411,
+    "createdAt": "2023-04-18T00:34:04.252Z",
+    "title": "特斯拉又在美国发生致命车祸：与辅助驾驶系统有关",
+    "score": 0.816720003782992,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-18 08:34:04",
+    "uuid": "145e58ca-ba35-42cb-9491-ea4b4ef1183b"
+  },
+  {
+    "newsArray": [
       { "siteName": "创业邦" },
       { "siteName": "动脉网" },
       { "siteName": "亿欧" },
@@ -17,6 +109,25 @@
     "voteDesc": "",
     "date": "2023-04-18 08:04:35",
     "uuid": "6d6e59cf-b805-4137-a5c8-3ff17181b1de"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "和讯科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在任天堂Switch破解这件事上，声量和影响最大的无疑是TX团队（Team Xecuter），他们通过MOD的方式实现了硬破，而且是Switch全系沦陷 ...",
+    "id": "8p48KJFoOMP",
+    "order": 527399,
+    "createdAt": "2023-04-17T23:45:25.660Z",
+    "title": "破解Switch黑客团队成员在美出狱：要打一辈子工偿还任天堂上亿元索赔金",
+    "score": 0.485707602384701,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-18 07:45:25",
+    "uuid": "50c0516f-b2b6-4fd9-9ab2-ed9c3f300620"
   },
   {
     "newsArray": [
@@ -53,6 +164,24 @@
     "voteDesc": "",
     "date": "2023-04-18 07:01:27",
     "uuid": "65ca2caf-dfa5-4f08-a8ae-ca73c0eeddce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "最近有人接到电话，声称微信支付“百万保障”已到期，需要缴费续保，否则还会影响征信，而且最后需要给他转账 ...",
+    "id": "8oYKC7jgnaZ",
+    "order": 527384,
+    "createdAt": "2023-04-17T21:51:42.398Z",
+    "title": "微信提醒：这100万保险完全免费",
+    "score": 0.491798792385675,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-18 05:51:42",
+    "uuid": "87403471-cc2e-4b48-9436-0ce1ad2a597e"
   },
   {
     "newsArray": [
