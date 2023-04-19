@@ -1,6 +1,38 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "新版《仙剑》是由上海腾讯企鹅影视文化传播有限公司出品，该剧改编自单机游戏《仙剑奇侠传》，由杨龙执导，何与、杨雨潼、徐好、胡意旋主演的古装仙侠剧，现已取得发行许可证 ...",
+    "id": "8p5IyFxLGRL",
+    "order": 527832,
+    "createdAt": "2023-04-19T00:08:17.602Z",
+    "title": "经典复刻：腾讯视频新版《仙剑（一）》过审，获网络剧发行许可证",
+    "score": 0.493484631654473,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-19 08:08:17",
+    "uuid": "d96d8023-7288-4aac-ba2e-da2efc1d04f9"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "通用汽车（GM）近日宣布，将在其即将推出的电动车中取消 Android Auto 和苹果CarPlay 这两种投影系统，引发了外界的强烈反对 ...",
+    "id": "8p68UOKfN2d",
+    "order": 527830,
+    "createdAt": "2023-04-19T00:02:58.808Z",
+    "title": "通用汽车坚持淘汰苹果CarPlay 和 Android Auto，称原生系统更好",
+    "score": 0.53077141708139,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-19 08:02:58",
+    "uuid": "fa7e6519-0d50-4699-85bf-22c225ff8225"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "新浪" },
       { "siteName": "钛媒体" }
@@ -50,6 +82,26 @@
     "uuid": "26190701-efec-418e-afc8-f79eb4f768f1"
   },
   {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "彭博社马克・古尔曼（Mark Gurman）在最新文章中表示，苹果正在为首款 AR / VR 头显打造各种有吸引力的应用程序，主要覆盖运动、游戏、健康和协作等方面 ...",
+    "id": "8p68MGPZVzd",
+    "order": 527819,
+    "createdAt": "2023-04-18T22:57:54.380Z",
+    "title": "古尔曼分享苹果首款 AR / VR 头显软件生态：适配 iPad 应用、增强锻炼体验",
+    "score": 0.595666582235865,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-19 06:57:54",
+    "uuid": "c17db716-246d-4401-8ff9-d60df95805f8"
+  },
+  {
     "newsArray": [{ "siteName": "网易科技" }, { "siteName": "搜狐" }],
     "summary": "英特尔发言人称：“由于优先考虑对IDM 2.0战略的投资，我们已结束Blockscale 1000系列ASIC（特定应用集成电路）的生产，同时我们将继续支持Blockscale的客户” ...",
     "id": "8p60ekfWyqR",
@@ -62,5 +114,61 @@
     "voteDesc": "",
     "date": "2023-04-19 06:42:27",
     "uuid": "dce44f48-029f-41c8-8f91-e4421c1ef4f9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "在发现儿童可以使用该应用程序访问色情图片后，苹果和谷歌都向亚马逊提出了要求，要求其加强对其 Kindle 应用的内容审核 ...",
+    "id": "8p5IpgGthhU",
+    "order": 527811,
+    "createdAt": "2023-04-18T22:38:06.802Z",
+    "title": "儿童可通过 Kindle 应用看到色情图片，苹果和谷歌对亚马逊提出警告",
+    "score": 0.78685897681313,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-19 06:38:06",
+    "uuid": "217ad55d-c089-428c-99a6-1276b2e68aea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "谷歌计划在5月10日的年度开发者大会谷歌I/O上宣布这款设备 ...",
+    "id": "8p5yL2m85bR",
+    "order": 527808,
+    "createdAt": "2023-04-18T21:07:39.733Z",
+    "title": "谷歌将在6月推出首款可折叠智能手机Pixel Fold",
+    "score": 0.796404357999986,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-19 05:07:39",
+    "uuid": "9074f256-b563-4bb1-a457-179796db24f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "谷歌计划于 6 月与三星一起推出 Pixel Fold，进军折叠屏智能手机市场 ...",
+    "id": "8p5mFmJ9Wp0",
+    "order": 527795,
+    "createdAt": "2023-04-18T17:39:01.610Z",
+    "title": "最贵 Pixel 手机：消息称谷歌Pixel Fold 折叠屏手机 6 月上市，定价约 1700 美元",
+    "score": 0.80086748506408,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-19 01:39:01",
+    "uuid": "48b084a8-54ce-4837-94a1-a132cda00b5c"
   }
 ]
