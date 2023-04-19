@@ -1,6 +1,26 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪" },
+      { "siteName": "网易科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "《环球时报》记者4月19日从中国航天科工二院获悉，近日，二院25所在北京完成国内首次太赫兹轨道角动量的实时无线传输通信实验，利用高精度螺旋相位板天线在110GHz频段实现4种不同波束模态，通过4模态合成在10GHz的传输带宽上完成100Gbps无线实时传输，最大限度提升了带宽利用率，为我国6G通信技术发展提供重要保障和支撑 ...",
+    "id": "8p74GbZ870A",
+    "order": 528034,
+    "createdAt": "2023-04-19T08:17:46.054Z",
+    "title": "中国6G通信技术研发取得重要突破",
+    "score": 0.50295113790239,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-19 16:17:46",
+    "uuid": "b3ea2b5e-0a11-4f9c-8e88-8713eee8f758"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "投资界" },
       { "siteName": "创业邦" }
