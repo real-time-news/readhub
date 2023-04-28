@@ -1,6 +1,170 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "中信证券研报指出，美国消费支出超预期增长，但私人存货变化下降导致一季度美国经济增速大幅放缓 ...",
+    "id": "8pltL9dle1j",
+    "order": 530958,
+    "createdAt": "2023-04-28T01:17:58.399Z",
+    "title": "中信证券：今年下半年美国经济步入衰退概率较高",
+    "score": 0.470438315222603,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-28 09:17:58",
+    "uuid": "cd8490d3-6372-4854-9153-ac660d3e0dee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯科技" }
+    ],
+    "summary": "当地时间周四，音频社交应用Clubhouse创始人Paul Davison和Rohan Seth在给员工的备忘录中表示，公司将裁员50%以上 ...",
+    "id": "8plqoN9Modh",
+    "order": 530952,
+    "createdAt": "2023-04-28T01:02:06.979Z",
+    "title": "音频社交应用Clubhouse宣布裁员超过50%",
+    "score": 0.933077977873468,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-28 09:02:06",
+    "uuid": "1b7004b0-0da8-43e4-8548-353bcd76a328"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "亚马逊表示，为了加强生成式AI和大语言模型开发，公司将把零售业务的部分支出转向亚马逊云服务（AWS）部门 ...",
+    "id": "8pltApYXUaP",
+    "order": 530951,
+    "createdAt": "2023-04-28T01:01:33.141Z",
+    "title": "发力AI和大模型，亚马逊零售支出将向云业务倾斜",
+    "score": 0.869913670098558,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-28 09:01:33",
+    "uuid": "b43b47ae-5628-4819-be84-cb18fabd1976"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "市场调研机构Canalys最新报告指出，2023年第一季度全球智能手机出货量下降13%，跌至2.70亿部 ...",
+    "id": "8pltI92butE",
+    "order": 530947,
+    "createdAt": "2023-04-28T00:46:10.820Z",
+    "title": "机构：一季度全球智能手机出货量跌至2.7亿部，三星重居首位",
+    "score": 0.736375531585441,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-28 08:46:10",
+    "uuid": "c9840bee-4c1f-4f44-a8e7-502584e54961"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近日召开的中央全面深化改革委员会会议指出，强化企业科技创新主体地位，是深化科技体制改革、推动实现高水平科技自立自强的关键举措 ...",
+    "id": "8pjJnQPrnkS",
+    "order": 530945,
+    "createdAt": "2023-04-28T00:34:08.026Z",
+    "title": "经济日报金观平：强化企业科技创新主体地位",
+    "score": 0.492392652874168,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-28 08:34:08",
+    "uuid": "d3189ed6-c7bb-4fcc-ae97-c05e4a0c8c00"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "目前三星旗舰产品上主要使用索尼传感器用于变焦相机，但三星有可能在不久的将来改用其内部 ISOCELL ...",
+    "id": "8pkIMbKFiTG",
+    "order": 530944,
+    "createdAt": "2023-04-28T00:33:53.981Z",
+    "title": "三星申请注册“ISOCELL Zoom”“ISOCELL Zoom Pro”相机传感器商标",
+    "score": 0.619066807252811,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-28 08:33:53",
+    "uuid": "a13ddb27-8474-4a59-87d4-d31662df1640"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "传音 Infinix 在尼日利亚推出了新的 Hot 30 系列手机，被称为 Infinix Hot 30 Play，加入到 Hot 30 和 Hot 30i 阵容中 ...",
+    "id": "8pkL277zJ4K",
+    "order": 530942,
+    "createdAt": "2023-04-28T00:31:49.669Z",
+    "title": "传音 Infinix Hot 30 Play 手机发布：90Hz 屏幕、6000mAh 电池",
+    "score": 0.586437120205563,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-28 08:31:49",
+    "uuid": "dbf3b09a-2f2f-4bd3-9c06-a7fa77b8bd41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "官方称，灵感源于徕卡 M11 Monochrom 相机，去除所有色彩元素，仅保留“红点”设计，以极简主义美学致敬黑白摄影本质 ...",
+    "id": "8pkMlYkiEi9",
+    "order": 530940,
+    "createdAt": "2023-04-28T00:21:26.578Z",
+    "title": "徕卡发布全新腕表 ZM Monochrom 版，致敬黑白摄影",
+    "score": 0.588618807281555,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-28 08:21:26",
+    "uuid": "ecbb16f9-8863-4431-be0d-9d86f6a5468a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "天风证券研报称，4月第3周随着上海车展的举办，自主品牌、新势力等企业亮相多款新车型，对终端需求有积极的促进作用 ...",
+    "id": "8plsC5ynLb8",
+    "order": 530938,
+    "createdAt": "2023-04-28T00:19:48.933Z",
+    "title": "天风证券：4月第3周新能源汽车订单明显改善，车展有望带动终端需求回升",
+    "score": 0.719895215301071,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-04-28 08:19:48",
+    "uuid": "cbde2baa-9e7c-446b-b621-8378c7582e18"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" },
       { "siteName": "新浪科技" }
