@@ -1,5 +1,41 @@
 [
   {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "谷歌、微软、OpenAI和Anthropic的首席执行官将于当地时间周四与美国副总统卡玛拉·哈里斯（Kamala Harris）和高级政府官员会面，讨论关键的人工智能（AI）问题 ...",
+    "id": "8ptJWJKLhkB",
+    "order": 531771,
+    "createdAt": "2023-05-03T02:04:50.567Z",
+    "title": "谷歌微软CEO将前往白宫参会，讨论关键AI问题",
+    "score": 0.754715765040406,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-03 10:04:50",
+    "uuid": "739d6abe-f607-4801-b2f8-7588a5538fef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "根据国外科技媒体 MacReports 报告，为苹果测试自动驾驶汽车的司机数量近日削减了 56 人，目前在职的司机总数为 145 人 ...",
+    "id": "8ptbDV5FEOJ",
+    "order": 531763,
+    "createdAt": "2023-05-03T01:30:15.210Z",
+    "title": "裁员 56 人占比超 25%，苹果自动驾驶测试司机团队锐减至 145 人",
+    "score": 0.73974671080758,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-03 09:30:15",
+    "uuid": "b15ad09e-588b-46c5-a8c8-50a659c21f40"
+  },
+  {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "网易科技" }],
     "summary": "苹果公司已经向英国伦敦法院提交应诉请求，要求法庭驳回这起“毫无根据”的 iPhone 电池门诉讼 ...",
     "id": "8ptaXciEZgn",
@@ -12,5 +48,24 @@
     "voteDesc": "",
     "date": "2023-05-03 09:10:46",
     "uuid": "7d94cc7e-950a-4019-9522-a9c8266cbe30"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "Q1季度中，GAAP规则下营收53.53亿美元，同比下滑9%，毛利率44%，下滑4个百分点，运营利润25.14亿美元，同比下滑29%，净亏损1.39亿美元，同比下滑118% ...",
+    "id": "8ptBsg6K9q3",
+    "order": 531758,
+    "createdAt": "2023-05-03T01:01:40.960Z",
+    "title": "4年来首次下滑 AMD发布Q1季度财报：锐龙处理器成重灾区",
+    "score": 0.751573884273897,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-03 09:01:40",
+    "uuid": "0d87946f-fb7e-4bb2-8718-21bd8d88a241"
   }
 ]
