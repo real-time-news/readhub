@@ -1,6 +1,45 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "小米POCO 正准备在印度推出 POCO F5 智能手机，现在可以确认这款手机本质上是Redmi Note 12 Turbo 的品牌更名款，搭载 8 GB 内存 + 256 GB 存储 ...",
+    "id": "8pvZigw84uU",
+    "order": 532265,
+    "createdAt": "2023-05-05T00:11:02.557Z",
+    "title": "小米 Poco F5 5G 真机图亮相：两款配色，后置三摄相机",
+    "score": 0.542717295063004,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-05 08:11:02",
+    "uuid": "a8ab6752-1bd5-479a-8396-33241af39e30"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "5月4日收盘，美股三大指数集体收跌，道指跌0.86%，纳指跌0.49%，标普500指数跌0.72% ...",
+    "id": "8px0PBg3P2r",
+    "order": 532260,
+    "createdAt": "2023-05-05T00:03:41.098Z",
+    "title": "美股三大指数集体收跌，热门中概股多数上涨",
+    "score": 0.518901959125339,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-05 08:03:41",
+    "uuid": "070a28d1-94e6-415c-bcec-7b9c9cb806e3"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" }
@@ -50,5 +89,46 @@
     "voteDesc": "",
     "date": "2023-05-05 07:16:16",
     "uuid": "2a3bc683-b1ae-46bf-91bd-3a1915f54cf3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯科技" },
+      { "siteName": "新浪" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果公司首席执行官库克对不断涌现的人工智能新应用表示谨慎乐观，他指出虽然这项技术潜力巨大，但“还有不少问题需要解决” ...",
+    "id": "8pwWZSoxWu8",
+    "order": 532248,
+    "createdAt": "2023-05-04T23:01:46.107Z",
+    "title": "库克：人工智能仍有不少问题需要解决，苹果将在更多产品中加入AI但会谨慎推进",
+    "score": 0.666196932941826,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-05 07:01:46",
+    "uuid": "0d027717-431b-4991-a595-073f3549e467"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "苹果公司首席执行官蒂姆・库克（Tim Cook）今天再次强调，大规模裁员是“最后手段”，现阶段并未纳入公司考虑范畴内 ...",
+    "id": "8pwQwT3W8lT",
+    "order": 532244,
+    "createdAt": "2023-05-04T21:35:50.380Z",
+    "title": "大规模裁员是“最后手段”，库克重申苹果暂无相关计划",
+    "score": 0.846531298000711,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-05 05:35:50",
+    "uuid": "06334213-2a24-48ca-b4ec-7d6e8c63b3c8"
   }
 ]
