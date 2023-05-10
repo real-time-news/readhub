@@ -1,6 +1,116 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "在截至2023年3月31日的这一财季，爱彼迎的营收为18.18亿美元，与上年同期的15.09亿美元相比增长20%，不计入汇率变动的影响为同比增长24%，这一业绩超出分析师预期 ...",
+    "id": "8pFlcyQ7VuP",
+    "order": 533804,
+    "createdAt": "2023-05-10T00:33:29.915Z",
+    "title": "爱彼迎第一季度营收18.18亿美元 同比扭亏为盈",
+    "score": 0.884468539825495,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 08:33:29",
+    "uuid": "1198c8f9-d6e3-4604-91bf-cc9a8493e9e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "中证网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "业内人士认为，除非加入主观风格行业分析或结合主观基本面研究方法，量化投资一般不需要调研上市公司 ...",
+    "id": "8pFkjinSPLH",
+    "order": 533801,
+    "createdAt": "2023-05-10T00:31:37.408Z",
+    "title": "量化巨头另辟蹊径，密集调研藏玄机",
+    "score": 0.412889468622739,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 08:31:37",
+    "uuid": "5ba541e5-82b2-45ad-a826-6396319e7ce0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "5月9日晚，金证股份发布停牌公告称，正在筹划发行股份及支付现金购买文华财经90.97%股权事项，同时募集配套资金 ...",
+    "id": "8pExXGT2z8c",
+    "order": 533799,
+    "createdAt": "2023-05-10T00:18:34.505Z",
+    "title": "金证股份拟收购文华财经90.97%股权，5月10日起停牌",
+    "score": 0.719744126407069,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 08:18:34",
+    "uuid": "c5d83a61-a1e9-4eed-96ba-e91f5a4448c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "但到目前为止，大多数零售商都专注于制作实物商品的数字复制品，而不是销售实体商品 ...",
+    "id": "8pEJMY7yH81",
+    "order": 533796,
+    "createdAt": "2023-05-10T00:17:30.470Z",
+    "title": "亚马逊通过手游销售周边商品：面向所有游戏公司开放",
+    "score": 0.797549855357525,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 08:17:30",
+    "uuid": "c624df5c-4c5c-4e06-935c-b7934b3d1929"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "该产品基于百度知识增强大语言模型文心一言打造，对标微软搜索引擎必应整合 OpenAI 公司 ChatGPT 服务后的 New Bing ...",
+    "id": "8pEM5Gr0vNg",
+    "order": 533795,
+    "createdAt": "2023-05-10T00:15:37.607Z",
+    "title": "百度搜索小范围公测“对话”功能，基于文心一言大语言模型",
+    "score": 0.774691463249287,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 08:15:37",
+    "uuid": "6bdf13f3-1723-4c21-a8f6-ead0d2cd4c86"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "记者梳理发现，2022年，系统改造、智能合约、硬钱包研发成为各家公司的关键词，数字人民币的应用场景拓展、交易规模等方面也取得诸多成果 ...",
+    "id": "8pFkm3g7xtH",
+    "order": 533789,
+    "createdAt": "2023-05-09T23:48:17.569Z",
+    "title": "数字人民币试点纵深推进，预付费管理应用可期",
+    "score": 0.633954354633961,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 07:48:17",
+    "uuid": "c3567f5b-7645-4041-89b3-20a7608331b4"
+  },
+  {
+    "newsArray": [
       { "siteName": "品玩" },
       { "siteName": "新浪" },
       { "siteName": "澎湃新闻" }
@@ -34,5 +144,24 @@
     "voteDesc": "",
     "date": "2023-05-10 07:01:37",
     "uuid": "df9f89f0-8e48-4dd5-ad50-991448ff3965"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "网易科技" },
+      { "siteName": "中国证券网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "今年以来科创板共有22家公司上会，包括思必驰在内共有2家公司未获通过 ...",
+    "id": "8pEuJqgscyo",
+    "order": 533771,
+    "createdAt": "2023-05-09T22:46:10.264Z",
+    "title": "阿里、联想携手持股 思必驰科创板IPO未获通过",
+    "score": 0.729970925626356,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 06:46:10",
+    "uuid": "056f88cb-323d-47ac-a939-b9acc9830de1"
   }
 ]
