@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "一份欧盟文件草案显示亚马逊（AMZN.O）、Alphabet旗下谷歌（GOOG.O）、微软（MSFT.O）等希望获得欧盟网络安全标签以处理敏感数据的非欧盟云服务提供商，只能通过与总部位于欧盟的企业进行合作 ...",
+    "id": "8pFrF3u4uLY",
+    "order": 533855,
+    "createdAt": "2023-05-10T02:19:29.888Z",
+    "title": "欧盟拟要求云服务数据需在欧盟存储和处理，亚马逊微软等受波及",
+    "score": 0.760963893220237,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 10:19:29",
+    "uuid": "9dfa90db-8566-479e-a9af-a050afc9b117"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "爱范儿" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "这三家公司的芯片研发主要是为其数据中心两个方向服务：一种是标准式芯片，一种是专门为机器学习模型训练和运行的 AI 芯片 ...",
+    "id": "8pFoAYOOQFy",
+    "order": 533851,
+    "createdAt": "2023-05-10T02:15:02.335Z",
+    "title": " iPhone 15 Pro Max 或搭载潜望式镜头/抖音推出 AIGC 平台规范/乘联会称特斯拉涨价是好事",
+    "score": 0.558099224932016,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 10:15:02",
+    "uuid": "0b0582c3-a92a-46b6-bc20-a6aeb037f5e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "微软今天宣布，将从7月15日开始启用 Remote PowerShell 协议 ...",
+    "id": "8pF2Fa7AHF5",
+    "order": 533833,
+    "createdAt": "2023-05-10T01:44:50.337Z",
+    "title": "微软将从7月15日起弃用 RPS 协议",
+    "score": 0.853927989078189,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-10 09:44:50",
+    "uuid": "10f1ee5b-a3e9-4f88-a4f5-e7d0b93752bd"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" },
       { "siteName": "新浪科技" }
