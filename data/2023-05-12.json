@@ -1,6 +1,134 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "36氪从多个独立信源处获悉，京东集团CEO徐雷将于近日退休，CFO许冉将接替他成为京东集团新任CEO ...",
+    "id": "8pIIfgwrxsk",
+    "order": 534602,
+    "createdAt": "2023-05-12T01:05:20.913Z",
+    "title": "京东集团CEO徐雷退休；iOS 17 内部爆料人士被苹果抓获；孟羽童疑似成立个人工作室",
+    "score": 0.735723827198771,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-12 09:05:20",
+    "uuid": "645f33c1-32ad-4f6c-bdba-64d01736265e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "北京左江科技股份有限公司（下称，*ST左江）股价呈现出冲高回落走势 ...",
+    "id": "8pIEiKXYTCP",
+    "order": 534600,
+    "createdAt": "2023-05-12T00:46:57.887Z",
+    "title": "245.5元，*ST左江差点把高价股都埋了",
+    "score": 0.412401113624962,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-12 08:46:57",
+    "uuid": "5ae368b8-624f-40a0-a21c-dca0a3788b19"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国游戏玩家在加州旧金山的一家联邦地方法庭向微软提起了来自私人领域的反垄断诉讼，指控对动视暴雪的收购将会损害公平竞争，法庭应该阻止 ...",
+    "id": "8pIH53Zrx5k",
+    "order": 534595,
+    "createdAt": "2023-05-12T00:31:21.157Z",
+    "title": "游戏玩家起诉微软收购动视暴雪损害竞争 周五开始法庭交锋",
+    "score": 0.725347334006553,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-12 08:31:21",
+    "uuid": "1a2cf5fe-9903-4d82-a2ef-b9affcc8fefc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "根据美国商标和专利局（USPTO）公示的最新清单，苹果近期获得了一项 iPhone 配件专利，可以实现类似于微软 Microsoft Dial 配件的交互效果 ...",
+    "id": "8pIGbxygMgq",
+    "order": 534594,
+    "createdAt": "2023-05-12T00:30:55.460Z",
+    "title": "苹果新配件专利：类似微软 Dial，放在 iPhone 屏幕上交互",
+    "score": 0.652101374450797,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-12 08:30:55",
+    "uuid": "88fcf374-92b6-4939-9066-55287507cf1c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中信建投研报表示，在光伏设备方面，一方面，应重点把握新技术带来的投资机会，尤其是0到1低渗透率高成长阶段设备企业的估值提升机会 ...",
+    "id": "8pIHeZz9ua5",
+    "order": 534587,
+    "createdAt": "2023-05-12T00:18:55.137Z",
+    "title": "中信建投：重视光伏设备技术迭代与泛半导体领域延展",
+    "score": 0.619716750361786,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-12 08:18:55",
+    "uuid": "067a2819-6fc2-4bb0-b409-8efcae8c6847"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "​微软正计划推出尺寸分别为13.5英寸和15英寸的 Surface Laptop 6型号，升级英特尔第13代移动处理器 ...",
+    "id": "8pGpSSYyfXL",
+    "order": 534585,
+    "createdAt": "2023-05-12T00:17:08.114Z",
+    "title": "Surface Laptop 6配置曝光 双尺寸升级13代酷睿",
+    "score": 0.427212804712693,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-12 08:17:08",
+    "uuid": "2dca9384-74e0-4d27-8cfc-0d192d0d9a8e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "根据专利描述，这款笔记本不仅具备触控屏幕，而且在掌托区域、触控板位置都实现了触觉反馈 ...",
+    "id": "8pIEdEWL9dp",
+    "order": 534584,
+    "createdAt": "2023-05-12T00:16:57.841Z",
+    "title": "苹果 MacBook 新专利：实现触控板、掌托和屏幕触控交互",
+    "score": 0.659583224535427,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-12 08:16:57",
+    "uuid": "6e5c21d9-ee44-49a0-acab-122a4ea3f5d7"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" },
       { "siteName": "新浪科技" }
