@@ -1,6 +1,44 @@
 [
   {
     "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "“克隆人”采用大语言模型、神经网络渲染和超级自然语音技术生成，将继承真人的外貌、声音和性格，并可进行实时交互 ...",
+    "id": "8pPsljFtlWB",
+    "order": 535753,
+    "createdAt": "2023-05-16T02:51:06.965Z",
+    "title": "小冰公司宣布启动“GPT克隆人计划”，首批征集300人",
+    "score": 0.766327145694747,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-16 10:51:06",
+    "uuid": "2e1d447f-722e-4272-bd4d-efaa23a052f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "1—4月份，全国房地产开发投资35514亿元，同比下降6.2%（按可比口径计算，详见附注6） ...",
+    "id": "8pPttzXmA5h",
+    "order": 535739,
+    "createdAt": "2023-05-16T02:32:17.599Z",
+    "title": "国家统计局：1—4月份全国房地产开发投资同比下降6.2%",
+    "score": 0.684950387596782,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-16 10:32:17",
+    "uuid": "0482de98-30b0-4266-b94b-970bff30366e"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯汽车" },
       { "siteName": "中证网" },
       { "siteName": "新浪" },
