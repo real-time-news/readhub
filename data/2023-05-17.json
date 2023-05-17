@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "目前的量子计算机由于硬件上的限制离真正的商业用途还有一段距离，能进行的复杂计算很有限，所以在这个基础下，我们优先探索量子机器学习混合模型，在不使用过多的量子qubit（量子位，量子计算器中的最小信息单位）下，能否在现阶段带来实质的帮助，并且在不远的将来能及时在真正的量子计算机做计算，解决药物研发的现实问题 ...",
+    "id": "8pPNLDRriEk",
+    "order": 536223,
+    "createdAt": "2023-05-17T07:31:36.570Z",
+    "title": "药企英矽智能将量子计算和生成式AI结合，发现明显量子优势",
+    "score": 0.400528898561794,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-17 15:31:36",
+    "uuid": "01eb4c61-b641-41a0-a2af-e30c67e1cf5e"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "搜狐科技" },
       { "siteName": "网易科技" },
@@ -54,6 +72,25 @@
     "voteDesc": "",
     "date": "2023-05-17 14:17:13",
     "uuid": "d79444b9-bad9-48f2-af1f-eb0ca8f2bb47"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "瑞银集团周二向美国证券交易委员会（SEC）提交的一份监管文件显示，对瑞士信贷集团匆忙达成的收购并不是瑞银希望看到的交易，因为全球银行业危机加剧了后者的财务状况，促使当局迅速采取行动 ...",
+    "id": "8pQ0Fo9uAEm",
+    "order": 536205,
+    "createdAt": "2023-05-17T06:03:40.253Z",
+    "title": "瑞银：收购瑞信将造成170亿美元财务冲击",
+    "score": -1,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-17 14:03:40",
+    "uuid": "3e7ed988-b9dd-4512-9d43-3b364d953fe6"
   },
   {
     "newsArray": [
