@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "该模型名为CheeseChat，基于国家网络安全学院数据智能实验室李晨亮老师团队的Cheese 预训练语言大模型，预训练语言大模型以拥有70亿参数的中文Alpaca-7B基础模型为底座，在累计 80G 文本数据上进行了 Token 预测训练 ...",
+    "id": "8q4VL8MHiLI",
+    "order": 539252,
+    "createdAt": "2023-05-25T12:46:08.145Z",
+    "title": "武大版ChatGPT大模型开启内测招募",
+    "score": 0.673939126330793,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-05-25 20:46:08",
+    "uuid": "195b602b-b883-4af2-8057-354b4185a4ea"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪" },
       { "siteName": "搜狐科技" }
