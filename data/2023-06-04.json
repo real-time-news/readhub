@@ -2,6 +2,24 @@
   {
     "newsArray": [
       { "siteName": "IT 之家" },
+      { "siteName": "搜狐" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "AMD 在近日发布的 EPYC 7002 “Rome”服务器芯片指南中，承认由于时钟倒计时器存在 BUG，导致第二代 EPYC 芯片正常运行 1044 天后出现内核卡死情况 ...",
+    "id": "8qkW3sIkEjG",
+    "order": 542385,
+    "createdAt": "2023-06-04T03:01:39.457Z",
+    "title": "AMD承认EPYC Rome服务器芯片运行1044天会死机 暂无计划修复",
+    "score": 0.614056536538573,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-04 11:01:39",
+    "uuid": "6fa09224-f5a9-4db8-9293-b90983b4322e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐" }
     ],
