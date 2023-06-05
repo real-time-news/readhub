@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "和讯科技" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "现在每周有超过100万行代码在开源AI领域中被创建，有无数优秀的社区成员做出贡献，我觉得开源的下一代ChatGPT指日可待 ...",
+    "id": "8qmxWvychf1",
+    "order": 542825,
+    "createdAt": "2023-06-05T09:35:43.032Z",
+    "title": "LF AI&Data执行董事：每周有超100万行代码在开源AI领域创建",
+    "score": 0.407993783086279,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-05 17:35:43",
+    "uuid": "0cc8ec5f-b430-4075-bfdd-d8a41bfdae58"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯汽车" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "根据乘联会最新发布的新能源汽车销售预测，特斯拉中国在2023年5月份的交付量达到了77,695辆，同比增长达到了142% ...",
+    "id": "8qmXDSectTE",
+    "order": 542819,
+    "createdAt": "2023-06-05T09:30:32.892Z",
+    "title": "乘联会：特斯拉5月交付7.7万辆 同比增长142%",
+    "score": 0.849939266277009,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-05 17:30:32",
+    "uuid": "dbea0c59-e36c-482e-84e7-323d0792a294"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "网易科技" },
       { "siteName": "36Kr" }
