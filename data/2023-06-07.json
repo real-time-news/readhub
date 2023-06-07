@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐" },
+      { "siteName": "品玩" },
+      { "siteName": "动点科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "苹果公司 CEO 蒂姆・库克在接受《早安美国》节目的采访时表示，他使用了 ChatGPT 这款聊天机器人，并对其感到兴奋。他还透露，苹果正在密切关注这项技术，并有一些独特的应用场景。 ...",
+    "id": "8qq2vXQaRfG",
+    "order": 543444,
+    "createdAt": "2023-06-07T03:07:26.409Z",
+    "title": "库克称自己也在用 ChatGPT，苹果正密切关注其发展",
+    "score": 0.347290805317944,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-07 11:07:26",
+    "uuid": "71009e13-9701-408e-b1ed-b159ed610093"
+  },
+  {
+    "newsArray": [{ "siteName": "动点科技" }, { "siteName": "IT 之家" }],
+    "summary": "苹果公司已经收购了一家位于洛杉矶的 AR（增强现实）创业公司 Mira，该公司为其他公司和美国军方提供头显设备，苹果公司也证实了这一收购。 ...",
+    "id": "8qq2zBfFkoB",
+    "order": 543441,
+    "createdAt": "2023-06-07T03:06:35.830Z",
+    "title": "苹果收购 AR 头显初创公司 Mira",
+    "score": -1,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-07 11:06:35",
+    "uuid": "02b1ff8a-0b93-4bae-bfa1-2891c2ae77a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" },
+      { "siteName": "品玩" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "极客公园" },
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐" },
+      { "siteName": "新浪" },
+      { "siteName": "钛媒体" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "当地时间6月6日，在阿联酋一次会议活动上，“ChatGPT之父”、OpenAI联合创始人兼首席执行官山姆·奥特曼（Sam Altman）表示，目前公司不会上市，希望技术变得更强大的同时，也能保持对技术的完全控制 ...",
+    "id": "8qq2DKJPuPs",
+    "order": 543437,
+    "createdAt": "2023-06-07T03:04:37.520Z",
+    "title": "OpenAI CEO：目前没有上市计划，要保证对AI的决策权",
+    "score": 0.616965088652972,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-07 11:04:37",
+    "uuid": "8702c6c2-6ce5-4faf-929d-5025562434f8"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "品玩" },
       { "siteName": "搜狐" }
@@ -55,6 +123,44 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "多地金融监管部门近期开展调研，对当前经济信贷需求、房地产市场、金融风险变化等情况开展进行调研 ...",
+    "id": "8qpjTJwlskk",
+    "order": 543428,
+    "createdAt": "2023-06-06T16:38:49.297Z",
+    "title": "多地金融监管调研摸底信贷需求，知情人士：监管常规动作",
+    "score": -1,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-07 00:38:49",
+    "uuid": "26627861-d770-4705-820b-78e0f681afe8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "中国证券网" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "6月6日，万科与腾讯达成战略合作，首个落地项目为企业微信。据报道，企业微信将成为万科的移动数字化“底座”，对内横向连通房地产开发、物业服务、长租公寓等8大业务，连接13万员工和数万上下游产业伙伴。 ...",
+    "id": "8qpjA7zjNYd",
+    "order": 543426,
+    "createdAt": "2023-06-06T16:38:48.193Z",
+    "title": "万科与腾讯达成战略合作，首个落地项目为企业微信",
+    "score": -1,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-07 00:38:48",
+    "uuid": "a0d1efd8-e563-4fcc-8773-15070ecd4824"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "钛媒体" },
       { "siteName": "品玩" },
@@ -71,5 +177,23 @@
     "voteDesc": "",
     "date": "2023-06-07 00:38:48",
     "uuid": "999e0ecd-f19d-47e0-b6bf-25e2062af013"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "界面" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "董事会将定期审查2023年股票回购计划，如有必要，将视情况调整其规模和条款。 ...",
+    "id": "8qpjBwnaq9F",
+    "order": 543424,
+    "createdAt": "2023-06-06T16:38:46.785Z",
+    "title": "迅雷宣布2000万美元股票回购计划",
+    "score": -1,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-07 00:38:46",
+    "uuid": "67c651dc-9c48-4903-8fcc-26ef16771194"
   }
 ]
