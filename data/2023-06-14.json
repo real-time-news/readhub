@@ -1,6 +1,180 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "以及发布在谷歌内部网站Memegen上的帖子，谷歌员工越来越担心管理层过分关注考勤记录 ...",
+    "id": "8qBu3sDBhzg",
+    "order": 545645,
+    "createdAt": "2023-06-14T01:08:45.659Z",
+    "title": "谷歌线下复工政策引发员工不满：查我工作，别查我工卡",
+    "score": 0.586868820326774,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 09:08:45",
+    "uuid": "f4ccf50c-e34e-4e6f-bfb0-f989ce3e2f3c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉CEO马斯克表示，由于在电池供应方面受到限制，该公司预计在明年年底前不会开始大规模生产新的电动半挂卡车 ...",
+    "id": "8qBt6MBFvMk",
+    "order": 545642,
+    "createdAt": "2023-06-14T01:02:48.014Z",
+    "title": "特斯拉预计明年年底前不会开始量产电动半挂卡车，因电池供应受限",
+    "score": 0.848198620359164,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 09:02:48",
+    "uuid": "6f55c2cd-adfb-406d-b129-91f31c61fe33"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "亚马逊近日宣布，其将把去年 9 月上线的新兴电商平台 Temu 排除在这个算法之外，理由是 Temu 不符合亚马逊的公平定价政策的严格资格要求 ...",
+    "id": "8qBrITIsTLN",
+    "order": 545639,
+    "createdAt": "2023-06-14T00:58:41.417Z",
+    "title": "亚马逊拒绝与拼多多海外版Temu展开价格战，视后者为可疑市场",
+    "score": 0.43658218029348,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 08:58:41",
+    "uuid": "6e37be80-a26b-45d2-a9e5-c8034a5c5751"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "Meta公司周二宣布，将向研究人员开放一种新的“类人”人工智能模型的部分组件，该模型可以比现有模型更准确地分析和完成未完成的图像 ...",
+    "id": "8qBpzsIO9rF",
+    "order": 545637,
+    "createdAt": "2023-06-14T00:48:54.346Z",
+    "title": "Meta发布“类人”人工智能模型I-JEPA，能根据对世界的理解填补图像缺失",
+    "score": 0.703102937254745,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 08:48:54",
+    "uuid": "763d13bc-cc9f-46e4-9521-4c3557f6a2cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "当地时间周二，由Twitter联合创始人杰克·多西（Jack Dorsey）投资的去中心化社交通讯应用Damus警告称，苹果可能会在14天内从App Store下架该应用 ...",
+    "id": "8qBtRjpi2AR",
+    "order": 545630,
+    "createdAt": "2023-06-14T00:32:44.866Z",
+    "title": "苹果要求社交应用Damus移除比特币支付功能：违反App Store审核指南",
+    "score": 0.66725178370977,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 08:32:44",
+    "uuid": "ad17c95d-78aa-4dec-90ed-9712621abc08"
+  },
+  {
+    "newsArray": [{ "siteName": "搜狐科技" }, { "siteName": "新浪科技" }],
+    "summary": "微软针对Win11的安卓子系统推出了2305.40000.4.0版本更新 ...",
+    "id": "8qBjQzsp3CF",
+    "order": 545629,
+    "createdAt": "2023-06-14T00:32:41.316Z",
+    "title": "Win11打通与安卓共享文件功能：终于开测",
+    "score": 0.467308868625164,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 08:32:41",
+    "uuid": "570dabe6-9605-42f1-ac0b-238b8be3c8ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "AirCard 是支持苹果 Find My 的追踪设备，体积接近于信用卡，可以塞入钱包中用于追踪定位 ...",
+    "id": "8qBlhkVQSmL",
+    "order": 545626,
+    "createdAt": "2023-06-14T00:31:50.644Z",
+    "title": "追踪卡片 AirCard 成功众筹：支持苹果 Find My，可塞入钱包",
+    "score": 0.535220044729691,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 08:31:50",
+    "uuid": "d1848628-29d4-446a-9b9c-11cca62e7b3f"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "罗技今天发布了一项重大消息，公司总裁兼首席执行官布拉肯・达雷尔（Bracken Darrell）将离职 ...",
+    "id": "8qAZF36Rer6",
+    "order": 545625,
+    "createdAt": "2023-06-14T00:31:32.517Z",
+    "title": "罗技 CEO 布拉肯・达雷尔离职",
+    "score": 0.792669125516861,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 08:31:32",
+    "uuid": "eb3020e7-f3c0-4a7a-97fd-3b02fe41fc85"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "魅蓝Blus 2S主动降噪耳机凭借48dB ANC主动降噪、30小时超长续航、12mm分频超动圈、50ms低延时等配置，上市半个月后得到了很多朋友的好评 ...",
+    "id": "8qA6KOjpLw5",
+    "order": 545617,
+    "createdAt": "2023-06-14T00:16:53.871Z",
+    "title": "魅蓝Blus 2S全新配色官宣，48dB ANC主动降噪",
+    "score": 0.593201236319528,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 08:16:53",
+    "uuid": "30e39b98-1591-47e6-afd3-aacca9276995"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿欧" },
+      { "siteName": "创业邦" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "锐泰微（北京）电子有限公司（以下简称“锐泰微”）宣布完成近亿元人民币A轮融资，由蔚来资本和华业天成资本联合领投，数家汽车产业方跟投，老股东光速光合持续加注，云岫资本连续两轮担任独家财务顾问 ...",
+    "id": "8qBs5KBN2YB",
+    "order": 545616,
+    "createdAt": "2023-06-14T00:16:50.273Z",
+    "title": "锐泰微电子完成近亿元A轮融资",
+    "score": 0.822385234677139,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 08:16:50",
+    "uuid": "cb39afbf-04f8-4390-91bf-4954629e5c37"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
