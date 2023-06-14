@@ -1,6 +1,26 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "品玩" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "腾讯 Robotics X 机器人实验室通过引入预训练模型和强化学习技术，可以让机器狗分阶段进行学习，有效的将不同阶段的技能、知识积累并存储下来，让机器人在解决新的复杂任务时，不必重新学习，而是可以复用已经学会的姿态、环境感知、策略规划多个层面的知识，进行「举一反三」，灵活应对复杂环境 ...",
+    "id": "8qBVZyhUdDW",
+    "order": 545907,
+    "createdAt": "2023-06-14T09:16:16.209Z",
+    "title": "腾讯用预训练模型和强化学习提升机器狗控制",
+    "score": 0.402565733410213,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-14 17:16:16",
+    "uuid": "eabc7a77-5eb9-4692-b590-ce781e103867"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪" },
       { "siteName": "界面" },
       { "siteName": "澎湃新闻" },
