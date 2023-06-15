@@ -1,6 +1,46 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Baichuan-7B代码采用Apache-2.0协议，模型权重采用了免费商用协议，只需进行简单登记即可免费商用 ...",
+    "id": "8qDwDiYOpNi",
+    "order": 546230,
+    "createdAt": "2023-06-15T06:02:57.127Z",
+    "title": "百川智能发布中英文大模型：采用开源模式 可免费商用",
+    "score": 0.45765174733292,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-15 14:02:57",
+    "uuid": "b429521b-8e15-45ed-a0d7-fe71d54be523"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "和讯科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "乐视网此前发布公告，因公司2007年至2016年连续十年财务造假等行为，北京证监局对其合计罚款2.4亿元，对贾跃亭合计罚款2.41亿元 ...",
+    "id": "8qDsiQtPZj4",
+    "order": 546227,
+    "createdAt": "2023-06-15T05:59:12.314Z",
+    "title": "贾跃亭未按时履行2.4亿罚款被限消",
+    "score": 0.658782086277644,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-15 13:59:12",
+    "uuid": "8cb9a2f0-d206-4b99-8cda-e8ed52761766"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
       { "siteName": "搜狐科技" },
