@@ -1,6 +1,38 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "奥迪 CEO 马库斯・杜斯曼（Markus Duesmann）昨日在接受路透社采访时表示，奥迪必须加快新车型的研发，以满足全球，特别是中国市场对电动汽车需求的激增 ...",
+    "id": "8qFa2shgkwu",
+    "order": 546742,
+    "createdAt": "2023-06-16T06:02:16.844Z",
+    "title": "奥迪CEO称正密切关注中国市场 将加快电动汽车研发",
+    "score": 0.581809417851634,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 14:02:16",
+    "uuid": "85338011-1466-407a-8ef5-09deb1e53641"
+  },
+  {
+    "newsArray": [{ "siteName": "网易科技" }, { "siteName": "IT 之家" }],
+    "summary": "今年2月，Meta发布了其开源大语言模型的第一个版本LLaMA，这在AI领域掀起了一阵风潮，以帮助研究人员开发替代专有软件的方案，而专有软件已成为ChatGPT创建者OpenAI的主要收入来源 ...",
+    "id": "8qEqNJYZvBQ",
+    "order": 546736,
+    "createdAt": "2023-06-16T05:42:00.093Z",
+    "title": "传Meta考虑放宽开源大模型，允许开发者商用化赚钱",
+    "score": 0.501395748428433,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 13:42:00",
+    "uuid": "96e49f11-2fe1-4a83-9b86-a6fb1c5b9615"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "新浪" },
       { "siteName": "搜狐" }
