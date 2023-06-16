@@ -1,6 +1,102 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "LeCun认为：“这些系统充满了局限性，它们对现实世界没有任何理解，因为它们纯粹是由大量文本内容训练出来的” ...",
+    "id": "8qEwMEkt9Mv",
+    "order": 546573,
+    "createdAt": "2023-06-16T00:31:05.548Z",
+    "title": "Meta首席人工智能科学家：ChatGPT背后的生成式人工智能技术拥有太多的局限性",
+    "score": 0.426296727653564,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 08:31:05",
+    "uuid": "faa24cf3-fa8d-4ef1-83cc-7fe4ee034aaa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果表示开启该模式之后，iPhone 相机可录制浅景深视频并柔顺地转换焦点，从而让视频呈现出电影般的质感 ...",
+    "id": "8qEGyp4js0a",
+    "order": 546568,
+    "createdAt": "2023-06-16T00:18:00.354Z",
+    "title": "苹果 iOS 17 向第三方应用开放 Cinematic API，可拍出电影级质感视频",
+    "score": 0.625557732440879,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 08:18:00",
+    "uuid": "0e8a4bdb-dd49-4692-8167-04694b6c8a5c"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "苹果表示，锁定模式提供了“极端”的安全级别，对应用程序，网站和功能有严格的限制 ...",
+    "id": "8qEvPjWWwFp",
+    "order": 546567,
+    "createdAt": "2023-06-16T00:17:41.586Z",
+    "title": "苹果 watchOS 10 将为 Apple Watch 带来锁定模式",
+    "score": 0.552247703437168,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 08:17:41",
+    "uuid": "fd8140ef-becb-4b8e-8b0b-9506f22a6802"
+  },
+  {
+    "newsArray": [{ "siteName": "快科技" }, { "siteName": "新浪科技" }],
+    "summary": "经典游戏《暗黑破坏神4》成功登顶英国实体游戏销量榜，击败了任天堂的《塞尔达传说：王国之泪》夺得冠军 ...",
+    "id": "8qC7kKr30T2",
+    "order": 546566,
+    "createdAt": "2023-06-16T00:17:37.809Z",
+    "title": "《暗黑破坏神4》力压《塞尔达》登英国销量榜冠军",
+    "score": 0.456755114547186,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 08:17:37",
+    "uuid": "66cb3068-4afb-444b-b6f7-1329667788b2"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "苹果Apple Watch 此前一直有查找 iPhone 的功能，用户可以点击表盘的电话图标（或者长按）来激活 iPhone 的铃声，从而找到附近的 iPhone 手机 ...",
+    "id": "8qEpo66FKew",
+    "order": 546565,
+    "createdAt": "2023-06-16T00:17:16.050Z",
+    "title": "苹果 iOS 17 可让 iPhone 激活 Apple Watch 铃声反向查找手表",
+    "score": 0.638986308423735,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 08:17:16",
+    "uuid": "117ac968-2e7f-4a72-a985-26129a95f920"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "IT之家援引苹果专利说明，帮助旅行者进行预订、登记入住、订购客房服务、控制房间设置、使用礼宾服务、提供就近景点和商场信息、退房以及相关安排（订购出租车、预订租车或办理登机手续）等等 ...",
+    "id": "8qEK79jx2J6",
+    "order": 546562,
+    "createdAt": "2023-06-16T00:16:28.135Z",
+    "title": "苹果 Hotel 应用专利：提供接车、登记、入住、退房一条龙服务",
+    "score": 0.778120794129575,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 08:16:28",
+    "uuid": "059069e1-9aa4-45d3-a78c-cf525631bfa1"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
       { "siteName": "钛媒体" }
@@ -34,5 +130,44 @@
     "voteDesc": "",
     "date": "2023-06-16 07:17:31",
     "uuid": "f7ed580b-2e41-4122-9908-0e02d4142902"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果在 iOS 17 系统中引入了一项新的调整，用户在重置密码 72 小时之内，如果忘记了新设置的密码，可以使用旧密码进行再次重置 ...",
+    "id": "8qEgORxqthm",
+    "order": 546540,
+    "createdAt": "2023-06-15T22:38:16.055Z",
+    "title": "苹果iOS17新特性：重置密码72小时内可用旧密码再次重置",
+    "score": 0.564482849891275,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 06:38:16",
+    "uuid": "598b85a9-757a-4ccf-b551-e857c595d58a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "“梅赛德斯”语音助手提问时，ChatGPT将会负责回答问题，ChatGPT的到来将会极大增强这一汽车语音助手的功能 ...",
+    "id": "8qEg4Vv8SX2",
+    "order": 546518,
+    "createdAt": "2023-06-15T19:18:02.289Z",
+    "title": "微软和梅赛德斯奔驰宣布合作：ChatGPT将进入车载系统",
+    "score": 0.736623570737014,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-16 03:18:02",
+    "uuid": "fd739850-a876-4aca-8e0f-0f3780a5f836"
   }
 ]
