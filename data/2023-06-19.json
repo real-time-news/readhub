@@ -1,6 +1,39 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "雷科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "在AIoT产品方面，小米在此次618期间包揽了78项第一名成绩 ...",
+    "id": "8qK2F6w8Kt5",
+    "order": 547580,
+    "createdAt": "2023-06-19T07:01:50.119Z",
+    "title": "小米618全渠道销售额194亿，AIoT包揽全平台78项第一",
+    "score": 0.513992336655727,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-19 15:01:50",
+    "uuid": "aa475659-3961-4c59-a54b-9973fe1275ac"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "凤凰科技" }],
+    "summary": "一位顶尖的特斯拉分析师认为，其价值可能超过 1000 亿美元（IT之家备注：当前约 7130 亿元人民币） ...",
+    "id": "8qJ2aBOx2Nq",
+    "order": 547578,
+    "createdAt": "2023-06-19T07:01:20.254Z",
+    "title": "分析师预测特斯拉超级充电网络价值可达7130亿元",
+    "score": 0.470768787916457,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-19 15:01:20",
+    "uuid": "ceb97dab-4f17-4d21-86a5-77a5b0e9af1d"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "投资界" },
       { "siteName": "钛媒体" },
