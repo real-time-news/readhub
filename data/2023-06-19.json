@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "搜狐" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "美国最大报业集团甘耐特（Gannett）计划在其发布系统中加入生成式人工智能（AI），但会让记者掌握内容的审核权与最终决定权，以防止人工智能在没有监督的情况下自动发布文章 ...",
+    "id": "8qKndkUk5wy",
+    "order": 547760,
+    "createdAt": "2023-06-19T13:45:53.420Z",
+    "title": "《今日美国》母集团计划采用生成式AI发布新闻：仍需人工审核",
+    "score": 0.575768920825932,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-19 21:45:53",
+    "uuid": "c0aafc01-4c4b-415a-a573-350c46972947"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "新浪" },
       { "siteName": "钛媒体" }
