@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "苹果在机器学习领域的关键人物阿里・法哈迪（Ali Farhadi）宣布离职，担任艾伦人工智能研究所（Allen Institute of Artificial Intelligence，AI2）的首席执行官 ...",
+    "id": "8qN0XgEGtfr",
+    "order": 548313,
+    "createdAt": "2023-06-21T00:45:33.290Z",
+    "title": "苹果机器学习关键人物 Ali Farhadi 离职，出任 AI2 机构 CEO",
+    "score": 0.825906888548414,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-21 08:45:33",
+    "uuid": "1f1f9cad-6adc-4380-b331-11ddaae8c7fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "21经济网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "极兔融资额度超50亿美元，先后引入腾讯、高瓴、普洛斯(GLP)、红杉资本等的产业资本、 PE 以及国家队 ...",
+    "id": "8qN1aOGQkpe",
+    "order": 548312,
+    "createdAt": "2023-06-21T00:30:36.836Z",
+    "title": "解密极兔资本局：顺丰或以折扣价入股",
+    "score": 0.627248362077885,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-21 08:30:36",
+    "uuid": "98e06d28-884a-4946-9152-2c7f7e4725b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "新芯片属于思科SiliconOne系列，6大主要云计算提供商有5家已经在测试芯片，但思科没有给出企业具体名称 ...",
+    "id": "8qN35Yge02g",
+    "order": 548304,
+    "createdAt": "2023-06-21T00:17:11.385Z",
+    "title": "思科推出新AI网络芯片 与博通Marvell正面竞争",
+    "score": 0.746239337756774,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-21 08:17:11",
+    "uuid": "cbe9d5f7-4c83-424c-83bc-51d503577f02"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果iOS 17 进一步增强了“看图查询”（Visual LOOK Up）功能，可以帮助用户在日常生活场景下，更轻松地识别照片中的物体 ...",
+    "id": "8qN1FG8gX3o",
+    "order": 548303,
+    "createdAt": "2023-06-21T00:17:08.120Z",
+    "title": "苹果 iOS 17 升级“看图查询”功能，可识别仪表盘图标告诉你跳灯原因",
+    "score": 0.712270721383078,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-21 08:17:08",
+    "uuid": "b3253e5d-bb76-41fd-a07a-5db0ae87b50c"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "任天堂宣布，将于 6 月 21 日晚 22:00 举行最新一期 NintendoDirect 直播，大约 40 分钟的信息，主要集中在今年推出的 Nintendo Switch 游戏，包括《皮克敏 4》 等一些将于 2023 年内发售游戏的最新细节 ...",
+    "id": "8qMquUcHoqt",
+    "order": 548302,
+    "createdAt": "2023-06-21T00:16:48.365Z",
+    "title": "任天堂宣布下一届 Nintendo Direct 直面会将于周三举行",
+    "score": 0.815071909527983,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-21 08:16:48",
+    "uuid": "667931d9-5128-49e5-a31a-0765bd665bd6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果宣布自今年 7 月开始，调整 App Store 上的 Today 标签页，为广告采用更紧凑的外观，不再需要滚动就能完全可见 ...",
+    "id": "8qMYLiV2JKR",
+    "order": 548301,
+    "createdAt": "2023-06-21T00:16:38.170Z",
+    "title": "苹果宣布下月调整 Today 标签页广告内容",
+    "score": 0.834764634394068,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-21 08:16:38",
+    "uuid": "b716acf6-8e86-49b3-b369-67c5b66f1d63"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国证券网" },
       { "siteName": "新浪" },
       { "siteName": "澎湃新闻" }
@@ -16,6 +121,24 @@
     "voteDesc": "",
     "date": "2023-06-21 08:15:57",
     "uuid": "142d493a-5960-4f7e-9b3b-ded0a3f79dfa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "根据美国商标和专利局（USPTO）公示的清单，苹果近日获得了一项关于 Apple Car 的技术专利，展示了配有灯光指示的安全带扣具 ...",
+    "id": "8qMe6Kaqte8",
+    "order": 548299,
+    "createdAt": "2023-06-21T00:15:40.439Z",
+    "title": "苹果汽车新专利：安全带扣具配有指示灯",
+    "score": 0.743260524305396,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-21 08:15:40",
+    "uuid": "6b452379-8cba-4860-a648-d117463b8e70"
   },
   {
     "newsArray": [
