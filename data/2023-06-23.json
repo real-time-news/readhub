@@ -1,6 +1,116 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "国泰航空6月23日在港交所公告，国泰航空于5月份载客141.79万人次，较2022年同月增加2345% ...",
+    "id": "8qQp7G2X1Hg",
+    "order": 548924,
+    "createdAt": "2023-06-23T01:46:05.376Z",
+    "title": "国泰航空：前5月公司载客人次同比增3281%，预计集团仍上半年录得综合盈利",
+    "score": 0.781526334702685,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-23 09:46:05",
+    "uuid": "1e21a57c-7327-444a-81f2-9ee6ad84cf15"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "要深刻汲取丰台长峰医院“4·18”火灾和近期一些地区发生的重特大事故教训，严格执行安全生产和消防工作硬措施，狠抓重点行业、关键领域专项整治 ...",
+    "id": "8qQtra4vWZd",
+    "order": 548918,
+    "createdAt": "2023-06-23T01:18:02.114Z",
+    "title": "北京：立刻开展燃气领域隐患排查整治，不留死角、不留空白",
+    "score": 0.712785967222648,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-23 09:18:02",
+    "uuid": "83fc2dde-cd4d-4a32-a78e-d2ebb587db17"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "当地时间6月22日，美国制造业巨头3M公司宣布，他们已经达成一项价值103亿美元的初步和解协议，以解决与“永久化学物质”（PFAS）有关的水污染索赔问题 ...",
+    "id": "8qQkQEXM1D1",
+    "order": 548917,
+    "createdAt": "2023-06-23T01:17:58.758Z",
+    "title": "涉嫌污染公共供水系统，美国3M公司将赔偿103亿美元",
+    "score": 0.803942413187225,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-23 09:17:58",
+    "uuid": "773339f8-f29a-45fe-a26d-9de11ea86293"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "在发给员工的备忘录中，该公司首席运营官Rob Goldstein和全球人力资源主管Caroline Heller表示，这一决定是在最近的一次业务评估之后做出的 ...",
+    "id": "8qQmYf9P3n1",
+    "order": 548914,
+    "createdAt": "2023-06-23T01:15:50.357Z",
+    "title": "贝莱德宣布裁员，影响不到1%的员工",
+    "score": 0.866781066838054,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-23 09:15:50",
+    "uuid": "9b796ae4-204e-4e9e-8532-4ab206cc49b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "最新的 Windows 版网易云音乐客户端版本号为 3.0.1.201499，提供 32 位与 64 位版本可选 ...",
+    "id": "8qPrBb9xqwX",
+    "order": 548909,
+    "createdAt": "2023-06-23T01:01:24.819Z",
+    "title": "全新 Windows 版网易云音乐上线，基于 Electron 开发",
+    "score": 0.665308208003617,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-23 09:01:24",
+    "uuid": "d2d86e30-a76a-4e80-86e7-f3356874a7ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "用户在升级到 iOS 17 beta 2 更新之后，可以打开设置应用下的辅助功能选项，选择触控下的“Haptic Touch”功能，可以看到“FAST”、“Default”和“Slow”三个选项 ...",
+    "id": "8qQhhdJb1wD",
+    "order": 548907,
+    "createdAt": "2023-06-23T00:45:44.252Z",
+    "title": "“Fast”体验接近3D Touch 苹果iOS 17 Beta 2增强触觉反馈",
+    "score": 0.614067357314366,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-23 08:45:44",
+    "uuid": "0856cfc7-dae9-403e-ac52-381c705c0d95"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" }
@@ -16,5 +126,62 @@
     "voteDesc": "",
     "date": "2023-06-23 08:01:47",
     "uuid": "71bbdb2c-7ee8-46df-b55b-946fd219489a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "美国能源部在当地时间周四表示，计划向福特汽车和韩国电池制造商 SK On 的合资企业 BlueOval SK 提供高达 92 亿美元（IT之家备注：当前约 660.56 亿元人民币）的贷款，以帮助其在田纳西州和肯塔基州新建 3 座电池工厂，每年能够产出超过 120 千瓦时的电池 ...",
+    "id": "8qPGC5Y4SUK",
+    "order": 548904,
+    "createdAt": "2023-06-22T23:55:39.803Z",
+    "title": "福特SK On合资企业将获得660亿元美国政府贷款 用于新建电池厂",
+    "score": 0.813260134846693,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-23 07:55:39",
+    "uuid": "46fdeda7-244c-4e6b-830a-20228ecff41d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "国外网友深入挖掘之后，发现该系统内置“旅行模式”，增强佩戴者在飞机上的使用体验 ...",
+    "id": "8qQ7Yk1lBlX",
+    "order": 548897,
+    "createdAt": "2023-06-22T22:30:55.736Z",
+    "title": "关闭或限制部分功能以改善飞机上使用体验 苹果Vision Pro头显内置“旅行模式”",
+    "score": 0.740982835119715,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-23 06:30:55",
+    "uuid": "80af8294-b561-4690-a5fe-da6a95d3dbb3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "根据就业门户网站Indeed的数据，上个月，美国生成式AI相关的招聘信息增加了约20%，更是达到了2021年的两倍多，因为各大公司都希望利用这项技术找到自己下一个增长点，突显了ChatGPT的巨大成功引发的人工智能热潮 ...",
+    "id": "8qPSJ1U48lo",
+    "order": 548894,
+    "createdAt": "2023-06-22T20:45:37.929Z",
+    "title": "美国5月生成式AI招聘岗位增加约20%，各大公司正探索新增长点",
+    "score": 0.774224942759507,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-23 04:45:37",
+    "uuid": "cfb019b3-c1a0-4fb1-8aa7-87ac198ccdba"
   }
 ]
