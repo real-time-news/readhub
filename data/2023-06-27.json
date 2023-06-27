@@ -1,6 +1,44 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "搜狐" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "新闻网站评级工具NewsGuard发布2023年6月的错误信息监控结果，称141个品牌正在向低质量的人工智能（AI）生成的网站提供广告收入，来支持这些不可靠网站的发展 ...",
+    "id": "8qXiYgzBHDH",
+    "order": 550275,
+    "createdAt": "2023-06-27T04:22:11.207Z",
+    "title": "人工智能正制造网络垃圾：低质量AI生成网站获广告支撑迅猛发展",
+    "score": 0.623542156910729,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 12:22:11",
+    "uuid": "1c6e407d-baff-46b5-a5c5-8215bd058c5c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "近日在大众汽车投资者报告会上，大众汽车CEO奥博穆披露了旗下最新纯电平台SSP（Scalable Systems Platform，可扩展系统平台）的新进展：将于2026年推出 ...",
+    "id": "8qXiBoYzkoG",
+    "order": 550273,
+    "createdAt": "2023-06-27T04:18:52.831Z",
+    "title": "大众最强纯电平台曝光：动力最大超1700马力 10分钟充电80%",
+    "score": 0.56912077109248,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 12:18:52",
+    "uuid": "aafbf67c-ccaa-432f-8d38-cf51da45fa36"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
       { "siteName": "中国证券网" },
