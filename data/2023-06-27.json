@@ -1,6 +1,199 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "和讯汽车" },
+      { "siteName": "新浪" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "预计此次裁员将影响到福特的所有三个业务部门：传统的内燃机业务Ford Blue、电动汽车单元Model E，以及车队服务业务Ford Pro ...",
+    "id": "8qX73YX0scB",
+    "order": 550170,
+    "createdAt": "2023-06-27T02:02:22.405Z",
+    "title": "福特证实将在本周进行大裁员 三大业务部门全部被波及",
+    "score": 0.816042974236228,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 10:02:22",
+    "uuid": "0488787e-a2e7-4c3c-9fa3-1354e86faf39"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "和讯科技" }
+    ],
+    "summary": "该公司表示，在某些情况下，团队可以根据工作量和其他因素等做出改变 ...",
+    "id": "8qX0AceLd3P",
+    "order": 550169,
+    "createdAt": "2023-06-27T02:02:15.327Z",
+    "title": "互联网券商Robinhood宣布将裁减全职员工：因市场需求放缓",
+    "score": 0.842682475793793,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 10:02:15",
+    "uuid": "c2b30bf6-6a24-4528-a9e9-2ca4089d6508"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "该收购之后，MosaicML 将成为 Databricks Lakehouse 平台的一部分，MosaicML 的整个团队和技术都将纳入Databricks旗下，为企业提供统一的平台来管理数据资产，并且能够使用自己的专有数据来构建、拥有和保护自己的生成式 AI 模型 ...",
+    "id": "8qX4SBb1RpK",
+    "order": 550155,
+    "createdAt": "2023-06-27T01:37:37.886Z",
+    "title": "AIGC领域最大收购：Databricks 13亿美元买下MosaicML，成立仅2年员工60人",
+    "score": 0.424662132622756,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 09:37:37",
+    "uuid": "7582e670-bdd6-4049-92b6-0972faac7c86"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "但谷歌员工称，“滑雪镜”其实只是另外一个与三星合作开发的增强现实项目的基础，而Iris则更加接近真正的眼镜 ...",
+    "id": "8qX7tJsJ8uH",
+    "order": 550151,
+    "createdAt": "2023-06-27T01:30:33.512Z",
+    "title": "谷歌取消Iris增强现实眼镜项目：重点转向AR软件",
+    "score": 0.862284864626861,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 09:30:33",
+    "uuid": "d0cb5c38-2f6d-446b-9abd-44dcf410fef8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "中信建投研报指出，整体来看，此次全国中成药集采基本沿用了湖北省联盟首次中成药集采的规则，但进一步完善了规则设计，中选规则的设定也较为灵活，且目录中独家品种有限，平均降幅符合预期 ...",
+    "id": "8qVNIhtkskC",
+    "order": 550148,
+    "createdAt": "2023-06-27T01:17:44.355Z",
+    "title": "悦康药业盘中跌停，中药股普跌，中成药集采对企业影响几何",
+    "score": 0.458746295559992,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 09:17:44",
+    "uuid": "52df5551-ec64-439b-b08e-efc10e6b4650"
+  },
+  {
+    "newsArray": [
+      { "siteName": "动脉网" },
+      { "siteName": "动脉网" },
+      { "siteName": "投资界" },
+      { "siteName": "新芽" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "来恩生物于2015年从新加坡科技研究局(A*STAR)孵化而出，首款产品为First-in-Class HBV特异性TCR-T细胞疗法，并通过mRNA技术编码TCR，用于治疗肝细胞癌，已经展现出良好的安全性和显著疗效 ...",
+    "id": "8qX1R2vMbp3",
+    "order": 550144,
+    "createdAt": "2023-06-27T01:16:44.206Z",
+    "title": "来恩生物宣布完成超3亿元B2轮融资",
+    "score": 0.655812803420797,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 09:16:44",
+    "uuid": "7cc68ca1-dfed-4cde-b833-52ffd3d0a24f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "Alphabet股票评级周三被瑞银从“买入”下调至“中性”，受此影响，该股周三下跌3.3% ...",
+    "id": "8qWqblOYNLA",
+    "order": 550143,
+    "createdAt": "2023-06-27T01:16:37.174Z",
+    "title": "瑞银下调Alphabet股票评级：华尔街对科技大盘股热情消退",
+    "score": 0.419862505317738,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 09:16:37",
+    "uuid": "85899ed1-7ce3-4c3a-bc19-21d6766ac470"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "快科技" },
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "紫光集团任命集团执行副总裁马道杰任紫光展锐董事并选派其为紫光展锐董事长 ...",
+    "id": "8qX4j9lw61O",
+    "order": 550142,
+    "createdAt": "2023-06-27T01:16:26.669Z",
+    "title": "紫光展锐重要人事变更：马道杰被任命为董事长",
+    "score": 0.778842784274045,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 09:16:26",
+    "uuid": "f67f9032-3631-4dca-bc19-f213bb725c7d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "当地时间周一，在一起专利侵权诉讼中，美国最高法院拒绝听取苹果和博通对加州理工学院数据传输专利有效性的挑战 ...",
+    "id": "8qX3AuehRTx",
+    "order": 550136,
+    "createdAt": "2023-06-27T01:07:19.917Z",
+    "title": "苹果和博通挑战加州理工学院专利有效性 遭美国最高法院驳回",
+    "score": 0.87945577453449,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 09:07:19",
+    "uuid": "6b578e38-c4a6-4132-b0df-8a98b2060717"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" },
+      { "siteName": "和讯科技" }
+    ],
+    "summary": "Genius是全世界最大的歌曲歌词网站，该公司曾表示，如果谷歌在这一诉讼中获胜，将会鼓励美国的科技巨头们从其他依靠用户聚合内容的网站中盗窃内容，其中包括网络论坛Reddit、个人对个人电商网站eBay，以及免费的维基百科全书 ...",
+    "id": "8qWFYO9i48a",
+    "order": 550130,
+    "createdAt": "2023-06-27T00:47:41.565Z",
+    "title": "谷歌被控盗用歌词网站内容 美最高法院驳回原告上诉",
+    "score": 0.664192833819357,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-27 08:47:41",
+    "uuid": "ddb154b4-4b3b-41e9-adde-108be5779c30"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "36Kr" },
       { "siteName": "网易科技" }
