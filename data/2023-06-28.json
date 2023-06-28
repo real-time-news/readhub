@@ -1,6 +1,170 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "上个月，首席执行官埃隆・马斯克宣布这一策略将改变，表示特斯拉将“尝试一点广告”，看看效果如何 ...",
+    "id": "8qYO0i6709H",
+    "order": 550710,
+    "createdAt": "2023-06-28T02:33:01.111Z",
+    "title": "特斯拉改变策略 首次尝试投放广告",
+    "score": 0.657915047251425,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-28 10:33:01",
+    "uuid": "b307c0d1-a48b-4226-8450-2c96ce2e498f"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "品玩" }],
+    "summary": "微软研究院今日透露，过去三年来，该公司在开发一种使用光子和电子而不是晶体管来处理数据的计算机 ...",
+    "id": "8qYdYOOgoQI",
+    "order": 550697,
+    "createdAt": "2023-06-28T02:14:39.615Z",
+    "title": "微软推出模拟光学计算机，利用光子和电子来处理数据",
+    "score": 0.555576779897714,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-28 10:14:39",
+    "uuid": "58a069d8-7d2d-43f6-b391-d29cd60bd420"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "据中指研究院统计，2023年以来，已有百余地方出台房地产调控政策超300次，其中济南、长沙、厦门等近20个城市放松限购政策，部分热点二线城市如杭州已多次出台政策优化限购措施 ...",
+    "id": "8qYPgNxjvxZ",
+    "order": 550693,
+    "createdAt": "2023-06-28T02:04:55.592Z",
+    "title": "中国近20城放松住房限购，限制性购房政策有望进一步松动",
+    "score": 0.663406230024812,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-28 10:04:55",
+    "uuid": "64f8ce08-d8ac-44a2-b92e-6ca83a7b4290"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪" },
+      { "siteName": "中证网" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "中国证券网" },
+      { "siteName": "界面" },
+      { "siteName": "新浪" },
+      { "siteName": "钛媒体" },
+      { "siteName": "和讯汽车" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "新浪" },
+      { "siteName": "中国证券网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "1—5月份，全国规模以上工业企业实现利润总额26688.9亿元，同比下降18.8%，降幅比1—4月份收窄1.8个百分点（按可比口径计算，详见附注二） ...",
+    "id": "8qYO4Xb8Zdq",
+    "order": 550680,
+    "createdAt": "2023-06-28T01:46:18.660Z",
+    "title": "国家统计局：前5月全国规模以上工业企业利润下降18.8%",
+    "score": 0.49295414672651,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-28 09:46:18",
+    "uuid": "61631d50-7094-47e9-bbfe-a9cb8667e843"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "在美国数据平台Snowflake的开发者大会上，英伟达创始人黄仁勋就“如何把生成式AI带给企业用户”展开了探讨，分享了自己的看法 ...",
+    "id": "8qYJMsIPH79",
+    "order": 550674,
+    "createdAt": "2023-06-28T01:33:13.312Z",
+    "title": "英伟达黄仁勋：计算已经从根本上改变 再买一大堆CPU没意义",
+    "score": 0.422463564102402,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-28 09:33:13",
+    "uuid": "950f16d1-1e6f-4f70-81fc-0606b5799aa1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "品玩" },
+      { "siteName": "新浪科技" },
+      { "siteName": "牛透社" },
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "科大讯飞在6月27日接受调研时表示，讯飞星火认知大模型通过赋能现有产品，如学习机、办公本、听见等，提升现有产品的竞争力、销量及渗透率从而实现商业落地 ...",
+    "id": "8qYGRDICkgs",
+    "order": 550673,
+    "createdAt": "2023-06-28T01:32:48.450Z",
+    "title": "科大讯飞：8月15日发布会将突破代码能力后，将提供业界领先的私有化代码能力平台",
+    "score": 0.682866842275488,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-28 09:32:48",
+    "uuid": "f4cc318c-7228-42db-bc88-e14b5501d2b3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "苹果公司的股价在开盘时为 185.89 美元，最高达到 188.39 美元，最终以 188.06 美元收盘，这意味着苹果公司的市值已经达到了 2.958 万亿美元（IT之家备注：当前约 21.42 万亿元人民币） ...",
+    "id": "8qYCzzSCSqM",
+    "order": 550672,
+    "createdAt": "2023-06-28T01:31:24.426Z",
+    "title": "苹果公司股价创新高，3 万亿美元市值触手可及",
+    "score": 0.46636074212328,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-28 09:31:24",
+    "uuid": "19dc13c8-a06d-4a66-bc1b-f59d6041a79d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "根据三星代工（Samsung Foundry）今天在年度三星代工论坛（SFF 2023）上公布的最新工艺技术路线图，该公司计划在 2025 年推出 2 纳米级的 SF2 工艺，2027 年推出 1.4 纳米级的 SF1.4 工艺 ...",
+    "id": "8qYKq4QKCWG",
+    "order": 550671,
+    "createdAt": "2023-06-28T01:25:17.955Z",
+    "title": "三星更新工艺技术路线图：2025 年 2nm，2027 年 1.4nm",
+    "score": 0.544815031240802,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-06-28 09:25:17",
+    "uuid": "cab6e867-b8ce-4a6f-82a2-68377532106f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "36Kr" }
