@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "金山办公与英伟达团队合作，通过英伟达 Tensor Core GPU、TensorRT 提升图像文档识别与理解的推理效率 ...",
+    "id": "8r7yzLMAhXw",
+    "order": 552690,
+    "createdAt": "2023-07-03T08:56:20.270Z",
+    "title": "金山办公宣布与英伟达团队合作，加速 WPS AI 服务",
+    "score": 0.811938871236403,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-03 16:56:20",
+    "uuid": "70c957f1-f4c0-4c70-9a9c-3c3c215f72c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "报道援引丰田年报称，前任首席执行官丰田章男截止2023年3月底的财年薪酬为9.99亿日元（约合 690万美元，5000万人民币），高于此前2021财年创下的6.85亿日元的纪录，增长了46% ...",
+    "id": "8r4mTZliigw",
+    "order": 552685,
+    "createdAt": "2023-07-03T08:47:14.206Z",
+    "title": "丰田章男年薪达9.99亿日元，创丰田汽车历史之最",
+    "score": 0.697567709339343,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-03 16:47:14",
+    "uuid": "3fe16c64-8201-45eb-b869-8d6abd304ca9"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "网易科技" },
       { "siteName": "品玩" },
