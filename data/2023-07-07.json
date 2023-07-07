@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "大模型专题组将承担大模型标准化制订工作，目的是推动大模型技术和标准化的实践结合，促进人工智能产业健康发展。 ...",
+    "id": "8rdKn9pF1zB",
+    "order": 554450,
+    "createdAt": "2023-07-07T02:01:27.976Z",
+    "title": "百度宣布联合担任国家大模型标准化专题组组长单位",
+    "score": 0.770050128968293,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-07 10:01:27",
+    "uuid": "53ebce89-21db-426e-9e48-1375617bf892"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "问询内容涉及利润的大幅下滑、公司的债务逾期、控股股东的减持情况等 ...",
+    "id": "8rcI02RGpvC",
+    "order": 554444,
+    "createdAt": "2023-07-07T01:48:54.902Z",
+    "title": "中南建设因年报遭问询，要求说明公司有息债务及逾期情况等",
+    "score": 0.722114060378765,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-07 09:48:54",
+    "uuid": "2995a632-5e9f-4098-8651-7efe9afe1123"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "书生·多模态整合了语言、图像、视频等多种模态技术，实现通过自然语言定义视觉任务，并具有多模态交互和跨模态生成能力 ...",
+    "id": "8rcNmOWKuNS",
+    "order": 554443,
+    "createdAt": "2023-07-07T01:47:52.547Z",
+    "title": "商汤科技宣布书生通用大模型体系发布",
+    "score": 0.557426631418959,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-07 09:47:52",
+    "uuid": "441de4e0-156b-475d-a679-b261d249d41e"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }, { "siteName": "TechWeb" }],
+    "summary": "亚马逊CEO安迪·贾西（Andy Jassy）公司已经在人工智能大战中落后 ...",
+    "id": "8rdzf0EzeP1",
+    "order": 554428,
+    "createdAt": "2023-07-07T01:12:13.377Z",
+    "title": "亚马逊CEO：我们的AI很强，没有落后于微软和谷歌",
+    "score": 0.565136549702759,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-07 09:12:13",
+    "uuid": "e88daa12-387d-4548-b71d-384eb0af3228"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "36Kr" },
       { "siteName": "界面" }
