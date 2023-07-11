@@ -1,6 +1,135 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "在过去八个交易日中，Rivian股价已经暴涨了83%，当地时间周一，Rivian股票期权合约交易数量达到了83.1万宗，这是其平日期权交易量的两倍之多 ...",
+    "id": "8rkisHOXEkT",
+    "order": 555712,
+    "createdAt": "2023-07-11T01:15:57.865Z",
+    "title": "期权交易让Rivian股价坐上火箭：八天上涨83%",
+    "score": 0.572746816859543,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-11 09:15:57",
+    "uuid": "6a2f37cf-0d54-49a0-9cf6-8dfbf41d04d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "此前纳斯达克证券交易所表示，将重新平衡其纳斯达克100指数，以解决该指数\"过度集中\"的问题 ...",
+    "id": "8rkgVqGdh3Q",
+    "order": 555711,
+    "createdAt": "2023-07-11T01:15:55.734Z",
+    "title": "纳斯达克100指数将重新平衡 苹果、微软等市场头部企业股价应声下跌",
+    "score": 0.803370751179736,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-11 09:15:55",
+    "uuid": "3718a319-ee0a-4481-9de1-079a32b85fa3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "7月9日提交的一份法庭文件显示，美国硅谷银行的母公司硅谷银行金融集团对联邦机构美国联邦储蓄保险公司提起诉讼，要求返还被扣押的19.3亿美元 ...",
+    "id": "8riPANbmNqh",
+    "order": 555704,
+    "createdAt": "2023-07-11T01:01:32.556Z",
+    "title": "美国硅谷银行母公司起诉联邦机构，欲追回被扣押的19.3亿美元",
+    "score": 0.711954589494892,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-11 09:01:32",
+    "uuid": "185ef2c2-a680-4555-bb1f-0b9c4ca61a4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "谷歌增强现实（AR）操作系统团队负责人马克·卢科夫斯基（Mark Lucovsky）今日宣布离职，主要因为谷歌在AR方面的承诺飘忽不定 ...",
+    "id": "8rk359KH5em",
+    "order": 555699,
+    "createdAt": "2023-07-11T00:59:05.566Z",
+    "title": "谷歌AR系统负责人离职：因开发方向飘忽不定",
+    "score": 0.545196771359322,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-11 08:59:05",
+    "uuid": "6958f93a-031b-42b8-9d35-5a39ce039d1a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "近年来，以山东、江西、四川等为代表的地方国资在A股市场掀起“买壳”热潮，连番收购上市公司平台 ...",
+    "id": "8rkgtTCiBQ6",
+    "order": 555692,
+    "createdAt": "2023-07-11T00:33:34.404Z",
+    "title": "地方国资A股并购的“潍坊答卷”",
+    "score": 0.539688791338766,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-11 08:33:34",
+    "uuid": "59583284-351d-4f93-a3d8-341de5a41d30"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "据世界气象组织最新预测，厄尔尼诺现象在下半年持续的可能性达到90% ...",
+    "id": "8rkfk5lr1Ja",
+    "order": 555681,
+    "createdAt": "2023-07-11T00:16:02.339Z",
+    "title": "电力板块有望迎来价值重估",
+    "score": 0.547587969723788,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-11 08:16:02",
+    "uuid": "13da293c-1b47-497d-804b-14effde9fcb7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "Uber首席财务官纳尔逊·蔡（Nelson Chai）准备离职，这将会是2019年Uber上市以来该公司最重要的离职事件 ...",
+    "id": "8rkff9umM4Y",
+    "order": 555678,
+    "createdAt": "2023-07-11T00:03:28.875Z",
+    "title": "消息称Uber CFO将离职 ：成公司IPO以来离职级别最高的高管",
+    "score": 0.886797814363739,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-11 08:03:28",
+    "uuid": "bdda7068-3ad3-4eb8-b566-61ac4ccdf406"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国证券网" },
       { "siteName": "钛媒体" },
       { "siteName": "36Kr" }
@@ -30,5 +159,24 @@
     "voteDesc": "",
     "date": "2023-07-11 07:15:41",
     "uuid": "a12bed6b-f830-4b29-82e9-14d7f285c168"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "不安装完整系统更新的情况下，修复 iOS 和 macOS 系统上的安全漏洞 ...",
+    "id": "8rjOPAhNiOz",
+    "order": 555664,
+    "createdAt": "2023-07-10T22:39:07.931Z",
+    "title": "苹果向 iOS / iPadOS 16.5.1 和 macOS 13.4.1 发布安全响应更新",
+    "score": 0.575815341386138,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-11 06:39:07",
+    "uuid": "8f2e715c-d660-47d3-84c6-87a2bd84d324"
   }
 ]
