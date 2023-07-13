@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "闻泰科技为荣耀手表4提供一站式ODM解决方案，作为中国最大的ODM之一，闻泰科技的营收主要来自产品集成业务和半导体芯片业务，但随着全球智能手机出货量下行，其手机ODM业务也遭遇挑战。闻泰科技将业务战略调整为多元化发展格局,包括在手机、平板、笔电、AIoT、汽车电子、服务器等领域齐头并进。 ...",
+    "id": "8ro2xVtyxwd",
+    "order": 556965,
+    "createdAt": "2023-07-13T07:57:58.493Z",
+    "title": "闻泰科技为荣耀手表4提供一站式ODM解决方案",
+    "score": 0.750500535473383,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-13 15:57:58",
+    "uuid": "db4a153f-c576-4ce8-a2bb-c35a5209ddc2"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "中国证券网" },
       { "siteName": "搜狐" }
@@ -106,6 +124,38 @@
     "voteDesc": "",
     "date": "2023-07-13 15:08:58",
     "uuid": "6f937387-8566-42b8-8e8d-5d3a63c62ba8"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪" }, { "siteName": "IT 之家" }],
+    "summary": "游戏行业面临重大变革，微软收购动视暴雪后，索尼、任天堂等公司也计划扩大游戏业务规模。索尼正在加大游戏研发的投资，计划在未来三年内投入超过150亿元人民币，比上一世代游戏机时期翻了一番多。这将有助于索尼推动利润增长，并推出更多在线服务游戏。 ...",
+    "id": "8rnzfWjSzRh",
+    "order": 556933,
+    "createdAt": "2023-07-13T07:08:37.915Z",
+    "title": " 游戏行业大规模收购，索尼游戏业务投资翻一倍 ",
+    "score": 0.659986920461432,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-13 15:08:37",
+    "uuid": "75ba0077-4564-4bff-acc4-08115a19afad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "谷歌和DeepMind的科研人员在《自然》杂志上发表了一篇论文，提出了MultiMed QA评估基准，用于评测大语言模型在临床知识方面的表现。结果表明，大语言模型构建的AI医生在很多方面都强于人类医生。虽然这项技术尚未应用于临床实践，但在未来可能可以用于医疗求助热线。 ...",
+    "id": "8rnXJKD6nl3",
+    "order": 556925,
+    "createdAt": "2023-07-13T07:02:50.662Z",
+    "title": "谷歌医疗大模型Med-PaLM登上Nature，AI医生成绩比肩人类",
+    "score": 0.215160813057115,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-13 15:02:50",
+    "uuid": "914bdeef-3e8a-4a8d-98fb-7dc742e94f89"
   },
   {
     "newsArray": [
