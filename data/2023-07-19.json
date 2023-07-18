@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "7月18日，美股三大指数集体收涨，大型科技公司股票多数上涨。微软创收盘历史新高，Netflix涨超5%，英伟达涨超2%，特斯拉涨超1%。热门中概股普跌，B站跌超6%。",
+    "id": "8rvQA5bR1ab",
+    "order": 559034,
+    "createdAt": "2023-07-18T23:16:51.305Z",
+    "title": "美股三大指数集体收涨，大型科技股多数上涨",
+    "score": 0.608355512976026,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 07:16:51",
+    "uuid": "f225a503-e7be-420b-8e57-80f1d30a59fb"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪" },
       { "siteName": "新浪" },
       { "siteName": "新浪科技" }
@@ -16,5 +34,23 @@
     "voteDesc": "",
     "date": "2023-07-19 06:30:38",
     "uuid": "7cb3a0d4-3dcb-4911-befc-1aaddb3aa17d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "搜狐" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "微软在Inspire全球合作伙伴大会上发布了多个与AI相关的新产品和功能更新，其中包括企业版必应Chat、多模态搜索微软必应、Microsoft Sales Copilot和AI分析工具Process Mining ...",
+    "id": "8rx2rbO3TNR",
+    "order": 559006,
+    "createdAt": "2023-07-18T18:15:10.619Z",
+    "title": "更强的Llama 2开源，可直接商用：一夜之间，大模型格局变了",
+    "score": 0.478729758556942,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 02:15:10",
+    "uuid": "a2cb0fee-323a-4fb5-82af-031c8157e0b6"
   }
 ]
