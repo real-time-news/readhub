@@ -1,6 +1,192 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "诺基亚推出新款 150 功能机，到手价 229 元。这款机子搭载 2.4 英寸屏幕，九宫格键盘，后置 9 级独立外放扬声器 ...",
+    "id": "8rxLwZLtYcT",
+    "order": 559175,
+    "createdAt": "2023-07-19T03:46:15.490Z",
+    "title": "诺基亚推出新款 150 功能机：2.4 英寸屏幕、移动 2G 网络，到手价 229 元",
+    "score": 0.477962650217838,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:46:15",
+    "uuid": "c803cfd6-1edd-4472-be28-41d0563551ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "中国载人航天工程办公室公布了神舟十六号载人飞船航天育种实验项目清单，共有53个单位的136种份实验材料实施搭载，包括农作物、林草、花卉和药用植物等。",
+    "id": "8rxLI04UGm6",
+    "order": 559173,
+    "createdAt": "2023-07-19T03:45:56.219Z",
+    "title": "中国载人航天工程办公室公布神舟十六号载人飞船航天育种实验项目清单",
+    "score": 0.77517841329603,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:45:56",
+    "uuid": "95d1eb11-6123-4733-b2f6-4741f5ba365b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐" },
+      { "siteName": "和讯科技" }
+    ],
+    "summary": "阅文集团在创作大会上正式发布了阅文妙笔大模型，该模型国内第一个网文大模型，也是最懂网文的大模型，将全面赋能创作生态和IP生态 ...",
+    "id": "8rxJl5T85kg",
+    "order": 559172,
+    "createdAt": "2023-07-19T03:45:45.984Z",
+    "title": "阅文集团发布阅文妙笔大模型 CEO侯晓楠：AI是IP产业未来5年的重要动能",
+    "score": 0.680123935009432,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:45:45",
+    "uuid": "abe76171-861b-4022-ad43-bfa2d03a1ee3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "特斯拉CEO埃隆·马斯克的传记作者沃尔特·艾萨克森周一表示，马斯克缺乏同情心，有时像“恶魔”一样凶狠 ...",
+    "id": "8rwd3Ql8kL6",
+    "order": 559168,
+    "createdAt": "2023-07-19T03:28:40.409Z",
+    "title": "马斯克传记上线亚马逊，作者称其缺乏同情心：有时像个恶魔",
+    "score": 0.1510989148584,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:28:40",
+    "uuid": "c5dcf4f3-238d-4ac0-be3a-88fbeed50757"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "在国务院新闻办举行的2023年上半年工业和信息化发展情况新闻发布会上，工业和信息化部新闻发言人、总工程师赵志国表示，工信部将继续深化工业和信息化领域的开放合作，扩大制造业、信息通信业高水平开放，打造市场化法治化国际化营商环境，并积极参与全球数字治理，推动数字经济合作。",
+    "id": "8rxJuHIRHwS",
+    "order": 559161,
+    "createdAt": "2023-07-19T03:25:01.744Z",
+    "title": "工信部谈国际合作：进一步扩大制造业、信息通信业高水平开放",
+    "score": 0.809423412595051,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:25:01",
+    "uuid": "81d72868-ef3b-4308-b38b-b1dfb681ac56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪" },
+      { "siteName": "和讯汽车" }
+    ],
+    "summary": "工信部将制定新能源汽车动力蓄电池回收利用管理办法，以不断完善回收利用体系。该办法将促进制造业绿色化发展，推动节能降碳技术改造，支持壮大绿色制造服务商。",
+    "id": "8rxKMzOvlXM",
+    "order": 559158,
+    "createdAt": "2023-07-19T03:22:42.191Z",
+    "title": "工信部：研究制定新能源汽车动力蓄电池回收利用管理办法",
+    "score": 0.666986637668377,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:22:42",
+    "uuid": "d313acd3-5052-4fa7-89d2-3282ca659a42"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "中国证券网" },
+      { "siteName": "搜狐" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "工业和信息化部将在用户反映突出的痛点问题上重点整治App强制自动续费等问题。该部门已加强App重点问题监管，公开通报188款违规App并深化垃圾信息和诈骗电话治理 ...",
+    "id": "8rxJiKGsfW1",
+    "order": 559155,
+    "createdAt": "2023-07-19T03:20:46.055Z",
+    "title": "工信部：将重点整治用户反映突出的欺骗误导下载、强制自动续费等痛点问题",
+    "score": 0.819873669360424,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:20:46",
+    "uuid": "a5ea4b98-2daf-4653-8ef4-4a3b1a7a772b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "工业和信息化部发言人、运行监测协调局局长陶青在2023年上半年工业和信息化发展情况新闻发布会上表示，我国能源资源利用效率显著提升，资源循环利用能力不断增强，1-5月回收利用废旧动力电池超过去年全年总量 ...",
+    "id": "8rxLd16gjB5",
+    "order": 559152,
+    "createdAt": "2023-07-19T03:19:06.215Z",
+    "title": "工信部：1-5月回收利用废旧动力电池，超过去年全年总量",
+    "score": 0.692631414903413,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:19:06",
+    "uuid": "6d336d3d-e9fb-4143-b2a4-e7860bbec119"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "TechWeb" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "互联网招聘平台Bossjob宣布启动日本市场的人才服务，将以AI+直聊的模式，帮助日本企业建立与290万国际化人才之间的沟通与招聘通道 ...",
+    "id": "8rwyztQlyv9",
+    "order": 559151,
+    "createdAt": "2023-07-19T03:16:39.132Z",
+    "title": "推出AI+直聊模式 Bossjob宣布启动布局日本市场",
+    "score": 0.682100822208567,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:16:39",
+    "uuid": "fc23989d-3242-419a-9449-422de5395b2a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "谷歌将部分员工限制使用未接入互联网的台式机，以降低网络攻击风险。试点计划最初只吸引了2500多名员工参与，但谷歌已允许员工退出并向志愿者开放该计划 ...",
+    "id": "8rxBUpZJ7Ri",
+    "order": 559149,
+    "createdAt": "2023-07-19T03:15:25.516Z",
+    "title": "谷歌给员工“断网” 2000多人一下回到远古时代",
+    "score": 0.80057777567473,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-19 11:15:25",
+    "uuid": "1055526b-bf4c-4648-bd70-65e0ff0f7c84"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "36Kr" },
       { "siteName": "钛媒体" }
