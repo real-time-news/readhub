@@ -1,6 +1,115 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "红杉资本高层改组，长期合伙人Michael Moritz和Mike Vernal离职，专注于红杉传承基金。",
+    "id": "8rzeCyCraTs",
+    "order": 559575,
+    "createdAt": "2023-07-20T02:05:17.378Z",
+    "title": "红杉资本高层改组，两名合伙人离职",
+    "score": 0.809889004530784,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-20 10:05:17",
+    "uuid": "321bcc87-99c5-4d20-a432-ce8b8a5c1f27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中信建投证券研报认为，AI发展离不开算力基础设施，AI算力对数据中心内部的数据流量较大，光模块速率及数量均有显著提升，交换机的端口数及端口速率也有相应的提升 ...",
+    "id": "8rzcFspxdQO",
+    "order": 559570,
+    "createdAt": "2023-07-20T02:02:57.156Z",
+    "title": "中信建投：AI有望拉动算力需求，运营商、光模块及ICT设备商有望受益",
+    "score": 0.624140965654238,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-20 10:02:57",
+    "uuid": "9f2b3c9c-ee98-45fd-8622-a3a9e637d146"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪" },
+      { "siteName": "和讯科技" }
+    ],
+    "summary": "本次募集资金主要投向涵盖先进存储器研发、芯片IC设计、晶圆级先进封测、存储芯片封测等符合国家战略发展方向和行业未来发展趋势的重点领域，属于科技创新领域 ...",
+    "id": "8ryzYCwmlQr",
+    "order": 559566,
+    "createdAt": "2023-07-20T02:01:31.730Z",
+    "title": "佰维存储拟定增募资不超45亿元，投向晶圆级先进封测制造等集成电路产业",
+    "score": 0.822612119422994,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-20 10:01:31",
+    "uuid": "a810046b-8124-4b1e-b5ff-b93e48b6a309"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "抖音将进军基金销售领域，与多家基金公司进行合作测试，并已有多家公募达成合作意向。抖音需要申请基金销售牌照，需要具备安全和高效的办理基金发售、申购和赎回等业务的技术设施 ...",
+    "id": "8ryyKQuhjq6",
+    "order": 559562,
+    "createdAt": "2023-07-20T01:21:42.093Z",
+    "title": "超级巨头进军基金销售，又有大消息",
+    "score": 0.794603341713637,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-20 09:21:42",
+    "uuid": "06bb18c4-eef9-4f70-a5c9-9a88e60f98c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "苹果在线商城已优化 Apple Watch 购物体验，用户可以更清晰地选择 Apple Watch 和表带等配件 ...",
+    "id": "8rzdVSZzkdH",
+    "order": 559551,
+    "createdAt": "2023-07-20T01:12:37.487Z",
+    "title": "苹果在线商城优化 Apple Watch 购物体验",
+    "score": 0.716324522201833,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-20 09:12:37",
+    "uuid": "2d4d3ff0-f80a-44f6-8a6f-258a8f920c5c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "美国总统乔·拜登发布行政命令，要求政府在2035年之前停止购买油车，并转向使用电车或混动汽车。目前，拜登政府正在制定采购计划，目标采购9500辆电动汽车，是上一财年的近三倍 ...",
+    "id": "8rzgP7r0aRN",
+    "order": 559550,
+    "createdAt": "2023-07-20T01:11:21.662Z",
+    "title": "拜登政府计划本财年采购9500辆电动汽车 是上一财年的近三倍",
+    "score": 0.635208249790187,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-20 09:11:21",
+    "uuid": "665e52b4-d853-4357-a5b7-808b92eceab0"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪" },
       { "siteName": "新浪科技" },
       { "siteName": "钛媒体" }
