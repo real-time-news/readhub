@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "谷歌宣布将在2023年8月停止对Android4.4的支持，该版本发布于2013年11月。虽然仍有1500万台设备在使用该版本，但它占全球市场份额的0.5%。",
+    "id": "8rHI7b1XXCm",
+    "order": 561371,
+    "createdAt": "2023-07-25T04:01:37.597Z",
+    "title": "发布近 10 年后，谷歌宣布 Google Play 将停止对 Android 4.4 的支持",
+    "score": 0.705788238417704,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-25 12:01:37",
+    "uuid": "53385dfc-2ad1-48c7-8ff6-b6f0a2d204ad"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "36Kr" },
       { "siteName": "钛媒体" }
