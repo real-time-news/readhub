@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "麻省理工学院开发了一项名为 PhotoGuard 的技术，可以保护图像免受恶意 AI 编辑。该技术通过微小的修改来干扰 AI 对图像的理解能力，并提供了两种阻止图片被 AI 修改的方案。",
+    "id": "8rHNUT2Cg8G",
+    "order": 561396,
+    "createdAt": "2023-07-25T05:45:20.178Z",
+    "title": "麻省理工学院开发“PhotoGuard”技术， 保护图像免受恶意 AI 编辑",
+    "score": 0.485149964735023,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-25 13:45:20",
+    "uuid": "d279894f-9579-42e5-b8c7-b87634e9ee46"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "网易科技" },
       { "siteName": "IT 之家" }
