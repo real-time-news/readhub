@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "携程在火车票预订系统中新增了一个“全网拼团·女性房间”的功能，收费为10元/人。该服务声称拼团成功出票时，保证同房间均为女性，拼团失败将退还费用 ...",
+    "id": "8rI1qUR234T",
+    "order": 561702,
+    "createdAt": "2023-07-26T03:17:51.038Z",
+    "title": "携程回应女性拼团卧铺：反响不错、将开启限时补贴",
+    "score": 0.619099749955715,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-26 11:17:51",
+    "uuid": "cdcf3af9-e96b-4c13-9c81-93cfdb566f99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "微软最新推出了 Windows 开发环境 (WDE) 2307，该版本整合了今年 7 月发布的累积更新，可以让开发者在不更新或切换系统的情况下，在 Win11 环境下开发应用程序 ...",
+    "id": "8rJlfeE8xx1",
+    "order": 561701,
+    "createdAt": "2023-07-26T03:17:48.265Z",
+    "title": "已整合 7 月累积更新，微软推出 2307 版 Win11 虚拟机",
+    "score": 0.588797402904167,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-26 11:17:48",
+    "uuid": "b844f201-6284-4baf-9b19-1dd503e2f70e"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "澎湃新闻" },
       { "siteName": "钛媒体" }
@@ -16,6 +52,44 @@
     "voteDesc": "",
     "date": "2023-07-26 11:04:48",
     "uuid": "b306bacb-b233-4aae-99fb-f4a5ac09977f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "OpenAI 悄然关闭了其 AI 文本检测工具 AI Classifier，该工具准确率仅为 26%。OpenAI 透露，该工具存在严重的准确性问题，无法可靠地识别内容 ...",
+    "id": "8rJlVEVwYcP",
+    "order": 561691,
+    "createdAt": "2023-07-26T03:04:41.050Z",
+    "title": "准确率仅为 26%，OpenAI 悄然关闭 AI 文本检测工具",
+    "score": 0.782153559991852,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-26 11:04:41",
+    "uuid": "6564afa4-0b0b-472e-9495-29a42ab8cd9c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "微软广告和网络服务首席执行官帕拉欣表示，考虑为必应聊天资深用户推出专家模式，该模式下界面将更复杂，功能将更丰富 ...",
+    "id": "8rHVFjd5DnI",
+    "order": 561687,
+    "createdAt": "2023-07-26T02:59:19.962Z",
+    "title": "微软考虑为必应聊天资深用户推出专家模式：UI更复杂、功能更丰富",
+    "score": 0.565549767288204,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-26 10:59:19",
+    "uuid": "059c6d80-8502-4677-b131-b6a68843b507"
   },
   {
     "newsArray": [
