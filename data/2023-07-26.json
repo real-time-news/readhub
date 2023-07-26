@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "新疆上半年国内生产总值同比增长5.1%，外贸进出口总值创十年来同期新高。其中，第一产业增长5.6%，第二产业增长6.2%，第三产业增长4.3% ...",
+    "id": "8rJpYLgDHYL",
+    "order": 561785,
+    "createdAt": "2023-07-26T07:18:36.310Z",
+    "title": "新疆上半年GDP同比增长5.1%，外贸总值创十年来同期新高",
+    "score": 0.774657365903859,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-26 15:18:36",
+    "uuid": "fd6574b5-e44c-4738-b958-1545d869e73b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日产聆风上市12年后，全球范围内电动汽车销量终于突破100万辆。该公司推出了新款电动车型日产Ariya，并计划扩大其产品线，开发内部固态电池 ...",
+    "id": "8rJCoJwIbuC",
+    "order": 561781,
+    "createdAt": "2023-07-26T07:16:55.779Z",
+    "title": "日产聆风上市 12 年后，全系电动汽车销量终于突破 100 万辆",
+    "score": 0.735512007814013,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-26 15:16:55",
+    "uuid": "ae55dca4-97d5-49e6-abc9-d8563080feea"
+  },
+  {
+    "newsArray": [{ "siteName": "快科技" }, { "siteName": "IT 之家" }],
+    "summary": "腾讯《街头篮球》国服停止运营，于2023年7月25日11:00正式停止在中国大陆地区的运营 ...",
+    "id": "8rH1y3YMCCc",
+    "order": 561777,
+    "createdAt": "2023-07-26T07:11:10.172Z",
+    "title": " 腾讯《街头篮球》国服停止运营：7月25日关闭服务器 ",
+    "score": 0.579773191755752,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-26 15:11:10",
+    "uuid": "a88e12b2-5986-4935-91c0-0f226f56f2f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "美国国会参议院周二通过了一项修正案，要求美国企业向政府通报其对中国技术领域(例如半导体和人工智能)的投资情况 ...",
+    "id": "8rJixi4qtJR",
+    "order": 561771,
+    "createdAt": "2023-07-26T07:04:05.696Z",
+    "title": "美参议院通过修正案，要求美企向政府通报对华技术投资情况",
+    "score": 0.379664292343202,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-26 15:04:05",
+    "uuid": "03997ba7-7674-438d-af5f-541b68bde88f"
+  },
+  {
+    "newsArray": [
       { "siteName": "品玩" },
       { "siteName": "新浪" },
       { "siteName": "36Kr" }
