@@ -1,5 +1,43 @@
 [
   {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "数字尾巴" }
+    ],
+    "summary": "三星电子公布第二季度财务业绩下降，但手机业务负责人称公司在中国市场“正朝着正确的方向前进”，并寻求增加高端产品以提高市场份额，与更多中国本地公司合作 ...",
+    "id": "8rKUJ9pZyoK",
+    "order": 562014,
+    "createdAt": "2023-07-27T02:05:11.032Z",
+    "title": "三星手机业务负责人：公司在中国市场正朝着“正确的方向”前进",
+    "score": 0.6054253133908,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-27 10:05:11",
+    "uuid": "2a2a2a6f-8184-42b3-afa9-143de33629c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "中国证券网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "上半年全国规模以上工业企业利润同比降16.8%，降幅收窄。其中，国有控股企业下降21%，股份制企业下降18%，外商及港澳台商投资企业下降12.8%，私营企业下降13.5% ...",
+    "id": "8rKWkz7z7P0",
+    "order": 562010,
+    "createdAt": "2023-07-27T01:46:58.345Z",
+    "title": "上半年全国规模以上工业企业利润同比降16.8%，降幅收窄",
+    "score": 0.553776492673025,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-27 09:46:58",
+    "uuid": "73a96d90-ec9f-4227-b344-3fad412bd472"
+  },
+  {
     "newsArray": [{ "siteName": "新浪科技" }, { "siteName": "IT 之家" }],
     "summary": "微软宣布将在所有 Xbox Series X|S 和 Xbox One 主机上推出全新的首页体验，根据玩家反馈进行设计，可以更轻松地发现新游戏、重新发现已喜欢的游戏、与社区建立联系并创建更加个性化的体验 ...",
     "id": "8rKezEij0Wc",
