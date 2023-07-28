@@ -1,6 +1,38 @@
 [
   {
     "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果收紧 App Store 审核政策，要求 App 调用部分 API 时提供合理原因 ...",
+    "id": "8rMvZLCllqf",
+    "order": 562341,
+    "createdAt": "2023-07-28T02:30:43.253Z",
+    "title": "苹果收紧 App Store 审核政策：App 调用部分 API 需说明原因",
+    "score": 0.786577064417865,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-28 10:30:43",
+    "uuid": "27fadfab-f019-4099-931e-a845cb2b2d38"
+  },
+  {
+    "newsArray": [{ "siteName": "TechWeb" }, { "siteName": "凤凰科技" }],
+    "summary": "苹果要求获批Vision Pro头显开发者定制尺寸，并提供合适的头带和Light Seal。苹果还会根据申请者提交的信息定制不同的开发者套件，以提供更好的佩戴体验 ...",
+    "id": "8rMA9EDgrVz",
+    "order": 562340,
+    "createdAt": "2023-07-28T02:22:47.957Z",
+    "title": "苹果为获批Vision Pro头显开发者定制尺寸、要求使用AirTag追踪",
+    "score": 0.552722977013693,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-28 10:22:47",
+    "uuid": "d694db93-9735-467f-9804-cdc9dfd4cc82"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" }
