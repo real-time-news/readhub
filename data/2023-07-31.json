@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "阿里达摩院与大连理工大学合作推出了一款名为HQTrack的AI框架，主要由视频多目标分割器和掩模优化器组成，可以实现对视频中任何目标的高质量跟踪 ...",
+    "id": "8rRO3VWK1S5",
+    "order": 562870,
+    "createdAt": "2023-07-31T05:23:44.978Z",
+    "title": "阿里达摩院推出 AI 框架 HQTrack，可实现视频高质量跟踪",
+    "score": 0.615417991617775,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-31 13:23:44",
+    "uuid": "482007c1-6025-41b6-8c48-eccedc2ca97e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "7月31日，国家发展改革委发布《关于恢复和扩大消费措施的通知》，要求全面落实带薪休假制度，鼓励错峰休假、弹性作息，丰富文旅消费，大力发展乡村旅游 ...",
+    "id": "8rRIZH3hf1y",
+    "order": 562869,
+    "createdAt": "2023-07-31T05:23:38.921Z",
+    "title": "国家发改委：全面落实带薪休假制度，鼓励错峰休假、弹性作息",
+    "score": 0.577305963250144,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-07-31 13:23:38",
+    "uuid": "1a34b78b-a26b-4258-848e-e1e9a4ea143f"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "投资界" },
       { "siteName": "网易科技" }
