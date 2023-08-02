@@ -1,5 +1,38 @@
 [
   {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "多部门发布通知，要求支持客运站建设充电基础设施，服务新能源车辆进城下乡。该通知旨在推动客运站转型，提高其服务效率和质量，以满足人民群众对更快捷、更方便的道路客运服务的需求 ...",
+    "id": "8rVhn7spGGu",
+    "order": 563662,
+    "createdAt": "2023-08-02T07:46:21.272Z",
+    "title": "多部门：支持客运站建设充电基础设施，服务新能源车辆进城下乡",
+    "score": 0.768934056415065,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-02 15:46:21",
+    "uuid": "c6eeee6e-80ca-429c-85fe-9f05086105e6"
+  },
+  {
+    "newsArray": [{ "siteName": "快科技" }, { "siteName": "搜狐科技" }],
+    "summary": "小米集团的创始人、董事长兼首席执行官雷军表示，小米集团连续五年入选《财富》世界500强，感谢每一位用户的支持和信任 ...",
+    "id": "8rVa6iasi23",
+    "order": 563661,
+    "createdAt": "2023-08-02T07:45:53.063Z",
+    "title": "雷军：小米集团连续五年上榜《财富》世界五百强",
+    "score": 0.526533918793962,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-02 15:45:53",
+    "uuid": "f1ad3770-33bf-4d5b-b890-539cbfa6dd30"
+  },
+  {
     "newsArray": [{ "siteName": "钛媒体" }, { "siteName": "36Kr" }],
     "summary": "smart 袖珍汽车自 2019 年开始转型为纯电动车，但在电动化市场并不受欢迎，上半年在中国累计交付 23540 辆，月销约为 4000 辆 ...",
     "id": "8rTSMGyULjC",
@@ -12,6 +45,44 @@
     "voteDesc": "",
     "date": "2023-08-02 15:45:50",
     "uuid": "1124a1d9-3cf4-4f9b-a553-a0cb0fa5e4a1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "网易《逆水寒》手游宣布对氪金外观内容进行永久性降价，并全额退还已购买的玩家的商品差价。此前该游戏曾推出过价格较低的时装，并宣称要持续运营至少十年。",
+    "id": "8rVfa4ibLte",
+    "order": 563654,
+    "createdAt": "2023-08-02T07:25:19.683Z",
+    "title": "网易《逆水寒》手游宣布氪金外观内容降价，已购玩家可退差价",
+    "score": 0.361275662612217,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-02 15:25:19",
+    "uuid": "0c8fd7d5-7381-49ea-8021-2229dc7a01b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "零跑汽车与大众旗下捷达品牌正在洽谈合作，可能采用“买断”形式采购零跑的某一代平台技术。同时，境外企业正在与中国造车新势力零跑汽车洽谈技术合作，零跑将成为首个技术出海的中国新势力车企 ...",
+    "id": "8rVgr9oBu7s",
+    "order": 563652,
+    "createdAt": "2023-08-02T07:25:01.491Z",
+    "title": "消息称大众旗下捷达品牌考虑采购零跑汽车技术平台",
+    "score": 0.759984693119268,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-02 15:25:01",
+    "uuid": "dc2a8b3c-e7fe-437a-964a-0a8565c529b4"
   },
   {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
