@@ -1,6 +1,52 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "两部门发布文件，延续小规模纳税人增值税减免政策至2027年底 ...",
+    "id": "8rV5vLBU2HB",
+    "order": 563587,
+    "createdAt": "2023-08-02T04:31:25.048Z",
+    "title": "两部门：延续小规模纳税人增值税减免政策至2027年底",
+    "score": 0.748912193220679,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-02 12:31:25",
+    "uuid": "ca433050-b1ee-4860-bf1a-7fe5281c849f"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "微软 Word 产品经理 Juliet Daniel 宣布为网页版 Word 引入“分页视图”功能，统一网页端和其它平台的文档编辑体验 ...",
+    "id": "8rUZqHtnft9",
+    "order": 563583,
+    "createdAt": "2023-08-02T04:25:38.604Z",
+    "title": "微软增强网页版 Word，引入分页视图特性",
+    "score": 0.756018217044066,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-02 12:25:38",
+    "uuid": "b3da181b-4df3-4823-aa92-f1f935b7bd49"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "谷歌研究团队利用OpenAI的GPT-4成功破解了AI- Guardian审核系统，将其精确值降低了8% ...",
+    "id": "8rUXh8R6nzC",
+    "order": 563582,
+    "createdAt": "2023-08-02T04:25:31.494Z",
+    "title": "AI 打败 AI：谷歌研究团队利用 GPT-4 击败 AI-Guardian 审核系统",
+    "score": 0.497712396254914,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-02 12:25:31",
+    "uuid": "61ed50cd-8142-41b9-861d-13af07310560"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" },
       { "siteName": "新浪科技" }
