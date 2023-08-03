@@ -1,5 +1,41 @@
 [
   {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "据外媒报道，苹果新品发布会将于9月13日举行，移动运营商已通知员工不要休假。如果苹果在当天发布新款iPhone，预计预购将从9月15日开始，一周之后正式发售 ...",
+    "id": "8rY2a8BG82t",
+    "order": 564222,
+    "createdAt": "2023-08-03T23:46:03.274Z",
+    "title": "外媒推测苹果新品发布会 9 月 13 日举行，运营商已通知不要休假",
+    "score": 0.454434038223933,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-04 07:46:03",
+    "uuid": "343997f8-477c-4095-8d6f-d3f4fd5059c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "苹果公司首席执行官蒂姆·库克在财报电话会议上表示，苹果多年来一直在研究各种AI技术，包括生成式AI ...",
+    "id": "8rXSRw4itDH",
+    "order": 564216,
+    "createdAt": "2023-08-03T22:57:10.126Z",
+    "title": "库克：包括生成式 AI 在内，苹果多年来一直投资各种 AI 技术",
+    "score": 0.578960343929791,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-04 06:57:10",
+    "uuid": "660d5396-5c8d-4934-8b7b-c71a38ac2c61"
+  },
+  {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "网易科技" }],
     "summary": "苹果宣布全球付费订阅用户规模突破 10 亿，达到里程碑。苹果服务业务营收创历史新高，iPhone 在新兴市场的销量持续强劲，进一步助推了 iPhone 的扩张 ...",
     "id": "8rXSRM7u7FU",
@@ -12,6 +48,26 @@
     "voteDesc": "",
     "date": "2023-08-04 06:36:44",
     "uuid": "c3b0bfc8-ef4a-400c-bdc4-f6a1d73d4b7c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "亚马逊公布了二季度的业绩，营收及预期均超出市场预期。北美业务营收增长11%，国际业务营收增长10%，AWS业务营收增长12% ...",
+    "id": "8rXPVJCOX4m",
+    "order": 564207,
+    "createdAt": "2023-08-03T21:30:49.330Z",
+    "title": "亚马逊二季度营收及三季度指引超预期，盘后大涨近8%",
+    "score": 0.788808737812767,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-04 05:30:49",
+    "uuid": "76a099a0-eb0b-4734-8709-911bce1c2937"
   },
   {
     "newsArray": [
