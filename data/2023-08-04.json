@@ -1,5 +1,101 @@
 [
   {
+    "newsArray": [{ "siteName": "快科技" }, { "siteName": "新浪科技" }],
+    "summary": "苹果公司在最新的财报中透露，其数字订阅服务已坐拥10亿用户，数字订阅收入创下了历史新高。公司的硬件销售收入虽然放缓，但数字订阅服务却取得了良好的成绩 ...",
+    "id": "8rY3AVo1CR4",
+    "order": 564286,
+    "createdAt": "2023-08-04T01:58:15.033Z",
+    "title": "苹果坐拥10亿付费服务用户",
+    "score": 0.598469679791689,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-04 09:58:15",
+    "uuid": "a9ec0fa4-0e1b-4f23-9456-64535a5d0b81"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "品玩" }],
+    "summary": "小鹏汽车发布极端天气用户关怀服务政策，包括救援、检测、维修等，为受自然灾害影响的用户提供保障 ...",
+    "id": "8rXpNC2bqmF",
+    "order": 564281,
+    "createdAt": "2023-08-04T01:56:50.919Z",
+    "title": "小鹏汽车发布极端天气用户关怀服务政策，包括救援、检测、维修等",
+    "score": 0.825482467763898,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-04 09:56:50",
+    "uuid": "4ffa2e87-60c5-4934-b9c9-0378a443b91c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "英特尔 CEO帕特·基辛格在在采访中表达了对英伟达在 AI 领域领先地位的赞赏，同时也指出 AI 领域仍处于年轻的阶段，未来还有很长的路要走 ...",
+    "id": "8rY4k91dKBx",
+    "order": 564280,
+    "createdAt": "2023-08-04T01:56:48.517Z",
+    "title": "英特尔CEO帕特・基辛格：英伟达是AI领域领导者，他们引领了潮流",
+    "score": 0.523602723395036,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-04 09:56:48",
+    "uuid": "4e98a8de-bd93-499a-a9a7-dc33d25d8045"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "投资界" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "进迭时空是一家专注于研发RISC-V高性能CPU并提供软硬一体优化计算解决方案的公司，已完成数亿元A轮融资，由联想创投、君联资本领投，其他投资者包括北京国管顺禧基金、经纬资本、耀途资本、万物资本、真格资本、海阔天空创投(Beyond Ventures)和趣合投资 ...",
+    "id": "8rXjLCqbH6x",
+    "order": 564272,
+    "createdAt": "2023-08-04T01:46:44.025Z",
+    "title": "进迭时空获新一轮数亿融资",
+    "score": 0.700654444088362,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-04 09:46:44",
+    "uuid": "8cf42d88-9e6f-4cb2-87df-2b9aa35fbb23"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "8月3日，大连万达集团宣布将其旗下的万达文化集团更名为万达文旅集团 ...",
+    "id": "8rX0ea0oKv7",
+    "order": 564259,
+    "createdAt": "2023-08-04T01:17:06.789Z",
+    "title": "大连万达集团：旗下万达文化集团更名为万达文旅集团",
+    "score": 0.677711081803581,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-04 09:17:06",
+    "uuid": "4be92195-2490-4a82-8851-6e4f9b2df993"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }, { "siteName": "TechWeb" }],
+    "summary": "微软在2023财年报告中单独披露了客户销售管理系统Dynamics的业务规模和增速，表明微软正在向销售软件巨头Salesforce进攻 ...",
+    "id": "8rXFZoQih3O",
+    "order": 564254,
+    "createdAt": "2023-08-04T01:07:26.416Z",
+    "title": "微软朝销售软件巨头Salesforce进攻：单独披露竞对业务规模",
+    "score": 0.407975197232495,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-04 09:07:26",
+    "uuid": "f25eec2f-0a79-4de1-b6d9-6b766ca45b73"
+  },
+  {
     "newsArray": [
       { "siteName": "新浪" },
       { "siteName": "界面" },
