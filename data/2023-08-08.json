@@ -1,6 +1,120 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "此前外媒 91mobiles 曝光了 OPPO Find N3 Flip 折叠屏手机的外观渲染图，该产品依旧采用矩形背屏设计，后置摄像头数量升级为 3 个，据称分别为 50MP 主摄（索尼 IMX890）+8MP 超广角 + 32MP 2X 人像长焦 ...",
+    "id": "8s4KuF9aOhu",
+    "order": 565658,
+    "createdAt": "2023-08-08T00:46:15.207Z",
+    "title": "OPPO 新机通过国家质量认证，预计为 Find N3 Flip 折叠屏",
+    "score": 0.525789163610737,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-08 08:46:15",
+    "uuid": "82ce13ec-9b1a-4e45-8a0d-de1c72bfb278"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "索尼宣布PS5云游戏已开启公测，玩家可以在PS5上通过互联网流式传输游戏，画质最高可达4K。目前提供多款热门的PS5游戏供玩家试玩，并计划增加更多游戏 ...",
+    "id": "8s4JY7GTpvO",
+    "order": 565650,
+    "createdAt": "2023-08-08T00:30:49.398Z",
+    "title": "索尼 PS5 云游戏开启公测，画质可达 4K",
+    "score": 0.512891520814241,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-08 08:30:49",
+    "uuid": "042cf74d-5fee-4781-abb2-b03b75af03be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "Sonos 推出了全新的 Era 100 音箱，采用全新设计，拥有下一代声学设计和高水平的连接能力，具有丰富低音和立体音效功能，且具有简洁优雅的外观设计，可以与任一家具布置完美融合 ...",
+    "id": "8s49kJrdYdz",
+    "order": 565648,
+    "createdAt": "2023-08-08T00:30:40.678Z",
+    "title": "Sonos 推出 Era 100 音箱：采用全新设计，到手价 2399 元",
+    "score": 0.624752458882178,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-08 08:30:40",
+    "uuid": "831837ab-944d-41fc-a741-7c1573108b94"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "搜狐" },
+      { "siteName": "界面" },
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" },
+      { "siteName": "搜狐" }
+    ],
+    "summary": "国家网信办发布《人脸识别技术应用安全管理规定(试行)(征求意见稿)》，规定只有在特定目的和必要的情况下才能使用人脸识别技术处理人脸信息，并采取严格保护措施 ...",
+    "id": "8s4KKzMRKD7",
+    "order": 565643,
+    "createdAt": "2023-08-08T00:17:20.446Z",
+    "title": "国家网信办就《人脸识别技术应用安全管理规定（试行）》公开征求意见",
+    "score": 0.712864605767778,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-08 08:17:20",
+    "uuid": "8d689341-12e8-4b5f-a5b4-33095ee3e387"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "英特尔宣布将在2023年9月举办“Intel Innovation”峰会，其中可能会公布面向移动平台的新一代酷睿 Ultra 处理器 ...",
+    "id": "8s38D4acDNk",
+    "order": 565641,
+    "createdAt": "2023-08-08T00:15:53.184Z",
+    "title": "全新英特尔酷睿Ultra处理器将至 Innovation 2023现已官宣",
+    "score": 0.679731170842738,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-08 08:15:53",
+    "uuid": "95601b38-d523-40eb-8e71-a02ae942e891"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "苹果获得的一项 Vision Pro 头显配件专利显示，苹果正在考虑为该头显设计专门的虚拟“妙控板”，以协助用户进行直观的虚拟元素交互 ...",
+    "id": "8s4HE5aRQnK",
+    "order": 565632,
+    "createdAt": "2023-08-07T23:52:51.985Z",
+    "title": "苹果 Vision Pro 头显新专利：投影出“妙控板”，协助用户交互虚拟元素",
+    "score": 0.603575696961444,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-08 07:52:51",
+    "uuid": "b78e35c3-69ac-4342-b0e2-ee5ab31af9e0"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "中国证券网" },
       { "siteName": "新浪" }
