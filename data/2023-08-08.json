@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "特斯拉被指控侵犯电动汽车专利，涉及两万个充电站。特斯拉被控使用与 Graphite Charging 公司研发技术相同的方式来检测充电是否中断，以及根据天气或能源价格等环境条件调整计算设备功耗的技术也涉嫌抄袭 ...",
+    "id": "8s4GprOKJZO",
+    "order": 565867,
+    "createdAt": "2023-08-08T07:46:23.579Z",
+    "title": "特斯拉被指控侵犯电动汽车专利 涉及两万个充电站",
+    "score": 0.850307560663901,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-08 15:46:23",
+    "uuid": "0fa0f147-82d7-4339-bce3-c9e591321847"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪" },
+      { "siteName": "中国证券网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "上海五部门发布的《上海市药品行政执法与刑事司法衔接工作实施细则》旨在加强药品行刑衔接，保障人民群众用药安全 ...",
+    "id": "8s5fOfHF96T",
+    "order": 565866,
+    "createdAt": "2023-08-08T07:46:05.182Z",
+    "title": "加强药品行刑衔接，上海五部门联合发布实施细则",
+    "score": 0.804953177336164,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-08 15:46:05",
+    "uuid": "483e950b-2c36-4d2d-97ae-5bba9c491403"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "IT 之家" },
       { "siteName": "网易科技" },
