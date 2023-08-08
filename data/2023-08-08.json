@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "OpenAI推出了名为GPTBot的网络爬虫机器人，用于收集信息数据以改进AI模型。该机器人将严格遵守付费墙规则，不会抓取需要付费的信息，也不会收集能追踪到个人身份的数据 ...",
+    "id": "8s3VLM7bir7",
+    "order": 565743,
+    "createdAt": "2023-08-08T03:19:45.977Z",
+    "title": "OpenAI推出网络爬虫机器人GPTBot：收集数据改进AI模型",
+    "score": 0.440886225820624,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-08 11:19:45",
+    "uuid": "26aee7cd-b1f3-410e-bde0-af4ffde983a0"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" }
