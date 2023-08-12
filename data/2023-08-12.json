@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "微软研究院开发出了全新的大语言模型Gorilla，其准确性和灵活性在API调用方面优于GPT-4。使用了检索器感知训练技术，能够学习API调用的语义并生成语义和语法正确的文本内容 ...",
+    "id": "8sbrStNMbIp",
+    "order": 567719,
+    "createdAt": "2023-08-12T08:05:33.910Z",
+    "title": "API 调用上优于 GPT-4，微软研发出 Gorilla LLM",
+    "score": 0.646175504566595,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-12 16:05:33",
+    "uuid": "bc10dbee-9f48-48cf-b68a-c30e7c69ef0c"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "新浪" },
       { "siteName": "澎湃新闻" },
