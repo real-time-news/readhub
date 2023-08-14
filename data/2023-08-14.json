@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "金融监管总局近日发布了《关于做好防汛救灾和灾后重建金融服务工作的通知》，旨在鼓励和支持保险资金积极参与灾后恢复重建工作。",
+    "id": "8sdf58NtWN6",
+    "order": 567980,
+    "createdAt": "2023-08-14T01:45:46.854Z",
+    "title": "国家金融监管总局：鼓励保险资金积极参与灾后恢复重建",
+    "score": 0.661470323614394,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-14 09:45:46",
+    "uuid": "24a4cb52-731c-4ee2-a247-25f1e0bc5595"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "特斯拉在得克萨斯州的超级工厂已经开始生产 Cybertruck 电动皮卡，并将在 9 月底开始交付给员工和公司内部人员 ...",
+    "id": "8seGjPnbIGO",
+    "order": 567977,
+    "createdAt": "2023-08-14T01:40:14.871Z",
+    "title": "多辆特斯拉Cybertruck电动皮卡现身得州工厂，即将量产交付",
+    "score": 0.646831670208368,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-14 09:40:14",
+    "uuid": "eca95cf7-16bf-4833-a670-518393478c22"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "36Kr" },
       { "siteName": "36Kr" }
@@ -16,6 +52,25 @@
     "voteDesc": "",
     "date": "2023-08-14 09:32:12",
     "uuid": "c6e4ff5b-16a2-43b6-ae46-42fe2f45d534"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "台湾媒体报道称，鸿海集团近日首次拿下英伟达HGX AI服务器芯片基板订单，供货比重超过50%。此外，鸿海集团也将成为英伟达AI服务器芯片基板的最大供应商之一 ...",
+    "id": "8seIsFyX8mF",
+    "order": 567967,
+    "createdAt": "2023-08-14T01:10:16.143Z",
+    "title": "消息称鸿海再度拿下大单，成英伟达AI服务器芯片基板最大供应商",
+    "score": 0.855460936199713,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-14 09:10:16",
+    "uuid": "c7ff4a66-5ce7-4985-a515-33fd68e65e59"
   },
   {
     "newsArray": [
