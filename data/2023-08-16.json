@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星原计划在 2024 年 2 月推出一款XR 头戴设备，但由于苹果 Vision Pro 给到的压力太大，三星决定重新审视这款产品的规格和设计，并将发布时间推迟 3-6 个月 ...",
+    "id": "8shrT5abqd3",
+    "order": 568874,
+    "createdAt": "2023-08-15T23:46:52.674Z",
+    "title": "三星XR头显参数曝光：Exynos 2200 SoC配Micro-OLED屏幕",
+    "score": 0.527685819755104,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-16 07:46:52",
+    "uuid": "f13e716a-f6d7-4dc4-942a-525d87bab426"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果公司正在研究新技术和方法，以彻底消除 14 英寸和 16 英寸 MacBook Pro 的屏幕边框 ...",
+    "id": "8shYhi3zQoO",
+    "order": 568872,
+    "createdAt": "2023-08-15T23:46:02.799Z",
+    "title": "苹果新专利曝光：可彻底消除MacBook Pro屏幕边框",
+    "score": 0.470363608360516,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-16 07:46:02",
+    "uuid": "c968119a-2e2c-490f-b552-cc0fcc91cc00"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "马斯克在执掌 X(前推特)后，调整了短链接 t.co 的外链服务，引发其它平台的不满。用户点击其他网站的短链接时，X(推特)的推文会延迟 5 秒时间加载，然后再开始加载正确的网站 ...",
+    "id": "8shVq5ljdPx",
+    "order": 568871,
+    "createdAt": "2023-08-15T23:45:36.406Z",
+    "title": "X（推特）再出争议操作：t.co 短链延迟 5 秒加载Threads 等平台",
+    "score": 0.437955328935624,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-16 07:45:36",
+    "uuid": "49abd861-b4ca-4835-aa0b-f715b1fba14d"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "IT 之家" },
       { "siteName": "搜狐" }
