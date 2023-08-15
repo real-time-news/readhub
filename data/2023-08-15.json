@@ -1,6 +1,39 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "国家统计局表示，8月份开始首次增加发布服务零售额数据，旨在更全面地反映消费市场的发展 ...",
+    "id": "8sgCaEO3OgT",
+    "order": 568527,
+    "createdAt": "2023-08-15T04:03:36.603Z",
+    "title": "国家统计局：8月份开始首次增加发布服务零售额数据",
+    "score": 0.588641465720965,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-15 12:03:36",
+    "uuid": "6a273dee-2e29-4801-aefa-594fe405f692"
+  },
+  {
+    "newsArray": [{ "siteName": "和讯汽车" }, { "siteName": "快科技" }],
+    "summary": "特斯拉回应哨兵模式争议：出厂时默认关闭，但岳阳机场停车场禁止特斯拉入内。特斯拉称已在中国建立数据中心，并参与汽车数据安全试点 ...",
+    "id": "8sguY3zygQP",
+    "order": 568522,
+    "createdAt": "2023-08-15T03:52:07.407Z",
+    "title": "因哨兵模式遭岳阳机场停车场禁入，特斯拉回应：出厂时默认关闭",
+    "score": 0.612807189718696,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-15 11:52:07",
+    "uuid": "185bf190-1bbc-48fd-8696-f400c28d4b85"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国证券网" },
       { "siteName": "澎湃新闻" },
       { "siteName": "钛媒体" }
