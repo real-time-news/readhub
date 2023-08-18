@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "搜狐" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "快手宣布其自研大语言模型应用“快手AI对话”功能已经在安卓版本开放内测，该功能可以通过互动对话形式帮助用户快速查找短视频、达人、百科等内容，并打破站内内容的生态壁垒，提供全网检索服务。",
+    "id": "8sm5WIOrJCS",
+    "order": 570365,
+    "createdAt": "2023-08-18T11:09:24.878Z",
+    "title": "快手自研大模型进展：“快手AI对话”功能已在安卓版开放内测",
+    "score": 0.709783071340295,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-18 19:09:24",
+    "uuid": "1a85acfc-80ca-43a1-af13-686abaabbc18"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国证券网" },
       { "siteName": "新浪" },
       { "siteName": "36Kr" }
