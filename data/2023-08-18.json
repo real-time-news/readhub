@@ -1,5 +1,51 @@
 [
   {
+    "newsArray": [{ "siteName": "新浪科技" }, { "siteName": "快科技" }],
+    "summary": "联想公布了2023/24财第一季度财报，营收下降但智能设备业务表现稳定 ...",
+    "id": "8slt9Mo2wKB",
+    "order": 570164,
+    "createdAt": "2023-08-18T06:04:20.074Z",
+    "title": "联想2023/24财年第一季度财报：营收129亿美元，净利润1.77亿美元",
+    "score": 0.618970131773469,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-18 14:04:20",
+    "uuid": "328585a2-ed88-4dd7-ada2-cba7ebef9fe2"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "根据EverypixelJournal公布的统计报告，在过去18个月内，人工智能已经生成了150亿张图片，其中80%来自开源模型，每天创建3400万张图片。",
+    "id": "8slB0HIiZaG",
+    "order": 570161,
+    "createdAt": "2023-08-18T06:03:24.424Z",
+    "title": "每天 3400 万张，报告称过去 18 个月里 AI 已生成 150 亿张图片",
+    "score": 0.555508276448563,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-18 14:03:24",
+    "uuid": "43374137-69b4-4ba5-b004-e7993de3db3c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "谷歌取消了对其Chromebook笔记本支持NVIDIA独显的计划。虽然取消计划，但Chromebook仍然具有游戏能力，用户可以通过高分辨率和高刷新率的设备进行云游戏 ...",
+    "id": "8slyAXh2BJW",
+    "order": 570154,
+    "createdAt": "2023-08-18T05:49:28.365Z",
+    "title": " 谷歌取消NVIDIA独显GPU支持计划，已删除相关代码 ",
+    "score": 0.557210648928977,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-18 13:49:28",
+    "uuid": "8a1c3fe9-c59b-4c8b-9598-779e7257eac4"
+  },
+  {
     "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "搜狐" },
@@ -86,6 +132,43 @@
     "voteDesc": "",
     "date": "2023-08-18 13:29:46",
     "uuid": "a967a2ee-5eb6-4cd0-8cb6-55be2e5de9e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软Windows画图应用终于支持画布居中了。本次更新面向Canary和Dev预览版用户，解决了一直以来的问题。除此之外，画图工具栏 UI 也发生了变化 ...",
+    "id": "8slu6vCFvBz",
+    "order": 570122,
+    "createdAt": "2023-08-18T05:02:04.140Z",
+    "title": "微软 Win11 画图应用终于支持画布居中，已面向 Canary 和 Dev 预览版用户更新",
+    "score": 0.686472959658013,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-18 13:02:04",
+    "uuid": "bf9a0afa-ba49-41f3-b877-aea879e78099"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "IDC 下调量子计算支出预估，称生成式 AI 等技术正吞噬其资金。由于硬件发展慢于预期，量子计算机的预估客户支出费用已经大幅降低 ...",
+    "id": "8slxsg1xCAX",
+    "order": 570121,
+    "createdAt": "2023-08-18T05:01:59.418Z",
+    "title": "IDC 下调量子计算支出预估，称生成式AI等技术正吞噬其资金",
+    "score": 0.623321863105367,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-18 13:01:59",
+    "uuid": "5fada8c2-4a06-4a2f-8749-c921de4b9937"
   },
   {
     "newsArray": [
