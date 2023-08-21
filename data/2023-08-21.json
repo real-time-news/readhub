@@ -1,5 +1,78 @@
 [
   {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "快手自研的大语言模型“快意”(KwaiYii)已开启内测，并在中英文上都具备优秀能力 ...",
+    "id": "8sqnJanePqZ",
+    "order": 570863,
+    "createdAt": "2023-08-21T01:15:30.514Z",
+    "title": "快手自研大模型“快意”开启内测",
+    "score": 0.563176858210632,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-21 09:15:30",
+    "uuid": "4a17a556-1d82-4b69-84af-5671160f559e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "无人驾驶出租车正式在旧金山运营，但政府和民众对此反应不同。加州公用事业委员会以3:1的投票结果批准Waymo和Cruise两家自动驾驶公司在旧金山全天候商业运营无人驾驶出租车，但并未公开具体的定价和运营规则 ...",
+    "id": "8sqkFlJbDrJ",
+    "order": 570858,
+    "createdAt": "2023-08-21T00:53:47.571Z",
+    "title": "无人驾驶出租车正式获准运营：政府与民众却怒了",
+    "score": 0.471246048137828,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-21 08:53:47",
+    "uuid": "db725647-500c-404c-909b-4d7c998a3785"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中信证券研报指出，在政治局指引下，证监会明确了资本市场改革方向和范围，包括投资、融资和交易三个端口，这意味着资本市场改革进入新阶段，改革重点将从一级市场转向二级市场，从融资端转向投融资平衡发展 ...",
+    "id": "8spcPRpvM6z",
+    "order": 570856,
+    "createdAt": "2023-08-21T00:47:41.711Z",
+    "title": "中信证券：证券板块估值有望持续修复",
+    "score": 0.567451703185087,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-21 08:47:41",
+    "uuid": "c65a55fc-562a-4a09-8284-70c2713ecca9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中金研报认为，当前资本市场面临阶段性挑战，但可以通过一揽子的政策措施和制度安排立足长远，促进上市公司高质量发展，改善投资者中长期回报预期，以及完善资本市场基础制度等，因此市场机遇大于风险 ...",
+    "id": "8sqjzTHAhgF",
+    "order": 570853,
+    "createdAt": "2023-08-21T00:47:20.318Z",
+    "title": "中金：一揽子举措积极应对当前挑战同时立足长远，市场机遇大于风险",
+    "score": 0.654487508600756,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-21 08:47:20",
+    "uuid": "efcf8163-82da-40af-89c3-e803d426892a"
+  },
+  {
     "newsArray": [{ "siteName": "搜狐" }, { "siteName": "新浪科技" }],
     "summary": "一家知名报纸可能将对人工智能研发机构OpenAI提起诉讼，称其使用了该报纸的文章和图片来训练其AI模型，违反了服务条款。如果诉讼成功，OpenAI可能会面临重大损失 ...",
     "id": "8spCJERguQp",
