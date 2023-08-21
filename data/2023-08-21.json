@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "Canalys发布的全球新能源汽车市场动态报告表明，今年 Q1 在中国市场新能源轻型汽车销量达到 133 万辆，占全球总量近半 ...",
+    "id": "8sqzDBkkzZy",
+    "order": 571007,
+    "createdAt": "2023-08-21T05:02:00.480Z",
+    "title": "Canalys：Q1 中国市场新能源轻型汽车销量 133 万辆，占全球总量近半",
+    "score": 0.606807389727794,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-21 13:02:00",
+    "uuid": "12229e9b-ff55-4da8-8921-e5766bb977b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "Chiplet(芯粒)芯片公司北极雄芯完成新一轮融资，投资方为丰年资本和正为资本。该轮融资将用于开发下一代通用型芯粒和功能型芯粒，同时投入高速互联芯粒接口等 Chiplet 基础技术的研发 ...",
+    "id": "8sqoLkequ0Q",
+    "order": 571004,
+    "createdAt": "2023-08-21T05:01:22.519Z",
+    "title": "「 北极雄芯」完成超亿元融资，探索基于芯粒的专用计算",
+    "score": 0.665471248628407,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-21 13:01:22",
+    "uuid": "f3c7c932-551c-4ab1-9c5c-0ff822596d29"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国证券网" },
       { "siteName": "澎湃新闻" },
       { "siteName": "新浪" }
