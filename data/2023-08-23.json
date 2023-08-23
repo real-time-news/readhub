@@ -1,6 +1,38 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐" },
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "快手的AI对话功能已开放安卓版内测，可以通过点击快手搜索首页右上角AI图标进入产品首页，选择输入内容对话或点击引导问题便可开启对话，或者触发“搜索智能问答”卡片，通过底部入口可以启用该功能 ...",
+    "id": "8sqHKRpnWDw",
+    "order": 572033,
+    "createdAt": "2023-08-23T03:46:40.861Z",
+    "title": "快手AI对话开放安卓版内测，抖音的聊天机器人也已上线测试",
+    "score": 0.611032655512955,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-23 11:46:40",
+    "uuid": "2443462b-66f9-43bd-a811-8f32377e737f"
+  },
+  {
+    "newsArray": [{ "siteName": "虎嗅" }, { "siteName": "网易科技" }],
+    "summary": "炎黄盈动推出了AI Copilot，这是一种对话式交互的AI应用搭建助理，能够帮助用户快速生成和定制符合其需求和未来发展的数字化应用 ...",
+    "id": "8stKCy5HcW9",
+    "order": 572032,
+    "createdAt": "2023-08-23T03:45:52.395Z",
+    "title": "炎黄盈动推出AI Copilot，对话式交互辅助搭建数字化应用",
+    "score": 0.445527763810297,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-23 11:45:52",
+    "uuid": "b36b2d32-959b-43c7-bc50-4a14cfb9fcf4"
+  },
+  {
+    "newsArray": [
       { "siteName": "品玩" },
       { "siteName": "IT 之家" },
       { "siteName": "中国证券网" }
@@ -88,6 +120,20 @@
     "voteDesc": "",
     "date": "2023-08-23 10:30:59",
     "uuid": "4c2d75c7-ed72-44b8-90f7-d50c980f2869"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "搜狐" }],
+    "summary": "微软Edge浏览器即将推出智能搜索功能，利用人工智能技术，支持拼写错误搜索和匹配整个单词/短语。该功能预计将于2023年9月向所有用户推送 ...",
+    "id": "8stDrZqitlQ",
+    "order": 571961,
+    "createdAt": "2023-08-23T02:24:48.503Z",
+    "title": " 微软Edge浏览器将推智能搜索：支持拼写错误搜索 ",
+    "score": 0.640789756275501,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-23 10:24:48",
+    "uuid": "7e1f611b-bad5-448e-b512-627042144a1b"
   },
   {
     "newsArray": [{ "siteName": "快科技" }, { "siteName": "新浪科技" }],
