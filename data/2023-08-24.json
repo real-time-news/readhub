@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "中证网" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "中国民生银行作为中国银行间债券市场的主承销商之一，被发现存在违反自律管理规则的行为。其中，民生推荐撮合资产管理计划投资业务，协助企业非市场化发行债券 ...",
+    "id": "8svUO35NBLG",
+    "order": 572685,
+    "createdAt": "2023-08-24T09:02:44.241Z",
+    "title": "存在违反银行间债券市场相关自律管理规则行为，民生银行被责令整改",
+    "score": 0.790700106113109,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-24 17:02:44",
+    "uuid": "6b4d2e33-18a0-4e69-b59c-c71666dce909"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "亿欧" },
+      { "siteName": "和讯科技" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "美团第二季度营收679.6亿元，同比增长33.4%，经调净利润同比增272.2%。其中，核心本地商业营收512亿元，经营利润率为21.8%，即时配送交易笔数同比增长31.6% ...",
+    "id": "8svTC8vDkog",
+    "order": 572684,
+    "createdAt": "2023-08-24T09:01:48.252Z",
+    "title": "美团二季度营收679.6亿元 经调净利润同比增272.2%",
+    "score": 0.764059251830291,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-24 17:01:48",
+    "uuid": "c67bfff9-0d29-4257-9dd3-832fdd68d89a"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "Beats 宣布与英国音乐人 Skepta 主理品牌 MAIN 推出合作款耳机 ...",
+    "id": "8suFamaY8EA",
+    "order": 572683,
+    "createdAt": "2023-08-24T09:00:55.251Z",
+    "title": "Beats 宣布与英国音乐人 Skepta 主理品牌 MAIN 推出合作款耳机",
+    "score": 0.573467401008943,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-24 17:00:55",
+    "uuid": "c0c06238-e85d-435c-9d56-51f091e386e9"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪" },
       { "siteName": "钛媒体" },
       { "siteName": "36Kr" }
