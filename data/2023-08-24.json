@@ -1,5 +1,110 @@
 [
   {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "北京市住建委规定，自8月21日起，物业不得收取生活垃圾处理费、装修管理服务费和保证金。生活垃圾清运费应按照政府定价标准收取，未包含的可以重复收取，但不得变相收取。",
+    "id": "8sumjFHLukm",
+    "order": 572659,
+    "createdAt": "2023-08-24T08:05:17.025Z",
+    "title": "北京：物业不得收取生活垃圾处理费、装修管理服务费和保证金",
+    "score": 0.715169924777628,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-24 16:05:17",
+    "uuid": "25dca37c-afe3-44c0-bf38-b5914215ffef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "欧盟官方公示满20天的《欧盟电池和废电池法规》正式生效，将于2024年2月18日起实施 ...",
+    "id": "8svQuQVghKo",
+    "order": 572657,
+    "createdAt": "2023-08-24T08:04:00.839Z",
+    "title": "欧盟电池法生效，商务部：希望不要形成新的贸易壁垒",
+    "score": 0.561248595226839,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-24 16:04:00",
+    "uuid": "77e862ae-1142-461c-a2d5-108843b2086a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "日本今晚正式开始将福岛核电站的核污染水排入大海，总量130万吨，给海洋及食品安全带来不可预知的风险 ...",
+    "id": "8svOXCN0mVk",
+    "order": 572653,
+    "createdAt": "2023-08-24T08:02:05.620Z",
+    "title": "日本启动核污水排海 有人开始囤盐 盐业公司表态：供应充足",
+    "score": 0.608577849832145,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-24 16:02:05",
+    "uuid": "9d818b47-d0a1-4966-acfe-0994de9fa269"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "三星与Thom Browne将推出联名新品，预计为Galaxy Z Fold 5/ Flip 5手机。该品牌的合作始于三星首款折叠屏产品，未来将扩展到手机、耳机等领域 ...",
+    "id": "8svOewOYKUC",
+    "order": 572652,
+    "createdAt": "2023-08-24T08:01:54.170Z",
+    "title": "三星 ×Thom Browne 联名新品即将上市，预计为 Galaxy Z Fold 5 / Flip 5 手机",
+    "score": 0.552569410839477,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-24 16:01:54",
+    "uuid": "2230203e-b9a1-494a-a501-f9d475fe3c06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "中国人寿我爱我家任副总裁刘晖表示，长期寿险资金需要良好的长周期考核氛围环境和政策，以发挥其优势并坚持长期投资、价值投资、稳健投资的逻辑 ...",
+    "id": "8svBu0BKwbn",
+    "order": 572651,
+    "createdAt": "2023-08-24T08:01:36.327Z",
+    "title": "中国人寿：非常支持给长期寿险资金提供更好的长周期考核氛围环境和政策",
+    "score": 0.530769262954984,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-24 16:01:36",
+    "uuid": "c920dd47-fed8-4c81-b6d6-12c45d6af38e"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "品玩" }],
+    "summary": "人工智能公司 ElevenLab 旗下语音生成模型 Eleven Multilingual V2 现已正式推出 ...",
+    "id": "8svC6MHGgJy",
+    "order": 572650,
+    "createdAt": "2023-08-24T08:00:32.893Z",
+    "title": "ElevenLabs 正式推出文本生成语音模型Eleven Multilingual V2",
+    "score": 0.828771861194473,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-24 16:00:32",
+    "uuid": "194b4b97-c440-409b-8a49-1cdd56a79c25"
+  },
+  {
     "newsArray": [{ "siteName": "搜狐科技" }, { "siteName": "网易科技" }],
     "summary": "华为终端BG首席运营官何刚表示，在短短两周内，有超过500万的用户升级到了全新的HarmonyOS 4 ...",
     "id": "8suDnBWteGz",
