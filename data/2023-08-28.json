@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "品玩" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "WizardCoder 34B 是一款由微软和香港浸会大学开发的代码生成模型，它在 HumanEval 基准测试中击败了 GPT-4，性能超过了最新迭代的 GPT-3.5 和 Claude 2 ...",
+    "id": "8sCz2DqPG0D",
+    "order": 573621,
+    "createdAt": "2023-08-28T09:16:03.347Z",
+    "title": " WizardCoder 34B 在HumanEval 基准测试中击败 GPT-4",
+    "score": 0.57097978668864,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-28 17:16:03",
+    "uuid": "6ec00e68-6455-4d2f-9ccd-7d2690b4c1bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "中国证券网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "蚂蚁集团将在外滩大会发布大模型落地进展，从模型层到应用层都会有展示。此前，蚂蚁集团正在研发基础大模型，包括大语言模型和多模态大模型。本次大会有望迎来蚂蚁大模型的首次公开亮相。",
+    "id": "8sCxebhoRNk",
+    "order": 573619,
+    "createdAt": "2023-08-28T09:10:58.915Z",
+    "title": "蚂蚁集团：将在外滩大会发布大模型落地进展",
+    "score": 0.690827185819193,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-28 17:10:58",
+    "uuid": "7b26ae20-0ba3-4350-b756-8c2df917e31c"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "新浪" },
       { "siteName": "新浪" }
