@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "微软获得了一项关于Surface Duo的技术专利，表明下一代 Duo 手机有望采用可折叠屏幕设计 ...",
+    "id": "8sDBMvvszKD",
+    "order": 573743,
+    "createdAt": "2023-08-29T00:32:07.930Z",
+    "title": "微软Surface Duo手机新专利曝光，改用可折叠屏幕",
+    "score": 0.670363230465874,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-29 08:32:07",
+    "uuid": "e72dbac2-1d64-4c12-9a08-b84c5b2bc91b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软在 Windows Copilot 预览版中开始支持必应聊天企业版，符合条件的商业客户可以从 Windows Copilot 面板中直接访问 Bing Chat 企业版 ...",
+    "id": "8sDyaooAPYa",
+    "order": 573740,
+    "createdAt": "2023-08-29T00:06:28.516Z",
+    "title": "微软Windows Copilot预览版已支持必应聊天企业版",
+    "score": 0.686389813813933,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-29 08:06:28",
+    "uuid": "9d9dd36d-715e-485f-94d7-a5b359bb8607"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "阿里巴巴副总裁颜乔在朋友圈否认了媒体关于阿里巴巴与两氢一氧进行收购谈判、收编陈航及其核心团队的传闻 ...",
+    "id": "8sD3nIKyVz5",
+    "order": 573739,
+    "createdAt": "2023-08-29T00:03:22.946Z",
+    "title": "阿里回应收购两氢一氧传闻：“假的，捕风捉影”",
+    "score": 0.484082514513301,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-29 08:03:22",
+    "uuid": "28023bdd-f72c-4925-8cee-fc2ec8e67a82"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
@@ -18,5 +72,25 @@
     "voteDesc": "",
     "date": "2023-08-29 07:46:21",
     "uuid": "1de87f54-6eca-41c6-bff5-5e44d1948308"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI推出了企业版ChatGPT，增加了隐私保护功能和篇幅较长的问题支持，以满足企业客户的需求。该工具包括无限使用GPT-4模型和数据加密功能，以确保客户数据的安全性 ...",
+    "id": "8sDbXvcjR2G",
+    "order": 573721,
+    "createdAt": "2023-08-28T19:01:31.468Z",
+    "title": "OpenAI推出企业版ChatGPT 新增隐私保护功能及支持长问题",
+    "score": 0.659708122767791,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-29 03:01:31",
+    "uuid": "df78d8ba-40e4-4856-9529-c87c306742be"
   }
 ]
