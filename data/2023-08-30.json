@@ -1,6 +1,66 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "21经济网" }
+    ],
+    "summary": "8月29日，TCL科技公布了2023年上半年报。数据显示，该公司实现营收851.5亿元，同比增长0.7%。净利润23.9亿元，同比增长24.1% ...",
+    "id": "8sEF48Q7p0q",
+    "order": 574178,
+    "createdAt": "2023-08-30T03:47:42.947Z",
+    "title": "TCL科技2023半年报：营收851.5亿元，净利同比增长24.1%",
+    "score": 0.405105149640662,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-30 11:47:42",
+    "uuid": "1e86ff2b-ac90-4c2c-b8ff-863c271ad77c"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "多人地牢大逃杀游戏《GREED IS GOOD》将于9月4日进行首次招募测试，并支持简中。玩家需填写调查问卷报名，官方将对报名者进行审核，并将游戏激活码发送至邮箱 ...",
+    "id": "8sCu1Z0UtW9",
+    "order": 574176,
+    "createdAt": "2023-08-30T03:45:34.922Z",
+    "title": "多人地牢大逃杀游戏《GREED IS GOOD》9 月 4 日开启招募测试，支持简中",
+    "score": 0.48731546661354,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-30 11:45:34",
+    "uuid": "713cd3f1-a937-473e-9d1f-43dc39d8dbb3"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "腾讯 QQ Linux 版 3.2.0 版本更新，支持收红包等功能，采用了龙芯 LoongArch 架构及 MIPS 64 位小端字节序版本 ...",
+    "id": "8sCuKiadjYK",
+    "order": 574174,
+    "createdAt": "2023-08-30T03:45:06.944Z",
+    "title": "腾讯 QQ Linux 3.2.0 版本龙芯及 MIPS 架构更新：支持收红包等功能",
+    "score": 0.490560865828711,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-30 11:45:06",
+    "uuid": "9fe01069-8693-4a44-8f3c-d8111c966a56"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "品玩" }],
+    "summary": "微软发布了第三代Turing Bletchley视觉语言模型，可以大幅改进图像搜索体验。该模型已逐步整合到必应(Bing)等相关产品中，目前用于审核Xbox游戏服务上的内容 ...",
+    "id": "8sFkJagIFvV",
+    "order": 574172,
+    "createdAt": "2023-08-30T03:44:25.856Z",
+    "title": "微软发布Turing Bletchley v3视觉语言模型：必应搜索图片更精准",
+    "score": 0.839794352728929,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-08-30 11:44:25",
+    "uuid": "49209a9f-b176-403b-8b40-7a13ab1f3549"
+  },
+  {
+    "newsArray": [
       { "siteName": "中证网" },
       { "siteName": "中国证券网" },
       { "siteName": "36Kr" }
