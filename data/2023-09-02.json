@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "8月份，百强房企销售额下降，但部分企业加大在一、二线城市投资力度，同时4个一线城市全部落实首套“认房不用认贷”政策，预计修复市场情绪和预期，促进市场稳定复苏 ...",
+    "id": "8sJKhKGBDYe",
+    "order": 575138,
+    "createdAt": "2023-09-02T01:46:28.811Z",
+    "title": "百强房企前8个月销售额超4.3万亿元 “千亿房企”同期增2家",
+    "score": 0.621130248466052,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-02 09:46:28",
+    "uuid": "448dc3d6-e119-4f74-bf74-cfb137a4b39a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Meta推出了一款名为FACET的AI工具，用于识别计算机视觉系统中的种族和性别偏见，包含32000张图像，包括50000个人体图像 ...",
+    "id": "8sKinRXheTo",
+    "order": 575137,
+    "createdAt": "2023-09-02T01:45:47.773Z",
+    "title": "Meta推出开源数据集FACET，用于解决AI模型公平性问题",
+    "score": 0.654420253167151,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-02 09:45:47",
+    "uuid": "bbc30cae-2ede-4c70-ae05-be5cd6e52e09"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
       { "siteName": "钛媒体" }
