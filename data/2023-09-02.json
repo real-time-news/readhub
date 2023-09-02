@@ -1,6 +1,70 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "周五(9月10日)，热门中概股普遍上涨，其中贝壳、新东方、蔚来、盛丰物流等股涨幅超过7%。此外，达达集团、途牛、富途控股、禾赛科技、老虎证券等股涨超6% ...",
+    "id": "8sK2qY4Lqum",
+    "order": 575136,
+    "createdAt": "2023-09-02T01:31:29.282Z",
+    "title": "热门中概股周五普涨 贝壳新东方蔚来涨超7% 亿咖通科技跌超6%",
+    "score": 0.572838013940961,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-02 09:31:29",
+    "uuid": "833df497-7b42-4162-ab76-aad4ae2a2eb0"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }, { "siteName": "IT 之家" }],
+    "summary": "A股上市公司世纪华通发布2023半年报，实现营收60.5亿元，净利润同比增长78.81%。其中，云数据业务相关收入首次披露，公司是国内少数几家在一线城市投建新一代数据中心的第三方IDC企业 ...",
+    "id": "8sJ9LensS2R",
+    "order": 575133,
+    "createdAt": "2023-09-02T01:29:18.837Z",
+    "title": "世纪华通2023年中报：营收60.5亿元 净利润同比增78.81%",
+    "score": 0.761284195344349,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-02 09:29:18",
+    "uuid": "4d905e3f-ee24-4ca3-9d56-69922677ecea"
+  },
+  {
+    "newsArray": [{ "siteName": "快科技" }, { "siteName": "凤凰科技" }],
+    "summary": "近日，一台电动smart精灵#1在街头起火冒烟，smart官方表示已成立专项行动小组，并排除外部因素导致的可能性 ...",
+    "id": "8sKbWmA8npa",
+    "order": 575132,
+    "createdAt": "2023-09-02T01:28:45.902Z",
+    "title": "电动smart街头起火冒烟，官方：不排除外部因素影响",
+    "score": 0.623777880799395,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-02 09:28:45",
+    "uuid": "4840dde8-050e-4629-9df7-71e0b6a0fe7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "新浪" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美联储RRP工具使用规模较峰值下降了近1万亿美元，因机构投资者认为美联储已完成加息，更愿意购买国库券而非存放现金在RRP工具中 ...",
+    "id": "8sK7XyGpcvm",
+    "order": 575129,
+    "createdAt": "2023-09-02T01:01:55.549Z",
+    "title": "美联储RRP工具使用规模较峰值下降近1万亿美元 吸引力不及美国国库券",
+    "score": 0.589021462780131,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-02 09:01:55",
+    "uuid": "800c70ab-ac61-43fb-b701-e1fbb55d7f1e"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" },
       { "siteName": "凤凰科技" }
@@ -43,5 +107,25 @@
     "voteDesc": "",
     "date": "2023-09-02 01:16:45",
     "uuid": "8b913d23-8aa4-48aa-935a-c961f297bb99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "传音 TECNO MEGABOOK S1 炫彩版笔记本亮相，采用多色光异构体技术，A 面可动态变色。该设备定位为商务创意笔记本电脑，拥有轻薄机身和无边框屏幕等 ...",
+    "id": "8sJCKblRawK",
+    "order": 575099,
+    "createdAt": "2023-09-01T17:01:06.908Z",
+    "title": "传音 TECNO MEGABOOK S1 炫彩版笔记本亮相，A 面可动态变色",
+    "score": 0.4220680127304,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-02 01:01:06",
+    "uuid": "d3d6eb87-9751-47ee-a7c0-5642b86ed963"
   }
 ]
