@@ -1,5 +1,87 @@
 [
   {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "新版《中国科学院院士行为规范(试行)》增加了“禁止行为”章节，规定院士禁止公开发表与自身专业领域无关的学术意见，并强调要着力培育德才兼备的科研团队。",
+    "id": "8sPoIpq7RXF",
+    "order": 575871,
+    "createdAt": "2023-09-05T05:04:29.879Z",
+    "title": "新版《中国科学院院士行为规范（试行）》公布 增加“禁止行为”章节",
+    "score": 0.660215696808668,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-05 13:04:29",
+    "uuid": "bad72ea7-2024-4abf-b9a8-24f9dc1a6ac8"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "东京电玩展2023将于9月21日至24日在日本千叶市幕张展览馆举行。世嘉公司公布了其参展游戏阵容，其中包括《无尽地牢》、《如龙7外传：无名之龙》、《索尼克：超级巨星》和《女神异闻录3:Reload》等游戏 ...",
+    "id": "8sPm1ufMbFW",
+    "order": 575868,
+    "createdAt": "2023-09-05T05:03:35.111Z",
+    "title": "东京电玩展游戏阵容公布 玩家可以试玩购买周边",
+    "score": 0.432253110213373,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-05 13:03:35",
+    "uuid": "66581af9-f419-49fe-ae2a-e1a076bb9a68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "AYANEO FLIP 翻盖掌机时隔一年多终于公布外观，采用白色机身，小型笔记本造型，配全键盘，游戏按键和摇杆位于键盘左右两侧 ...",
+    "id": "8sPuBccvqlI",
+    "order": 575867,
+    "createdAt": "2023-09-05T05:03:11.000Z",
+    "title": "AYANEO FLIP 翻盖掌机亮相：时隔一年多改换造型，配有全键盘",
+    "score": 0.45951964857103,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-05 13:03:11",
+    "uuid": "21596f39-344b-425a-8bc4-44a4fd692e28"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "IT之家报道，科大讯飞推出了一款AI智能键盘T8星火版，包括红轴和黄轴两种版本，首发价为799元，支持智能生成PPT等功能 ...",
+    "id": "8sPw0U6TNjQ",
+    "order": 575866,
+    "createdAt": "2023-09-05T05:01:23.854Z",
+    "title": "799 元，科大讯飞推出 AI 智能键盘 T8 星火版：支持智能生成 PPT 等功能",
+    "score": 0.48914962681772,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-05 13:01:23",
+    "uuid": "912ad78b-334b-4d14-8734-786c82ba9874"
+  },
+  {
+    "newsArray": [{ "siteName": "和讯汽车" }, { "siteName": "新浪科技" }],
+    "summary": "大众汽车集团在慕尼黑车展上宣布，将利用可持续移动出行业务开拓新的利润来源，其平台架构、电池和充电、车辆软件和移动出行四大方面取得新进展 ...",
+    "id": "8sPrRNuAmOn",
+    "order": 575863,
+    "createdAt": "2023-09-05T04:46:21.699Z",
+    "title": " 大众宣布开拓可持续出行业务：新车型便宜19万元 ",
+    "score": 0.666787444985059,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-05 12:46:21",
+    "uuid": "6409992f-b577-44d5-81c8-fc837b8208f9"
+  },
+  {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "凤凰科技" }],
     "summary": "宝马推出首款电动防弹车 i7 Protection，重量达到 4900 公斤，续航里程为 380 公里 ...",
     "id": "8sOnuN8zKEv",
