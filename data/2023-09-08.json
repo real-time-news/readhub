@@ -1,6 +1,38 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果公司获得了一项新 iPhone 专利，旨在检测 iPhone 或 iPad 是否贴膜，并通过动作补偿改善交互 ...",
+    "id": "8sU6EpqhNc6",
+    "order": 576830,
+    "createdAt": "2023-09-07T23:31:24.958Z",
+    "title": "苹果新iPhone专利获批：检测屏幕是否贴膜，动态改善显示输出",
+    "score": 0.554759910171706,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-08 07:31:24",
+    "uuid": "96a315db-bda2-4908-a917-c8e55f862435"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "联合国教科文组织发布了首份关于在教育中使用生成式人工智能(AIGC)的指南，敦促政府机构规范使用这项技术，包括保护数据隐私和对用户设置年龄限制 ...",
+    "id": "8sTxZm6BNPV",
+    "order": 576825,
+    "createdAt": "2023-09-07T23:30:32.220Z",
+    "title": "联合国颁布首份AIGC教育指南：机遇与挑战并存",
+    "score": 0.456706627629753,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-08 07:30:32",
+    "uuid": "806dfdbb-f4a9-482c-8bbf-07f12ec931cb"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪" },
       { "siteName": "新浪科技" },
       { "siteName": "新浪" }
