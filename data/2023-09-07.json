@@ -1,5 +1,77 @@
 [
   {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "东吴证券研报指出，近期证券行业利好政策迭出，券商经营环境有望进一步改善 ... 政治局会议定调“活跃资本市场，提振投资者信心”后，利好政策频频落地 ...",
+    "id": "8sR4Y2ROYMw",
+    "order": 576485,
+    "createdAt": "2023-09-07T00:31:00.245Z",
+    "title": "东吴证券：政策利好叠加估值优势，证券板块机会值得关注",
+    "score": 0.543651944906049,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-07 08:31:00",
+    "uuid": "a516a830-cf4d-4b2d-a7d8-db33b97cdcc0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "新款 CineAlta 电影机将在 9 月 12 日 22:00 发布 ... 索尼在 2021 年推出了旗舰数字电影摄影机 CineAltaV 2—— 全画幅 8K 和 6K 电影摄影机 ...",
+    "id": "8sRQYP5YynT",
+    "order": 576475,
+    "createdAt": "2023-09-07T00:18:57.005Z",
+    "title": "索尼预告新款 CineAlta 电影机，9 月 12 日发布",
+    "score": 0.401407277111856,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-07 08:18:57",
+    "uuid": "18e2c9e3-41cb-41cc-b5d2-4d5e550cd4bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "瑞典电动汽车品牌极星CEO托马斯·英格拉特表示，该公司计划12月推出一款带有该品牌名称的智能手机 ...",
+    "id": "8sRkb22mSDx",
+    "order": 576470,
+    "createdAt": "2023-09-07T00:17:36.260Z",
+    "title": "极星计划12月发布智能手机 并在中国推出首款电动汽车",
+    "score": 0.635589861197411,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-07 08:17:36",
+    "uuid": "4d6324a3-e8ec-476d-aed5-96731486205e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "成立于2013年的趣致集团作为一家人工智能物联网(AIoT)营销解决方案提供商， 专注于通过使用智能终端为快销品品牌提供服务 ...",
+    "id": "8sPMruCJmTc",
+    "order": 576466,
+    "createdAt": "2023-09-07T00:16:46.997Z",
+    "title": "趣致集团冲刺港交所：基于智能终端为快销品品牌提供服务，IPO前估值约6亿美元",
+    "score": 0.747737606509306,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-07 08:16:46",
+    "uuid": "266e8cdd-8266-465b-869b-8aaafb75d76b"
+  },
+  {
     "newsArray": [{ "siteName": "搜狐科技" }, { "siteName": "36Kr" }],
     "summary": "上周，独立游戏开发者Shasaur制作三年半的游戏（牺牲了不少陪伴朋友与家人的时间）为了丰富NPC对话内容，为玩家提供了OpenAI的官方API接口（可自行选择是否使用），经过与Steam官方的交涉后被永久下架 ...",
     "id": "8sQZpyYrixj",
@@ -12,6 +84,38 @@
     "voteDesc": "",
     "date": "2023-09-07 07:46:02",
     "uuid": "51b33e03-228e-4eee-b407-da6604836166"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "腾讯视频App 今日发布安卓版 / iOS 版 8.9.25 更新，HDR ...",
+    "id": "8sRVjFiaK4c",
+    "order": 576455,
+    "createdAt": "2023-09-06T23:43:53.224Z",
+    "title": "腾讯视频 App 现已支持 HDR Vivid 模式，480p 画质增强上线",
+    "score": 0.473287632278494,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-07 07:43:53",
+    "uuid": "7daaecf6-fce8-4fd3-a596-f34106937ecd"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "网络安全公司 Malwarebytes 今天发布报告，有攻击者在谷歌搜索中投放广告，用于分发 AMOS 恶意软件，可以同时对 macOS 和 Windows 设备发起攻击 ...",
+    "id": "8sSbncP1xQl",
+    "order": 576449,
+    "createdAt": "2023-09-06T23:42:43.625Z",
+    "title": "恶意软件 AMOS 威胁升级：在谷歌搜索投放广告、钓鱼诱骗 Mac 用户安装",
+    "score": 0.530730700663227,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-07 07:42:43",
+    "uuid": "bd4a075b-5ea4-4d83-80b9-949a52d11afc"
   },
   {
     "newsArray": [
