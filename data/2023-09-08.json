@@ -1,6 +1,44 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "据The Verge报道，微软曾经开发过一款 Xbox 游戏掌机原型，主打云游戏体验。此外，微软还定制了轻量级 Xbox 用户界面，并为游戏掌机、专用云游戏主机和电视开发了该界面 ...",
+    "id": "8sUhmRJr4VR",
+    "order": 576925,
+    "createdAt": "2023-09-08T02:48:29.424Z",
+    "title": "报道称微软曾开发 Xbox 云游戏掌机原型，并定制轻量级 UI",
+    "score": 0.755937398202337,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-08 10:48:29",
+    "uuid": "fd61f707-f615-41b6-a8a5-f820363f9cf5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国《时代》杂志公布了首份100大AI人物榜单，其中包括特斯拉、百度、 OpenAI 等公司的CEO以及学者等人物。马斯克和前女友格莱姆斯也进入了该榜单的创新者和思想家部分。",
+    "id": "8sUklx2tlc5",
+    "order": 576910,
+    "createdAt": "2023-09-08T02:16:37.225Z",
+    "title": "《时代》杂志公布百大AI人物：马斯克、李彦宏等人上榜",
+    "score": 0.403066188200492,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-08 10:16:37",
+    "uuid": "dfc2fae7-458d-49b8-b345-1cb3e0f45163"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪" },
       { "siteName": "新浪" },
       { "siteName": "36Kr" }
@@ -34,6 +72,25 @@
     "voteDesc": "",
     "date": "2023-09-08 10:01:50",
     "uuid": "52c00af5-e03e-4b14-9344-b5df8f7bf1c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "消息指出，任天堂正在为Switch 2开发《塞尔达传说：旷野之息》增强版，并将提高帧率和分辨率 ...",
+    "id": "8sTA9hQkYBr",
+    "order": 576901,
+    "createdAt": "2023-09-08T02:01:26.060Z",
+    "title": "消息称任天堂正为 Switch 2 开发《塞尔达传说：旷野之息》增强版",
+    "score": 0.612738884680257,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-08 10:01:26",
+    "uuid": "2107114f-8c1c-4839-b646-0ffd71c2b540"
   },
   {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
