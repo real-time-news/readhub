@@ -1,5 +1,73 @@
 [
   {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪" },
+      { "siteName": "界面" }
+    ],
+    "summary": "滴滴出行今天发布了截至6月30日的2023年第二季度财报。财报显示，滴滴第二季度总营收为488亿元，同比增长52.6%，归属于滴滴普通股股东的净亏损为2.67亿元，同比大幅收窄 ...",
+    "id": "8sVTOZxxiRV",
+    "order": 577222,
+    "createdAt": "2023-09-09T01:01:57.325Z",
+    "title": "滴滴第二季度净亏损2.67亿元，同比大幅收窄",
+    "score": 0.882362761060009,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-09 09:01:57",
+    "uuid": "35ee8518-87b5-4c05-9799-da82985504d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "微软将于9月21日发布三项硬件产品，包括Surface Laptop Studio 2、Surface Laptop Go 3和Surface Go 4 ...",
+    "id": "8sVRwwb9p1m",
+    "order": 577220,
+    "createdAt": "2023-09-09T01:01:02.145Z",
+    "title": "微软9月21日发布会前瞻：三款Surface新品、扩展Copilot插件支持",
+    "score": 0.828689202230922,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-09 09:01:02",
+    "uuid": "722d4d8f-f084-452b-8441-4ca6f413728e"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }, { "siteName": "IT 之家" }],
+    "summary": "微软为 Linux 内核 6.6 版本添加了更多 Hyper-V 的支持，包括支持 AMD SEV-SNP guest 和 Intel TDX guest 等 ...",
+    "id": "8sUvFUbMhqW",
+    "order": 577209,
+    "createdAt": "2023-09-09T00:44:21.218Z",
+    "title": "微软改善 Linux 内核 6.6 版本中对于 Hyper-V 的支持，可带来额外安全性",
+    "score": 0.406947488479578,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-09 08:44:21",
+    "uuid": "cb00743b-db0a-4e70-8337-f3323e3b6a36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中证网" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "中国石油收购普天新能源100%股权，扩充充电网络。上半年新能源汽车产销量创历史记录，充电需求旺盛，该公司计划在未来3年内在全国建立战略性充电网络，争取成为充换电头部企业。",
+    "id": "8sUBwP3zACb",
+    "order": 577206,
+    "createdAt": "2023-09-09T00:30:41.428Z",
+    "title": "中国石油扩充充电网络，收购普天新能源100%股权",
+    "score": 0.589889839608988,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-09 08:30:41",
+    "uuid": "3a18ea43-9104-40ea-a34b-e383487f1488"
+  },
+  {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
     "summary": "“诺基亚贝尔”官方公众号今日发文宣布，在 9 月 7 日的第 24 届国际广电博览会“千兆光接入宽带发展论坛”期间，诺基亚推出了新的宽带战略“BROADBAND ZERO” ...",
     "id": "8sUR4YAwbSq",
