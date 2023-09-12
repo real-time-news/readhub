@@ -1,5 +1,37 @@
 [
   {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "特斯拉开发的Dojo超级计算机被认为是推动AGI发展的重要基础设施之一。该计算机利用海量视频数据进行训练，可完成“无人监管”的数据标注和训练，有助于特斯拉实现自动驾驶和人工智能机器学习的目标 ...",
+    "id": "8t0ZZhzBFDf",
+    "order": 577902,
+    "createdAt": "2023-09-12T05:01:43.986Z",
+    "title": "特斯拉AI帝国基石Dojo：为视频数据训练而生 铺就通往AGI之路",
+    "score": 0.635333648977374,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-12 13:01:43",
+    "uuid": "cae8564a-d6f3-44cf-8a58-c26692caee66"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }],
+    "summary": "此前，环球影业制作的《超级马里奥兄弟》大电影取得了巨大成功，因此真人版《塞尔达传说》电影的推出并不令人惊讶 ...",
+    "id": "8t0VWNOOe7d",
+    "order": 577901,
+    "createdAt": "2023-09-12T04:54:57.961Z",
+    "title": "《塞尔达传说》真人电影将开拍",
+    "score": 0.548335411312795,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-12 12:54:57",
+    "uuid": "94769317-493a-4096-8897-2cdb68a8ecfd"
+  },
+  {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
     "summary": "微软公司今天发布新闻稿，表示面向 IT 管理员和系统管理员，在 Microsoft Defender Vulnerability Management 面板中，引入名为“Hardware and Firmware Assessment”（硬件和固件评估）的新内容 ...",
     "id": "8t0YMTXwWsN",
