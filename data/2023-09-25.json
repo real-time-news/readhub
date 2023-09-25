@@ -1,6 +1,107 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "日前博主 Mishaal Rahman 在 X 平台发文，表示其在最新的 Android 14 测试版中发现了一个系统界面标示“widget_on_keyguard”，Mishaal Rahman 据此认为谷歌正在努力恢复锁屏界面上的小部件，Android 14 中有望带来锁屏小部件功能 ...",
+    "id": "8tmMIcYIhU2",
+    "order": 581510,
+    "createdAt": "2023-09-25T07:06:49.734Z",
+    "title": "Android 14 可修改锁屏快捷访问按钮，还有望带回“小部件”功能",
+    "score": 0.569851868147903,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-25 15:06:49",
+    "uuid": "f0c652fc-d61a-4e92-a6f8-01f90f92140d"
+  },
+  {
+    "newsArray": [{ "siteName": "网易科技" }, { "siteName": "新浪科技" }],
+    "summary": "贯穿企业营销场景全链路，需要涉及场景下的多套数据体系接入，这对数据的实时写入、去重、更新和集群运维等多个方面都提出了高要求，这也是国联股份此次合作火山引擎数智平台VeDI的关键因素 ...",
+    "id": "8tmGdQpkG3X",
+    "order": 581507,
+    "createdAt": "2023-09-25T07:05:40.383Z",
+    "title": "聚焦私域营销降本提效，国联股份与火山引擎数智平台展开合作",
+    "score": 0.490562414079899,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-25 15:05:40",
+    "uuid": "92cfdfae-e8c0-4150-80ba-063ec5e27885"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪" }, { "siteName": "凤凰科技" }],
+    "summary": "据当地媒体报道，特斯拉德州奥斯汀工厂生产总监杰森·肖恩表示，特斯拉正在扩建该厂，目标是雇佣至多6万名员工，大批量生产 Cybertruck 电动皮卡做准备 ...",
+    "id": "8tmD2pCGdfH",
+    "order": 581505,
+    "createdAt": "2023-09-25T07:04:50.056Z",
+    "title": "特斯拉或扩建奥斯汀工厂，员工或增至6万",
+    "score": 0.828603787497244,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-25 15:04:50",
+    "uuid": "9c72e492-957f-4e5c-bbff-0b496bad4044"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "华为于9月25日下午在深圳湾体育中心举行了秋季全场景新品发布会，超过2000人现场参会，全球数百家媒体参与报道 ...",
+    "id": "8tmRXy1eKAd",
+    "order": 581504,
+    "createdAt": "2023-09-25T07:04:01.133Z",
+    "title": "华为秋季全场景新品发布会：超2000人参会 全球数百家媒体参与报道",
+    "score": 0.621419052741672,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-25 15:04:01",
+    "uuid": "bc198d78-9c87-4ecb-8cf3-8ab5318c4269"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "亿欧" },
+      { "siteName": "界面" }
+    ],
+    "summary": "阿里云宣布开源通义千问14B模型及其对话模型Qwen-14B-Chat，免费可商用。该模型在多个权威评测中超越同等规模模型，并具备更强大的推理、认知、规划和记忆能力 ...",
+    "id": "8tmT5pjzJEx",
+    "order": 581502,
+    "createdAt": "2023-09-25T07:03:29.070Z",
+    "title": "阿里云宣布开源通义千问14B模型，周靖人：持续拥抱开源开放",
+    "score": 0.457466054711811,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-25 15:03:29",
+    "uuid": "efc21841-7f2e-49c4-ae47-d4568aa39aac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "阿维塔CEO透露，华为Mate 60 Pro阿维塔特别版正在快速推进中，并将首批搭载HarmonyOS 4.0与华为高阶智能驾驶系统ADS 2.0 ...",
+    "id": "8tmR14WBMTY",
+    "order": 581500,
+    "createdAt": "2023-09-25T07:03:14.383Z",
+    "title": "阿维塔CEO：华为Mate 60 Pro阿维塔特别版正在快速推进中",
+    "score": 0.562927890949086,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-25 15:03:14",
+    "uuid": "286d7313-6754-44c4-8265-3372cbd51382"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "IT 之家" },
       { "siteName": "新浪" }
