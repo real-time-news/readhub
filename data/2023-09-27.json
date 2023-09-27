@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "人民银行副行长、党委委员刘国强在2023中国普惠金融国际论坛上指出，在中国式现代化进程中，需要进一步提高对普惠金融的认识，坚持以人民为中心、促进共同富裕、强化科技赋能和数据引领等方向推进发展 ...",
+    "id": "8tpTAHAkblV",
+    "order": 582169,
+    "createdAt": "2023-09-27T04:34:30.274Z",
+    "title": "央行刘国强：中国式现代化进程中需提高对普惠金融的认识",
+    "score": 0.482170530488056,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-27 12:34:30",
+    "uuid": "e8b8f1f1-597a-4ec8-b741-cb13eb839c6c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国内1000多款汽车存在安全漏洞，工信部正在编制《车联网安全专项行动计划》，并制定急需标准，要求各相关企业落实网络安全防护措施，定期评估和风险排查。",
+    "id": "8tpOk04IwPi",
+    "order": 582167,
+    "createdAt": "2023-09-27T04:33:40.050Z",
+    "title": "报告：国内1000多款汽车存在安全漏洞 工信部标准已在路上",
+    "score": 0.650116944744271,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-27 12:33:40",
+    "uuid": "9cd9751f-1eca-4d2a-8d05-0251b8a963f9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "据The Information报道，前苹果公司首席设计官 Jony Ive 将与 OpenAI 首席执行官萨姆·奥尔特曼合作，探讨新的“AI 硬件”项目 ...",
+    "id": "8tpZZaH9P8p",
+    "order": 582165,
+    "createdAt": "2023-09-27T04:33:27.330Z",
+    "title": "报道称前苹果首席设计官Jony Ive将为 OpenAI 构建“AI 硬件”",
+    "score": 0.835114619968756,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-27 12:33:27",
+    "uuid": "8e69eb42-2a76-43a9-95a3-2c39c279effc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "微软发布 PowerToys 0.74 版本更新，引入名为“Crop And Lock”的实用工具，优化键盘管理器、新增支持数字键以及改进了FancyZones 等 ...",
+    "id": "8tpTCjEMku9",
+    "order": 582162,
+    "createdAt": "2023-09-27T04:32:09.287Z",
+    "title": "微软发布 PowerToys 0.74：升级 Text Extractor、提高 FancyZones 稳定性",
+    "score": 0.642197984080625,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-27 12:32:09",
+    "uuid": "7dd668f0-2681-4469-83a5-1ffa14a03bc8"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
       { "siteName": "快科技" }
