@@ -1,6 +1,25 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "宁夏银川市发布新政，对已结清房贷的居民再次购房按照首套政策执行，首付只需20%。此次新政旨在促进房地产市场平稳健康发展。",
+    "id": "8tv7mhiD53c",
+    "order": 582951,
+    "createdAt": "2023-09-30T06:30:41.347Z",
+    "title": "银川：已结清房贷的再次买房申请贷款时按照首套执行",
+    "score": 0.601942326221983,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-30 14:30:41",
+    "uuid": "4628c767-a003-4d47-8b90-631cfa78f899"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "网易科技" },
       { "siteName": "TechWeb" }
@@ -30,6 +49,20 @@
     "voteDesc": "",
     "date": "2023-09-30 11:49:25",
     "uuid": "fe1c3f94-c773-4921-829f-fd694f4ed616"
+  },
+  {
+    "newsArray": [{ "siteName": "网易科技" }, { "siteName": "搜狐科技" }],
+    "summary": "苹果计划在2024年发布配备3纳米芯片的新款MacBook和iPad，但由于缺乏增长动力，这些设备的需求可能“低于预期” ...",
+    "id": "8tt86Ja6FVg",
+    "order": 582925,
+    "createdAt": "2023-09-30T02:16:10.149Z",
+    "title": "苹果计划在2024年发布3纳米芯片的MacBook和iPad",
+    "score": 0.371377710354924,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-30 10:16:10",
+    "uuid": "5ee510c0-58af-4a7e-aea2-34f77adbccbe"
   },
   {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "凤凰科技" }],
@@ -113,6 +146,24 @@
     "voteDesc": "",
     "date": "2023-09-30 09:30:36",
     "uuid": "0f8f0b84-3bcd-4cc3-9bf2-0d8c78a0d51a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "苹果CEO库克表示，公司将在生成式AI领域追加投资，并希望在英国雇佣更多员工从事AI工作 ...",
+    "id": "8tu1K09GhjK",
+    "order": 582899,
+    "createdAt": "2023-09-30T00:49:55.823Z",
+    "title": "库克：苹果将在生成式AI领域追加投资",
+    "score": 0.823420654209209,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-09-30 08:49:55",
+    "uuid": "71fb971a-170f-4744-976c-040e2c6fa41c"
   },
   {
     "newsArray": [
