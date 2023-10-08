@@ -1,5 +1,84 @@
 [
   {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪" }
+    ],
+    "summary": "河南省开封市发布了一系列措施，旨在优化房地产市场发展环境，其中允许分期缴纳的土地款、科学确定地价、合理确定公建设施计容面积以及为企业不动产抵押融资提供便利等措施备受关注。",
+    "id": "8tIfZIgHmcu",
+    "order": 584102,
+    "createdAt": "2023-10-08T04:48:22.289Z",
+    "title": "河南开封：允许分期缴纳土地款，幼儿园等公建不计入项目容积率计算范围",
+    "score": 0.725980763484417,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 12:48:22",
+    "uuid": "db6aad4f-f832-4945-85e8-d0bb51173d42"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "新浪科技" }],
+    "summary": "Aspyr和卢卡斯影业游戏公司将推出Switch《星球大战遗产包》实体版，包含七款《星球大战》游戏，定价60美元，玩家需下载两款游戏，其余五款无需下载 ...",
+    "id": "8tHmEOsN7aT",
+    "order": 584099,
+    "createdAt": "2023-10-08T04:47:05.592Z",
+    "title": "60美元《星球大战遗产包》实体版来了：下载两款游戏即可",
+    "score": 0.400969208571606,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 12:47:05",
+    "uuid": "bbf093ae-7a98-4505-bb3d-6dca879d9e61"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }],
+    "summary": "电影《甜蜜之家：重生》将改编自热门恐怖游戏《甜蜜之家》，由亚历山大·基斯尔和史蒂芬·哈克执导，预计在今年秋季在泰国曼谷开拍 ...",
+    "id": "8tHXbGWUP1z",
+    "order": 584098,
+    "createdAt": "2023-10-08T04:46:54.369Z",
+    "title": "警察阻止枪手行动误闯地狱门 电影《甜蜜之家：重生》即将上映",
+    "score": 0.426745607789775,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 12:46:54",
+    "uuid": "6bd22a59-6d60-40b0-91e6-94a5b39209b9"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }],
+    "summary": "著名游戏开发公司Bloober Team与科乐美签约，成为其经典游戏《寂静岭2：重制版》的官方指定合作开发商 ...",
+    "id": "8tHXaUaKrec",
+    "order": 584097,
+    "createdAt": "2023-10-08T04:46:41.191Z",
+    "title": "科乐美旗下游戏开发公司发布神秘新图，或揭示《寂静岭2：重制版》更多消息",
+    "score": 0.582034272913385,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 12:46:41",
+    "uuid": "8eda5b07-eebe-41e7-a1f6-7f6a0e186393"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "据IT之家报道，英特尔暗示微软将于明年推出Win12系统，以刺激PC换代需求。同时，英特尔正在为其 Meteor Lake桌面平台准备专用AI协处理器，这也为Win12集成AI功能提供了基础 ...",
+    "id": "8tI9Xn1dmez",
+    "order": 584094,
+    "createdAt": "2023-10-08T04:37:08.521Z",
+    "title": "英特尔暗示微软明年将推出 Win12 系统，刺激 PC 换代需求",
+    "score": 0.570146729150643,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 12:37:08",
+    "uuid": "119a9847-fa9b-4633-968c-b5b6b441f86d"
+  },
+  {
     "newsArray": [{ "siteName": "新浪科技" }],
     "summary": "《莱卡：岁月之血》是一款末世废土风格的摩托车冒险游戏，将于10月19日登陆PC平台，并支持其他平台的主机 ...",
     "id": "8tGj595RJAk",
