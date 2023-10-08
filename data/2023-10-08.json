@@ -1,5 +1,113 @@
 [
   {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "BI第三轮美国市场iPhone调查显示，由于美国苹果客户继续使用旧款手机而不升级至新款iPhone 15，明年iPhone销量或将陷入停滞 ...",
+    "id": "8tHWD2V9AzM",
+    "order": 584039,
+    "createdAt": "2023-10-08T01:31:38.578Z",
+    "title": "美国市场的iPhone 15销量或陷入停滞",
+    "score": 0.674966396592946,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 09:31:38",
+    "uuid": "b447bd4a-146e-4eb2-966b-44e927dc6213"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "澳门特区政府旅游局公布的数据显示，中秋、国庆假期期间入境澳门的旅客超过93万人次，酒店平均入住率达到了87.9%，表明澳门旅游业复苏势态良好 ...",
+    "id": "8tHeGnV6RDV",
+    "order": 584033,
+    "createdAt": "2023-10-08T01:16:42.422Z",
+    "title": "中秋国庆假期澳门酒店平均入住率达87.9%",
+    "score": 0.568647900970455,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 09:16:42",
+    "uuid": "ed11323f-52e2-4f73-ac39-8265c99adbe2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "三星计划最早明年下半年发布可折叠笔记本电脑，并将采用水滴铰链。这款笔记本电脑被认为将比原计划更厚，但采用水滴铰链可能增加产品重量 ...",
+    "id": "8tGOWmhk7qR",
+    "order": 584031,
+    "createdAt": "2023-10-08T00:48:15.364Z",
+    "title": "三星折叠笔记本电脑最早明年下半年发布 采用水滴铰链",
+    "score": 0.559484204970232,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 08:48:15",
+    "uuid": "0fda03ac-ab5a-424f-bc79-5f7884cd5b48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "和讯汽车" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "韩国电动汽车召回数量在过去三年激增超过14倍，其中特斯拉Model 3是导致召回最多的车型。今年1月至8月，共有64辆电动汽车被召回，其中包括宝马、梅赛德斯-奔驰和通用的电动汽车 ...",
+    "id": "8tGuA70HHcT",
+    "order": 584030,
+    "createdAt": "2023-10-08T00:48:08.788Z",
+    "title": "韩国电动汽车召回数量激增 召回最多的车型是Model 3",
+    "score": 0.689711395609649,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 08:48:08",
+    "uuid": "75026f5d-4b3b-47e9-b4af-82a2855598ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "华为首款黄金智能手表在阿联酋上市，定价仅为21864元人民币，比国内价格略低 ...",
+    "id": "8tGIwp4vz6X",
+    "order": 584029,
+    "createdAt": "2023-10-08T00:47:56.057Z",
+    "title": "华为首款黄金智能手表在阿联酋上市 这价格便宜老外了",
+    "score": 0.602885272320317,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 08:47:56",
+    "uuid": "178b42f3-5418-46ce-beab-8805f2d2d136"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "海外开发者 Husson Pierre-Hugues昨日上午为初代谷歌 Pixel 手机刷入了最新的 Android 14 操作系统 ...",
+    "id": "8tHYwx59xfu",
+    "order": 584026,
+    "createdAt": "2023-10-08T00:47:03.181Z",
+    "title": "Project Treble 立功，第三方开发者为初代谷歌 Pixel 手机刷入 Android 14",
+    "score": 0.489595629046696,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 08:47:03",
+    "uuid": "efae3b67-7410-475a-8e73-369184473332"
+  },
+  {
     "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "凤凰科技" }],
     "summary": "大众汽车集团旗下的电池业务公司和优美科 Umicore 宣布成立新的电池材料合资企业 Ionway，总部位于比利时布鲁塞尔 ...",
     "id": "8tGN59SxEkU",
@@ -26,6 +134,24 @@
     "voteDesc": "",
     "date": "2023-10-08 07:39:57",
     "uuid": "f16eddc8-8dc8-477e-a711-32694328f60c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "据消息，一加智能手表 OnePlus Watch 2 将于 2024 年推出，采用圆形设计，并声称“效果会更好” ...",
+    "id": "8tHoN5szZXU",
+    "order": 584007,
+    "createdAt": "2023-10-07T23:39:53.961Z",
+    "title": "消息称一加智能手表 OnePlus Watch 2 明年发布",
+    "score": 0.571312375082245,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-08 07:39:53",
+    "uuid": "2e9e0be6-e432-4914-af08-92575561a8e9"
   },
   {
     "newsArray": [{ "siteName": "快科技" }, { "siteName": "新浪科技" }],
