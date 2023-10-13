@@ -1,6 +1,88 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪" },
+      { "siteName": "网易科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "特斯拉警告称，明年起Model 3税收抵免“极有可能”减半，引用了联邦的指导意见。该公司还敦促潜在买家在第四季度结束前提货，以确保获得7500美元的全额抵免 ...",
+    "id": "8tP8EJe4Acv",
+    "order": 585809,
+    "createdAt": "2023-10-13T02:30:11.354Z",
+    "title": "特斯拉警告：明年起Model3税收抵免“极有可能”减半",
+    "score": 0.604766539612816,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-13 10:30:11",
+    "uuid": "83a4483a-32fd-4d11-8028-56376391029f"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "网易科技" }],
+    "summary": "苹果、博通和加州理工学院达成协议，结束长达7年的无线通信专利法律纠纷。这起纠纷最早可以追溯到2016年，涉及多款产品，包括iPhone、iPad、Mac和Apple Watch等 ...",
+    "id": "8tQa8m4UbiQ",
+    "order": 585808,
+    "createdAt": "2023-10-13T02:22:54.465Z",
+    "title": "7 年 Wi-Fi 专利纠纷落幕，苹果、博通和加州理工正式达成和解",
+    "score": 0.845105193197935,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-13 10:22:54",
+    "uuid": "935b2a16-6b3c-4121-abaf-85ed2c9a48c4"
+  },
+  {
+    "newsArray": [{ "siteName": "IT 之家" }, { "siteName": "凤凰科技" }],
+    "summary": "阿联酋航空公司为两万名空乘人员装备苹果iPhone/iPad，启动名为“One Device”的新战略，旨在改善和简化机上乘客服务，增强机组人员的整体体验 ...",
+    "id": "8tQjpzAwSa2",
+    "order": 585806,
+    "createdAt": "2023-10-13T02:21:09.353Z",
+    "title": "阿联酋航空公司为两万名空乘人员装备苹果iPhone/iPad",
+    "score": 0.624369618165067,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-13 10:21:09",
+    "uuid": "d4cef797-a7af-4f0a-b204-8474ddc96740"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "西井科技在2023年的消费电子展Tech G上展示了其自主研发的智能网联新能源重卡E-TruckTM ...",
+    "id": "8tPkmNYHvgo",
+    "order": 585802,
+    "createdAt": "2023-10-13T02:17:39.384Z",
+    "title": "西井科技智能网联新能源重卡 E-Truck 亮相2023 Tech G",
+    "score": 0.449740927948418,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-13 10:17:39",
+    "uuid": "a40b9f54-a656-4159-9807-c005641bb471"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "中证网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "海关总署数据显示，前三季度我国货物贸易进出口总值达30.8万亿元，外贸进出口积极向好。其中，出口同比增长0.6%，进口同比下降1.2% ...",
+    "id": "8tQqXqyGcFF",
+    "order": 585800,
+    "createdAt": "2023-10-13T02:17:13.154Z",
+    "title": "海关总署：前三季度我国进出口总值30.8万亿元，外贸进出口积极向好",
+    "score": 0.62690164022948,
+    "hasInstantView": false,
+    "type": "topic",
+    "voteDesc": "",
+    "date": "2023-10-13 10:17:13",
+    "uuid": "7a8634b2-cc39-4b52-83c9-d770fbe66e57"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "中国证券网" },
       { "siteName": "中证网" },
