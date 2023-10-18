@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "百度新闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "中国证券网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "省委书记、省人大常委会主任王晓晖在成都会见了美国苹果公司首席执行官库克一行，代表省委、省政府向对方表示感谢，并简要介绍了我省经济社会发展最新情况 ...",
+    "id": "8TzL5cpZtTA",
+    "order": 1697634233266,
+    "createdAt": "2023-10-18T13:03:54.000Z",
+    "publishDate": "2023-10-18T13:03:53.266Z",
+    "title": "王晓晖会见美国苹果公司首席执行官库克",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-18 21:03:54",
+    "uuid": "48d8de4e-7c43-4d37-b8d0-ed4315cd5d82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "亚马逊已有1万辆Rivian电动货车在美国和欧洲行驶，并计划到2030年至少有10万辆电动送货车上路，与电动汽车制造商里Rivian合作。",
+    "id": "8Tyc2BfKRmt",
+    "order": 1697634175513,
+    "createdAt": "2023-10-18T13:02:55.000Z",
+    "publishDate": "2023-10-18T13:02:55.513Z",
+    "title": "亚马逊称其车队已有1万辆Rivian电动送货车",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-18 21:02:55",
+    "uuid": "7d54c446-9cd3-443d-b3a2-d085ba9c58db"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "钛媒体" }
@@ -282,6 +319,27 @@
     "up": false,
     "date": "2023-10-18 17:33:13",
     "uuid": "01b116f2-9603-48ec-85e7-9e16b826122e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" },
+      { "siteName": "新浪财经" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "瑞芯微发布了第三季度报告，实现营业收入6.02亿元，同比增长83.26%，归母净利润5251.66万元，同比上升1318.45%。",
+    "id": "8TzDW1iG0Wf",
+    "order": 1697634154446,
+    "createdAt": "2023-10-18T09:24:42.000Z",
+    "publishDate": "2023-10-18T13:02:34.446Z",
+    "title": "瑞芯微：第三季度净利润5251.66万元，同比上升1318.45%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-18 17:24:42",
+    "uuid": "b32259af-e258-494b-97f8-1e2ef2eed350"
   },
   {
     "newsArray": [
