@@ -1,6 +1,146 @@
 [
   {
     "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "国家统计局发布的数据显示，9月份一线城市商品住宅销售价格环比稳中微涨，二手住宅价格则转涨并降幅收窄。二线城市匕首房价环比下降，同比有涨有降 ...",
+    "id": "8U0MEkBxvAq",
+    "order": 1697680023876,
+    "createdAt": "2023-10-19T01:47:03.000Z",
+    "publishDate": "2023-10-19T01:47:03.876Z",
+    "title": "国家统计局：9月份一线城市商品住宅销售价格环比稳中微涨",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-19 09:47:03",
+    "uuid": "4897102b-3589-45c1-82b1-af6b887ebf28"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "百度新闻" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "苹果CEO蒂姆·库克年内第二次到访中国，于10月18日在浙江省嘉善县立讯精密总装工厂参观。此次参观是库克此行非常重要的一环，旨在了解立讯精密的生产流程和产品质量 ...",
+    "id": "8TzGolwXaFi",
+    "order": 1697679900840,
+    "createdAt": "2023-10-19T01:45:01.000Z",
+    "publishDate": "2023-10-19T01:45:00.840Z",
+    "title": "库克参观立讯精密工厂：与中国供应链企业一起实现双赢",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-19 09:45:01",
+    "uuid": "b9062e5e-cc4d-4236-818c-ccb1c69748dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软正在弃用 Windows 11 P2P 服务支持，并删除了大量涉及 P2P 服务的.dll 文件 ...",
+    "id": "8TzdaxRufpW",
+    "order": 1697679876701,
+    "createdAt": "2023-10-19T01:44:37.000Z",
+    "publishDate": "2023-10-19T01:44:36.701Z",
+    "title": "Win11 代码优化：微软正在清除部分 P2P Win32 服务",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-19 09:44:37",
+    "uuid": "ac652dfc-1253-4938-b945-35ab381dd347"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "高新发展拟通过发行股份及支付现金方式购买算力产业企业华鲲振宇合计70%的股权，标的资产的最终交易价格尚未确定。公司股票将于10月19日复牌。",
+    "id": "8U0EvJmwcKX",
+    "order": 1697679254579,
+    "createdAt": "2023-10-19T01:34:15.000Z",
+    "publishDate": "2023-10-19T01:34:14.579Z",
+    "title": "高新发展：拟购买华鲲振宇70%股权，10月19日起复牌",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-19 09:34:15",
+    "uuid": "4d7345ab-a874-4fe7-b1fe-00b75232be93"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "香港恒生指数开盘跌1.08%，恒生科技指数跌1.64%。汽车股多数下跌，小鹏汽车跌超8%，蔚来跌超7%。京东、百度、哔哩哔哩跌超3%。",
+    "id": "8U0LBeojdU5",
+    "order": 1697679244706,
+    "createdAt": "2023-10-19T01:34:04.000Z",
+    "publishDate": "2023-10-19T01:34:04.706Z",
+    "title": "香港恒生指数开盘跌1.08%，恒生科技指数跌1.64%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-19 09:34:04",
+    "uuid": "0539a09c-e018-4d18-95da-667cf22627ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "中国证券网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "上海市政府发布了首轮新基建行动方案，取得了良好的成效。目前，上海市累计建成并开通5G基站8.8万个，5G基站建设密度位居全国第一 ...",
+    "id": "8U0J5B77jbd",
+    "order": 1697679155941,
+    "createdAt": "2023-10-19T01:32:35.000Z",
+    "publishDate": "2023-10-19T01:32:35.941Z",
+    "title": "上海累计建成并开通8.8万个5G基站 算力水平位居全国前列",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-19 09:32:35",
+    "uuid": "8ceed94f-94ae-4ce8-b263-a615a952e1e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "国内商品期货早盘开盘，烧碱跌超3%，液化气、BR橡胶跌超2%，NR、苯乙烯等跌逾1%。焦炭、铁矿石等涨超1%，纸浆、菜粕等小幅上涨。",
+    "id": "8Tx0Ly0QumM",
+    "order": 1697678269695,
+    "createdAt": "2023-10-19T01:17:49.000Z",
+    "publishDate": "2023-10-19T01:17:49.695Z",
+    "title": "国内商品期货早盘开盘，烧碱跌超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-19 09:17:49",
+    "uuid": "56a7d125-ecc6-4e39-ac07-ead3b0336719"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "人民网" }
+    ],
+    "summary": "前三季度，中国经济实现了5.2%的国内生产总值增长率，多个领域出现了积极的变化 ...",
+    "id": "8TzViUnpha6",
+    "order": 1697678162889,
+    "createdAt": "2023-10-19T01:16:02.000Z",
+    "publishDate": "2023-10-19T01:16:02.889Z",
+    "title": "扎实巩固经济回升向好态势",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-19 09:16:02",
+    "uuid": "1e90b343-bfc1-442f-ac1c-ec5549c31333"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "36Kr" },
       { "siteName": "钛媒体" }
@@ -155,6 +295,24 @@
     "up": false,
     "date": "2023-10-19 08:32:28",
     "uuid": "300ddd10-185f-437d-b5a6-04ea2efba26d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "OpenAI 正在与潜在投资者商谈，以 860 亿美元的估值出售现有员工股份。该公司还没有敲定分配方案，条款可能还会发生变化 ...",
+    "id": "8U0BBkRRwyI",
+    "order": 1697679398034,
+    "createdAt": "2023-10-19T00:23:27.000Z",
+    "publishDate": "2023-10-19T01:36:38.034Z",
+    "title": "消息称 OpenAI 正洽谈以 860 亿美元估值出售股份",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-19 08:23:27",
+    "uuid": "be90a4b3-c635-4080-8db6-4d3db781f455"
   },
   {
     "newsArray": [
