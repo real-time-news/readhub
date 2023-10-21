@@ -52,6 +52,41 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Adobe收购Figma交易的审查重新启动，截止时间为2024年2月5日。",
+    "id": "8U1xzeDN7br",
+    "order": 1697868777150,
+    "createdAt": "2023-10-21T03:59:37.000Z",
+    "publishDate": "2023-10-21T06:12:57.150Z",
+    "title": "欧盟重启对Adobe收购Figma交易的审查",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-21 11:59:37",
+    "uuid": "bc062069-cbf9-4d4e-9187-ff0b8c104313"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "OpenAI CEO Sam Altman在 WSJTech Live 闭门会议上回答了关于 AGI 和 GPT 的话题，表示 OpenAI 不排除自研芯片计划，以提高模型算力需求 ...",
+    "id": "8U3iCA9upnx",
+    "order": 1697869409021,
+    "createdAt": "2023-10-21T03:31:49.000Z",
+    "publishDate": "2023-10-21T06:23:29.021Z",
+    "title": "OpenAI CEO：不排除自研芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-21 11:31:49",
+    "uuid": "99098b5a-ccb4-42fc-91b9-4247c8e82175"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "36Kr" },
       { "siteName": "界面" },
