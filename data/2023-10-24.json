@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "人民网" },
+      { "siteName": "36Kr" },
+      { "siteName": "中国证券网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "我国于10月24日成功将遥感三十九号卫星发射升空，使用的是长征二号丁运载火箭。该卫星顺利进入预定轨道，这是长征系列运载火箭的第492次飞行。",
+    "id": "8U8U2WjkYQO",
+    "order": 1698104904862,
+    "createdAt": "2023-10-23T23:48:24.000Z",
+    "publishDate": "2023-10-23T23:48:24.862Z",
+    "title": "我国成功发射遥感三十九号卫星",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-24 07:48:24",
+    "uuid": "d89a8288-59dd-4eef-836a-437b25752087"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "网易科技" }
