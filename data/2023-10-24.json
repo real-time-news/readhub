@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "AMD近日收获了不少大单，包括甲骨文和IBM两家大客户的认可.甲骨文计划采用AMD Instinct MI300X AI芯片,以及HPC用GPU.IBM预计将采用AMD的Xilinx FPGA解决方案,用于人工智能工作负载.",
+    "id": "8U93R0NkL2j",
+    "order": 1698144391763,
+    "createdAt": "2023-10-24T10:46:32.000Z",
+    "publishDate": "2023-10-24T10:46:31.763Z",
+    "title": "AMD获得大单：甲骨文采购MI300X，IBM寻求FPGA",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-24 18:46:32",
+    "uuid": "56269f5c-dcda-4cb7-90da-8dbc72f970ed"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "中国证券网" },
       { "siteName": "36Kr" }
