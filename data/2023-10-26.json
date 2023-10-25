@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "根据钛媒体App报道，WTI 12月原油期货结算价收涨1.97%，报85.39美元/桶.布伦特12月原油期货结算价收涨2.34%,报90.13美元/桶.",
+    "id": "8UBnvMcGakM",
+    "order": 1698276770967,
+    "createdAt": "2023-10-25T23:32:50.000Z",
+    "publishDate": "2023-10-25T23:32:50.967Z",
+    "title": "国际油价25日上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-26 07:32:50",
+    "uuid": "43fdbcb0-cbce-4092-8fb4-aa0a8f86f66c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "零跑汽车与Stellantis订立认购协议和合营公司成立协议，将合作研发自动驾驶技术。",
+    "id": "8UBo2yFMPCb",
+    "order": 1698276726724,
+    "createdAt": "2023-10-25T23:32:06.000Z",
+    "publishDate": "2023-10-25T23:32:06.724Z",
+    "title": "零跑汽车：向Stellantis定增1.94亿股H股，共同成立合营公司",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-26 07:32:06",
+    "uuid": "195dd2e3-3270-4c51-a5a7-b2fc20598e65"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "界面" },
       { "siteName": "钛媒体" }
