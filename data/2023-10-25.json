@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "美国芯片设计初创公司SiFive周二宣布裁员约20%，至130人。公司专注于底层设计，而非芯片本身，长期计划不变，并将缩减为客户提供定制设计的业务规模 ...",
+    "id": "8UADDzRm6Ue",
+    "order": 1698211206890,
+    "createdAt": "2023-10-25T05:20:06.000Z",
+    "publishDate": "2023-10-25T05:20:06.890Z",
+    "title": "芯片设计初创公司SiFive裁员20% 此前估值为25亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-25 13:20:06",
+    "uuid": "d48fd987-6545-47a3-aa7b-a739005cc6a1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "存量房贷利率开始批量调整，多位符合“二套转首套”条件的借款人已查询到调整后的房贷利率信息，部分借款人利率已降至4.2%，个别贷款时间较新的借款人利率已降至4%。",
+    "id": "8UAIcBuKora",
+    "order": 1698211194317,
+    "createdAt": "2023-10-25T05:19:54.000Z",
+    "publishDate": "2023-10-25T05:19:54.317Z",
+    "title": "存量房贷“二套转首套”利率调整开启，已有借款人降至4%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-25 13:19:54",
+    "uuid": "e3c621a8-e013-4aa0-a36f-a0e2a05615cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "香港特区行政长官李家超今日宣布，买家新住宅印花税将减半，外来人才置业印花税实施“先免后征”。",
+    "id": "8UAXejzhKLE",
+    "order": 1698211174944,
+    "createdAt": "2023-10-25T05:19:35.000Z",
+    "publishDate": "2023-10-25T05:19:34.944Z",
+    "title": "香港新住宅印花税将减半",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-25 13:19:35",
+    "uuid": "dbeb3012-9c51-49d8-9e62-18695ec39e41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "次新股C天元午后股价大涨46%，触发临时停牌，目前换手率达62%。",
+    "id": "8UAYfiSj3qp",
+    "order": 1698211100227,
+    "createdAt": "2023-10-25T05:18:21.000Z",
+    "publishDate": "2023-10-25T05:18:20.227Z",
+    "title": "次新股C天元午后大涨46%，触发临时停牌",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-25 13:18:21",
+    "uuid": "3cb7cce4-e58a-4da3-b068-89f1fd1055fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "香港特区行政长官李家超表示，将优化公营房屋系统建设，其中包括放宽资助出售单位按揭贷款保证的安排，延长二手市场最长30年按揭贷款保证期至50年，让买家可获得年期更长的按揭贷款，有助于促进房屋流转。",
+    "id": "8UAXeh22rBS",
+    "order": 1698211067146,
+    "createdAt": "2023-10-25T05:17:48.000Z",
+    "publishDate": "2023-10-25T05:17:47.146Z",
+    "title": "香港房委会将延长二手市场最长30年按揭贷款保证期至50年",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-25 13:17:48",
+    "uuid": "d68b1f37-975c-42c2-b8ad-1113ae568235"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "新浪财经" },
       { "siteName": "新浪财经" },
