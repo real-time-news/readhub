@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "苹果公司发布多个补丁缓解“幽灵”(Spectre)漏洞，但最新研究表明无法完全封堵该漏洞，发现了一个名为“iLeakage”的衍生漏洞，可以利用推测执行来提取密码和网站数据 ...",
+    "id": "8UBz3bnJzZ2",
+    "order": 1698296007982,
+    "createdAt": "2023-10-26T04:53:28.000Z",
+    "publishDate": "2023-10-26T04:53:27.982Z",
+    "title": "“幽灵”衍生芯片漏洞 iLeakage 曝光：可窃取用户密码和浏览历史",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-26 12:53:28",
+    "uuid": "2a2d38c2-06e6-44da-870f-069aefbda340"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "钛媒体" }
