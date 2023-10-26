@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌首席执行官桑达尔·皮查伊在财报电话会议上表示，该公司可能会在某些新的人工智能(AI)产品中采用订阅模式 ...",
+    "id": "8UBt9lsqssR",
+    "order": 1698288819338,
+    "createdAt": "2023-10-26T02:53:39.000Z",
+    "publishDate": "2023-10-26T02:53:39.338Z",
+    "title": "谷歌CEO皮查伊：正考虑为新的AI产品采用订阅模式",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-26 10:53:39",
+    "uuid": "e67d2e18-75b6-4111-bba6-6f2eee02399b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果公司将于11月9日发售新款Mac设备，包括24寸iMac和13、14、16英寸 MacBook Pro，预计搭载新的M3芯片 ...",
+    "id": "8UBmBwwdbNV",
+    "order": 1698288499522,
+    "createdAt": "2023-10-26T02:48:20.000Z",
+    "publishDate": "2023-10-26T02:48:19.522Z",
+    "title": "“来势迅猛”，消息称苹果 11 月 9 日发售搭载 M3 芯片的 Mac 新品",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-26 10:48:20",
+    "uuid": "96777117-f477-4dc5-b6f7-f58eafae081a"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "和讯科技" },
       { "siteName": "新浪财经" },
