@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "中关村在线" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "国家新闻出版署公布了10月份游戏版号，共87款游戏过审，其中包括米哈游《绝区零》、盛趣《传奇“元宇宙”》、西山居《剑网3无界》、沐瞳科技《潮汐守望者》、恺英网络《临仙》、库洛游戏《鸣潮》、盛天网络《零域幻想》等。",
+    "id": "8UChdFvi3Zr",
+    "order": 1698404881815,
+    "createdAt": "2023-10-27T11:08:02.000Z",
+    "publishDate": "2023-10-27T11:08:01.815Z",
+    "title": "10月游戏版号发布 米哈游《绝区零》等共87款过审",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-27 19:08:02",
+    "uuid": "d7f2541b-0483-4762-88b3-ea25fcf05a5b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "Socionext 是日本一家专门负责定制 Soc 芯片的公司，该公司被称为只有在接到订单后才会研发和生产芯片，并且正在联合台积电开发一款 32 核 ARM 处理器，采用 Arm Neoverse 计算子系统技术，能够提供可扩展的性能 ...",
+    "id": "8UE4wPUuGla",
+    "order": 1698404877799,
+    "createdAt": "2023-10-27T11:07:58.000Z",
+    "publishDate": "2023-10-27T11:07:57.799Z",
+    "title": "日本芯片制造商 Socionext 宣布联合台积电，开发 2nm ARM 处理器",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-27 19:07:58",
+    "uuid": "4e056de9-35da-4164-8de8-716c68ee0014"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "中国证券网" },
       { "siteName": "铅笔道" }
