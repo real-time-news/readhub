@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "据《华尔街日报》报道，当地时间10月27日，谷歌承诺向OpenAI的竞争对手、AI初创公司Anthropic继续投资20亿美元 ...",
+    "id": "8UFCwIUAuUd",
+    "order": 1698458538010,
+    "createdAt": "2023-10-28T02:02:18.000Z",
+    "publishDate": "2023-10-28T02:02:18.010Z",
+    "title": "OpenAI 前员工创办，AI 初创公司 Anthropic 将获得谷歌 20 亿美元投资",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-28 10:02:18",
+    "uuid": "0979a612-735e-4f20-8c72-b0647f0a62bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "AGM 推出了新款 H6 户外三防智能机，售价 1399 元，定位为学生用机，拥有 8+256GB 存储配置、90Hz 刷新率、安卓 13 操作系统等特性 ...",
+    "id": "8UEQNFEKq9W",
+    "order": 1698457452457,
+    "createdAt": "2023-10-28T01:44:12.000Z",
+    "publishDate": "2023-10-28T01:44:12.457Z",
+    "title": "AGM 推出 H6 户外三防智能机：90Hz 屏幕、无广告系统，1399 元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-28 09:44:12",
+    "uuid": "b4a9e1c4-60f0-49ca-997a-652fdcfe8b82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "雷曼光电在2023第六届中国(国际)Micro LED显示高峰论坛上宣布推出全球首款PM驱动玻璃基Micro LED显示屏，并展示了220英寸应用的 Micro LED超高清家庭巨幕 ...",
+    "id": "8UCrGW5wTNA",
+    "order": 1698457358444,
+    "createdAt": "2023-10-28T01:42:38.000Z",
+    "publishDate": "2023-10-28T01:42:38.444Z",
+    "title": "雷曼携手沃格推出全球首款PM驱动玻璃基Micro LED显示屏",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-28 09:42:38",
+    "uuid": "24779c26-2127-4d7e-93f5-4b88a1f254a2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "英特尔CEO Pat Gelsinger在财报电话会议上表示，Arm架构的PC芯片并不是一种威胁，因为基于Arm架构的PC在整体上并不重要，并且英特尔很乐意为其代工 ...",
+    "id": "8UEM5Xf0JAf",
+    "order": 1698457290945,
+    "createdAt": "2023-10-28T01:41:30.000Z",
+    "publishDate": "2023-10-28T01:41:30.945Z",
+    "title": "英特尔：Arm架构的PC芯片不会构成威胁 很乐意为其代工",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-28 09:41:30",
+    "uuid": "1cfcf73d-76d7-45ae-8dbb-fd1425a24ee1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "英伟达和AMD都与微软合作，提供基于Arm架构的设计，并计划于2025年推出面向客户端PC的Arm处理器 ...",
+    "id": "8UDky7vv2r1",
+    "order": 1698457246106,
+    "createdAt": "2023-10-28T01:40:47.000Z",
+    "publishDate": "2023-10-28T01:40:46.106Z",
+    "title": "英伟达和联发科正在合作开发Arm处理器：采用台积电CoWoS封装",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-28 09:40:47",
+    "uuid": "43693d58-0878-4fff-a4a0-e69a488ad7f9"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国证券网" },
       { "siteName": "中证网" },
       { "siteName": "澎湃新闻" }
