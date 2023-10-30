@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "vivo Y100 新品发布会将延期举行，原因是现场布置需要调整。vivo Y100 手机原定于今日发布，将推出12GB+512GB大内存和6400万像素主摄等配置 ...",
+    "id": "8UDnmyIGWBS",
+    "order": 1698628287618,
+    "createdAt": "2023-10-30T01:11:27.000Z",
+    "publishDate": "2023-10-30T01:11:27.618Z",
+    "title": "vivo Y100 手机新品发布会延期举行",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-30 09:11:27",
+    "uuid": "46f139f9-73ae-42bc-83d5-35b9bb014099"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "G7成员国将在Monday达成企业开发AI系统的自愿行为准则。该准则旨在保护隐私和安全风险，并推动全球AI技术的发展。行为准则共有11点建议，包括公开报告、建设安全控制系统等 ...",
+    "id": "8UITsMbI7sR",
+    "order": 1698627747981,
+    "createdAt": "2023-10-30T00:47:52.000Z",
+    "publishDate": "2023-10-30T01:02:27.981Z",
+    "title": "七国集团将就企业开发先进AI系统行为准则达成一致",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-30 08:47:52",
+    "uuid": "9fd3ea90-2b1c-4afd-a2b8-6f3ce30100f6"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "界面" }
@@ -15,6 +52,24 @@
     "up": false,
     "date": "2023-10-30 08:33:27",
     "uuid": "dc097b74-98a8-4eea-9e1a-626eb43990ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "微软 Xbox 实施新政策，禁止用户使用未经官方授权的配件，包括手柄、耳机、转换器等。一些用户收到错误信息，指引去 Xbox 官网查看授权的配件 ...",
+    "id": "8UITGYt5u6B",
+    "order": 1698627800103,
+    "createdAt": "2023-10-30T00:16:44.000Z",
+    "publishDate": "2023-10-30T01:03:20.103Z",
+    "title": "微软 Xbox 新政策：11 月 17 日起未经官方授权配件将被禁用",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-30 08:16:44",
+    "uuid": "8b1cca40-274d-4140-ae39-07a20a65541b"
   },
   {
     "newsArray": [
@@ -67,5 +122,23 @@
     "up": false,
     "date": "2023-10-30 07:32:20",
     "uuid": "09d7febe-1907-4149-984f-f48ec4e6d0a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "新浪财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中金公司研报认为，当前积极因素不断累积，市场预期逐步改善，市场机会大于风险，四季度建议多关注阶段性及结构性机会 ...",
+    "id": "8UHiRmhSSwg",
+    "order": 1698629498804,
+    "createdAt": "2023-10-29T23:18:25.000Z",
+    "publishDate": "2023-10-30T01:31:38.804Z",
+    "title": "中金公司：市场显现积极变化 关注三条配置思路",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-30 07:18:25",
+    "uuid": "52f914b9-205e-4370-840e-d0cfaa16e04e"
   }
 ]
