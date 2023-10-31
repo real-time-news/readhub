@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "英伟达公布一项新研究，使用人工智能聊天机器人在半导体设计过程中回答问题和生成代码，为高级设计师节省时间。",
+    "id": "8UKDw1IIkCS",
+    "order": 1698721964554,
+    "createdAt": "2023-10-31T03:12:44.000Z",
+    "publishDate": "2023-10-31T03:12:44.554Z",
+    "title": "英伟达在芯片开发过程中引入AI聊天机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-31 11:12:44",
+    "uuid": "6b269c97-c6c7-4b18-8326-28ecc524fbfa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "南京银行发布第三季度报告，前三季度实现营业收入356.92亿元，同比增长1.43%。实现归属于上市公司股东的净利润152.84亿元，同比增长2.09% ...",
+    "id": "8UJJ58sttHU",
+    "order": 1698721560965,
+    "createdAt": "2023-10-31T03:06:00.000Z",
+    "publishDate": "2023-10-31T03:06:00.965Z",
+    "title": "南京银行三季度净利近46亿降逾4%，不良贷款率与年初持平",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-31 11:06:00",
+    "uuid": "3cb395fc-80a9-41b5-906a-aed48aab310c"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国证券网" },
       { "siteName": "中证网" },
       { "siteName": "界面" }
@@ -307,6 +341,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果今天发布了新一代 24 英寸 iMac，距离 M1 iMac 推出已近三年。新款 iMac 最大两点是搭载了刚刚发布的 M3 芯片，更快、更高效 ...",
+    "id": "8UKCMDZmwg2",
+    "order": 1698721982499,
+    "createdAt": "2023-10-31T01:03:53.000Z",
+    "publishDate": "2023-10-31T03:13:02.499Z",
+    "title": "苹果发布新款 24 英寸 iMac：搭载 M3 芯片，售价 10999 元起",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-31 09:03:53",
+    "uuid": "9b04540a-7170-45ae-98a4-d13c78ed5599"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国证券网" },
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
@@ -323,6 +375,58 @@
     "up": false,
     "date": "2023-10-31 09:02:45",
     "uuid": "4a400da0-0a14-4967-bfc3-8c32d5eaa51f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "和讯科技" },
+      { "siteName": "新浪财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "开源翻译" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "在苹果今天早晨的发布会上，苹果正式发布了 M3、M3 Pro、M3 Max 芯片，这是首款采用 3 纳米工艺技术的 PC 芯片 ...",
+    "id": "8UKCQRyWhfj",
+    "order": 1698721670390,
+    "createdAt": "2023-10-31T01:02:39.000Z",
+    "publishDate": "2023-10-31T03:07:50.390Z",
+    "title": "苹果发布 M3、M3 Pro、M3 Max 芯片，首款 3nm 工艺 PC 芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-31 09:02:39",
+    "uuid": "0e16b9b6-c14c-44a6-9a53-e4f5de2d0811"
+  },
+  {
+    "newsArray": [
+      { "siteName": "数字尾巴" },
+      { "siteName": "中国证券网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果刚刚发布搭载最新的 M3 芯片的新款 MacBook Pro，国行起售价 12999 起，16 英寸 MacBook Pro 最高配 128GB 统一内存，其最高售价高达 55999 元 ...",
+    "id": "8UKBfuWJXFi",
+    "order": 1698721445635,
+    "createdAt": "2023-10-31T00:46:08.000Z",
+    "publishDate": "2023-10-31T03:04:05.635Z",
+    "title": "苹果发布全新MacBook Pro：搭载 3 纳米 M3 芯片，新增深空黑配色",
+    "type": "topic",
+    "up": false,
+    "date": "2023-10-31 08:46:08",
+    "uuid": "1f28ef25-49b7-4304-83a2-7c72906c228b"
   },
   {
     "newsArray": [
