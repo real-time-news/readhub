@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "IT之家报道，蔚来汽车10月交付量达16074辆，同比增长59.8%，环比增长2.8%。理想汽车10月交付新车40422辆，同比增长302.1% ...",
+    "id": "8UMURI3yxg5",
+    "order": 1698888481481,
+    "createdAt": "2023-11-02T01:28:01.000Z",
+    "publishDate": "2023-11-02T01:28:01.481Z",
+    "title": "蔚来汽车 10 月交付量 16074 辆：同比增长 59.8%，但“蔚小理”中排名垫底",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-02 09:28:01",
+    "uuid": "8850802a-0ac9-47fb-aaca-51d949addb78"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "截至11月1日，上交所融资余额和深交所融资余额均有所增加，两市合计达到15526.23亿元。",
+    "id": "8UNWcZwiTgg",
+    "order": 1698886205708,
+    "createdAt": "2023-11-02T00:50:05.000Z",
+    "publishDate": "2023-11-02T00:50:05.708Z",
+    "title": "两市融资余额增加34.78亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-02 08:50:05",
+    "uuid": "a2c35ff6-b382-4416-9d55-ff34a5834e8a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国30年期国债收益率下滑10个基点，至4.9901%。",
+    "id": "8UMiMUIDwK4",
+    "order": 1698885431039,
+    "createdAt": "2023-11-02T00:37:12.000Z",
+    "publishDate": "2023-11-02T00:37:11.039Z",
+    "title": "美国30年期国债收益率下滑10个基点，至4.9901%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-02 08:37:12",
+    "uuid": "872f953d-71ae-4b12-b310-3f9914ca7a66"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "百度新闻" },
       { "siteName": "36Kr" }
