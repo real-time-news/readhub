@@ -2,6 +2,58 @@
   {
     "newsArray": [
       { "siteName": "钛媒体" },
+      { "siteName": "科学网" },
+      { "siteName": "百度新闻" }
+    ],
+    "summary": "一个由澳大利亚悉尼大学和美国加州大学洛杉矶分校组成的研究团队首次证明了可通过物理神经网络实现即时学习和记忆，研发受到大脑神经元工作方式的启发，与之高度相似 ...",
+    "id": "8UNSQINclt5",
+    "order": 1698969944389,
+    "createdAt": "2023-11-03T00:05:45.000Z",
+    "publishDate": "2023-11-03T00:05:44.389Z",
+    "title": "纳米线网络“大脑”可即时学习和记忆",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-03 08:05:45",
+    "uuid": "6c007df1-637a-44c8-b845-4a68861f3f40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "据国外科技媒体报道，苹果公司正在测试 iOS 17.1.1 更新，该更新主要修复现有版本中的 BUG ...",
+    "id": "8UP3adSlELj",
+    "order": 1698969793159,
+    "createdAt": "2023-11-03T00:03:13.000Z",
+    "publishDate": "2023-11-03T00:03:13.159Z",
+    "title": "苹果内部正测试 iOS 17.1.1 更新，有望修复夜间自动关机一段时间等诸多问题",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-03 08:03:13",
+    "uuid": "e3b2bfbf-216c-4801-a27c-5a1aebd4ece1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果公司CEO库克表示，苹果正在“大力”投资生成式AI计划。",
+    "id": "8UP6CzT6Gmu",
+    "order": 1698969779438,
+    "createdAt": "2023-11-03T00:02:59.000Z",
+    "publishDate": "2023-11-03T00:02:59.438Z",
+    "title": "库克：苹果正“大力”投资生成式AI计划",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-03 08:02:59",
+    "uuid": "add0915e-7b0a-4716-81ae-b4e8f59fb346"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
       { "siteName": "界面" },
       { "siteName": "36Kr" }
     ],
