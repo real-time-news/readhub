@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "TechInsights发布的全球智能手机市场报告表明，2023年Q3全球智能手机出货量下降，但降幅从上一季度的-8%降至本季度的-0.3% ...",
+    "id": "8UQnlcmdS1L",
+    "order": 1699073898554,
+    "createdAt": "2023-11-04T04:58:19.000Z",
+    "publishDate": "2023-11-04T04:58:18.554Z",
+    "title": "Q3全球智能手机出货量同比下降0.3%：小米逆势增长 接近苹果",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-04 12:58:19",
+    "uuid": "1655e470-f746-4178-ada0-7e36c78fdc0f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "据国外科技媒体报道，部分 ChatGPT Plus 用户无法继续使用必应联网功能 ...",
+    "id": "8UQu8vhg4qt",
+    "order": 1699073896154,
+    "createdAt": "2023-11-04T04:58:16.000Z",
+    "publishDate": "2023-11-04T04:58:16.154Z",
+    "title": "部分 ChatGPT Plus 用户反馈必应联网功能失效",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-04 12:58:16",
+    "uuid": "62c48a4d-0883-4f98-a6de-e19dcc69b4b9"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "36Kr" },
       { "siteName": "IT 之家" }
