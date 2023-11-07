@@ -1,6 +1,125 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在第六届中国国际进口博览会上，英特尔展示了其在智能制造、智慧医疗、智能座舱、绿色数据中心等领域的多项创新技术解决方案 ...",
+    "id": "8UWOa9DUElh",
+    "order": 1699360710878,
+    "createdAt": "2023-11-07T12:38:30.000Z",
+    "publishDate": "2023-11-07T12:38:30.878Z",
+    "title": "英特尔展示数实融合成果  涵盖智能智造、智能座舱等领域",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 20:38:30",
+    "uuid": "bc97203c-9053-4fc0-aa34-ec5b1fb61f14"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "丰田和特斯拉之间的战争正在汽车制造业中“最古老”的环节展开——装配线。丰田不断创新生产线，通过“一体化压铸”技术和精益生产方法相结合，与特斯拉等车企竞争 ...",
+    "id": "8UUuIA2hNVQ",
+    "order": 1699360547951,
+    "createdAt": "2023-11-07T12:35:47.000Z",
+    "publishDate": "2023-11-07T12:35:47.951Z",
+    "title": "汽车制造的未来之战：丰田挑战特斯拉",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 20:35:47",
+    "uuid": "5ade6a71-5544-4633-afab-40b66b2c55bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "动点科技" }
+    ],
+    "summary": "依米康表示，由于华为芯片的推出，液冷技术因其提高散热效率和避免功率浪费而加强了确定性，市场对液冷的关注度持续提升 ...",
+    "id": "8UWJ9bAgzBW",
+    "order": 1699360109379,
+    "createdAt": "2023-11-07T12:28:29.000Z",
+    "publishDate": "2023-11-07T12:28:29.379Z",
+    "title": "依米康：市场对液冷的关注度持续提升，公司液冷项目目前正常推进中",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 20:28:29",
+    "uuid": "75daeaac-b942-4548-a671-406d68626ee5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "特斯拉CEO埃隆·马斯克在欧洲之行期间提出了生产一款售价仅为25000美元(约合人民币18万元)的电动汽车的计划 ...",
+    "id": "8UW34F1uj5d",
+    "order": 1699360096127,
+    "createdAt": "2023-11-07T12:28:16.000Z",
+    "publishDate": "2023-11-07T12:28:16.127Z",
+    "title": "马斯克：特斯拉将推出低价电动汽车 仅卖25000美元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 20:28:16",
+    "uuid": "479d6939-6c00-433b-ad84-817c0211b0af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源翻译" }
+    ],
+    "summary": "Mozilla 宣布将从 Mercurial 转向 Git 用于 Firefox 开发，以减少团队压力。该存储库将托管在 GitHub 上，预计需要至少六个月的时间开始迁移 ...",
+    "id": "8UWS7HnVyn9",
+    "order": 1699360017978,
+    "createdAt": "2023-11-07T12:26:57.000Z",
+    "publishDate": "2023-11-07T12:26:57.978Z",
+    "title": "火狐浏览器 Firefox 开发将全面转向 Git，并托管在 GitHub 上",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 20:26:57",
+    "uuid": "e80f27b1-292c-4938-b032-60ce2adb27eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "SpaceX 公司的一枚猎鹰 9 号火箭于 2023 年 11 月 4 日成功将 23 颗星链卫星送入低地轨道，这是该火箭的第 18 次飞行，也创造了猎鹰 9 号火箭的复用纪录 ...",
+    "id": "8UWTfRDKz8L",
+    "order": 1699359453067,
+    "createdAt": "2023-11-07T12:17:34.000Z",
+    "publishDate": "2023-11-07T12:17:33.067Z",
+    "title": "SpaceX 猎鹰 9 号火箭再创新纪录，实现 18 次重复使用",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 20:17:34",
+    "uuid": "68b17bd1-95cb-4213-84c7-e0b00887e6fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LG推出了一款4K短焦投影仪ProBeam BU53RG，峰值亮度达到5000 ANSI流明，具有4K分辨率、HDR10、NTSC、PAL、SECAM和高达4K的计算机信号等功能,投射比高达1.14:1,配备嵌入式CMS和同步视频墙播放、蓝牙和Wi-Fi连接等功能,售价为4199美元,并提供3年保修.",
+    "id": "8UWUss3BFLA",
+    "order": 1699359064272,
+    "createdAt": "2023-11-07T12:11:05.000Z",
+    "publishDate": "2023-11-07T12:11:04.272Z",
+    "title": "LG推出ProBeam BU53RG 4K投影仪：亮度达5000 ANSI流明",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 20:11:05",
+    "uuid": "63e78b90-0523-4310-8ac4-f8c28c9a2234"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯科技" },
       { "siteName": "Solidot" },
       { "siteName": "电子发烧友" }
