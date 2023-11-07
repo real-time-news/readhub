@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "WeWork于当地时间11月6日根据美国破产法第十一章在新泽西州申请破产保护。",
+    "id": "8UVwe4NQHmt",
+    "order": 1699326719813,
+    "createdAt": "2023-11-07T03:03:47.000Z",
+    "publishDate": "2023-11-07T03:11:59.813Z",
+    "title": "WeWork申请破产保护",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 11:03:47",
+    "uuid": "c020e7c3-36c4-48ab-8571-810046fece05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "字节跳动宣布对PICO进行组织架构调整，聚焦在硬件与核心技术的长期探索和突破。PICO将加强在XR领域的光学、显示等长期关键技术上的研发投入，并对市场、游戏、视频等团队进行较大幅度的人员调整 ...",
+    "id": "8UVyrvb0gBZ",
+    "order": 1699326740436,
+    "createdAt": "2023-11-07T03:03:18.000Z",
+    "publishDate": "2023-11-07T03:12:20.436Z",
+    "title": "字节旗下PICO启动架构调整：将对市场、游戏、视频等团队进行大幅人员调整",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 11:03:18",
+    "uuid": "9220b573-cbdd-40f2-a5f7-3af37e35a09b"
+  },
+  {
+    "newsArray": [
       { "siteName": "动脉网" },
       { "siteName": "动脉网" },
       { "siteName": "lieyunpro.com_news" }
@@ -36,6 +72,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "雄安新区推出16条政策措施吸引各类人才，包括顶尖科学家、技能人才、青年人才等。其中，对于引进的世界技能大赛、中华技能大奖获奖者和全国技术能手，给予20万至100万元补贴 ...",
+    "id": "8UVvYeQgocG",
+    "order": 1699327089180,
+    "createdAt": "2023-11-07T02:34:05.000Z",
+    "publishDate": "2023-11-07T03:18:09.180Z",
+    "title": "雄安新区发布“雄才十六条”人才措施",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 10:34:05",
+    "uuid": "b231a73d-d164-4cd1-932c-0681b6832a9b"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "中关村在线" },
       { "siteName": "中关村在线" }
@@ -67,6 +120,23 @@
     "up": false,
     "date": "2023-11-07 10:21:37",
     "uuid": "c4199a3a-352b-4cb9-9423-bf9cc5c72a47"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "Lucid宣布，到2025年，所有采用当前联合充电系统(CCS)的Lucid车型都将能够在特斯拉超充网络使用适配器充电 ...",
+    "id": "8UVkvfgtsdM",
+    "order": 1699327154928,
+    "createdAt": "2023-11-07T02:03:16.000Z",
+    "publishDate": "2023-11-07T03:19:14.928Z",
+    "title": "美电动汽车制造商Lucid宣布接入特斯拉超充网络",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 10:03:16",
+    "uuid": "2d014242-4a81-46c5-af86-4b6303d3b368"
   },
   {
     "newsArray": [
@@ -206,6 +276,37 @@
     "up": false,
     "date": "2023-11-07 08:31:32",
     "uuid": "4ddd4bda-43e5-4798-b6ea-35a9e4816316"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪财经" },
+      { "siteName": "新浪财经" },
+      { "siteName": "开源翻译" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "动点科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "极客公园" },
+      { "siteName": "新浪财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI在当地时间周一举办了首届开发者大会，并发布了一系列新产品，包括GPT-4 Turbo模型等 ...",
+    "id": "8UVihJVKiTE",
+    "order": 1699326897678,
+    "createdAt": "2023-11-06T23:40:24.000Z",
+    "publishDate": "2023-11-07T03:14:57.678Z",
+    "title": "OpenAI发布GPT-4 Turbo模型、GPT应用商店等",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-07 07:40:24",
+    "uuid": "ab543696-16f7-40cd-89c0-d27b8f30472b"
   },
   {
     "newsArray": [
