@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "IT之家报道了一种新的恶意软件“ObjCShellz”针对苹果Mac设备，该恶意软件与Blue Noroff Advanced Persistent Threat存在关联 ...",
+    "id": "8UZ5TJrBNZd",
+    "order": 1699491501736,
+    "createdAt": "2023-11-09T00:45:31.000Z",
+    "publishDate": "2023-11-09T00:58:21.736Z",
+    "title": "针对苹果 Mac 的新型 ObjCShellz 恶意软件曝光，黑客可实现远程控制",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-09 08:45:31",
+    "uuid": "120045d1-1eea-41da-b625-8c0e405f5dbc"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "中关村在线" },
       { "siteName": "百度新闻" }
