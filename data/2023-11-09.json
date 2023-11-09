@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "和讯科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "小鹏汽车何小鹏在一篇长文中回应了媒体对AEB技术测试的情况，指出在面对静态对象时，AEB可能会有太多的误触发 ...",
+    "id": "8UYQZdeYcZT",
+    "order": 1699502971706,
+    "createdAt": "2023-11-09T04:09:31.000Z",
+    "publishDate": "2023-11-09T04:09:31.706Z",
+    "title": "AEB论辩网友调查：超七成网友认为小鹏汽车做得不够好",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-09 12:09:31",
+    "uuid": "05ee310c-5c0d-437f-bb43-38114688422e"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "36Kr" },
       { "siteName": "新浪财经" },
@@ -34,6 +51,61 @@
     "up": false,
     "date": "2023-11-09 11:22:37",
     "uuid": "3bc02ae3-e407-40a6-84e1-85b2e921c0bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "杭州实施土拍新政，恢复“价高者得”的竞价方式，不再摇奖。上城、拱墅、滨江、西湖、萧山、余杭等六区继续限制房价，而富阳、临安、临平、钱塘四区的房价不再设限 ...",
+    "id": "8UZEMowOJAx",
+    "order": 1699502768137,
+    "createdAt": "2023-11-09T03:19:42.000Z",
+    "publishDate": "2023-11-09T04:06:08.137Z",
+    "title": "杭州土地取消限价",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-09 11:19:42",
+    "uuid": "f0000f60-c97a-48af-8d45-edf7e89e21fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪财经" },
+      { "siteName": "动点科技" },
+      { "siteName": "品玩" },
+      { "siteName": "开源翻译" }
+    ],
+    "summary": "据爆料者@Tech_Reve 在推特上表示，苹果目前正在利用大语言模型将Siri彻底改造为终极虚拟助手，并准备将其开发为苹果最强大的杀手级AI应用程序 ...",
+    "id": "8UZFLkTsuZQ",
+    "order": 1699502891798,
+    "createdAt": "2023-11-09T03:17:39.000Z",
+    "publishDate": "2023-11-09T04:08:11.798Z",
+    "title": "消息称苹果正利用大语言模型改造 Siri，有望明年推出",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-09 11:17:39",
+    "uuid": "d2a1bfd6-9c35-466f-abc3-13b2f6426beb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "新浪财经" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "李彦宏在2023年世界互联网大会上表示，繁荣的AI原生应用生态将推动新一轮的经济增长，但重复造轮子会浪费社会资源 ...",
+    "id": "8UZDDIlJT5I",
+    "order": 1699503028850,
+    "createdAt": "2023-11-09T03:09:29.000Z",
+    "publishDate": "2023-11-09T04:10:28.850Z",
+    "title": "李彦宏：重复造大模型，将给社会造成极大的资源浪费",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-09 11:09:29",
+    "uuid": "6e8ae682-5aa9-404f-8438-0fe8f7593a27"
   },
   {
     "newsArray": [
@@ -366,6 +438,34 @@
     "up": false,
     "date": "2023-11-09 07:22:39",
     "uuid": "dffd54a1-8001-44b5-901c-aef9c8becc0a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "中关村在线" },
+      { "siteName": "品玩" },
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" },
+      { "siteName": "百度新闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "北京时间11月8日23时33分，OpenAI更新事故报告称，已实施修复，正逐渐看到服务恢复 ...",
+    "id": "8UYi85xNr0t",
+    "order": 1699502614982,
+    "createdAt": "2023-11-08T23:02:25.000Z",
+    "publishDate": "2023-11-09T04:03:34.982Z",
+    "title": "ChatGPT和API服务宕机近 2 小时，CEO 公开致歉",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-09 07:02:25",
+    "uuid": "e30357bc-c089-444a-946d-caf97bb94025"
   },
   {
     "newsArray": [
