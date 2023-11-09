@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软承认在 VMware ESXi 虚拟机运行 Windows Server 2022 时，安装今年 10 月累积更新 KB5031364 会导致设备蓝屏，出现 \"PNP DETECTED FATAL ERROR\" 代码.该问题仅影响使用 AMD Epyc 物理处理器、在 VMware 设置中为虚拟机启用 \"向来宾操作系统公开 IOMMU\"、在 Windows Server 2022 中启用 \"启用基于虚拟化的安全性\"、\"System Guard 安全启动\" 等配置的客户机虚拟机.微软提供临时解决方案,将于本月中旬发布修复补丁.",
+    "id": "8UZbdPdFmdG",
+    "order": 1699518191500,
+    "createdAt": "2023-11-09T08:23:11.000Z",
+    "publishDate": "2023-11-09T08:23:11.500Z",
+    "title": "微软承认十月更新导致 Windows Server 2022 虚拟机开机蓝屏",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-09 16:23:11",
+    "uuid": "b4de3310-3c49-484d-af64-1a7645a65713"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" }
