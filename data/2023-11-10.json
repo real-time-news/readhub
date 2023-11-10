@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "OpenAI宣布了“数据伙伴关系”计划，旨在与第三方机构合作，建立用于人工智能模型训练的公共和私有数据集 ...",
+    "id": "8UbRZiv7At2",
+    "order": 1699613342102,
+    "createdAt": "2023-11-10T10:49:02.000Z",
+    "publishDate": "2023-11-10T10:49:02.102Z",
+    "title": "OpenAI推出“数据伙伴关系”，减少训练数据偏向西方国家的缺陷",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-10 18:49:02",
+    "uuid": "fc66164f-f960-4c79-ba92-0867acc44870"
+  },
+  {
+    "newsArray": [
       { "siteName": "中证网" },
       { "siteName": "中证网" },
       { "siteName": "中国证券网" },
