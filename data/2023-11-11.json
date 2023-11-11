@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "据小米公司官微消息，截至2023年11月10日22:37，小米双11全渠道支付金额破193亿元，刷新历年双11纪录。",
+    "id": "8UbrYc3w7l3",
+    "order": 1699678348428,
+    "createdAt": "2023-11-11T04:46:08.000Z",
+    "publishDate": "2023-11-11T04:52:28.428Z",
+    "title": "小米：双11支付额破193亿元，刷新纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-11 12:46:08",
+    "uuid": "5e55db47-39d2-4b7b-97cb-8a4ad7b0fb2b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯科技" },
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "菜鸟表示，今年双11物流速度更快，首日订单当次日达率同比提升50%，其中菜鸟仓配履约的当次日达率较去年同期提升50% ...",
+    "id": "8UcgiBi1cOH",
+    "order": 1699678236242,
+    "createdAt": "2023-11-11T04:35:50.000Z",
+    "publishDate": "2023-11-11T04:50:36.242Z",
+    "title": "菜鸟：今年双11物流速度更快，首日订单当次日达率同比提升50%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-11 12:35:50",
+    "uuid": "f59b346e-3164-42a6-b7bc-56a6f2cb2c73"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "TechWeb" },
       { "siteName": "凤凰科技" }
