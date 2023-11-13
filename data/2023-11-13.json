@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪财经" },
+      { "siteName": "和讯科技" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "香港政府正在考虑扩大投资移民的资产范围，包括持牌虚拟资产交易平台的比特币等虚拟资产，以吸引更多高净值人士在香港落户 ...",
+    "id": "8UgEVSt0b6v",
+    "order": 1699872751073,
+    "createdAt": "2023-11-13T10:33:08.000Z",
+    "publishDate": "2023-11-13T10:52:31.073Z",
+    "title": "港府考虑将比特币等虚拟资产列为投资移民资产",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-13 18:33:08",
+    "uuid": "aa6b53b9-b330-4b5a-afc0-9ee5f5724de7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪财经" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "小红书科技有限公司最近申请注册“小地瓜”商标，将其归类为科学仪器。作为谐音梗，网友常常用“小红薯”指代小红书，因此“小地瓜”称呼也应运而生 ...",
+    "id": "8UgCy3hFP8R",
+    "order": 1699872764466,
+    "createdAt": "2023-11-13T10:29:21.000Z",
+    "publishDate": "2023-11-13T10:52:44.466Z",
+    "title": "小红书注册“小地瓜”商标",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-13 18:29:21",
+    "uuid": "bc9c1f08-a20c-4337-a39e-bc5d119472e1"
+  },
+  {
+    "newsArray": [
       { "siteName": "电子发烧友" },
       { "siteName": "TechWeb" },
       { "siteName": "中关村在线" }
@@ -32,6 +66,24 @@
     "up": false,
     "date": "2023-11-13 18:26:46",
     "uuid": "7a1578aa-4a2e-4b7f-a958-80cffa328cd8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "T3出行与中国电信战略合作，共同打造国内出行行业首个生态大模型“阡陌”，并逐步推出各类出行场景大模型解决方案。",
+    "id": "8UgEksNMoCT",
+    "order": 1699872544104,
+    "createdAt": "2023-11-13T10:19:55.000Z",
+    "publishDate": "2023-11-13T10:49:04.104Z",
+    "title": "T3出行联手中国电信打造国内首个出行大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-13 18:19:55",
+    "uuid": "8a5ec768-e84a-45ad-bb09-16384fb06d41"
   },
   {
     "newsArray": [
@@ -159,6 +211,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "微信输入法已分别对 iOS 和安卓版推送了 1.2.0 版本更新，支持跨设备复制粘贴。用户需要在“微信输入法设置”→“跨设备粘贴和同步”→“关联设备”中进行关联 ...",
+    "id": "8UgJkjbrJzu",
+    "order": 1699872788837,
+    "createdAt": "2023-11-13T10:00:04.000Z",
+    "publishDate": "2023-11-13T10:53:08.837Z",
+    "title": "微信输入法发布1.2.0 版本：支持跨设备复制粘贴",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-13 18:00:04",
+    "uuid": "0232b63a-4d17-4945-8aa9-2044aae0d291"
+  },
+  {
+    "newsArray": [
       { "siteName": "SegmentFault" },
       { "siteName": "电子发烧友" },
       { "siteName": "SegmentFault" }
@@ -279,6 +348,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "最近网上一则关于12306网站为了防止猥亵妇女而选择女性购买卧铺车票下铺的言论引起了热议 ...",
+    "id": "8UgGB9PTj81",
+    "order": 1699872868013,
+    "createdAt": "2023-11-13T08:24:44.000Z",
+    "publishDate": "2023-11-13T10:54:28.013Z",
+    "title": "网传女乘客购票默认为列车上铺，12306 辟谣：均为随机出票",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-13 16:24:44",
+    "uuid": "acc7a4ab-12e0-4fcf-835c-fe96c5cca8e7"
+  },
+  {
+    "newsArray": [
       { "siteName": "电子发烧友" },
       { "siteName": "电子发烧友" },
       { "siteName": "中关村在线_ZOL企业站" }
@@ -293,6 +381,23 @@
     "up": false,
     "date": "2023-11-13 16:01:37",
     "uuid": "53979161-d2bc-44bd-baaf-1871a4291d48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪财经" },
+      { "siteName": "新浪财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "拼多多11.11战报数据显示，百亿补贴订单量同比增长107%，用户突破6.2亿，参与平台大促的品牌、商家以及商品数量均创新高 ...",
+    "id": "8UgEjm2rdrP",
+    "order": 1699872882789,
+    "createdAt": "2023-11-13T07:55:53.000Z",
+    "publishDate": "2023-11-13T10:54:42.789Z",
+    "title": "拼多多双11: 百亿补贴订单量同比增长107%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-13 15:55:53",
+    "uuid": "bd62af34-c9d1-4c79-bcbe-3989d5714d0e"
   },
   {
     "newsArray": [
