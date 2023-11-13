@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "东风乘用车与神龙汽车公司签订战略合作框架协议，标志着双方将在新能源领域展开深入合作。神龙公司实施战略转型，将利用自身优势资源和东风集团的支持，加快推动东风乘用车新能源“跃迁行动”的步伐 ...",
+    "id": "8UgAeM6iHXE",
+    "order": 1699869674241,
+    "createdAt": "2023-11-13T10:01:14.000Z",
+    "publishDate": "2023-11-13T10:01:14.241Z",
+    "title": "东风集团与神龙汽车签订战略合作框架协议",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-13 18:01:14",
+    "uuid": "cdabeb60-2904-4f66-ab00-86815d4ee6b3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "SegmentFault" },
+      { "siteName": "电子发烧友" },
+      { "siteName": "SegmentFault" }
+    ],
+    "summary": "OpenHarmony 4.0 Release版本发布了，新增4000多个API，应用开发能力更加丰富。HDF新增200多个HDI接口，硬件适配更加便捷 ...",
+    "id": "8UfwFEpaIGa",
+    "order": 1699869266433,
+    "createdAt": "2023-11-13T09:54:27.000Z",
+    "publishDate": "2023-11-13T09:54:26.433Z",
+    "title": "OpenHarmony 4.0 Release版本发布，应用开发能力更丰富",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-13 17:54:27",
+    "uuid": "04036ab8-fe21-41cb-983b-7ba4997dcc9a"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "新浪财经" },
       { "siteName": "界面" }
