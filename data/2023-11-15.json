@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "高通发布了 Cloud AI 100 Ultra，属于云 AI 推理加速卡，专为生成式 AI 和大型语言模型而设计 ...",
+    "id": "8UjQjNnBCdJ",
+    "order": 1700030013102,
+    "createdAt": "2023-11-15T06:33:34.000Z",
+    "publishDate": "2023-11-15T06:33:33.102Z",
+    "title": "高通推出Cloud AI 100 Ultra云推理卡，单卡可运行100B参数大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-15 14:33:34",
+    "uuid": "27786ed1-1ec7-4746-bace-1b3dbbabdf7a"
+  },
+  {
+    "newsArray": [
       { "siteName": "SegmentFault" },
       { "siteName": "SegmentFault" },
       { "siteName": "搜狐" }
