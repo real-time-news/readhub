@@ -88,6 +88,45 @@
   },
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪财经" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "针对近日零一万物被质疑完全使用LLaMA架构，只对两个张量（Tensor）名称做修改，李开复在朋友圈再度发文回应称，“就像做一个手机APP开发者，不会去自创iOS、Android 以外的全新基础架构 ...",
+    "id": "8UkzFOraHcX",
+    "order": 1700118952894,
+    "createdAt": "2023-11-16T04:39:55.000Z",
+    "publishDate": "2023-11-16T07:15:52.894Z",
+    "title": "李开复再度回应大模型架构争议：受益于开源也贡献开源",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 12:39:55",
+    "uuid": "41e9b790-e011-4f7e-aa18-612dcec2fc02"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪财经" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐网" },
+      { "siteName": "搜狐网" }
+    ],
+    "summary": "小米集团合伙人、总裁卢伟冰和小米集团高级副总裁、手机部总裁曾学忠在2023小米IoT生态伙伴大会上宣布，小米自研系统Vela面向全球软硬件开发者正式开源，遵循Apache 2.0开源协议 ...",
+    "id": "8UksNGNUZbJ",
+    "order": 1700119002062,
+    "createdAt": "2023-11-16T03:54:27.000Z",
+    "publishDate": "2023-11-16T07:16:42.062Z",
+    "title": "小米宣布自研系统Vela全面开源",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 11:54:27",
+    "uuid": "2e350cae-f173-4b7a-849c-7e21b120b1c5"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐网" },
       { "siteName": "手机中国" },
       { "siteName": "新浪财经" },
@@ -134,6 +173,26 @@
     "up": false,
     "date": "2023-11-16 11:36:52",
     "uuid": "5fd5be6d-438b-46bf-b081-00b31cddbf3b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪财经" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "抖音发布《抖音关于打击违规微短剧的公告》，最近累计下架了119部小程序内的违规微短剧，并对1188个违规推广微短剧的抖音账号进行了处置 ...",
+    "id": "8Ukw0cHzOBk",
+    "order": 1700119055208,
+    "createdAt": "2023-11-16T03:34:14.000Z",
+    "publishDate": "2023-11-16T07:17:35.208Z",
+    "title": "抖音发布微短剧治理公告 119部违规微短剧下架",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 11:34:14",
+    "uuid": "9595b710-8a1c-4d82-bef3-d2da8e1a4b63"
   },
   {
     "newsArray": [
