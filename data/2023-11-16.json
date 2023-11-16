@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "NASA宣布暂时搁置火星样本返回任务，原因是成本不断增加。该任务需要在火星上采集大量样本，并返回地球进行分析 ...",
+    "id": "8Ul2kk8Ie8i",
+    "order": 1700122260126,
+    "createdAt": "2023-11-16T08:11:01.000Z",
+    "publishDate": "2023-11-16T08:11:00.126Z",
+    "title": "因预算问题，美国宇航局搁置火星样本返回任务",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 16:11:01",
+    "uuid": "11435b88-1e20-452d-8ed4-c271528705c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐网" },
+      { "siteName": "中关村在线_ZOL企业站" },
+      { "siteName": "电子发烧友" }
+    ],
+    "summary": "英伟达在微软 Ignite 2023 大会上发布了基于 Azure 的生成式 AI Foundry 服务，旨在帮助企业和初创公司在 Azure 上开发、调优和部署其自定义生成式 AI 应用.这项服务整合了 NVIDIA AI Foundation Models、NVIDIA NeMo 框架和工具,以及 NVIDIA DGX 云 AI 超算服务三大要素.它为企业提供创建自定义 AI 模型的端到端解决方案,并支持企业使用 NVIDIA AI Enterprise 软件部署其定制模型.目前,SAP SE、Amdocs 和 Getty Images 三大厂商已率先使用了这项服务来构建其自定义 AI 模型.",
+    "id": "8Ul7tRnESE9",
+    "order": 1700121564200,
+    "createdAt": "2023-11-16T07:59:24.000Z",
+    "publishDate": "2023-11-16T07:59:24.200Z",
+    "title": "英伟达发布基于微软 Azure 的生成式 AI Foundry 服务",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 15:59:24",
+    "uuid": "e16bca29-ef37-49cc-989f-01ce3d90e24b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "pencilnews" },
+      { "siteName": "铅笔道" },
+      { "siteName": "搜狐网" }
+    ],
+    "summary": "三变科技参与了设立国泰君安格隆并购股权投资基金，该基金经营期限为2015年4月17日至2022年4月16日，公司认缴和实缴的出资金额为1亿元 ...",
+    "id": "8UlC2j3DesM",
+    "order": 1700121537455,
+    "createdAt": "2023-11-16T07:58:57.000Z",
+    "publishDate": "2023-11-16T07:58:57.455Z",
+    "title": "国泰君安格隆并购基金进入清算",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 15:58:57",
+    "uuid": "29bef3ae-fea5-4e7f-91e2-466da37070ae"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "亿欧" },
       { "siteName": "搜狐网" }
