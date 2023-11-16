@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪财经" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "小米宣布打造全球最大的消费级 IoT 平台，已连接设备数达到 6.55 亿台，拥有 5 个及以上小米 IoT 设备的用户超过 1300 万 ...",
+    "id": "8UkqJ7icXVN",
+    "order": 1700101274095,
+    "createdAt": "2023-11-16T02:21:14.000Z",
+    "publishDate": "2023-11-16T02:21:14.095Z",
+    "title": "小米已打造全球最大的消费级 IoT 平台，连接设备数达 6.55 亿台",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 10:21:14",
+    "uuid": "d00141b7-e6fe-44bf-bd61-7d221ac0acd0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "品玩" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "微软在Ignite开发者大会上推出了两款自研AI芯片Azure Maia 100及Cobalt 100，旨在加速AI计算任务并提供算力基础，适用于企业软件用户和自定义AI服务的开发人员 ...",
+    "id": "8UkiC5NPOKi",
+    "order": 1700100975854,
+    "createdAt": "2023-11-16T02:16:15.000Z",
+    "publishDate": "2023-11-16T02:16:15.854Z",
+    "title": "微软发布自研AI芯片Azure Maia 100及Cobalt 100",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 10:16:15",
+    "uuid": "5634b6ed-ca2d-486f-9ff0-a2780bd971b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "何小鹏在财报电话会议上透露，小鹏汽车进展顺利，代号为“MONA”的A级纯电轿车将于明年三季度上市，并将在2万美元价位段推出多款支持高阶自动驾驶的车型 ...",
+    "id": "8Ukfu8SyIOe",
+    "order": 1700100090102,
+    "createdAt": "2023-11-16T02:01:31.000Z",
+    "publishDate": "2023-11-16T02:01:30.102Z",
+    "title": "何小鹏：15 万级的 MONA 车型进展顺利，明年第三季度上市",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 10:01:31",
+    "uuid": "af664b79-6c15-450c-954f-690e1cbc6812"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "中关村在线" },
       { "siteName": "ITBear科技资讯" }
@@ -15,6 +68,25 @@
     "up": false,
     "date": "2023-11-16 09:54:18",
     "uuid": "e2c4afba-fbcf-424e-a1ce-e121db61f05a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "机器之心" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "金山办公的WPS AI今日开始公测，其功能包括文字、表格和演示的AI能力，可帮助用户高效创作各种办公内容 ...",
+    "id": "8UknQmkdDtC",
+    "order": 1700100351573,
+    "createdAt": "2023-11-16T01:50:39.000Z",
+    "publishDate": "2023-11-16T02:05:51.573Z",
+    "title": "金山办公 WPS AI 今日起开启公测，面向全体用户陆续开放体验",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-16 09:50:39",
+    "uuid": "4bab8bf0-cb2c-42e7-917b-94241e450672"
   },
   {
     "newsArray": [
