@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "理想汽车选择自动驾驶公司轻舟智航作为其智驾供应商，协助其在Pro版车型上实现高阶智能驾驶功能。目前，轻舟智航的部分员工已到理想汽车驻场开发 ...",
+    "id": "8UrIRC2YZgE",
+    "order": 1700443927929,
+    "createdAt": "2023-11-20T01:32:07.000Z",
+    "publishDate": "2023-11-20T01:32:07.929Z",
+    "title": "消息称理想智驾自研之外引入供应商，李想亲自盯",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-20 09:32:07",
+    "uuid": "01ff5a35-e607-427f-b1ad-b7d9c2e7063c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐网" },
+      { "siteName": "搜狐网" },
+      { "siteName": "36Kr" },
+      { "siteName": "搜狐网" },
+      { "siteName": "搜狐网" }
+    ],
+    "summary": "国内首次全尺寸掺氢天然气管道的封闭空间泄漏燃爆试验近日成功实施，填补我国长输天然气管道掺氢燃爆验证试验的空白，为实现天然气长输管道掺氢输送技术自主可控奠定了基础。",
+    "id": "8UrMM8N7ZJF",
+    "order": 1700441224337,
+    "createdAt": "2023-11-20T00:47:04.000Z",
+    "publishDate": "2023-11-20T00:47:04.337Z",
+    "title": "首次掺氢天然气管道燃爆试验成功，我国加速氢能产业布局",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-20 08:47:04",
+    "uuid": "41922c74-e340-4ea1-9984-a68e04a063b3"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "网易科技" }
@@ -15,5 +51,24 @@
     "up": false,
     "date": "2023-11-20 08:16:22",
     "uuid": "dde7f299-c651-4aa7-a03e-35f1dc740e15"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "新浪财经" },
+      { "siteName": "新浪财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "OpenAI管理层发生了“地震”，CEO和总裁同时离职，被罢免的CEO萨姆·奥特曼和前总裁格雷格·布罗克曼回到了公司总部，讨论重返的可能性 ...",
+    "id": "8UrISbW8Dz5",
+    "order": 1700442259145,
+    "createdAt": "2023-11-19T23:30:43.000Z",
+    "publishDate": "2023-11-20T01:04:19.145Z",
+    "title": "OpenAI邀请前CEO奥特曼回公司总部讨论复职事宜",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-20 07:30:43",
+    "uuid": "18b61e80-cb80-47f6-9ce4-81441f6c1b8a"
   }
 ]
