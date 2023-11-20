@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "全新BMW 5系长轴距版在广州车展全球首发，采用燃油性与纯电动两种版本，其中纯电动BMW i5采用第五代 BMW eDrive电驱技术，续航里程超过700公里，零百加速仅需3.8秒。",
+    "id": "8Uq0jqY3FiG",
+    "order": 1700449759120,
+    "createdAt": "2023-11-20T03:09:19.000Z",
+    "publishDate": "2023-11-20T03:09:19.120Z",
+    "title": "全新BMW 5系长轴距版广州车展正式亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-20 11:09:19",
+    "uuid": "89227dee-8d8b-4690-9db3-e2fe14fa0714"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "搜狐网" },
       { "siteName": "凤凰科技" }
@@ -32,6 +49,24 @@
     "up": false,
     "date": "2023-11-20 10:47:24",
     "uuid": "0f94391a-c923-4fd8-bd46-e25de4fcedf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "人民网" },
+      { "siteName": "中国证券网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "1-10月，邮政行业寄递业务量同比增长14.3%，快递业务量同比增长17.0%。同城快递、异地快递和国际/港澳台快递业务量分别增长2.7%、18.2%和55.1% ...",
+    "id": "8UrVIzBriuN",
+    "order": 1700450318834,
+    "createdAt": "2023-11-20T02:46:17.000Z",
+    "publishDate": "2023-11-20T03:18:38.834Z",
+    "title": "国家邮政局：10月快递业务量完成120.6亿件 同比增长22.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-20 10:46:17",
+    "uuid": "221791d4-9233-47b4-8d19-46ec7546b8a3"
   },
   {
     "newsArray": [
@@ -102,6 +137,66 @@
     "up": false,
     "date": "2023-11-20 10:05:46",
     "uuid": "8ab30ac3-aebf-4f1e-8360-023c6930164c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "科学网" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "OpenAI的高管和投资者试图恢复山姆·奥特曼（Sam Altman）的首席执行官职务，知情人士表示，奥特曼对回归持开放态度，但希望看到治理变革，包括罢免现有董事会成员 ...",
+    "id": "8UrR1cONGlk",
+    "order": 1700450000488,
+    "createdAt": "2023-11-20T01:47:58.000Z",
+    "publishDate": "2023-11-20T03:13:20.488Z",
+    "title": "奥特曼晒OpenAI访客证：第一次也是最后一次戴这个",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-20 09:47:58",
+    "uuid": "47d2578d-576e-4917-95be-1a2448dfc2e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "搜狐网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "VR陀螺" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐网" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "苹果公司的头戴式设备 Apple Vision Pro 原计划在 2024 年 1 月发售，但现在仍在制定分销计划并进行最终的设备测试 ...",
+    "id": "8UqeOP6alYY",
+    "order": 1700450071286,
+    "createdAt": "2023-11-20T01:37:08.000Z",
+    "publishDate": "2023-11-20T03:14:31.286Z",
+    "title": "古尔曼：预计苹果 Vision Pro 头显在明年 3 月份左右发售",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-20 09:37:08",
+    "uuid": "bb18be15-7b08-4250-886b-566b85fe47e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "根据最新的数据显示，11月1年期和5年期以上贷款市场报价利率分别提高了0.5个百分点至3.45%和4.20%。",
+    "id": "8UrRMR9YUTN",
+    "order": 1700450291491,
+    "createdAt": "2023-11-20T01:32:55.000Z",
+    "publishDate": "2023-11-20T03:18:11.491Z",
+    "title": "11月LPR报价出炉：1年期和5年期利率均维持不变",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-20 09:32:55",
+    "uuid": "32091b88-2a5e-4380-bb6e-e808ce6c8767"
   },
   {
     "newsArray": [
