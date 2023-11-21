@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "pencilnews" },
+      { "siteName": "铅笔道" },
+      { "siteName": "搜狐网" }
+    ],
+    "summary": "国芯科技宣布其研发的新一代汽车电子DSP芯片产品“CCD5001”在内部测试中获得成功 ...",
+    "id": "8UtcY9QjSIZ",
+    "order": 1700558297856,
+    "createdAt": "2023-11-21T09:18:17.000Z",
+    "publishDate": "2023-11-21T09:18:17.856Z",
+    "title": "国芯科技：成功研发12纳米车用芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-21 17:18:17",
+    "uuid": "acdc81fd-e2a5-424d-a096-dd4fa1a8972c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "科学网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "深圳医学科学院今天上午成立，由颜宁担任创始院长，集医学综合研究、人才培养和成果转化于一体，旨在建设具有国际影响力的医学科技战略机构 ...",
+    "id": "8UtFYgivYb6",
+    "order": 1700557875247,
+    "createdAt": "2023-11-21T09:11:16.000Z",
+    "publishDate": "2023-11-21T09:11:15.247Z",
+    "title": "深圳医学科学院今日成立 颜宁任创始院长",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-21 17:11:16",
+    "uuid": "3450fb8a-ce66-429e-9d7a-01b33e0de9ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐网" },
+      { "siteName": "搜狐网" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软向使用 Windows 10 版本 22H2 的预览体验成员发布了 Build 19045.3757(KB5032278)更新，引入了 Copilot AI 助手.Copilot 适用于运行版本 22H2 的家庭版和专业版设备，在 Windows 10 中，“Copilot in Windows”按钮将显示在任务栏右侧,不会与桌面内容重叠或影响已经打开的应用窗口.首批推送名单中不包括由组织管理的 22H2 版本 Win10 专业版设备,而运行版本 22H2 的 Windows 10 企业版和教育版设备也包括在内.",
+    "id": "8UsyQIgMYVP",
+    "order": 1700557709270,
+    "createdAt": "2023-11-21T09:08:29.000Z",
+    "publishDate": "2023-11-21T09:08:29.270Z",
+    "title": "微软推送 Win10 发布预览版本 19045.3757，引入 Copilot AI 助手",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-21 17:08:29",
+    "uuid": "01b01ebd-7d29-4a77-b03b-c73c0da9de0d"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "快科技" },
       { "siteName": "中关村在线" }
