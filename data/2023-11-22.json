@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐网" }
+    ],
+    "summary": "据知情人士透露，台积电正在考虑在日本建设第三家芯片工厂，生产先进的3纳米芯片，这将使日本成为全球主要的芯片制造中心 ...",
+    "id": "8Uv5IGwC8Nr",
+    "order": 1700643047128,
+    "createdAt": "2023-11-22T08:50:47.000Z",
+    "publishDate": "2023-11-22T08:50:47.128Z",
+    "title": "台积电拟在日本建新厂",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-22 16:50:47",
+    "uuid": "c3f85670-a20a-4177-9041-794c5f4ee4d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "微软计划在明年 2 月份在 Teams 应用中引入电商功能和设备商店，为用户提供更方便的购物和使用体验 ...",
+    "id": "8UvDSYEqB3o",
+    "order": 1700643032691,
+    "createdAt": "2023-11-22T08:50:33.000Z",
+    "publishDate": "2023-11-22T08:50:32.691Z",
+    "title": "明年 2 月上线，微软 Teams 将引入设备商店：销售各种已认证商品",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-22 16:50:33",
+    "uuid": "500d95c4-551e-4600-8e2b-be993ca70655"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "腾讯网" },
       { "siteName": "和讯网" }
