@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "特斯拉宣布其自动驾驶系统FSD V12将在两周内上线试用，该系统消除了超过30万行控制车辆FSD功能的代码，进一步依赖神经网络，并首次使用神经网络来控制转向、加速和制动 ...",
+    "id": "8UzawrexZRS",
+    "order": 1700869277714,
+    "createdAt": "2023-11-24T23:41:17.000Z",
+    "publishDate": "2023-11-24T23:41:17.714Z",
+    "title": "特斯拉开始向员工提供 FSD V12 自动驾驶",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-25 07:41:17",
+    "uuid": "9865854d-547d-4053-9596-6e4c1567ef6f"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "腾讯网" },
       { "siteName": "澎湃新闻" }
@@ -49,6 +66,25 @@
     "up": false,
     "date": "2023-11-25 02:05:47",
     "uuid": "2655eb25-ed10-48d5-af31-37adf6136595"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "俄罗斯总统普京表示，即将确定新版俄罗斯人工智能发展战略，应大幅度扩大 AI 领域人才培养规模，并注意运用的安全性和合理性。",
+    "id": "8UyvqpruDbU",
+    "order": 1700869278141,
+    "createdAt": "2023-11-24T17:45:54.000Z",
+    "publishDate": "2023-11-24T23:41:18.141Z",
+    "title": "普京：即将确定新版俄罗斯人工智能发展战略",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-25 01:45:54",
+    "uuid": "4e461170-069a-45e5-bee7-f701838a0aaf"
   },
   {
     "newsArray": [
