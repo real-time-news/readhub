@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "腾讯网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "作者使用GPT-4的ADA功能生成了伪造的数据集，并在《美国医学会眼科学杂志》上发表了一篇论文。这些数据看起来十分真实，但专业人士仔细审查才能发现其伪造的本质。",
+    "id": "8Uwtn9NiIJB",
+    "order": 1700818452579,
+    "createdAt": "2023-11-24T09:34:12.000Z",
+    "publishDate": "2023-11-24T09:34:12.579Z",
+    "title": "ChatGPT 或正被用于学术造假，可快速伪造专业数据",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-24 17:34:12",
+    "uuid": "c38d05a4-16c1-4f60-975c-27919e9d9999"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "杭华股份股东TOKA拟询价转让3.6%公司股份，价格下限不低于前20个交易日股票交易均价的70%。",
+    "id": "8UybqOchWXB",
+    "order": 1700818405883,
+    "createdAt": "2023-11-24T09:33:25.000Z",
+    "publishDate": "2023-11-24T09:33:25.883Z",
+    "title": "杭华股份：股东股东 TOKA拟询价3.6%公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-24 17:33:25",
+    "uuid": "d668d498-cf79-4a90-85c9-15e1f3980bf0"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "36Kr" },
       { "siteName": "腾讯网" }
