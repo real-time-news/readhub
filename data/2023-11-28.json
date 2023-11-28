@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐网" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "科研团队开发出了 Sewformer AI 系统，该系统可以通过训练 100 万张服装照片来识别和重建图片中的角色服装，准确率高达 95.7% ...",
+    "id": "8V4ms4twPdA",
+    "order": 1701139008185,
+    "createdAt": "2023-11-28T02:36:48.000Z",
+    "publishDate": "2023-11-28T02:36:48.185Z",
+    "title": "AI 换装新突破：经 100 万张照片训练，解构重建服装准确率 95.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-28 10:36:48",
+    "uuid": "c1da80e5-026c-43de-acfa-54ceffe3306a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "亿欧" }
+    ],
+    "summary": "博俊科技是长安汽车的车身件供应商之一，该公司于11月27日在互动平台上表示，截至目前，公司与长安汽车的合作情况良好，供货量呈上升趋势。",
+    "id": "8V4fiyMBTXG",
+    "order": 1701138823260,
+    "createdAt": "2023-11-28T02:33:43.000Z",
+    "publishDate": "2023-11-28T02:33:43.260Z",
+    "title": "博俊科技：截至目前与长安汽车合作情况良好，供货量呈上升趋势",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-28 10:33:43",
+    "uuid": "09f0e67d-188a-493d-8008-8064bc73afc8"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "搜狐网" },
       { "siteName": "IT 之家" }
@@ -327,6 +361,24 @@
     "up": false,
     "date": "2023-11-28 08:49:03",
     "uuid": "6a02c1f6-9ec2-4d47-88b1-40247cdddb1f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "得益于消费电子行业回暖和新产品推出等因素，国内多家OLED上市企业今年出货量明显提升 ...",
+    "id": "8V4BiPI1Cvh",
+    "order": 1701138722689,
+    "createdAt": "2023-11-28T00:46:03.000Z",
+    "publishDate": "2023-11-28T02:32:02.689Z",
+    "title": "OLED加速渗透中大尺寸市场 国内厂商出货量快速提升",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-28 08:46:03",
+    "uuid": "54aae765-7fbe-46a5-80f1-a97b18c86a76"
   },
   {
     "newsArray": [
