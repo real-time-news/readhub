@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "赵鹏任人保寿险董事长资格获核准。",
+    "id": "8V4ulMivZud",
+    "order": 1701145309430,
+    "createdAt": "2023-11-28T04:21:49.000Z",
+    "publishDate": "2023-11-28T04:21:49.430Z",
+    "title": "赵鹏任人保寿险董事长资格获核准",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-28 12:21:49",
+    "uuid": "a541a0c0-a0af-49e4-8db4-f417b055dec5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐网" }
+    ],
+    "summary": "博通在完成对 VMware 的收购后对该公司部分员工进行了裁员。一些 VMware 员工周一收到了一份邮件，表示博通上周宣布收购该公司的交易已结束后，他们的职位将被取消 ...",
+    "id": "8V4u1aykFwp",
+    "order": 1701144682589,
+    "createdAt": "2023-11-28T04:11:22.000Z",
+    "publishDate": "2023-11-28T04:11:22.589Z",
+    "title": "消息称博通在完成收购后裁掉多名 VMware 员工",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-28 12:11:22",
+    "uuid": "e17953b2-2074-46ee-accd-ae33f8b1c456"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "澎湃新闻" },
       { "siteName": "澎湃新闻" }
@@ -136,6 +170,24 @@
     "up": false,
     "date": "2023-11-28 11:40:47",
     "uuid": "94316c72-ecdd-4c12-81c4-879ad7139488"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪财经" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "中国人民银行发布的三季度货币政策执行报告显示，新发放企业贷款加权平均利率已降至历史最低水平，超过22万亿元存量房贷利率已完成下调，每年可节省借款人利息支出1600-1700亿元。",
+    "id": "8V3pixGgyJw",
+    "order": 1701144944781,
+    "createdAt": "2023-11-28T03:40:42.000Z",
+    "publishDate": "2023-11-28T04:15:44.781Z",
+    "title": "央行：贷款加权平均利率持续处于历史低位",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-28 11:40:42",
+    "uuid": "a0a88de9-0457-4018-b2ad-b7973d770ca9"
   },
   {
     "newsArray": [
