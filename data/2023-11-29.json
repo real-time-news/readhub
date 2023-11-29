@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐网" },
+      { "siteName": "搜狐网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "亚马逊在拉斯维加斯的“AWS re:Invent 2023”活动中推出了新款AI量子芯片Trainium2及Graviton4处理器 ...",
+    "id": "8V6GNKbXD1W",
+    "order": 1701217363111,
+    "createdAt": "2023-11-29T00:22:44.000Z",
+    "publishDate": "2023-11-29T00:22:43.111Z",
+    "title": "亚马逊推出新 AI 量子芯片Trainium2 及 Graviton4处理器",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 08:22:44",
+    "uuid": "dffc6543-002b-4894-a4a9-5e8e7d1c2773"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "搜狐网" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "拼多多发布了2023年第三季度财报，营收688.4亿元，同比增长94%，实现美国通用会计准则净利润155.37亿元，同比增长47%，不按美国通用会计准则净利润170.271亿，同比增37% ...",
+    "id": "8V6I8rGl83Z",
+    "order": 1701217301787,
+    "createdAt": "2023-11-29T00:21:41.000Z",
+    "publishDate": "2023-11-29T00:21:41.787Z",
+    "title": "拼多多董事长陈磊：我们能感受到经济持续复苏及消费市场潜力",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 08:21:41",
+    "uuid": "1495ebb4-42a4-4eb7-9a41-e102acda9ae8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近一个月来，共有41家消费电子类公司和92家半导体公司发布了投资者调研纪要 ...",
+    "id": "8V5zBY57evQ",
+    "order": 1701216686638,
+    "createdAt": "2023-11-29T00:11:26.000Z",
+    "publishDate": "2023-11-29T00:11:26.638Z",
+    "title": "机构密集调研消费电子、半导体产业链",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 08:11:26",
+    "uuid": "86d1670b-f828-45ef-9d34-3ee7fbd8e3e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "网易科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "搜狐网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "苹果计划在未来12至15个月内终止与高盛的信用卡合作。",
+    "id": "8V6DTQJP4Iy",
+    "order": 1701216113267,
+    "createdAt": "2023-11-29T00:01:54.000Z",
+    "publishDate": "2023-11-29T00:01:53.267Z",
+    "title": "苹果将终止与高盛的信用卡合作",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 08:01:54",
+    "uuid": "056b67cd-2084-40d5-a710-19168c2d3097"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "腾讯网" },
+      { "siteName": "中证网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "首届中国国际供应链促进博览会于28日在北京开幕，展览总面积达10万平方米，旨在为全球工商界加强产业链供应链交流合作搭建全新开放平台 ...",
+    "id": "8V64Y7WkrDk",
+    "order": 1701216076691,
+    "createdAt": "2023-11-29T00:01:17.000Z",
+    "publishDate": "2023-11-29T00:01:16.691Z",
+    "title": "中国举办全球首个供应链主题国家级展会，国际企业踊跃参展",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 08:01:17",
+    "uuid": "2e432de5-3c11-4f8c-8e0c-5aeb004a9c08"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
@@ -32,6 +120,24 @@
     "up": false,
     "date": "2023-11-29 07:31:37",
     "uuid": "c3b88689-b5d0-4699-bed6-634de7652436"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐网" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "阿克曼预期美联储最早于明年第一季度降息。",
+    "id": "8V6EXp2hJPU",
+    "order": 1701216100603,
+    "createdAt": "2023-11-28T23:31:22.000Z",
+    "publishDate": "2023-11-29T00:01:40.603Z",
+    "title": "阿克曼：预计美联储最早将于明年第一季度降息",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 07:31:22",
+    "uuid": "b20f0dd3-0d07-486a-897a-5dab7e457215"
   },
   {
     "newsArray": [
