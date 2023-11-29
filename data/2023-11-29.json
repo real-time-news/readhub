@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "手机中国" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "在亚马逊云科技2023 re:Invent上，亚马逊云科技与英伟达宣布扩大战略合作，以加速产业应用生成式AI的发展 ...",
+    "id": "8V6NUNTlzs4",
+    "order": 1701245273951,
+    "createdAt": "2023-11-29T08:07:53.000Z",
+    "publishDate": "2023-11-29T08:07:53.951Z",
+    "title": "亚马逊云科技与英伟达扩大战略合作 黄仁勋现身2023 re:Invent",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 16:07:53",
+    "uuid": "09407d6c-ba07-4791-8192-aaa7d2d76ef7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软近日发布了ML.NET 3.0，一款跨平台的机器学习框架。新版本主要增强了深度学习功能，提升了数据处理能力，并引入了英特尔oneDAL加速训练技术和自动机器学习等功能 ...",
+    "id": "8V6kVEb10Vp",
+    "order": 1701245127055,
+    "createdAt": "2023-11-29T08:05:27.000Z",
+    "publishDate": "2023-11-29T08:05:27.055Z",
+    "title": "微软推出跨平台框架 ML.NET 3.0 版本：强化深度学习功能、加强 AI 计算效率",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 16:05:27",
+    "uuid": "7b88a9f1-8778-4b08-9047-3c6eab4737b3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "滴滴出行因系统故障向所有用户发放10元打车立减券致歉补偿，部分用户反映未领到，客服建议耐心等待。滴滴承诺受影响订单将在24小时内完成结算，多支付部分将退还 ...",
+    "id": "8V6pHHM26jq",
+    "order": 1701244912074,
+    "createdAt": "2023-11-29T08:01:52.000Z",
+    "publishDate": "2023-11-29T08:01:52.074Z",
+    "title": "滴滴回应补偿券领不到：目前参与人数较多，建议耐心等待",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 16:01:52",
+    "uuid": "8316d82a-bad9-4c62-a393-0992e08ac4de"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" },
       { "siteName": "同花顺财经" }
@@ -530,6 +581,26 @@
     "up": false,
     "date": "2023-11-29 13:05:09",
     "uuid": "8460ed11-3250-49ef-b2fd-2f56acc46259"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "三星已向客户发出CIS涨价通知，明年一季度平均涨幅达25%，个别产品涨幅最高可达30%。",
+    "id": "8V6ZdEezT8p",
+    "order": 1701245257302,
+    "createdAt": "2023-11-29T05:02:56.000Z",
+    "publishDate": "2023-11-29T08:07:37.302Z",
+    "title": "三星调涨CIS明年一季度报价 涨幅最高30%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 13:02:56",
+    "uuid": "052297b1-45f7-4203-add6-a9d29e99abb3"
   },
   {
     "newsArray": [
