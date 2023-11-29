@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "快科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "哔哩哔哩（B站）近日公布了2023年第三季度财务报告，显示日均活跃用户突破1亿，总营收达58.1亿元人民币。本季度，B站毛利率实现连续五个季度增长，调整后净亏损同比大幅收窄51% ...",
+    "id": "8V6zN0HIAxk",
+    "order": 1701254158753,
+    "createdAt": "2023-11-29T10:35:59.000Z",
+    "publishDate": "2023-11-29T10:35:58.753Z",
+    "title": "B站发布2023年Q3财报：广告收入同比高速增长，毛利率连续五季度提升",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 18:35:59",
+    "uuid": "01f94d74-5629-43d1-a41f-b5683ce31fbe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "亚马逊云计算部门AWS发布两款升级款芯片，分别是性能提升30%的Graviton4处理器，以及面向AI系统的Trainium2处理器 ...",
+    "id": "8V5myHX3Wr3",
+    "order": 1701253949910,
+    "createdAt": "2023-11-29T10:32:30.000Z",
+    "publishDate": "2023-11-29T10:32:29.910Z",
+    "title": "亚马逊发布升级款AI系统处理器Trainium2，AWS与英伟达拓展伙伴关系",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 18:32:30",
+    "uuid": "48a700b4-f989-411f-8c37-ad58951fb498"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
