@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "电子发烧友" }
+    ],
+    "summary": "富士康取代广达获得部分高端MacBook Pro和iMac订单，首次进入苹果高端供应链。富士康与广达的竞争加剧，双方都在努力提高生产效率和降低成本 ...",
+    "id": "8V6oHLMmt7A",
+    "order": 1701243758982,
+    "createdAt": "2023-11-29T07:42:38.000Z",
+    "publishDate": "2023-11-29T07:42:38.982Z",
+    "title": "集邦咨询：富士康获高端MacBook Pro订单 与广达竞争加剧",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 15:42:38",
+    "uuid": "083177c8-b9cf-4361-8a4c-a440da642e21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "TechWeb" },
+      { "siteName": "电子发烧友" }
+    ],
+    "summary": "在亚马逊云科技2023 re:Invent上，首席执行官Adam Selipsky发布了新型生成式AI服务Amazon Q ...",
+    "id": "8V6MmhlrRNJ",
+    "order": 1701243747245,
+    "createdAt": "2023-11-29T07:42:28.000Z",
+    "publishDate": "2023-11-29T07:42:27.245Z",
+    "title": "亚马逊云科技发布生成式AI服务Amazon Q",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 15:42:28",
+    "uuid": "12359789-2173-4c85-8a46-bae3786049ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "宜家推出三款智能家居传感器Parasoll、Vallhorn和Badring，分别用于检测门窗移动、运动和漏水.这些传感器使用Zigbee协议，并兼容苹果HomeKit.Parasoll和Vallhorn将于2024年1月上架，Badring则要等到2024年4月.售价分别为9.99欧元（约78元人民币）、7.99欧元（约63元人民币）和9.99欧元（约78元人民币）.未来有望在国内推出国行版本.",
+    "id": "8V6W8LCOeHI",
+    "order": 1701243471931,
+    "createdAt": "2023-11-29T07:37:51.000Z",
+    "publishDate": "2023-11-29T07:37:51.931Z",
+    "title": "宜家推出三款智能家居传感器：分别检测运动、门窗、漏水，7.99 欧元起",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 15:37:51",
+    "uuid": "abf1bcbd-96b5-498a-ac39-e691dde648d8"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "搜狐网" },
       { "siteName": "搜狐科技" }
