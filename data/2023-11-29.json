@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "亚马逊公司推出了一项名为 Amazon Q 的 AI 聊天机器人，旨在帮助企业和员工更好地利用亚马逊网络服务(AWS) ...",
+    "id": "8V6MrlqA4NM",
+    "order": 1701228374973,
+    "createdAt": "2023-11-29T03:26:14.000Z",
+    "publishDate": "2023-11-29T03:26:14.973Z",
+    "title": "亚马逊 AWS 推出 AI 聊天机器人 Amazon Q 为企业提供服务",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 11:26:14",
+    "uuid": "4dad13c9-f38b-46c1-9dba-054b7d5e3030"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "小米推出米家智能欧式吸油烟机 S2，首发价 1599 元。该吸油烟机专为爆炒厨房设计，拥有 23m3/min 吸力、烟灶互联和叶轮智能干洗等功能 ...",
+    "id": "8V6UeMq6E8H",
+    "order": 1701228331332,
+    "createdAt": "2023-11-29T03:25:31.000Z",
+    "publishDate": "2023-11-29T03:25:31.332Z",
+    "title": "小米推出米家智能欧式吸油烟机 S2，1599 元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 11:25:31",
+    "uuid": "db0e9b5a-db3c-43d7-bb44-93eac3330669"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "腾讯网" },
       { "siteName": "DoNews" },
@@ -250,6 +286,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "一种涉及电子设备的配对方法，包括显示器、射频电路和输入设备，设备会在检测到配对请求后确定第一外围设备是否符合耦接标准，如果满足则显示配对示能表示并发起配对，否则显示有关耦接信息。",
+    "id": "8V6PHnmavvp",
+    "order": 1701228294880,
+    "createdAt": "2023-11-29T02:23:14.000Z",
+    "publishDate": "2023-11-29T03:24:54.880Z",
+    "title": "苹果公司取得无线配对专利，设备显示配对示能表示",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 10:23:14",
+    "uuid": "04eeee0e-4182-4d9a-8aa9-76c6c764587a"
+  },
+  {
+    "newsArray": [
       { "siteName": "投资界" },
       { "siteName": "同花顺财经" },
       { "siteName": "亿邦动力网" },
@@ -353,6 +407,24 @@
     "up": false,
     "date": "2023-11-29 09:59:06",
     "uuid": "23fa9227-c809-4ad6-abe2-af6989fae4d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐网" },
+      { "siteName": "新浪财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司获得了一项新专利，利用机器学习技术追踪用户的血液流动，以创建更逼真的虚拟人像。这项技术可以推断“血流纹理图”，更逼真地呈现虚拟人像的情感和面部表情 ...",
+    "id": "8V6F1HtcT0Q",
+    "order": 1701228270940,
+    "createdAt": "2023-11-29T01:58:09.000Z",
+    "publishDate": "2023-11-29T03:24:30.940Z",
+    "title": "苹果获批新专利：机器学习追踪用户血液流动，创建更逼真虚拟人像",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-29 09:58:09",
+    "uuid": "1b06b13e-5717-497e-8d02-3583abef3377"
   },
   {
     "newsArray": [
