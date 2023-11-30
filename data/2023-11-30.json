@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "动点科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "在一场五天的未遂董事会罢免事件后，OpenAI 首席执行官阿尔特曼正式回归。他最初感到被挑衅、受伤和愤怒，但最终决定回归，因为他非常喜欢这家公司并在其使命上取得了巨大进展 ...",
+    "id": "8V8AX3eWDOp",
+    "order": 1701317580768,
+    "createdAt": "2023-11-30T04:13:00.000Z",
+    "publishDate": "2023-11-30T04:13:00.768Z",
+    "title": "阿尔特曼拒绝回答为何被 OpenAI 解雇，新董事会将进行独立调查",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-30 12:13:00",
+    "uuid": "1a638122-6068-4422-a7b7-0b443516dfab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "亿欧" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "足球明星Cristiano Ronaldo因推广加密货币交易所币安而面临集体诉讼。原告称C罗涉嫌参与未注册证券的发行和销售，并表示注册其NFT产品的用户更有可能使用币安投资未注册证券。",
+    "id": "8V6hVvewu84",
+    "order": 1701317159429,
+    "createdAt": "2023-11-30T04:06:00.000Z",
+    "publishDate": "2023-11-30T04:05:59.429Z",
+    "title": "C罗因推广币安和未注册证券而遭集体诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-30 12:06:00",
+    "uuid": "1cd52981-b67d-4b6c-9046-35322e3650b6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "台积电近日宣布对其7nm制程进行降价，降幅约为5%-10%，以应对产能利用率下降的问题。此前，台积电曾计划明年恢复部分成熟制程的价格折让，但主要是在光罩费用方面进行折抵。",
+    "id": "8V8COheeHYX",
+    "order": 1701316916746,
+    "createdAt": "2023-11-30T04:01:57.000Z",
+    "publishDate": "2023-11-30T04:01:56.746Z",
+    "title": "消息称台积电7nm制程降价 降幅5%-10%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-30 12:01:57",
+    "uuid": "23c995d4-0cd0-42be-9d52-b4c87fe4f832"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "亿欧" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "智驾科技MAXIEYE发布AI驱动的BEV平台架构和数据智能体系，面向全行业开放BEV感知标准件，同时推出轻地图NOA量产方案和行泊合一高阶域控新品。",
+    "id": "8V7BXtyDHag",
+    "order": 1701316909351,
+    "createdAt": "2023-11-30T04:01:49.000Z",
+    "publishDate": "2023-11-30T04:01:49.351Z",
+    "title": "智驾科技MAXIEYE发布BEV平台架构青云Hyperspace",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-30 12:01:49",
+    "uuid": "37aa3ae5-68b5-492b-b7ea-84e412c26a05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "e公司" },
+      { "siteName": "36Kr" },
+      { "siteName": "亿欧" }
+    ],
+    "summary": "2023年以来，我国PVC出口持续增长，全年出口量预计达到225.78万吨，创历史新高。出口量增加的原因包括国内供大于求、价格低位优势以及印度、东南亚等海外市场需求旺盛 ...",
+    "id": "8V8CRK0dUD2",
+    "order": 1701316894610,
+    "createdAt": "2023-11-30T04:01:34.000Z",
+    "publishDate": "2023-11-30T04:01:34.610Z",
+    "title": "卓创资讯：国内供大于求及海外需求增长 2023年PVC出口量创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-30 12:01:34",
+    "uuid": "9476409f-8f30-41eb-b68d-6ec202c95ebf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "亿欧" },
+      { "siteName": "动脉网" },
+      { "siteName": "动脉网" }
+    ],
+    "summary": "医渡科技（2158.HK）披露2024财年上半年业绩，毛利率达38.2%，同比上升12.1个百分点，经营开支占比下降12.8个百分点，净亏损大幅收窄75.9% ...",
+    "id": "8V6zjKrBU8O",
+    "order": 1701316869309,
+    "createdAt": "2023-11-30T04:01:10.000Z",
+    "publishDate": "2023-11-30T04:01:09.309Z",
+    "title": "医渡科技(2158.HK)2024财年中期业绩出炉：净亏损收窄75.9%，运营质效提升",
+    "type": "topic",
+    "up": false,
+    "date": "2023-11-30 12:01:10",
+    "uuid": "49222578-f7fd-4c6d-971b-c0ceb8f25810"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "DoNews" },
       { "siteName": "egsea" }
