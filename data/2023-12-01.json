@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国气象局发布大地磁暴预警，预测今明两天我国可能出现地磁暴活动。此次磁暴可能导致空间站轨道高度下降、卫星导航设备误差增大、航空飞行通讯环境变差及跨极区辐射风险增大 ...",
+    "id": "8VAYuGPH3Ed",
+    "order": 1701441776954,
+    "createdAt": "2023-12-01T14:42:56.000Z",
+    "publishDate": "2023-12-01T14:42:56.954Z",
+    "title": "中国气象局发布大地磁暴预警",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-01 22:42:56",
+    "uuid": "52009bb5-ec51-42bb-82b0-7b8d531ac68e"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "腾讯网" },
       { "siteName": "华尔街见闻" }
@@ -383,6 +400,26 @@
     "up": false,
     "date": "2023-12-01 19:16:53",
     "uuid": "fb5e5b6e-3726-4f35-8fe8-4e9007e09999"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "新浪财经" },
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "闻泰科技旗下子公司珠海得尔塔科技有限公司近日决定，自2023年12月1日起停止生产特定客户的光学模组产品。该业务营收规模较小，对公司整体业务影响较小。",
+    "id": "8VAMlj6pTjw",
+    "order": 1701441687259,
+    "createdAt": "2023-12-01T11:04:41.000Z",
+    "publishDate": "2023-12-01T14:41:27.259Z",
+    "title": "闻泰科技：得尔塔决定停止生产特定客户光学模组产品",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-01 19:04:41",
+    "uuid": "2db12ba5-836b-4cfc-b1bf-133c55db3c25"
   },
   {
     "newsArray": [
