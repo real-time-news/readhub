@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "爱驰汽车（上海）有限公司被申请破产清算，申请人为其合作伙伴安吉汽车物流（上海）有限公司。安吉汽车物流表示，爱驰汽车上海公司无法偿还到期债务且缺乏清偿能力 ...",
+    "id": "8V9lsXxSnGZ",
+    "order": 1701424244167,
+    "createdAt": "2023-12-01T09:50:45.000Z",
+    "publishDate": "2023-12-01T09:50:44.167Z",
+    "title": "爱驰汽车上海公司被申请破产审查",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-01 17:50:45",
+    "uuid": "c07c87eb-8237-4ea1-97fa-eb5b917bd6b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "黑鲨游戏手机宣布将于12月5日20:00举办新品发布会，主题为“黑鲨再启航，竞技新BUFF”，但未透露具体产品 ...",
+    "id": "8VAFkoVgbp1",
+    "order": 1701424142919,
+    "createdAt": "2023-12-01T09:49:02.000Z",
+    "publishDate": "2023-12-01T09:49:02.919Z",
+    "title": "黑鲨新品发布会官宣定档 12 月 5 日，具体产品未知",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-01 17:49:02",
+    "uuid": "ff51b8a2-8092-4f43-88be-4824b505c101"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "中关村在线" },
       { "siteName": "搜狐科技" }
