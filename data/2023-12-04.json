@@ -1,6 +1,25 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "华南城公告称，由于流动资金紧张，公司尚未支付2023年11月20日到期的2024年7月票据利息，若在2023年12月20日前未支付11月利息，将发生违约事件 ...",
+    "id": "8VEuIWwJ8YP",
+    "order": 1701675655773,
+    "createdAt": "2023-12-04T07:40:56.000Z",
+    "publishDate": "2023-12-04T07:40:55.773Z",
+    "title": "华南城：尚未支付11月20日到期的2024年7月票据利息",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-04 15:40:56",
+    "uuid": "1b0a9e58-821a-4886-ac04-4847b7cacfbc"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "财联社" },
       { "siteName": "腾讯网" }
@@ -15,6 +34,24 @@
     "up": false,
     "date": "2023-12-04 15:15:50",
     "uuid": "80bec605-8504-43a0-8136-b3e649f78c9b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "谷歌最新的人工智能大型模型Gemini原定于下周首次亮相，并举办一系列相关活动。然而，知情人士透露，谷歌发现Gemini无法可靠处理非英语查询指令，因此首次亮相活动已被推迟至明年一月 ...",
+    "id": "8VDjRTUi7Jo",
+    "order": 1701675920515,
+    "createdAt": "2023-12-04T07:02:18.000Z",
+    "publishDate": "2023-12-04T07:45:20.515Z",
+    "title": "谷歌最新人工智能大型模型 Gemini 首次亮相活动被推迟",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-04 15:02:18",
+    "uuid": "13da795c-2639-40e7-9368-16314094b4c3"
   },
   {
     "newsArray": [
