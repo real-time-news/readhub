@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "中证网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "近日，深交所成功举办知识产权证券化座谈会，旨在推动知识产权证券化业务常态化、规模化发展 ...",
+    "id": "8VFCAvEIgo5",
+    "order": 1701684110277,
+    "createdAt": "2023-12-04T10:01:50.000Z",
+    "publishDate": "2023-12-04T10:01:50.277Z",
+    "title": "深交所举办知识产权证券化座谈会 助力科创企业拓宽融资渠道",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-04 18:01:50",
+    "uuid": "cb53e2fc-fc74-4a09-ab74-5824facc88a8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "美团直播相关人士表示，今年及明年的重点在于提升直播基础能力、拓展商户参与度和提升用户体验，探索适合本地商家的直播形态，而非重点在于商业化 ...",
+    "id": "8VFFNEmOsSa",
+    "order": 1701684079460,
+    "createdAt": "2023-12-04T10:01:19.000Z",
+    "publishDate": "2023-12-04T10:01:19.460Z",
+    "title": "传美团直播将推进商业化 相关人士：今年及明年重点在于探索适合本地商家的直播形态",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-04 18:01:19",
+    "uuid": "cc822ca4-21bd-4810-bb98-a1d2fc2e768d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "据QYResearch最新报告，预计到2029年全球60GHz雷达传感器市场规模将达到2.8亿美元，未来几年年复合增长率CAGR为38.3% ...",
+    "id": "8VF9JCBkQdt",
+    "order": 1701684073289,
+    "createdAt": "2023-12-04T10:01:13.000Z",
+    "publishDate": "2023-12-04T10:01:13.289Z",
+    "title": "机构：预计2029年全球60GHz雷达传感器市场规模将达到2.8亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-04 18:01:13",
+    "uuid": "771cc1fb-e73c-4dd6-a030-91bb2efe1c7f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "瑞幸咖啡状告泰国皇家50R集团商标侵权案败诉。泰国知识产权和国际贸易中央法庭判决瑞幸咖啡公司败诉，立即执行 ...",
+    "id": "8VEb8UDgy7V",
+    "order": 1701684293496,
+    "createdAt": "2023-12-04T10:00:53.000Z",
+    "publishDate": "2023-12-04T10:04:53.496Z",
+    "title": "瑞幸咖啡状告泰国瑞幸败诉",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-04 18:00:53",
+    "uuid": "5c7004dd-8185-4a64-b4b4-c0d153835a4d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "东风进出口公司2023年1-11月累计出口汽车40907辆，同比增长81%。风神品牌、东风商用车和岚图品牌的出口量分别同比增长141%、169%和436%。",
+    "id": "8VFDbWWSc4U",
+    "order": 1701683985418,
+    "createdAt": "2023-12-04T09:59:45.000Z",
+    "publishDate": "2023-12-04T09:59:45.418Z",
+    "title": "东风进出口公司：今年前11个月累计出口汽车达40907辆",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-04 17:59:45",
+    "uuid": "1b5c2cad-b1c7-44be-b0c9-c1b48992a07d"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "投资界" },
       { "siteName": "投中网" }
@@ -239,6 +324,23 @@
     "up": false,
     "date": "2023-12-04 16:25:18",
     "uuid": "eb71edb5-fe1a-430e-9d69-ec119814a261"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪财经" },
+      { "siteName": "和讯网" },
+      { "siteName": "The Wall Street Journal" }
+    ],
+    "summary": "瑞典流媒体巨头Spotify宣布计划裁减约1500名员工，相当于其员工总数的17%，这是该公司今年的第三轮裁员。今年1月和6月，Spotify已分别裁减了600名和200名员工。",
+    "id": "8VF7XUyWhua",
+    "order": 1701684401794,
+    "createdAt": "2023-12-04T08:22:19.000Z",
+    "publishDate": "2023-12-04T10:06:41.794Z",
+    "title": "瑞典流音乐媒体巨头Spotify拟裁员约1500人",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-04 16:22:19",
+    "uuid": "a87e6c2e-2d7a-46a7-97f5-53714b05cd9a"
   },
   {
     "newsArray": [
