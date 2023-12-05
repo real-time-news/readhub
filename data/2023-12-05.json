@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "财经网" },
+      { "siteName": "环球网科技" }
+    ],
+    "summary": "腾讯NOW直播宣布将于2023年12月26日11时00分停止运营。",
+    "id": "8VGfHFT8D28",
+    "order": 1701759099316,
+    "createdAt": "2023-12-05T06:51:39.000Z",
+    "publishDate": "2023-12-05T06:51:39.316Z",
+    "title": "腾讯NOW直播：将于12月26日11时停止运营",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-05 14:51:39",
+    "uuid": "0af51f4d-d3e6-4aa9-913f-f68b867012ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "根据爆料，Canary 和 Dev 频道的 Windows Insider 项目成员可在更新至最新版本的 Windows Web Experience Pack 后，使用 ViveTool 工具禁用小部件的新闻内容.此操作适用于 Canary 和 Dev 频道的 Windows Insider 项目成员，请在操作前备份内容.操作步骤包括下载并安装更新后的 Windows Web Experience Pack，使用 ViveTool 工具启用新功能，重启电脑.",
+    "id": "8VGfHwIZerm",
+    "order": 1701759072424,
+    "createdAt": "2023-12-05T06:51:13.000Z",
+    "publishDate": "2023-12-05T06:51:12.424Z",
+    "title": "Win11最新修复：ViveTool工具可禁用小部件",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-05 14:51:13",
+    "uuid": "492ae46e-3197-450e-8182-29b06897d00a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "腾讯NOW直播将于2023年12月26日11时停止运营，原因是为业务调整。NOW直播是腾讯旗下的直播、短视频和交友社交平台，自2016年上线以来已运营7年多。",
+    "id": "8VGeupiUAsk",
+    "order": 1701759049922,
+    "createdAt": "2023-12-05T06:50:49.000Z",
+    "publishDate": "2023-12-05T06:50:49.922Z",
+    "title": "腾讯NOW直播：将于12月26日11时停止运营",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-05 14:50:49",
+    "uuid": "6db802cd-10b6-4a05-8915-3140b68ac518"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "第三季度NAND Flash产业营收环比增长2.9%，主要得益于三星积极减产，买方预期供应将减少，采购态度转积极 ...",
+    "id": "8VGeCeki7ON",
+    "order": 1701758996273,
+    "createdAt": "2023-12-05T06:49:57.000Z",
+    "publishDate": "2023-12-05T06:49:56.273Z",
+    "title": "TrendForce：第三季NAND Flash产业营收环比增长2.9% 预估第四季成长将逾两成",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-05 14:49:57",
+    "uuid": "2f0bcd84-d95d-495b-a647-e61563d410c4"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "腾讯网" },
       { "siteName": "智通财经" }
@@ -49,6 +117,26 @@
     "up": false,
     "date": "2023-12-05 14:32:25",
     "uuid": "c394e640-02e3-4904-a78d-491f5a2c44eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "和讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪财经" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "名创优品回应股价跳水称，注意到股票成交价格和交易量的不寻常波动，经内部问询，管理层确认不知悉任何可能引起股价和成交量大幅波动的需要公开披露的信息 ...",
+    "id": "8VGfnFWhpwH",
+    "order": 1701759071918,
+    "createdAt": "2023-12-05T06:16:31.000Z",
+    "publishDate": "2023-12-05T06:51:11.918Z",
+    "title": "名创优品回应股价跳水",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-05 14:16:31",
+    "uuid": "9ce983d1-c19d-43aa-9cfd-205e0c9405b3"
   },
   {
     "newsArray": [
@@ -656,6 +744,25 @@
     "up": false,
     "date": "2023-12-05 10:02:11",
     "uuid": "176dd8e7-58b1-4c51-b14f-805245a7f922"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪财经" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "英伟达CEO黄仁勋在会见日本首相岸田文雄时表示，尽管市场需求极高，但英伟达将尽量优先考虑日本对人工智能（AI）芯片的需求 ...",
+    "id": "8VFRsX58Rfs",
+    "order": 1701759091518,
+    "createdAt": "2023-12-05T01:46:22.000Z",
+    "publishDate": "2023-12-05T06:51:31.518Z",
+    "title": "黄仁勋：英伟达将尽量优先考虑日本对AI芯片的需求",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-05 09:46:22",
+    "uuid": "d2cb7714-07d3-445c-b0bd-ce011d2321d6"
   },
   {
     "newsArray": [
