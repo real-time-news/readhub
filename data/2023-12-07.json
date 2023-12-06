@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪财经" },
+      { "siteName": "CNBeta" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "吉利旗下电动汽车品牌极氪正考虑在2月份美国进行首次公开募股（IPO），并在春节前后寻找合适的上市窗口。极氪代表证实已向美国证券交易委员会提交IPO文件，但具体时间表未公布。",
+    "id": "8VJ2rg0wrLF",
+    "order": 1701886697721,
+    "createdAt": "2023-12-06T16:51:14.000Z",
+    "publishDate": "2023-12-06T18:18:17.721Z",
+    "title": "极氪寻求2月份在美国IPO",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-07 00:51:14",
+    "uuid": "f43e9f66-a811-4aec-a064-f6a68196cc34"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "快科技" }
@@ -15,5 +32,26 @@
     "up": false,
     "date": "2023-12-07 00:46:01",
     "uuid": "bbe46d0f-b0a1-4e30-aad2-4024ad84c37f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪财经" },
+      { "siteName": "腾讯网" },
+      { "siteName": "量子位" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "谷歌12月6日宣布推出其认为规模最大、功能最强大的人工智能模型Gemini。Gemini将包括三种不同的套件：Gemini Ultra、Gemini Pro和Gemini Nano ...",
+    "id": "8VIxUjm0sO6",
+    "order": 1701886802051,
+    "createdAt": "2023-12-06T16:07:53.000Z",
+    "publishDate": "2023-12-06T18:20:02.051Z",
+    "title": "谷歌推出其最强大的人工智能模型Gemini",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-07 00:07:53",
+    "uuid": "c8497b3a-217d-48e5-8e7e-690b2305306c"
   }
 ]
