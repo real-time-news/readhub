@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "欧盟委员会官员倾向于豁免苹果iMessage服务免于欧盟《数字市场法》的义务，因为该服务在企业用户中不够流行，不值得受到法规打击。这项调查将于二月份结束。",
+    "id": "8VIh31zly2f",
+    "order": 1701868256832,
+    "createdAt": "2023-12-06T13:10:56.000Z",
+    "publishDate": "2023-12-06T13:10:56.832Z",
+    "title": "苹果iMessage或将免于欧盟《数字市场法》义务",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-06 21:10:56",
+    "uuid": "a7391926-ad6f-40aa-8fa5-ba3e2970c1a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "字节跳动宣布开启新一轮回购计划，回购价值50亿美元的期权，对应估值约为2680亿美元。此次回购价格为每股160美元，与今年10月员工期权回购价格相同 ...",
+    "id": "8VIm5jf6DVB",
+    "order": 1701867658635,
+    "createdAt": "2023-12-06T13:00:58.000Z",
+    "publishDate": "2023-12-06T13:00:58.635Z",
+    "title": "字节开启新一轮回购：估值约2680亿美元，上市计划仍未定",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-06 21:00:58",
+    "uuid": "d10e51c8-fd79-4229-b9f1-ebf1161294c1"
+  },
+  {
+    "newsArray": [
       { "siteName": "虎嗅网" },
       { "siteName": "投资界" },
       { "siteName": "腾讯网" }
