@@ -1,6 +1,25 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "财经网" },
+      { "siteName": "TechWeb" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "近日，铁路12306 App购票页面进行改版，新版本在查询列车信息时可直接选购座席等级并显示折扣信息。目前，许多铁路线路实施浮动票价，实际票价会在公布票价基础上有所波动。",
+    "id": "8VJiJlVtgMF",
+    "order": 1701921679404,
+    "createdAt": "2023-12-07T03:32:07.000Z",
+    "publishDate": "2023-12-07T04:01:19.404Z",
+    "title": "铁路12306 App改版：新增折扣信息",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-07 11:32:07",
+    "uuid": "70e3add6-705a-4316-9fb8-e19192286436"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
