@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "每经网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "贵州茅台在12月8日的第三季度业绩说明会上表示，自11月1日调整部分产品出厂价以来，市场表现平稳，价格稳定。",
+    "id": "8VLpQPqprRa",
+    "order": 1702028529064,
+    "createdAt": "2023-12-08T09:42:10.000Z",
+    "publishDate": "2023-12-08T09:42:09.064Z",
+    "title": "贵州茅台代总经理王莉：茅台酒提高出厂价以来  市场表现平稳、价格稳定",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 17:42:10",
+    "uuid": "4ec7db06-29b9-42a4-a61e-768ca6493853"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "财联社" },
+      { "siteName": "腾讯网" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "安信证券更名为国投证券，原因在于其战略定位、品牌规划与发展需求。此次更名不涉及股权变动，不会对公司的经营和财务状况产生不利影响 ...",
+    "id": "8VLqr1bwsGh",
+    "order": 1702028453912,
+    "createdAt": "2023-12-08T09:37:08.000Z",
+    "publishDate": "2023-12-08T09:40:53.912Z",
+    "title": "安信证券正式更名为国投证券 业务主体与法律关系不变",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 17:37:08",
+    "uuid": "7bddeb8e-77ec-4fd1-aef3-9b4e0bd5967d"
+  },
+  {
+    "newsArray": [
       { "siteName": "智通财经" },
       { "siteName": "财联社" },
       { "siteName": "Odaily" }
