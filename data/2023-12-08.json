@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "新加坡金管局和中国人民银行宣布开展跨境数字人民币试点，允许两国旅客在新加坡和中国使用数字人民币进行旅游消费，以提高海外旅行购物便利性。这一举措是首个宣布此类合作的主权国家。",
+    "id": "8VLMToF3M0t",
+    "order": 1702002342997,
+    "createdAt": "2023-12-08T02:25:42.000Z",
+    "publishDate": "2023-12-08T02:25:42.997Z",
+    "title": "新加坡金管局和中国人民银行将允许两国旅客使用数字人民币",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:25:42",
+    "uuid": "a268e62a-15bd-4f83-a566-e5e828f3023d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "多知网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "环球网科技" }
+    ],
+    "summary": "一起教育科技发布2023年第三季度财务业绩，营收4510万元，前三季度累计收入1.24亿元，总费用同比减少14.5%。公司拥有现金及等价物总额5.24亿元，毛利率升至54.1% ...",
+    "id": "8VK4RNtcm45",
+    "order": 1702001779652,
+    "createdAt": "2023-12-08T02:16:19.000Z",
+    "publishDate": "2023-12-08T02:16:19.652Z",
+    "title": "一起教育2023年Q3营收4510万元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:16:19",
+    "uuid": "0a558f5e-4799-404e-8148-a7d8de2a14fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "CNBeta" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "支付宝与华为终端展开合作，基于HarmonyOS NEXT共同开发支付宝鸿蒙原生应用，以满足用户在不同场景下的智慧生活服务需求，并提升商家在两个生态中的经营效率。",
+    "id": "8VLL32Lm2Mb",
+    "order": 1702001392203,
+    "createdAt": "2023-12-08T02:09:52.000Z",
+    "publishDate": "2023-12-08T02:09:52.203Z",
+    "title": "支付宝启动鸿蒙原生应用开发",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:09:52",
+    "uuid": "9bf7a595-a1ae-4492-9756-f66fe5c1b92e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国中车旗下中车唐山公司研制的地铁列车在葡萄牙波尔图市正式投入运营，这是中国制造的地铁列车在欧盟首次商业载客 ...",
+    "id": "8VKKfcPlRsh",
+    "order": 1702001349128,
+    "createdAt": "2023-12-08T02:09:09.000Z",
+    "publishDate": "2023-12-08T02:09:09.128Z",
+    "title": "中国造地铁列车在欧盟首次商业载客运营",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:09:09",
+    "uuid": "3cdf740e-87cc-4b1f-b766-1d3855d9164a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "AMD近日发布了8040系列马甲处理器，搭载Zen4 CPU核心和RDNA3核显，NPU性能提升至16 TOPS.新产品分为R7和R9系列，型号包括8840U、8840HS、8845HS、8945HS等.旗舰型号R9 8945HS为8核16线程，加速频率5.2 GHz.入门型号R3 8540U和R5 8540U分别为4核心和6核心.AMD 8040系列马甲处理器预计于2024年第一季度推出.",
+    "id": "8VKRgKML2Fs",
+    "order": 1702001293571,
+    "createdAt": "2023-12-08T02:08:13.000Z",
+    "publishDate": "2023-12-08T02:08:13.571Z",
+    "title": "AMD 锐龙 8040 系列马甲处理器贴纸公布，增加 AI 标识",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:08:13",
+    "uuid": "c93e5542-fbfd-41b6-9111-a2d0a40be855"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "思科推出了一款名为Cisco AI Assistant的安全工具，该工具能帮助用户管理防火墙规则，防止黑客攻击 ...",
+    "id": "8VKQxRrPItI",
+    "order": 1702001115184,
+    "createdAt": "2023-12-08T02:05:15.000Z",
+    "publishDate": "2023-12-08T02:05:15.184Z",
+    "title": "思科推出 Cisco AI Assistant 安全助理，可智能设立防火墙规则防止黑客攻击",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:05:15",
+    "uuid": "c6c296a1-dbaf-45c1-8137-45e6830eb83b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "美国自动驾驶汽车行业的团体联盟警告称，美国交通部需要加大对自动驾驶汽车发展的支持，否则可能输给中国等竞争对手。信中强调，美国要保持竞争优势，避免立法拖延，并解决安全隐患 ...",
+    "id": "8VLEyfsLgg9",
+    "order": 1702001107352,
+    "createdAt": "2023-12-08T02:05:08.000Z",
+    "publishDate": "2023-12-08T02:05:07.352Z",
+    "title": "美自动驾驶汽车行业敦促交通部门支持发展：否则要输给中国",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:05:08",
+    "uuid": "56d21ffd-51eb-4bab-a80c-62cc760b23c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "三星宣布将在北京时间1月9日凌晨6点举行CES 2024发布会，主题为“AI时代的连接”，由副董事长Jong-Hee Han主持 ...",
+    "id": "8VKWkjnncdw",
+    "order": 1702001082294,
+    "createdAt": "2023-12-08T02:04:42.000Z",
+    "publishDate": "2023-12-08T02:04:42.294Z",
+    "title": "三星 CES 2024 发布会定档 1 月 9 日，主题是 AI",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:04:42",
+    "uuid": "ee708167-b86d-44fd-a359-f7b8aa8179d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "第三季全球智能手机产量增长13%，终结了连续八个季度的年衰退周期。预计第四季产量再环比增长5~10%，全年产量约为11.6亿台，衰退幅度在3%以内 ...",
+    "id": "8VKhMtYbWJV",
+    "order": 1702001026712,
+    "createdAt": "2023-12-08T02:03:46.000Z",
+    "publishDate": "2023-12-08T02:03:46.712Z",
+    "title": "全球手机终结连续八个季度的年衰退周期：华为苹果将有一战",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:03:46",
+    "uuid": "946d5212-e05f-43f3-830f-c597f66f104f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "威联通推出全新TS-hx77AXU-RP系列ZFS NAS，搭载AMD锐龙7000台式机处理器，专为企业级应用设计.新品包括12盘位的TS-h1277AXU-RP和16盘位的TS-h1677AXU-RP，采用高可靠度ZFS系统，支持DDR5内存和高速M.2 PCIe Gen 5/Gen 4 SSD，适合4K影像编辑和PB级储存等多样化工作负载.价格方面，该系列ZFS NAS售价145000新台币（约合32915人民币）起.",
+    "id": "8VKY27U5Z9w",
+    "order": 1702001011256,
+    "createdAt": "2023-12-08T02:03:31.000Z",
+    "publishDate": "2023-12-08T02:03:31.256Z",
+    "title": "威联通发布新款 ZFS NAS：搭载锐龙 7000 台式机处理器",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 10:03:31",
+    "uuid": "f0f4b0d9-cf8f-4130-880f-d66b115d479a"
+  },
+  {
+    "newsArray": [
       { "siteName": "TechWeb" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
