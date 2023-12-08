@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "临近年底，深圳新房市场迎来集中开盘潮，11月共有13个项目取得住宅预售许可证，预售新房6021套。与此同时，深圳二手房市场过户量上涨，部分房源降价至低于政府参考价，甚至低于百万元 ...",
+    "id": "8VK9RRm7MzT",
+    "order": 1701997254411,
+    "createdAt": "2023-12-08T01:00:55.000Z",
+    "publishDate": "2023-12-08T01:00:54.411Z",
+    "title": "深圳迎集中开盘潮 二手房挂牌价普遍低于参考价",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 09:00:55",
+    "uuid": "8d99ccc9-8b30-4dda-8511-f19bf67c407d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "截至12月6日，上交所融资余额增加4.99亿元至8347.14亿元，深交所融资余额减少0.49亿元至7585.46亿元，两市合计增加4.5亿元至15932.6亿元。",
+    "id": "8VJcZSbyyhB",
+    "order": 1701996947915,
+    "createdAt": "2023-12-08T00:55:47.000Z",
+    "publishDate": "2023-12-08T00:55:47.915Z",
+    "title": "两市融资余额增加4.5亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 08:55:47",
+    "uuid": "49547982-6100-41aa-92e4-60840407fc6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "Micro LED技术在部分场景已替代液晶和OLED，但在AR、VR等领域的大规模应用还需2-3年 ...",
+    "id": "8VKQB3TvFKw",
+    "order": 1701996676204,
+    "createdAt": "2023-12-08T00:51:16.000Z",
+    "publishDate": "2023-12-08T00:51:16.204Z",
+    "title": "VR、AR头显销量待爆发 Micro LED 先行推动产业化",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 08:51:16",
+    "uuid": "874d1da1-fe9e-46de-8ae9-d930c27ffa5d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "在12月7日的联想集团“AI PC 产业创新论坛”上，英特尔中国区技术总经理高宇透露，新一代酷睿Ultra处理器已适配超过10款国内大模型 ...",
+    "id": "8VLD5eg0D3U",
+    "order": 1701994866177,
+    "createdAt": "2023-12-08T00:21:06.000Z",
+    "publishDate": "2023-12-08T00:21:06.177Z",
+    "title": "英特尔：酷睿Ultra已适配国内超10款大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 08:21:06",
+    "uuid": "4465f299-c279-498c-b4e9-d40156fcc29f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "欧洲车企Stellantis宣布调整美国两家工厂的运营模式，导致裁员。此举是为了适应美国加州的监管制度并管理销售。",
+    "id": "8VKzc1dwy2f",
+    "order": 1701994251322,
+    "createdAt": "2023-12-08T00:10:51.000Z",
+    "publishDate": "2023-12-08T00:10:51.322Z",
+    "title": "Stellantis称正调整美国两家工厂的运营模式 并将造成裁员",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 08:10:51",
+    "uuid": "2e2ae610-54f9-4c89-ba3c-a148a3cc69b3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "2021年截至目前，香港交易所共有55家公司退市，其中42家被取消上市地位。12月以来，已有5家公司退市，包括中誉集团私有化退市及银基集团、元宇宙云科、泰加保险、嘉年华国际等4家被港交所取消上市地位 ...",
+    "id": "8VKuxQZDKQA",
+    "order": 1701994031541,
+    "createdAt": "2023-12-08T00:07:11.000Z",
+    "publishDate": "2023-12-08T00:07:11.541Z",
+    "title": "港交所频频出手 年内42家公司被取消上市地位",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 08:07:11",
+    "uuid": "b26deea2-7507-4819-a679-66cfb39ea83e"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "IT 之家" },
       { "siteName": "CNBeta" }
@@ -15,6 +119,24 @@
     "up": false,
     "date": "2023-12-08 07:45:46",
     "uuid": "1bbdb203-fdfa-431f-a33a-546763138a13"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "CNBeta" },
+      { "siteName": "新浪财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉在瑞典面临集体劳动协议纠纷，近120名瑞典汽修工罢工要求特斯拉签订集体协议。特斯拉新车无法上路，因为快递员拒绝处理特斯拉的邮件 ...",
+    "id": "8VKoFj0wFHE",
+    "order": 1701997275151,
+    "createdAt": "2023-12-07T23:20:52.000Z",
+    "publishDate": "2023-12-08T01:01:15.151Z",
+    "title": "特斯拉大战瑞典汽修工更新：两天之内 法院两度作出不利裁决",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-08 07:20:52",
+    "uuid": "04a457ba-47dc-416d-83c6-54a8a0d21e7b"
   },
   {
     "newsArray": [
