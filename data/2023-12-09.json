@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "The Wall Street Journal" },
+      { "siteName": "IT 之家" },
+      { "siteName": "CNBeta" }
+    ],
+    "summary": "苹果公司负责iPhone和Apple Watch产品设计的副总裁Tang Tan即将离职，其离职将导致硬件工程部门发生变化 ...",
+    "id": "8VMeYichzQX",
+    "order": 1702086074427,
+    "createdAt": "2023-12-09T01:41:14.000Z",
+    "publishDate": "2023-12-09T01:41:14.427Z",
+    "title": "iPhone产品设计副总裁Tang Tan即将离职 苹果硬件工程部门面临重组",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 09:41:14",
+    "uuid": "8aa32b03-bac3-4d9e-877b-95cee99947fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "台积电与美国 AZBTC 达成协议，缓解了其在美工厂的劳资纠纷。双方合作推进工厂建设，制定劳动力培训计划，提高公共安全问题透明度 ...",
+    "id": "8VMq1Ek7k8t",
+    "order": 1702085193526,
+    "createdAt": "2023-12-09T01:26:34.000Z",
+    "publishDate": "2023-12-09T01:26:33.526Z",
+    "title": "派遣 500 名专业设备工程师入驻，台积电美国工厂劳资纠纷已缓解",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 09:26:34",
+    "uuid": "4a32f572-0dd0-4224-ae66-68a93884ed21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英特尔确认参展2024年CES展会，CEO帕特·基辛格将于太平洋时间1月9日下午5点（北京时间1月10日上午9点）发表主题演讲 ...",
+    "id": "8VMCRN3bMw2",
+    "order": 1702085113265,
+    "createdAt": "2023-12-09T01:25:13.000Z",
+    "publishDate": "2023-12-09T01:25:13.265Z",
+    "title": "英特尔将参展 CES 2024，CEO 帕特・基辛格发表主题演讲",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 09:25:13",
+    "uuid": "b087cf7c-7060-4f4d-afaa-2b6e0ea64688"
+  },
+  {
+    "newsArray": [
+      { "siteName": "The Wall Street Journal" },
+      { "siteName": "CNBeta" },
+      { "siteName": "新浪财经" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "英国竞争和市场管理局（CMA）正在调查微软与OpenAI的合作是否会导致竞争问题。CMA关注两家公司之间的权力平衡是否发生了根本性变化，使一方对另一方拥有更多的控制权或影响力 ...",
+    "id": "8VMJXhKXwj4",
+    "order": 1702085784844,
+    "createdAt": "2023-12-09T01:21:13.000Z",
+    "publishDate": "2023-12-09T01:36:24.844Z",
+    "title": "微软与OpenAI合作面临英国审查",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 09:21:13",
+    "uuid": "0a4eb45c-0ec8-41b7-ba9b-b6de2aab8a72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪财经" }
+    ],
+    "summary": "傲农生物计划将8家亏损的子公司部分股权转让给控股股东傲农投资，每家子公司的股权转让价为1元，总价款为8元。交易完成后，公司仍持有这些子公司51%的股权 ...",
+    "id": "8VM3U0dhnnc",
+    "order": 1702084848171,
+    "createdAt": "2023-12-09T01:20:48.000Z",
+    "publishDate": "2023-12-09T01:20:48.171Z",
+    "title": "傲农生物(603363.SH)：拟转让8家子公司的部分股权给控股股东傲农投资",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 09:20:48",
+    "uuid": "ce3b94e1-4b0c-448a-b4c4-039dfa2c332d"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "搜狐科技" },
       { "siteName": "华尔街见闻" }
