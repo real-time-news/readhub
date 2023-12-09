@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉宣布苹果播客应用将在下周登陆其汽车，计划在2023假日更新中为旗下汽车带来相关功能 ...",
+    "id": "8VM4rQMCOjz",
+    "order": 1702092369653,
+    "createdAt": "2023-12-09T03:26:10.000Z",
+    "publishDate": "2023-12-09T03:26:09.653Z",
+    "title": "苹果“播客”应用下周登陆特斯拉汽车，可实时同步用户收听进度",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 11:26:10",
+    "uuid": "a40539cc-ae5e-4cda-b36f-c7aeed752711"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "流媒体音乐平台Spotify曾于2016年为避免向苹果支付30%佣金费用，调整iOS版应用移除内购选项 ...",
+    "id": "8VMnjX2e6KP",
+    "order": 1702092361968,
+    "createdAt": "2023-12-09T03:26:01.000Z",
+    "publishDate": "2023-12-09T03:26:01.968Z",
+    "title": "绕过苹果 30% 佣金，Spotify 重申其 iOS 版应用不提供内购",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 11:26:01",
+    "uuid": "5a1df7f0-493b-4e03-bf9e-0d492883af1c"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
