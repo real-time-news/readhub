@@ -1,6 +1,126 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "据欧盟内部市场主管Thierry Breton，欧盟围绕批准人工智能（AI）法案达成临时协议。",
+    "id": "8VMnivPNN83",
+    "order": 1702083162612,
+    "createdAt": "2023-12-09T00:52:42.000Z",
+    "publishDate": "2023-12-09T00:52:42.612Z",
+    "title": "欧盟围绕批准AI法案达成初步协议",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 08:52:42",
+    "uuid": "22d605fe-4f7b-45d4-a700-3a2e24c9481a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "腾讯文档客户端3.0发布，全新升级涵盖Word、Excel、PPT三大品类，支持六种格式，自带PDF查看功能。一键式便捷处理各类文件，实现深度编辑 ...",
+    "id": "8VMGGCzja3k",
+    "order": 1702083139658,
+    "createdAt": "2023-12-09T00:52:19.000Z",
+    "publishDate": "2023-12-09T00:52:19.658Z",
+    "title": "腾讯文档3.0发布：所有类型文件可一站式深度编辑",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 08:52:19",
+    "uuid": "51d74a82-9be2-4ea1-b3eb-694b4856890a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果计划在明年下半年推出iPad 11平板电脑，新款产品将继续采用全面屏设计，主要更新在于更换新SoC。值得一提的是，苹果将与比亚迪合作，将iPad 11的生产线设在越南 ...",
+    "id": "8VMI0oEaqae",
+    "order": 1702083116466,
+    "createdAt": "2023-12-09T00:51:57.000Z",
+    "publishDate": "2023-12-09T00:51:56.466Z",
+    "title": "消息称苹果明年下半年推出 iPad 11 平板电脑，将在越南生产",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 08:51:57",
+    "uuid": "239c1dde-f884-4d4b-8058-2a70ef3c4c53"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "数字人民币跨境支付试点不断推进，新加坡金融管理局宣布新的数字金融和资本市场举措，包括跨境数字人民币试点。两国游客可在新加坡和中国使用e-CNY进行旅游消费 ...",
+    "id": "8VMtsviH8uv",
+    "order": 1702081493896,
+    "createdAt": "2023-12-09T00:24:53.000Z",
+    "publishDate": "2023-12-09T00:24:53.896Z",
+    "title": "数字人民币新加坡试点，两国游客可使用e-CNY进行消费",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 08:24:53",
+    "uuid": "d0a49d66-2a15-4f98-89c1-0cfad2a1f283"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "华为表示，武汉人工智能计算中心是首个投入运营的国家人工智能创新发展试验区，可提供高达100P的超大算力 ...",
+    "id": "8VMLP8ouIYJ",
+    "order": 1702081257523,
+    "createdAt": "2023-12-09T00:20:58.000Z",
+    "publishDate": "2023-12-09T00:20:57.523Z",
+    "title": "华为帮造全国首个人工智能计算中心：突破国外技术壁垒",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 08:20:58",
+    "uuid": "993feca1-192f-4a83-853f-f423530a42da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenAI董事会成立委员会调查CEO奥特曼被免职事件，委托WilmerHale的律师Anjan Sahni和Hallie B. Levin进行调查 ...",
+    "id": "8VMmjkCXQeS",
+    "order": 1702080954187,
+    "createdAt": "2023-12-09T00:15:54.000Z",
+    "publishDate": "2023-12-09T00:15:54.187Z",
+    "title": "OpenAI董事萨默斯等人委托一律所调查造成CEO奥特曼被罢免事件",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 08:15:54",
+    "uuid": "1ecd3a36-d132-4bed-adfa-f1f23453f815"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "欧盟达成了一项针对人工智能的全面监管协议，旨在对生成性人工智能工具如 OpenAI 的 ChatGPT 和谷歌的 Bard 等进行一系列管控 ...",
+    "id": "8VMpEISi2Rg",
+    "order": 1702080480997,
+    "createdAt": "2023-12-09T00:08:00.000Z",
+    "publishDate": "2023-12-09T00:08:00.997Z",
+    "title": "欧盟就监管生成性人工智能工具达成初步协议",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-09 08:08:00",
+    "uuid": "34683e20-3a42-4a03-8eb5-7996cc6c5599"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
