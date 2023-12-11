@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "智通财经" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "深圳证券交易所与沙特交易所集团在利雅得签署合作备忘录，旨在深化中沙资本市场交流合作 ...",
+    "id": "8VR2wPYCjqv",
+    "order": 1702299049500,
+    "createdAt": "2023-12-11T12:50:49.000Z",
+    "publishDate": "2023-12-11T12:50:49.500Z",
+    "title": "深圳证券交易所与沙特交易所集团签署合作备忘录",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-11 20:50:49",
+    "uuid": "ead82567-dddc-412a-a110-1cfe90dca2ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "吉电股份计划以14.76亿元收购六家新能源项目公司少数股权，以扩大公司新能源权益装机规模并提高净利润。同时，公司还决定延长向特定对象发行股票股东大会决议的有效期。",
+    "id": "8VQzZQXuIRE",
+    "order": 1702299683886,
+    "createdAt": "2023-12-11T12:46:00.000Z",
+    "publishDate": "2023-12-11T13:01:23.886Z",
+    "title": "吉电股份：拟14.76亿元收购六家新能源项目公司少数股权",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-11 20:46:00",
+    "uuid": "6409c99d-293c-4986-a050-3f5bb1e78f90"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" }
