@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "近日，我国蚂蚁集团的流式图计算引擎TuGraph Analytics在30TB规模的数据集上成功完成了国际关联数据基准委员会（LDBC）的图数据基准测评“LDBC SNB-BI”，打破了美国某图数据库厂商的公开纪录，关键指标中的并发吞吐量提升至2.84倍，查询能力提升至1.86倍 ...",
+    "id": "8VQrLZnIoA0",
+    "order": 1702288283548,
+    "createdAt": "2023-12-11T09:51:23.000Z",
+    "publishDate": "2023-12-11T09:51:23.548Z",
+    "title": "为通用人工智能提速，蚂蚁图计算连续四次打破权威测评世界纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-11 17:51:23",
+    "uuid": "83693a58-7da3-47f2-a79c-85c1688dff2b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "SegmentFault" },
+      { "siteName": "SegmentFault" }
+    ],
+    "summary": "近年来，全球数据量爆炸式增长，企业纷纷转型为数据驱动。阿里云副总裁吴结生表示，云计算是实现企业数智化的阶梯 ...",
+    "id": "8VQTLzMSBfW",
+    "order": 1702288266199,
+    "createdAt": "2023-12-11T09:51:06.000Z",
+    "publishDate": "2023-12-11T09:51:06.199Z",
+    "title": "面向大规模数据智能的阿里云存储创新",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-11 17:51:06",
+    "uuid": "bd7654bc-72b4-48b3-96ea-585e5f3fa844"
+  },
+  {
+    "newsArray": [
       { "siteName": "电子发烧友" },
       { "siteName": "网易科技" },
       { "siteName": "澎湃新闻" }
