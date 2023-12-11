@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "京东云推出“云电脑一站式迁移方案”，支持数据迁移、应用软件过渡和国产产品部署。该方案能解决国产系统应用兼容问题，并提供免费迁移、免费首年维保等服务 ...",
+    "id": "8VQx00hVBa0",
+    "order": 1702300774971,
+    "createdAt": "2023-12-11T13:19:34.000Z",
+    "publishDate": "2023-12-11T13:19:34.971Z",
+    "title": "京东云发布“云电脑一站式迁移方案”：可将 Win 应用生成跨平台虚拟应用，支持国产架构",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-11 21:19:34",
+    "uuid": "dbc41153-9c04-4bec-b6f9-070acce02354"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "CNBeta" },
+      { "siteName": "The Wall Street Journal" }
+    ],
+    "summary": "纽约州将与多家芯片公司一道，向纽约州立大学奥尔巴尼分校(University at Albany)的半导体研究设施投资100亿美元，该设施料将拥有一些全球最先进的芯片制造设备 ...",
+    "id": "8VQi5LDTVbD",
+    "order": 1702299708725,
+    "createdAt": "2023-12-11T13:01:48.000Z",
+    "publishDate": "2023-12-11T13:01:48.725Z",
+    "title": "纽约州与IBM、美光携手打造价值100亿美元的芯片研究园区",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-11 21:01:48",
+    "uuid": "5600f405-d322-49a4-b624-cd30f6069624"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
