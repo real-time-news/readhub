@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司为应对欧盟反垄断调查，提议开放自家iPhone的NFC系统，以解决限制竞争对手访问NFC功能的问题。欧盟指控苹果赋予自己支付特权，阻止竞争对手在移动支付领域竞争 ...",
+    "id": "8VShTPoGvZC",
+    "order": 1702388556563,
+    "createdAt": "2023-12-12T13:42:36.000Z",
+    "publishDate": "2023-12-12T13:42:36.563Z",
+    "title": "消息称苹果提议开放 iPhone NFC 功能，以应对欧盟 Apple Pay 反垄断调查",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-12 21:42:36",
+    "uuid": "584861d8-df1d-463b-ad6a-643efe88eb21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国11月核心CPI同比上升4%，符合预期，环比上升0.3%。",
+    "id": "8VSnl7Rf6dv",
+    "order": 1702388448735,
+    "createdAt": "2023-12-12T13:40:48.000Z",
+    "publishDate": "2023-12-12T13:40:48.735Z",
+    "title": "美国11月核心CPI同比上升4% 符合预期",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-12 21:40:48",
+    "uuid": "c00d2f3c-6f39-4fea-b676-a0d7c82bd270"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "投资圈" },
       { "siteName": "猎云网" }
