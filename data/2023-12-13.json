@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "淘天集团和阿里集团近期均加大了AI业务的布局。淘天集团将原有的约20个AI团队整合为4个，并发布了自家的大模型产品“图灵” ...",
+    "id": "8VU6vARx4cI",
+    "order": 1702456639775,
+    "createdAt": "2023-12-13T08:37:20.000Z",
+    "publishDate": "2023-12-13T08:37:19.775Z",
+    "title": "阿里电商集中发力AI：淘天设立4个团队，国际商业团队超百人",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 16:37:20",
+    "uuid": "878d4d83-1e74-4e4d-9198-5a2ae42d3df8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "京东否认裁员传闻，称正在进行人员调整，涉及多个业务条线。赔偿金为N+1，无年终奖。有员工透露，部门调整比例不一，部分部门年后将继续调整。",
+    "id": "8VU6l6frXoD",
+    "order": 1702456553124,
+    "createdAt": "2023-12-13T08:32:36.000Z",
+    "publishDate": "2023-12-13T08:35:53.124Z",
+    "title": "京东回应裁员：没有任何类似计划",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 16:32:36",
+    "uuid": "5553cefb-c3b8-475d-8c65-f307d233dd18"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" }
