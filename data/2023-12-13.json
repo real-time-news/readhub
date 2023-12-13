@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "特斯拉CEO马斯克发布最新视频，展示人形机器人Optimus的最新进展。据悉，Optimus第二代（Gen 2）将于2023年12月发布，步行速度提升30%，平衡感和身体控制能力有所改善。",
+    "id": "8VTjHVfPtvP",
+    "order": 1702437186923,
+    "createdAt": "2023-12-13T03:11:22.000Z",
+    "publishDate": "2023-12-13T03:13:06.923Z",
+    "title": "特斯拉人形机器人Optimus第二代将于12月发布",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 11:11:22",
+    "uuid": "1eebb29d-1a7d-4ec3-821d-6aa71ff2c59b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "特斯拉重新启用Cybertruck购买协议中的反转卖条款，禁止车主在一年内未经许可转卖车辆，否则可能面临5万美元罚款。此举旨在防止车主为盈利而转卖车辆，但效果有待观察 ...",
+    "id": "8VS6YfuFH5E",
+    "order": 1702436497471,
+    "createdAt": "2023-12-13T02:51:16.000Z",
+    "publishDate": "2023-12-13T03:01:37.471Z",
+    "title": "特斯拉恢复禁止Cybertruck转让条款 短期转售罚5万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 10:51:16",
+    "uuid": "a3355661-b2e4-4b18-91ba-b554c10da19e"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "中关村在线" },
       { "siteName": "腾讯网" }
