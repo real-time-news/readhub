@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "育碧公布了《碧海黑帆》12月封测宣传片，将于12月15日至18日在PS5、Xbox Series X/S和PC平台开放封闭测试.游戏是一款海盗动作角色扮演游戏，正式发售时间为2024年2月16日.推荐配置要求为Windows 10/11、Intel Core i7-8700K或AMD Ryzen 5 3600及以上处理器、8GB双通道内存、NVIDIA RTX 2070或AMD Radeon RX 5700 XT显卡、65GB硬盘.封测中玩家可以体验主要战役、赏金合约等内容，提升声望等级.",
+    "id": "8VSdgNXJCoS",
+    "order": 1702443179058,
+    "createdAt": "2023-12-13T04:52:59.000Z",
+    "publishDate": "2023-12-13T04:52:59.058Z",
+    "title": "育碧《碧海黑帆》12 月封测宣传片公布，游戏将于明年 2 月 16 日发售",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 12:52:59",
+    "uuid": "3f4d4ccd-fb28-4704-b9ca-9540ed9d6250"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "TechWeb" },
+      { "siteName": "TechWeb" }
+    ],
+    "summary": "全球半导体市场，特别是存储芯片市场，在近一年低迷后出现好转迹象。三季度DRAM和NAND闪存销售额环比增加，明年预计有更大增幅 ...",
+    "id": "8VSY3BFfYSO",
+    "order": 1702443161261,
+    "createdAt": "2023-12-13T04:52:41.000Z",
+    "publishDate": "2023-12-13T04:52:41.261Z",
+    "title": "机构预计明年全球半导体市场将增长13.1% 存储芯片市场增长超过40%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 12:52:41",
+    "uuid": "27945e8a-c73f-43d5-82de-90d9a18aa447"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "CNBeta" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软计划推出广告支持的免费云游戏订阅服务Xbox Game Pass，以扩大其在非洲、印度和东南亚等新兴市场的覆盖范围 ...",
+    "id": "8VSWIIYCC2N",
+    "order": 1702443154553,
+    "createdAt": "2023-12-13T04:52:34.000Z",
+    "publishDate": "2023-12-13T04:52:34.553Z",
+    "title": "微软计划在新兴市场推广免费云游戏服务",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 12:52:34",
+    "uuid": "09516e1f-5ff6-4afe-9c7a-f290209ef025"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "CNBeta" }
+    ],
+    "summary": "通用汽车（GM）近日宣布将在未来电动汽车中淘汰CarPlay和Android Auto，转而使用与Google共同开发的信息娱乐系统。这一决定旨在提高驾驶员安全，降低分心风险 ...",
+    "id": "8VTOakb3Bdo",
+    "order": 1702443152432,
+    "createdAt": "2023-12-13T04:52:32.000Z",
+    "publishDate": "2023-12-13T04:52:32.432Z",
+    "title": "为了让驾驶员更安全 通用汽车将在电动汽车产品线中取消CarPlay",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 12:52:32",
+    "uuid": "4a11122f-193e-45b9-96ba-1992621c12ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果官网推出了重新设计的Apple TV应用程序，旨在提供更便捷的节目、电影和比赛观看体验。新应用引入了全新的导航栏和“主页”功能，集合了所有订阅频道和热门内容 ...",
+    "id": "8VSmGX5xEzg",
+    "order": 1702443137033,
+    "createdAt": "2023-12-13T04:52:17.000Z",
+    "publishDate": "2023-12-13T04:52:17.033Z",
+    "title": "苹果 Apple TV 应用重新设计：界面更直观，电影 / 电视节目并入“商店”",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 12:52:17",
+    "uuid": "c65f3d71-2f15-4012-8229-0d29b955063f"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -299,6 +384,26 @@
     "up": false,
     "date": "2023-12-13 09:56:59",
     "uuid": "211dbb34-2e46-42ad-a857-4dc9a1a4c1e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" },
+      { "siteName": "VR陀螺" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "Meta公司开始向部分用户推送其Meta Ray-Ban智能眼镜的多模态AI功能，该功能可通过眼镜的摄像头和麦克风了解用户所看到和听到的内容，并提供相关信息和建议 ...",
+    "id": "8VTVdvHnwic",
+    "order": 1702443074617,
+    "createdAt": "2023-12-13T01:31:41.000Z",
+    "publishDate": "2023-12-13T04:51:14.617Z",
+    "title": "Meta 开启 Ray-Ban 智能眼镜多模态 AI 功能测试，可识别物体、翻译语言",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-13 09:31:41",
+    "uuid": "b6270317-aa55-4ef1-bbd3-b162aca2b4d9"
   },
   {
     "newsArray": [
