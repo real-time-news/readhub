@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "TechWeb" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "台积电近日宣布，1.4nm制程技术预计在2027-2028年之间实现量产，并将其命名为A14。",
+    "id": "8VVYUYFcK9Y",
+    "order": 1702537317698,
+    "createdAt": "2023-12-14T07:01:57.000Z",
+    "publishDate": "2023-12-14T07:01:57.698Z",
+    "title": "台积电1.4nm制程预计将于2027-28年量产",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-14 15:01:57",
+    "uuid": "9e551afb-f839-4663-b87c-ac4502ee46fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "华为技术有限公司近日申请了两项专利，一项名为“通信方法和通信装置”，可实现跨网络设备的用户设备路径反馈传输机制 ...",
+    "id": "8VUWbPT8RAV",
+    "order": 1702536959065,
+    "createdAt": "2023-12-14T06:56:00.000Z",
+    "publishDate": "2023-12-14T06:55:59.065Z",
+    "title": "消息称华为申请多项通信专利 有效减少波束管理的时间",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-14 14:56:00",
+    "uuid": "6f9a0e8b-588a-4f5c-8826-245ef52f8459"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "手机中国" }
@@ -15,6 +49,26 @@
     "up": false,
     "date": "2023-12-14 14:49:07",
     "uuid": "2ed9f5fb-e07a-4de9-8a6f-06b8e0f24f00"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "内部聊天记录显示，新东方创始人俞敏洪面临保CEO孙东旭还是保主播董宇辉的抉择。主播董宇辉回应称不方便回应，俞敏洪暂未回应。",
+    "id": "8VVddvdaFXl",
+    "order": 1702537313625,
+    "createdAt": "2023-12-14T06:40:46.000Z",
+    "publishDate": "2023-12-14T07:01:53.625Z",
+    "title": "董宇辉称不方便回应东方甄选二选一",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-14 14:40:46",
+    "uuid": "e3f7758d-f2bf-48db-8c5a-6f21f7cda311"
   },
   {
     "newsArray": [
@@ -863,6 +917,29 @@
     "up": false,
     "date": "2023-12-14 09:13:27",
     "uuid": "741c8ab9-bb60-4c97-967b-e1f2ca8ab888"
+  },
+  {
+    "newsArray": [
+      { "siteName": "The Wall Street Journal" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "财经网" },
+      { "siteName": "智通财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechWeb" },
+      { "siteName": "CNBeta" }
+    ],
+    "summary": "通用汽车公司的自动驾驶部门Cruise在进行一项安全调查时，解雇了9名高管，包括首席运营官Gil West。Cruise表示，此次调查与10月份一起自动驾驶汽车撞倒妇女的事故有关 ...",
+    "id": "8VVCP5dV4c4",
+    "order": 1702537495704,
+    "createdAt": "2023-12-14T00:52:00.000Z",
+    "publishDate": "2023-12-14T07:04:55.704Z",
+    "title": "继CEO之后，通用汽车自动驾驶部门Cruise解雇首席运营官等9名高管",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-14 08:52:00",
+    "uuid": "e3d39b03-6055-44b2-a15b-029d4f7823b0"
   },
   {
     "newsArray": [
