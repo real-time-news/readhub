@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "商务部发布关于台湾地区对大陆贸易限制措施的调查最终结论，认定台湾地区的贸易限制构成贸易壁垒。调查始于2023年4月，期间曾多次延长调查期限 ...",
+    "id": "8VWvEaiaSiQ",
+    "order": 1702603262534,
+    "createdAt": "2023-12-15T01:21:02.000Z",
+    "publishDate": "2023-12-15T01:21:02.534Z",
+    "title": "商务部：认定台湾地区对大陆贸易限制措施构成贸易壁垒",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-15 09:21:02",
+    "uuid": "720aefc6-32c2-4e6f-99c8-fbe4cb47967b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "动脉网" },
+      { "siteName": "动脉网" }
+    ],
+    "summary": "安谛康公司自主研发的儿童版抗流感新药ADC189颗粒临床试验申请已获中国国家药品监督管理局受理 ...",
+    "id": "8VW55JVOC7J",
+    "order": 1702601352643,
+    "createdAt": "2023-12-15T00:49:13.000Z",
+    "publishDate": "2023-12-15T00:49:12.643Z",
+    "title": "国内第一： 安谛康生物儿童版“一粒治愈”流感新药在中国临床受理",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-15 08:49:13",
+    "uuid": "97b75df8-f3e7-4556-a46e-76ffe70d1003"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "The Wall Street Journal" }
+    ],
+    "summary": "通用汽车旗下的自动驾驶汽车子公司Cruise周四表示，将裁员约900人，占其全职员工数的24%。此次裁员主要影响非工程类员工，被裁员工将获得至少16周的工资 ...",
+    "id": "8VWop3vbP0v",
+    "order": 1702600556994,
+    "createdAt": "2023-12-15T00:35:56.000Z",
+    "publishDate": "2023-12-15T00:35:56.994Z",
+    "title": "通用汽车自动驾驶Cruise部门裁员24%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-15 08:35:56",
+    "uuid": "8d3b9aac-3132-41c7-8958-431d3686c46e"
+  },
+  {
+    "newsArray": [
       { "siteName": "智通财经" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
