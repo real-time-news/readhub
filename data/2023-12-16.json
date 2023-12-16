@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司近日发布了DeepPCR机器学习算法，能加速神经网络的推理和训练。DeepPCR通过并行处理常规顺序操作，降低了计算复杂度，实现了最高30倍的前向传递速度和最高200倍的向后传递速度 ...",
+    "id": "8VYwsGUVH74",
+    "order": 1702715504979,
+    "createdAt": "2023-12-16T08:31:44.000Z",
+    "publishDate": "2023-12-16T08:31:44.979Z",
+    "title": "苹果推出 DeepPCR 算法：加速神经网络训练和推理能力",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-16 16:31:44",
+    "uuid": "984e00f8-9a34-4086-915b-ccd9f996eedf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "CNBeta" },
+      { "siteName": "The Wall Street Journal" }
+    ],
+    "summary": "动视暴雪同意支付约5000万美元，以和解加州监管机构提起的一起诉讼。该诉讼指控动视暴雪领导层忽视员工关于性骚扰、歧视和薪酬差距的投诉 ...",
+    "id": "8VYRb0nOrAg",
+    "order": 1702715492864,
+    "createdAt": "2023-12-16T08:31:32.000Z",
+    "publishDate": "2023-12-16T08:31:32.864Z",
+    "title": "动视暴雪同意支付约5,000万美元和解加州诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-16 16:31:32",
+    "uuid": "0458c3b2-7372-43e2-a05c-0aa4a4a70da1"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "腾讯网" },
       { "siteName": "财联社" }
