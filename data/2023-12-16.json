@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "在近日的极客公园创新大会上，百度创始人李彦宏表示，百模大战对社会资源造成了巨大浪费，主张将资源投入到超级应用中 ...",
+    "id": "8VYkAMnCChE",
+    "order": 1702707356480,
+    "createdAt": "2023-12-16T06:15:56.000Z",
+    "publishDate": "2023-12-16T06:15:56.480Z",
+    "title": "李彦宏：百模大战是对社会资源的极大浪费，更多资源应该放在超级应用",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-16 14:15:56",
+    "uuid": "d6c1a2d8-fc1b-416f-92e5-062495a617b2"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "快科技" },
       { "siteName": "中关村在线" }
@@ -140,6 +157,25 @@
     "up": false,
     "date": "2023-12-16 11:21:12",
     "uuid": "4b7dea8d-0adc-438e-9b01-785e685512f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "CNBeta" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "据外媒报道，在生成式 AI 竞争中处于落后的字节跳动想要“抄近道”，该公司一直在秘密使用 OpenAI 的技术开发自家大语言模型，这违反了 OpenAI 的服务条款 ...",
+    "id": "8VYdLY6ZOdr",
+    "order": 1702707542378,
+    "createdAt": "2023-12-16T03:01:31.000Z",
+    "publishDate": "2023-12-16T06:19:02.378Z",
+    "title": "字节跳动被曝利用OpenAI技术打造自家大模型，账户被暂停",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-16 11:01:31",
+    "uuid": "77e17a37-9099-4ede-826e-8c65f9c21a97"
   },
   {
     "newsArray": [
