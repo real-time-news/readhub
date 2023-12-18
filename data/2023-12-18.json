@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "软银集团旗下的英国芯片设计公司ARM近日在中国裁减了70多名软件工程师，其中一些职位被迁移至中国以外地区 ...",
+    "id": "8VcBSR0xH8M",
+    "order": 1702880518433,
+    "createdAt": "2023-12-18T06:21:59.000Z",
+    "publishDate": "2023-12-18T06:21:58.433Z",
+    "title": "ARM重组中国软件业务 裁员70多名工程师",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-18 14:21:59",
+    "uuid": "ed754bab-a453-4cc9-9267-090a3753527c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "梅赛德斯-奔驰成为首批获得北京市有条件自动驾驶测试牌照的企业之一，将在京启动指定高速公路的有条件自动驾驶系统实测 ...",
+    "id": "8VcFlCQNBjx",
+    "order": 1702880485445,
+    "createdAt": "2023-12-18T06:21:26.000Z",
+    "publishDate": "2023-12-18T06:21:25.445Z",
+    "title": "梅赛德斯-奔驰获批北京市有条件自动驾驶测试牌照",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-18 14:21:26",
+    "uuid": "8139453a-691c-4c48-a412-3b7ad168f6b7"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "手机中国" },
       { "siteName": "搜狐科技" }
