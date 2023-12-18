@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "动点科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果计划在2024年推出两款AirPods 4耳机，重新设计外壳并提供USB-C充电功能，新款AirPods 4将至少带来Pro级的主动降噪功能 ...",
+    "id": "8VbH9oNSpTN",
+    "order": 1702866109708,
+    "createdAt": "2023-12-18T02:21:49.000Z",
+    "publishDate": "2023-12-18T02:21:49.708Z",
+    "title": "古尔曼预测苹果明年将推出两款 AirPods 4 及 AirPods Max 2 耳机",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-18 10:21:49",
+    "uuid": "1ffaa705-fc11-4f04-9e7b-78199ad00020"
+  },
+  {
+    "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "TechWeb" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "日本汽车制造商日产宣布计划向全球销售中国研发的电动汽车，并与中国清华大学达成合作协议，共同研发电动汽车及相关技术 ...",
+    "id": "8VbowlVEK1K",
+    "order": 1702866096387,
+    "createdAt": "2023-12-18T02:21:36.000Z",
+    "publishDate": "2023-12-18T02:21:36.387Z",
+    "title": "日产将向全球销售中国研发的电动汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-18 10:21:36",
+    "uuid": "763c6a5b-4e6d-45b5-a5ed-df501b50a403"
+  },
+  {
+    "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "腾讯旗下工作室Team Kaiju或已关闭.虽未正式宣布，但网站无法加载，领英页面显示错误，团队人员变动较大.Team Kaiju曾致力于开发3A多人游戏，联合创始人包括前《光晕4》设计总监Scott Warner和《战地》元老Rosi Zagorcheva.Warner于今年4月离开，Zagorcheva于2022年4月离开.",
+    "id": "8ValDSEpomb",
+    "order": 1702866085010,
+    "createdAt": "2023-12-18T02:21:26.000Z",
+    "publishDate": "2023-12-18T02:21:25.010Z",
+    "title": "腾讯旗下工作室Team Kaiju或关闭:曾开发3A多人游戏",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-18 10:21:26",
+    "uuid": "fb797bc6-0684-44ee-bdd9-a5eee8bda9ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "动脉网" },
+      { "siteName": "动脉网" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "瑞图生物是一家专注于人工智能与医学诊断融合的公司，近日完成了亿元级别的B2轮融资。该公司开发了智能临检、智能血液、智能病理、智能生殖医学四大分析系统，产品覆盖多个检测场景 ...",
+    "id": "8VboyrSOJ99",
+    "order": 1702865536162,
+    "createdAt": "2023-12-18T02:12:17.000Z",
+    "publishDate": "2023-12-18T02:12:16.162Z",
+    "title": "【首发】瑞图生物完成超亿元B2轮融资，加速人工智能检验实验室的商业化落地",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-18 10:12:17",
+    "uuid": "0e51ed6b-5e6d-45ca-a608-9037b44879d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "动脉网" },
+      { "siteName": "动脉网" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "博纳西亚（合肥）医药科技有限公司，一家专注于临床研究的CRO公司，近期完成了近亿元人民币的B1轮融资。本轮融资由基石资本领投，金阖资本跟投，探针资本担任财务顾问 ...",
+    "id": "8VboxpqpB2k",
+    "order": 1702864946880,
+    "createdAt": "2023-12-18T02:02:26.000Z",
+    "publishDate": "2023-12-18T02:02:26.880Z",
+    "title": "【首发】临床CRO博纳西亚完成近亿元B1轮融资，加速拓展北美和东南亚市场",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-18 10:02:26",
+    "uuid": "162f5bb9-b58c-42eb-9ecf-fc8307e96693"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "证券时报网" },
       { "siteName": "财联社" }
@@ -126,6 +212,25 @@
     "up": false,
     "date": "2023-12-18 08:21:05",
     "uuid": "a79201c3-297e-4f12-9f7e-bffe7d5433fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "高通近日展示了其全新骁龙X Elite PC芯片的性能，并宣称在多个方面超越了苹果最新M3系列芯片，特别是在AI能力方面 ...",
+    "id": "8VbpRM8dUB8",
+    "order": 1702865480636,
+    "createdAt": "2023-12-18T00:21:04.000Z",
+    "publishDate": "2023-12-18T02:11:20.636Z",
+    "title": "高通骁龙 X Elite 芯片搅动 PC 市场，宣称多核性能比苹果 M3 高出 21%",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-18 08:21:04",
+    "uuid": "21a32585-fec1-44d7-aa34-823801373a30"
   },
   {
     "newsArray": [
