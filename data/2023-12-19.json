@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "TechWeb" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "瑞典调查机构Novus的最新民意调查显示，大多数瑞典人支持特斯拉机械工程师为争取集体谈判权而进行的罢工行动。由于特斯拉拒绝接受工会提出的要求，当地工会和养老基金对其表示强烈反对 ...",
+    "id": "8VdT8S107Y6",
+    "order": 1702951322277,
+    "createdAt": "2023-12-19T02:02:02.000Z",
+    "publishDate": "2023-12-19T02:02:02.277Z",
+    "title": "调查：58%受访者支持特斯拉瑞典机械工程师罢工",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-19 10:02:02",
+    "uuid": "b0d7b9a9-7295-4db7-b5c3-7d5665c5f8c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "雷锋网" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "腾讯云将企业级分布式数据库TDSQL的社区发行版OpenTenBase捐赠给开放原子基金会，以开源形式共同打造数据库技术生态 ...",
+    "id": "8VcR9hXt5PF",
+    "order": 1702951311936,
+    "createdAt": "2023-12-19T02:01:52.000Z",
+    "publishDate": "2023-12-19T02:01:51.936Z",
+    "title": "腾讯云捐赠 OpenTenBase 数据库软件，共建国产基础软件新生态",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-19 10:01:52",
+    "uuid": "f1280686-6d54-406a-9df9-3378524bc619"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "猎云网" },
+      { "siteName": "VR陀螺" }
+    ],
+    "summary": "镭昱半导体近日完成Pre-A3轮融资，由华映资本领投，三七互娱及米哈游跟投。该公司致力于开发高性能、高量产性的全彩Micro-LED微显示屏，为AR眼镜提供理想解决方案 ...",
+    "id": "8VdTrfXfTKG",
+    "order": 1702951290672,
+    "createdAt": "2023-12-19T02:01:30.000Z",
+    "publishDate": "2023-12-19T02:01:30.672Z",
+    "title": "镭昱完成Pre-A3轮战略融资，全面加速单片全彩芯片商业化进程",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-19 10:01:30",
+    "uuid": "7e14f98e-05da-40d7-8425-281bf1da26af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "CNBeta" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "近日，我国澜起科技发布了第五代津逮CPU处理器，针对国内市场，该处理器基于Intel第五代至强芯片。澜起科技表示，第五代津逮CPU已通过安全预检测测试 ...",
+    "id": "8VcxJ2Pt3CC",
+    "order": 1702951098368,
+    "createdAt": "2023-12-19T01:58:18.000Z",
+    "publishDate": "2023-12-19T01:58:18.368Z",
+    "title": "澜起发布第五代津逮处理器：基于Intel五代至强、痛失64核心",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-19 09:58:18",
+    "uuid": "257c278f-51c7-42e6-83f6-03d14a900efb"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "财新网" },
       { "siteName": "财新网" }
