@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "王小川声称，百川智能通过长窗口 + 搜索增强的方式，在 192K 长上下文窗口的基础上，将大模型能够获取的文本规模提升至“相当于 1 亿汉字”的 5000 万 tokens，模型可以先根据用户的提示词，在海量的文档中检索出最相关的内容，再将这些文档与提示词一起放到长窗口中，从而节省推理费用与时间成本 ...",
+    "id": "8Ve7y7OVmAs",
+    "order": 1702979165961,
+    "createdAt": "2023-12-19T09:46:05.000Z",
+    "publishDate": "2023-12-19T09:46:05.961Z",
+    "title": "百川智能宣布开放 Baichuan2-Turbo 系列 API，允许用户创建专属知识库",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-19 17:46:05",
+    "uuid": "8706d1f1-f61e-4889-9342-729b14182891"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -107,6 +124,27 @@
   },
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "TikTok电商为2024年定下了500亿美金的GMV目标，相较今年200亿美金的目标翻了一倍多 ...",
+    "id": "8Ve5bVc6F8F",
+    "order": 1702978979574,
+    "createdAt": "2023-12-19T08:55:52.000Z",
+    "publishDate": "2023-12-19T09:42:59.574Z",
+    "title": "TikTok电商明年GMV目标500亿美金",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-19 16:55:52",
+    "uuid": "084cfe97-b9d9-43fb-b77b-51c931677657"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -172,6 +210,23 @@
     "up": false,
     "date": "2023-12-19 16:36:17",
     "uuid": "6365aaea-918e-48b2-b222-2d7393ca5377"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "财联社" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "元旦假期出游预订高峰期已至，飞猪数据显示，截至12月18日，出游预订量同比去年增长近4倍，上海、北京、杭州等城市成为热门目的地。高铁游和机票预订火爆，部分热门线路已无票可售 ...",
+    "id": "8VdxVxzl3Rr",
+    "order": 1702979211481,
+    "createdAt": "2023-12-19T08:35:58.000Z",
+    "publishDate": "2023-12-19T09:46:51.481Z",
+    "title": "飞猪：元旦假期预订大增近4倍，上海、北京、杭州最热门",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-19 16:35:58",
+    "uuid": "6eaa97d4-e80f-4b51-80bc-2580caa4e195"
   },
   {
     "newsArray": [
