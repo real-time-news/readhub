@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "我国自主研发的  GPU  品牌摩尔线程近日举办了全国产千卡千亿模型训练平台的揭幕仪式。该平台以国产全功能  GPU  为支撑，旨在满足大规模算力集群的训练和推理需求 ...",
+    "id": "8VeO2qtHxIl",
+    "order": 1703050595034,
+    "createdAt": "2023-12-20T05:36:35.000Z",
+    "publishDate": "2023-12-20T05:36:35.034Z",
+    "title": "全国产千卡千亿模型训练平台落地 人工智能发展获重大助力",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-20 13:36:35",
+    "uuid": "1d853d05-69a5-441d-b82c-ac3ac115380a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "甘肃省临夏回族自治州发生6.2级地震，造成百余人遇难，基础设施受损。快手平台上线专题入口，联合权威媒体传递救灾信息，捐赠500万元用于灾区重建。",
+    "id": "8VfNlnPKk2L",
+    "order": 1703050323659,
+    "createdAt": "2023-12-20T05:32:04.000Z",
+    "publishDate": "2023-12-20T05:32:03.659Z",
+    "title": "快手捐赠500万元，援助甘肃、青海抗震救灾",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-20 13:32:04",
+    "uuid": "7edf003e-ae3d-4ddd-93f5-293a896486ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "甘肃临夏州积石山县发生6.2级地震，造成甘肃、青海地区重大人员伤亡。吉利控股集团携手李书福公益基金会向甘肃省、青海省红十字会捐款1000万元用于救灾物资采购和灾后重建，将持续关注救援情况，为受灾民众提供帮助。",
+    "id": "8VfTo6lIo55",
+    "order": 1703050316542,
+    "createdAt": "2023-12-20T05:31:56.000Z",
+    "publishDate": "2023-12-20T05:31:56.542Z",
+    "title": "吉利控股集团携手李书福公益基金会捐赠1000万元 紧急驰援甘肃青海地震灾区",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-20 13:31:56",
+    "uuid": "ce77868f-2da0-45c9-8453-9d746f19939c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "甘肃省临夏州积石山发生6.2级地震，庄园牧场证实两个牧场位于临夏州，但未受地震影响。",
+    "id": "8VdhQUy45ga",
+    "order": 1703050297665,
+    "createdAt": "2023-12-20T05:31:38.000Z",
+    "publishDate": "2023-12-20T05:31:37.665Z",
+    "title": "庄园牧场回应：有牧场在临夏，但未受地震影响",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-20 13:31:38",
+    "uuid": "0e9b3aa8-0cc4-428d-84d6-fce2abb6e65b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "2023年，由中共安徽省委、安徽省人民政府主办，中华全国工商业联合会支持的“2023徽商助力安徽高质量发展大会暨徽商总会成立大会”在合肥举行 ...",
+    "id": "8VfTut9nduS",
+    "order": 1703050290279,
+    "createdAt": "2023-12-20T05:31:30.000Z",
+    "publishDate": "2023-12-20T05:31:30.279Z",
+    "title": "杨元庆当选徽商总会首任会长",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-20 13:31:30",
+    "uuid": "8912bf6d-2e45-4df3-bca7-019c8bc37f93"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "黑客泄露了索尼旗下Insomniac  Games的130万份文件，其中包括游戏地图、开支计划等，以及即将推出的《金刚狼》游戏 ...",
+    "id": "8Vf7VCF6arC",
+    "order": 1703050263226,
+    "createdAt": "2023-12-20T05:31:03.000Z",
+    "publishDate": "2023-12-20T05:31:03.226Z",
+    "title": "索尼的视频游戏计划被勒索软件团伙泄露",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-20 13:31:03",
+    "uuid": "0336b793-6c49-4a5b-bfed-a1957c1dc410"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" },
       { "siteName": "中关村在线" },
