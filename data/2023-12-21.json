@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "苹果因专利纠纷与医疗技术公司Masimo陷入诉讼。Masimo首席执行官乔·基亚尼表示，愿意与苹果和解，但未透露和解条件。他还表示愿意与苹果合作共同改进产品，但苹果尚未主动提出 ...",
+    "id": "8VgmPJOYz8I",
+    "order": 1703125311517,
+    "createdAt": "2023-12-21T02:21:51.000Z",
+    "publishDate": "2023-12-21T02:21:51.517Z",
+    "title": "Masimo表示愿意和解手表专利纠纷，但苹果尚未提出合作沟通",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-21 10:21:51",
+    "uuid": "25ec166d-ab88-4a81-a45e-f1d27db81e64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "动视暴雪首席执行官鲍比•科蒂克（Bobby Kotick）将于12月29日正式卸任 ... 在科蒂克离任后，微软游戏业务首席执行官菲尔•斯宾塞（Phil Spencer）将接替其职位 ...",
+    "id": "8Vgu7z7hTTG",
+    "order": 1703124987356,
+    "createdAt": "2023-12-21T02:16:27.000Z",
+    "publishDate": "2023-12-21T02:16:27.356Z",
+    "title": "微软收购动视暴雪 需要新的领导人",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-21 10:16:27",
+    "uuid": "5c8205b5-831a-4f90-aa6d-8a49df49fbee"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" }
@@ -246,6 +280,25 @@
     "up": false,
     "date": "2023-12-21 07:16:16",
     "uuid": "7b2ad007-d316-4310-988f-feaf80af39a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "OpenAI推出聊天信息存档功能，用户可浏览已存档的聊天内容。",
+    "id": "8VgKMimfhtR",
+    "order": 1703125261791,
+    "createdAt": "2023-12-20T20:11:23.000Z",
+    "publishDate": "2023-12-21T02:21:01.791Z",
+    "title": "OpenAI：针对聊天内容推出存档功能",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-21 04:11:23",
+    "uuid": "6d4f4c94-c017-479f-9aa5-58b9dabb43da"
   },
   {
     "newsArray": [
