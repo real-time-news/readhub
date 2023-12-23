@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "TechWeb" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司已经和多家主要出版商达成协议， 通过采集其相关新闻内容，以训练生成式 AI 系统 ...",
+    "id": "8Vk0tIlwZmp",
+    "order": 1703295369956,
+    "createdAt": "2023-12-23T01:36:09.000Z",
+    "publishDate": "2023-12-23T01:36:09.956Z",
+    "title": "至少 5000 万美元，消息称苹果正购买新闻采集权用于训练生成式 AI",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-23 09:36:09",
+    "uuid": "a5c6af15-f205-42e5-b911-f2585affb43b"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "CNBeta" }
