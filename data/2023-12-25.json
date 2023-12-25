@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "TechWeb" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "硅谷科技高管们在困难时期会互相支持。当  OpenAI  首席执行官萨姆·奥特曼意外离职后，他的好友、Airbnb  首席执行官布莱恩·切斯基和临时首席执行官埃米特·希尔为他回归铺平了道路 ...",
+    "id": "8VnWyx0qTxT",
+    "order": 1703470317702,
+    "createdAt": "2023-12-25T02:11:58.000Z",
+    "publishDate": "2023-12-25T02:11:57.702Z",
+    "title": "外媒：奥特曼能回归OpenAI主要靠切斯基和纳德拉的支持",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 10:11:58",
+    "uuid": "7983961e-273a-407a-8fba-37b3f630b1a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "动点科技" }
+    ],
+    "summary": "抖音近日在主App内测试了一项新的功能“AI搜”，这是一种基于人工智能的搜索问答服务，能为用户提供快速、准确、全面的回答 ...",
+    "id": "8VnXiLN6lVP",
+    "order": 1703469676829,
+    "createdAt": "2023-12-25T02:01:17.000Z",
+    "publishDate": "2023-12-25T02:01:16.829Z",
+    "title": "抖音加码智能搜索，测试“AI 搜”功能",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 10:01:17",
+    "uuid": "20614bc0-987b-4298-9e0d-da824485ccaa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "中国证券网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "国家新闻出版署就《网络游戏管理办法（草案征求意见稿）》公开征求意见，引发市场关切 ...",
+    "id": "8VnY4BlH6yY",
+    "order": 1703469047665,
+    "createdAt": "2023-12-25T01:41:12.000Z",
+    "publishDate": "2023-12-25T01:50:47.665Z",
+    "title": "专家解读《网络游戏管理办法（草案征求意见稿）》：理性看待其影响 后续或有适应性修改",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 09:41:12",
+    "uuid": "8fa71310-e3f5-49ae-a0f0-077eb4e7b082"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "网游新规发布后，游戏板块反应强烈。业内预计征求意见稿将进一步适应性修改，以促进行业健康发展。相关部门将继续征求企业、用户和消费者意见，确保新规不会对行业发展产生重大影响 ...",
+    "id": "8VnXhNdOgIq",
+    "order": 1703469675947,
+    "createdAt": "2023-12-25T01:41:11.000Z",
+    "publishDate": "2023-12-25T02:01:15.947Z",
+    "title": "网游新规发布游戏板块反应强烈 业内预计征求意见稿将会进一步适应性修改",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 09:41:11",
+    "uuid": "61b234c7-54b4-4acc-aa43-05eb13d1ebdd"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "财联社" },
       { "siteName": "IT 之家" }
@@ -89,6 +161,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "上海迪士尼度假区通知，“疯狂动物城：热力追踪”今早恢复运营，初期可能出现中途暂停或短暂停运，游客请遵从现场人员指挥。",
+    "id": "8VnUzawEz7T",
+    "order": 1703468989016,
+    "createdAt": "2023-12-25T01:01:35.000Z",
+    "publishDate": "2023-12-25T01:49:49.016Z",
+    "title": "上海迪士尼：“疯狂动物城：热力追踪”将于今日上午起恢复运营",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 09:01:35",
+    "uuid": "093e864f-42e6-477a-a478-6c28c04ca6fb"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "新浪科技" },
       { "siteName": "DoNews" },
@@ -112,6 +202,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "每经网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "创业邦" }
+    ],
+    "summary": "OpenAI  即将完成新一轮融资，估值超过  1000  亿美元，使其成为美国第二大初创公司，仅次于  SpaceX ...",
+    "id": "8VnRIz29vhQ",
+    "order": 1703470532521,
+    "createdAt": "2023-12-25T00:40:50.000Z",
+    "publishDate": "2023-12-25T02:15:32.521Z",
+    "title": "OpenAI计划新一轮融资，估值超1000亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 08:40:50",
+    "uuid": "34fe228d-b437-48f5-a323-699a20f6d3fc"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -132,6 +240,24 @@
     "up": false,
     "date": "2023-12-25 08:07:11",
     "uuid": "30be4148-b478-41b2-be1d-7429e0d74d2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "神州泰岳表示，近年来公司游戏收入海外占比持续提升，2022年海外占比已超过85%，国内收入占比低于15%。《网络游戏管理办法（草案征求意见稿）》对该公司游戏业务影响有限。",
+    "id": "8VmiOMcSagF",
+    "order": 1703469678486,
+    "createdAt": "2023-12-24T23:55:14.000Z",
+    "publishDate": "2023-12-25T02:01:18.486Z",
+    "title": "神州泰岳：《网络游戏管理办法（草案征求意见稿）》对公司游戏业务影响有限",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 07:55:14",
+    "uuid": "1b05312f-972b-4ec4-b569-a17fb6740c43"
   },
   {
     "newsArray": [
@@ -169,6 +295,24 @@
     "up": false,
     "date": "2023-12-25 07:20:49",
     "uuid": "751be195-0e44-4da8-b2df-db7b41d3be1c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "因赛集团表示，网游新规预计对公司业绩影响较小，反而可能在游戏出海、精品游戏及休闲游戏等领域的营销方面带来机遇。",
+    "id": "8VmogJqeWbm",
+    "order": 1703469073491,
+    "createdAt": "2023-12-24T23:19:22.000Z",
+    "publishDate": "2023-12-25T01:51:13.491Z",
+    "title": "因赛集团：网游新规预计对公司业绩影响较小 反而可能在游戏出海等领域营销方面带来机遇",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 07:19:22",
+    "uuid": "d7e257c2-421c-4c02-a667-874a08e3aacd"
   },
   {
     "newsArray": [
