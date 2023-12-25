@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "蔚来创始人李斌在媒体交流会上表示，蔚来资本已投资70多家公司，包括电池、激光雷达等领域。他透露，蔚来除了高端市场定位，还会推出其他品牌，以覆盖更多消费者 ...",
+    "id": "8VmAKJO13GU",
+    "order": 1703473983686,
+    "createdAt": "2023-12-25T03:02:19.000Z",
+    "publishDate": "2023-12-25T03:13:03.686Z",
+    "title": "蔚来李斌：汽车业非赢家通吃，蔚来资本已投70多家公司",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 11:02:19",
+    "uuid": "ffc8db13-fbdb-4d4f-a502-cd7fe469ce27"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "腾讯网" },
       { "siteName": "腾讯网" }
@@ -15,6 +32,24 @@
     "up": false,
     "date": "2023-12-25 10:41:17",
     "uuid": "22cfad4b-c916-4543-8aa3-8d0db291c6fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "苹果公司在2023年10月与哥伦比亚大学研究人员合作发布了开源多模态  LLM  工具  Ferret，此工具可检查图像上的区域并识别其中的元素 ...",
+    "id": "8VnVZahfacn",
+    "order": 1703474224003,
+    "createdAt": "2023-12-25T02:41:02.000Z",
+    "publishDate": "2023-12-25T03:17:04.003Z",
+    "title": "苹果开放 AI 研究成果，发布多模态 LLM 模型 Ferret",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-25 10:41:02",
+    "uuid": "e10b4f0c-3aa7-49ec-9810-b50ae73b86be"
   },
   {
     "newsArray": [
