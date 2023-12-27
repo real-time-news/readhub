@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子成功在 Red Hat 最新版系统中验证了 CXL 内存的互操作性，成为业内首家在客户环境下实现该技术的企业 ...",
+    "id": "8VqvSNfLKBz",
+    "order": 1703645770224,
+    "createdAt": "2023-12-27T02:56:10.000Z",
+    "publishDate": "2023-12-27T02:56:10.224Z",
+    "title": "业内首次，三星携手红帽在真实用户环境下验证 CXL 内存技术",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-27 10:56:10",
+    "uuid": "dfd6444c-ff6c-42df-9afb-e0a3f74b3f3b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "一加宣布将于1月4日发布一加Ace 3手机，提供鸣沙金、月海蓝和星辰黑三款配色。新机预计搭载骁龙8 Gen 2处理器、5500mAh电池，6.78英寸2480×1264分辨率屏幕，由京东方供应 ...",
+    "id": "8VqqRh22HCJ",
+    "order": 1703645460768,
+    "createdAt": "2023-12-27T02:51:00.000Z",
+    "publishDate": "2023-12-27T02:51:00.768Z",
+    "title": "一加 Ace 3 手机发布会定档 1 月 4 日，预计搭载骁龙 8 Gen 2",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-27 10:51:00",
+    "uuid": "501c078f-c356-48e0-b1be-72ab029ba135"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "每经网" },
       { "siteName": "腾讯网" },
