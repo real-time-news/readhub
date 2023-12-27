@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "中关村在线" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "阿维塔科技近日进行重大人事调整，原高级执行副总裁陈卓升任为公司总裁。陈卓曾在长安汽车品牌公关部、合资品牌市场部及国际公司市场部担任要职。",
+    "id": "8VqrXDyDE0E",
+    "order": 1703669793713,
+    "createdAt": "2023-12-27T09:36:33.000Z",
+    "publishDate": "2023-12-27T09:36:33.713Z",
+    "title": "陈卓升任阿维塔科技总裁",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-27 17:36:33",
+    "uuid": "ea294906-aec5-4a35-8bb8-e387bb7e583b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华为云研发大模型CodeArts Snap正式开启公测，该智能开发助手覆盖软件开发全生命周期，具备代码生成、研发知识问答、单元测试用例生成、代码解释、代码注释、代码调试、代码翻译、代码检查等功能。",
+    "id": "8VrDJ7XGVMT",
+    "order": 1703669789834,
+    "createdAt": "2023-12-27T09:36:29.000Z",
+    "publishDate": "2023-12-27T09:36:29.834Z",
+    "title": "华为云研发大模型CodeArts Snap正式开启公测",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-27 17:36:29",
+    "uuid": "ef4f59fa-fff1-40d9-af76-ac3e64f2264f"
+  },
+  {
+    "newsArray": [
       { "siteName": "CNBeta" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
