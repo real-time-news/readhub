@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "小米推出智能座舱，配备16.1英寸中控生态屏、56英寸超大HUD、翻转式仪表屏，小米Pad可作为后排拓展屏，搭载原生车机系统，实现五屏联动。",
+    "id": "8Vsv3xjuQXb",
+    "order": 1703748799742,
+    "createdAt": "2023-12-28T07:33:19.000Z",
+    "publishDate": "2023-12-28T07:33:19.742Z",
+    "title": "小米发布智能座舱",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-28 15:33:19",
+    "uuid": "78e77f4a-2c06-403a-a09f-adfb765ef70a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "CNBeta" }
+    ],
+    "summary": "特斯拉确认参与台积电3nm NTO芯片设计定案，显示市场对先进半导体解决方案需求增长。特斯拉成为N3P客户，意在利用台积电尖端技术生产下一代FSD智能驾驶芯片 ...",
+    "id": "8VrEZ8shcpa",
+    "order": 1703748784866,
+    "createdAt": "2023-12-28T07:33:05.000Z",
+    "publishDate": "2023-12-28T07:33:04.866Z",
+    "title": "特斯拉明年将采用台积电3nm工艺制造FSD智能驾驶芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-28 15:33:05",
+    "uuid": "43e5dc50-459c-4274-bcf0-33d10ccad2ad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米汽车SU7在技术发布会上展示其自动泊车功能，成功在仅2.05米宽的机械车位上标准停车，并留有5cm空间。此成就得益于小米自研的端到端感知决策大模型，该模型首次应用于量产车。",
+    "id": "8Vsut7zbuax",
+    "order": 1703748780369,
+    "createdAt": "2023-12-28T07:33:01.000Z",
+    "publishDate": "2023-12-28T07:33:00.369Z",
+    "title": "小米汽车实现超窄机械车位自动泊车：宽度仅2.05米",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-28 15:33:01",
+    "uuid": "91fc34b9-0100-41bd-8a6b-f22af2daf1e6"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "中关村在线" },
       { "siteName": "手机中国" }
