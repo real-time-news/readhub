@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小米米家智能轻音破壁料理机S1将于1月3日开启预售，售价379元。产品具有12重降噪设计，噪音低至42dB(A）。支持18分钟快浆和30分钟豆浆功能，干豆免泡发 ...",
+    "id": "8VuTBnTeTFP",
+    "order": 1703852926229,
+    "createdAt": "2023-12-29T12:28:46.000Z",
+    "publishDate": "2023-12-29T12:28:46.229Z",
+    "title": "小米米家智能轻音破壁料理机 S1 上架：噪音低至 42dB，到手价 379 元",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-29 20:28:46",
+    "uuid": "f0d88e99-4e9e-4efe-a5b0-e06f778ceacb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子计划在CES 2024上推出新款厨房家电，结合AI技术与SmartThings联网服务，打造完整家电生态圈 ...",
+    "id": "8Vul3ximg2h",
+    "order": 1703852532315,
+    "createdAt": "2023-12-29T12:22:12.000Z",
+    "publishDate": "2023-12-29T12:22:12.315Z",
+    "title": "三星将在 CES 2024 展示 AI 智能家电新品：冰箱配 32 英寸大屏，可识别食材",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-29 20:22:12",
+    "uuid": "ba928d97-d3a8-4c78-bbd7-f23c528f67df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "TechWeb" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "谷歌就一项指控其“秘密跟踪”用户浏览行为的集体诉讼达成初步和解。该诉讼原定于2024年2月5日审理，谷歌同意赔偿至少50亿美元，但具体和解条款尚未公布 ...",
+    "id": "8Vu3SopRIYb",
+    "order": 1703851914483,
+    "createdAt": "2023-12-29T12:11:54.000Z",
+    "publishDate": "2023-12-29T12:11:54.483Z",
+    "title": "用户因 Chrome 浏览器无痕模式追踪隐私索赔 50 亿美元，谷歌同意提前达成和解",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-29 20:11:54",
+    "uuid": "531c2e1b-e3c9-415d-b48e-0dc068f44698"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "全国一体化算力网政策将对企业的数据中心建设布局、能源采购、网络成本产生直接影响。预计企业新增数据中心将会在枢纽节点聚集，绿电采购进程将大幅加速，东西部之间的网络带宽费用可能会降低 ...",
+    "id": "8VunvTuYu4N",
+    "order": 1703853114979,
+    "createdAt": "2023-12-29T12:11:53.000Z",
+    "publishDate": "2023-12-29T12:31:54.979Z",
+    "title": "全国一体化算力网政策落定，对算力企业有三大直接影响",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-29 20:11:53",
+    "uuid": "c08139a3-8595-475d-a5a8-f90e60091f94"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "智通财经" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "投资市场存在风险，阅读本文的用户需谨慎投资。文章未考虑个别用户特殊的投资目标和财务状况，用户应根据自身情况判断文中意见、观点和结论是否适合自己。据此投资，责任自负。",
+    "id": "8VusCAiGtmp",
+    "order": 1703851913589,
+    "createdAt": "2023-12-29T11:52:49.000Z",
+    "publishDate": "2023-12-29T12:11:53.589Z",
+    "title": "国常会：研究深入推进以人为本的新型城镇化有关举措",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-29 19:52:49",
+    "uuid": "ac8297c4-9ac4-46d2-8946-6804dfad22bb"
+  },
+  {
+    "newsArray": [
       { "siteName": "中证网" },
       { "siteName": "猎云网" },
       { "siteName": "36Kr" }
@@ -175,6 +265,27 @@
     "up": false,
     "date": "2023-12-29 18:10:36",
     "uuid": "b8138573-dc05-4db9-b6a1-d3f240c5c876"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "广东省阳江市市场监管局通过“四个协同”推动全市基层所“两化”建设取得良好成效。一是上下协同加强领导，成立工作领导小组，制定实施方案，层层推进 ...",
+    "id": "8VuaLYDdV6w",
+    "order": 1703852486092,
+    "createdAt": "2023-12-29T10:03:57.000Z",
+    "publishDate": "2023-12-29T12:21:26.092Z",
+    "title": "广东省阳江市市场监管局坚持“四个协同”推进基层所标准化规范化建设",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-29 18:03:57",
+    "uuid": "b69cf947-2b36-4905-a355-f26fb870c681"
   },
   {
     "newsArray": [
