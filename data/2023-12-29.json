@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国联邦航空管理局（FAA）正密切关注波音737 MAX飞机的调查情况。波音公司要求航空公司检查方向舵控制系统特定的转向横拉杆，而FAA则考虑针对零部件遗失问题采取额外行动。",
+    "id": "8VtSIVdbqQh",
+    "order": 1703829675746,
+    "createdAt": "2023-12-29T06:01:16.000Z",
+    "publishDate": "2023-12-29T06:01:15.746Z",
+    "title": "多架波音737 MAX飞机出现零部件遗失问题",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-29 14:01:16",
+    "uuid": "2146482b-0f4f-44a6-aecf-bca113500071"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "手机中国" },
       { "siteName": "36Kr" }
@@ -766,5 +783,26 @@
     "up": false,
     "date": "2023-12-29 05:51:00",
     "uuid": "a46b02b7-2349-4592-b56c-fb6147ac11da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "CNBeta" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "36Kr" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "美国联邦航空管理局（FAA）正在密切关注波音737 MAX飞机的针对性检查，以寻找方向舵控制系统中可能存在的螺栓松动问题。波音公司建议运营商检查特定拉杆硬件是否松动 ...",
+    "id": "8VtYjtzbdKD",
+    "order": 1703829696011,
+    "createdAt": "2023-12-28T18:20:58.000Z",
+    "publishDate": "2023-12-29T06:01:36.011Z",
+    "title": "波音发现737Max螺栓存在缺陷 FAA正密切关注针对性检查",
+    "type": "topic",
+    "up": false,
+    "date": "2023-12-29 02:20:58",
+    "uuid": "837103dd-278e-4c59-9c86-d6b1d6516fd1"
   }
 ]
