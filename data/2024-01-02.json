@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "喜茶发布2023年度报告，显示门店数突破3200家，同比增长280%，会员总量超1亿。报告中提及，直营门店连续12个月实现月销售同比大幅增长，最高增幅达80% ...",
+    "id": "8W0yzpeWcwp",
+    "order": 1704168656566,
+    "createdAt": "2024-01-02T04:05:43.000Z",
+    "publishDate": "2024-01-02T04:10:56.566Z",
+    "title": "喜茶公布年度报告：会员总数破1亿，门店规模同比增280%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-02 12:05:43",
+    "uuid": "5c5a51d2-c1f2-4333-bbf8-fc292074954e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "日本麦克赛尔公司成功研发一款直径约23毫米、高度约27毫米的圆柱形全固态电池，具有大容量、耐热性强、寿命长、抗冲击性好等特点 ...",
+    "id": "8W0mnO1kklH",
+    "order": 1704168108306,
+    "createdAt": "2024-01-02T04:01:48.000Z",
+    "publishDate": "2024-01-02T04:01:48.306Z",
+    "title": "日企研发出新圆柱状固态电池 容量增至25倍 今年出货",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-02 12:01:48",
+    "uuid": "a020f0f8-a9c0-4448-9684-0e0243203607"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国和欧盟计划对苹果实施一系列监管决定，可能导致苹果在2024年面临法律清算，影响其年营收850亿美元的服务业务 ...",
+    "id": "8W0oECZ6Da1",
+    "order": 1704168106313,
+    "createdAt": "2024-01-02T04:01:46.000Z",
+    "publishDate": "2024-01-02T04:01:46.313Z",
+    "title": "年赚 850 亿美元，苹果服务业务 2024 年面临新挑战",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-02 12:01:46",
+    "uuid": "447d0cd0-a07d-46b5-a96d-f37f9d9cafe8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "每经网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "苏州宜联生物医药有限公司与罗氏达成全球合作，共同开发针对实体瘤的下一代抗体偶联药物YL211。根据协议，罗氏获得全球范围内的独家开发、制造和商业化权益 ...",
+    "id": "8W0vNAp5CJq",
+    "order": 1704168071899,
+    "createdAt": "2024-01-02T04:01:12.000Z",
+    "publishDate": "2024-01-02T04:01:11.899Z",
+    "title": "罗氏牵手宜联生物 斥资近10亿美元引进临床前候选药物以开发下一代c-MET ADC抗癌药",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-02 12:01:12",
+    "uuid": "cd3b89ff-ec52-45aa-b9e2-2f9c7f2cf253"
+  },
+  {
+    "newsArray": [
       { "siteName": "i黑马" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -323,6 +393,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小鹏汽车宣布全国243个城市今日起开通XNGP辅助驾驶，涵盖高速、城市快速路、城市道路等多种场景。此前，XNGP已在新开放的27个城市上线，包括天津、成都、西安等 ...",
+    "id": "8VzuqOgh8d6",
+    "order": 1704168180160,
+    "createdAt": "2024-01-02T01:33:35.000Z",
+    "publishDate": "2024-01-02T04:03:00.160Z",
+    "title": "小鹏汽车：今日起全国 243 个城市开通 XNGP 辅助驾驶",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-02 09:33:35",
+    "uuid": "84c16f8e-9c9f-44d9-8bbd-010ba99b001d"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "财联社" },
       { "siteName": "IT 之家" }
@@ -354,6 +443,27 @@
     "up": false,
     "date": "2024-01-02 09:22:22",
     "uuid": "c42483fe-0863-4530-8d40-c9cb5f0ce7e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "TechWeb" },
+      { "siteName": "CNBeta" }
+    ],
+    "summary": "ASML宣布，其2050i和2100i光刻系统的出口许可证被荷兰政府部分撤销，影响了中国大陆的部分客户 ...",
+    "id": "8W0iVXj7Ahs",
+    "order": 1704168242629,
+    "createdAt": "2024-01-02T00:43:02.000Z",
+    "publishDate": "2024-01-02T04:04:02.629Z",
+    "title": "ASML官网声明：2050及2100光刻机出口许可证已被部分撤销",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-02 08:43:02",
+    "uuid": "18720cd7-b257-44d9-af84-8a1a2ad9e96c"
   },
   {
     "newsArray": [
