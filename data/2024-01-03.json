@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" },
+      { "siteName": "CNBeta" }
+    ],
+    "summary": "功能强大的基于屏幕的文本编辑器 Vim 今天发布了新版本，为新的一年拉开了序幕 ... Vim 9.1 主要是一个错误修复版本，包含\"数百个错误修复\"，但也有一些新功能 ...",
+    "id": "8W2BJgOyruM",
+    "order": 1704254766222,
+    "createdAt": "2024-01-03T04:06:07.000Z",
+    "publishDate": "2024-01-03T04:06:06.222Z",
+    "title": "Vim 9.1 发布，支持流畅滚动和 Vim9 类",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-03 12:06:07",
+    "uuid": "325fa6f0-3f64-49de-9031-dcddbec8a31c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "量子位" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "百度计划将量子实验室及设备捐赠给北京量子信息科学研究院，双方正商讨具体细节。去年阿里达摩院也将量子实验室赠予浙江大学。",
+    "id": "8W2cTR3HjNQ",
+    "order": 1704254731740,
+    "createdAt": "2024-01-03T03:56:22.000Z",
+    "publishDate": "2024-01-03T04:05:31.740Z",
+    "title": "百度拟将量子实验室捐赠予北京量子院",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-03 11:56:22",
+    "uuid": "db2a7dcb-0ce5-414f-9a7f-f5ab00f2909d"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "快科技" },
       { "siteName": "财经网" }
