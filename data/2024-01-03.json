@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "抖音生活服务发布的《2023年度数据报告》显示，该平台总交易额同比增长256%，覆盖全国370多个城市。其中，短视频交易额增长83%，直播交易额增长5.7倍。",
+    "id": "8W2dkQco0w9",
+    "order": 1704261071795,
+    "createdAt": "2024-01-03T05:51:12.000Z",
+    "publishDate": "2024-01-03T05:51:11.795Z",
+    "title": "抖音：2023年抖音生活服务平台总交易额增长256%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-03 13:51:12",
+    "uuid": "d508aa46-ecb0-44e1-bcac-c13470577005"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "TechInsights预测，2024年全球智能手机销量将同比反弹3%，安卓和苹果iOS在全球范围内继续保持双雄地位 ...",
+    "id": "8W2lLM4eQ2R",
+    "order": 1704260794761,
+    "createdAt": "2024-01-03T05:46:34.000Z",
+    "publishDate": "2024-01-03T05:46:34.761Z",
+    "title": "TechInsights：2024年全球智能手机销量将同比反弹3%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-03 13:46:34",
+    "uuid": "0d7d91dc-d66d-48cb-8b6d-cbb9cd965543"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "每经网" },
       { "siteName": "腾讯网" }
