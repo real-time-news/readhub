@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "特斯拉汽车租赁业务在单季业务中所占比例下降，可能与二手电动汽车转售价值疲软有关 ...",
+    "id": "8W40s3eFSAJ",
+    "order": 1704335804037,
+    "createdAt": "2024-01-04T02:36:44.000Z",
+    "publishDate": "2024-01-04T02:36:44.037Z",
+    "title": "特斯拉多次降价后汽车租赁业务占比降至有史以来新低",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 10:36:44",
+    "uuid": "c2f38175-d2bc-4fec-9fe5-7beb9286b281"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "理想汽车公布2023年最后一周的销量，达到1.41万辆，月销量突破5万辆，连续蝉联新势力销量榜冠军。在中国市场新能源品牌销量中，理想汽车排名第四，成为榜单中最高的中国豪华品牌 ...",
+    "id": "8W3F02P27TD",
+    "order": 1704335789088,
+    "createdAt": "2024-01-04T02:36:29.000Z",
+    "publishDate": "2024-01-04T02:36:29.088Z",
+    "title": "理想汽车周销量达1.41万辆 今年冲击月销10万台目标",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 10:36:29",
+    "uuid": "f6ec6af4-17eb-4ec0-a0f1-05011bcd0528"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "比亚迪宋PLUS车系第800000辆新车正式下线，是一款宋PLUS DM-i冠军版。该车系已连续31个月获得插混SUV销量冠军，成为中国品牌最快实现80万辆的新能源SUV ...",
+    "id": "8W3CVOJEXrP",
+    "order": 1704335744834,
+    "createdAt": "2024-01-04T02:35:44.000Z",
+    "publishDate": "2024-01-04T02:35:44.834Z",
+    "title": "蝉联插混 SUV 车型单月销冠两年半，第 80 万辆比亚迪辆宋 PLUS 下线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 10:35:44",
+    "uuid": "ae69ac5b-a92f-4440-9c05-a5cb34feb07d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "每经网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "午后三大指数持续下跌，智能车ETF（159888）近两日大幅回调，跌幅达2.77%，创近4个月新低。成分股如华阳集团、永新光学等均有较大跌幅 ...",
+    "id": "8W2livgeLoG",
+    "order": 1704335675971,
+    "createdAt": "2024-01-04T02:34:35.000Z",
+    "publishDate": "2024-01-04T02:34:35.971Z",
+    "title": "行业趋势不改，智能车ETF（159888）大跌迎布局良机，华阳集团跌超7%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 10:34:35",
+    "uuid": "a684f70a-46dd-4b12-a3aa-2f331aab649f"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "CNBeta" },
       { "siteName": "IT 之家" }
@@ -101,6 +170,42 @@
     "up": false,
     "date": "2024-01-04 10:03:19",
     "uuid": "a23f649c-c2ca-4a98-8227-fd31d32a554d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "CNBeta" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "马斯克旗下的社交媒体平台X近日推出了一项面向小企业的订阅服务，每月仅收费200美元，相较于原先的企业订阅服务“Verified Organizations”的五分之一价格，更具吸引力 ...",
+    "id": "8W48l71gAwp",
+    "order": 1704335727696,
+    "createdAt": "2024-01-04T02:02:43.000Z",
+    "publishDate": "2024-01-04T02:35:27.696Z",
+    "title": "马斯克的X平台推出面向小企业的订阅服务，每月收费200美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 10:02:43",
+    "uuid": "f33a7f65-d70e-461c-ad60-cc919bc0cf6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "CNBeta" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "瑞银集团报告预测，人工智能行业将迎来大规模增长，到2027年市场规模将达到2250亿美元，较2022年的22亿美元有显著飞跃 ...",
+    "id": "8W43lVeAYlS",
+    "order": 1704335727326,
+    "createdAt": "2024-01-04T01:53:41.000Z",
+    "publishDate": "2024-01-04T02:35:27.326Z",
+    "title": "瑞银预计2027年人工智能市场规模达2250亿美元，平均每年增长152%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 09:53:41",
+    "uuid": "ac2c303a-2986-42f4-b733-45986a9d8aee"
   },
   {
     "newsArray": [
@@ -276,6 +381,24 @@
     "up": false,
     "date": "2024-01-04 08:57:18",
     "uuid": "f2e12e02-75e5-47e9-8a0c-b965d69673da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "中国证券网" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "过去一年，光伏行业产量和新增装机创历史新高，但产业链各环节产品价格普遍下跌，暴露出过热扩张、产能过剩、无序竞争等问题 ...",
+    "id": "8W41aQZjMX7",
+    "order": 1704335726324,
+    "createdAt": "2024-01-04T00:55:02.000Z",
+    "publishDate": "2024-01-04T02:35:26.324Z",
+    "title": "装机猛增价格“跳水” 光伏行业过热“后遗症”渐显",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 08:55:02",
+    "uuid": "53378ad0-76df-4cdd-b88f-719f267769d9"
   },
   {
     "newsArray": [
