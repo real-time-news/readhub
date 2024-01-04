@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "CNBeta" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司近日同意和解一起集体诉讼，该诉讼指控苹果故意让骗子利用其礼品卡盗取资金并据为己有。原告称，苹果公司在知情情况下，将被盗资金的70%存入欺诈者账户，自己保留30%作为佣金 ...",
+    "id": "8W409qCcoBQ",
+    "order": 1704335325225,
+    "createdAt": "2024-01-04T02:28:45.000Z",
+    "publishDate": "2024-01-04T02:28:45.225Z",
+    "title": "苹果同意就 iTunes 礼品卡骗局诉讼达成和解",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 10:28:45",
+    "uuid": "e1e6894d-8145-4466-8bde-d17d03d42c9c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LG宣布将在CES 2024上展示首款27英寸2K 480Hz OLED游戏显示器，该显示器响应时间为0.03ms，采用META技术提高图像质量，并拥有业内最低水平的蓝光 ...",
+    "id": "8W48P1Rgm9w",
+    "order": 1704335166066,
+    "createdAt": "2024-01-04T02:26:07.000Z",
+    "publishDate": "2024-01-04T02:26:06.066Z",
+    "title": "LG 开发出业界首款 2K 480Hz OLED 面板",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 10:26:07",
+    "uuid": "fdf8e863-0f0f-46ed-ad57-1e6bc52297bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "上海乐高乐园主题度假区项目正在全速建设中，预计2025年春夏开业，将为金山北部地区带来每年300-500万人次的稳定客流。",
+    "id": "8W37JMvwcP2",
+    "order": 1704335154235,
+    "createdAt": "2024-01-04T02:25:55.000Z",
+    "publishDate": "2024-01-04T02:25:54.235Z",
+    "title": "上海乐高乐园正处全速建设期，将于2025年春夏与游客见面",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-04 10:25:55",
+    "uuid": "72f801da-898c-47ca-95f9-6881527cbc28"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
