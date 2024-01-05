@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "OpenAI正在与数十家出版商谈判，以获得他们的文章授权，用于训练其人工智能模型 ...",
+    "id": "8W5if99gFuv",
+    "order": 1704424754536,
+    "createdAt": "2024-01-05T03:19:15.000Z",
+    "publishDate": "2024-01-05T03:19:14.536Z",
+    "title": "OpenAI正在与数十家出版商谈合作 可开价被曝太小气",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-05 11:19:15",
+    "uuid": "72818ede-89a5-4759-bd1f-7c5a9413e42f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" },
+      { "siteName": "亿欧" }
+    ],
+    "summary": "麦当劳中国与菜鸟集团达成战略合作，推进供应链数字化建设。双方将共同实施菜鸟RFID解决方案，提升麦当劳供应链效率、溯源能力，改善顾客和员工体验 ...",
+    "id": "8W5rVBC2ZAE",
+    "order": 1704424429266,
+    "createdAt": "2024-01-05T03:13:50.000Z",
+    "publishDate": "2024-01-05T03:13:49.266Z",
+    "title": "麦当劳中国携手菜鸟集团，“数字身份证”加速智慧化供应链发展",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-05 11:13:50",
+    "uuid": "6cc36843-b445-406b-856c-0dba8f165396"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "RT-Thread宣布加入对weston多窗口桌面的支持，为国内物联网实时操作系统提供更丰富的功能 ...",
+    "id": "8W5pRvIKdoU",
+    "order": 1704424388396,
+    "createdAt": "2024-01-05T03:13:09.000Z",
+    "publishDate": "2024-01-05T03:13:08.396Z",
+    "title": "RT-Thread 系统内核宣布支持基于 Wayland 的图形多窗口 weston",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-05 11:13:09",
+    "uuid": "2089671d-dcc2-46c6-99b8-5ecbc00c9f66"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "财经网" },
       { "siteName": "财联社" }
