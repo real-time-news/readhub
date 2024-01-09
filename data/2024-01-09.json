@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "猎云网" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "金山办公宣布2024年将持续在AI、协作等方面推进核心产品的技术创新，为市场提供协同高效且安全的办公体验 ...",
+    "id": "8WD5IsHeRsU",
+    "order": 1704806770649,
+    "createdAt": "2024-01-09T13:26:10.000Z",
+    "publishDate": "2024-01-09T13:26:10.649Z",
+    "title": "金山办公：2024年AI和协作依然是创新重点",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-09 21:26:10",
+    "uuid": "32e8c15a-01e7-459b-b071-6cf46ada7ce5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "VR陀螺" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "芯片制造商高通宣布，其新款骁龙XR2+ Gen 2芯片的合作厂商包括国际知名品牌如三星，以及国内空间计算领域企业玩出梦想科技 ...",
+    "id": "8WD0RTzR13z",
+    "order": 1704806472336,
+    "createdAt": "2024-01-09T13:21:12.000Z",
+    "publishDate": "2024-01-09T13:21:12.336Z",
+    "title": "高通公布骁龙XR2+Gen 2芯片首发合作厂商，玩出梦想科技在列",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-09 21:21:12",
+    "uuid": "c5aba150-a160-4296-ae72-a4b26d46ca75"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "雷蛇在CES 2024上宣布，将在其游戏外设中加大可持续发展的投入，使用回收材料。目前，部分鼠标、耳机和键盘等PC配件的再生材料使用比例已达到40% ...",
+    "id": "8WCzD1aIQ1c",
+    "order": 1704806471666,
+    "createdAt": "2024-01-09T13:21:11.000Z",
+    "publishDate": "2024-01-09T13:21:11.666Z",
+    "title": "雷蛇宣布环保新举措：核心 PC 游戏外设将使用回收材料制造",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-09 21:21:11",
+    "uuid": "49acb05d-f1fe-452f-a13d-3ad6c893a02d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "联想在CES 2024上发布了新款平价学习平板电脑Tab M11，专为学习场景设计，配备联想Tab Pen手写笔和支持手写文字转换的应用 ...",
+    "id": "8WD4DQ6787k",
+    "order": 1704805678500,
+    "createdAt": "2024-01-09T13:07:59.000Z",
+    "publishDate": "2024-01-09T13:07:58.500Z",
+    "title": "联想 Tab M11 平板电脑发布：主打学习场景，配备手写笔",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-09 21:07:59",
+    "uuid": "364189d6-c5c6-4c6d-8c26-f637cd5b36d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美国半导体厂商应用材料公司与谷歌合作，开发下一代AR轻量级视觉显示系统，共同加速多代产品、应用与服务的创新。",
+    "id": "8WDDrW5HBGF",
+    "order": 1704805337450,
+    "createdAt": "2024-01-09T13:02:17.000Z",
+    "publishDate": "2024-01-09T13:02:17.450Z",
+    "title": "美国应用材料公司与谷歌宣布合作推进下一代AR计算平台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-09 21:02:17",
+    "uuid": "36f32c26-2002-49c4-9d94-393b4f271d03"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "贝莱德为其比特币现货ETF注入1000万美元种子基金，意味着ETF可能不久后推出。",
+    "id": "8WBtg8ZUVN4",
+    "order": 1704804953137,
+    "createdAt": "2024-01-09T12:55:53.000Z",
+    "publishDate": "2024-01-09T12:55:53.137Z",
+    "title": "贝莱德已为其比特币现货ETF注入1000万美元种子基金",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-09 20:55:53",
+    "uuid": "d48ad51d-8427-460f-b971-9eede8e10157"
+  },
+  {
+    "newsArray": [
       { "siteName": "梅斯医学 MedSci" },
       { "siteName": "财经网" },
       { "siteName": "财联社" }
@@ -15,6 +118,25 @@
     "up": false,
     "date": "2024-01-09 20:22:15",
     "uuid": "ff0f4c6a-4242-4fc0-b1fd-486b662d6294"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "桂冠电力发布业绩预告，预计2023年净利润同比减少61.55%-64.66%，降至11.34-12.34亿元，基本每股收益降至0.13-0.15元/股 ...",
+    "id": "8WDAdRWdqJM",
+    "order": 1704804941060,
+    "createdAt": "2024-01-09T12:13:19.000Z",
+    "publishDate": "2024-01-09T12:55:41.060Z",
+    "title": "桂冠电力：2023年净利同比预减61.55%-64.66%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-09 20:13:19",
+    "uuid": "a6e19b67-8372-44f8-b7b5-013bec6c50c0"
   },
   {
     "newsArray": [
@@ -218,6 +340,27 @@
     "up": false,
     "date": "2024-01-09 17:56:16",
     "uuid": "8e2d5fbe-6c67-4452-b670-2f52c35f423d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "中国证券网" },
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "重庆市发布《重庆市集成电路封测产业发展行动计划（2023—2027年）》，目标到2027年，全市集成电路封测产业营收突破200亿元，新增营收超过5亿元的企业2家以上，化合物半导体、功率半导体、硅光芯片、MEMS传感器封测水平全国领先，建成具有重要国际影响力的集成电路封测产业集群。",
+    "id": "8WD0dDfqYEt",
+    "order": 1704804905678,
+    "createdAt": "2024-01-09T09:54:22.000Z",
+    "publishDate": "2024-01-09T12:55:05.678Z",
+    "title": "重庆：到2027年 全市集成电路封测产业营收突破200亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-09 17:54:22",
+    "uuid": "0b5cf4a0-e3ed-4256-8b23-f94b51b09445"
   },
   {
     "newsArray": [
