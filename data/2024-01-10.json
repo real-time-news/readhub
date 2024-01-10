@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "高通公司CEO克里斯蒂亚诺·阿蒙表示，高通的车用芯片业务有望超过销售预期，有助于降低对电子产品芯片业务的依赖 ...",
+    "id": "8WDzj4bJaWt",
+    "order": 1704852956902,
+    "createdAt": "2024-01-10T02:15:56.000Z",
+    "publishDate": "2024-01-10T02:15:56.902Z",
+    "title": "高通CEO：高通车用芯片业务有望超额完成销售目标",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-10 10:15:56",
+    "uuid": "766b4998-27be-4cef-88bf-fb008dac58c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "集运欧线主力合约跌停，跌幅20%，报1773.4点。",
+    "id": "8WCPpg1nlWF",
+    "order": 1704852716613,
+    "createdAt": "2024-01-10T02:11:56.000Z",
+    "publishDate": "2024-01-10T02:11:56.613Z",
+    "title": "集运欧线主力合约触及跌停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-10 10:11:56",
+    "uuid": "8e669f70-1034-4553-a346-d5a893c92b34"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌在CES上推出全新Quick Share功能，与三星合作开发，旨在取代2020年推出的Google Nearby Share ...",
+    "id": "8WE0RWKH7Dj",
+    "order": 1704852340491,
+    "createdAt": "2024-01-10T02:05:41.000Z",
+    "publishDate": "2024-01-10T02:05:40.491Z",
+    "title": "谷歌宣布与三星合作推出安卓系统统一的 Quick Share 附近共享应用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-10 10:05:41",
+    "uuid": "cef5673a-bf4f-42b9-a4f7-ce195e2d38c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "VR陀螺" },
+      { "siteName": "IT 之家" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "苹果首款混合现实（MR）头显设备VisionPro将于2月2日正式发售。分析师预计，2024年VisionPro出货量约50万台，五年后产量增至1260万台 ...",
+    "id": "8WDz34ZogoF",
+    "order": 1704852056005,
+    "createdAt": "2024-01-10T02:00:56.000Z",
+    "publishDate": "2024-01-10T02:00:56.005Z",
+    "title": "苹果Vision Pro将在美发售 XR行业发展提速",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-10 10:00:56",
+    "uuid": "7deda5ff-4d04-4cbd-b5c2-d0b1d253c1d5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果获得了一项关于折叠屏的技术专利，专利描述了一种在折叠处用化学方法制造纹理玻璃的方法，以防止玻璃破裂 ...",
+    "id": "8WDyg5aM8kg",
+    "order": 1704851455911,
+    "createdAt": "2024-01-10T01:50:56.000Z",
+    "publishDate": "2024-01-10T01:50:55.911Z",
+    "title": "苹果柔性折叠屏新技术专利获批，可防止折叠处玻璃破裂",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-10 09:50:56",
+    "uuid": "66cf6266-fc37-41ee-9aaa-aa98665457bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司正在考虑将其隔空投送（AirDrop）功能采用Li-Fi技术进行数据传输，以替代传统的蓝牙和Wi-Fi ...",
+    "id": "8WDwAdtraGM",
+    "order": 1704850899050,
+    "createdAt": "2024-01-10T01:41:39.000Z",
+    "publishDate": "2024-01-10T01:41:39.050Z",
+    "title": "苹果隔空投送（AirDrop）新专利获批，利用 Li-Fi 实现高效数据传输",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-10 09:41:39",
+    "uuid": "9ad1b6f7-e6c2-434d-a10a-324b38efdeca"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "财联社" },
       { "siteName": "财联社" }
