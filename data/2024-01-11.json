@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "当地时间周三（1月10日），OpenAI推出在线商店GPT Store ...",
+    "id": "8WFKcloSy4C",
+    "order": 1704925921012,
+    "createdAt": "2024-01-10T22:26:03.000Z",
+    "publishDate": "2024-01-10T22:32:01.012Z",
+    "title": "OpenAI正式推出GPT Store",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-11 06:26:03",
+    "uuid": "9c95caa2-be66-417c-930a-ca7fba962f82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "当地时间周三，美国证券交易委员（SEC）史上首次批准比特币现货 ETF，授权11只ETF周四开始上市交易。",
+    "id": "8WFUHKmPsVI",
+    "order": 1704926093575,
+    "createdAt": "2024-01-10T21:41:08.000Z",
+    "publishDate": "2024-01-10T22:34:53.575Z",
+    "title": "美国 SEC 批准比特币ETF申请",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-11 05:41:08",
+    "uuid": "7b0d3a2f-2c38-405c-bd3c-26181e27985c"
+  }
+]
