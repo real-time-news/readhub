@@ -1,6 +1,27 @@
 [
   {
     "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国联邦航空局下令170多架波音737 Max 9飞机停飞，因为一架阿拉斯加航空的波音737 Max 9客机舱门在飞行途中脱落 ...",
+    "id": "8WE2biT336R",
+    "order": 1704855689868,
+    "createdAt": "2024-01-10T02:45:48.000Z",
+    "publishDate": "2024-01-10T03:01:29.868Z",
+    "title": "波音CEO承认公司存在不足 将公开透明地处理阿拉斯加航空事故",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-10 10:45:48",
+    "uuid": "fa298fac-f047-4448-b991-234bbc718332"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -364,6 +385,25 @@
     "up": false,
     "date": "2024-01-10 07:43:02",
     "uuid": "a1f515a5-7001-4374-8a7d-1e87265829d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果开发者网站最新说明显示，开发适用于Vision Pro头显的visionOS应用程序需使用搭载Apple Silicon芯片的Mac设备 ...",
+    "id": "8WDuivcKFhm",
+    "order": 1704856264517,
+    "createdAt": "2024-01-09T23:15:56.000Z",
+    "publishDate": "2024-01-10T03:11:04.517Z",
+    "title": "苹果更新文档：visionOS 应用程序开发需要 Apple Silicon Mac",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-10 07:15:56",
+    "uuid": "9bf9df9a-a795-40a9-babe-124c5d366c0c"
   },
   {
     "newsArray": [
