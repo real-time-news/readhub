@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "2024年初以来，我国有三款创新药获批上市，包括齐进药业的中药创新药儿茶上清丸、卫材的仑卡奈单抗注射液以及礼来的加卡奈珠单抗注射液 ...",
+    "id": "8WEfugBNzZ1",
+    "order": 1704938459225,
+    "createdAt": "2024-01-11T02:01:00.000Z",
+    "publishDate": "2024-01-11T02:00:59.225Z",
+    "title": "开年以来3款创新药获批，多款新药有望于2024年上市",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-11 10:01:00",
+    "uuid": "fe0a2e2c-32a6-4def-be2d-309e73861bcf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "DoNews" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Canalys报告显示，2023年全球新能源汽车销量预计增长29%至1370万辆，渗透率达17%。中国将继续位居全球新能源汽车市场首位，本地销量达760万辆，占全球市场的55.5% ...",
+    "id": "8WFjdHvlDHA",
+    "order": 1704937878478,
+    "createdAt": "2024-01-11T01:51:18.000Z",
+    "publishDate": "2024-01-11T01:51:18.478Z",
+    "title": "Canalys：2024年全球新能源汽车市场将稳健增长27% 达1750万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-11 09:51:18",
+    "uuid": "e845de75-352d-4a4c-8578-eefbd2b56d31"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星正在研发一种名为LLW DRAM的新型内存，具有低延迟、高带宽和低功耗特性。该内存特别适用于运行大型语言模型的设备，但其性能优势也适用于各种客户端工作负载 ...",
+    "id": "8WErLUj9ku1",
+    "order": 1704937833062,
+    "createdAt": "2024-01-11T01:50:33.000Z",
+    "publishDate": "2024-01-11T01:50:33.062Z",
+    "title": "三星研发全新内存技术 LLW DRAM，拥有超高带宽、低延迟、低功耗",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-11 09:50:33",
+    "uuid": "1473f6bb-c012-4892-8017-9842ce27a2cf"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
