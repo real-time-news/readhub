@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "Meta（前身为 Facebook）就因使用包含大量盗版书籍的“Books3”数据集训练其 LLAM 1 和 LLAM 2 模型而面临包括喜剧演员 Sarah Silverman 和作家 Richard Kadrey 在内的一众作者的集体诉讼 ...",
+    "id": "8WLKw70Tap9",
+    "order": 1705236216839,
+    "createdAt": "2024-01-14T12:43:36.000Z",
+    "publishDate": "2024-01-14T12:43:36.839Z",
+    "title": "Meta 承认使用盗版书籍来训练 AI，并拒绝赔偿作家",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-14 20:43:36",
+    "uuid": "2392f10c-3771-4214-be78-8b634624a0a8"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
