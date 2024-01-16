@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "比亚迪发布整车智能化架构“璇玑”，包括中央大脑、车端AI、云端AI、车联网、5G网、卫星网等组成部分 ...",
+    "id": "8WOo1t34srG",
+    "order": 1705408557089,
+    "createdAt": "2024-01-16T12:35:57.000Z",
+    "publishDate": "2024-01-16T12:35:57.089Z",
+    "title": "比亚迪发布整车智能化架构“璇玑”及璇玑AI大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 20:35:57",
+    "uuid": "116cea8f-f58a-4df0-8905-0884ce260992"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "均胜电子发布预计2023年净利润为10.89亿元，同比增长176%，其中第四季度单季净利润约为3.1亿元，同比增长18%。",
+    "id": "8WOcdAo2cZq",
+    "order": 1705408266036,
+    "createdAt": "2024-01-16T12:31:06.000Z",
+    "publishDate": "2024-01-16T12:31:06.036Z",
+    "title": "均胜电子：预计2023年净利润约10.89亿元 同比增长176%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 20:31:06",
+    "uuid": "559144fa-8115-4352-adff-6683fa95a957"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "微软 CEO 萨蒂亚・纳德拉在最近的一次采访中谈到了公司与 OpenAI 的合作关系，强调稳定性、一致性和良好治理的重要性 ...",
+    "id": "8WOltJ6hs1G",
+    "order": 1705407903532,
+    "createdAt": "2024-01-16T12:21:07.000Z",
+    "publishDate": "2024-01-16T12:25:03.532Z",
+    "title": "微软市值超越苹果，纳德拉：不应过度关注股价",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 20:21:07",
+    "uuid": "e4be220b-8adb-4acb-a936-50472b428d03"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "阿斯顿·马丁全新设计的Vantage车型将于2月12日正式亮相。该车为“真正的驾驶者”打造，虽然细节仍保密，但已有硬顶和敞篷版本谍照曝光 ...",
+    "id": "8WO5jjI4U6R",
+    "order": 1705407592621,
+    "createdAt": "2024-01-16T12:19:52.000Z",
+    "publishDate": "2024-01-16T12:19:52.621Z",
+    "title": "2024款阿斯顿·马丁Vantage将于2月12日正式亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 20:19:52",
+    "uuid": "36c27b50-66a3-4e82-99d2-db8d58a17677"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "三一重能计划以1亿元-2亿元回购股份，回购价格上限为33元/股。",
+    "id": "8WOk7O5x9Fw",
+    "order": 1705407590902,
+    "createdAt": "2024-01-16T12:19:50.000Z",
+    "publishDate": "2024-01-16T12:19:50.902Z",
+    "title": "三一重能：拟以1亿元-2亿元回购公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 20:19:50",
+    "uuid": "65c6cd7b-daf4-4f34-b4d8-86238d0ee0cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "在2024年国际消费电子展上，大疆车载展示了成行平台的首个领航城区功能，该功能基于高通骁龙 Ride平台自动驾驶系统级芯片实现 ...",
+    "id": "8WOgCQhooVL",
+    "order": 1705407581763,
+    "createdAt": "2024-01-16T12:19:41.000Z",
+    "publishDate": "2024-01-16T12:19:41.763Z",
+    "title": "大疆车载“成行平台”首个城区 NOA 功能演示亮相，不依赖高精地图和激光雷达",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 20:19:41",
+    "uuid": "d57b7ad8-9514-424f-a829-6017c60b0277"
+  },
+  {
+    "newsArray": [
       { "siteName": "21经济网" },
       { "siteName": "证券时报网" },
       { "siteName": "中证网" }
