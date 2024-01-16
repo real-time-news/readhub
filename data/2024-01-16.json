@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "起亚公司计划在泰国设立销售子公司，但放弃在当地建立组装厂。",
+    "id": "8WOXcZBYL0k",
+    "order": 1705395670459,
+    "createdAt": "2024-01-16T09:01:10.000Z",
+    "publishDate": "2024-01-16T09:01:10.459Z",
+    "title": "起亚据悉放弃在泰国建立组装厂的计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 17:01:10",
+    "uuid": "b9eb0d09-3813-430c-8b8e-b6e9e871afe6"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "新浪科技" },
       { "siteName": "澎湃新闻" },
@@ -183,6 +200,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "OpenAI 首席运营官 Brad Lightcap 日前接受彭博社采访时表示，ChatGPT Enterprise（企业版）目前已有 15 万名用户， 260 家公司企业在“积极使用”。",
+    "id": "8WMshmPsCLG",
+    "order": 1705395423300,
+    "createdAt": "2024-01-16T07:51:19.000Z",
+    "publishDate": "2024-01-16T08:57:03.300Z",
+    "title": "OpenAI：ChatGPT 企业版已经有 15 万用户，260 家公司积极使用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 15:51:19",
+    "uuid": "3f390bac-9abe-4eb3-b45d-ecd55284d303"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "搜狐科技" },
       { "siteName": "网易科技" }
@@ -197,6 +232,25 @@
     "up": false,
     "date": "2024-01-16 15:41:29",
     "uuid": "7986c761-fdee-4dba-992d-2096726c94cd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "阿里云和阿里巴巴在打击山寨通义千问App的维权案件中获胜，被告飞游科技公司被判侵犯注册商标及虚假宣传，需赔偿经济损失及维权费用，并在官网发布道歉声明 ...",
+    "id": "8WOEUN1V9Pa",
+    "order": 1705395821550,
+    "createdAt": "2024-01-16T07:40:59.000Z",
+    "publishDate": "2024-01-16T09:03:41.550Z",
+    "title": "国内大模型打假胜诉第一案，阿里通义千问获赔经济损失及公开道歉",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 15:40:59",
+    "uuid": "072999a1-189d-4eb5-aa53-300c53a71672"
   },
   {
     "newsArray": [
@@ -250,6 +304,50 @@
     "up": false,
     "date": "2024-01-16 15:21:23",
     "uuid": "749b1135-a212-41ca-8532-4a41b7e97e17"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌近日对负责 Pixel、Nest 和 Fitbit 硬件的设备与服务团队进行重组，采用职能型组织模式，整合硬件工程资源 ...",
+    "id": "8WOKjtzMVJE",
+    "order": 1705395831586,
+    "createdAt": "2024-01-16T07:19:12.000Z",
+    "publishDate": "2024-01-16T09:03:51.586Z",
+    "title": "谷歌重组硬件部门：整合 Pixel、Nest 和 Fitbit 团队，AR 硬件全面转入 OEM 模式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 15:19:12",
+    "uuid": "1cc6de65-6381-4254-80e7-9deeffcf7e71"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "36Kr" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "品玩" },
+      { "siteName": "和讯网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财联社" },
+      { "siteName": "环球网科技" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "在智谱AI技术开放日上，张鹏发布了新一代底层大模型GLM-4，性能相较GLM-3提升60%，接近GPT-4 ...",
+    "id": "8WOQ6mUxP6w",
+    "order": 1705395862397,
+    "createdAt": "2024-01-16T07:09:53.000Z",
+    "publishDate": "2024-01-16T09:04:22.397Z",
+    "title": "智谱AI发布新一代基座模型GLM-4 性能逼近GPT-4",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-16 15:09:53",
+    "uuid": "edd73b2a-05f2-4e05-9d69-600ff4476298"
   },
   {
     "newsArray": [
