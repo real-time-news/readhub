@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "宁波镁麒电子商务有限公司发生工商变更，郑明卸任法定代表人、执行董事、经理，由李文利接任 ...",
+    "id": "8WY7SDa4kdb",
+    "order": 1705905061828,
+    "createdAt": "2024-01-22T06:31:01.000Z",
+    "publishDate": "2024-01-22T06:31:01.828Z",
+    "title": "李佳琦母亲任镁麒电商执行董事  此前已成第一大股东",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-22 14:31:01",
+    "uuid": "cf7b0699-d48e-411a-95a0-5474fb81ea91"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英特尔首席执行官帕特·基辛格宣布，公司计划在四年内完成五个工艺节点，到2025年达到顶峰，包括Intel 7、Intel 4、Intel 3、Intel 20A和Intel 18A工艺 ...",
+    "id": "8WY5Ixb5I1E",
+    "order": 1705905045659,
+    "createdAt": "2024-01-22T06:30:45.000Z",
+    "publishDate": "2024-01-22T06:30:45.659Z",
+    "title": "英特尔 CEO 基辛格：服务器和 PC 产品让步，定制芯片将在 2025 年后引领潮流",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-22 14:30:45",
+    "uuid": "59240c57-8348-4a2d-8973-2daa76e240d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "雷科技" }
+    ],
+    "summary": "生成式AI技术正快速进步，并开始在各种终端设备上得到应用。高通公司CEO安蒙预测，生成式AI将深刻改变用户与终端的交互方式，并指出该技术已进入向终端侧迁移的新阶段 ...",
+    "id": "8WYLBtocozT",
+    "order": 1705904766914,
+    "createdAt": "2024-01-22T06:26:07.000Z",
+    "publishDate": "2024-01-22T06:26:06.914Z",
+    "title": "高通CEO安蒙：生成式AI将变革用户与终端交互的方式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-22 14:26:07",
+    "uuid": "1d2801c5-0c2f-46fc-a34a-99d2fa0c5e6f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "福州市清口茶业有限公司成立，法定代表人为林宏，注册资本2000万人民币，经营范围广泛。该公司由茶百道旗下四川蜀信同源企业管理咨询有限公司和福州市青口二茶茶叶有限公司分别持股67%和33% ...",
+    "id": "8WYJ0tjInPh",
+    "order": 1705905062131,
+    "createdAt": "2024-01-22T06:20:40.000Z",
+    "publishDate": "2024-01-22T06:31:02.131Z",
+    "title": "茶百道高端茶叶生产公司成立  茶百道高端茶叶生产基地落户福州",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-22 14:20:40",
+    "uuid": "2301bf74-be0f-45c0-848b-aecebef50a09"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "DoNews" },
+      { "siteName": "速途网" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "花生好车，一家领先的汽车新零售平台，近日完成了6.5亿元人民币的新一轮融资，投资方为地方国资 ...",
+    "id": "8WY9A3h5NKY",
+    "order": 1705904153327,
+    "createdAt": "2024-01-22T06:15:54.000Z",
+    "publishDate": "2024-01-22T06:15:53.327Z",
+    "title": "花生好车获地方国资6.5亿元投资 加速新能源汽车零售布局",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-22 14:15:54",
+    "uuid": "f93e624f-224d-4ac8-8e96-6c4b01d97315"
+  },
+  {
+    "newsArray": [
       { "siteName": "开源中国" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
@@ -627,6 +714,26 @@
     "up": false,
     "date": "2024-01-22 09:06:40",
     "uuid": "b8a27825-50b0-4ce1-9ae8-9ac1588fdf64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "雷科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "2023年中国大陆显示器市场出货量同比下降1.5%，为2450万台。线上公开零售市场销量上涨2.1%，但销额下降10.9% ...",
+    "id": "8WXvTS1L9l7",
+    "order": 1705904154357,
+    "createdAt": "2024-01-22T01:06:34.000Z",
+    "publishDate": "2024-01-22T06:15:54.357Z",
+    "title": "2023年中国显示器线上销量TOP10出炉：小米第2",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-22 09:06:34",
+    "uuid": "23a835f8-a145-430d-99c7-db4e78ca6208"
   },
   {
     "newsArray": [
