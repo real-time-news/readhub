@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "易方达基金公司宣布，旗下易方达MSCI美国50ETF因二级市场价格波动过大，将于2024年1月23日开市起至10:30停牌 ...",
+    "id": "8WZaYM1ha0o",
+    "order": 1705969255253,
+    "createdAt": "2024-01-23T00:20:55.000Z",
+    "publishDate": "2024-01-23T00:20:55.253Z",
+    "title": "易方达：美国50ETF将于今日开市起至10:30停牌",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-23 08:20:55",
+    "uuid": "c7741ef0-9ce3-4b8a-9fb2-723115e7a440"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "港股上市公司今年以来的回购力度显著增强，已有92家公司回购了7.16亿股，总回购金额达到207亿港元，同比增长209% ...",
+    "id": "8WZOl1Ikxg3",
+    "order": 1705969157746,
+    "createdAt": "2024-01-23T00:19:17.000Z",
+    "publishDate": "2024-01-23T00:19:17.746Z",
+    "title": "行业龙头领衔 年内92家港股公司发起回购",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-23 08:19:17",
+    "uuid": "83d60bf6-f22a-4bce-a747-1ee68591c34c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "NVIDIA旗下RTX Remix今日起开启公测，同步推出《半条命2》RTX版，游戏由Orbifold Studios制作，支持全景光线追踪等技术 ...",
+    "id": "8WXw0bVrzC6",
+    "order": 1705968967209,
+    "createdAt": "2024-01-23T00:16:07.000Z",
+    "publishDate": "2024-01-23T00:16:07.209Z",
+    "title": "英伟达 RTX Remix 测试版今日上线，玩家可游玩光追加持《半条命 2》游戏",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-23 08:16:07",
+    "uuid": "982832f1-84e0-4ce9-9d1f-63e8b1dd1e08"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "智通财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "四环医药旗下子公司惠升生物制药的脯氨酸加格列净片（惠优静®）获得国家药监局批准上市，用于治疗2型糖尿病 ...",
+    "id": "8WZSLoKQWNi",
+    "order": 1705968650319,
+    "createdAt": "2024-01-23T00:01:10.000Z",
+    "publishDate": "2024-01-23T00:10:50.319Z",
+    "title": "四环医药(00460)附属惠升生物研发的降糖药脯氨酸加格列净片获批上市",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-23 08:01:10",
+    "uuid": "6e6a5b0d-f843-4c21-ab42-67fbd2d5e8f1"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
