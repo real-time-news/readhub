@@ -1,6 +1,62 @@
 [
   {
     "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "石油股早盘回暖，中国石油、中国石化、中海油及中海油服股价均有所上涨。",
+    "id": "8Wd4jaOdkzl",
+    "order": 1706162813616,
+    "createdAt": "2024-01-25T06:05:54.000Z",
+    "publishDate": "2024-01-25T06:06:53.616Z",
+    "title": "石油股早盘回暖 中国石油上涨4%中国石化涨逾3%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 14:05:54",
+    "uuid": "fdd6dfc1-ebac-4cc6-920d-7f26999baebd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "电力板块午后走高，涪陵电力涨停，多家个股涨超5%。",
+    "id": "8WdIbzNKDRt",
+    "order": 1706162502832,
+    "createdAt": "2024-01-25T06:01:43.000Z",
+    "publishDate": "2024-01-25T06:01:42.832Z",
+    "title": "电力板块震荡走高，涪陵电力涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 14:01:43",
+    "uuid": "fe10b5b1-6b29-4dec-ab89-af5a848888f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达推出了新功能RTX Video HDR，可将SDR视频转换为HDR，需配备支持HDR10的显示器和Windows系统HDR功能 ...",
+    "id": "8WcEYwrj3hx",
+    "order": 1706162492117,
+    "createdAt": "2024-01-25T06:01:32.000Z",
+    "publishDate": "2024-01-25T06:01:32.117Z",
+    "title": "英伟达 RTX Video HDR 功能上线，可通过 AI 将 SDR 视频转换为 HDR",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 14:01:32",
+    "uuid": "3818b8ee-97e5-4b83-bc95-ff15cb0a4b5b"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
@@ -874,6 +930,25 @@
     "up": false,
     "date": "2024-01-25 08:16:06",
     "uuid": "e9e1ed97-b365-4b7e-8312-67616f9ff495"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "量子位" }
+    ],
+    "summary": "特斯拉首席执行官埃隆·马斯克在财报会议上表示支持公司双重股权架构，并希望增强他在特斯拉的影响力，目前他拥有足够的股权但不足以保证其地位稳固 ...",
+    "id": "8WcqQagbrS3",
+    "order": 1706162493647,
+    "createdAt": "2024-01-24T23:51:16.000Z",
+    "publishDate": "2024-01-25T06:01:33.647Z",
+    "title": "马斯克：支持特斯拉双重股权架构",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 07:51:16",
+    "uuid": "7df9423e-0c61-46a3-81e3-5a8c025aeffe"
   },
   {
     "newsArray": [
