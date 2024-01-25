@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "小马智行获得天津市政府部门认定，成为首家获得跨省自动驾驶重卡示范应用许可的企业。该公司将与中国外运合作，在京津塘高速北京段和天津段提供自动驾驶高速货运服务。",
+    "id": "8Wd4Scbirh8",
+    "order": 1706151396769,
+    "createdAt": "2024-01-25T02:56:36.000Z",
+    "publishDate": "2024-01-25T02:56:36.769Z",
+    "title": "小马智行获跨省自动驾驶重卡许可",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 10:56:36",
+    "uuid": "488f3ccc-57e9-47f4-98cb-e58acb480f43"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "和讯网" },
       { "siteName": "智通财经" }
@@ -514,6 +531,25 @@
     "up": false,
     "date": "2024-01-25 02:05:47",
     "uuid": "b6d8d2dc-3048-4fd2-8354-057acd0af528"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "美国能源信息署发布的数据显示，上周美国原油库存大幅减少923万桶，远超彭博用户预期的500万桶以及分析师预期的90.780万桶，前一周库存下降249.2万桶。",
+    "id": "8WcKHvejzdJ",
+    "order": 1706151066638,
+    "createdAt": "2024-01-24T16:30:55.000Z",
+    "publishDate": "2024-01-25T02:51:06.638Z",
+    "title": "美国上周原油库存减少超过900万桶",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 00:30:55",
+    "uuid": "99b5361a-0cc0-42e7-887a-da4eccaa8faf"
   },
   {
     "newsArray": [
