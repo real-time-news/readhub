@@ -1,6 +1,184 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "芯片厂商近期陆续宣布涨价，大容量存储芯片需求旺盛，部分产品采用分货方式，中小容量存储和功率半导体涨价动能正在积蓄 ...",
+    "id": "8WcqQj4LOcF",
+    "order": 1706144497499,
+    "createdAt": "2024-01-25T01:01:38.000Z",
+    "publishDate": "2024-01-25T01:01:37.499Z",
+    "title": "芯片出现涨价苗头，A股半导体公司扩产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 09:01:38",
+    "uuid": "0e72de00-209a-4a5d-8ba2-5fd47ab6e58d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "德勤在其发布的《2024科技、传媒和电信行业预测》报告中指出，2024年生成式AI芯片的销售额有望超过500亿美元 ...",
+    "id": "8WbxlqRSyJq",
+    "order": 1706143885634,
+    "createdAt": "2024-01-25T00:51:26.000Z",
+    "publishDate": "2024-01-25T00:51:25.634Z",
+    "title": "德勤：预计2024年生成式AI芯片销售额超过500亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 08:51:26",
+    "uuid": "b6ba0484-2a46-413f-b86a-85fa902a1e4d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "特斯拉公布其美国得州超级工厂生产的Cybertruck皮卡年产能预计少于12.5万辆，由于制造复杂性，该车型的产能爬坡期将比其他车型更长。",
+    "id": "8Wcrrjs8Es7",
+    "order": 1706143853684,
+    "createdAt": "2024-01-25T00:50:53.000Z",
+    "publishDate": "2024-01-25T00:50:53.684Z",
+    "title": "特斯拉：得州超级工厂Cybertruck皮卡年产能少于12.5万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 08:50:53",
+    "uuid": "3875c2a2-0b8b-4d4c-ae66-330e9acff90c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华泰证券指出，年初央行降准政策将改善流动性环境，支持实体经济，并促进经济复苏 ...",
+    "id": "8WcuisslNJ7",
+    "order": 1706143398194,
+    "createdAt": "2024-01-25T00:43:18.000Z",
+    "publishDate": "2024-01-25T00:43:18.194Z",
+    "title": "华泰证券：估值仓位双低 建议把握银行板块加配机遇",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 08:43:18",
+    "uuid": "1a81217f-8c98-43d3-877a-35365bebc915"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "19家电力上市公司发布2023年业绩预告，其中16家预喜，3家预减 ...",
+    "id": "8WctIvbTadM",
+    "order": 1706143390257,
+    "createdAt": "2024-01-25T00:43:10.000Z",
+    "publishDate": "2024-01-25T00:43:10.257Z",
+    "title": "燃料成本下降用电需求攀升，16家电力上市公司2023年业绩预喜",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 08:43:10",
+    "uuid": "3aae879b-47e6-4c33-a9e3-cce21984460f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "广汽集团旗下的如祺出行获得了深圳市的Robotaxi载人示范应用资质，并已在深圳正式上线自动驾驶出行服务 ...",
+    "id": "8Wcv4FQUfos",
+    "order": 1706142946421,
+    "createdAt": "2024-01-25T00:35:46.000Z",
+    "publishDate": "2024-01-25T00:35:46.421Z",
+    "title": "广汽集团：如祺出行取得深圳Robotaxi载人示范应用资质",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 08:35:46",
+    "uuid": "d1eb9bb8-a6ec-4770-9d25-ede0d4d9f79e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "特斯拉发布了2023财年第四季度及全年财报，总营收为251.67亿美元，同比增长3%。净利润为79.28亿美元，同比增长115% ...",
+    "id": "8Wcmr5fGajj",
+    "order": 1706142654618,
+    "createdAt": "2024-01-25T00:30:54.000Z",
+    "publishDate": "2024-01-25T00:30:54.618Z",
+    "title": "特斯拉Q4净利润下降39% 下一代车辆研发将致销量增速“明显下滑”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 08:30:54",
+    "uuid": "13ff562b-718f-46dd-85a8-af91d5979cdd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "2023年专属商业养老保险结算利率已陆续公布，显示稳健型和进取型账户的结算利率均较2022年有所下降 ...",
+    "id": "8WciZPWUuQO",
+    "order": 1706142082518,
+    "createdAt": "2024-01-25T00:21:22.000Z",
+    "publishDate": "2024-01-25T00:21:22.518Z",
+    "title": "2023年专属商业养老保险结算利率普降",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 08:21:22",
+    "uuid": "fbec744f-f300-4793-a253-3fa893139dcb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果公司获得了一项设计专利，其中展示了未来的智能眼镜可能会配备一个定制的数字表冠，用于控制VR/MR内容。这个数字表冠能够进行多方向的平移、旋转和倾斜，以生成相应的输入信号 ...",
+    "id": "8WcteVSMoGx",
+    "order": 1706141766891,
+    "createdAt": "2024-01-25T00:16:06.000Z",
+    "publishDate": "2024-01-25T00:16:06.891Z",
+    "title": "苹果智能眼镜数字表冠专利获批：灵活交互控制 VR / MR 内容",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 08:16:06",
+    "uuid": "e9e1ed97-b365-4b7e-8312-67616f9ff495"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "2023年1月24日下午，江西省新余市渝水区发生一起严重火灾，致39人死亡、9人受伤。火灾发生在一栋六层的商住建筑内，起火点位于负一楼，火势迅速蔓延至一、二楼的商业店铺 ...",
+    "id": "8Wcp0xu8E8R",
+    "order": 1706141447914,
+    "createdAt": "2024-01-24T23:50:58.000Z",
+    "publishDate": "2024-01-25T00:10:47.914Z",
+    "title": "江西新余火灾12名责任人被控制",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 07:50:58",
+    "uuid": "742b36c7-4fb4-4d67-a5be-e3da3a76ab92"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
