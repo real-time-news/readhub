@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "亿欧" },
+      { "siteName": "界面" }
+    ],
+    "summary": "岩芯数智公司发布自研的新型自然语言处理大模型“Yan模型”，该模型不采用传统的Transformer架构，而是使用非Attention机制，实现了比同等参数Transformer更高的训练效率、推理吞吐和记忆能力。",
+    "id": "8WcHQXMbp4k",
+    "order": 1706175391073,
+    "createdAt": "2024-01-25T09:36:31.000Z",
+    "publishDate": "2024-01-25T09:36:31.073Z",
+    "title": "岩芯数智发布自研大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 17:36:31",
+    "uuid": "697454b7-5d9e-48a2-8b4c-19064d0b7c7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "广东省在2023年新设制造业外资企业数量同比增长29.9%，实际利用外资同比增长11.7%，其中高技术制造业吸引外资增长40.5% ...",
+    "id": "8WdE1tuc5lK",
+    "order": 1706175370500,
+    "createdAt": "2024-01-25T09:36:11.000Z",
+    "publishDate": "2024-01-25T09:36:10.500Z",
+    "title": "广东制造业利用外资规模创5年新高，高技术制造业占比过半",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-25 17:36:11",
+    "uuid": "b5f5da00-f0a6-4245-8d93-3e2f7e95e117"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "创业邦" }
