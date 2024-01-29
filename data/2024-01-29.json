@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软宣布将在Windows 11的下一个版本中正式移除内置的WMIC管理工具，此前该工具已在Windows Server 2016和Windows 10中被弃用 ...",
+    "id": "8WjWYM57mao",
+    "order": 1706530368272,
+    "createdAt": "2024-01-29T12:12:49.000Z",
+    "publishDate": "2024-01-29T12:12:48.272Z",
+    "title": "微软“砍刀部”出动：Win11 系统内置 WMIC 管理工具今起禁用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-29 20:12:49",
+    "uuid": "4fd8f0f6-2a06-450b-87b2-cd2c5add1ffc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星对其人工智能助手Bixby进行了更新，界面设计焕然一新，采用了与One UI一致的设计语言，引入了新动画和配色方案，整体风格更加时尚 ...",
+    "id": "8WkLHmzLLcB",
+    "order": 1706529976479,
+    "createdAt": "2024-01-29T12:06:16.000Z",
+    "publishDate": "2024-01-29T12:06:16.479Z",
+    "title": "三星 Bixby 迎来视觉焕新，UI 和动画更精致",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-29 20:06:16",
+    "uuid": "62001889-6170-4bd7-93d3-b81691decebf"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
