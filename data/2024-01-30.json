@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "DoNews" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英国政府宣布将禁止使用一次性电子烟，以保护儿童健康。这一措施旨在解决青少年电子烟使用增加的问题。",
+    "id": "8WjYKTWXRVi",
+    "order": 1706597530849,
+    "createdAt": "2024-01-30T06:52:10.000Z",
+    "publishDate": "2024-01-30T06:52:10.849Z",
+    "title": "英国政府将禁止一次性电子烟 以保护儿童健康",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-30 14:52:10",
+    "uuid": "1d2cc866-7769-45d5-a7a7-dbc80353ae85"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD推出了适用于Linux的XDNA驱动，扩展了其APU上AI引擎的支持至Windows以外的平台 ...",
+    "id": "8WlLSzHPNtc",
+    "order": 1706597523468,
+    "createdAt": "2024-01-30T06:52:03.000Z",
+    "publishDate": "2024-01-30T06:52:03.468Z",
+    "title": "AMD 推出 XDNA Linux 驱动，扩展 Ryzen AI 至更多系统平台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-30 14:52:03",
+    "uuid": "dd3042f7-6afd-4b27-a5d2-a7eda7ec21f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英特尔CEO帕特·基辛格在季度电话财报会议上透露，下一代客户端处理器Panther Lake将于2025年推出，其在人工智能性能上相较Lunar Lake和Arrow Lake再有2倍的提升 ...",
+    "id": "8WlP1iErgyL",
+    "order": 1706597484710,
+    "createdAt": "2024-01-30T06:51:25.000Z",
+    "publishDate": "2024-01-30T06:51:24.710Z",
+    "title": "英特尔 CEO 基辛格：Panther Lake 处理器将在 AI 性能上大幅提升",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-30 14:51:25",
+    "uuid": "9dc30cc5-af19-4296-aafa-1f4085affc07"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "《杀出重围》新作开发项目已被Eidos蒙特利尔工作室取消，该项目已开发约2年。工作室声明已裁员97人，原计划于2022年底前有481名员工 ...",
+    "id": "8WlJXIgse5s",
+    "order": 1706597483491,
+    "createdAt": "2024-01-30T06:51:23.000Z",
+    "publishDate": "2024-01-30T06:51:23.491Z",
+    "title": "《杀出重围》新作已被开发两年的项目取消",
+    "type": "topic",
+    "up": false,
+    "date": "2024-01-30 14:51:23",
+    "uuid": "8c5baf51-d702-4ac1-ab63-263114735a5c"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "财联社" }
