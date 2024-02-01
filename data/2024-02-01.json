@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "i黑马" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "OpenAI回应用户隐私泄露事件，称一名用户的ChatGPT账号被盗，导致未经授权的登录，登录地点在斯里兰卡而非用户所在的美国纽约。用户发现泄露的对话内容包含大量敏感信息。",
+    "id": "8WoeDT7EPOw",
+    "order": 1706771929358,
+    "createdAt": "2024-02-01T07:18:50.000Z",
+    "publishDate": "2024-02-01T07:18:49.358Z",
+    "title": "OpenAI 回应用户隐私被泄露，其ChatGPT 账号被盗所致",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-01 15:18:50",
+    "uuid": "253204c8-4b2e-4051-8ed5-8a3288ac32e4"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
