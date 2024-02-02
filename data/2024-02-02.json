@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Meta计划今年在其数据中心部署一款新版定制芯片，以支持其人工智能发展，该芯片将与公司购买的其他现成GPU协调工作。",
+    "id": "8Wpgrnexw8T",
+    "order": 1706837453827,
+    "createdAt": "2024-02-02T01:30:53.000Z",
+    "publishDate": "2024-02-02T01:30:53.827Z",
+    "title": "Meta今年将部署自研定制芯片为AI研发助力",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-02 09:30:53",
+    "uuid": "a8c88b00-9696-46f9-8460-4a4aa81c4bde"
+  },
+  {
+    "newsArray": [
       { "siteName": "智通财经" },
       { "siteName": "澎湃新闻" },
       { "siteName": "界面" }
@@ -36,6 +53,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "英特尔公司将推迟在美国俄亥俄州的芯片项目，原计划的投资规模为200亿美元，目前预计项目将在2026年完成，这一消息导致英特尔盘后股价下跌超过1.6%。",
+    "id": "8Wq5X7l6gaJ",
+    "order": 1706836853482,
+    "createdAt": "2024-02-01T23:21:25.000Z",
+    "publishDate": "2024-02-02T01:20:53.482Z",
+    "title": "报道：英特尔推迟俄亥俄州200亿美元芯片项目",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-02 07:21:25",
+    "uuid": "835a9d09-5c81-4895-adfd-c9a3cb9879ed"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "财联社" }
@@ -50,5 +86,23 @@
     "up": false,
     "date": "2024-02-02 07:21:23",
     "uuid": "def7b433-412b-4a7a-827d-49d6ad0887ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "1月份我国百城新建住宅平均价格同比、环比均上涨，而二手住宅平均价格环比持续下跌，同比跌幅扩大。",
+    "id": "8Wp8vaG7uiV",
+    "order": 1706834461476,
+    "createdAt": "2024-02-01T22:51:07.000Z",
+    "publishDate": "2024-02-02T00:41:01.476Z",
+    "title": "机构：二手房价格环比连跌21个月",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-02 06:51:07",
+    "uuid": "660255cf-bc8d-464e-9da5-dd2384a62a0e"
   }
 ]
