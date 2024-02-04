@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "谷歌计划本周对人工智能工具 Bard 进行更新，更名称为 Gemini。此更新符合谷歌在 2023 年底推出的 Gemini 多模态 AI 模型整合策略 ...",
+    "id": "8WtWTGLghaS",
+    "order": 1707010244411,
+    "createdAt": "2024-02-04T01:27:27.000Z",
+    "publishDate": "2024-02-04T01:30:44.411Z",
+    "title": "消息称谷歌将把 Bard 更名为 Gemini，并推出独立应用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-04 09:27:27",
+    "uuid": "ca3b3df9-8a67-4f6d-becc-a4a457e2fa14"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "微星发布了包括万图师和RTX 3050 LP 6G OC刀卡在内的RTX 3050 6G显卡非公版方案，但目前京东只上架了万图师型号，售价为1399元。",
+    "id": "8WtOGl9xpVo",
+    "order": 1707008748717,
+    "createdAt": "2024-02-04T01:05:48.000Z",
+    "publishDate": "2024-02-04T01:05:48.717Z",
+    "title": "微星推出万图师 RTX 3050 6G 显卡，首发价 1399 元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-04 09:05:48",
+    "uuid": "590ed5f3-2c91-460d-a72d-890b8bbefc7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Valve发布的2024年1月Steam硬件调查报告显示，AMD处理器的用户份额增长了0.59个百分点至34.25%，创下了在Steam平台的新高 ...",
+    "id": "8WsT5C07mKj",
+    "order": 1707008456012,
+    "createdAt": "2024-02-04T01:00:56.000Z",
+    "publishDate": "2024-02-04T01:00:56.012Z",
+    "title": "1 月 Steam 软硬件报告：AMD 处理器占 34.25% 创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-04 09:00:56",
+    "uuid": "10bec196-a0a7-4c8b-a9a5-ed854c9528c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "其Deep Natural Anonymization 2.0技术承诺通过人工智能修改图像，而不是模糊处理，来实现面部和数据的匿名化 ...",
+    "id": "8Wsbema8QZi",
+    "order": 1707007869810,
+    "createdAt": "2024-02-04T00:51:10.000Z",
+    "publishDate": "2024-02-04T00:51:09.810Z",
+    "title": "苹果拟收购一家AI初创公司以引入更先进的图像匿名化技术",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-04 08:51:10",
+    "uuid": "16de53b3-1027-405b-ab72-701921920e93"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "中指研究院发布的2024年1月居民置业意愿调研报告显示，计划购房占比环比下降4.4个百分点至19.9%，购房意愿弱于上月 ...",
+    "id": "8WtTc5vLWGA",
+    "order": 1707006634062,
+    "createdAt": "2024-02-04T00:20:56.000Z",
+    "publishDate": "2024-02-04T00:30:34.062Z",
+    "title": "中指研究院：1月半年内计划购房占比环比下降4.4个百分点",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-04 08:20:56",
+    "uuid": "8b109b38-ee37-43e2-898b-de6d89baef0a"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
