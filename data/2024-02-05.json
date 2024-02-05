@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "苹果发布了一种新的脚本编程语言Pkl，旨在解决现有配置文件格式的局限性。Pkl设计注重语法安全、可扩展性和IDE集成，并支持多种编程语言特性 ...",
+    "id": "8WvkkNhT0mQ",
+    "order": 1707139268347,
+    "createdAt": "2024-02-05T13:21:08.000Z",
+    "publishDate": "2024-02-05T13:21:08.347Z",
+    "title": "苹果开源Pkl——用于生成配置的编程语言",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-05 21:21:08",
+    "uuid": "8c8d2b65-8fb8-4092-839d-c68d0209cb28"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "新浪科技" },
       { "siteName": "界面" }
