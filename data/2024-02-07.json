@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "华泰证券研究报告指出，苹果公司预测2024年首季业绩将下滑，可能影响其供应链公司的备货节奏。从产业链的角度来看，今年苹果产业链第一季的收入环比降幅可能超过往年 ...",
+    "id": "8WySg4RajBq",
+    "order": 1707268851793,
+    "createdAt": "2024-02-07T01:20:51.000Z",
+    "publishDate": "2024-02-07T01:20:51.793Z",
+    "title": "华泰证券：当前iPhone处于创新瓶颈期 后续需关注中国市场及新品",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-07 09:20:51",
+    "uuid": "659afa53-9280-4318-bc48-768c27e42582"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "腾讯网" },
       { "siteName": "腾讯网" }
@@ -49,6 +67,24 @@
     "up": false,
     "date": "2024-02-07 07:51:23",
     "uuid": "4e67ea06-e16f-4590-b566-d85268c47e07"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果新推出的Vision Pro头显可作为Mac的扩展显示器使用，目前支持单屏扩展。分析师Ben Thompson透露，苹果内部已在测试多屏扩展功能 ...",
+    "id": "8WyPpfYmEGG",
+    "order": 1707268336821,
+    "createdAt": "2024-02-06T23:46:27.000Z",
+    "publishDate": "2024-02-07T01:12:16.821Z",
+    "title": "消息称苹果 Vision Pro 头显可扩展多个 Mac 显示屏，内部测试已实现",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-07 07:46:27",
+    "uuid": "11d91cd2-e317-4b3d-b8ad-9c4ac125d00a"
   },
   {
     "newsArray": [
@@ -153,5 +189,25 @@
     "up": false,
     "date": "2024-02-07 06:36:12",
     "uuid": "d7382aea-ceb0-478c-9b76-df4abcdba17a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "百胜中国第四财季营收和每股收益均超分析师预期，同店销售增长率也高于预期。预计2024年资本支出在7亿至8.5亿美元之间。",
+    "id": "8WyJ20muVCA",
+    "order": 1707269436371,
+    "createdAt": "2024-02-06T22:00:47.000Z",
+    "publishDate": "2024-02-07T01:30:36.371Z",
+    "title": "百胜中国第四财季调整后每股收益高于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-07 06:00:47",
+    "uuid": "090fcf1e-0c7e-48e1-bc27-0ed6c39b5b80"
   }
 ]
