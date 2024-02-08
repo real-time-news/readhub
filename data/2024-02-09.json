@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软在Windows 11 Build 26052预览版更新中计划引入对Sudo命令的原生支持，以便用户在不打开新的提权控制台的情况下以更高权限运行某些命令 ...",
+    "id": "8X0VBs2kpWd",
+    "order": 1707429653470,
+    "createdAt": "2024-02-08T22:00:53.000Z",
+    "publishDate": "2024-02-08T22:00:53.470Z",
+    "title": "Win11 Build 26052 预览版见，微软确认将原生支持 Sudo 命令",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-09 06:00:53",
+    "uuid": "c0777645-7d29-494e-92e5-37ae814e4a73"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "聊天机器人Copilot进行了更新，推出了更简洁流畅的交互界面和Prompt轮播功能，同时更新上线了网页版和移动版。全球用户已在Copilot进行了50亿次聊天。",
+    "id": "8X0HbD8mZKV",
+    "order": 1707429652524,
+    "createdAt": "2024-02-08T22:00:52.000Z",
+    "publishDate": "2024-02-08T22:00:52.524Z",
+    "title": "微软将发布聊天机器人Copilot 全新升级",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-09 06:00:52",
+    "uuid": "0f488209-71f0-4c8a-8f73-0bf8130b04a9"
+  }
+]
