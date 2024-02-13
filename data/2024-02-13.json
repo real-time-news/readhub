@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国股市收盘时三大指数表现不一，其中纳斯达克指数下跌0.30%，标普500指数微跌0.09%，而道琼斯工业平均指数则上涨0.33%并创历史新高 ...",
+    "id": "8X8EJwZYCaU",
+    "order": 1707784262670,
+    "createdAt": "2024-02-13T00:31:03.000Z",
+    "publishDate": "2024-02-13T00:31:02.670Z",
+    "title": "美股三大指数收盘涨跌不一，Arm大涨近30%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-13 08:31:03",
+    "uuid": "865f7a77-2d08-40da-89ce-3838c9479284"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Stellantis计划从2025年开始在其北美品牌纯电动汽车上使用SAE J3400连接器，以增加充电选择。同时，为了过渡期，将为带有CCS端口的车辆提供适配器。",
+    "id": "8X7obFDjZYm",
+    "order": 1707783044162,
+    "createdAt": "2024-02-13T00:10:44.000Z",
+    "publishDate": "2024-02-13T00:10:44.162Z",
+    "title": "Stellantis宣布将在北美采用特斯拉充电标准",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-13 08:10:44",
+    "uuid": "9bf7e72d-0fc5-4991-8f73-492f5f3880b4"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "界面" },
       { "siteName": "IT 之家" }
