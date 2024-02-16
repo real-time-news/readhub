@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果公司获得了一项新专利，可通过Apple Watch监测汗液，为运动员提供生理数据，并指导运动后的液体摄入 ...",
+    "id": "8XDQGShMJaB",
+    "order": 1708044959352,
+    "createdAt": "2024-02-16T00:55:59.000Z",
+    "publishDate": "2024-02-16T00:55:59.352Z",
+    "title": "苹果 Apple Watch 新专利：通过监测汗液提供实用生理数据",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-16 08:55:59",
+    "uuid": "45d0dc08-0d86-4c53-bb59-60fe8e642667"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "原道推出了一款名为Himalaya的旗舰有线耳机，采用钛合金外壳和10mm动圈单元，首发价为1888元 ...",
+    "id": "8XCanveKNWr",
+    "order": 1708044886676,
+    "createdAt": "2024-02-16T00:54:46.000Z",
+    "publishDate": "2024-02-16T00:54:46.676Z",
+    "title": "原道推出 Himalaya 旗舰有线耳机：10mm 动圈，首发价 1888 元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-16 08:54:46",
+    "uuid": "e7bbc5ca-09b2-4128-85a4-5e131578094e"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -134,5 +168,24 @@
     "up": false,
     "date": "2024-02-16 00:21:07",
     "uuid": "56142fd6-0d1a-47a6-8667-268a2a8e9add"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "三星正在准备供应苹果未来MacBook机型的OLED显示屏，并正在组装第八代OLED面板生产线。据报告，这些面板将于2027年应用于新款MacBook机型 ...",
+    "id": "8XCgWEMjg0f",
+    "order": 1708044876669,
+    "createdAt": "2024-02-15T16:01:07.000Z",
+    "publishDate": "2024-02-16T00:54:36.669Z",
+    "title": "消息称三星将加入苹果未来 MacBook 机型的 OLED 显示屏供应链",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-16 00:01:07",
+    "uuid": "150ef5ce-8c44-4829-9268-9a166a187538"
   }
 ]
