@@ -1,6 +1,61 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "新款Slimbook Manjaro游戏笔记本近日发布，搭载英特尔酷睿i7-13620H处理器、英伟达GeForce RTX 4060显卡，配备15.6英寸2560 x 1440分辨率165 Hz显示屏和Manjaro Gaming Edition操作系统.该本支持最高64GB DDR5-5200内存，两个M.2 2280插槽，售价1399欧元起.",
+    "id": "8XDwlRrs0Lv",
+    "order": 1708074765025,
+    "createdAt": "2024-02-16T09:12:45.000Z",
+    "publishDate": "2024-02-16T09:12:45.025Z",
+    "title": "Slimbook Manjaro 游戏本发布：RTX 4060 显卡，Linux 定制系统",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-16 17:12:45",
+    "uuid": "6a97bf05-423b-4740-ba0b-f283d2903b9d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "三星正在开发一款名为“Xol”的新款Chromebook笔记本，该产品将搭载一个专门的“Assistant”按键，用于调用谷歌Gemini模型 ...",
+    "id": "8XDucUu0GA0",
+    "order": 1708074666407,
+    "createdAt": "2024-02-16T09:11:07.000Z",
+    "publishDate": "2024-02-16T09:11:06.407Z",
+    "title": "三星正研发新款 Chromebook：配专用 AI 按钮、Raptor Lake 处理器",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-16 17:11:07",
+    "uuid": "a16c0d6b-6ecf-4520-a08f-b33988a0fa00"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国商飞一架C919飞机首次在国外亮相，参加2024年新加坡航空展。共有5架国产飞机参展，其中4架已抵达新加坡。",
+    "id": "8XDyv8zFyoE",
+    "order": 1708074636602,
+    "createdAt": "2024-02-16T09:01:01.000Z",
+    "publishDate": "2024-02-16T09:10:36.602Z",
+    "title": "一架C919飞机抵达新加坡 将参加2024年新加坡航空展",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-16 17:01:01",
+    "uuid": "92a2887d-d825-4ecd-958e-cd67bf005202"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "手机中国" }
