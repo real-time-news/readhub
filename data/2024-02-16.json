@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌发布了一款名为Magika的新工具，基于人工智能技术，可快速识别文件格式和内容类型。Magika性能优越，准确度和召回率均达到99%以上，比现有工具性能高出约20% ...",
+    "id": "8XDlKtuDLwh",
+    "order": 1708065639617,
+    "createdAt": "2024-02-16T06:40:39.000Z",
+    "publishDate": "2024-02-16T06:40:39.617Z",
+    "title": "谷歌开源新工具Magika：基于AI高效识别文件格式和内容",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-16 14:40:39",
+    "uuid": "9ecb5b5d-436b-44ff-8655-8ac4efe69dfa"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -15,6 +32,24 @@
     "up": false,
     "date": "2024-02-16 14:21:07",
     "uuid": "75614595-8b0a-444b-a536-6e719ac9c58e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "2月16日下午，食品饮料港股集体上涨，珍酒李渡涨幅达17%，华润啤酒、周黑鸭和蒙牛乳业涨7%，奈雪的茶、怡海国际等也有所上涨。",
+    "id": "8XDaccPWbbd",
+    "order": 1708065642438,
+    "createdAt": "2024-02-16T06:20:51.000Z",
+    "publishDate": "2024-02-16T06:40:42.438Z",
+    "title": "食品饮料港股走强，珍酒李渡盘中涨超20%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-16 14:20:51",
+    "uuid": "4e3a6dde-f8d5-484b-97af-8e9e540f5149"
   },
   {
     "newsArray": [
@@ -106,6 +141,24 @@
     "up": false,
     "date": "2024-02-16 12:45:53",
     "uuid": "5e680e19-fbbe-44a9-93e6-aa9358979e5b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "谷歌推出新一代人工智能模型Gemini 1.5 Pro，这是一种中型多模式模型，性能与最大模型1.0 Ultra相似，并引入了长上下文理解的新特性 ...",
+    "id": "8XDTT7yuLtU",
+    "order": 1708065661425,
+    "createdAt": "2024-02-16T04:11:22.000Z",
+    "publishDate": "2024-02-16T06:41:01.425Z",
+    "title": "谷歌推出Gemini 1.5版本：可处理100万token",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-16 12:11:22",
+    "uuid": "8a5b5503-f91d-4456-969e-cd0f687ecd12"
   },
   {
     "newsArray": [
