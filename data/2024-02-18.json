@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果播客应用近日出现后端Bug，导致用户无法获取更新后的播客剧集，相关内容也无法自动下载至待播队列。受影响平台包括iOS、macOS、tvOS、watchOS及特斯拉汽车 ...",
+    "id": "8XG2TySmpNN",
+    "order": 1708228146882,
+    "createdAt": "2024-02-18T03:49:06.000Z",
+    "publishDate": "2024-02-18T03:49:06.882Z",
+    "title": "苹果播客应用近日出现后端Bug 用户库中剧集内容无法更新",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-18 11:49:06",
+    "uuid": "08b08948-81de-4608-9f42-781ce7ed182d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "TIOBE编程社区指数近日发布了2024年2月的编程语言排行榜，Python仍居首位，占比15.16%，而C、C++、Java和C#分别位列二至五位 ...",
+    "id": "8XFgfQvXwMe",
+    "order": 1708228138929,
+    "createdAt": "2024-02-18T03:48:58.000Z",
+    "publishDate": "2024-02-18T03:48:58.929Z",
+    "title": "TIOBE 发布 2 月编程指数排行榜，Go 语言首度进入排名前 10",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-18 11:48:58",
+    "uuid": "f60d10d8-9a5b-4839-a4dd-aec28699184a"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" }
