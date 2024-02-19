@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "介绍了一种新视频编码技术SGAP，它通过提升边缘、平滑区域和方向纹理区域的预测精度，实现了在保持视频质量的同时降低比特率的目的 ...",
+    "id": "8XIcYXvn2B8",
+    "order": 1708322819808,
+    "createdAt": "2024-02-19T06:06:59.000Z",
+    "publishDate": "2024-02-19T06:06:59.808Z",
+    "title": "比特率降低 7.31%，SGAP 有潜力颠覆视频内容编码和传输方式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 14:06:59",
+    "uuid": "03828bd6-7245-4910-b69c-8b27573c45e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财经网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "东方甄选开始试水“小时达”服务，目前覆盖上海虹口区、徐汇区和北京京东仓的十里河区域。未披露未来是否有扩展至其他城市的计划。",
+    "id": "8XIncgh96qq",
+    "order": 1708322741430,
+    "createdAt": "2024-02-19T06:05:41.000Z",
+    "publishDate": "2024-02-19T06:05:41.430Z",
+    "title": "东方甄选试水“小时达” 目前覆盖上海和北京部分区域",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 14:05:41",
+    "uuid": "ebc5e215-cb4e-4a57-a92c-3a621ba4b2e0"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "澎湃新闻" },
       { "siteName": "证券时报网" }
@@ -84,6 +118,24 @@
     "up": false,
     "date": "2024-02-19 11:51:11",
     "uuid": "a9fc04e0-9d44-48fb-b422-3b450d8b6ab2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "英伟达推出了适用于PC端基于Windows系统的“Chat With RTX”聊天机器人应用，支持TensorRT-LLM，无需联网即可本地使用 ...",
+    "id": "8XILkzh7nHw",
+    "order": 1708322821612,
+    "createdAt": "2024-02-19T03:46:07.000Z",
+    "publishDate": "2024-02-19T06:07:01.612Z",
+    "title": "英伟达推出RTX聊天机器人：30/40系显卡免费用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 11:46:07",
+    "uuid": "5debddc9-69b4-4f61-8194-0a535f1551fa"
   },
   {
     "newsArray": [
