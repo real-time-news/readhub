@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为官方宣布将于2月22日14:30发布新款折叠屏手机华为Pocket2。",
+    "id": "8XIXCdWtj4g",
+    "order": 1708309116741,
+    "createdAt": "2024-02-19T02:18:36.000Z",
+    "publishDate": "2024-02-19T02:18:36.741Z",
+    "title": "华为Pocket2官宣2月22日发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 10:18:36",
+    "uuid": "90bfdcae-75fa-4075-bc00-f7a8292c1daa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "智通财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "根据Canalys最新报告，2023年全球智能手机出货量达到11.4亿台，年跌幅较2022年有所收窄至4%。苹果以20%的市场份额和2.291亿台的出货量首次成为年度市场冠军 ...",
+    "id": "8XITFFZhHZX",
+    "order": 1708308689869,
+    "createdAt": "2024-02-19T02:11:29.000Z",
+    "publishDate": "2024-02-19T02:11:29.869Z",
+    "title": "Canalys：2023全球智能手机出货量11.4亿台，苹果首次位居年度第一",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 10:11:29",
+    "uuid": "9dc5e3d7-5cab-4c49-accb-e1711956e642"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "眼动追踪技术在VR领域备受重视，能在虚拟现实体验中提供更加逼真的化身、提升性能和新的交互方式。Meta的Quest Pro头显曾集成了这项功能，但最新的Quest 3却未搭载 ...",
+    "id": "8XIR6uYOzb9",
+    "order": 1708308687332,
+    "createdAt": "2024-02-19T02:11:28.000Z",
+    "publishDate": "2024-02-19T02:11:27.332Z",
+    "title": "Meta 解释 Quest 3 缺席眼动追踪功能的原因：成本、性能和技术挑战",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 10:11:28",
+    "uuid": "2b23ece1-4e63-49d8-84f9-6937ff58b938"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉Cybertruck车型正在中国巡展，官方更新了巡展地点和时间。该车后轮驱动版本起价为44万元人民币，全驱版本售价为57.7万元人民币，野兽版售价为72.1万元人民币 ...",
+    "id": "8XIUg4hNP2m",
+    "order": 1708308669922,
+    "createdAt": "2024-02-19T02:11:09.000Z",
+    "publishDate": "2024-02-19T02:11:09.922Z",
+    "title": "特斯拉 Cybertruck 车型中国巡展地点更新，加入厦门、苏州等城市",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 10:11:09",
+    "uuid": "bc595fec-1eab-4141-af64-183108551c48"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "品玩" },
       { "siteName": "搜狐科技" }
@@ -15,6 +84,43 @@
     "up": false,
     "date": "2024-02-19 10:01:26",
     "uuid": "5ec97ad9-0b2f-469b-9c13-3da1af777747"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "华为中国合作伙伴大会2024将于3月14日至15日在深圳举行。",
+    "id": "8XHfERmfEmV",
+    "order": 1708309264896,
+    "createdAt": "2024-02-19T02:01:18.000Z",
+    "publishDate": "2024-02-19T02:21:04.896Z",
+    "title": "“华为中国合作伙伴大会2024”将于3月14日-15日在深圳举行",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 10:01:18",
+    "uuid": "e5cc2db4-a10d-4b82-880f-467c90da1aca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "OPPO宣布将于2月20日举行AI战略发布会，宣称将开启全民AI手机时代。近期，OPPO已向超千万用户推送了ColorOS AI新春版更新，覆盖近20款机型 ...",
+    "id": "8XITxzPILhg",
+    "order": 1708308969998,
+    "createdAt": "2024-02-19T01:55:58.000Z",
+    "publishDate": "2024-02-19T02:16:09.998Z",
+    "title": "OPPO AI 战略发布会官宣 2 月 20 日举行，号称“开启全民 AI 手机时代”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 09:55:58",
+    "uuid": "30b24bed-6d92-479a-a022-edbc60bc5e61"
   },
   {
     "newsArray": [
@@ -90,6 +196,25 @@
     "up": false,
     "date": "2024-02-19 08:50:51",
     "uuid": "fdd04f3b-5aa1-4f98-9a4f-abe661e01cfa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "中央气象台发布寒潮橙色预警，预计2月18日夜间至22日，我国中东部地区将受一次寒潮天气影响，气温普遍下降8℃至12℃，伴有雨雪、大风和沙尘 ...",
+    "id": "8XIItJvWjUM",
+    "order": 1708309263058,
+    "createdAt": "2024-02-19T00:41:12.000Z",
+    "publishDate": "2024-02-19T02:21:03.058Z",
+    "title": "气象专家提醒：春运返程需关注雨雪冰冻天气影响",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-19 08:41:12",
+    "uuid": "e4ffc0b9-fa03-4fe7-acc1-7803ad450f4a"
   },
   {
     "newsArray": [
