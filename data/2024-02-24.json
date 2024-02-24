@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "法布财经" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国总统拜登宣布对俄方实施500项新制裁，起因与俄乌冲突和俄罗斯反对派人士纳瓦利内死亡事件相关。",
+    "id": "8XPpWnTyGAK",
+    "order": 1708735273306,
+    "createdAt": "2024-02-24T00:41:13.000Z",
+    "publishDate": "2024-02-24T00:41:13.306Z",
+    "title": "拜登宣布对俄方实施超过500项新制裁",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-24 08:41:13",
+    "uuid": "f22a794e-76d5-450c-aaec-e91b99b9d7ba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软发布了一款名为PyRIT的开源自动化框架，该框架是一个Python风险识别工具包，主要用于帮助安全专家和机器学习工程师识别生成式AI的风险，以防止人工智能系统失控 ...",
+    "id": "8XQgQ85Ju4b",
+    "order": 1708734365163,
+    "createdAt": "2024-02-24T00:26:05.000Z",
+    "publishDate": "2024-02-24T00:26:05.163Z",
+    "title": "微软发布 PyRIT 工具，帮专家和工程师识别生成式 AI 模型风险",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-24 08:26:05",
+    "uuid": "ab0f7c97-1d8e-438c-828c-1f587c76abe6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软将在Windows 11更新中引入“热补丁”技术，使得用户在安装每月累积更新后无需重启即可生效，以改善升级体验。该技术已在部分Windows Server版本和Xbox上使用 ...",
+    "id": "8XP5neRPqEg",
+    "order": 1708734050458,
+    "createdAt": "2024-02-24T00:20:50.000Z",
+    "publishDate": "2024-02-24T00:20:50.458Z",
+    "title": "微软测试新方案：Win11 未来安装每月更新无需重启设备",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-24 08:20:50",
+    "uuid": "80ad9c34-66a7-49b2-833c-3253e5345de2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "苏姿丰将在Computex 2024开幕式上介绍下一代AMD产品，该产品将提供新的体验和突破性的AI功能。",
+    "id": "8XPZnyyutBC",
+    "order": 1708733755244,
+    "createdAt": "2024-02-24T00:15:55.000Z",
+    "publishDate": "2024-02-24T00:15:55.244Z",
+    "title": "AMD CEO苏姿丰将于6月3日主持Computex 2024开幕主题演讲",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-24 08:15:55",
+    "uuid": "dcc09d65-131f-4549-a6ef-e0756a607e70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软公司宣布网页版Copilot聊天机器人正式上线“笔记本”功能，支持最高18000个字符。该功能适合复杂查询和项目，便于用户反复输入提示词以获得最佳答案。",
+    "id": "8XQeGgSm6uI",
+    "order": 1708733748658,
+    "createdAt": "2024-02-24T00:15:48.000Z",
+    "publishDate": "2024-02-24T00:15:48.658Z",
+    "title": "最高 1.8 万个字符，微软 Copilot 聊天机器人开放“笔记本”功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-24 08:15:48",
+    "uuid": "8cb9f3c1-ecfa-4eb8-af98-39f6069675fb"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" }
