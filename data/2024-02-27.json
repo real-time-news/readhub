@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉Cybertruck的装甲玻璃在实车应用中证明了其实用性，成功抵御了一次盗窃尝试。尽管在2019年发布时遭遇了演示失败，特斯拉仍然决定在量产版中保留这一特性 ...",
+    "id": "8XVo3SKl1Ps",
+    "order": 1709002857744,
+    "createdAt": "2024-02-27T03:00:57.000Z",
+    "publishDate": "2024-02-27T03:00:57.744Z",
+    "title": "特斯拉 Cybertruck“装甲玻璃”立功，成功阻止窃贼闯入车辆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-27 11:00:57",
+    "uuid": "14674bf4-7cdd-480e-9b34-904ce9686e76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果公司去年宣布不再使用皮革，推出名为“精织斜纹”的替代产品，但该产品上市后广受差评。用户反映，不到5个月时间，“精织斜纹”保护套边缘剥落，布料颜色变黄，使用体验不佳 ...",
+    "id": "8XVbtkZm6RN",
+    "order": 1709003542119,
+    "createdAt": "2024-02-27T02:56:09.000Z",
+    "publishDate": "2024-02-27T03:12:22.119Z",
+    "title": "使用 5 个月变“战损”级别，苹果 iPhone 精织斜纹保护套被指“娇贵”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-27 10:56:09",
+    "uuid": "6e3e5c2d-3d23-4a21-8dee-b1c6d6ad276f"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "新浪科技" },
       { "siteName": "鸟哥笔记" }
@@ -49,6 +84,23 @@
     "up": false,
     "date": "2024-02-27 10:33:21",
     "uuid": "a3a5670f-f2dc-4303-8a05-2ab1395177ed"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "SHEIN是一家中国创立的跨境电商公司，目前总部位于新加坡。由于在美国上市遇到困难，公司正在考虑将IPO地点从纽约转移到伦敦 ...",
+    "id": "8XVcz6axjj1",
+    "order": 1709003089176,
+    "createdAt": "2024-02-27T02:32:54.000Z",
+    "publishDate": "2024-02-27T03:04:49.176Z",
+    "title": "跨境电商SHEIN考虑放弃在纽约上市",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-27 10:32:54",
+    "uuid": "3c601286-2aaf-4202-86b0-fbc888c59e9f"
   },
   {
     "newsArray": [
@@ -121,6 +173,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "日本自动化设备制造商欧姆龙株式会社宣布，因业务状况恶化，将在全球裁员约2000人。此次裁员主要集中在该公司在日本的约1000名员工，占集团员工总数的10% ...",
+    "id": "8XVmd8HIqbW",
+    "order": 1709002841316,
+    "createdAt": "2024-02-27T02:22:35.000Z",
+    "publishDate": "2024-02-27T03:00:41.316Z",
+    "title": "中国制造商崛起，日本欧姆龙将在全球裁员 2000 人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-27 10:22:35",
+    "uuid": "e494cd55-2149-4fd0-b643-9daf44ab11bc"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "界面" },
       { "siteName": "鸟哥笔记" }
@@ -157,6 +228,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "品玩" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "Nvidia推出了基于Ada Lovelace架构的RTX 500和RTX 1000系列AI显卡，适用于笔记本电脑和移动工作站 ...",
+    "id": "8XUxWywbRq5",
+    "order": 1709002850656,
+    "createdAt": "2024-02-27T02:12:28.000Z",
+    "publishDate": "2024-02-27T03:00:50.656Z",
+    "title": "英伟达推出RTX 500 和 1000 Ada AI 显卡，生成式 AI 新能提高14倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-27 10:12:28",
+    "uuid": "00441c49-621b-451b-b523-9b2e1575db14"
+  },
+  {
+    "newsArray": [
       { "siteName": "投资圈" },
       { "siteName": "凤凰科技" },
       { "siteName": "亿邦动力网" },
@@ -189,6 +280,24 @@
     "up": false,
     "date": "2024-02-27 10:05:46",
     "uuid": "37afc290-cf79-41a5-a28e-c8d73622034c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "马斯克旗下社交媒体平台X的CEO琳达·亚卡里诺和XNews官方账号均宣布平台上的招聘信息已超过100万个。马斯克本人转发了这些帖子。",
+    "id": "8XVgYdLJmXE",
+    "order": 1709002840379,
+    "createdAt": "2024-02-27T02:02:06.000Z",
+    "publishDate": "2024-02-27T03:00:40.379Z",
+    "title": "马斯克旗下X平台招聘信息数量突破100万，CEO称距“万能应用”更近了",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-27 10:02:06",
+    "uuid": "97855360-07fd-4bca-b67d-e695467b681d"
   },
   {
     "newsArray": [
