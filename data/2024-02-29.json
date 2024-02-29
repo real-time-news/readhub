@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Adobe在Hot Pod峰会上推出了AI音乐创作工具“Project Music GenAI Control”原型，该工具利用生成式人工智能技术，用户可通过文本描述生成和编辑音乐，如“欢快的舞蹈”或“忧伤的爵士乐” ...",
+    "id": "8XZGQaDSFm2",
+    "order": 1709180173176,
+    "createdAt": "2024-02-29T04:16:14.000Z",
+    "publishDate": "2024-02-29T04:16:13.176Z",
+    "title": "Adobe 推出 AI 音乐生成工具，可根据文本生成音乐并进行精细编辑",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-29 12:16:14",
+    "uuid": "1bede49f-4e20-4557-81cd-1d83ed509394"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达、Hugging Face 和 ServiceNow 联合发布了 StarCoder2 系列大语言模型，旨在成为代码生成领域的标准 ...",
+    "id": "8XZ5136oWER",
+    "order": 1709179908387,
+    "createdAt": "2024-02-29T04:11:49.000Z",
+    "publishDate": "2024-02-29T04:11:48.387Z",
+    "title": "英伟达联合推出 StarCoder2 模型，可执行生成、补全、调试代码",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-29 12:11:49",
+    "uuid": "bcfee321-5651-4bb6-97a8-7c440516c898"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
