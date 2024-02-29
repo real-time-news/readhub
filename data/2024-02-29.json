@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国三家新闻网站对微软和OpenAI提起诉讼，指控其聊天机器人ChatGPT和Copilot在训练过程中抄袭文章，并未显示作者、标题、版权或使用条款信息 ...",
+    "id": "8XYvigQhMME",
+    "order": 1709167549098,
+    "createdAt": "2024-02-29T00:45:50.000Z",
+    "publishDate": "2024-02-29T00:45:49.098Z",
+    "title": "多家新闻机构起诉微软和 OpenAI，指控 ChatGPT 侵犯版权",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-29 08:45:50",
+    "uuid": "7a66c065-6150-4d4a-89a6-b0f4a2506ea3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "32家媒体集团在荷兰法院起诉谷歌，指控其滥用市场主导地位，导致他们在数字广告方面遭受损失，并要求赔偿21亿欧元 ...",
+    "id": "8XYtZDAFZUC",
+    "order": 1709166358111,
+    "createdAt": "2024-02-29T00:25:58.000Z",
+    "publishDate": "2024-02-29T00:25:58.111Z",
+    "title": "32家欧洲媒体出版商集体状告谷歌",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-29 08:25:58",
+    "uuid": "ce02e015-bd0b-4aa9-a1ab-40de4a600d98"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "香港特区政府和监管机构正探讨一系列措施以提升股市效率和流动性，包括优化上市机制、交易机制和市场推广 ...",
+    "id": "8XY5YLPOu5c",
+    "order": 1709165482189,
+    "createdAt": "2024-02-29T00:11:22.000Z",
+    "publishDate": "2024-02-29T00:11:22.189Z",
+    "title": "IPO价格发现流程、股票买卖单位等均拟优化，港股有望打通流动性堵点",
+    "type": "topic",
+    "up": false,
+    "date": "2024-02-29 08:11:22",
+    "uuid": "791e4f57-148d-4faf-95fd-d1e98958fb15"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
