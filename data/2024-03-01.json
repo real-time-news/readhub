@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "韩国科学家团队开发了一款名为KOALA的人工智能图像生成模型，采用“知识蒸馏”技术大幅降低了模型对硬件的需求。该模型能在2秒内生成高质量图片，且仅需8GB内存 ...",
+    "id": "8XalKU6S0gi",
+    "order": 1709263865996,
+    "createdAt": "2024-03-01T03:31:05.000Z",
+    "publishDate": "2024-03-01T03:31:05.996Z",
+    "title": "人工智能图像生成模型 KOALA 问世，2 秒内便可生成高质量图片",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-01 11:31:05",
+    "uuid": "836f4e4e-0d41-41cb-adc3-b2a6bb4520b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华为在MWC24巴塞罗那大会上发布了三大创新数据存储解决方案，包括AI数据湖、全场景数据保护和DCS全栈数据中心，旨在构建AI时代领先的数据基础设施。",
+    "id": "8XZYIhPpD9D",
+    "order": 1709263565404,
+    "createdAt": "2024-03-01T03:26:05.000Z",
+    "publishDate": "2024-03-01T03:26:05.404Z",
+    "title": "华为发布面向AI时代的三大创新数据存储解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-01 11:26:05",
+    "uuid": "267bfc7c-95d1-4297-976e-f8739759c331"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "界面" },
@@ -171,6 +205,25 @@
     "up": false,
     "date": "2024-03-01 09:45:47",
     "uuid": "ecf393d4-4a06-4a14-b624-77328e05e1c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "比亚迪推出新款宋Pro DM-i荣耀版SUV，共5款车型，售价10.98万至13.98万元，标志着搭载DM-i技术的A级SUV价格首次进入10万元区间，实现了新能源车型在价格上与传统燃油车竞争 ...",
+    "id": "8XajZBJaGsP",
+    "order": 1709263907067,
+    "createdAt": "2024-03-01T01:26:51.000Z",
+    "publishDate": "2024-03-01T03:31:47.067Z",
+    "title": "比亚迪推出宋Pro DM-i荣耀版，售价10.98万元起",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-01 09:26:51",
+    "uuid": "caf99280-7cd5-4284-a653-e76ba9f8d5a6"
   },
   {
     "newsArray": [
