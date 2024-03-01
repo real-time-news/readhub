@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "财经网" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "菜鸟速递近期宣布招聘6000名快递员，引发公众关注。公司表示，招聘需求源于业务快速发展，且送货上门是他们的标准服务 ...",
+    "id": "8Xb1GaTfDaN",
+    "order": 1709276485972,
+    "createdAt": "2024-03-01T07:01:26.000Z",
+    "publishDate": "2024-03-01T07:01:25.972Z",
+    "title": "菜鸟速递回应6000名快递员招聘：业务发展太快",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-01 15:01:26",
+    "uuid": "55599b8f-8358-42c3-bf6b-cb808eb6694d"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -103,6 +120,24 @@
     "up": false,
     "date": "2024-03-01 14:11:18",
     "uuid": "e963d96e-305c-4032-8fa2-5310cc78ec19"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "极越汽车与极氪能源实现互联互通，将接入极氪能源自建充电站，并有望接入蔚来NIO Power。极越用户可通过极越App在极氪能源充电桩实现全流程操作，并享受免费充电权益 ...",
+    "id": "8XayuxPhvbU",
+    "order": 1709276488775,
+    "createdAt": "2024-03-01T05:41:05.000Z",
+    "publishDate": "2024-03-01T07:01:28.775Z",
+    "title": "极越汽车宣布接入极氪能源自建充电站，支持使用“免费充电权益”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-01 13:41:05",
+    "uuid": "87f794c7-808b-4e4b-96dc-d99d23f3cbc7"
   },
   {
     "newsArray": [
