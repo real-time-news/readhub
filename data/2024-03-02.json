@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "界面" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "WTI原油期货结算价上涨2.19%至79.97美元/桶，布伦特原油期货结算价涨幅2%至83.55美元/桶。",
+    "id": "8XcGc7hcoPM",
+    "order": 1709339441484,
+    "createdAt": "2024-03-02T00:30:42.000Z",
+    "publishDate": "2024-03-02T00:30:41.484Z",
+    "title": "WTI原油期货结算价收涨2.19%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-02 08:30:42",
+    "uuid": "e3f12ffc-6a2c-4996-9b82-baf1e15d3c0b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "数字货币交易所Coinbase在当地时间3月1日表示，客户可能遇到发送、取款或存款失败以及交易性能下降的问题，但随后又称该问题已经解决。",
+    "id": "8XcESMzhJyy",
+    "order": 1709339148590,
+    "createdAt": "2024-03-02T00:25:49.000Z",
+    "publishDate": "2024-03-02T00:25:48.590Z",
+    "title": "Coinbase称客户遇到的“交易性能下降”等问题已解决",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-02 08:25:49",
+    "uuid": "8e593f47-d29f-49b2-8fd2-7776b0ee68a1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "天涯社区，被誉为中文互联网鼻祖，自去年4月1日暂停访问至今。在社区25周年之际，官方宣布将在确保数据安全合规的前提下，通过引入战略投资、恢复广告业务等措施，筹措资金，力争在5月1日前恢复访问 ...",
+    "id": "8XcIl7EjWZr",
+    "order": 1709338862599,
+    "createdAt": "2024-03-02T00:21:02.000Z",
+    "publishDate": "2024-03-02T00:21:02.599Z",
+    "title": "天涯社区公布重启进度：5月1日前恢复访问",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-02 08:21:02",
+    "uuid": "279b0ff1-3f10-4a8e-9f30-53878cbe48ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司撤回了其在欧洲市场削弱 Progressive Web App（PWA）应用程序的计划。该计划受到了用户、开发者和机构的强烈反对 ...",
+    "id": "8XcJ75DoOon",
+    "order": 1709338558503,
+    "createdAt": "2024-03-02T00:15:58.000Z",
+    "publishDate": "2024-03-02T00:15:58.503Z",
+    "title": "开发者和机构强烈反对后，苹果撤销“欧洲削弱 PWA 应用”计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-02 08:15:58",
+    "uuid": "80abc0dc-31f2-46cf-8bd4-1210f2c84b4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "果壳科学人" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "长安猎手皮卡宣布正式上市，售价区间为13.99-21.69万元，搭载长安超级增程动力，是全球首款增程皮卡，纯电续航180km，综合续航1031km ...",
+    "id": "8XbLm9cBHYe",
+    "order": 1709337680693,
+    "createdAt": "2024-03-02T00:01:20.000Z",
+    "publishDate": "2024-03-02T00:01:20.693Z",
+    "title": "长安汽车旗下首款超级增程皮卡“长安猎手”上市，13.99 万元起",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-02 08:01:20",
+    "uuid": "24cf31c1-00c1-4f22-8bec-86af06a3f481"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果公司在18年前推出了iPod Hi-Fi产品，但停产仅相隔554天。这款产品被设计为一体化便携式音响，可连接电源插座或使用六节D型电池 ...",
+    "id": "8XbQS01l4FL",
+    "order": 1709337659329,
+    "createdAt": "2024-03-02T00:00:59.000Z",
+    "publishDate": "2024-03-02T00:00:59.329Z",
+    "title": "发布 18 周年，全黑版苹果 iPod Hi-Fi 原型机曝光",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-02 08:00:59",
+    "uuid": "bd0d05c4-843c-4d14-aec0-03cda8d451f7"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "搜狐科技" },
       { "siteName": "财联社" }
@@ -15,6 +119,24 @@
     "up": false,
     "date": "2024-03-02 07:41:01",
     "uuid": "c5392a24-0d27-4932-bb97-fe424d2c350a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "大众汽车集团公布2023年业绩，全年营收约2.51万亿元人民币，同比增长15%。营业利润约1759亿元人民币，同比增长2.1%。纯电动汽车交付量增长35%，市场份额提升至8.3% ...",
+    "id": "8XbcZX5VZUI",
+    "order": 1709339442085,
+    "createdAt": "2024-03-01T23:26:02.000Z",
+    "publishDate": "2024-03-02T00:30:42.085Z",
+    "title": "大众汽车 2023 年营收 3222.8 亿欧元，同比增长 15%，交付 924 万辆新车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-02 07:26:02",
+    "uuid": "8c55378a-eb75-4c55-aaa4-0d31eae2265a"
   },
   {
     "newsArray": [
