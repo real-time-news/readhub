@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "消费电子市场在经历了一段低迷期后，目前显示出复苏迹象。多家上市公司发布的业绩快报显示，2023年度主业增长带动了业绩的大幅提升 ...",
+    "id": "8XfbT0Yxh4Z",
+    "order": 1709512869569,
+    "createdAt": "2024-03-04T00:41:09.000Z",
+    "publishDate": "2024-03-04T00:41:09.569Z",
+    "title": "消费电子市场结构性回暖 多家上市公司业绩大增",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-04 08:41:09",
+    "uuid": "f21d5fab-d69f-4a70-b35b-4ffc2ef2ebe4"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "手机中国" },
       { "siteName": "新浪科技" },
@@ -36,6 +53,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "3月5日，国内成品油零售限价将上调约115元/吨，为2024年第三次涨价。以70升油箱计算，私家车主加满一箱油将多花6元。",
+    "id": "8XfZgxPnmCN",
+    "order": 1709515843813,
+    "createdAt": "2024-03-04T00:20:53.000Z",
+    "publishDate": "2024-03-04T01:30:43.813Z",
+    "title": "国内成品油价或迎来年内第三涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-04 08:20:53",
+    "uuid": "a006ecd1-ecb1-49db-8fee-22f9be7f1a13"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "新浪科技" },
       { "siteName": "IT 之家" },
@@ -52,5 +87,24 @@
     "up": false,
     "date": "2024-03-04 07:26:01",
     "uuid": "df34ed2a-10d0-4706-b672-bce851add1e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "三星正在考虑在其下一代DRAM中应用模压填充（MUF）技术，该技术主要用于将垂直堆叠的多个半导体牢固地固定并连接起来 ...",
+    "id": "8XfYyxSh0X0",
+    "order": 1709514345262,
+    "createdAt": "2024-03-03T23:21:37.000Z",
+    "publishDate": "2024-03-04T01:05:45.262Z",
+    "title": "三星考虑将 MUF 技术应用于服务器 DRAM 内存",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-04 07:21:37",
+    "uuid": "4161524c-71e7-4d24-b5d5-05f292eee177"
   }
 ]
