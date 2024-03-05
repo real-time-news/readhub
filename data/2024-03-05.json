@@ -1,6 +1,65 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "手机中国" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "周一美股收盘时，特斯拉公司股价大跌7.2%，导致CEO埃隆·马斯克九个多月来首次失去全球首富位置。马斯克净资产1977亿美元，被亚马逊创始人杰夫·贝佐斯的2003亿美元超越 ...",
+    "id": "8XhFJ6dE14K",
+    "order": 1709598693090,
+    "createdAt": "2024-03-05T00:31:34.000Z",
+    "publishDate": "2024-03-05T00:31:33.090Z",
+    "title": "特斯拉股价大跌超7% 马斯克再度丢掉世界首富头衔",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-05 08:31:34",
+    "uuid": "adafd446-5a9c-4820-81b6-39460f832c17"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果发布了新款MacBook Air笔记本，并扩充了iPhone 15系列的MagSafe硅胶保护壳和Apple Watch运动型表带颜色阵容 ...",
+    "id": "8XgaZWxZJMy",
+    "order": 1709597507110,
+    "createdAt": "2024-03-05T00:00:40.000Z",
+    "publishDate": "2024-03-05T00:11:47.110Z",
+    "title": "新春新颜色，苹果更新 iPhone 保护套和 Apple Watch 表带阵容",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-05 08:00:40",
+    "uuid": "8e43b063-2314-405d-bed3-f8d12685e699"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2024年3月5日，FF公司宣布起诉前高管、华人运通创始人丁磊，指控其侵犯商业秘密和不正当竞争，并请求法院判决赔偿损失，要求华人运通停止涉及FF 91商业秘密的侵权行为及不正当竞争行为。",
+    "id": "8XhG1YQRWi3",
+    "order": 1709596846869,
+    "createdAt": "2024-03-04T23:45:46.000Z",
+    "publishDate": "2024-03-05T00:00:46.869Z",
+    "title": "法拉第未来起诉华人运通创始人丁磊",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-05 07:45:46",
+    "uuid": "a0ade7a1-7ca1-4cf7-8a71-9c282f3f33fa"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "财联社" }
