@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "李开复旗下的AI公司零一万物宣布开源了Yi-9B模型，该模型是Yi系列中最强的模型，实际参数为8.8B，默认上下文长度为4K tokens ...",
+    "id": "8XjrAu7kyzV",
+    "order": 1709732175602,
+    "createdAt": "2024-03-06T13:36:16.000Z",
+    "publishDate": "2024-03-06T13:36:15.602Z",
+    "title": "李开复旗下AI公司零一万物宣布开源Yi-9B模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-06 21:36:16",
+    "uuid": "f5f393ca-87b4-4998-96e7-c8d404c5349a"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "和讯网" },
       { "siteName": "财联社" },
