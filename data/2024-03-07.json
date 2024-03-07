@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "三星在3nm工艺的良品率上遇到挑战，目前徘徊在50%附近，主要原因是新的GAA架构晶体管技术的不稳定性。尽管在4nm工艺上良品率已达到75%，但在3nm工艺上，三星仍需努力 ...",
+    "id": "8Xk42rhOlJf",
+    "order": 1709794302184,
+    "createdAt": "2024-03-07T06:51:42.000Z",
+    "publishDate": "2024-03-07T06:51:42.184Z",
+    "title": "三星仍需解决3nm工艺良品率问题 目前在50%附近徘徊",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 14:51:42",
+    "uuid": "78b790f1-5f64-45ee-ae17-57039d40ac25"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星设计了一款创新的卷轴手机，内置空气质量传感器，既保持了设备的紧凑性和美观，又实现了高效、可靠的用户友好空气质量监测 ...",
+    "id": "8XkzDEqBqiH",
+    "order": 1709794250286,
+    "createdAt": "2024-03-07T06:50:50.000Z",
+    "publishDate": "2024-03-07T06:50:50.286Z",
+    "title": "三星卷轴手机专利获批：内置传感器可检测空气质量",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 14:50:50",
+    "uuid": "3e2d0655-0f1d-4e8e-bf79-a14c7df8b0d7"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "财联社" },
       { "siteName": "界面" }
