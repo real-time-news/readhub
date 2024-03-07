@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2023年全球数字媒体订阅支出接近5000亿美元，同比增长13%，其中电子游戏市场贡献最大，视频点播支出同比增长20%。",
+    "id": "8XkcKvRHXjR",
+    "order": 1709775345671,
+    "createdAt": "2024-03-07T01:35:46.000Z",
+    "publishDate": "2024-03-07T01:35:45.671Z",
+    "title": "同比增长 13%，报告称 2023 年全球数字媒体订阅规模达 4980 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 09:35:46",
+    "uuid": "ec306172-13f0-4bf0-bc63-431a104ad6fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "联想计划推出5款新的官方皮肤，为拯救者游戏掌机用户提供更多个性化选择。这些皮肤设计独特，做工精良，包括以星云为主题的绚丽设计以及其他不同风格。",
+    "id": "8XkeUKLVCnM",
+    "order": 1709775070523,
+    "createdAt": "2024-03-07T01:31:11.000Z",
+    "publishDate": "2024-03-07T01:31:10.523Z",
+    "title": "渲染图已曝光，消息称联想将为拯救者游戏掌机推出 5 款新皮肤",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 09:31:11",
+    "uuid": "65d5df7a-930e-498e-9bcf-be5cc615da82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "马斯克提出条件，如果OpenAI将其名字改为ClosedAI，他将撤销对OpenAI的诉讼。",
+    "id": "8Xkd2Z4boHt",
+    "order": 1709775045711,
+    "createdAt": "2024-03-07T01:30:45.000Z",
+    "publishDate": "2024-03-07T01:30:45.711Z",
+    "title": "马斯克：OpenAI改名ClosedAI 就撤销诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 09:30:45",
+    "uuid": "3938d392-0a40-4ba3-b24b-bc6de140cffe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星在其主力OLED电视产品S90D系列中，将同时采用三星显示的QD-OLED和LG显示的W-OLED面板。销量数据显示，S90D系列是三星目前最受欢迎的OLED电视 ...",
+    "id": "8XkaBoCjWj1",
+    "order": 1709774488365,
+    "createdAt": "2024-03-07T01:21:28.000Z",
+    "publishDate": "2024-03-07T01:21:28.365Z",
+    "title": "三星今年将同时为 S90D 系列电视提供 QD-OLED 和 W-OLED 面板",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 09:21:28",
+    "uuid": "8cf8919d-c4e2-4f01-9e7a-c08cf31c154a"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -83,5 +151,24 @@
     "up": false,
     "date": "2024-03-07 07:00:51",
     "uuid": "95cf17d9-9fef-47f4-a039-fe13d8497db0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "马斯克发表声明称，他不会向任何一位美国总统候选人捐款，澄清了之前与共和党候选人会面引发的捐款预期。",
+    "id": "8XjVkLybg1o",
+    "order": 1709775049367,
+    "createdAt": "2024-03-06T17:01:09.000Z",
+    "publishDate": "2024-03-07T01:30:49.367Z",
+    "title": "马斯克：不会向任何一位美国总统候选人捐款",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 01:01:09",
+    "uuid": "970c3d0f-cc9a-4a3e-a5d6-f17f7867f298"
   }
 ]
