@@ -1,6 +1,62 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "港股午盘走弱，恒生指数和恒生科技指数分别下跌0.47%和0.87%。稀土永磁和金属镍概念股上涨，而CXO和K12教育股下跌。药明生物跌超20%，药明康德和康龙化成等也大幅下跌 ...",
+    "id": "8XkhiN9QAe6",
+    "order": 1709784684229,
+    "createdAt": "2024-03-07T04:11:24.000Z",
+    "publishDate": "2024-03-07T04:11:24.229Z",
+    "title": "港股午评：恒生科技指数跌0.87% 药明生物跌超20%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 12:11:24",
+    "uuid": "0f8b6afe-4cb7-4900-930c-52972b5e346e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软将其内部使用的 Linux 发行版 CBL-Mariner 更名为 Azure Linux，最新的 CBL-Mariner 2.0.20240301 版本已被重定向至 GitHub 的 Microsoft/AzureLinux 项目，相关仓库和引用均正在转换至新的 Azure Linux 品牌 ...",
+    "id": "8XjLj7Pb2Mc",
+    "order": 1709784058815,
+    "createdAt": "2024-03-07T04:00:59.000Z",
+    "publishDate": "2024-03-07T04:00:58.815Z",
+    "title": "微软将其 CBL-Mariner 发行版改名为 Azure Linux",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 12:00:59",
+    "uuid": "f24db3cf-1330-4a4b-ba67-fa1715a2e99a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "我国前2个月进出口总值9308.6亿美元，同比增长5.5%，其中出口5280.1亿美元，同比增长7.1%，进口4028.5亿美元，同比增长3.5%，贸易顺差1251.6亿美元，扩大20.5% ...",
+    "id": "8XkqJVCc6WR",
+    "order": 1709784074857,
+    "createdAt": "2024-03-07T03:31:50.000Z",
+    "publishDate": "2024-03-07T04:01:14.857Z",
+    "title": "海关总署：以美元计，中国1-2月出口同比7.1%，进口同比3.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 11:31:50",
+    "uuid": "bec21961-59cf-47f7-a1ac-b1d58121c814"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" },
       { "siteName": "界面" }
@@ -394,6 +450,43 @@
     "up": false,
     "date": "2024-03-07 08:08:23",
     "uuid": "0e95b29e-3b5b-48f9-a1f1-93ae8b85382f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "在今年的两会期间，央视财经新媒体推出了以郭若天和孟湛东为原型的AI主播，能够24小时解答用户的经济、产业、旅游等问题 ...",
+    "id": "8XjoJf9Y7Tx",
+    "order": 1709784058132,
+    "createdAt": "2024-03-07T00:07:52.000Z",
+    "publishDate": "2024-03-07T04:00:58.132Z",
+    "title": "央视财经两名 AI 主播“上岗”：能 24 小时解答经济、产业、旅游等领域问题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 08:07:52",
+    "uuid": "fd6f329d-0806-4393-a611-7b531891adde"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "据美国马里兰大学和LinkUp的AI工作追踪器数据显示，2023年1月全美发布了10404个新的AI相关职位，较2022年12月ChatGPT发布时增加了42% ...",
+    "id": "8XjeJPKyuh1",
+    "order": 1709784053102,
+    "createdAt": "2024-03-07T00:07:39.000Z",
+    "publishDate": "2024-03-07T04:00:53.102Z",
+    "title": "今年1月全美发布超1万个AI相关职位，较ChatGPT发布时增加42%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-07 08:07:39",
+    "uuid": "5f24dd54-471f-4877-9285-b0fc1ec3ff8d"
   },
   {
     "newsArray": [
