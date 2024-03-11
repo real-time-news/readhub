@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "手机中国" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "近日，英伟达因在其NeMo人工智能平台上未经许可使用三位作家的版权书籍数据集进行训练，遭到原作者起诉 ...",
+    "id": "8XrHNhIKI6Z",
+    "order": 1710129950382,
+    "createdAt": "2024-03-11T04:05:50.000Z",
+    "publishDate": "2024-03-11T04:05:50.382Z",
+    "title": "英伟达因AI滥用版权作品而遭作家起诉　要求进行赔偿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-11 12:05:50",
+    "uuid": "2aa33fd1-ef8b-4f27-8d60-f6d488e605d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌推出的“社会学习”AI框架使语言模型能通过自然语言互相学习，增加隐私保护性。该框架中，学生模型向多个教师模型学习任务解决方案，已测试的包括垃圾短信检测、解决小学数学问题和文本回答等 ...",
+    "id": "8XrTsqwZzSB",
+    "order": 1710129683563,
+    "createdAt": "2024-03-11T04:01:24.000Z",
+    "publishDate": "2024-03-11T04:01:23.563Z",
+    "title": "让 AI 模型互相教学，谷歌推出社会学习框架",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-11 12:01:24",
+    "uuid": "41c5dfcc-8ec8-4d12-b0c5-b10525153867"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" },
       { "siteName": "腾讯网" }
