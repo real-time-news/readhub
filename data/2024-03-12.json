@@ -403,6 +403,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "量子位" },
+      { "siteName": "投资圈" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "谷歌研究团队发现了一种通过 API 访问窃取大模型关键信息的方法，攻击目标是模型的嵌入投影层 ...",
+    "id": "8XtHOP0zGg4",
+    "order": 1710236786858,
+    "createdAt": "2024-03-12T06:05:46.000Z",
+    "publishDate": "2024-03-12T09:46:26.858Z",
+    "title": "谷歌承认“窃取”OpenAI模型关键信息：成本低至150元，调用API即可得手",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-12 14:05:46",
+    "uuid": "0eee6e5e-dda6-45cf-8168-fe766651e3f2"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" }
