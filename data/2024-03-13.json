@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "河北廊坊一家商铺发生爆炸起火，物美超市燕郊文化大厦店受到一定损害，但未造成人员伤亡。廊坊市消防救援支队迅速响应，火势已得到有效控制 ...",
+    "id": "8XulZ9qdm3g",
+    "order": 1710300684912,
+    "createdAt": "2024-03-13T03:20:51.000Z",
+    "publishDate": "2024-03-13T03:31:24.912Z",
+    "title": "物美回应爆炸受损：燕郊文化大厦店受到影响不大，暂停营业",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-13 11:20:51",
+    "uuid": "a435f5fb-3361-446a-83f8-02f29f60ff99"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "手机中国" },
       { "siteName": "搜狐科技" },
@@ -34,6 +52,24 @@
     "up": false,
     "date": "2024-03-13 11:02:39",
     "uuid": "1c0257a4-c97d-46ef-83a2-efb7bfd0eed8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "小鹏汽车联合创始人夏珩和何涛已从核心管理团队转为终身荣誉顾问，将继续支持公司发展。目前小鹏汽车的核心团队成员包括董事长/CEO何小鹏、总裁王凤英和副董事长/联席总裁顾宏地。",
+    "id": "8XufpVJjvPZ",
+    "order": 1710300643995,
+    "createdAt": "2024-03-13T03:02:29.000Z",
+    "publishDate": "2024-03-13T03:30:43.995Z",
+    "title": "小鹏汽车：联合创始人夏珩和何涛将以终身荣誉顾问身份继续支持公司发展",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-13 11:02:29",
+    "uuid": "ec8fd1ac-19d7-4de1-b0e9-375f66b99ed4"
   },
   {
     "newsArray": [
@@ -382,6 +418,23 @@
     "up": false,
     "date": "2024-03-13 07:15:59",
     "uuid": "ba1c72c4-675c-4ea3-b2d2-8fe342ddddcd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "机器之心" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "OpenAI 开源了 Transformer Debugger 工具，该工具是由其 Superalignment 团队开发，用于支持对小语言模型特定行为的调查，组合了自动可解释性技术和稀疏自编码器 ...",
+    "id": "8XtO9lDOVzm",
+    "order": 1710300857851,
+    "createdAt": "2024-03-12T16:40:56.000Z",
+    "publishDate": "2024-03-13T03:34:17.851Z",
+    "title": "OpenAI 开源 debug 工具 Transformer",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-13 00:40:56",
+    "uuid": "af9bc043-674a-4110-8e3e-70a2793abd3f"
   },
   {
     "newsArray": [
