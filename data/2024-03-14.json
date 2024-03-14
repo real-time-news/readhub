@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为最新专利公布，通过中心设备管理数据同步，降低手机系统频繁唤醒和连接次数，从而减少功耗，延长手机续航。但该方法是否会引起消息延迟待实际验证。",
+    "id": "8XwgagNzskc",
+    "order": 1710411969737,
+    "createdAt": "2024-03-14T10:26:09.000Z",
+    "publishDate": "2024-03-14T10:26:09.737Z",
+    "title": "华为公布消息接收专利：减少唤醒 手机续航更长",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 18:26:09",
+    "uuid": "ff143c35-9209-48a7-a331-0095973c9cd3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "2023年被视为大模型元年，零一万物发布Yi大模型API开放平台，提供三款模型：Yi-34B-Chat-0205、Yi-34B-Chat-200K和Yi-VL-Plus，分别用于通用聊天、超长上下文知识库构建和多模态输入 ...",
+    "id": "8XwZfjN9Yyr",
+    "order": 1710411685124,
+    "createdAt": "2024-03-14T10:21:26.000Z",
+    "publishDate": "2024-03-14T10:21:25.124Z",
+    "title": "零一万物：新增API开放平台 加速大模型应用落地",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 18:21:26",
+    "uuid": "edef929c-ff97-4a27-a6df-60f93d0bca01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "联想推出了ThinkPad x13 Gen 5和ThinkPad x13 2-in-1 Gen 5两款笔记本，均搭载英特尔Meteor Lake处理器 ...",
+    "id": "8XwsKg0Zuwk",
+    "order": 1710411540507,
+    "createdAt": "2024-03-14T10:19:01.000Z",
+    "publishDate": "2024-03-14T10:19:00.507Z",
+    "title": "联想发布 ThinkPad X13 Gen 5 系列笔记本，配英特尔 Meteor Lake",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 18:19:01",
+    "uuid": "0aea8fa6-b56b-4888-85fa-31405f9ade1a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "亿欧" },
+      { "siteName": "机器之心" }
+    ],
+    "summary": "华为常务董事汪涛在华为中国合作伙伴大会上透露，至2023年底，华为企业业务合作伙伴数量超过4万家，同比增长超过15% ...",
+    "id": "8Xwu5uwROxK",
+    "order": 1710411412511,
+    "createdAt": "2024-03-14T10:16:53.000Z",
+    "publishDate": "2024-03-14T10:16:52.511Z",
+    "title": "华为汪涛：2023年华为合作伙伴数量同比增长15%  数量超过4万家",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 18:16:53",
+    "uuid": "01cc7610-ebd8-4f09-82e8-1094b60de3d5"
+  },
+  {
+    "newsArray": [
       { "siteName": "动脉网" },
       { "siteName": "动脉网" },
       { "siteName": "i黑马" }
