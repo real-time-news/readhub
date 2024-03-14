@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "速途网" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "阿里通义千问推出免费文档解析功能，支持网页、文档、论文、图书等多种格式，能处理超万页的极长资料，突破了大模型长文档处理的天花板。用户可上传文档并提问，大模型在几秒之内完成回答 ...",
+    "id": "8XwigwCy01s",
+    "order": 1710407187727,
+    "createdAt": "2024-03-14T09:06:27.000Z",
+    "publishDate": "2024-03-14T09:06:27.727Z",
+    "title": "阿里通义千问推出AI阅读助手功能，可一键速读百份文档，解析超万页长文档",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 17:06:27",
+    "uuid": "8f57218e-7e4a-4ba0-b21f-1a7fb821975e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "和讯网" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "OpenAI推出的生成式AI模型Sora能在文本和图像的输入下生成视频，并具备编辑视频的能力。该技术预计在几个月后发布，届时可能支持视频编辑和音频添加 ...",
+    "id": "8XwOJibjdyD",
+    "order": 1710407033621,
+    "createdAt": "2024-03-14T09:03:53.000Z",
+    "publishDate": "2024-03-14T09:03:53.621Z",
+    "title": "生成式AI视频应用Sora将于今年晚些时候推出",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 17:03:53",
+    "uuid": "83b95f61-20f3-4ade-af28-d82d5d48e2e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "《赵云传：云汉腾龙》是一款由原《三国赵云传》核心团队制作的动作RPG单机游戏，已在Steam上线并采用买断制，于今年1月发售 ...",
+    "id": "8XweltxNfPE",
+    "order": 1710406999565,
+    "createdAt": "2024-03-14T09:03:19.000Z",
+    "publishDate": "2024-03-14T09:03:19.565Z",
+    "title": "国产动作 RPG 游戏《赵云传重制版》开发团队解散，资金断裂",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 17:03:19",
+    "uuid": "74254c71-c951-4d6e-a44b-7a6ba73439d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "2024年玄铁RISC-V生态大会上，达摩院发起成立“无剑联盟”，推动RISC-V产业化。RISC-V作为一种新兴指令集，因其开源、开放等特性在此轮芯片产业周期中发展迅速 ...",
+    "id": "8XweEoIR5qV",
+    "order": 1710406963848,
+    "createdAt": "2024-03-14T09:02:44.000Z",
+    "publishDate": "2024-03-14T09:02:43.848Z",
+    "title": "达摩院牵头成立“无剑联盟”，探索RISC-V产业合作新范式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 17:02:44",
+    "uuid": "a7c502ea-a402-423b-ac70-65ebd1bb022d"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "中关村在线" },
       { "siteName": "DoNews" }
@@ -66,6 +134,28 @@
     "up": false,
     "date": "2024-03-14 16:15:54",
     "uuid": "ad9bf3ff-8251-4e4d-bc5f-e49a820d61c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中国证券网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "商务部例行记者会上，针对欧盟委员会要求海关对来自中国的进口电动汽车进行进口登记的新规，新闻发言人何亚东表示，中方高度关注此事，并对可能的追溯征税措施表示担忧 ...",
+    "id": "8XwkTf0u3Yj",
+    "order": 1710406842388,
+    "createdAt": "2024-03-14T08:11:38.000Z",
+    "publishDate": "2024-03-14T09:00:42.388Z",
+    "title": "欧盟发布条例要求海关对自中国进口电动汽车进行登记，商务部回应",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 16:11:38",
+    "uuid": "707a1c71-9c02-473e-aa22-90a80e18737e"
   },
   {
     "newsArray": [
@@ -168,6 +258,25 @@
     "up": false,
     "date": "2024-03-14 15:31:16",
     "uuid": "320773d1-8d85-493d-81d4-eb4e78bf37dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "国家开发银行原党委委员、副行长周清玉因涉嫌受贿、利用影响力受贿被提起公诉。周清玉被指控利用职务便利和影响力，在多个事项上为他人提供帮助并收受巨额财物 ...",
+    "id": "8XwhyCypz4e",
+    "order": 1710406843144,
+    "createdAt": "2024-03-14T07:26:07.000Z",
+    "publishDate": "2024-03-14T09:00:43.144Z",
+    "title": "国家开发银行原副行长周清玉涉嫌受贿被提起公诉",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 15:26:07",
+    "uuid": "83826d67-5a6e-4ccb-b04b-60760b2b4f12"
   },
   {
     "newsArray": [
@@ -276,6 +385,26 @@
     "up": false,
     "date": "2024-03-14 15:01:37",
     "uuid": "3e8947e2-7499-4b26-8ebc-baaec960dde9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "21经济网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "本文介绍了中国境内可供选择的多种支付方式，包括银行卡、移动支付、现金，以及账户和数字人民币等。文中详细阐述了每种支付服务的获取方法和使用流程。",
+    "id": "8XwP1M20MYq",
+    "order": 1710406838504,
+    "createdAt": "2024-03-14T06:50:52.000Z",
+    "publishDate": "2024-03-14T09:00:38.504Z",
+    "title": "央行发布外籍来华人员支付指南",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-14 14:50:52",
+    "uuid": "a6bd3b24-c03a-434b-8f56-03c855df4c17"
   },
   {
     "newsArray": [
