@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "谷歌进军医疗保健领域，推出人工智能计划。在印度市场尝试癌症扫描，并致力于打造AI工具，协助Fitbit可穿戴设备提升人们健康。",
+    "id": "8Y5Z8Dnzq9u",
+    "order": 1710863450188,
+    "createdAt": "2024-03-19T15:35:54.000Z",
+    "publishDate": "2024-03-19T15:50:50.188Z",
+    "title": "谷歌宣布在医疗保健领域推出人工智能计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 23:35:54",
+    "uuid": "7b5b6d55-8bdf-46c6-9a04-e4c6179f6b00"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
@@ -1649,5 +1667,24 @@
     "up": false,
     "date": "2024-03-19 07:11:16",
     "uuid": "3113ec58-fe1f-49f5-a4bb-93f119d068ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "WTI原油价格上涨2%，布伦特原油涨幅达1.8%。",
+    "id": "8Y3Tp26vcSU",
+    "order": 1710863439830,
+    "createdAt": "2024-03-18T18:20:52.000Z",
+    "publishDate": "2024-03-19T15:50:39.830Z",
+    "title": "WTI原油日内涨幅扩大至2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 02:20:52",
+    "uuid": "59ae3c4c-27a7-41bc-9e5a-fdee5574a271"
   }
 ]
