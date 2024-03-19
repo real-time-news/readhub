@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达在2024 GTC AI大会上推出了新一代AI芯片Blackwell和NIM软件 ...",
+    "id": "8Y4LkgwxYqb",
+    "order": 1710811602608,
+    "createdAt": "2024-03-19T01:26:43.000Z",
+    "publishDate": "2024-03-19T01:26:42.608Z",
+    "title": "英伟达发布最强AI加速卡 推出新一代AI芯片Blackwell和NIM软件",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 09:26:43",
+    "uuid": "946bb2c4-d438-4bf4-98bc-eda1c05c5ab8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软在即将推出的Windows 11 Version 24H2更新中，继续推进“去控制面板”计划，将更多功能和选项迁移到设置应用中 ...",
+    "id": "8Y4UKTavF2P",
+    "order": 1710811560404,
+    "createdAt": "2024-03-19T01:26:00.000Z",
+    "publishDate": "2024-03-19T01:26:00.404Z",
+    "title": "微软加速推进“去控制面板”，Win11 24H2 将迁移更多功能到设置应用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 09:26:00",
+    "uuid": "63a2ca0e-f88f-4bac-a559-96787159de93"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果公司在德国获得了两项关于iPhone专用贴膜工具的专利，两项专利均于2023年11月提交申请，名称均为《Tools for installing Screen Protectors》 ...",
+    "id": "8Y4Q2aZ6jGA",
+    "order": 1710810044447,
+    "createdAt": "2024-03-19T01:00:44.000Z",
+    "publishDate": "2024-03-19T01:00:44.447Z",
+    "title": "苹果新专利获批，暗示要为 iPhone 推出专用贴膜工具",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 09:00:44",
+    "uuid": "f3b81a7e-cfd5-4aab-88ff-c6ec5b784393"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "英伟达宣布与包括比亚迪在内的中国汽车制造商扩大合作，比亚迪将采用英伟达下一代车载芯片Drive Thor提升自动驾驶和其他数字功能 ...",
+    "id": "8Y4SY0PCwIs",
+    "order": 1710810068746,
+    "createdAt": "2024-03-19T00:40:50.000Z",
+    "publishDate": "2024-03-19T01:01:08.746Z",
+    "title": "英伟达宣布扩大与比亚迪等中国车企合作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 08:40:50",
+    "uuid": "6a111e28-da2a-4e88-b60a-d7a0c4503f5f"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
