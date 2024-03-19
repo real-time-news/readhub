@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "由于质量问题，永丰电子被苹果剔除出iPhone 16系列供应链，其RFPCB供应资格被韩国FPC制造商SI Flex取代，但SI Flex的良率稳定性尚不足，因此BH Flex仍是RFPCB的主要供应商。",
+    "id": "8Y4PKWOZOoG",
+    "order": 1710807707404,
+    "createdAt": "2024-03-19T00:21:47.000Z",
+    "publishDate": "2024-03-19T00:21:47.404Z",
+    "title": "永丰电子因质量问题被踢出苹果供应链，SI Flex 接棒",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 08:21:47",
+    "uuid": "e5cf3dec-c530-4364-9106-6221c34e3d99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "在岸人民币兑美元较上一交易日下跌21点，收盘价为7.1986，成交量为237.91亿美元。",
+    "id": "8Y4DVkjDUfy",
+    "order": 1710806443054,
+    "createdAt": "2024-03-19T00:00:43.000Z",
+    "publishDate": "2024-03-19T00:00:43.054Z",
+    "title": "在岸人民币兑美元较上一交易日夜盘收盘跌21点",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 08:00:43",
+    "uuid": "6faaafe3-f865-401f-836f-2258add7e20c"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -15,5 +49,44 @@
     "up": false,
     "date": "2024-03-19 07:31:01",
     "uuid": "84087300-e299-4202-b7ea-7c46defe39dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "周一美股成交额排名第一的英伟达收高0.70%，成交578.68亿美元。英伟达在GTC上发布新款Blackwell GPU，并宣布推出下一代人工智能超级计算机 ...",
+    "id": "8Y4JxiHBod4",
+    "order": 1710807668883,
+    "createdAt": "2024-03-18T23:21:20.000Z",
+    "publishDate": "2024-03-19T00:21:08.883Z",
+    "title": "3月18日美股成交额前20：英伟达推出下一代人工智能超级计算机",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 07:21:20",
+    "uuid": "b88373a5-ce0c-4b6d-8050-9b3267e3e4e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "网易科技" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "英伟达在年度开发者大会上推出新款AI芯片架构Blackwell GPU，首款芯片为GB200 ...",
+    "id": "8Y4LOOPwwq9",
+    "order": 1710808241767,
+    "createdAt": "2024-03-18T23:11:16.000Z",
+    "publishDate": "2024-03-19T00:30:41.767Z",
+    "title": "英伟达宣布推出新一代AI芯片架构Blackwell GPU",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-19 07:11:16",
+    "uuid": "3113ec58-fe1f-49f5-a4bb-93f119d068ab"
   }
 ]
