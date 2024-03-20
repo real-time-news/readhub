@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "比亚迪京东自营旗舰店近日上线，上架5款车型，价格从11.38万元至29.9万元不等。旗舰店汽车由厂商直供发货、配送及售后服务 ...",
+    "id": "8Y6IWedZ1LO",
+    "order": 1710901871633,
+    "createdAt": "2024-03-20T02:31:12.000Z",
+    "publishDate": "2024-03-20T02:31:11.633Z",
+    "title": "比亚迪京东自营旗舰店上线，可购买 5 款车型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-20 10:31:12",
+    "uuid": "ff3c8e3b-d7ac-478d-ba9c-5b37f5ffd7ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果公司在iPhone 12中引入了超瓷晶玻璃，显著提高了手机的抗摔性能，但划痕问题依然存在 ...",
+    "id": "8Y6EEe0YNYp",
+    "order": 1710901861216,
+    "createdAt": "2024-03-20T02:31:02.000Z",
+    "publishDate": "2024-03-20T02:31:01.216Z",
+    "title": "苹果斥巨资引进镀膜技术，iPhone 17或将摆脱划痕困扰",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-20 10:31:02",
+    "uuid": "660a325b-1cf9-45d3-88eb-ce27bd7c5eff"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -230,5 +264,23 @@
     "up": false,
     "date": "2024-03-20 06:56:02",
     "uuid": "19b06e7d-9aa6-4047-9734-2878f419a901"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "联想成功交付首台搭载国产AI算力芯片的服务器联想问天WA5480 G3，携手多家AI领军企业打造多元化产品组合，积极推动中国算力产业生态建设 ...",
+    "id": "8Y5NMQRQ8Hz",
+    "order": 1710901862434,
+    "createdAt": "2024-03-19T16:26:14.000Z",
+    "publishDate": "2024-03-20T02:31:02.434Z",
+    "title": "新一代联想问天WA5480 G3国产AI服务器成功交付",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-20 00:26:14",
+    "uuid": "42a3c972-15d1-4624-8e39-556a64feda43"
   }
 ]
