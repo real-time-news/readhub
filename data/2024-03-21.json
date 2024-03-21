@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "三星半导体发布新品路线图，展示了UFS 4.0和UFS 5.0存储技术的发展计划。为了满足端侧人工智能，特别是大语言模型的需求，三星正在研发更高速度的UFS接口 ...",
+    "id": "8Y7o7s43axy",
+    "order": 1710986740125,
+    "createdAt": "2024-03-21T01:56:18.000Z",
+    "publishDate": "2024-03-21T02:05:40.125Z",
+    "title": "三星计划 2027 年推出 UFS 5.0，顺序读取速度提升至 10GB/s以上",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-21 09:56:18",
+    "uuid": "60453698-eb96-4acc-8579-70b754ee17bf"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
