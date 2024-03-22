@@ -2,6 +2,41 @@
   {
     "newsArray": [
       { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "联发科下一代芯片天玑 9400 将采用全大核设计，包括 Cortex-X5、Cortex-X4 和 Cortex-A7xx 核心，预计将于 10 月份发布 ...",
+    "id": "8Y8kimRW0S3",
+    "order": 1711074694750,
+    "createdAt": "2024-03-22T02:31:35.000Z",
+    "publishDate": "2024-03-22T02:31:34.750Z",
+    "title": "消息称联发科天玑 9400 暂定 10 月发布，继续采用全大核设计",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-22 10:31:35",
+    "uuid": "caea8c1d-17ab-41f5-aa0b-3151b8c8f742"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "一名黑客通过发现特斯拉系统的新漏洞，获得了一辆Model 3轿车和20万美元奖金。特斯拉积极参与Pwn2Own黑客竞赛，通过提供丰厚奖金和电动汽车奖励，鼓励白帽黑客发现和修复漏洞，以保障网络安全。",
+    "id": "8Y8ujIQw1jZ",
+    "order": 1711074651158,
+    "createdAt": "2024-03-22T02:30:51.000Z",
+    "publishDate": "2024-03-22T02:30:51.158Z",
+    "title": "黑客发现特斯拉系统漏洞，赢得 20 万美元奖金和一辆 Model 3",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-22 10:30:51",
+    "uuid": "295cf250-9bf7-4671-a832-a8f9b5860ba5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" },
       { "siteName": "ITBear科技资讯" }
@@ -16,6 +51,24 @@
     "up": false,
     "date": "2024-03-22 10:06:00",
     "uuid": "748b0c33-13b6-49c0-b08c-1ec09f34a8dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "Redmi官方宣布将于4月发布新系列手机，该系列将搭载第三代骁龙8s旗舰芯片，跑分预计超过170万，重塑中端市场性能格局 ...",
+    "id": "8Y8pNwiEB59",
+    "order": 1711074674845,
+    "createdAt": "2024-03-22T02:01:40.000Z",
+    "publishDate": "2024-03-22T02:31:14.845Z",
+    "title": "Redmi新系列4月发布：首批搭载第三代骁龙8s 跑分超170万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-22 10:01:40",
+    "uuid": "d73c543b-8624-41fc-b9ea-8fab8cf42f04"
   },
   {
     "newsArray": [
@@ -304,5 +357,25 @@
     "up": false,
     "date": "2024-03-22 01:26:08",
     "uuid": "353a71fd-7384-4d91-bbd5-14cb577fa607"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "欧盟委员会正准备根据欧盟《数字市场法》对苹果公司和Alphabet Inc.旗下的谷歌进行调查，主要审视其应用商店开发者的费用、条款和条件，以及谷歌的广告政策 ...",
+    "id": "8Y8u0JfPRKN",
+    "order": 1711074643110,
+    "createdAt": "2024-03-21T17:21:01.000Z",
+    "publishDate": "2024-03-22T02:30:43.110Z",
+    "title": "据悉苹果和谷歌将成为欧盟数字市场法下首批调查对象",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-22 01:21:01",
+    "uuid": "d3b4a19e-c492-4d39-acf2-1b8da7dbb94b"
   }
 ]
