@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "上海梅龙镇伊势丹百货将于2024年6月30日因租约到期而终止营业，该百货曾是上海人的回忆，如今在中国内地市场仅剩天津的仁恒伊势丹百货一家门店 ...",
+    "id": "8YFJLql5XQn",
+    "order": 1711421910090,
+    "createdAt": "2024-03-26T02:58:31.000Z",
+    "publishDate": "2024-03-26T02:58:30.090Z",
+    "title": "百货业态关店潮继续，上海梅龙镇伊势丹将关闭",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-26 10:58:31",
+    "uuid": "c132cb0d-fa21-4f92-bbea-0456e20fd51b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司发布了tvOS 17.4更新，主要目的是修复错误和提升性能，新增了对Apple Music SharePlay的支持 ...",
+    "id": "8YG9rUycWDt",
+    "order": 1711421866620,
+    "createdAt": "2024-03-26T02:57:46.000Z",
+    "publishDate": "2024-03-26T02:57:46.620Z",
+    "title": "用户反馈第三方 Apple TV 遥控器不兼容苹果 tvOS 17.4 更新",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-26 10:57:46",
+    "uuid": "09726166-c7c7-47e5-a4af-6ca9b3efa3b5"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" }
