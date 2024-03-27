@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "戴尔科技公司为降低成本，实施裁员并限制外部招聘。受PC市场严峻形势和市场饱和等因素影响，戴尔PC出货量2023年下降20%，第四季度营收同比下降11% ...",
+    "id": "8YGQg3A664X",
+    "order": 1711502760511,
+    "createdAt": "2024-03-27T01:26:01.000Z",
+    "publishDate": "2024-03-27T01:26:00.511Z",
+    "title": "全年PC销量狂跌20% 戴尔宣布裁员并限制招聘",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-27 09:26:01",
+    "uuid": "467ba01a-7dc2-463b-a724-da4a94614710"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "中国商务部在世贸组织就美国《通胀削减法》中关于新能源汽车补贴的歧视性措施提起诉讼，以维护我国新能源汽车企业的利益和全球产业的公平竞争 ...",
+    "id": "8YGnuAdXiYX",
+    "order": 1711501292947,
+    "createdAt": "2024-03-27T01:01:32.000Z",
+    "publishDate": "2024-03-27T01:01:32.947Z",
+    "title": "中国在WTO起诉美国歧视性补贴政策，商务部回应",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-27 09:01:32",
+    "uuid": "1ca3bb03-6e02-4e80-a97f-ecd651acfac3"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "财联社" },
       { "siteName": "铅笔道" }
@@ -66,6 +100,24 @@
     "up": false,
     "date": "2024-03-27 08:11:14",
     "uuid": "a15a07d2-7fcb-4434-8d08-8c7d4e9d0dfa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "我国在太原卫星发射中心成功发射云海三号02星，卫星进入预定轨道，将用于大气海洋环境探测、空间环境探测等任务。",
+    "id": "8YHkqY5VPyb",
+    "order": 1711500972291,
+    "createdAt": "2024-03-26T23:56:21.000Z",
+    "publishDate": "2024-03-27T00:56:12.291Z",
+    "title": "我国成功发射云海三号02星",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-27 07:56:21",
+    "uuid": "2624ca7b-207d-4bb6-bba8-f3daa959ba8a"
   },
   {
     "newsArray": [
