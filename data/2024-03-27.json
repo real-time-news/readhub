@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "市场调查机构Factorial Funds的报告指出，OpenAI部署文本转视频模型Sora在高峰期时，需要72万片英伟达H100 AI加速卡，按每片3万美元的成本计算，总价值高达216亿美元 ...",
+    "id": "8YIErRj1Q1u",
+    "order": 1711524689462,
+    "createdAt": "2024-03-27T07:31:30.000Z",
+    "publishDate": "2024-03-27T07:31:29.462Z",
+    "title": "机构：部署Sora需要72万片英伟达加速卡 价值216亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-27 15:31:30",
+    "uuid": "76ae35b8-2e29-4b74-82e1-1713153b620d"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -67,6 +84,24 @@
     "up": false,
     "date": "2024-03-27 14:37:05",
     "uuid": "587e3a27-01d7-41ca-a076-ec72feed6442"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "理想汽车曾是中国造车新势力中热衷发布销量排行榜的厂商，但近期已停止更新销量排行，这可能与其创始人李想提出的降低对销量关注、回归健康增长道路的战略调整有关 ...",
+    "id": "8YHo4JJiJiQ",
+    "order": 1711524637001,
+    "createdAt": "2024-03-27T06:31:23.000Z",
+    "publishDate": "2024-03-27T07:30:37.001Z",
+    "title": "理想汽车已停止发布周销量排行榜 此前内部发文反思",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-27 14:31:23",
+    "uuid": "e86e0c4e-a478-40b1-8808-1bbfbb9aab22"
   },
   {
     "newsArray": [
