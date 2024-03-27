@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "运动相机制造商GoPro宣布将进行全球裁员，占员工总数的4%，并减少办公空间以降低运营成本。这一措施是公司重组计划的一部分，预计将节省约750万美元成本 ...",
+    "id": "8YHsgXai7Pl",
+    "order": 1711506555174,
+    "createdAt": "2024-03-27T02:29:16.000Z",
+    "publishDate": "2024-03-27T02:29:15.174Z",
+    "title": "运动相机厂商 GoPro 计划全球裁员 4%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-27 10:29:16",
+    "uuid": "af5f41b3-ff79-4c7b-b63c-f3379e1a8843"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌发布原生版Chrome浏览器适用于Windows on Arm，将在本周提供下载，优化了基于Arm的硬件和系统，旨在提供更快速流畅的上网体验 ...",
+    "id": "8YHp8Sod73D",
+    "order": 1711506380960,
+    "createdAt": "2024-03-27T02:26:21.000Z",
+    "publishDate": "2024-03-27T02:26:20.960Z",
+    "title": "谷歌发布全新 Chrome 浏览器，专为高通骁龙 Windows Arm PC 设计",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-27 10:26:21",
+    "uuid": "8c41436d-acba-4248-ae51-4bc917f415b1"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -112,6 +146,24 @@
     "up": false,
     "date": "2024-03-27 09:01:32",
     "uuid": "1ca3bb03-6e02-4e80-a97f-ecd651acfac3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "现代汽车集团计划到2026年在韩国投资68万亿韩元，约合506亿美元，并招聘8万人，以扩大在电动汽车领域的竞争优势 ...",
+    "id": "8YHpUKENbe9",
+    "order": 1711506358060,
+    "createdAt": "2024-03-27T00:46:28.000Z",
+    "publishDate": "2024-03-27T02:25:58.060Z",
+    "title": "现代汽车拟投入逾500亿美元，将电动汽车年产量提升至151万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-27 08:46:28",
+    "uuid": "a8783bbb-d31c-47ee-af05-0c94f3958c7b"
   },
   {
     "newsArray": [
