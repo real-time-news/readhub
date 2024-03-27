@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "麻省理工学院与Adobe合作开发了一种新图像生成技术DMD（Distribution Matching Distillation），该技术能显著提高图像生成速度，在现代GPU上每秒可生成20幅图像 ...",
+    "id": "8YIChb070jd",
+    "order": 1711519567186,
+    "createdAt": "2024-03-27T06:06:07.000Z",
+    "publishDate": "2024-03-27T06:06:07.186Z",
+    "title": "麻省理工大学携手 Adobe 演示 DMD AI 技术：每秒可生成20幅图像",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-27 14:06:07",
+    "uuid": "86ad7064-b4c3-440d-b6dc-7331159cca65"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "和讯网" },
       { "siteName": "搜狐科技" }
