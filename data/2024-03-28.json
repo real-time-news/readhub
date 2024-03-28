@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "北京市规划和自然资源委员会表示，2024年北京将持续推进城市总体规划落实，坚持房地联动、强化精准施策，适时优化完善相关土地交易规则。",
+    "id": "8YK3XAtrqvE",
+    "order": 1711616466883,
+    "createdAt": "2024-03-28T09:01:07.000Z",
+    "publishDate": "2024-03-28T09:01:06.883Z",
+    "title": "北京携手津冀两地推介宅地 拟适时优化土地交易规则",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 17:01:07",
+    "uuid": "d559d48b-32a5-41fd-9e5e-ea6813bbb584"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "亚马逊加大了对生成式AI领域的投资，向OpenAI的主要竞争对手Anthropic追加了27.5亿美元，使得总投资达到40亿美元 ...",
+    "id": "8YJryI2fLJW",
+    "order": 1711616321789,
+    "createdAt": "2024-03-28T08:58:41.000Z",
+    "publishDate": "2024-03-28T08:58:41.789Z",
+    "title": "AI军备赛开打，亚马逊向OpenAI对手追投27.5亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 16:58:41",
+    "uuid": "586cb959-5010-44f4-8440-c6ad4ed31a35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Take-Two宣布以4.6亿美元收购Gearbox，后者为《无主之地》系列游戏开发商及《遗迹》系列发行商，此前Gearbox已被Embracer集团以13亿美元收购。",
+    "id": "8YJluFshBdF",
+    "order": 1711616403109,
+    "createdAt": "2024-03-28T08:58:20.000Z",
+    "publishDate": "2024-03-28T09:00:03.109Z",
+    "title": "Take-Two以4.6亿美元收购《无主之地》制作商Gearbox",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 16:58:20",
+    "uuid": "89e07d3e-2416-4912-8a38-a15eff15011e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "快狗打车宣布将启动“春风行动-北京站”，自4月1日起，北京地区司机抽佣上限由16%降至10%，排名前20%的司机可享受8%抽佣率，旨在降低司机运营成本，提升收入水平。",
+    "id": "8YJk77B0JP0",
+    "order": 1711616261903,
+    "createdAt": "2024-03-28T08:57:42.000Z",
+    "publishDate": "2024-03-28T08:57:41.903Z",
+    "title": "快狗打车下调北京抽佣上限 由16%降至10%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 16:57:42",
+    "uuid": "e9cc23af-c839-4148-b7f0-b23e6ff4d877"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "21经济网" }
+    ],
+    "summary": "宁德时代发布了神行电池全能系列和麒麟电池全能系列，其中麒麟电池动力储备超1000马力，神行电池续航可达800+km，能量密度提升10% ...",
+    "id": "8YJlBqVv4wg",
+    "order": 1711616150682,
+    "createdAt": "2024-03-28T08:55:51.000Z",
+    "publishDate": "2024-03-28T08:55:50.682Z",
+    "title": "宁德时代神行电池与麒麟电池全能系列亮相，预计首发落地小米汽车 SU7",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 16:55:51",
+    "uuid": "6cdb1864-4f7b-4b18-861a-1fd0fa27b9f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "丰田汽车公司宣布，2024年2月份全球产量和销量分别同比下降12.1%和12.0%。其中，中国市场销量为83,332辆，同比下降35.7%。",
+    "id": "8YK0tucPTqw",
+    "order": 1711616083664,
+    "createdAt": "2024-03-28T08:54:43.000Z",
+    "publishDate": "2024-03-28T08:54:43.664Z",
+    "title": "丰田汽车2月中国市场销量同比下降35.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 16:54:43",
+    "uuid": "50bf32e2-9323-4407-864b-93dbd26dc5a5"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
@@ -239,6 +343,23 @@
     "up": false,
     "date": "2024-03-28 15:36:12",
     "uuid": "da35bc28-12ab-4bdb-8018-3a7f0ee75e9b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "OpenAI正在与一组美国开发者合作，测试根据GPT的使用情况分配收入的模式。他们希望创造一个充满活力的生态系统，让开发者因其创造力和影响力获得回报 ...",
+    "id": "8YJP28LFYlS",
+    "order": 1711616462138,
+    "createdAt": "2024-03-28T07:21:34.000Z",
+    "publishDate": "2024-03-28T09:01:02.138Z",
+    "title": "OpenAI挑选少量美国开发者测试GPT商店收入分成模式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 15:21:34",
+    "uuid": "a0a664cf-3b5a-48b3-a22c-b55f593cfdda"
   },
   {
     "newsArray": [
