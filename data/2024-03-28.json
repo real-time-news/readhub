@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉正在开发自己的“私有5G”网络基础设施，以支持其电动汽车和即将推出的人形机器人Optimus的通信连接需求 ...",
+    "id": "8YJqBS4V3Kg",
+    "order": 1711605719438,
+    "createdAt": "2024-03-28T06:01:59.000Z",
+    "publishDate": "2024-03-28T06:01:59.438Z",
+    "title": "特斯拉正在开发“私有5G”基础设施 为电动汽车和人形机器人提供连接",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 14:01:59",
+    "uuid": "70c06618-0ded-40bc-a7c0-f602cc5cef99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "理想汽车宣布其全自研的多模态认知大模型MindGPT成功备案，成为汽车领域首家获得此殊荣的厂商 ...",
+    "id": "8YJngojXIG7",
+    "order": 1711605363712,
+    "createdAt": "2024-03-28T05:56:03.000Z",
+    "publishDate": "2024-03-28T05:56:03.712Z",
+    "title": "理想汽车Mind GPT大模型率先通过国家备案，引领车载AI新篇章",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 13:56:03",
+    "uuid": "9d9ff049-14db-4287-a94c-c794f068f9a4"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "速途网" },
       { "siteName": "IT 之家" }
