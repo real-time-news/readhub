@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为去年继续保持全球通信设备市场第一位置，市场份额达到31.3%，而三星电子市场份额跌至全球第五，仅为6.1%。",
+    "id": "8YL3ZWqbNCH",
+    "order": 1711668697229,
+    "createdAt": "2024-03-28T23:31:38.000Z",
+    "publishDate": "2024-03-28T23:31:37.229Z",
+    "title": "韩媒：全球通信设备市场中国华为第一 韩国三星跌至第五",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-29 07:31:38",
+    "uuid": "354cf3fa-1ae0-4109-9811-620bc0cd42aa"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -50,5 +67,23 @@
     "up": false,
     "date": "2024-03-29 01:41:18",
     "uuid": "99c5eccc-a29c-46d2-9d02-0ce05eef987e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国加密货币交易平台FTX创始人萨姆·班克曼-弗里德因窃取80亿美元被美国纽约法院判处25年监禁。此前，他被判犯有七项欺诈和共谋罪，是美国历史上最大的金融欺诈案之一。",
+    "id": "8YKByMf4PKd",
+    "order": 1711668697713,
+    "createdAt": "2024-03-28T17:01:16.000Z",
+    "publishDate": "2024-03-28T23:31:37.713Z",
+    "title": "加密货币交易平台FTX创始人弗里德被判25年监禁",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-29 01:01:16",
+    "uuid": "f589fd02-39a5-4dd1-8775-8fca8c6db823"
   }
 ]
