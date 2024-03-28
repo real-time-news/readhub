@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "央广网宣布其App已成为首个完成基于HarmonyOS NEXT的鸿蒙原生应用全量版本开发的App，新版本在原生易用、流畅、安全、智能等方面有全面提升，并已适配全场景设备 ...",
+    "id": "8YI70IF5FSG",
+    "order": 1711585563816,
+    "createdAt": "2024-03-28T00:26:03.000Z",
+    "publishDate": "2024-03-28T00:26:03.816Z",
+    "title": "业内首个，央广网 App 已完成华为鸿蒙原生应用全量版本开发",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 08:26:03",
+    "uuid": "0fea6656-74a9-4926-ab4b-9a27b277f6fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌公司最近宣布对Google Maps应用进行三项更新，以帮助用户更轻松地规划夏日旅行。新功能包括借助AI工具概述餐厅和景点特色，提供菜单价格、排队情况等详细信息 ...",
+    "id": "8YJRAm8cpLk",
+    "order": 1711584388242,
+    "createdAt": "2024-03-28T00:06:28.000Z",
+    "publishDate": "2024-03-28T00:06:28.242Z",
+    "title": "Google Maps 引入 AI 工具：概述餐厅/景点特色、增强本地人推荐",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 08:06:28",
+    "uuid": "6f489124-8a55-4b18-9de2-62b1d54bcecd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国际半导体产业协会（SEMI）发布产业链报告指出，台积电和英特尔有望在年底前建成2纳米晶圆厂。其中，英特尔的月产能远超台积电，但台积电在苹果公司采用其2纳米工艺后，产能预计会有显著提升 ...",
+    "id": "8YIJqoczOsW",
+    "order": 1711584376558,
+    "createdAt": "2024-03-28T00:06:17.000Z",
+    "publishDate": "2024-03-28T00:06:16.558Z",
+    "title": "国际半导体产业协会预估台积电、英特尔年内建成 2nm 晶圆厂",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 08:06:17",
+    "uuid": "af40c349-0eb9-4c47-aad3-2fd04350c657"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "工业和信息化部、科学技术部、财政部、中国民用航空局联合印发了《通用航空装备创新应用实施方案（2024-2030年）》，提出未来几年我国通用航空装备的发展目标 ...",
+    "id": "8YId98xudoT",
+    "order": 1711584076329,
+    "createdAt": "2024-03-28T00:01:16.000Z",
+    "publishDate": "2024-03-28T00:01:16.329Z",
+    "title": "四部门：推进电动垂直起降航空器（eVTOL）等一批新型消费通用航空装备适航取证",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 08:01:16",
+    "uuid": "b1c8975a-851e-4410-a723-c01cf6624d73"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -15,5 +83,23 @@
     "up": false,
     "date": "2024-03-28 07:26:21",
     "uuid": "066c0b2a-6006-4ad1-ab54-4d640899240d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "亚马逊对人工智能初创公司Anthropic进行了一次27.5亿美元的投资，这是其史上最大的一笔风险投资 ...",
+    "id": "8YIyDn6MtJ9",
+    "order": 1711584102125,
+    "createdAt": "2024-03-27T20:31:20.000Z",
+    "publishDate": "2024-03-28T00:01:42.125Z",
+    "title": "亚马逊向人工智能初创公司Anthropic追加27.5亿美元投资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-03-28 04:31:20",
+    "uuid": "966eaf92-b89b-4f6e-a888-3dae382f0df5"
   }
 ]
