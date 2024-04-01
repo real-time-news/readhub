@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "华为技术有限公司近日公开了一项飞行机器人专利，该专利由陶秋阳、王波、赵耀和杜鹏共同发明 ...",
+    "id": "8YQ80VcRB4i",
+    "order": 1711944175147,
+    "createdAt": "2024-04-01T04:02:56.000Z",
+    "publishDate": "2024-04-01T04:02:55.147Z",
+    "title": "华为公开飞行机器人发明专利",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 12:02:56",
+    "uuid": "f5cdf6e0-7e8a-40d9-b25b-1f30c9264439"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子宣布将在2025年之后率先进入3D DRAM内存时代，并展示了两项3D DRAM新技术：垂直通道晶体管和堆叠DRAM ...",
+    "id": "8YQJRrhiHHa",
+    "order": 1711944127627,
+    "createdAt": "2024-04-01T04:02:08.000Z",
+    "publishDate": "2024-04-01T04:02:07.627Z",
+    "title": "三星计划 2025 年后在业界率先进入 3D DRAM 内存时代",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 12:02:08",
+    "uuid": "185b7c6b-e922-405a-9739-468711a268a4"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "腾讯网" },
       { "siteName": "新浪科技" }
