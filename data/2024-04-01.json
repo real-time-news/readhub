@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "腾讯云官方在愚人节推出腾讯会议极速版，新增三项功能提升开会效率。包括一键闭麦避免单人发言过长，AI 散会功能判断会议是否进入无效讨论并自动结束，以及会议信用分机制，根据用户行为和他人评分决定发言时长和会议发起权限。",
+    "id": "8YQEQlyKDHa",
+    "order": 1711939814321,
+    "createdAt": "2024-04-01T02:50:14.000Z",
+    "publishDate": "2024-04-01T02:50:14.321Z",
+    "title": "愚人节整活：腾讯会议极速版发布，支持一键闭麦",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 10:50:14",
+    "uuid": "8d9f85ae-456c-48ee-84fe-ed20017500a1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉Cybertruck的风阻系数官方公布为0.34，最近独立测试结果显示实际风阻系数为0.384，略高于官方数据。不同风洞设置会导致数据有轻微差异 ...",
+    "id": "8YQBZmPHYC0",
+    "order": 1711939794049,
+    "createdAt": "2024-04-01T02:49:55.000Z",
+    "publishDate": "2024-04-01T02:49:54.049Z",
+    "title": "特斯拉 Cybertruck 风洞测试：风阻系数略高于官方数据",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 10:49:55",
+    "uuid": "f160fa37-7897-4bdd-9d64-ba5e9e3cbbe5"
+  },
+  {
+    "newsArray": [
       { "siteName": "牛透社" },
       { "siteName": "环球网科技" },
       { "siteName": "36Kr" }
