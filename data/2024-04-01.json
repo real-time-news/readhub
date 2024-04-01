@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "机器之心" }
+    ],
+    "summary": "OpenAI推出了自定义音频模型“Voice Engine”，该模型能通过15秒的参考声音，生成与原音高度相似的音频 ...",
+    "id": "8YOxzSCX7CI",
+    "order": 1711941547427,
+    "createdAt": "2024-04-01T03:19:07.000Z",
+    "publishDate": "2024-04-01T03:19:07.427Z",
+    "title": "OpenAI首次展示音频模型Voice Engine，15秒即可复制原音",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 11:19:07",
+    "uuid": "90298990-b3c9-4d72-b1bd-d12c9044610c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "小米汽车针对网上流传的小米SU7车型锁单量达到两万的消息进行了澄清，称这一数据是错误的 ...",
+    "id": "8YQIMMPivKN",
+    "order": 1711941384424,
+    "createdAt": "2024-04-01T03:16:24.000Z",
+    "publishDate": "2024-04-01T03:16:24.424Z",
+    "title": "小米高管：小米SU7两万锁单量为谣言",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 11:16:24",
+    "uuid": "09fdd0e4-4ef8-485a-a79e-fe89287fe3be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "联电获得苹果新款iPhone天线模组芯片代工大单。",
+    "id": "8YQ7asHnVey",
+    "order": 1711941249905,
+    "createdAt": "2024-04-01T03:14:10.000Z",
+    "publishDate": "2024-04-01T03:14:09.905Z",
+    "title": "联电拿下苹果新款iPhone天线模组芯片代工大单",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 11:14:10",
+    "uuid": "e8b2c12b-3fe2-4c6b-824b-899f3bc76298"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "新东方创始人俞敏洪澄清自己并未计划提前去河南直播抢董宇辉风头，而是原定于4月1日在武夷山直播。俞敏洪表示，河南新东方的直播是当地子公司的活动，并非他本人参与 ...",
+    "id": "8YOWXhrIIyt",
+    "order": 1711941192283,
+    "createdAt": "2024-04-01T03:13:12.000Z",
+    "publishDate": "2024-04-01T03:13:12.283Z",
+    "title": "俞敏洪：已要求河南新东方文旅全面停止直播并进行整顿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 11:13:12",
+    "uuid": "cc9216e7-4932-49ee-9312-f0edac81bf7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "机器之心" },
+      { "siteName": "开源中国" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "昆仑万维宣布自研的「天工3.0」双千亿级大语言模型开启公测，采用4千亿级参数MoE混合专家模型，并计划开源 ...",
+    "id": "8YQESDu2rJE",
+    "order": 1711941123553,
+    "createdAt": "2024-04-01T03:12:04.000Z",
+    "publishDate": "2024-04-01T03:12:03.553Z",
+    "title": "天工 3.0 即将公测，同步开源 4000 亿参数 MoE 超级模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 11:12:04",
+    "uuid": "6e06589a-cc4c-47cb-b092-7b8a02cd5468"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
