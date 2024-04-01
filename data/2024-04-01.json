@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国科学院大连化学物理研究所的研究团队成功研发了高比能氢混动力电源，适用于工业级无人机。该技术已试飞成功，能有效解决锂电池续航时间短和低温环境适应性差的问题 ...",
+    "id": "8YQsoKNwqlz",
+    "order": 1711976509525,
+    "createdAt": "2024-04-01T13:01:49.000Z",
+    "publishDate": "2024-04-01T13:01:49.525Z",
+    "title": "中国科学家研发高比能氢混动力电源解决工业级无人机续航难题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 21:01:49",
+    "uuid": "f0b3e059-69fe-47c5-9590-5607ef7478e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "红米品牌总经理王腾在抖音直播中回应网友，目前没有计划推出红米汽车。小米汽车目前最重要的是完善SU7的产销全链路，并计划推出更侧重家庭市场的SUV车型 ...",
+    "id": "8YQzBoFxyZk",
+    "order": 1711976173123,
+    "createdAt": "2024-04-01T12:56:13.000Z",
+    "publishDate": "2024-04-01T12:56:13.123Z",
+    "title": "Redmi总经理确认：目前没有计划推出红米汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-01 20:56:13",
+    "uuid": "549b68ac-352a-40c0-97f5-f71a85fbb8bc"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "36Kr" },
       { "siteName": "IT 之家" }
