@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "微软工程师Wedson Almeida Filho发布邮件称，微软与Rust for Linux项目合作，发布新补丁改变内核中模块初始化，完善Rust内核代码的Allocation API，引入Rust内核模块的就地模块初始化 ...",
+    "id": "8YRG2qqf7AR",
+    "order": 1712029586509,
+    "createdAt": "2024-04-02T03:46:26.000Z",
+    "publishDate": "2024-04-02T03:46:26.509Z",
+    "title": "微软贡献模块初始化补丁：推动 Linux Kernel 集成 Rust",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-02 11:46:26",
+    "uuid": "a2b5fe00-5bd8-426d-b3dc-1a9d3a4962ff"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "腾讯网" },
       { "siteName": "新浪科技" },
