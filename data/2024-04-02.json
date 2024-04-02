@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软网页版Copilot在生成图片时存在一个BUG，即在生成过程中如果切换到其他页面，相关生成操作就会中止 ...",
+    "id": "8YRqUQOX3ex",
+    "order": 1712028760585,
+    "createdAt": "2024-04-02T03:32:40.000Z",
+    "publishDate": "2024-04-02T03:32:40.585Z",
+    "title": "网页版 Copilot 被曝 BUG：用户切换标签页后，生成图片操作会中止",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-02 11:32:40",
+    "uuid": "2f6621be-fd01-4a71-9211-f00c08966165"
+  },
+  {
+    "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "量子位" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "昆仑万维推出的AI音乐生成大模型“天工SkyMusic”开始免费邀测，是国内唯一公开的AI音乐生成大模型，正式版将于4月17日随天工3.0一起免费对社会开放。",
+    "id": "8YRvw7jCLMj",
+    "order": 1712028739066,
+    "createdAt": "2024-04-02T03:32:19.000Z",
+    "publishDate": "2024-04-02T03:32:19.066Z",
+    "title": "“天工SkyMusic”音乐大模型今日启动邀测",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-02 11:32:19",
+    "uuid": "fef17714-7876-400c-9f30-8b3d8342231a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Steam 2024年3月软硬件调查显示，简体中文使用率持续上升，显卡中RTX 3060保持第一并有所增长，而Windows 10 64位操作系统仍占主导地位，处理器方面英特尔保持领先。",
+    "id": "8YRumiQkbkG",
+    "order": 1712028426710,
+    "createdAt": "2024-04-02T03:27:07.000Z",
+    "publishDate": "2024-04-02T03:27:06.710Z",
+    "title": "Steam 3 月软硬件调查：简体中文保持第一，RTX 3060 继续提升",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-02 11:27:07",
+    "uuid": "993d6f93-82a2-4abf-89ac-cbcd4f706db1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子尽管面临内存芯片行业下滑，其股东回报率仍超过微软和Meta等科技巨头，达到77.6% ...",
+    "id": "8YRscdodDgR",
+    "order": 1712028381887,
+    "createdAt": "2024-04-02T03:26:22.000Z",
+    "publishDate": "2024-04-02T03:26:21.887Z",
+    "title": "三星电子去年股东回报率达 77.6%，远超微软和 Meta",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-02 11:26:22",
+    "uuid": "88d98e02-d9b4-4a0b-a66a-2306149b3165"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" }
