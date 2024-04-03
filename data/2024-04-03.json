@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "创业板指下跌超过1%，沪指和深成指分别下跌0.27%和0.66%。小米汽车、低空经济、算力和泛AI等领域跌幅较大，沪深京三市近4000只个股下跌。",
+    "id": "8YRu3l7CrXt",
+    "order": 1712110416934,
+    "createdAt": "2024-04-03T02:13:36.000Z",
+    "publishDate": "2024-04-03T02:13:36.934Z",
+    "title": "创业板指跌逾1%，下跌个股近4000只",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-03 10:13:36",
+    "uuid": "428f26fc-3f18-4ddb-bfa9-2b44a423caab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "AMD发布了全新的锐龙8000系列嵌入式处理器，这是首批集成AMD XDNA架构NPU的产品，面向工业AI应用进行了优化 ...",
+    "id": "8YSqeGiSB6t",
+    "order": 1712110110069,
+    "createdAt": "2024-04-03T02:08:31.000Z",
+    "publishDate": "2024-04-03T02:08:30.069Z",
+    "title": "AMD 发布锐龙 8000 系列嵌入式处理器：Zen 4 架构，集成 NPU",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-03 10:08:31",
+    "uuid": "58137b0c-4abe-44c6-b9f7-8d34c272314b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "少数派" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "ChatGPT开放免登录使用，但部分区域仍需注册账号。Chrome将推出DBSC标准，解决cookie劫持问题 ...",
+    "id": "8YTJwmRk6pc",
+    "order": 1712110004325,
+    "createdAt": "2024-04-03T02:06:44.000Z",
+    "publishDate": "2024-04-03T02:06:44.325Z",
+    "title": "派早报：ChatGPT 支持免登录使用等",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-03 10:06:44",
+    "uuid": "5b20b04b-fbaa-40a8-aa88-f612152713dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "辛选集团宣布成立子公司专责短视频直播带货业务，聚焦带货全流程，以安全和切片分销业务发展为目的。该公司切片分销业务是2024年的重点发展领域之一。",
+    "id": "8YSe6VLNuwl",
+    "order": 1712109963573,
+    "createdAt": "2024-04-03T02:06:03.000Z",
+    "publishDate": "2024-04-03T02:06:03.573Z",
+    "title": "快手顶流辛巴成立短视频切片带货公司，抢滩“切片分销”生意",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-03 10:06:03",
+    "uuid": "8aa56312-54b7-4658-8356-7f17e6d0d004"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "世纪云安近日完成数亿元A+轮融资，投资方为梁溪科创产业母基金和阳光海天停车产业集团。该公司是一家新能源汽车充电解决方案供应商和运营服务商，主要致力于社区场景下的新能源汽车柔性充电 ...",
+    "id": "8YSPwPgbcty",
+    "order": 1712109868117,
+    "createdAt": "2024-04-03T02:04:28.000Z",
+    "publishDate": "2024-04-03T02:04:28.117Z",
+    "title": "世纪云安完成数亿元A+轮融资，聚焦新能源充电领域",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-03 10:04:28",
+    "uuid": "b0d6f5bd-7403-40b2-ac3a-c36689d056d7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "中国证券网" },
+      { "siteName": "和讯网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "日本气象厅针对宫古岛、冲绳本岛等地区发布3米高海啸警报。",
+    "id": "8YTR5El09wL",
+    "order": 1712110274058,
+    "createdAt": "2024-04-03T01:16:22.000Z",
+    "publishDate": "2024-04-03T02:11:14.058Z",
+    "title": "日本气象厅3日面向宫古岛、冲绳本岛等地发布海啸警报",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-03 09:16:22",
+    "uuid": "8a442d62-043a-4bd0-b218-4b85a01b5288"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
