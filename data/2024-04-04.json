@@ -2,6 +2,115 @@
   {
     "newsArray": [
       { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司因系统错误向用户发送错误通知，道歉并保证解决问题。受影响用户若在2024年4月1日前已开通自动还款计划，应忽略该通知，系统将继续按付款偏好自动还款 ...",
+    "id": "8YV2QLxLE8a",
+    "order": 1712194326367,
+    "createdAt": "2024-04-04T01:32:06.000Z",
+    "publishDate": "2024-04-04T01:32:06.367Z",
+    "title": "苹果致歉信：系统错误导致自动还款计划出错",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-04 09:32:06",
+    "uuid": "988d6ed9-b881-4580-b965-7ecfc97d5c6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Niantic公司发布新闻稿宣布，其8th Wall Metaversal Deployment开发平台已适配苹果Vision Pro头显，便于开发者将WebAR体验引入苹果头显 ...",
+    "id": "8YV6iUaF63u",
+    "order": 1712194273096,
+    "createdAt": "2024-04-04T01:31:14.000Z",
+    "publishDate": "2024-04-04T01:31:13.096Z",
+    "title": "Niantic 平台已适配苹果 Vision Pro 头显，帮开发者推进 WebAR 体验",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-04 09:31:14",
+    "uuid": "723b3d3a-84b6-4a7d-9088-6f0408324137"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "中国移动的“九天自然语言交互大模型”获得国家网信办公布的已备案大模型清单认可，成为首个通过国家“生成式人工智能服务备案”和“境内深度合成服务算法备案”双备案的央企研发大模型 ...",
+    "id": "8YU4RWQSMUc",
+    "order": 1712194264118,
+    "createdAt": "2024-04-04T01:31:05.000Z",
+    "publishDate": "2024-04-04T01:31:04.118Z",
+    "title": "中国移动九天大模型通过双备案 2024年底将对标GPT-4完成多模态大模型训练",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-04 09:31:05",
+    "uuid": "d1dc1de8-2a31-48e3-8c67-c7872a39b31a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "南方周末" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "青海海西州茫崖市发生5.5级地震，震源深度10千米，震中位于花土沟镇。地震造成当地震感强烈，周边地区也有明显震感。目前暂未接到人员伤亡和财产损失报告。",
+    "id": "8YV9Cao6DId",
+    "order": 1712193394300,
+    "createdAt": "2024-04-04T01:16:34.000Z",
+    "publishDate": "2024-04-04T01:16:34.300Z",
+    "title": "青海海西州茫崖市发生5.5级地震 暂未接到人员伤亡报告",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-04 09:16:34",
+    "uuid": "de17abea-25e1-4e50-b50b-cbcbb61f96ad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌计划在iOS 18系统中为用户提供付费AI功能，并可能开设AI Store应用商店，让用户可以通过支付费用来解锁更多AI技能。",
+    "id": "8YV60BQwG0w",
+    "order": 1712192874509,
+    "createdAt": "2024-04-04T01:07:55.000Z",
+    "publishDate": "2024-04-04T01:07:54.509Z",
+    "title": "谷歌或为苹果iPhone用户提供付费Gemini AI技能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-04 09:07:55",
+    "uuid": "1fb88a12-3171-4ef0-b570-1446be3dde21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "iPadOS 17.5测试版固件曝光了苹果的一项新计划：将iPhone上的电池健康状态功能引入iPad。这一功能包括显示电池循环次数和电池容量信息 ...",
+    "id": "8YV7AFGcPFt",
+    "order": 1712192812321,
+    "createdAt": "2024-04-04T01:06:53.000Z",
+    "publishDate": "2024-04-04T01:06:52.321Z",
+    "title": "iPadOS 17.5泄天机：iPhone同款电池健康状态将同步上线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-04 09:06:53",
+    "uuid": "ae40c5b0-04a6-42b5-930e-7da2a0225025"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
     ],
@@ -35,6 +144,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉为应对人才争夺战，提升AI工程师薪酬。马斯克在社交媒体上表示，OpenAI以高薪挖角特斯拉工程师，并确认特斯拉AI科学家Ethan Knight将加入OpenAI或其初创公司xAI ...",
+    "id": "8YUzYjP0Zh0",
+    "order": 1712193084467,
+    "createdAt": "2024-04-04T00:21:51.000Z",
+    "publishDate": "2024-04-04T01:11:24.467Z",
+    "title": "马斯克称正在提高特斯拉AI团队薪酬 以阻止OpenAI挖角",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-04 08:21:51",
+    "uuid": "904b365e-2176-44c9-9331-aa4e3e2003da"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "快科技" },
@@ -50,6 +177,25 @@
     "up": false,
     "date": "2024-04-04 08:07:32",
     "uuid": "79f5fcab-db7d-4ef9-bbb7-f03d4b470339"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "苹果公司正在研究个人机器人技术，可能推出一款能在家中跟随用户移动的移动机器人，以及一种先进的桌面家用设备，利用机器人将显示屏四处移动。目前研发仍处于起步阶段，尚不清楚是否会发布 ...",
+    "id": "8YUo9Ql3g3s",
+    "order": 1712192818374,
+    "createdAt": "2024-04-03T23:25:50.000Z",
+    "publishDate": "2024-04-04T01:06:58.374Z",
+    "title": "寻找新增长来源 苹果公司据悉研究将家用机器人作为下一重大项目",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-04 07:25:50",
+    "uuid": "aee7d4be-2679-4083-9fca-5fa66e546d37"
   },
   {
     "newsArray": [
@@ -69,6 +215,26 @@
     "up": false,
     "date": "2024-04-04 04:41:43",
     "uuid": "5ea95fa4-b268-4e39-808f-d15709f38b59"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "美联储主席鲍威尔表示，当前货币政策有效，对传导中断的担忧尚早，投资决策应咨询专业顾问。",
+    "id": "8YUgykOVEso",
+    "order": 1712194554086,
+    "createdAt": "2024-04-03T20:12:33.000Z",
+    "publishDate": "2024-04-04T01:35:54.086Z",
+    "title": "美联储主席鲍威尔力挺有效货币政策，市场无需担忧传导中断",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-04 04:12:33",
+    "uuid": "1b4182bd-0e8f-4dda-a30f-82dec8053192"
   },
   {
     "newsArray": [
