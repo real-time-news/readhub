@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "和讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "金地集团2024年3月签约面积和签约金额同比均大幅下降，跌幅分别为60.18%和69.53%。",
+    "id": "8YdyEpr3tSz",
+    "order": 1712720467181,
+    "createdAt": "2024-04-10T03:41:07.000Z",
+    "publishDate": "2024-04-10T03:41:07.181Z",
+    "title": "金地集团：3月公司实现签约金额同比下降69.53%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-10 11:41:07",
+    "uuid": "94aebcec-95d1-47ff-a2cf-4eee0703a0bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "i黑马" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米汽车的一位新车主在社交媒体上发布视频反映，其刚提车不久的操作屏幕无法关闭后备厢。售后服务人员表示问题出在软件上。小米汽车客服已承诺会对此情况予以反馈并处理。",
+    "id": "8Yf2tLqVr8B",
+    "order": 1712720149933,
+    "createdAt": "2024-04-10T03:35:50.000Z",
+    "publishDate": "2024-04-10T03:35:49.933Z",
+    "title": "车主称新提小米汽车操作屏幕关不上后备厢 客服回应将反馈处理",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-10 11:35:50",
+    "uuid": "ac73b352-7715-45ef-824e-c552ff30b5e9"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
