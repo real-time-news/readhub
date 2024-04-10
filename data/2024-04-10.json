@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "亚马逊宣布投资2500万美元，启动一项为期10年的研究合作，旨在推进人工智能技术，并与华盛顿大学、筑波大学及英伟达建立新的合作伙伴关系。",
+    "id": "8YevuX8YahC",
+    "order": 1712740939670,
+    "createdAt": "2024-04-10T09:22:20.000Z",
+    "publishDate": "2024-04-10T09:22:19.670Z",
+    "title": "亚马逊在一项研究合作中投资2500万美元 以推进人工智能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-10 17:22:20",
+    "uuid": "94e4347c-6200-4801-99ec-c2222bed25e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "谷歌发布CodeGemma大语言模型，为全球开发人员提供高质量的代码辅助工具 ...",
+    "id": "8YfHSIllG99",
+    "order": 1712740902513,
+    "createdAt": "2024-04-10T09:21:43.000Z",
+    "publishDate": "2024-04-10T09:21:42.513Z",
+    "title": "谷歌发布CodeGemma AI模型，打造顶级代码辅助利器",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-10 17:21:43",
+    "uuid": "ef848f6c-d37f-4ed2-9778-c808f56f8718"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "腾讯网" },
       { "siteName": "财联社" }
@@ -346,6 +380,23 @@
     "up": false,
     "date": "2024-04-10 15:06:23",
     "uuid": "07202469-7aba-4f9c-8405-307144329bae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "特斯拉CEO埃隆·马斯克透露，训练新一代AI聊天机器人Grok 3需要10万块英伟达H100 GPU芯片，而今年特斯拉在英伟达AI芯片上的花费将超过5亿美元 ...",
+    "id": "8Ydxg3Y5toq",
+    "order": 1712741041219,
+    "createdAt": "2024-04-10T07:03:53.000Z",
+    "publishDate": "2024-04-10T09:24:01.219Z",
+    "title": "马斯克：训练下一代AI聊天机器人Grok 3需要10万块英伟达GPU",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-10 15:03:53",
+    "uuid": "6f033aa2-9946-4f67-bdd7-a40e6598cf02"
   },
   {
     "newsArray": [
