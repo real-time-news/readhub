@@ -1,6 +1,131 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国科学院青岛生物能源与过程研究所在硫化物电解质研究方面取得新进展，其制备的软包电池循环性能稳定 ...",
+    "id": "8YgihDAzDfB",
+    "order": 1712801151127,
+    "createdAt": "2024-04-11T02:05:51.000Z",
+    "publishDate": "2024-04-11T02:05:51.127Z",
+    "title": "中科院青岛能源所硫化物电解质研究取得新进展 力争2026年实现硫化物全固态电池批量化生产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 10:05:51",
+    "uuid": "e29030ee-6048-4df1-b7e5-4e9098dac567"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "3月份，我国食品烟酒类价格环比下降2.2%，带动CPI下降约0.61个百分点。其中，鲜菜价格下降11.0%，影响CPI下降约0.27个百分点 ...",
+    "id": "8Ygo2p2YhL5",
+    "order": 1712800975172,
+    "createdAt": "2024-04-11T02:02:55.000Z",
+    "publishDate": "2024-04-11T02:02:55.172Z",
+    "title": "国家统计局：3月猪肉价格环比下降6.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 10:02:55",
+    "uuid": "123da7b4-d348-47f5-91c6-b2edbc9d0388"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果代工厂富士康正考虑引入轮值CEO制度，以改革管理层并培养未来人才。该计划是为响应投资者要求加强公司治理，分离首席执行官和董事长职务 ...",
+    "id": "8YgcymhRpsL",
+    "order": 1712800626524,
+    "createdAt": "2024-04-11T01:57:06.000Z",
+    "publishDate": "2024-04-11T01:57:06.524Z",
+    "title": "消息称富士康考虑引入轮值 CEO 制度，加强公司治理",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 09:57:06",
+    "uuid": "d68c7caa-0d82-499a-a097-09221877902b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "动脉网" },
+      { "siteName": "动脉网" }
+    ],
+    "summary": "贵阳熠品生物科技有限公司（熠品生物）已完成数千万元A轮融资，投资方包括贵阳创投、贵阳市卫健投和贵阳白云实业。融资将用于建设高水平无源医疗器械CDMO平台 ...",
+    "id": "8YggvKdEIHM",
+    "order": 1712800585748,
+    "createdAt": "2024-04-11T01:56:26.000Z",
+    "publishDate": "2024-04-11T01:56:25.748Z",
+    "title": "熠品生物完成数千万元A轮融资，打造医疗器械CDMO平台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 09:56:26",
+    "uuid": "b20bb88b-2533-4eae-b52b-c221c789bcd5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果在iOS 17.5 Beta 1更新中为Apple News+应用引入了新的每日文字游戏“Quartiles”，旨在提高用户黏性 ...",
+    "id": "8YgZPAHxzEE",
+    "order": 1712800014903,
+    "createdAt": "2024-04-11T01:46:55.000Z",
+    "publishDate": "2024-04-11T01:46:54.903Z",
+    "title": "苹果 iOS 17.5 为 Apple News+ 订阅者新增“Quartiles”文字游戏",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 09:46:55",
+    "uuid": "16c1b37a-7be8-4c5f-bf75-7d3c645c86db"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "国家统计局公布2024年3月CPI和PPI数据，CPI环比下降1.0%，同比上涨0.1%，主要受食品和出行服务价格变动影响 ...",
+    "id": "8Ygo3ZqxAKu",
+    "order": 1712800935963,
+    "createdAt": "2024-04-11T01:42:23.000Z",
+    "publishDate": "2024-04-11T02:02:15.963Z",
+    "title": "国家统计局：3月份CPI季节性回落 PPI环比降幅收窄",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 09:42:23",
+    "uuid": "382fc228-5e2b-46d4-be1c-2e0df492d8eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "中国证券网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "2024年3月，全国居民消费价格同比微涨0.1%，其中城市价格持平，农村价格上涨0.1%。食品价格下降2.7%，非食品价格上涨0.7%，消费品价格下降0.4%，服务价格上涨0.8% ...",
+    "id": "8Ygng0APeTh",
+    "order": 1712800014397,
+    "createdAt": "2024-04-11T01:41:49.000Z",
+    "publishDate": "2024-04-11T01:46:54.397Z",
+    "title": "国家统计局：3月份居民消费价格同比上涨0.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 09:41:49",
+    "uuid": "7e8c89b3-05bd-4537-b091-51600b2fa6e0"
+  },
+  {
+    "newsArray": [
       { "siteName": "动脉网" },
       { "siteName": "36Kr" },
       { "siteName": "动脉网" }
