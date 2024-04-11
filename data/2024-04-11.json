@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软在其官方Build 2024开发者大会日程中宣布，将升级其系统优化和扩展工具PowerToys，引入基于本地AI模型的高级粘贴功能 ...",
+    "id": "8YghyczkZzj",
+    "order": 1712795152878,
+    "createdAt": "2024-04-11T00:25:52.000Z",
+    "publishDate": "2024-04-11T00:25:52.878Z",
+    "title": "微软预告 PowerToys 新技能：基于本地 AI 模型的高级粘贴功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 08:25:52",
+    "uuid": "ce5f4440-1487-4293-a2ae-c44621988674"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "iOS 18可能会加入全新的Safari浏览助手，并接入生成式AI。该功能可能使用iCloud Private Relay的基础设施，注重隐私保护 ...",
+    "id": "8YgbYX8jkqk",
+    "order": 1712793468384,
+    "createdAt": "2024-04-10T23:57:48.000Z",
+    "publishDate": "2024-04-10T23:57:48.384Z",
+    "title": "iOS 18可能配备全新Safari浏览助手 将接入生成式AI",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 07:57:48",
+    "uuid": "fdad8b1b-9e22-4b03-8db6-6bc523642bc6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果的Vision Pro头显正在成为航空航天等领域工程师的新工具，提高工作效率并减少失误。相比之下，谷歌眼镜虽曾一度流行，但最终停产，而苹果有望填补其留下的市场空白。",
+    "id": "8YgeOubYbQI",
+    "order": 1712793418523,
+    "createdAt": "2024-04-10T23:56:59.000Z",
+    "publishDate": "2024-04-10T23:56:58.523Z",
+    "title": "苹果 Vision Pro 进军航空航天领域，接棒谷歌眼镜用于飞机引擎维修",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-11 07:56:59",
+    "uuid": "68ecce24-c8ae-4e9a-b63a-4066c780c822"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
