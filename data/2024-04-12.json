@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司获得了一项圆柱形微机电系统（MEMS）的音频组件专利，这种新型的扬声器元件可能用于未来的iPad、iPhone等产品，以解决高品质音频需求与产品体积缩小之间的矛盾 ...",
+    "id": "8YiLRv3W2lm",
+    "order": 1712881599023,
+    "createdAt": "2024-04-12T00:26:39.000Z",
+    "publishDate": "2024-04-12T00:26:39.023Z",
+    "title": "苹果 iPhone/iPad 新专利获批：探索圆柱形 MEMS 扬声器元件",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-12 08:26:39",
+    "uuid": "b5741af2-79ba-4818-a949-cef20a537319"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米汽车针对网络上有网友质疑其SU 7 Max车型在赛道上刹车性能不佳的问题进行了回应。小米指出，网上所流传的刹车片对比图存在错配，导致了事实的误导 ...",
+    "id": "8YhiRgNOHSC",
+    "order": 1712880113127,
+    "createdAt": "2024-04-12T00:01:53.000Z",
+    "publishDate": "2024-04-12T00:01:53.127Z",
+    "title": "小米汽车回应刹车片面积质疑：错配对比，产生事实误导",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-12 08:01:53",
+    "uuid": "7d2a8c3f-11b6-48bc-8026-ed74155f194c"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "36Kr" },
       { "siteName": "IT 之家" }
@@ -85,5 +119,24 @@
     "up": false,
     "date": "2024-04-12 04:05:58",
     "uuid": "d02b17c0-3a61-46d3-866c-62968a6870b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "和讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国家统计局发布最新CPI和PPI数据，3月CPI同比涨幅回落，主要受食品和出行服务价格下跌影响，非食品价格涨幅也下降 ...",
+    "id": "8Yhad8eFres",
+    "order": 1712880113722,
+    "createdAt": "2024-04-11T18:11:23.000Z",
+    "publishDate": "2024-04-12T00:01:53.722Z",
+    "title": "CPI同比涨幅回落，扩内需密集部署推进",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-12 02:11:23",
+    "uuid": "5d0932a2-69d4-4135-a8b0-652178b3370d"
   }
 ]
