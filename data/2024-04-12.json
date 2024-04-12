@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "Ubuntu 24.04 LTS 的首个 Beta 测试版已经发布，虽然发布时间比预期晚，但是带来了多项新功能和改进，包括改进的 Ubuntu 桌面安装程序、新的 ZFS 和 TPM 支持、Ubuntu 应用中心和图形化固件更新工具的更新、Netplan 1.0 网络管理配置以及 GNOME 46 桌面环境。",
+    "id": "8Yicz0jK7v8",
+    "order": 1712910322626,
+    "createdAt": "2024-04-12T08:25:23.000Z",
+    "publishDate": "2024-04-12T08:25:22.626Z",
+    "title": "Ubuntu 24.04 LTS 开启 Beta 测试",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-12 16:25:23",
+    "uuid": "04f09e7f-ff4d-41d8-804f-6f60733236cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "澳门特别行政区行政会宣布已完成讨论调整不动产需求管理措施的政策方案及税务措施法案，其中包括取消特别印花税、额外印花税及取得印花税，相关法案将通过紧急程序提交立法会处理。",
+    "id": "8YivA604xkh",
+    "order": 1712910103348,
+    "createdAt": "2024-04-12T08:21:43.000Z",
+    "publishDate": "2024-04-12T08:21:43.348Z",
+    "title": "澳门楼市全面撤辣 将取消不动产交易“三税”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-12 16:21:43",
+    "uuid": "15e07470-2428-40d6-87e7-c552a3c631f6"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -49,6 +83,43 @@
     "up": false,
     "date": "2024-04-12 16:11:03",
     "uuid": "31d5dd4d-306a-498c-b820-3e0c1b04e402"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "中国证券网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "海关总署副署长王令浚在国新办发布会上表示，生产者价格下跌不一定意味着产能过剩，而是可能受到原材料价格波动、技术更新和生产商让利等多种因素影响 ...",
+    "id": "8YitGWR8LVq",
+    "order": 1712910057592,
+    "createdAt": "2024-04-12T08:00:44.000Z",
+    "publishDate": "2024-04-12T08:20:57.592Z",
+    "title": "海关总署：不认为生产者价格下跌就意味着所谓的产能过剩",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-12 16:00:44",
+    "uuid": "1fe8de0e-f5a5-48c2-b189-1589ad7428af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "一名北美特斯拉车主在凌晨时分因胰岛素泵故障导致严重脱水和高血糖，利用特斯拉Model Y的FSD（完全自动驾驶）功能将车辆导航至医院，并成功自动停车，使他能够及时就医 ...",
+    "id": "8YiNyL6K8BA",
+    "order": 1712910364730,
+    "createdAt": "2024-04-12T07:52:15.000Z",
+    "publishDate": "2024-04-12T08:26:04.730Z",
+    "title": "特斯拉FSD救车主一命：自动驾驶将其送到医院抢救",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-12 15:52:15",
+    "uuid": "623ba399-524b-49a6-9cd0-8240dba7adf9"
   },
   {
     "newsArray": [
