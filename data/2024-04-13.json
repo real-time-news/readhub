@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "网络安全公司Varonis Threat Labs披露微软SharePoint存在两个漏洞，黑客可利用这两个漏洞下载日志文件 ...",
+    "id": "8Yk9d0no0Df",
+    "order": 1712980319389,
+    "createdAt": "2024-04-13T03:52:00.000Z",
+    "publishDate": "2024-04-13T03:51:59.389Z",
+    "title": "微软 SharePoint 被曝安全漏洞，被黑客利用可访问、下载日志文件",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-13 11:52:00",
+    "uuid": "9ce6632d-4aed-49e6-8535-facfa8084593"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "手机中国" },
       { "siteName": "搜狐科技" }
