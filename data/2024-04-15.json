@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国政府计划向三星电子提供高达64亿美元的资助，以支持其在得克萨斯州扩大芯片生产，包括建设两座晶圆代工厂、一座研发基地和一座先进芯片封装工厂，同时也会用于扩建三星在得州奥斯汀的现有工厂。",
+    "id": "8YnxyuRaHRU",
+    "order": 1713176821727,
+    "createdAt": "2024-04-15T10:27:02.000Z",
+    "publishDate": "2024-04-15T10:27:01.727Z",
+    "title": "美国政府宣布：计划向三星电子在美芯片项目提供超60亿美元补贴",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-15 18:27:02",
+    "uuid": "c1b05fb0-2abd-43c5-ba56-04a21439e604"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "TikTok即将推出新的照片分享应用TikTok Notes，以扩大其内容生态系统。新应用允许用户选择是否分享现有照片，旨在吸引不喜欢视频的用户 ...",
+    "id": "8YnnGfMU8Zg",
+    "order": 1713176785650,
+    "createdAt": "2024-04-15T10:26:26.000Z",
+    "publishDate": "2024-04-15T10:26:25.650Z",
+    "title": "TikTok将推图片应用 TikTok Notes 丰富内容生态",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-15 18:26:26",
+    "uuid": "c7f0e84b-72ca-435c-979b-728c75fb5ded"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "工信部数据显示，今年1-2月，全国锂电池产量超117GWh，同比增长15%。其中，储能型锂电池产量超17GWh，新能源汽车用动力型锂电池装车量约50GWh ...",
+    "id": "8Yo2Rjilhk6",
+    "order": 1713176742854,
+    "createdAt": "2024-04-15T10:25:41.000Z",
+    "publishDate": "2024-04-15T10:25:42.854Z",
+    "title": "工信部：1-2月全国锂电池总产量超过117GWh 同比增长15%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-15 18:25:41",
+    "uuid": "54ae928f-c9c9-4fd3-a0bf-3e0b8a2040c8"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
