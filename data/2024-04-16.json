@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中国证券网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "国家统计局初步核算显示，一季度我国国内生产总值达到296299亿元，同比增长5.3%，环比增长1.6%。",
+    "id": "8Yp8RxUvZ6P",
+    "order": 1713234105444,
+    "createdAt": "2024-04-16T02:21:44.000Z",
+    "publishDate": "2024-04-16T02:21:45.444Z",
+    "title": "国家统计局：2024年一季度GDP同比增长5.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 10:21:44",
+    "uuid": "c450292c-6924-47fb-b2d8-580e08dd8139"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "中国证券网" },
+      { "siteName": "中国证券网" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "国家统计局数据显示，3月份我国规上工业发电量达到7477亿千瓦时，同比增长2.8%，增速较1-2月下降5.5个百分点，日均发电量为241.2亿千瓦时 ...",
+    "id": "8Yp8hhH2Nnd",
+    "order": 1713234059338,
+    "createdAt": "2024-04-16T02:12:41.000Z",
+    "publishDate": "2024-04-16T02:20:59.338Z",
+    "title": "国家统计局：3月份规上工业发电量7477亿千瓦时 同比增长2.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 10:12:41",
+    "uuid": "1cacd323-c1eb-4573-8e9c-66d75b466168"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "在百度AI开发者大会上，李彦宏宣布文心一言用户数突破2亿，API日均调用量达2亿，服务客户8.5万，千帆平台AI原生应用有19万 ...",
+    "id": "8Yp7z7cjCwi",
+    "order": 1713233938541,
+    "createdAt": "2024-04-16T02:11:47.000Z",
+    "publishDate": "2024-04-16T02:18:58.541Z",
+    "title": "李彦宏：文心一言用户数突破2亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 10:11:47",
+    "uuid": "8b650680-88b5-4cc5-9e22-2dcd2185648a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "国务院新闻办发布一季度国民经济运行情况，国家统计局副局长盛来运介绍，一季度我国GDP达296299亿元，同比增长5.3%，环比增长1.6%。",
+    "id": "8Yp8io5ud3i",
+    "order": 1713234059730,
+    "createdAt": "2024-04-16T02:11:39.000Z",
+    "publishDate": "2024-04-16T02:20:59.730Z",
+    "title": "一季度国内生产总值296299亿元，同比增长5.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 10:11:39",
+    "uuid": "0d7da134-388a-4403-907d-2f218feef95e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿欧" },
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "鲁班到家近日完成数亿元B轮融资，主要用于产品技术升级、运力体系升级和品牌营销推广等 ...",
+    "id": "8Yp3lakDLZC",
+    "order": 1713233398163,
+    "createdAt": "2024-04-16T02:09:59.000Z",
+    "publishDate": "2024-04-16T02:09:58.163Z",
+    "title": "鲁班到家获数亿元B轮融资，家居售后服务平台近年来最大单笔投资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 10:09:59",
+    "uuid": "75b331d9-51de-4d08-bd74-fdfaf2a545be"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" },
       { "siteName": "DoNews" }
@@ -200,6 +305,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "宝马集团在北京国际车展上展示了中国首秀的BMW新世代概念车，推出了下一代BMW iDrive人机交互系统和平视显示技术 ...",
+    "id": "8YnhNkRhOBJ",
+    "order": 1713234009656,
+    "createdAt": "2024-04-16T00:36:47.000Z",
+    "publishDate": "2024-04-16T02:20:09.656Z",
+    "title": "宝马集团发布BMW新世代概念车：将于2025年正式投产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 08:36:47",
+    "uuid": "941f843d-fe68-475c-b294-8f81c6580aaf"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "快科技" },
@@ -356,5 +479,23 @@
     "up": false,
     "date": "2024-04-16 07:13:47",
     "uuid": "c8d7c14b-16f7-4351-9d14-01c36a2c8fb2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "健康界" }
+    ],
+    "summary": "国家卫生健康委办公厅发布通知，修订并印发《原发性肝癌诊疗指南（2024年版）》，旨在提高诊疗规范化水平，保障医疗质量安全，维护患者健康权益 ...",
+    "id": "8YoMNsGyto4",
+    "order": 1713233500440,
+    "createdAt": "2024-04-15T16:14:47.000Z",
+    "publishDate": "2024-04-16T02:11:40.440Z",
+    "title": "国家卫健委发布《原发性肝癌诊疗指南(2024年版)》",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 00:14:47",
+    "uuid": "5b43f360-e548-42ed-956b-0544bdbc0e8c"
   }
 ]
