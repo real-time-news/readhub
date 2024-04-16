@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "本田中国宣布其全新纯电品牌“烨”将推出S7、P7两款车型，搭载宁德时代电池和华为XSCENE光场屏，并与航盛电子、科大讯飞等建立供应商合作，预计明年量产交付。",
+    "id": "8YpVCnUpEKg",
+    "order": 1713254801754,
+    "createdAt": "2024-04-16T08:06:42.000Z",
+    "publishDate": "2024-04-16T08:06:41.754Z",
+    "title": "本田全新纯电品牌车型将搭载宁德时代电池、华为光场屏",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 16:06:42",
+    "uuid": "2b990a85-cf60-4af7-9bd1-6f7cbaed5291"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "i黑马" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "日本计划将针对科技公司的垄断行为罚款提高至销售额的20%，旨在防止应用市场垄断，主要针对苹果和谷歌等操作系统公司 ...",
+    "id": "8YpAzZdbndB",
+    "order": 1713254550543,
+    "createdAt": "2024-04-16T08:02:30.000Z",
+    "publishDate": "2024-04-16T08:02:30.543Z",
+    "title": "日本将对苹果等应用商店垄断者提高罚款 至高为销售额的30%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 16:02:30",
+    "uuid": "005cc707-0dd0-4a0a-ba0e-da34acf4bab0"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -84,6 +118,25 @@
     "up": false,
     "date": "2024-04-16 15:21:07",
     "uuid": "ae7e85f9-6fec-43fd-8fab-576f0edf737a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "Adobe宣布其视频编辑软件Premiere Pro正在开发允许使用OpenAI等第三方生成的人工智能工具的早期阶段。新功能包括用人工智能生成的物体填充场景以及自动移除场景干扰 ...",
+    "id": "8YoJzfijIay",
+    "order": 1713254112857,
+    "createdAt": "2024-04-16T07:20:05.000Z",
+    "publishDate": "2024-04-16T07:55:12.857Z",
+    "title": "Adobe探索与OpenAI合作 增加人工智能视频工具",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-16 15:20:05",
+    "uuid": "45aac4f4-0e65-4788-90fd-75162d1e65a6"
   },
   {
     "newsArray": [
