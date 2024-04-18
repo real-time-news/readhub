@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "香港恒生指数小幅上涨0.01%，恒生科技指数微跌0.19%。小鹏汽车上涨超2%，亿华通和融创中国涨超1%，理想汽车下跌超1%。",
+    "id": "8Ys2QMFXSNV",
+    "order": 1713411976785,
+    "createdAt": "2024-04-18T03:46:16.000Z",
+    "publishDate": "2024-04-18T03:46:16.785Z",
+    "title": "港股恒指小幅高开 小鹏汽车涨超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-18 11:46:16",
+    "uuid": "81a3e48d-6f40-48aa-bf91-dc06a2fc21ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "荷兰半导体设备制造商阿斯麦（ASML）交付了第二台高数值孔径（NA）极紫外（EUV）光刻机给一家未公开的公司，该设备能制造更高密度的芯片 ...",
+    "id": "8YsYwXcASwJ",
+    "order": 1713411963040,
+    "createdAt": "2024-04-18T03:46:03.000Z",
+    "publishDate": "2024-04-18T03:46:03.040Z",
+    "title": "阿斯麦向客户交付第二台 High NA EUV 光刻机，买家身份成谜",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-18 11:46:03",
+    "uuid": "d36ff9fe-f5ac-43a3-b942-25663818c963"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" }
