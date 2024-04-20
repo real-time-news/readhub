@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "在第二届OceanBase开发者大会上，OceanBase发布了4.3版本，该版本推出了全新的列式存储引擎，并打造了PB级实时分析数据库，能够实现秒级实时分析 ...",
+    "id": "8YvvcKxPySD",
+    "order": 1713598264312,
+    "createdAt": "2024-04-20T07:31:05.000Z",
+    "publishDate": "2024-04-20T07:31:04.312Z",
+    "title": "蚂蚁OceanBase 4.3数据库发布：可秒级实时分析",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-20 15:31:05",
+    "uuid": "2fca3c16-21ef-4cd6-a070-11397ad14bcf"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "36Kr" },
       { "siteName": "凤凰科技" }
