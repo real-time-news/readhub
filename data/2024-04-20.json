@@ -18,6 +18,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "第135届广交会第一期线下展于19日下午结束，展期自4月15日开幕，吸引了来自212个国家和地区的125440名境外采购商线下参会，同比增长23.2% ...",
+    "id": "8YvLtfJ3Q2j",
+    "order": 1713585342895,
+    "createdAt": "2024-04-20T03:47:23.000Z",
+    "publishDate": "2024-04-20T03:55:42.895Z",
+    "title": "第135届广交会线下交易火热 境外采购商增长23.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-20 11:47:23",
+    "uuid": "18baffc7-3a70-4cb0-b71c-d207672212c8"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -32,6 +51,25 @@
     "up": false,
     "date": "2024-04-20 11:18:43",
     "uuid": "a1af63d2-7b3a-49ec-9ca0-199e563fede6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国新能源汽车发展迅速，4月上半月渗透率首次突破50%，提前11年完成国家规划目标。与此同时，合资燃油车市场份额大幅下跌，出现关店潮和消费者纠纷 ...",
+    "id": "8YuOa9ChXxU",
+    "order": 1713585671719,
+    "createdAt": "2024-04-20T02:56:50.000Z",
+    "publishDate": "2024-04-20T04:01:11.719Z",
+    "title": "新能源渗透率历史性突破50% 燃油车电动车市场天秤正式反转",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-20 10:56:50",
+    "uuid": "ea27548f-f5c2-4980-89c0-41e22921bf8d"
   },
   {
     "newsArray": [
@@ -207,5 +245,25 @@
     "up": false,
     "date": "2024-04-20 04:07:09",
     "uuid": "a252f538-0ac6-4d9c-874e-1dee87fbf94a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "华为终端BG CTO李小龙展示了华为Pura 70 Ultra的卫星通信新功能，包括卫星图片消息功能，支持发送文字、地理位置和图片信息，可通过华为畅连App或普通短信接收 ...",
+    "id": "8Yv1LBT9TNL",
+    "order": 1713585670485,
+    "createdAt": "2024-04-19T16:11:29.000Z",
+    "publishDate": "2024-04-20T04:01:10.485Z",
+    "title": "华为 Pura 70 Ultra 卫星消息支持发送图片，对方可用畅连接收",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-20 00:11:29",
+    "uuid": "94a16394-d7ba-47f3-9b26-c181ee1d8739"
   }
 ]
