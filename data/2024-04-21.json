@@ -1,6 +1,61 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "蔚来汽车发布了“离车自主换电”功能的展示视频，该功能允许车主在换电站旁停车后，自主完成换电，整个过程大约需要11分钟。目前该功能的具体上线时间尚未公布 ...",
+    "id": "8YwbmEVAtqO",
+    "order": 1713662038161,
+    "createdAt": "2024-04-21T01:13:58.000Z",
+    "publishDate": "2024-04-21T01:13:58.161Z",
+    "title": "蔚来展示“离车自主换电”功能，车辆可自主排队等待换电",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-21 09:13:58",
+    "uuid": "304da62c-c4e9-46a4-af52-6df9a6b90ed6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉宣布召回3,878辆Cybertruck，原因是油门踏板存在被卡住的风险。美国国家公路交通安全管理局（NHTSA）表示，油门踏板的盖子可能会脱落并被内缘卡住，导致踏板无法正常工作 ...",
+    "id": "8YxFnLZegua",
+    "order": 1713660761732,
+    "createdAt": "2024-04-21T00:52:42.000Z",
+    "publishDate": "2024-04-21T00:52:41.732Z",
+    "title": "特斯拉宣布因油门踏板存在卡住风险召回3,878辆Cybertruck",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-21 08:52:42",
+    "uuid": "9ebcac64-950e-49a9-a71f-1625c1d16dbf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国证券网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "特斯拉中国官网下调了多款车型的售价，其中包括Model Y、Model S、Model X和Model 3等，降价幅度显著。",
+    "id": "8YxKQuNfMbK",
+    "order": 1713660897822,
+    "createdAt": "2024-04-21T00:46:55.000Z",
+    "publishDate": "2024-04-21T00:54:57.822Z",
+    "title": "特斯拉中国全线降价，Model Y降至24.99万元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-21 08:46:55",
+    "uuid": "e720f314-ff98-419c-9a37-b3d1c9422459"
+  },
+  {
+    "newsArray": [
       { "siteName": "极客公园" },
       { "siteName": "腾讯网" },
       { "siteName": "凤凰科技" },
