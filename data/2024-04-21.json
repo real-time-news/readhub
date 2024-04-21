@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软发布并开源了新一代大语言模型WizardLM-2，声称性能超过GPT-4和Mistral。然而，由于未对新模型进行幻觉测试，微软紧急下架了相关项目 ...",
+    "id": "8Yy73TYtk9R",
+    "order": 1713704544717,
+    "createdAt": "2024-04-21T13:02:24.000Z",
+    "publishDate": "2024-04-21T13:02:24.717Z",
+    "title": "发布前忘记做测试，微软紧急撤回“现阶段最先进 AI 模型”WizardLM-2",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-21 21:02:24",
+    "uuid": "42e07495-fc02-4457-a8c9-e69f4bf4d7ca"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
