@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "4月23日，美国股市三大指数均收涨，其中道指上涨0.69%，纳指涨幅最大，达到1.59%，标普500指数上涨1.2% ...",
+    "id": "8Z1zqXVA1Eh",
+    "order": 1713963107656,
+    "createdAt": "2024-04-24T12:51:48.000Z",
+    "publishDate": "2024-04-24T12:51:47.656Z",
+    "title": "美股三大指数集体收涨，大型科技股普涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 20:51:48",
+    "uuid": "7dde7001-48b5-44e9-a95e-3b803f5ddc49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "艾瑞网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "甲骨文公司董事长拉里·埃里森宣布，公司计划将全球总部从得克萨斯州奥斯汀迁至田纳西州纳什维尔，以更好地融入医疗保健行业 ...",
+    "id": "8Z2TWjtrk63",
+    "order": 1713963079402,
+    "createdAt": "2024-04-24T12:51:20.000Z",
+    "publishDate": "2024-04-24T12:51:19.402Z",
+    "title": "甲骨文公司将把全球总部迁至纳什维尔，与医疗保健行业距离更近",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 20:51:20",
+    "uuid": "1424be20-af6f-45fe-a014-3c75d54036bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "米哈游发布声明，称近期发现多起在社交平台上针对公司的不实言论，包括虚构内容和蓄意抹黑，这些言论的传播已对公司的名誉权产生负面影响 ...",
+    "id": "8Z0qlED1C7G",
+    "order": 1713963061310,
+    "createdAt": "2024-04-24T12:51:01.000Z",
+    "publishDate": "2024-04-24T12:51:01.310Z",
+    "title": "米哈游打击不实言论制造、传播行为，造谣者已被警方抓捕归案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 20:51:01",
+    "uuid": "259cdbb2-196d-423c-b5ae-ec940256a1b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软在Windows 11开始菜单中加入广告，推荐Microsoft Store应用，现已向所有用户推出。用户可在“设置”中手动关闭广告。",
+    "id": "8Z2xY3E510P",
+    "order": 1713963038414,
+    "createdAt": "2024-04-24T12:50:39.000Z",
+    "publishDate": "2024-04-24T12:50:38.414Z",
+    "title": "微软 Win11 开始菜单广告将面向所有用户推出，可手动关闭",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 20:50:39",
+    "uuid": "753ef783-a409-462c-a28a-e9160cd721d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "SegmentFault" },
+      { "siteName": "SegmentFault" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "华为正推广其自主研发的鸿蒙操作系统，该系统已从Android深度定制版本转变为独立操作系统，不再兼容Android应用 ...",
+    "id": "8Z10m6ZLIxj",
+    "order": 1713963011660,
+    "createdAt": "2024-04-24T12:50:12.000Z",
+    "publishDate": "2024-04-24T12:50:11.660Z",
+    "title": "华为准备向世界推广其鸿蒙操作系统",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 20:50:12",
+    "uuid": "9e4da408-6a44-4d50-83ac-8aecba706ecc"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "财联社" },
       { "siteName": "Odaily" }
@@ -275,6 +361,24 @@
     "up": false,
     "date": "2024-04-24 18:41:59",
     "uuid": "4499be6b-c5d6-47fe-8131-09b900bf073a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "浙江省启动了大规模设备更新和消费品以旧换新标准提升行动方案，计划到2027年修订超过100项国家标准，发布80项省级地方标准和200项“浙江制造”标准，以及培育200家“双碳”认证企业 ...",
+    "id": "8Z2UyNs0w9k",
+    "order": 1713963931625,
+    "createdAt": "2024-04-24T10:32:22.000Z",
+    "publishDate": "2024-04-24T13:05:31.625Z",
+    "title": "浙江启动标准提升行动 引领大规模设备更新和消费品以旧换新",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 18:32:22",
+    "uuid": "88904114-f17d-46b7-9768-9231c9fca799"
   },
   {
     "newsArray": [
