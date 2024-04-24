@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果宣布将于5月7日晚10点举办特别活动，发布新款iPad系列产品，包括搭载M3芯片的新款iPad Pro，预计将采用OLED显示屏 ...",
+    "id": "8Z2FEKmO2EO",
+    "order": 1713917830278,
+    "createdAt": "2024-04-24T00:17:11.000Z",
+    "publishDate": "2024-04-24T00:17:10.278Z",
+    "title": "因 OLED 显示屏供货受限，消息称苹果新款 11 英寸 iPad Pro 上市初期或缺货",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 08:17:11",
+    "uuid": "f887d3de-abd6-4686-86ac-d3ec9f0ad5a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司计划在 iPad 设备上原生推出计算器应用程序，这一功能在 iPadOS 系统问世 14 年后终于将得到加入 ...",
+    "id": "8Z2AwJPxZiL",
+    "order": 1713917315796,
+    "createdAt": "2024-04-24T00:08:35.000Z",
+    "publishDate": "2024-04-24T00:08:35.796Z",
+    "title": "iPad 问世 14 年，苹果终于考虑为其带来原生计算器应用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 08:08:35",
+    "uuid": "0a948006-56cc-48d4-ab84-64d026fae249"
+  },
+  {
+    "newsArray": [
+      { "siteName": "少数派" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "雷蛇正式发布了毒蝰V3专业版无线鼠标，国行售价为1299元。这款鼠标采用54克的轻量化设计，并配备了第二代雷蛇Focus Pro 35K光学传感器，拥有8000Hz的轮询率，70IPS的最大速度和70g的最大加速度 ...",
+    "id": "8Z13c3qF09I",
+    "order": 1713916892819,
+    "createdAt": "2024-04-24T00:01:32.000Z",
+    "publishDate": "2024-04-24T00:01:32.819Z",
+    "title": "雷蛇毒蝰 V3 专业版鼠标发布：重 54 克，1299 元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 08:01:32",
+    "uuid": "118b37af-2743-4593-b143-b6facc3a3099"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "特斯拉CEO马斯克宣布，可能在2025年年底前销售人形机器人Optimus，而该机器人将在今年年底前具备完成简单工厂任务的能力。",
+    "id": "8Z27MBL4KeH",
+    "order": 1713916914724,
+    "createdAt": "2024-04-24T00:01:32.000Z",
+    "publishDate": "2024-04-24T00:01:54.724Z",
+    "title": "马斯克：可能在明年年底前出售人形机器人Optimus",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 08:01:32",
+    "uuid": "55490130-d3d1-4d59-a94f-37cd10dc977f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "国际金价近期持续下跌，跌破2300美元关口，国内黄金期货市场也急速降温。主要原因包括地缘风险减弱、流动性由宽松转紧以及多头获利了结 ...",
+    "id": "8Z1wHS4YRfk",
+    "order": 1713916839631,
+    "createdAt": "2024-04-23T23:55:19.000Z",
+    "publishDate": "2024-04-24T00:00:39.631Z",
+    "title": "三大因素“施压” 黄金价格大幅回调",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 07:55:19",
+    "uuid": "536e4be0-acae-4c20-bd28-8c1b482ccba4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉CEO马斯克透露，今年很可能签署完全自动驾驶（FSD）授权协议，但预计将需要大约三年时间才能将该技术集成到其他汽车上。",
+    "id": "8Z29qf7dEwi",
+    "order": 1713917766695,
+    "createdAt": "2024-04-23T23:51:29.000Z",
+    "publishDate": "2024-04-24T00:16:06.695Z",
+    "title": "马斯克：特斯拉今年很有可能签署FSD授权协议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 07:51:29",
+    "uuid": "7a8ac90d-bd1a-4fbf-aeb1-665a295a62aa"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
@@ -68,5 +176,24 @@
     "up": false,
     "date": "2024-04-24 05:41:30",
     "uuid": "cf0b1e07-d8b2-4655-9b3c-da87738264c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。",
+    "id": "8Z1nLwhJKfl",
+    "order": 1713916838872,
+    "createdAt": "2024-04-23T17:11:49.000Z",
+    "publishDate": "2024-04-24T00:00:38.872Z",
+    "title": "苹果 visionOS 1.2 开发者预览版 Beta 3 发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 01:11:49",
+    "uuid": "ab270b24-9731-4cfd-8f6b-3fe72bb0d393"
   }
 ]
