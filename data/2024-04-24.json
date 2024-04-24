@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "福岛第一核电站于当地时间4月24日17时15分重新启动核污染水排放，此前在当日10时43分左右，核电站内供电系统部分停止运行导致正在进行的核污染水排海作业中断。",
+    "id": "8Z2TrJoEDqs",
+    "order": 1713949906495,
+    "createdAt": "2024-04-24T09:11:47.000Z",
+    "publishDate": "2024-04-24T09:11:46.495Z",
+    "title": "因停电中断后 福岛核污染水排放重新启动",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 17:11:47",
+    "uuid": "3ae76ae1-00c3-4c5d-9a9a-f05c9eb0e690"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "手机中国" }
@@ -1101,6 +1118,24 @@
     "up": false,
     "date": "2024-04-24 09:35:05",
     "uuid": "2c514be6-6613-422f-a8dc-210cfbbda900"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "艾瑞网" }
+    ],
+    "summary": "微软、谷歌等科技巨头与非营利组织Thorn和All Tech Is Human合作，致力于在其生成人工智能技术中实施强有力的儿童安全措施，防止生成和传播儿童性虐待材料及其他伤害儿童的内容。",
+    "id": "8Z2InEwiNtz",
+    "order": 1713949771049,
+    "createdAt": "2024-04-24T01:32:34.000Z",
+    "publishDate": "2024-04-24T09:09:31.049Z",
+    "title": "微软、谷歌等巨头承诺制定生成式 AI 发展措施，妥善保护儿童健康",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 09:32:34",
+    "uuid": "d7e68f4d-7757-431e-8e86-99cb26a30097"
   },
   {
     "newsArray": [
