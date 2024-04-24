@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "苹果在Hugging Face平台上发布了一个名为OpenELM的开源语言模型，具有高效的训练和推理框架。该模型的源码、预训练权重和训练配方均可在苹果Github库中获取 ...",
+    "id": "8Z31pS32Aco",
+    "order": 1713970572258,
+    "createdAt": "2024-04-24T14:56:13.000Z",
+    "publishDate": "2024-04-24T14:56:12.258Z",
+    "title": "苹果发布 OpenELM，基于开源训练和推理框架的高效语言模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 22:56:13",
+    "uuid": "7cdfc5cc-3e64-4b89-8ba6-5cf7c30af767"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "快科技" },
       { "siteName": "36Kr" }
