@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "美国国会参议院投票通过了一项包含950亿美元对外援助的法案，其中包括向乌克兰提供超600亿美元援助，向以色列提供260亿美元援助，并要求字节跳动剥离TikTok ...",
+    "id": "8Z2NS6QmNZR",
+    "order": 1713925915277,
+    "createdAt": "2024-04-24T02:31:55.000Z",
+    "publishDate": "2024-04-24T02:31:55.277Z",
+    "title": "美国参议院通过涉“字节剥离TikTok”新法案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 10:31:55",
+    "uuid": "6bfdab5f-0889-4795-96cb-18fbb2d6b4bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为发布智能驾驶品牌乾崑，预计年底搭载其智驾系统的车辆将超过50万辆。",
+    "id": "8Z2QevYKOTJ",
+    "order": 1713925909395,
+    "createdAt": "2024-04-24T02:31:49.000Z",
+    "publishDate": "2024-04-24T02:31:49.395Z",
+    "title": "华为发布智驾新品牌乾崑",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 10:31:49",
+    "uuid": "ca6c8040-69c3-4a0b-9115-2e14090d1315"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "知名行业内部人士@手机晶片达人透露，苹果公司正在研发自家的AI服务器芯片，采用台积电3nm工艺技术，预计2025年下半年量产 ...",
+    "id": "8Z2I52euFpF",
+    "order": 1713925676283,
+    "createdAt": "2024-04-24T02:27:57.000Z",
+    "publishDate": "2024-04-24T02:27:56.283Z",
+    "title": "苹果加速AI布局 自研3nm服务器芯片或于2025年问世",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 10:27:57",
+    "uuid": "afe75237-6cf8-4444-9934-bda8d3f211fa"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -49,6 +101,24 @@
     "up": false,
     "date": "2024-04-24 09:38:50",
     "uuid": "47292b81-6da7-4ad5-9494-72aafb94d6ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软更新了 Copilot 功能，将字符上限提高到 1.6 万，并支持上传 PDF 等文件进行分析 ...",
+    "id": "8Z2MMgxZBwy",
+    "order": 1713925909269,
+    "createdAt": "2024-04-24T01:35:05.000Z",
+    "publishDate": "2024-04-24T02:31:49.269Z",
+    "title": "微软解锁 Copilot 特性：字符上限最高调至 1.6 万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 09:35:05",
+    "uuid": "2c514be6-6613-422f-a8dc-210cfbbda900"
   },
   {
     "newsArray": [
