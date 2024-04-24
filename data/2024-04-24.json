@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米10S用户收到澎湃OS正式版更新，版本号为1.0.3.0.TGACNXM，更新带来多项改进，包括基于自研Vela系统的底层架构重写，实现超低功耗渲染框架，提升续航能力，以及全新动效语言、天气设计、全局焦点通知体系、多任务窗口管理等功能 ...",
+    "id": "8Z1ioJLK8eU",
+    "order": 1713922321362,
+    "createdAt": "2024-04-24T01:32:02.000Z",
+    "publishDate": "2024-04-24T01:32:01.362Z",
+    "title": "小米10S推送澎湃OS正式版更新：底层重构 性能更强",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 09:32:02",
+    "uuid": "e04599b2-c11a-4ee9-93dd-84dd72bf7939"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "港股午评显示，恒生指数上涨1.64%，恒生科技指数涨幅更大，达2.85%。医药和科技股表现强劲，而半导体、建筑产品等板块则呈现下跌趋势。",
+    "id": "8Z0tEsHBFBe",
+    "order": 1713921975236,
+    "createdAt": "2024-04-24T01:26:15.000Z",
+    "publishDate": "2024-04-24T01:26:15.236Z",
+    "title": "港股午评：恒生科技指数涨2.85% 医药、科技股走强",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 09:26:15",
+    "uuid": "75334f2f-1199-49a9-9a07-0656156d138c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "特斯拉中国官网新款Model 3高性能版定价33.59万元。",
+    "id": "8Z2HiP7rcA8",
+    "order": 1713920831074,
+    "createdAt": "2024-04-24T01:07:11.000Z",
+    "publishDate": "2024-04-24T01:07:11.074Z",
+    "title": "新款Model 3高性能版中国定价为33.59万元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 09:07:11",
+    "uuid": "c6dfc427-c6df-48e5-8bb7-2476cf43fce7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果公司宣布将于5月7日晚上10点举办一场特别活动，据邀请函的插图和CEO蒂姆·库克的社交媒体暗示，此次发布会预计将推出新款iPad和Apple Pencil ...",
+    "id": "8Z2InAzBMOA",
+    "order": 1713920549810,
+    "createdAt": "2024-04-24T01:02:30.000Z",
+    "publishDate": "2024-04-24T01:02:29.810Z",
+    "title": "库克暗示苹果将于 5 月 7 日推出全新 Apple Pencil 3",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 09:02:30",
+    "uuid": "bcfe393d-ae38-4de9-8669-7656b739b6ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果公司已削减Apple Vision Pro产品的零部件订单，预计全年出货量将下降。尽管美国市场首发表现良好，但全球市场需求减弱，导致苹果将全年出货目标从70-80万台下调至40-45万台 ...",
+    "id": "8Z2D55ammKU",
+    "order": 1713919602642,
+    "createdAt": "2024-04-24T00:46:42.000Z",
+    "publishDate": "2024-04-24T00:46:42.642Z",
+    "title": "曝苹果已削减Vision Pro零部件订单 出货量将下降",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 08:46:42",
+    "uuid": "d18eda5a-17bc-4487-8a27-b0e94a62898e"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -141,6 +231,26 @@
     "up": false,
     "date": "2024-04-24 07:33:17",
     "uuid": "7273c969-d691-4883-8010-95e8e223c842"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉在财报中宣布，将新车型提前至2025年下半年开始生产，包括更多经济实惠的车型，能在现有生产线上生产。此举是为了应对经济压力、需求疲软和增加的库存 ...",
+    "id": "8Z234jfH577",
+    "order": 1713920750927,
+    "createdAt": "2024-04-23T23:32:49.000Z",
+    "publishDate": "2024-04-24T01:05:50.927Z",
+    "title": "特斯拉：将加速推出更实惠车型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-24 07:32:49",
+    "uuid": "5720db76-0ee0-4784-bb0b-7206d1057c7f"
   },
   {
     "newsArray": [
