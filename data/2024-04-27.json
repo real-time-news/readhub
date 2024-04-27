@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "生数科技与清华大学联合发布了中国首个长时长、高一致性、高动态性视频大模型Vidu，该模型采用原创的Diffusion与Transformer融合架构U-ViT，能一键生成16秒时长、1080P分辨率的高清视频内容。",
+    "id": "8Z7Sx0F7k1N",
+    "order": 1714191377429,
+    "createdAt": "2024-04-27T04:16:17.000Z",
+    "publishDate": "2024-04-27T04:16:17.429Z",
+    "title": "生数科技与清华联合推出视频大模型Vidu",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-27 12:16:17",
+    "uuid": "27570a3f-4997-46c3-87eb-4eddff6186b1"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
