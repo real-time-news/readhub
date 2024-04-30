@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "9to5Mac" },
+      { "siteName": "财联社" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果公司从谷歌聘请了多名人工智能专家，在苏黎世设立了一个秘密实验室，旨在开发新的AI模型和产品。",
+    "id": "8ZCs6njzbnY",
+    "order": 1714476364757,
+    "createdAt": "2024-04-30T11:26:04.000Z",
+    "publishDate": "2024-04-30T11:26:04.757Z",
+    "title": "苹果从谷歌挖走多名AI专家 以组建AI实验室团队",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-30 19:26:04",
+    "uuid": "647fd282-52e4-46fc-a456-6bfef455ae45"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌 Chrome 浏览器 124 版本更新了地址栏，利用机器学习模型提供更精确的网页建议。新功能通过分析用户行为数据，如关闭页面速度，来判断网页相关性，以提升搜索体验 ...",
+    "id": "8ZCGuzJV7eB",
+    "order": 1714476152568,
+    "createdAt": "2024-04-30T11:22:32.000Z",
+    "publishDate": "2024-04-30T11:22:32.568Z",
+    "title": "谷歌宣布为 Chrome 地址栏添加机器学习功能，以提供更好的建议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-04-30 19:22:32",
+    "uuid": "f38a2621-59ae-4550-95b3-2d211f90c0d3"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
