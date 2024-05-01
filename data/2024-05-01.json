@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "三星将在“VLSI Symposium 2024”上展示其2nm工艺的第三代GAA晶体管技术，该技术优化了MBCFET架构并引入了新工艺，相比现有FinFET技术有显著性能提升 ...",
+    "id": "8ZDsaZv8HD5",
+    "order": 1714534363747,
+    "createdAt": "2024-05-01T03:32:43.000Z",
+    "publishDate": "2024-05-01T03:32:43.747Z",
+    "title": "三星目标2025年量产2nm工艺：性能和效率显著提升",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-01 11:32:43",
+    "uuid": "c6231e94-2784-4fdd-9018-15920d734e26"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "TikTok在小范围测试通过外部网页直接充值金币的功能，绕过了苹果的30%抽成。用户通过网页充值可获得更高比例的金币，使用Apple Pay或PayPal支付 ...",
+    "id": "8ZE4PcQDETD",
+    "order": 1714534330720,
+    "createdAt": "2024-05-01T03:32:11.000Z",
+    "publishDate": "2024-05-01T03:32:10.720Z",
+    "title": "TikTok 因绕过苹果 App Store 应用内购系统引起争议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-01 11:32:11",
+    "uuid": "653ad2f2-f22c-4fd4-ab5b-b7ce74858278"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "36Kr" },
       { "siteName": "速途网" }
