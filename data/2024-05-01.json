@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "中国证券网" }
+    ],
+    "summary": "4月30日全国铁路发送旅客1642.1万人次，预计5月1日全国铁路发送旅客将达到2040万人次，计划开行旅客列车12803列，并将加开1738列。",
+    "id": "8ZD9ZDamgpu",
+    "order": 1714526337897,
+    "createdAt": "2024-05-01T01:12:10.000Z",
+    "publishDate": "2024-05-01T01:18:57.897Z",
+    "title": "全国铁路今日预计发送旅客2040万人次",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-01 09:12:10",
+    "uuid": "4d0f23f1-ea16-45ae-a875-41c6a8095f9f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "美国八家新闻机构在纽约联邦法院对OpenAI和微软提起诉讼，指控这两家公司未经许可使用它们的新闻作品来训练生成式人工智能 ...",
+    "id": "8ZDdyIg3hVm",
+    "order": 1714527042245,
+    "createdAt": "2024-05-01T01:08:42.000Z",
+    "publishDate": "2024-05-01T01:30:42.245Z",
+    "title": "八家新闻机构起诉OpenAI、微软 指控其AI工具侵犯版权",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-01 09:08:42",
+    "uuid": "f016d870-7961-4f29-a972-7d0ad113a9d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "东航技术虹桥机库内，国产大飞机C919、空客A330和波音737正在进行定检。其中，C919飞机的B-919A号机是全球首架交付机，进行了首度4A检定检 ...",
+    "id": "8ZD3Vzq27U0",
+    "order": 1714525588030,
+    "createdAt": "2024-05-01T01:06:29.000Z",
+    "publishDate": "2024-05-01T01:06:28.030Z",
+    "title": "全球首架C919交付机完成首度4A检",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-01 09:06:29",
+    "uuid": "04757ab4-6aa0-4b54-92e0-4b5e70547cf2"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -15,6 +69,25 @@
     "up": false,
     "date": "2024-05-01 09:02:39",
     "uuid": "777d3661-1eed-4450-aaed-c01804eae22f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "AMD公布了2024年第一季度财报，营收54.73亿美元，同比增长2%，净利润1.23亿美元，较去年同期扭亏为盈。若不考虑美国通用会计准则，净利润达10.13亿美元，同比增长4%。",
+    "id": "8ZDrY4FxC5l",
+    "order": 1714525974179,
+    "createdAt": "2024-05-01T00:43:13.000Z",
+    "publishDate": "2024-05-01T01:12:54.179Z",
+    "title": "AMD第一季度营收54.7亿美元 经调净利润10.1亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-01 08:43:13",
+    "uuid": "071c744f-00b7-43a5-a93c-e5f45d1bfb4d"
   },
   {
     "newsArray": [
