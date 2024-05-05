@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小米为Redmi K40系列手机推送了基于安卓13和安卓14操作系统的HyperOS更新，更新内容包括安全补丁、系统底层重构、关键任务识别染色技术、超低功耗渲染框架等 ...",
+    "id": "8ZIvcLDLPWb",
+    "order": 1714872394170,
+    "createdAt": "2024-05-05T01:26:35.000Z",
+    "publishDate": "2024-05-05T01:26:34.170Z",
+    "title": "小米 Redmi K40 手机获推澎湃 HyperOS 正式版更新",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-05 09:26:35",
+    "uuid": "74e95ee7-8fc7-417e-b76a-7915e9bd237c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "现代汽车因废气再循环阀组件可能发生电气短路，在美召回2024款Elantra、Venue和Kona共13511辆，可能导致驱动功率损失。",
+    "id": "8ZJXToTNcMf",
+    "order": 1714872004087,
+    "createdAt": "2024-05-05T01:20:04.000Z",
+    "publishDate": "2024-05-05T01:20:04.087Z",
+    "title": "现代汽车在美召回13511辆汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-05 09:20:04",
+    "uuid": "1ca28c33-f7c1-4daa-8fb1-974d8f4e092e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "特斯拉公司对一家印度电池制造商提起商标侵权诉讼，指控其非法使用“特斯拉Power USA”商标。该印度公司总部位于特拉华州，自称为廉价电池先驱和领导者，并在印度市场有显著影响力 ...",
+    "id": "8ZJxtey41qR",
+    "order": 1714871254345,
+    "createdAt": "2024-05-05T01:07:34.000Z",
+    "publishDate": "2024-05-05T01:07:34.345Z",
+    "title": "因名字相同，特斯拉起诉印度一电池企业侵权：永久停用并赔偿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-05 09:07:34",
+    "uuid": "4d166e73-f545-4a9c-8fd8-1d37f3664d35"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -49,5 +101,26 @@
     "up": false,
     "date": "2024-05-05 07:27:11",
     "uuid": "f1c57cac-9c4c-4b45-b659-03553fac3044"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "巴菲特在2024年股东大会上表示，尽管他仍觉得自己能胜任工作，但年迈的年龄也是一个重要因素。他已任命格雷格·阿贝尔为伯克希尔首席执行官的继任者 ...",
+    "id": "8ZJhsYv36f4",
+    "order": 1714872049352,
+    "createdAt": "2024-05-04T17:45:37.000Z",
+    "publishDate": "2024-05-05T01:20:49.352Z",
+    "title": "巴菲特谈及接班人计划，称投资者不会等太久",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-05 01:45:37",
+    "uuid": "b3a25f4a-6d67-479e-9e6a-2e2a94050d5c"
   }
 ]
