@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "英国制药公司阿斯利康因新冠疫苗可能引起罕见副作用，包括脑血栓和血小板减少，在全球范围内下架其疫苗Vaxzevria。该公司正面临多起集体诉讼，被指控其疫苗导致接种者死亡和严重伤害 ...",
+    "id": "8ZPaK1HYjXQ",
+    "order": 1715156213607,
+    "createdAt": "2024-05-08T08:16:54.000Z",
+    "publishDate": "2024-05-08T08:16:53.607Z",
+    "title": "阿斯利康宣布全球范围内下架新冠疫苗，此前已承认有副作用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-08 16:16:54",
+    "uuid": "1c994a26-bfeb-4abf-9bc5-5d908110c785"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "手机中国" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国国家公路交通安全管理局（NHTSA）要求特斯拉提供关于Autopilot自动辅助驾驶系统的更多信息，以评估其安全性 ...",
+    "id": "8ZPjuCCyetm",
+    "order": 1715156021239,
+    "createdAt": "2024-05-08T08:13:42.000Z",
+    "publishDate": "2024-05-08T08:13:41.239Z",
+    "title": "特斯拉被美监管机构要求提供更多自动辅助驾驶系统信息",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-08 16:13:42",
+    "uuid": "92d61295-cb00-4e47-a3d8-242ac7c05a2e"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "36Kr" },
       { "siteName": "快科技" }
