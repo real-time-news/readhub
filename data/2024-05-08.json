@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "开源中国社区团队将通过直播首秀分享开源中国社区背后的故事。同时，Canonical公司宣布下一个主要Ubuntu版本24.10，代号为\"Oracular Oriole\"（神谕黄鹂），预计将于2024年10月10日发布 ...",
+    "id": "8ZOGYyYB1LX",
+    "order": 1715144519594,
+    "createdAt": "2024-05-08T05:01:59.000Z",
+    "publishDate": "2024-05-08T05:01:59.594Z",
+    "title": "Ubuntu 24.10 定于 2024 年 10 月 10 日发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-08 13:01:59",
+    "uuid": "8be125de-98c4-48e6-9daa-76a2a66d2a80"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
       { "siteName": "财联社" }
@@ -475,6 +492,27 @@
     "up": false,
     "date": "2024-05-08 09:36:05",
     "uuid": "d7de208e-4cde-44cc-8b82-5f71467a3e71"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "新浪科技" },
+      { "siteName": "艾瑞网" }
+    ],
+    "summary": "春季招聘高峰期后，人工智能特别是生成式人工智能招聘市场活跃。人工智能公司正在开发面向程序员的代码工具并计划拓展移动端业务，但面临人手不足的问题 ...",
+    "id": "8ZPaJKTosTr",
+    "order": 1715144083273,
+    "createdAt": "2024-05-08T01:31:14.000Z",
+    "publishDate": "2024-05-08T04:54:43.273Z",
+    "title": "AIGC应用爆发 相关岗位需求增长超300%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-08 09:31:14",
+    "uuid": "cc846c91-a8a3-4dff-86d4-9364b774cda4"
   },
   {
     "newsArray": [
