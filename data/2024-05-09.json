@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "蔚来创始人李斌宣布，蔚来第二品牌乐道将于5月15日正式推出，同时蔚来第50万台量产车已下线。",
+    "id": "8ZRHwzFrKSZ",
+    "order": 1715220137938,
+    "createdAt": "2024-05-09T02:02:16.000Z",
+    "publishDate": "2024-05-09T02:02:17.938Z",
+    "title": "蔚来宣布5月15日正式推出第二品牌乐道",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 10:02:16",
+    "uuid": "7b18a4b7-0c8a-47f2-bf3d-e5659298d5cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "机器之心" }
+    ],
+    "summary": "在生成式AI时代，企业需重视数据处理、数据结合及新数据应用等能力。亚马逊云科技提供全方位解决方案，包括存储、清洗、治理等，以应对数据挑战 ...",
+    "id": "8ZQTgJPE6re",
+    "order": 1715220094315,
+    "createdAt": "2024-05-09T02:01:35.000Z",
+    "publishDate": "2024-05-09T02:01:34.315Z",
+    "title": "数据驱动的AI创新：亚马逊云科技如何助力企业在生成式AI时代领先",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 10:01:35",
+    "uuid": "9361f938-d4e9-4f45-b850-b7c47e6064cd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "安卓平台热门应用“太极”宣布停止更新，这款运行六年的虚拟框架应用因开发者个人原因将不再维护。太极用户可继续使用，但可能面临兼容性问题，建议转移至其他虚拟框架。",
+    "id": "8ZQfOqsSklJ",
+    "order": 1715220094559,
+    "createdAt": "2024-05-09T02:01:35.000Z",
+    "publishDate": "2024-05-09T02:01:34.559Z",
+    "title": "“太极”安卓虚拟框架宣布永久停更，用户需寻找新选择",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 10:01:35",
+    "uuid": "2b024fb4-32d2-4c0a-a067-ac802f10a360"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "华为海思半导体董事长何庭波和终端BG董事长余承东据称发布了一封信，提出了PC端芯片的备胎计划“塔山会战”，计划将搭载“Kirin X系列”PC平台的产品在今年内推向市场 ...",
+    "id": "8ZRGH1rOM7d",
+    "order": 1715219543771,
+    "createdAt": "2024-05-09T01:52:24.000Z",
+    "publishDate": "2024-05-09T01:52:23.771Z",
+    "title": "华为相关人士回应“塔山会战”备胎计划今日转正：假消息",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 09:52:24",
+    "uuid": "8f12aa7e-9b51-446d-85f7-099a91d19579"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "埃隆·马斯克旗下的脑机接口公司Neuralink近日遭遇了首例人类脑机接口手术后设备故障事件，手术后电极镶钉螺纹出现脱落，导致设备无法正常工作 ...",
+    "id": "8ZRFa4ZhekF",
+    "order": 1715219228542,
+    "createdAt": "2024-05-09T01:47:08.000Z",
+    "publishDate": "2024-05-09T01:47:08.542Z",
+    "title": "Neuralink脑机接口设备遇故障 首例人类手术面临挑战",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 09:47:08",
+    "uuid": "350c60e3-6efc-4310-aec9-30c6dc27db75"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "快科技" },
       { "siteName": "36Kr" }
@@ -87,6 +176,25 @@
     "up": false,
     "date": "2024-05-09 08:59:41",
     "uuid": "97924a88-c11d-44d1-a05d-a6c310f2f5b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "特斯拉柏林工厂原计划因居民抗议扩建而停产四天，但实际仅周五休息。员工可在家工作或在周五休息，交通服务周四至周日也将暂停 ...",
+    "id": "8ZPzKSCxqz8",
+    "order": 1715220095700,
+    "createdAt": "2024-05-09T00:52:51.000Z",
+    "publishDate": "2024-05-09T02:01:35.700Z",
+    "title": "特斯拉柏林工厂将再次停产，因当地居民抗议扩建计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 08:52:51",
+    "uuid": "9aefc0c8-7246-4491-943b-243412a69f34"
   },
   {
     "newsArray": [
