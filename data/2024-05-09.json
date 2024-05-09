@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子正组建1dnm DRAM技术开发团队，以在新一代内存技术领域取得领先。当前，全球前三的DRAM制造商都在推进1cnm工艺的量产，而1dnm工艺预计要到2026年之后才能量产 ...",
+    "id": "8ZRc5GtIbPY",
+    "order": 1715240794088,
+    "createdAt": "2024-05-09T07:46:35.000Z",
+    "publishDate": "2024-05-09T07:46:34.088Z",
+    "title": "曝三星电子提前布局1dnm DRAM技术开发，意图重夺市场优势",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 15:46:35",
+    "uuid": "61005935-a399-434f-bdf7-e79748e03891"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软宣布，在Windows 11 24H2系统的安装过程中，将默认启用BitLocker磁盘加密 ...",
+    "id": "8ZRdNfnsZ6i",
+    "order": 1715240715009,
+    "createdAt": "2024-05-09T07:45:15.000Z",
+    "publishDate": "2024-05-09T07:45:15.009Z",
+    "title": "Win11家庭版系统将默认启用BitLocker加密 网友：安全度又提升",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 15:45:15",
+    "uuid": "22f8ddfc-2d32-4051-8f7d-197d5643d7d5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "德国宝马集团首席执行官齐普策警告，欧盟对中国电动汽车加征关税将不利于欧洲汽车工业，并可能危及欧盟的减排计划。",
+    "id": "8ZROqQVxwTc",
+    "order": 1715240563924,
+    "createdAt": "2024-05-09T07:42:36.000Z",
+    "publishDate": "2024-05-09T07:42:43.924Z",
+    "title": "宝马首席执行官反对欧盟对中国电动汽车征收额外关税",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 15:42:36",
+    "uuid": "593ae70b-efd4-4e34-b70e-67b1b4267093"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
@@ -66,6 +118,24 @@
     "up": false,
     "date": "2024-05-09 15:25:36",
     "uuid": "d6d8beb0-e41b-438f-ad4d-271540308316"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "彭博社记者马克・古尔曼分析了可能接替蒂姆-库克成为苹果公司CEO的人选。他认为，如果库克短期内卸任，首席运营官杰夫-威廉姆斯很可能接替他 ...",
+    "id": "8ZRN4Oa1j1r",
+    "order": 1715240888851,
+    "createdAt": "2024-05-09T07:13:26.000Z",
+    "publishDate": "2024-05-09T07:48:08.851Z",
+    "title": "古尔曼预测苹果硬件副总裁成未来 CEO 最佳人选",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 15:13:26",
+    "uuid": "545f9a38-c027-487e-bac2-e116172a9937"
   },
   {
     "newsArray": [
@@ -319,6 +389,25 @@
     "up": false,
     "date": "2024-05-09 13:17:54",
     "uuid": "2ab56b91-1cbf-4c1d-a74d-aec85f4c65b3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "杭州市宣布全面取消住房限购政策，旨在激发房地产市场潜在需求，缓解新房和二手房的去化压力 ...",
+    "id": "8ZRMNIwsHVO",
+    "order": 1715240569863,
+    "createdAt": "2024-05-09T04:58:10.000Z",
+    "publishDate": "2024-05-09T07:42:49.863Z",
+    "title": "杭州全面取消限购",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 12:58:10",
+    "uuid": "286ff3af-6800-4429-9623-811260283a50"
   },
   {
     "newsArray": [
