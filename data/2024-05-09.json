@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "丰田汽车公司公布2024财年财务报告，销售收入达45.095万亿日元，同比增长21.4%。营业利润为5.353万亿日元，同比增长96.4% ...",
+    "id": "8ZPtLakb5xZ",
+    "order": 1715218279452,
+    "createdAt": "2024-05-09T01:31:19.000Z",
+    "publishDate": "2024-05-09T01:31:19.452Z",
+    "title": "丰田汽车2024财年净利润同比增逾一倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 09:31:19",
+    "uuid": "c7935398-4752-4846-bbce-8c9b0de35c01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "环球网科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "华纳兄弟探索公司和迪士尼宣布合作，将它们的流媒体服务Disney+、Hulu和Max捆绑销售，为用户提供更丰富的娱乐体验 ...",
+    "id": "8ZR4V33T49C",
+    "order": 1715218638013,
+    "createdAt": "2024-05-09T01:21:45.000Z",
+    "publishDate": "2024-05-09T01:37:18.013Z",
+    "title": "迪士尼与华纳兄弟探索公司宣布捆绑流媒体服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 09:21:45",
+    "uuid": "087fa163-12d9-4ac1-9c0c-f093d83c612a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "埃隆·马斯克旗下人工智能初创公司xAI即将完成最新轮融资，估值达180亿美元。此次融资额预计为60亿美元，远超最初计划的30亿美元，红杉资本等投资者参与其中 ...",
+    "id": "8ZRDnKA8Odu",
+    "order": 1715217164403,
+    "createdAt": "2024-05-09T01:12:45.000Z",
+    "publishDate": "2024-05-09T01:12:44.403Z",
+    "title": "消息称马斯克旗下 xAI 最快本周完成融资，估值 180 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 09:12:45",
+    "uuid": "c7526c44-69c1-484e-9801-9a7fcac01952"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软发布了Windows 11 Build 26212预览版更新，主要改进包括增强分享功能，如通过共享窗口生成二维码分享网页和文件，以及直接从共享窗口发送Gmail邮件 ...",
+    "id": "8ZR5v3Y1G69",
+    "order": 1715218628160,
+    "createdAt": "2024-05-09T01:00:07.000Z",
+    "publishDate": "2024-05-09T01:37:08.160Z",
+    "title": "微软发布 Win11 26212 Canary 预览版：增强分享功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 09:00:07",
+    "uuid": "9b4d3c8f-e76c-4e9f-b923-e8448128280c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "宁德时代与法国达飞海运集团签署合作协议，双方将共同研发温室气体减排解决方案，并计划成立合资企业，以满足环保需求，推动能源转型和产业升级 ...",
+    "id": "8ZRADdx3TxS",
+    "order": 1715218246258,
+    "createdAt": "2024-05-09T00:59:41.000Z",
+    "publishDate": "2024-05-09T01:30:46.258Z",
+    "title": "宁德时代与法国达飞海运集团签署合作协议，计划成立合资企业",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 08:59:41",
+    "uuid": "97924a88-c11d-44d1-a05d-a6c310f2f5b4"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -102,6 +191,25 @@
     "up": false,
     "date": "2024-05-09 07:36:29",
     "uuid": "45553c89-c48e-47ad-9e25-e2fe2d92a7c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "特斯拉全自动驾驶（FSD）即将在中国市场推出，引发了市场关注。特斯拉正在中国招聘相关技术人员，同时，其使用的百度地图高级辅助驾驶地图已获得批准 ...",
+    "id": "8ZR7M231rvn",
+    "order": 1715218236589,
+    "createdAt": "2024-05-08T23:32:00.000Z",
+    "publishDate": "2024-05-09T01:30:36.589Z",
+    "title": "特斯拉在华推进全自动驾驶 智能网联车产业链迎新机遇",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-09 07:32:00",
+    "uuid": "a77a0e14-b751-4ebc-8282-29fcda92b1f8"
   },
   {
     "newsArray": [
