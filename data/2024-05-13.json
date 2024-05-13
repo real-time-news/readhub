@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日经新闻报道，中国汽车制造商在巴西市场销量大增，特别是新能源汽车需求增长，使得比亚迪、奇瑞和长城等品牌市场份额快速提升 ...",
+    "id": "8ZWhac8Cnnp",
+    "order": 1715597166800,
+    "createdAt": "2024-05-13T10:46:06.000Z",
+    "publishDate": "2024-05-13T10:46:06.800Z",
+    "title": "中国电动车在巴西销量猛涨8倍，比亚迪、奇瑞、长城表现出色",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 18:46:06",
+    "uuid": "4952f7d4-1730-474f-a632-c86251fa8c89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2023年下半年，中国IT安全软件市场厂商整体收入约169.8亿人民币，同比增长2.7%。全年市场规模达到277.9亿人民币，较2022年上升4.7%。",
+    "id": "8ZY7zfKipao",
+    "order": 1715596861402,
+    "createdAt": "2024-05-13T10:41:01.000Z",
+    "publishDate": "2024-05-13T10:41:01.402Z",
+    "title": "IDC：2023年中国IT安全软件市场同比增长4.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 18:41:01",
+    "uuid": "e1987ef7-630c-4882-bef2-6193f86e4f1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "36Kr" },
+      { "siteName": "亿欧" }
+    ],
+    "summary": "阿里国际旗下的Pic Copilot推出了“AI虚拟试衣”工具，能在1分钟内为模特穿上商品服装并搭配风格匹配的下装，还原服装形变、褶皱、材质等细节，输出全身商品图。",
+    "id": "8ZY1Geukrza",
+    "order": 1715596850739,
+    "createdAt": "2024-05-13T10:40:51.000Z",
+    "publishDate": "2024-05-13T10:40:50.739Z",
+    "title": "阿里国际旗下Pic Copilot推出“AI虚拟试衣”工具",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 18:40:51",
+    "uuid": "86a65b25-6749-4f60-8d4a-940162ea4781"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "中关村在线" },
       { "siteName": "中关村在线" }
@@ -15,6 +66,24 @@
     "up": false,
     "date": "2024-05-13 18:31:18",
     "uuid": "72a56677-c2ad-473d-ae88-e167af3f56a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "中美将于5月14日在瑞士日内瓦举行首次中美人工智能政府间对话会议，旨在落实两国元首共识，讨论人工智能科技风险、全球治理等议题。",
+    "id": "8ZYV2a5mOcp",
+    "order": 1715596852354,
+    "createdAt": "2024-05-13T10:31:17.000Z",
+    "publishDate": "2024-05-13T10:40:52.354Z",
+    "title": "中美将举行人工智能政府间对话首次会议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 18:31:17",
+    "uuid": "4eac9f86-2703-4161-a3b6-84d4196c6ace"
   },
   {
     "newsArray": [
