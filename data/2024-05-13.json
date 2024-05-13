@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "马克·扎克伯格在接受采访时指出，AI GPU短缺问题正在缓解，而未来数据中心发展将面临电力供应瓶颈 ...",
+    "id": "8ZY8tYaKlZV",
+    "order": 1715579692479,
+    "createdAt": "2024-05-13T05:54:53.000Z",
+    "publishDate": "2024-05-13T05:54:52.479Z",
+    "title": "扎克伯格：AI 数据中心 GPU 紧缺正在缓解，电力将成新瓶颈",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 13:54:53",
+    "uuid": "7e3a09a6-e2d7-4fdb-b05b-ce20c2de6635"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
