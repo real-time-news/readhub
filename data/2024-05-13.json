@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "三星电子正在为英伟达供应HBM3E产品，但受台积电采用标准问题的影响，8层HBM3E需要进一步检验。",
+    "id": "8ZYDBN9xZoI",
+    "order": 1715598073575,
+    "createdAt": "2024-05-13T11:01:14.000Z",
+    "publishDate": "2024-05-13T11:01:13.575Z",
+    "title": "传三星HBM3E尚无法通过英伟达认证",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 19:01:14",
+    "uuid": "3fa8e791-ab2c-41b9-b56b-7833dcc71394"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "VR陀螺" }
+    ],
+    "summary": "苹果即将在2024年的WWDC活动上发布iOS 18，其中核心更新将是升级版的Siri。这个新Siri将更加注重对话和多功能性，能够在连续对话中表现更好 ...",
+    "id": "8ZY4zHmb8nO",
+    "order": 1715598069355,
+    "createdAt": "2024-05-13T11:01:09.000Z",
+    "publishDate": "2024-05-13T11:01:09.355Z",
+    "title": "苹果将对Siri进行重大升级，使之成为iOS 18的核心",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 19:01:09",
+    "uuid": "2074e620-4c56-456d-bb3e-16d5aa61df22"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -382,6 +416,23 @@
     "up": false,
     "date": "2024-05-13 16:19:19",
     "uuid": "55eba2ce-862e-4af5-903b-2433a7a1bc8a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "深圳山姆员工透露，购物满599元即可享受免费配送的香港线上业务即将开通。山姆方面对此未予否认，但未具体说明未来服务细节，只表示会不断提升服务能力。",
+    "id": "8ZYAheBn8CR",
+    "order": 1715598073576,
+    "createdAt": "2024-05-13T08:10:39.000Z",
+    "publishDate": "2024-05-13T11:01:13.576Z",
+    "title": "报道称山姆将开通香港线上业务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-13 16:10:39",
+    "uuid": "0989e19b-0c48-4204-8200-6170137cf9e5"
   },
   {
     "newsArray": [
