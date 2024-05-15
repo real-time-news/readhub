@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "Odaily" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国4月消费者价格指数（CPI）同比增长3.4%，与预期一致，低于前值的3.5%。环比增长0.3%，低于预期的0.4%和前值的0.4%。",
+    "id": "8Zbzb5kAcbY",
+    "order": 1715778098426,
+    "createdAt": "2024-05-15T13:01:38.000Z",
+    "publishDate": "2024-05-15T13:01:38.426Z",
+    "title": "美国4月CPI同比上升3.4%，前值为3.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-15 21:01:38",
+    "uuid": "77e62ca2-5e9d-4025-89d5-ab3ffba0af23"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "中关村在线" },
       { "siteName": "腾讯网" }
@@ -69,6 +87,26 @@
     "up": false,
     "date": "2024-05-15 19:56:08",
     "uuid": "b4c632d1-83c3-4b9d-90d1-cc97c73668a3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "和讯网" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "百度宣布其文心大模型日均处理文本量达到2490亿Tokens，同时观察到“闭源大模型+公有云”成为全球AI市场趋势，认为这有助于实现更优性能和更低成本，促进AI应用生态的繁荣 ...",
+    "id": "8ZbuxWkEnd6",
+    "order": 1715778047732,
+    "createdAt": "2024-05-15T11:51:39.000Z",
+    "publishDate": "2024-05-15T13:00:47.732Z",
+    "title": "百度：闭源大模型+公有云已成为全球AI市场主流趋势",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-15 19:51:39",
+    "uuid": "49e6491a-39de-47ff-9f1c-0ce0e79defbb"
   },
   {
     "newsArray": [
