@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日本晶圆代工厂Rapidus与美国RISC-V架构芯片设计公司Esperanto签署谅解备忘录，共同研发针对数据中心的低功耗人工智能芯片，以解决AI技术能耗问题 ...",
+    "id": "8ZdDh0zo31v",
+    "order": 1715843175644,
+    "createdAt": "2024-05-16T07:06:15.000Z",
+    "publishDate": "2024-05-16T07:06:15.644Z",
+    "title": "Rapidus携手Esperanto，共研低功耗AI芯片应对数据中心能耗挑战",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 15:06:15",
+    "uuid": "8703dac1-dbb1-4931-a8bf-14ae7dce4f95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "沪深两市今日冲高回落，三大指数小幅上涨。房地产板块及地产产业链个股集体大涨，超2800只个股上涨。下跌方面，航运股调整，招商轮船跌超5% ...",
+    "id": "8Zd2GjJFO7d",
+    "order": 1715843235340,
+    "createdAt": "2024-05-16T07:06:06.000Z",
+    "publishDate": "2024-05-16T07:07:15.340Z",
+    "title": "收评：沪指冲高回落微涨 地产产业链个股全线大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 15:06:06",
+    "uuid": "bd7bc2a1-55de-4ea7-88ba-901188fec341"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "手机QQ推出了基于NT架构的新版本，这是其首次推出正式的NT架构版本。QQ开发团队自2020年开始进行架构升级，以解决业务复杂度和代码量级问题，通过分阶段、逐步演进的策略进行升级 ...",
+    "id": "8Zd6XnUsQGG",
+    "order": 1715842940119,
+    "createdAt": "2024-05-16T07:02:21.000Z",
+    "publishDate": "2024-05-16T07:02:20.119Z",
+    "title": "QQ 大一统 NT 架构，腾讯开发者介绍技术架构升级变迁史",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 15:02:21",
+    "uuid": "a006d823-f25d-4801-9334-328074fb59cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "《塔瑞斯世界》是一款西方魔幻背景的双端MMORPG游戏，官宣定档6月19日上线，支持PC、iOS和安卓平台 ...",
+    "id": "8ZdB1S8JzrI",
+    "order": 1715842927497,
+    "createdAt": "2024-05-16T07:02:07.000Z",
+    "publishDate": "2024-05-16T07:02:07.497Z",
+    "title": "西方魔幻MMORPG《塔瑞斯世界》今日正式官宣定档",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 15:02:07",
+    "uuid": "199d6dc6-e2df-49ee-8512-8b225a6421a2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "安全公司Rapid7揭露微软Windows系统的内置应用“快速助手”被黑客滥用，通过垃圾邮件和电话诈骗诱骗用户使用远程管理软件，进而入侵设备 ...",
+    "id": "8Zd4OwszuqN",
+    "order": 1715842906380,
+    "createdAt": "2024-05-16T07:01:47.000Z",
+    "publishDate": "2024-05-16T07:01:46.380Z",
+    "title": "微软 Win10/11“快速助手”应用遭黑客滥用，用于从事钓鱼攻击",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 15:01:47",
+    "uuid": "1d56f02e-519d-4ca5-bb14-bbd6a294a426"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "全球最大的期货交易所芝加哥商品交易所集团（CME Group）计划推出比特币现货交易，但该计划尚未最终确定。如果实施，这将是华尔街主要机构进一步侵入数字资产行业的标志。",
+    "id": "8Zd56hB2wGA",
+    "order": 1715842880331,
+    "createdAt": "2024-05-16T07:01:20.000Z",
+    "publishDate": "2024-05-16T07:01:20.331Z",
+    "title": "CME计划推出比特币现货交易",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 15:01:20",
+    "uuid": "010d8733-c39c-45db-8d74-96f2acf47a61"
+  },
+  {
+    "newsArray": [
       { "siteName": "亿欧" },
       { "siteName": "速途网" },
       { "siteName": "36Kr" }
@@ -69,6 +172,24 @@
     "up": false,
     "date": "2024-05-16 14:21:23",
     "uuid": "f7af1b0f-7cba-4d37-a313-d99a18d05846"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "天津市南开区教育局发布调整小学转学和初中入学政策，新政策要求自通知实施之日起，新取得南开区户籍及对应房产的家庭若所购为存量房（二手房），需持有房产满三年方可申请转入 ...",
+    "id": "8ZdBBPbXsmd",
+    "order": 1715842932271,
+    "createdAt": "2024-05-16T06:21:12.000Z",
+    "publishDate": "2024-05-16T07:02:12.271Z",
+    "title": "天津南开区调整小学转学和初中入学政策",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 14:21:12",
+    "uuid": "9513c184-e1e2-45f8-a269-2a9688a21a0e"
   },
   {
     "newsArray": [
