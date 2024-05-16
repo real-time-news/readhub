@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "速途网" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为近期一场发布会上展示大模型文生图能力时，演示过程中出现time.sleep(6)代码，引发网友质疑图文结果并非大模型生成，而是人为操控 ...",
+    "id": "8Zd8gw5A6ag",
+    "order": 1715837494220,
+    "createdAt": "2024-05-16T05:31:35.000Z",
+    "publishDate": "2024-05-16T05:31:34.220Z",
+    "title": "华为发布会被指造假，昇腾社区回应",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 13:31:35",
+    "uuid": "e345b495-9200-48bf-a9f4-32b9f557eba1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "北京市发布自动驾驶车辆测试新政策，扩大测试区域至北京经济技术开发区至北京南站，标志着北京首个高铁站自动驾驶测试正式启动。",
+    "id": "8ZbY3U4NJtc",
+    "order": 1715837478868,
+    "createdAt": "2024-05-16T05:31:19.000Z",
+    "publishDate": "2024-05-16T05:31:18.868Z",
+    "title": "北京首个高铁站自动驾驶测试正式开放",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 13:31:19",
+    "uuid": "3291f312-968a-42bc-9d65-73c62745494a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" },
+      { "siteName": "投资圈" }
+    ],
+    "summary": "理湃光晶，一家专注于消费级AR光波导显示器件的企业，已完成产业方战略轮融资，投资方包括比依股份、视源股份、紫建电子和农银国际。融资将用于产品研发、供应链合作和商业拓展。",
+    "id": "8ZczRvEG9GK",
+    "order": 1715837460827,
+    "createdAt": "2024-05-16T05:31:01.000Z",
+    "publishDate": "2024-05-16T05:31:00.827Z",
+    "title": "“理湃光晶”完成新一轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 13:31:01",
+    "uuid": "e46430e2-3e2a-4bf2-b4b5-ed0570f8c796"
+  },
+  {
+    "newsArray": [
       { "siteName": "速途网" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
