@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "腾讯网" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "腾讯宣布旗下混元文生图大模型全面升级并开源，该模型为首个中文原生DiT架构文生图模型，支持中英文双语输入，参数量达15亿 ...",
+    "id": "8ZcxHOc63wR",
+    "order": 1715833290313,
+    "createdAt": "2024-05-16T04:21:31.000Z",
+    "publishDate": "2024-05-16T04:21:30.313Z",
+    "title": "腾讯宣布混元文生图大模型开源： Sora 同架构，可免费商用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 12:21:31",
+    "uuid": "b5a4cfb0-3854-4123-ae93-bfc2f5711e99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌Chrome浏览器稳定版更新至125版本，新增搜索建议功能并加强在线安全保障。用户可在搜索框中获取基于其他用户搜索的类似内容建议，并通过点击主题查看相关搜索结果 ...",
+    "id": "8Zd1uZoqXz9",
+    "order": 1715833271266,
+    "createdAt": "2024-05-16T04:21:12.000Z",
+    "publishDate": "2024-05-16T04:21:11.266Z",
+    "title": "谷歌 Chrome 浏览器稳定版 125 发布：新增搜索建议、安全检查，修复安全漏洞",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 12:21:12",
+    "uuid": "380c1a59-f61b-4627-a18f-e27c5929bcdc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果在iOS 18预览中展示了新功能，包括为视觉障碍用户添加的阅读模式，在“放大器”应用中可以转换图像文字为文本行，支持自定义字体大小和文本朗读 ...",
+    "id": "8ZcmZIYBh8O",
+    "order": 1715832980288,
+    "createdAt": "2024-05-16T04:16:21.000Z",
+    "publishDate": "2024-05-16T04:16:20.288Z",
+    "title": "苹果揭秘iOS 18功能：升级“放大器”应用 阅读模式上线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 12:16:21",
+    "uuid": "90cec8bb-83e6-49e5-95f7-d0fd7ff8351e"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
