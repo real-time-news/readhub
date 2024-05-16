@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国联通集团通过旗下联通研究院、中讯设计院、上海分公司、宁夏分公司等单位，成功实现了全球首例实际传输距离超过3000公里的海量数据广域高通量无损传输验证 ...",
+    "id": "8ZdWGq8KDLs",
+    "order": 1715900847566,
+    "createdAt": "2024-05-16T23:07:27.000Z",
+    "publishDate": "2024-05-16T23:07:27.566Z",
+    "title": "全球首例，中国联通完成超 3000 公里海量数据广域高通量无损传输验证",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-17 07:07:27",
+    "uuid": "d05bffaf-e777-406b-a076-7434df1f384c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "OpenAI通过官方号社交账号宣布与Reddit构建合作伙伴关系，以便将对方内容引入ChatGPT。",
+    "id": "8ZeGMz7wwZq",
+    "order": 1715900466145,
+    "createdAt": "2024-05-16T23:01:07.000Z",
+    "publishDate": "2024-05-16T23:01:06.145Z",
+    "title": "OpenAI宣布与Reddit构建合作伙伴关系",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-17 07:01:07",
+    "uuid": "a81f3184-9d09-4c41-90eb-05b8182420e0"
+  },
+  {
+    "newsArray": [
       { "siteName": "Odaily" },
       { "siteName": "财联社" },
       { "siteName": "财联社" }
@@ -15,5 +49,24 @@
     "up": false,
     "date": "2024-05-17 05:26:11",
     "uuid": "7dcdecbe-019a-4e52-b7dc-730aadd4f274"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "索尼音乐集团向多家公司发出警告，要求停止未经授权使用其音乐内容进行人工智能模型的训练，以保护其知识产权，包括专辑封面、元数据、音乐作品和歌词。",
+    "id": "8ZduC2lyC97",
+    "order": 1715901044110,
+    "createdAt": "2024-05-16T20:41:11.000Z",
+    "publishDate": "2024-05-16T23:10:44.110Z",
+    "title": "索尼音乐警告人工智能公司停止利用其内容来训练模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-17 04:41:11",
+    "uuid": "459ab987-f6b1-4a47-ac6c-36547f59bf78"
   }
 ]
