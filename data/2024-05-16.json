@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小米公司发布消息称，其自主研发的大语言模型MiLM-6B已成功备案，该模型拥有64亿参数，曾在C-Eval等评测榜单上取得优异成绩 ...",
+    "id": "8ZcxGw4qICC",
+    "order": 1715826750435,
+    "createdAt": "2024-05-16T02:32:30.000Z",
+    "publishDate": "2024-05-16T02:32:30.435Z",
+    "title": "小米 AI 大模型 MiLM 正式通过备案，将逐步应用于汽车 / 手机 / 智能家居等产品",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 10:32:30",
+    "uuid": "0036bcfc-9c2c-4262-813c-25cf9419dd50"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "谷歌发布Android 15第二个测试版，引入了卫星通信功能和“私人空间”功能。后者旨在保护用户敏感信息，允许用户创建独立账户隔离应用程序和媒体文件，并通过PIN码、密码等方式进行访问 ...",
+    "id": "8Zcse8CbekM",
+    "order": 1715826729563,
+    "createdAt": "2024-05-16T02:32:10.000Z",
+    "publishDate": "2024-05-16T02:32:09.563Z",
+    "title": "安卓15将引入私人空间功能 允许用户隐藏敏感应用/数据",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 10:32:10",
+    "uuid": "a229fc55-bcd8-4707-a3c5-680a7745e3f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果App Store近日修复了一个错误，该错误在用户购买捆绑应用时导致苹果收取两次退款费用，使开发者损失数千美元 ...",
+    "id": "8ZcvAB9NQwR",
+    "order": 1715826698660,
+    "createdAt": "2024-05-16T02:31:39.000Z",
+    "publishDate": "2024-05-16T02:31:38.660Z",
+    "title": "苹果修复 App Store 捆绑计费 BUG，导致开发者倒亏数千美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 10:31:39",
+    "uuid": "f6d057be-c4a8-4ddd-8dea-50086b35d9f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软在5月的补丁星期二活动日中向Windows Server 2019发布了KB5037765更新，主要修复了NTLM问题，但许多用户在安装时遇到了0x800f0982错误 ...",
+    "id": "8Zcvoh5ScNG",
+    "order": 1715826676946,
+    "createdAt": "2024-05-16T02:31:17.000Z",
+    "publishDate": "2024-05-16T02:31:16.946Z",
+    "title": "微软承认部分 Windows Server 安装 5 月更新失败，补丁已在路上",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 10:31:17",
+    "uuid": "f2aba5b7-7beb-4535-8863-18f8a4f58cd6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "特斯拉CEO马斯克近日对公司的超充团队进行了裁员，甚至威胁要解雇反对进一步裁员的团队负责人丽贝卡·廷奇及其整个500人团队 ...",
+    "id": "8ZcohB0WcoT",
+    "order": 1715826346762,
+    "createdAt": "2024-05-16T02:25:47.000Z",
+    "publishDate": "2024-05-16T02:25:46.762Z",
+    "title": "曝超充负责人顶嘴马斯克 结果部门全员500人被裁",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 10:25:47",
+    "uuid": "e71cdd2b-6d8f-4228-a68b-909a1537e21f"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -118,6 +203,27 @@
     "up": false,
     "date": "2024-05-16 09:19:37",
     "uuid": "3a42abd9-915b-4cdb-a31e-88b2146640d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "I / O 2024 开发者大会进入第 2 天， 谷歌如约为 Pixel 手机放出了安卓 15 Beta 2 更新，整体而言更新幅度并不大，是上月安卓 15 Beta 的增量更新 ...",
+    "id": "8Zcjgh0MrnW",
+    "order": 1715826330381,
+    "createdAt": "2024-05-16T01:17:02.000Z",
+    "publishDate": "2024-05-16T02:25:30.381Z",
+    "title": "谷歌发布安卓 15 Beta 2 更新：引入隐私空间、保存应用配对等",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-16 09:17:02",
+    "uuid": "1375ece0-5dbb-48bd-9aa8-1ef901079ba7"
   },
   {
     "newsArray": [
