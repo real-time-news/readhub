@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "深圳市实现了市域协同车网互动示范应用实践，通过多种模式和多元场景覆盖，吸引了多方市场参与 ...",
+    "id": "8ZeWnPV3138",
+    "order": 1715918545032,
+    "createdAt": "2024-05-17T04:02:26.000Z",
+    "publishDate": "2024-05-17T04:02:25.032Z",
+    "title": "深圳首次落地全国最大规模车网互动应用实践",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-17 12:02:26",
+    "uuid": "f4bd2b23-fe27-4c60-be56-bdf55a428066"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国轩高科发布了一种新型的星晨电池，该电池采用自研的第二代硅碳材料和极速电解液，支持9分钟快充至70%电量 ...",
+    "id": "8Zecrt7qnxp",
+    "order": 1715918123227,
+    "createdAt": "2024-05-17T03:55:23.000Z",
+    "publishDate": "2024-05-17T03:55:23.227Z",
+    "title": "国轩高科发布星晨电池 可实现5分钟充电续航350公里",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-17 11:55:23",
+    "uuid": "3582ab02-57e9-40e0-adc5-c648857f7deb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "开源中国社区团队将通过直播分享开源中国社区背后的故事。同时，美国云计算巨头Snowflake正在洽谈以超过10亿美元的价格收购初创公司Reka AI，以提供生成式AI服务 ...",
+    "id": "8ZeJviad83g",
+    "order": 1715918111023,
+    "createdAt": "2024-05-17T03:55:12.000Z",
+    "publishDate": "2024-05-17T03:55:11.023Z",
+    "title": "云计算巨头 Snowflake 正洽谈以超 10 亿美元收购 Reka AI",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-17 11:55:12",
+    "uuid": "795fa679-fe4c-4466-9d90-bbf81da2b927"
+  },
+  {
+    "newsArray": [
       { "siteName": "医药魔方" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
