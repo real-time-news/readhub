@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "召回原因为： 安全带系统可能无法准确检测乘客是否系好安全带，导致安全带警告灯无法点亮，并可能导致辅助约束系统在碰撞过程中无法按预期部署。",
+    "id": "8ZhsOFw2hYI",
+    "order": 1716171180766,
+    "createdAt": "2024-05-20T02:13:01.000Z",
+    "publishDate": "2024-05-20T02:13:00.766Z",
+    "title": "因安全带系统故障 宝马在美召回3256辆汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-20 10:13:01",
+    "uuid": "e0822f7a-3e7b-457e-a975-45750c74f6b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "OPPO Reno 12系列新机将支持Live Photo实况照片功能，这是安卓手机中首次实现，并可分享至社交平台 ...",
+    "id": "8ZjWaezhWhs",
+    "order": 1716170157412,
+    "createdAt": "2024-05-20T01:55:57.000Z",
+    "publishDate": "2024-05-20T01:55:57.412Z",
+    "title": "OPPO Reno 12系列首发实况照片功能，直连小红书",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-20 09:55:57",
+    "uuid": "c141e486-81ea-4eae-a1c2-7418b0f1848a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果将在6月10日开始的全球开发者大会（WWDC）上，首次大规模进军生成式人工智能（AI），改进Siri的语音功能，增加“主动智能”功能，如自动总结通知、提供新闻摘要、转录语音备忘录等 ...",
+    "id": "8ZjNfdlLOAi",
+    "order": 1716169866100,
+    "createdAt": "2024-05-20T01:51:06.000Z",
+    "publishDate": "2024-05-20T01:51:06.100Z",
+    "title": "iOS 18新功能曝光：利用AI自动总结通知 智能管理日历",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-20 09:51:06",
+    "uuid": "9f71239b-cd4f-42af-96c1-0257ad069b73"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "沃格光电、金瑞矿业连续涨停，雷曼光电、五方光电等股价冲击涨停，多家公司因玻璃基板概念而股价上涨 ...",
+    "id": "8ZjX1qBvyiM",
+    "order": 1716170483559,
+    "createdAt": "2024-05-20T01:41:09.000Z",
+    "publishDate": "2024-05-20T02:01:23.559Z",
+    "title": "玻璃基板概念强势延续 沃格光电2连板",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-20 09:41:09",
+    "uuid": "f1c8830a-7682-4f3e-af41-095e0e748bc5"
+  },
+  {
+    "newsArray": [
       { "siteName": "腾讯网" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -49,6 +119,47 @@
     "up": false,
     "date": "2024-05-20 08:55:49",
     "uuid": "6a5e8d27-c702-4536-8e3b-721ed68a53e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米米家体重秤S200新品上市，售价69元。该秤具备高精度传感器，可灵活切换重量单位，支持多人信息存储，并通过米家App提供定制化体重报告及健康建议 ...",
+    "id": "8ZjMZwzjf9V",
+    "order": 1716169385223,
+    "createdAt": "2024-05-20T00:47:44.000Z",
+    "publishDate": "2024-05-20T01:43:05.223Z",
+    "title": "小米米家体重秤 S200 开售：4 项身体指标一次获取，售价 69 元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-20 08:47:44",
+    "uuid": "74db593e-71fe-4226-83fd-03f70a9ec406"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "Keep公司宣布将增持最多1亿港元用于在公开市场回购股份。",
+    "id": "8ZjQr2pYIKm",
+    "order": 1716170487715,
+    "createdAt": "2024-05-20T00:19:18.000Z",
+    "publishDate": "2024-05-20T02:01:27.715Z",
+    "title": "Keep宣布将增加不超过1亿港元，启动新一轮回购计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-20 08:19:18",
+    "uuid": "0189a3a1-2c1f-4aaf-ab15-d1c54d57130a"
   },
   {
     "newsArray": [
