@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌宣布支持JetBrains的Kotlin Multiplatform技术，该技术允许开发者通过一套代码实现跨平台复用，降低开发难度 ...",
+    "id": "8ZlRvetZnh0",
+    "order": 1716273126367,
+    "createdAt": "2024-05-21T06:32:07.000Z",
+    "publishDate": "2024-05-21T06:32:06.367Z",
+    "title": "谷歌安卓将支持 JetBrains“Kotlin Multiplatform”技术",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-21 14:32:07",
+    "uuid": "3357a577-bc91-41cf-8a13-9ef6de472ed8"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "机器之心" },
       { "siteName": "速途网" }
