@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "抖音电商正在内测“自动改价”功能，此功能允许商家设定条件，委托平台根据市场情况和平台建议价自动调整商品价格，以增强价格竞争力并提升经营效率。目前该功能仅对部分申请开通的商家开放 ...",
+    "id": "8ZmwohRyIVo",
+    "order": 1716348077461,
+    "createdAt": "2024-05-22T03:18:55.000Z",
+    "publishDate": "2024-05-22T03:21:17.461Z",
+    "title": "抖音电商内测“自动改价”功能：商家可委托平台动态调价",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-22 11:18:55",
+    "uuid": "c94e8224-c4f3-4fba-aece-28d54a5d2569"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "乘联会秘书长崔东树建议保险公司优化新能源车保费测算，利用车辆运行历史数据，实施大数据优化保费。他指出新能源车险项目亏损，原因是产品设计需优化，保费测算需改进，且出险成本高和使用差异问题 ...",
+    "id": "8ZlxWudL8QW",
+    "order": 1716347625065,
+    "createdAt": "2024-05-22T03:13:46.000Z",
+    "publishDate": "2024-05-22T03:13:45.065Z",
+    "title": "乘联会崔东树：新能源车保费要落实大数据优化测算",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-22 11:13:46",
+    "uuid": "fb7b886f-b9c7-4ea4-92c0-7a4bb8a85b13"
+  },
+  {
+    "newsArray": [
       { "siteName": "速途网" },
       { "siteName": "和讯网" },
       { "siteName": "财联社" }
@@ -35,6 +69,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "科大讯飞宣布旗下讯飞星火Lite API永久免费开放，适用于低算力推理与模型精调等场景。讯飞星火Pro/Max API价格为0.21元/万tokens，1token相当于1.5个中文汉字 ...",
+    "id": "8ZmugqR30mv",
+    "order": 1716348339226,
+    "createdAt": "2024-05-22T03:06:13.000Z",
+    "publishDate": "2024-05-22T03:25:39.226Z",
+    "title": "讯飞星火 Lite API 能力免费开放：在线联网搜索、低算力推理场景",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-22 11:06:13",
+    "uuid": "5c467446-286c-4d3e-b5fb-0668d5fefc59"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -49,6 +102,23 @@
     "up": false,
     "date": "2024-05-22 11:02:27",
     "uuid": "71831eff-651c-4d3d-b90d-4e1d13424b36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "OpenAI于2023年成立的超级对齐团队，旨在确保人工智能的安全控制，公司曾承诺将未来四年所获算力的20%用于此项目 ...",
+    "id": "8ZmhpnmGPc8",
+    "order": 1716348161367,
+    "createdAt": "2024-05-22T03:01:51.000Z",
+    "publishDate": "2024-05-22T03:22:41.367Z",
+    "title": "OpenAI承诺投入20%算力防止AI失控，但从未兑现",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-22 11:01:51",
+    "uuid": "e98f81fa-2b87-4f62-8780-f61f7da3fa7e"
   },
   {
     "newsArray": [
@@ -100,6 +170,24 @@
     "up": false,
     "date": "2024-05-22 10:56:06",
     "uuid": "23523e8f-cd15-4763-81f6-800c123306a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "和讯网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "南京化纤股份有限公司股票近日因价格大幅波动引发监管关注。上交所通报称，对编造和传播误导性信息的行为采取了暂停交易监管措施，并已移交涉嫌违法违规情况进一步查处 ...",
+    "id": "8ZlRvg9LtKh",
+    "order": 1716348186591,
+    "createdAt": "2024-05-22T02:40:58.000Z",
+    "publishDate": "2024-05-22T03:23:06.591Z",
+    "title": "南京化纤一字跌停，上交所：相关账户暂停交易十五日",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-22 10:40:58",
+    "uuid": "1a2ea304-9aa3-448c-91e4-993f1c03e2b6"
   },
   {
     "newsArray": [
@@ -383,6 +471,27 @@
     "up": false,
     "date": "2024-05-22 08:31:18",
     "uuid": "0018ba8a-7aa8-4c65-8346-2cd830cd8885"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近日，武汉、合肥等城市下调首套房和二套房首付比例及房贷利率，标志着楼市新政的落实。其中，武汉首套房首付比例最低降至15%，二套房为25%，房贷利率也有所下调 ...",
+    "id": "8ZmexeEUHYw",
+    "order": 1716347935365,
+    "createdAt": "2024-05-22T00:21:33.000Z",
+    "publishDate": "2024-05-22T03:18:55.365Z",
+    "title": "央行“三连发”房贷政策加速落地，武汉等地下调房贷首付比例",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-22 08:21:33",
+    "uuid": "95953bf5-0103-4556-b5e9-d02af7e5a7f8"
   },
   {
     "newsArray": [
