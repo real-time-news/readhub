@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国贸易代表办公室宣布，自8月1日起将对中国的电动汽车、电池、电脑芯片等商品加征关税。同时，也对部分中国工业机械类产品如太阳能产品制造设备提出免征关税的建议，并将提供有关关税豁免的申请细节 ...",
+    "id": "8ZoSQSYlmFi",
+    "order": 1716433310811,
+    "createdAt": "2024-05-23T03:01:50.000Z",
+    "publishDate": "2024-05-23T03:01:50.811Z",
+    "title": "美国宣布将自8月1日开始对中国电动汽车、电池和芯片加征关税",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-23 11:01:50",
+    "uuid": "252c0a49-6fcc-40de-b07e-5e7309153bd9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "三星正在开发名为“Thetis”的2nm应用芯片，计划在2025年量产，并在2026年的Galaxy S26系列手机中使用。这款芯片将命名为Exynos 2600 ...",
+    "id": "8ZoYVtu9FjP",
+    "order": 1716433304737,
+    "createdAt": "2024-05-23T03:01:44.000Z",
+    "publishDate": "2024-05-23T03:01:44.737Z",
+    "title": "三星启动 2 纳米手机芯片“Thetis”项目",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-23 11:01:44",
+    "uuid": "28fd535b-084c-4906-a293-f5877014e3ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为云在埃及开服峰会上宣布开罗节点开服，成为全球首家在埃及建立公有云的公司，加速北非和阿语世界的数字化进程 ...",
+    "id": "8ZnUR0ymgTW",
+    "order": 1716432977828,
+    "createdAt": "2024-05-23T02:56:18.000Z",
+    "publishDate": "2024-05-23T02:56:17.828Z",
+    "title": "华为云埃及正式开服，成为北部非洲第一朵公有云",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-23 10:56:18",
+    "uuid": "b70787fe-1966-4103-bea0-1210ddae6f68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软在Build 2024开发者大会上推出了全新的Copilot应用程序，并邀请Windows Insider项目成员进行测试 ...",
+    "id": "8ZoYVj9f6Jp",
+    "order": 1716432970748,
+    "createdAt": "2024-05-23T02:56:11.000Z",
+    "publishDate": "2024-05-23T02:56:10.748Z",
+    "title": "微软 Win11 Copilot 应用初体验：和 ChatGPT 类似，可全屏使用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-23 10:56:11",
+    "uuid": "6ec4521e-b9fc-44ef-89ba-3ff5f1562c27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "“云储新能源”近日完成A轮融资，融资额达数千万元，投资方包括乾道基金和正海集团，沐宸资本提供财务顾问服务。融资将用于扩大产能、技术研发及补充流动资金。",
+    "id": "8ZnZsNQEJYa",
+    "order": 1716432949461,
+    "createdAt": "2024-05-23T02:55:50.000Z",
+    "publishDate": "2024-05-23T02:55:49.461Z",
+    "title": "“云储新能源”完成数千万元A轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-23 10:55:50",
+    "uuid": "a4f80270-c437-4697-a863-d0e129de204f"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" },
       { "siteName": "搜狐科技" }
