@@ -1,6 +1,62 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "京东集团宣布从2024年7月1日起将采销年度固定薪酬由16薪提升至20薪，并增加业绩激励，刘强东在内部讲话中批评公司内部的不拼搏现象。",
+    "id": "8Zv8ZFS2SL6",
+    "order": 1716773460959,
+    "createdAt": "2024-05-27T01:31:01.000Z",
+    "publishDate": "2024-05-27T01:31:00.959Z",
+    "title": "京东官宣：京东采销年度固定薪酬由16薪提升至20薪",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-27 09:31:01",
+    "uuid": "3c05d257-87c0-479d-bf5f-0cf659d4097f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "动脉网" },
+      { "siteName": "动脉网" }
+    ],
+    "summary": "管线BD交易成为Biotech重要资金来源，2023年其在外部资金收入中占比约1/3。在杏泽资本帮助下，部分企业完成了后续轮的融资。",
+    "id": "8Zv3LSQBwGn",
+    "order": 1716771670578,
+    "createdAt": "2024-05-27T01:01:11.000Z",
+    "publishDate": "2024-05-27T01:01:10.578Z",
+    "title": "BD的热浪，推着一部分中国创新药先走",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-27 09:01:11",
+    "uuid": "923191e8-ce7e-4800-a25c-bdf3ced0a6da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "埃隆·马斯克宣布其人工智能初创公司xAI计划建造一台超级计算机，以支持下一版人工智能聊天机器人Grok ...",
+    "id": "8Zv0OqIrwky",
+    "order": 1716773164499,
+    "createdAt": "2024-05-27T00:50:56.000Z",
+    "publishDate": "2024-05-27T01:26:04.499Z",
+    "title": "马斯克计划推出xAI超级计算机",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-27 08:50:56",
+    "uuid": "ba71806e-9f02-41d5-a315-46aaee83ee69"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
