@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "央行进行2500亿元7天期逆回购操作，利率为1.8%，同时有20亿元逆回购到期。",
+    "id": "8ZySJCmPJjS",
+    "order": 1717032358743,
+    "createdAt": "2024-05-30T01:25:58.000Z",
+    "publishDate": "2024-05-30T01:25:58.743Z",
+    "title": "央行今日开展2500亿元7天期逆回购操作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-30 09:25:58",
+    "uuid": "0edac5b7-cb34-4f2b-aac1-c3dacfbf4538"
+  },
+  {
+    "newsArray": [
+      { "siteName": "掘金" },
+      { "siteName": "掘金" },
+      { "siteName": "SegmentFault" }
+    ],
+    "summary": "HuggingFaceEmbeddingsmodel_name ... HuggingFaceBgeEmbeddingsmodel_name ...",
+    "id": "8ZzFBNbcvM2",
+    "order": 1717032322723,
+    "createdAt": "2024-05-30T01:25:22.000Z",
+    "publishDate": "2024-05-30T01:25:22.723Z",
+    "title": "Hugging Face全面拥抱LangChain：全新官方合作包",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-30 09:25:22",
+    "uuid": "d9199650-eebb-4194-8ada-f5dcf4ee589e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "欧盟成立人工智能办公室，由140名成员组成，旨在监管人工智能并实施《人工智能法案》。该法案旨在保护公民免受人工智能技术的危害，并已获得欧盟理事会的正式批准，成为世界上首部全面监管人工智能的法案。",
+    "id": "8a01ueecr3F",
+    "order": 1717032149410,
+    "createdAt": "2024-05-30T01:22:31.000Z",
+    "publishDate": "2024-05-30T01:22:29.410Z",
+    "title": "欧盟宣布成立人工智能办公室",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-30 09:22:31",
+    "uuid": "a4a9662a-cbce-41a5-b3c9-2f28e9de4deb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "速途网" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "根据Canalys研报，2024年第一季度全球可穿戴腕带设备出货量约为4120万台，与去年同期持平均。苹果虽然出货量持续下滑，但以18%的市场份额保持首位 ...",
+    "id": "8a067BPG1cz",
+    "order": 1717031597313,
+    "createdAt": "2024-05-30T01:13:17.000Z",
+    "publishDate": "2024-05-30T01:13:17.313Z",
+    "title": "一季度全球可穿戴腕带设备的出货量4120万台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-30 09:13:17",
+    "uuid": "64110025-0c7e-4fc0-9113-15dd536d9df1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "惠普第二财季业绩超出了市场分析师的预期，净收入达到128亿美元，调整后每股收益为0.82美元，个人系统收入为84.3亿美元，调整后运营利润率为8.8%，自由现金流为5亿美元 ...",
+    "id": "8ZzmAnoIwAA",
+    "order": 1717031475895,
+    "createdAt": "2024-05-30T01:11:16.000Z",
+    "publishDate": "2024-05-30T01:11:15.895Z",
+    "title": "惠普第二财季净收入略微好于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-30 09:11:16",
+    "uuid": "9e858c3c-491b-454b-832b-d458ba7d5bd6"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -53,6 +141,63 @@
     "up": false,
     "date": "2024-05-30 07:56:16",
     "uuid": "b41e2d2f-1385-41bf-9b5c-053ffb068bff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "自5月以来，多地加快推出和实施商品房“以旧换新”政策。广州市已发布第二批参与项目名单，合作中介机构数量增加 ...",
+    "id": "8ZzxeLAZunh",
+    "order": 1717031536487,
+    "createdAt": "2024-05-29T23:51:27.000Z",
+    "publishDate": "2024-05-30T01:12:16.487Z",
+    "title": "实探多城商品房“以旧换新”：市场热度攀升 国资入场“收房”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-30 07:51:27",
+    "uuid": "c9acb181-7dcc-4eca-9366-cbc237fb1571"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "沙特阿拉伯计划最快于周日启动沙特阿美股票的二次发行，可能融资超过100亿美元。沙特政府作为沙特阿美的最大股东，将在下周四之前进行累计投标以吸引投资者兴趣 ...",
+    "id": "8ZzrCyiwquZ",
+    "order": 1717031486771,
+    "createdAt": "2024-05-29T23:51:21.000Z",
+    "publishDate": "2024-05-30T01:11:26.771Z",
+    "title": "沙特据悉最早于周日启动沙特阿美的股票发行，融资规模或超100亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-30 07:51:21",
+    "uuid": "66bb146b-72d1-4978-bd4b-cca9a2fc7651"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "今年来，A股上市公司大股东股权质押比例呈现小幅攀升趋势。统计显示，截至5月28日，有207家公司的第一大股东累计质押数占持股数比例超过80%，其中65家满仓质押。",
+    "id": "8ZzyLYtaAGr",
+    "order": 1717031509003,
+    "createdAt": "2024-05-29T23:49:22.000Z",
+    "publishDate": "2024-05-30T01:11:49.003Z",
+    "title": "16.38%，A股股权质押比例有抬头迹象",
+    "type": "topic",
+    "up": false,
+    "date": "2024-05-30 07:49:22",
+    "uuid": "0222b1bd-20fe-41ba-ae2b-52899735cb41"
   },
   {
     "newsArray": [
