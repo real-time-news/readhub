@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "Suno的3.5版本模型已向所有人开放，新功能可以将任何声音创作成歌曲，为音乐创作带来新的可能性。用户只需敲击出节奏，Suno会自动捕捉并与之“和弦”，将这些声音转换为音乐作品。",
+    "id": "8a29QNDu9TJ",
+    "order": 1717233965057,
+    "createdAt": "2024-06-01T09:26:06.000Z",
+    "publishDate": "2024-06-01T09:26:05.057Z",
+    "title": "Suno3.5版本模型已向所有人开放 可制作4分钟歌曲",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-01 17:26:06",
+    "uuid": "6503d085-3160-4e51-9ff7-752bf1465bf3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "小鹏汽车5月交付10146辆车，同比增长35%，环比增长8%。今年目前已交付41360辆，同比增长26%。",
+    "id": "8a3yIMfuUck",
+    "order": 1717233666642,
+    "createdAt": "2024-06-01T09:21:06.000Z",
+    "publishDate": "2024-06-01T09:21:06.642Z",
+    "title": "小鹏汽车：5月交付10146辆车 同比增长35%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-01 17:21:06",
+    "uuid": "3d9cb3c8-9283-4d70-85ad-2d05eae2abf2"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "快科技" }
