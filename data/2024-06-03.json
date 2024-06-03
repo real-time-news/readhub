@@ -1,6 +1,145 @@
 [
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "开源AI社区Hugging Face在5月31日报告了一起安全漏洞，其Spaces平台可能遭到未经授权的访问，导致用户密钥泄露 ...",
+    "id": "8a6mhEiLs0A",
+    "order": 1717380777754,
+    "createdAt": "2024-06-03T02:12:57.000Z",
+    "publishDate": "2024-06-03T02:12:57.754Z",
+    "title": "最大开源 AI 社区 Hugging Face 曝安全漏洞：部分用户密钥泄露",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 10:12:57",
+    "uuid": "dbc499df-8d2e-4138-b50d-322af9aa288c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "ElevenLabs推出的Sound Effects AI工具可生成音效并添加至视频中，支持生成最长22秒的音效 ...",
+    "id": "8a5Vi8SSLZq",
+    "order": 1717380715747,
+    "createdAt": "2024-06-03T02:11:55.000Z",
+    "publishDate": "2024-06-03T02:11:55.747Z",
+    "title": "ElevenLabs 推出新 AI 工具，为视频添加音效",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 10:11:55",
+    "uuid": "4241ccfb-6a02-484c-9e16-d115e96f2c65"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "央行今日开展了20亿元7天期逆回购操作，利率为1.80%，与之前持平，同时有同等规模的逆回购到期，因此实现资金零投放零回笼。",
+    "id": "8a6lxYe99Ki",
+    "order": 1717380668781,
+    "createdAt": "2024-06-03T02:11:09.000Z",
+    "publishDate": "2024-06-03T02:11:08.781Z",
+    "title": "央行今日进行20亿元7天期逆回购操作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 10:11:09",
+    "uuid": "50aec718-9a66-4400-9d04-646b0a46cb4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ZAKER" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达推出了数字孪生地球Earth-2，主要用于天气观测。基于CorrDiff生成式AI模型技术，Earth-2能够从今天的数据预测未来世界的影响 ...",
+    "id": "8a5p02MhIQN",
+    "order": 1717380114514,
+    "createdAt": "2024-06-03T02:01:54.000Z",
+    "publishDate": "2024-06-03T02:01:54.514Z",
+    "title": "英伟达推出数字孪生地球 Earth-2，可精准预测天气信息",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 10:01:54",
+    "uuid": "041aecd9-b73c-4231-8084-901c6451ded8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小米一款型号为MDY-17-EE的充电器已通过国内3C认证，支持5Vdc 3A正常输出和5-11Vdc 4.1A快速输出，最大输出功率为45W ...",
+    "id": "8a6lw54WVbu",
+    "order": 1717379507096,
+    "createdAt": "2024-06-03T01:51:47.000Z",
+    "publishDate": "2024-06-03T01:51:47.096Z",
+    "title": "小米新款 45W 充电器通过 3C 认证，有望近期上市",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 09:51:47",
+    "uuid": "e729e40a-5f8a-4d42-866e-ed7606357e87"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "理想汽车-W公告显示，2024年5月交付新车约3.5万辆，同比增长23.8%，累计交付量达77.46万辆 ...",
+    "id": "8a6e7VZFjFC",
+    "order": 1717380690719,
+    "createdAt": "2024-06-03T01:51:37.000Z",
+    "publishDate": "2024-06-03T02:11:30.719Z",
+    "title": "理想汽车-W公布5月交付新车约3.5万辆 同比增长23.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 09:51:37",
+    "uuid": "e18eeaeb-2fb2-4370-907c-6fb665955382"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "奇瑞控股集团5月汽车销量达18.9万辆，同比增长35.5%，其中出口9.2万辆，同比增长20.4%。新能源销量4.3万辆，同比增长279.3% ...",
+    "id": "8a6lwRkjJzn",
+    "order": 1717379480702,
+    "createdAt": "2024-06-03T01:51:20.000Z",
+    "publishDate": "2024-06-03T01:51:20.702Z",
+    "title": "奇瑞集团5月汽车销量18.9万辆 同比增长35.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 09:51:20",
+    "uuid": "af16b1d6-2fbb-4efc-8832-f7f43b185537"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "蔚来-SW公告显示，2024年5月交付汽车20544辆，同比增长233.8%，创月度新高。其中SUV 12164辆，轿车8380辆 ...",
+    "id": "8a6e7pMLeY8",
+    "order": 1717380700791,
+    "createdAt": "2024-06-03T01:41:26.000Z",
+    "publishDate": "2024-06-03T02:11:40.791Z",
+    "title": "蔚来-SW5月交付20544辆汽车 同比大幅增长233.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 09:41:26",
+    "uuid": "af16fb64-55cb-49e5-bdb4-8175ffa801af"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "澎湃新闻" },
       { "siteName": "财联社" }
@@ -91,6 +230,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "由于维修事故车辆成本的上升，保险公司将越来越多的碰撞受损车辆判定为报废。其中，高级驾驶辅助系统（ADAS）因昂贵的维修成本而成为车辆报废率上升的主要原因 ...",
+    "id": "8a6hem5Tv4A",
+    "order": 1717381160751,
+    "createdAt": "2024-06-03T01:06:42.000Z",
+    "publishDate": "2024-06-03T02:19:20.751Z",
+    "title": "报告称事故车辆报废率飙升，高级驾驶辅助系统成“帮凶”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 09:06:42",
+    "uuid": "fe2f7173-fdad-44dd-a85c-239609468d10"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "新浪科技" },
       { "siteName": "快科技" },
@@ -166,6 +324,24 @@
     "up": false,
     "date": "2024-06-03 08:40:55",
     "uuid": "1a519e69-f3d2-4ac4-b1fb-3462ae0a67d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "自中国外汇交易中心推出“债券篮子”业务以来，银行间市场债券投资进入2.0时代，吸引了众多投资者参与。目前，“债券篮子”数量已突破百只，多家基金公司发力布局该业务 ...",
+    "id": "8a6Z69frduM",
+    "order": 1717380683867,
+    "createdAt": "2024-06-03T00:25:31.000Z",
+    "publishDate": "2024-06-03T02:11:23.867Z",
+    "title": "基金公司发力布局 “债券篮子”数量突破百只",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 08:25:31",
+    "uuid": "6d788745-6f39-4ea9-a768-3cd7ab43c27e"
   },
   {
     "newsArray": [
