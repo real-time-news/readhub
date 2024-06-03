@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2024年台北电脑展上，AMD展示了第五代EPYC“Turin”芯片Demo，这款数据中心CPU拥有192个核心和384个线程，预计今年第四季度交付 ...",
+    "id": "8a6vYN8Kvgz",
+    "order": 1717409801721,
+    "createdAt": "2024-06-03T10:16:41.000Z",
+    "publishDate": "2024-06-03T10:16:41.721Z",
+    "title": "至高192核心384线程，AMD推出第五代EPYC霄龙芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 18:16:41",
+    "uuid": "14b819e9-1c51-44aa-bfad-d44f135c0b4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "夏普公司与KDDI达成协议，将讨论建立人工智能数据中心，计划配备英伟达计算平台和Supermicro平台 ...",
+    "id": "8a7Lh00p9EK",
+    "order": 1717409478315,
+    "createdAt": "2024-06-03T10:11:18.000Z",
+    "publishDate": "2024-06-03T10:11:18.315Z",
+    "title": "夏普讨论建立人工智能数据中心",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-03 18:11:18",
+    "uuid": "db7783c7-eb7d-4f7c-9051-fe1a1dbb170f"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "华尔街见闻" }
