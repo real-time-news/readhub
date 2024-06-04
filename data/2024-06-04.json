@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "西湖大学张岳教授团队近期研究了机器生成文本与人类撰写文本的区别，并提出了名为Fast-DetectGPT的文本检测方法 ...",
+    "id": "8a8usfOysH2",
+    "order": 1717493454164,
+    "createdAt": "2024-06-04T09:26:22.000Z",
+    "publishDate": "2024-06-04T09:30:54.164Z",
+    "title": "西湖大学团队研发Fast-DetectGPT，能区分虚假新闻和辨别AI生成文章等",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-04 17:26:22",
+    "uuid": "0d675740-2829-4fac-b966-6f8f3cb8d2a3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "蓝丰生化公告，近期收到172名自然人投资者以证券虚假陈述责任纠纷为由提起的民事诉讼，诉讼金额达7651.01万元，其中168人参加普通代表人诉讼程序，4人未参加。",
+    "id": "8a8weJAkEvk",
+    "order": 1717493113846,
+    "createdAt": "2024-06-04T09:25:14.000Z",
+    "publishDate": "2024-06-04T09:25:13.846Z",
+    "title": "蓝丰生化：新增172名投资者以证券虚假陈述责任纠纷为由对公司提起民事诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-04 17:25:14",
+    "uuid": "bcd48f60-f7c6-4eab-bba6-3c4e7ba7cd5e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "Orange宣布从6月3日起，将让所有4G用户和企业客户免费使用其5G网络，以便在7月26日开幕的巴黎奥运会上享受更流畅的连接 ...",
+    "id": "8a8qHvlSeOy",
+    "order": 1717493102905,
+    "createdAt": "2024-06-04T09:25:02.000Z",
+    "publishDate": "2024-06-04T09:25:02.905Z",
+    "title": "Orange加快巴黎奥运会准备，向4G客户提供5G连接",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-04 17:25:02",
+    "uuid": "8a210a88-f0d2-4cc9-986d-63b0700148c3"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
