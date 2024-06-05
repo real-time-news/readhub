@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软宣布停止开发所有版本的NTLM身份认证协议，并计划在新一代Windows系统中弃用该协议，推动用户和企业转向Kerberos认证 ...",
+    "id": "8aA3yXGmNkz",
+    "order": 1717569489876,
+    "createdAt": "2024-06-05T06:38:09.000Z",
+    "publishDate": "2024-06-05T06:38:09.876Z",
+    "title": "微软停止开发并废弃 NTLM 协议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-05 14:38:09",
+    "uuid": "de9f4cd5-2a8b-49bd-856f-7a8101f4bb74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ZAKER" }
+    ],
+    "summary": "中国商飞公司利用自主研发的生物航空燃料技术，成功完成了一次 ARJ21 支线飞机和 C919 大型客机的 SAF 加注并进行了演示飞行 ...",
+    "id": "8aANHXsnbYu",
+    "order": 1717569093668,
+    "createdAt": "2024-06-05T06:31:34.000Z",
+    "publishDate": "2024-06-05T06:31:33.668Z",
+    "title": "国产大飞机 C919 加“地沟油”首飞，我国生物航空燃料技术实现新突破",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-05 14:31:34",
+    "uuid": "0803d55f-e2d5-4844-84f3-21868c0c079f"
+  },
+  {
+    "newsArray": [
       { "siteName": "速途网" },
       { "siteName": "快科技" },
       { "siteName": "36Kr" }
@@ -1001,6 +1036,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "贝莱德和城堡证券支持的一个集团计划在美国得克萨斯州开设一家新的证券交易所，该交易所已筹集约1.2亿美元，并计划在晚些时候向美国证券交易委员会提交注册文件。",
+    "id": "8aA4DcrnUvO",
+    "order": 1717569105579,
+    "createdAt": "2024-06-05T01:31:31.000Z",
+    "publishDate": "2024-06-05T06:31:45.579Z",
+    "title": "消息称贝莱德和城堡证券在美国筹建新的证券交易所",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-05 09:31:31",
+    "uuid": "8bf7341d-da5a-4874-aa4e-ec5c2421f1bf"
+  },
+  {
+    "newsArray": [
       { "siteName": "虎嗅网" },
       { "siteName": "虎嗅网" },
       { "siteName": "DoNews" },
@@ -1124,6 +1178,25 @@
     "up": false,
     "date": "2024-06-05 09:14:29",
     "uuid": "fb0315b3-0ad8-4856-917e-6c9b9febe099"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "奥地利隐私组织NOYB向监管机构提交了两份针对微软的投诉，称微软逃避了欧盟的数据控制者责任，且其Microsoft 365教育版中的Cookie会追踪所有用户，而不管用户年龄 ...",
+    "id": "8aA18EOfCZV",
+    "order": 1717569479910,
+    "createdAt": "2024-06-05T01:07:55.000Z",
+    "publishDate": "2024-06-05T06:37:59.910Z",
+    "title": "奥地利隐私组织投诉微软侵犯儿童隐私：涉嫌非法追踪学生数据",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-05 09:07:55",
+    "uuid": "e7807814-2a0e-4a56-aa10-7e2d9a8fd7dc"
   },
   {
     "newsArray": [
