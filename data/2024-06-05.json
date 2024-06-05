@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "亿通科技透露，其供应的AFE芯片被华米科技用于其智能戒指Helio。目前，这一产品在公司业务中占比较小。",
+    "id": "8aAUlgw9Agj",
+    "order": 1717576319218,
+    "createdAt": "2024-06-05T08:32:00.000Z",
+    "publishDate": "2024-06-05T08:31:59.218Z",
+    "title": "亿通科技：华米科技的“智能戒指Helio”采用公司供应的AFE芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-05 16:32:00",
+    "uuid": "f9ee70ef-76c5-4cf1-a14f-923e1015e17e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "速途网" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "斗鱼公布2024年第一季度财务数据，营收10.397亿元，同比下降29.9%。净亏损8800万元，去年同期净利润为1450万元 ...",
+    "id": "8aAXlDqFQpc",
+    "order": 1717575965626,
+    "createdAt": "2024-06-05T08:26:05.000Z",
+    "publishDate": "2024-06-05T08:26:05.626Z",
+    "title": "斗鱼一季度营收10.4亿元，同比下降29.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-05 16:26:05",
+    "uuid": "6115e9b7-c768-40a1-a9f5-ee627ff4be8a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Raspberry Pi与Hailo公司合作，推出售价70美元的AI Kit扩展套件，适用于Raspberry Pi 5 ...",
+    "id": "8a8rfEsM4em",
+    "order": 1717575923608,
+    "createdAt": "2024-06-05T08:25:23.000Z",
+    "publishDate": "2024-06-05T08:25:23.608Z",
+    "title": "树莓派与 Hailo 合作推出 AI 套件，售价 70 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-05 16:25:23",
+    "uuid": "57833fa3-d1fa-46aa-9637-10a0f7fc6b44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "法国液化空气集团宣布在美国投资超过2.5亿美元建设新工业气体生产厂，预计2025年底投产，旨在服务美光科技及其他地区客户。",
+    "id": "8aAUrk33YxG",
+    "order": 1717576304183,
+    "createdAt": "2024-06-05T08:16:00.000Z",
+    "publishDate": "2024-06-05T08:31:44.183Z",
+    "title": "法国液化空气集团将投资超2.5亿美元 在美建气体生产厂",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-05 16:16:00",
+    "uuid": "759c1b69-ed63-4683-bba7-04924ae29245"
+  },
+  {
+    "newsArray": [
       { "siteName": "ZAKER" },
       { "siteName": "量子位" },
       { "siteName": "快科技" }
