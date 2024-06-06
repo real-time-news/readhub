@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "华泰证券报告指出，下半年关注计算机行业需求复苏和AI、信创两大产业趋势。国内需求或已见底，海外需求兴起。AI产业朝向算力、模型、应用、终端四大方向发展 ...",
+    "id": "8aBc5qwz7MX",
+    "order": 1717633905821,
+    "createdAt": "2024-06-06T00:31:46.000Z",
+    "publishDate": "2024-06-06T00:31:45.821Z",
+    "title": "华泰证券：关注计算机行业需求复苏与AI、信创两大产业趋势",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 08:31:46",
+    "uuid": "695b9779-f12b-4794-903f-65abaaef8aa1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "AI初创公司Pika正在进行新一轮融资，预计融资后估值将达到7亿美元。此轮融资额约为7000万美元，投资者争相支持人工智能在文字视频领域的应用 ...",
+    "id": "8aAtn0XtE3f",
+    "order": 1717633898805,
+    "createdAt": "2024-06-06T00:31:39.000Z",
+    "publishDate": "2024-06-06T00:31:38.805Z",
+    "title": "Pika 正进行 B轮融资，估值达7亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 08:31:39",
+    "uuid": "65b73541-abb1-4d05-b6bd-fa54bcaf260c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果公司承诺将为最新的iPhone 15系列提供至少五年的安全更新支持，从2023年9月起计算 ...",
+    "id": "8aBd7zHMkVe",
+    "order": 1717633274179,
+    "createdAt": "2024-06-06T00:21:14.000Z",
+    "publishDate": "2024-06-06T00:21:14.179Z",
+    "title": "苹果承诺为 iPhone 15 系列提供 5 年安全更新，实际情况更乐观",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 08:21:14",
+    "uuid": "bbfd2e1b-e96b-4985-9bf1-dcecf3f83320"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果正在iOS 18中测试一个可自定义布局的新版控制中心，允许用户通过拖放重新排列或移除控制中心按钮 ...",
+    "id": "8aBbk50RHCB",
+    "order": 1717632375721,
+    "createdAt": "2024-06-06T00:06:16.000Z",
+    "publishDate": "2024-06-06T00:06:15.721Z",
+    "title": "苹果 iOS 18 被曝重新设计控制中心，iPhone 用户可定制布局",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 08:06:16",
+    "uuid": "39e9ad7c-32c0-4bee-bc49-599462b5e652"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "今年上半年，A股上市公司回购热情显著上升，938家公司披露了964单回购计划，回购金额在596.26亿元至1130.82亿元之间。主要原因是政策鼓励、估值较低和现金管理需求 ...",
+    "id": "8aBFCxBQyMG",
+    "order": 1717633896623,
+    "createdAt": "2024-06-06T00:02:01.000Z",
+    "publishDate": "2024-06-06T00:31:36.623Z",
+    "title": "年内A股公司发布964单回购计划，已超去年全年",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 08:02:01",
+    "uuid": "7bdcd54b-574a-4463-ab8b-27a0719ec5ba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国证券交易委员会（SEC）规定对冲基金和私募股权公司需向投资者详细披露季度费用和开支的条例被联邦上诉法院驳回 ...",
+    "id": "8aBM0chqugy",
+    "order": 1717634224523,
+    "createdAt": "2024-06-06T00:01:57.000Z",
+    "publishDate": "2024-06-06T00:37:04.523Z",
+    "title": "美国证券交易委员会要求对冲基金披露费用的规定遭法院驳回",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 08:01:57",
+    "uuid": "fe1ba1f5-5bc0-4231-9fce-0d60b130332b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "凤凰科技" },
       { "siteName": "华尔街见闻" },
@@ -53,6 +158,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近日，各地纷纷推广房地产融资协调机制，第二批“白名单”项目筛选工作已顺利完成。商业银行正加速与合规项目对接，以满足其融资需求 ...",
+    "id": "8aBZZtBorYz",
+    "order": 1717633520763,
+    "createdAt": "2024-06-05T23:32:22.000Z",
+    "publishDate": "2024-06-06T00:25:20.763Z",
+    "title": "房地产融资协调机制全面铺开 “白名单”项目筛选有序推进",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 07:32:22",
+    "uuid": "55cd8ccd-5a8e-4725-a4c3-508670c56472"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "凤凰科技" },
       { "siteName": "财联社" }
@@ -86,6 +209,24 @@
     "up": false,
     "date": "2024-06-06 07:31:13",
     "uuid": "f5a118cb-6849-45d6-a12c-948794da64f5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "6月份，银行间市场资金面预计将保持略紧状态，但平稳跨季无虞。资金利率大幅上行的可能性较小，同时“非银”资金面将继续保持宽松，资金分层现象逐渐消失。",
+    "id": "8aBR06L5Eq7",
+    "order": 1717634465723,
+    "createdAt": "2024-06-05T23:25:22.000Z",
+    "publishDate": "2024-06-06T00:41:05.723Z",
+    "title": "多因素助推 资金面平稳跨季或无虞",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 07:25:22",
+    "uuid": "1d83bbd9-7854-4400-8a6f-e64ff82e8e68"
   },
   {
     "newsArray": [
@@ -282,6 +423,44 @@
     "up": false,
     "date": "2024-06-06 04:05:50",
     "uuid": "e96dff7d-12c1-4da0-b1da-53b57d2216ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "美股周三尾盘走高，纳指与标普指数均创盘中历史新高，英伟达市值突破3万亿美元。美国5月ADP私人就业数据低于预期，显示劳动力市场降温 ...",
+    "id": "8aBGznzXr6r",
+    "order": 1717633866367,
+    "createdAt": "2024-06-05T19:41:13.000Z",
+    "publishDate": "2024-06-06T00:31:06.367Z",
+    "title": "英伟达市值突破3万亿美元 成美股市值第二大公司",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 03:41:13",
+    "uuid": "546fabc9-fe8a-4b3c-8dd0-46c00238c5c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "日本厚生劳动省发布的统计数据显示，2023年日本总和生育率降至1.20，连续八年下降，创下历史新低。总和生育率是指一个国家或地区育龄女性平均生育的子女数。",
+    "id": "8aAMw0ERRUg",
+    "order": 1717634459927,
+    "createdAt": "2024-06-05T19:41:02.000Z",
+    "publishDate": "2024-06-06T00:40:59.927Z",
+    "title": "日本2023年总和生育率降至1.2 创历史最低",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-06 03:41:02",
+    "uuid": "e915cf12-c07e-4014-b71c-6f54586a562e"
   },
   {
     "newsArray": [
