@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌更新了针对AI应用的指导方针，旨在减少不适当和被禁止的内容。新政策要求提供生成式AI功能的应用防止生成受限制的内容，如色情和暴力，并进行严格测试 ...",
+    "id": "8aDXRS3jQRj",
+    "order": 1717732255857,
+    "createdAt": "2024-06-07T03:50:56.000Z",
+    "publishDate": "2024-06-07T03:50:55.857Z",
+    "title": "谷歌 Play 商店宣布整顿生成式 AI 类 App：必须限制不当内容传播",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-07 11:50:56",
+    "uuid": "a6ac8516-7bd4-48a4-bb66-d40b5e005adf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "开源中国" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "我国西北工业大学研究人员在开源处理器架构RISC-V设计中发现了一个可远程利用的中危漏洞，该漏洞可绕过现代处理器和操作系统设计的安全保护机制，造成关键数据和个人隐私泄露 ...",
+    "id": "8aCKTSRWiR9",
+    "order": 1717732176577,
+    "createdAt": "2024-06-07T03:49:37.000Z",
+    "publishDate": "2024-06-07T03:49:36.577Z",
+    "title": "中国工程师在 RISC-V 设计中发现可远程利用的漏洞",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-07 11:49:37",
+    "uuid": "c10145de-5cd0-4c40-a02a-c488f62252b0"
+  },
+  {
+    "newsArray": [
       { "siteName": "智通财经" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
