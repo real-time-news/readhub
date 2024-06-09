@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "深圳市中级人民法院公告，已受理柔宇科技破产清算案，指定广东华商律师事务所为管理人。柔宇科技债权人应在2024年8月30日前申报债权 ...",
+    "id": "8aGcyYgrjSQ",
+    "order": 1717896694761,
+    "createdAt": "2024-06-09T01:31:35.000Z",
+    "publishDate": "2024-06-09T01:31:34.761Z",
+    "title": "昔日独角兽、折叠屏手机鼻祖，柔宇科技破产清算案获受理",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-09 09:31:35",
+    "uuid": "c1516bc6-3dd0-4aba-a2d7-e977f6c057b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "环球网科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "维珍银河公司成功进行了今年第二次商业太空旅行，搭载四名来自土耳其、美国和意大利的游客前往太空边缘并安全返回 ...",
+    "id": "8aGdeL4TzXz",
+    "order": 1717896360928,
+    "createdAt": "2024-06-09T01:26:00.000Z",
+    "publishDate": "2024-06-09T01:26:00.928Z",
+    "title": "环球视角：维珍银河完成第二次太空旅游飞行，VSS Unity即将退役",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-09 09:26:00",
+    "uuid": "e3e1624d-ecca-4757-a020-38233a75921e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "OpenAI计划将芯片团队从几个人扩展到几十个人，新招募的研究人员多数来自谷歌TPU团队。该团队拥有十多年的TPU开发经验，虽然在任务通用性上不如GPU，但在运算性能和能源效率方面表现优异 ...",
+    "id": "8aG3DzU0w7c",
+    "order": 1717894259655,
+    "createdAt": "2024-06-09T00:50:59.000Z",
+    "publishDate": "2024-06-09T00:50:59.655Z",
+    "title": "OpenAI芯片野心曝光：百万年薪挖角谷歌TPU人才",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-09 08:50:59",
+    "uuid": "03a29f55-c823-42bb-b013-39ce3379969e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "广汽集团公布2024年5月产销量快报，汽车销量同比下降25.33%，新能源汽车销量同样下降25.51% ...",
+    "id": "8aFWKLzU9Rg",
+    "order": 1717893665075,
+    "createdAt": "2024-06-09T00:41:05.000Z",
+    "publishDate": "2024-06-09T00:41:05.075Z",
+    "title": "广汽集团5月销量公布：合资品牌本田、丰田双双大跌",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-09 08:41:05",
+    "uuid": "b9f8d79b-d0ec-4456-a8ba-61961048350f"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" },
