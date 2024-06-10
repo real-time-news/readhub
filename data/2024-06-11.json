@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "在今日凌晨的苹果开发者大会上，苹果宣布与OpenAI合作，在iOS 18、iPadOS 18和macOS Sequoia中全面支持GPT-4o ...",
+    "id": "8aJbq9xUbd9",
+    "order": 1718047837338,
+    "createdAt": "2024-06-10T19:18:06.000Z",
+    "publishDate": "2024-06-10T19:30:37.338Z",
+    "title": "苹果宣布引入 ChatGPT：支持 Siri 和各种 App 内使用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-11 03:18:06",
+    "uuid": "c648bbbc-f248-433a-9cdd-367923c6a008"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "财联社" },
       { "siteName": "IT 之家" },
@@ -16,6 +34,25 @@
     "up": false,
     "date": "2024-06-11 03:16:12",
     "uuid": "18ec66ff-966e-49ed-9ac4-02cba41786ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果在年度开发者大会WWDC上推出基于AIGC能力的Genmoji功能，用户可利用AI生成表情包，并可根据聊天对象定制主题图片。",
+    "id": "8aJZBGCipQr",
+    "order": 1718047840870,
+    "createdAt": "2024-06-10T19:16:05.000Z",
+    "publishDate": "2024-06-10T19:30:40.870Z",
+    "title": "苹果推出Genmoji：支持用户使用AI生成自定义表情",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-11 03:16:05",
+    "uuid": "ca4d0b55-610a-439c-9185-6be31bc375a3"
   },
   {
     "newsArray": [{ "siteName": "IT 之家" }],
