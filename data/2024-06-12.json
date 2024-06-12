@@ -1,6 +1,151 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "Supermicro公司推出了一款即插即用的液冷AI数据中心，该中心使用了最新NVIDIA Blackwell架构的GPU，并针对NVIDIA AI Enterprise软件平台进行了优化，以加速生成式AI的应用 ...",
+    "id": "8aKQoILOQmV",
+    "order": 1718157385415,
+    "createdAt": "2024-06-12T01:56:26.000Z",
+    "publishDate": "2024-06-12T01:56:25.415Z",
+    "title": "Supermicro推出可立即部署式液冷型AI数据中心",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 09:56:26",
+    "uuid": "b8dcbc34-b0ed-475b-891e-ca1924d3b5ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财联社" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "英国和日本科学家采用人工智能技术研发出世界上最强的铁基超导磁体，大幅缩短了设计制造测试磁体的周期。新磁体具有更大的铁基晶体，相比传统方法有更好的性能。",
+    "id": "8aL8hfh67Yq",
+    "order": 1718157368687,
+    "createdAt": "2024-06-12T01:56:08.000Z",
+    "publishDate": "2024-06-12T01:56:08.687Z",
+    "title": "大幅缩短研发时间，科学家利用 AI 造出世界最强铁基超导磁体",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 09:56:08",
+    "uuid": "f507f32e-10df-4b68-b8ce-8f40083ddcfd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "2024年5月，中国CPI环比略降，同比涨幅持稳，核心CPI同比上涨0.6%表现温和。食品方面，鲜果、鸡蛋和猪肉价格上涨，而虾蟹类、牛肉和鲜菜价格下降 ...",
+    "id": "8aLi8sinNfD",
+    "order": 1718157723845,
+    "createdAt": "2024-06-12T01:52:18.000Z",
+    "publishDate": "2024-06-12T02:02:03.845Z",
+    "title": "国家统计局解读：5月份CPI总体平稳 PPI降幅收窄",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 09:52:18",
+    "uuid": "dca33e35-8472-493f-aeaf-89fddd8ed491"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "通用汽车因美国电动汽车市场增长速度不及预期，调低了今年的电动汽车销量和产量预期。公司首席财务官保罗·雅各布森表示，今年电动汽车产量将介于20万至25万辆之间，低于此前的20万至30万辆预期 ...",
+    "id": "8aL2zKkjlsY",
+    "order": 1718157082345,
+    "createdAt": "2024-06-12T01:51:22.000Z",
+    "publishDate": "2024-06-12T01:51:22.345Z",
+    "title": "通用汽车下调2024年电动汽车销量预测：需求低于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 09:51:22",
+    "uuid": "3f81db6a-d873-41b3-b750-4490676240fa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2024年5月，全国工业生产者出厂价格同比下降1.4%，降幅较上月缩小1.1个百分点，环比上涨0.2%。工业生产者购进价格同比下降1.7%，环比上涨0.3% ...",
+    "id": "8aLhqNQQPu8",
+    "order": 1718157073839,
+    "createdAt": "2024-06-12T01:51:14.000Z",
+    "publishDate": "2024-06-12T01:51:13.839Z",
+    "title": "国家统计局：5月份PPI同比下降1.4% 环比上涨0.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 09:51:14",
+    "uuid": "08d51397-70da-47aa-8a52-6894ecf4969a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国家统计局数据显示，5月份我国居民消费价格同比上涨0.3%，其中城市和农村分别上涨0.3%和0.4%，食品价格下降2.0%，非食品价格上涨0.8%，消费品价格持平，服务价格上涨0.8% ...",
+    "id": "8aLhjC44vnn",
+    "order": 1718156450200,
+    "createdAt": "2024-06-12T01:40:50.000Z",
+    "publishDate": "2024-06-12T01:40:50.200Z",
+    "title": "国家统计局：5月份居民消费价格同比上涨0.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 09:40:50",
+    "uuid": "868803fa-1db2-4c31-a35b-b3dae907e312"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "零食连锁品牌“零食很忙”和“赵一鸣零食”全国门店总数已超10000家，成为中国零食连锁行业首个万店企业。双品牌合并成立的零食很忙集团宣布更名为鸣鸣很忙集团。",
+    "id": "8aLchOlGOrM",
+    "order": 1718156393597,
+    "createdAt": "2024-06-12T01:39:54.000Z",
+    "publishDate": "2024-06-12T01:39:53.597Z",
+    "title": "鸣鸣很忙集团宣布旗下双品牌全国门店数破万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 09:39:54",
+    "uuid": "87779ec4-ff7e-4151-bf60-d41dd5cb5460"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "中国台湾的芯片设计巨头联发科正在开发一款基于Arm的个人电脑芯片，并计划运行微软Windows操作系统。微软的新一代笔记本电脑已采用Arm技术设计的芯片，旨在运行人工智能应用程序 ...",
+    "id": "8aLc0jI2uZk",
+    "order": 1718155929846,
+    "createdAt": "2024-06-12T01:32:09.000Z",
+    "publishDate": "2024-06-12T01:32:09.846Z",
+    "title": "消息称联发科为微软AI笔记本电脑设计基于ARM芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 09:32:09",
+    "uuid": "53bc90e6-2c0c-48f5-9064-d6342672c02e"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "IT 之家" },
       { "siteName": "界面" }
@@ -129,6 +274,25 @@
     "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "摩根大通分析师在报告中指出，特斯拉即将展示无人驾驶出租车概念和推出相关App，但这一业务短期内难以实现实质性营收 ...",
+    "id": "8aKwuRxazB4",
+    "order": 1718155929436,
+    "createdAt": "2024-06-12T00:19:33.000Z",
+    "publishDate": "2024-06-12T01:32:09.436Z",
+    "title": "摩根大通：特斯拉数年内不太可能推出无人驾驶出租车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 08:19:33",
+    "uuid": "0cc1616c-f4c0-4aba-a0bb-6da4a7af546e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "财新网" }
     ],
@@ -162,6 +326,24 @@
     "up": false,
     "date": "2024-06-12 08:11:30",
     "uuid": "851f06f5-a804-4bd6-a6cf-aa17f84645d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "文章总结了我国5G商用的成果，包括网络覆盖、产业链发展、经济带动等方面。同时，介绍了我国在5G基础设施建设、关键技术突破、以及数实融合应用等方面的领先实践 ...",
+    "id": "8aLToHg0l1p",
+    "order": 1718155919877,
+    "createdAt": "2024-06-12T00:11:26.000Z",
+    "publishDate": "2024-06-12T01:31:59.877Z",
+    "title": "5G商用拓展融合创新广阔空间",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 08:11:26",
+    "uuid": "f1539ffd-2b99-4882-acf5-072fdc9b3f4c"
   },
   {
     "newsArray": [
