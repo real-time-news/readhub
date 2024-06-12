@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI公司CEO山姆·奥特曼宣布，该公司过去六个月的年化营收达到了34亿美元，比去年夏天增长了约340%，比2023年底增长了112.5% ...",
+    "id": "8aN1Zjonpd6",
+    "order": 1718235350832,
+    "createdAt": "2024-06-12T23:35:50.000Z",
+    "publishDate": "2024-06-12T23:35:50.832Z",
+    "title": "年化营收增长一倍多，OpenAI CEO奥特曼透露新数据",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 07:35:50",
+    "uuid": "7734fb6c-829b-4ca1-a6e6-c9754155e791"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "财联社" }
@@ -33,5 +50,23 @@
     "up": false,
     "date": "2024-06-13 07:01:03",
     "uuid": "839c84d1-ae41-4062-a2e3-476bdb725bae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "MSCI公司决定不将欧盟债券纳入其政府债券指数。",
+    "id": "8aMg80XO8lm",
+    "order": 1718235425936,
+    "createdAt": "2024-06-12T16:11:10.000Z",
+    "publishDate": "2024-06-12T23:37:05.936Z",
+    "title": "明晟公司未通过将欧盟债券纳入政府债券指数的计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 00:11:10",
+    "uuid": "49ed0985-10da-488a-849c-fcbf008eaeea"
   }
 ]
