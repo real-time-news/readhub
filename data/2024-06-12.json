@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "速途网" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Tesla在埃隆·马斯克的领导下自2018年以来取得了一系列成就，并在其官方账号中进行了总结，其中包括在工厂部署了两台Optimus机器人。",
+    "id": "8aLjYUO0tI5",
+    "order": 1718162504537,
+    "createdAt": "2024-06-12T03:21:44.000Z",
+    "publishDate": "2024-06-12T03:21:44.537Z",
+    "title": "特斯拉：已在工厂部署两个自动执行任务的Optimus机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 11:21:44",
+    "uuid": "14d0f8b5-f231-4e63-825b-0e5bdbf8c254"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "同济大学推出专属大模型ChatTJ，以AI对话为核心功能，为高招季考生和家长提供24小时全天候咨询服务 ...",
+    "id": "8aLaw6KoyKj",
+    "order": 1718162486600,
+    "createdAt": "2024-06-12T03:21:26.000Z",
+    "publishDate": "2024-06-12T03:21:26.600Z",
+    "title": "同济大学首发专属大模型ChatTJ，提供招生咨询服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 11:21:26",
+    "uuid": "f6b76dde-b9b7-45a8-89a4-c40bd3122ce4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "北极雄芯完成新一轮融资，投资方为云晖资本，资金主要用于核心Chiplet流片及封装测试，构建国内首个可独立销售的“Chiplet产品库” ...",
+    "id": "8aLfKTtp7ct",
+    "order": 1718162193382,
+    "createdAt": "2024-06-12T03:16:33.000Z",
+    "publishDate": "2024-06-12T03:16:33.382Z",
+    "title": "Chiplet芯片设计研发商北极雄芯获云晖资本投资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 11:16:33",
+    "uuid": "9542ee2e-35ee-416d-81a4-7c12c3ba30f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "财经网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上海市科委发布《上海市颠覆性技术创新项目管理暂行办法》，在关键技术、前沿技术和未来技术三个层面进行开放式发现和系统性布局。其中，关键技术突破主要围绕集成电路、智能技术等领域 ...",
+    "id": "8aLm13pGYQR",
+    "order": 1718161892653,
+    "createdAt": "2024-06-12T03:11:32.000Z",
+    "publishDate": "2024-06-12T03:11:32.653Z",
+    "title": "上海市科委：围绕元宇宙、自动驾驶等领域开放式发现和系统性布局全产业链技术",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 11:11:32",
+    "uuid": "f6b867ef-6d9c-4ad9-b1e3-1ae976c8ca05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "达梦数据在科创板上市首日开盘价310元，上涨256.49%，最高价至313.33元，中一签最高可赚11.32万元。今年A股市场已有41只新股上市，其中23只新股首日收盘涨幅翻倍 ...",
+    "id": "8aLY5nymT7f",
+    "order": 1718161866318,
+    "createdAt": "2024-06-12T03:11:06.000Z",
+    "publishDate": "2024-06-12T03:11:06.318Z",
+    "title": "达梦数据登陆科创板 中一签最高可赚逾11万元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-12 11:11:06",
+    "uuid": "015aa40a-cb40-4097-910b-805d0cfb671c"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" }
