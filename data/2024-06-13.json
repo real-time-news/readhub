@@ -1,6 +1,130 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "三星电子在加州圣何塞举办年度代工论坛，发布芯片制造路线图和AI愿景，以增强其AI芯片制造业务的吸引力。尽管三星是全球最大的记忆芯片制造商，但在代工市场一直努力追赶台积电 ...",
+    "id": "8aNBZ45LDRj",
+    "order": 1718240454685,
+    "createdAt": "2024-06-13T01:00:55.000Z",
+    "publishDate": "2024-06-13T01:00:54.685Z",
+    "title": "三星酝酿芯片技术路线图，以争取AI业务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 09:00:55",
+    "uuid": "69528e82-5d1a-4158-a726-c618c7acf5f7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "微软面向Windows Insider项目成员发布了Windows 11 Build 26236预览版更新，常规改进和修复提升了整体运行体验，并推出了新的账号管理器设计 ...",
+    "id": "8aN93j30DrD",
+    "order": 1718240167818,
+    "createdAt": "2024-06-13T00:56:08.000Z",
+    "publishDate": "2024-06-13T00:56:07.818Z",
+    "title": "微软发布 Win11 Canary 26236 预览版：开始菜单引入新账号管理器",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 08:56:08",
+    "uuid": "fc3eaed8-951a-4ede-a967-655437d9f670"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "机器之心" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "辰韬资本、南京大学上海校友会自动驾驶分会和九章智驾联合发布的《端到端自动驾驶行业研究报告》预测，随着自动驾驶行业领先企业纷纷提出端到端量产计划，模块化端到端系统将于2025年上车，促进上游技术发展、市场和产业变革 ...",
+    "id": "8aM6iZBx3vN",
+    "order": 1718239585419,
+    "createdAt": "2024-06-13T00:46:25.000Z",
+    "publishDate": "2024-06-13T00:46:25.419Z",
+    "title": "辰韬资本联合三方发布《端到端自动驾驶行业研究报告》",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 08:46:25",
+    "uuid": "900d8531-590c-47cc-9160-ebf66e46687c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "动脉网" },
+      { "siteName": "医药魔方" },
+      { "siteName": "动脉网" }
+    ],
+    "summary": "神经介入手术被誉为介入手术中“皇冠上的明珠”，具有创伤小、疗效优异、效率高等特点，在心脑血管急症救治中具有巨大优势 ...",
+    "id": "8aNFrfk9WxL",
+    "order": 1718239572244,
+    "createdAt": "2024-06-13T00:46:13.000Z",
+    "publishDate": "2024-06-13T00:46:12.244Z",
+    "title": "万漉医疗：中标“京津冀3+N”集采，全面掌握从血管介入技术到设备产线的核心链条",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 08:46:13",
+    "uuid": "a34ffe31-7c5c-4910-9c05-5b3adc22bef4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "因迪嘉药业集团股份有限公司和保荐人主动撤回发行上市申请，深圳证券交易所根据相关规定终止其发行上市审核。",
+    "id": "8aMakT5rj5R",
+    "order": 1718238326885,
+    "createdAt": "2024-06-13T00:25:27.000Z",
+    "publishDate": "2024-06-13T00:25:26.885Z",
+    "title": "深交所：终止迪嘉药业创业板IPO审核",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 08:25:27",
+    "uuid": "6260544e-1561-43ff-b512-30dfcb880451"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果iOS 18系统更新了Apple Maps应用，新增了“徒步旅行”功能，覆盖美国所有63个国家公园的数千条远足路线 ...",
+    "id": "8aN9lyxuG4U",
+    "order": 1718238297247,
+    "createdAt": "2024-06-13T00:24:57.000Z",
+    "publishDate": "2024-06-13T00:24:57.247Z",
+    "title": "数千条美国远足路线，苹果iOS 18为驴友带来“徒步旅行”功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 08:24:57",
+    "uuid": "418662e1-5618-4d3e-b97b-87530da1890d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英伟达两倍做多ETF上涨7.08%，博通CEO预计2024财年AI收入将达到110亿美元，带动半导体概念股普遍收涨 ...",
+    "id": "8aN0TUFug4Z",
+    "order": 1718238101483,
+    "createdAt": "2024-06-13T00:21:41.000Z",
+    "publishDate": "2024-06-13T00:21:41.483Z",
+    "title": "博通盘后上涨13%，半导体概念股普涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 08:21:41",
+    "uuid": "aa4bf1bb-bbb6-4b34-9a7e-5dd38f4a2497"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "证券时报网" },
       { "siteName": "财联社" }
@@ -104,6 +228,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国证券投资基金业协会针对未托管私募证券基金启动专项核查整改，要求私募机构对员工不足5人或高管缺位情况进行自查整改，并对部分私募机构进行现场检查 ...",
+    "id": "8aMC3Mnfio0",
+    "order": 1718240905664,
+    "createdAt": "2024-06-12T23:41:05.000Z",
+    "publishDate": "2024-06-13T01:08:25.664Z",
+    "title": "未托管基金启动专项核查整改 严监管推动私募行业正本清源",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 07:41:05",
+    "uuid": "fcd3e4cc-ba54-40e4-b868-f9294ebd1451"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "华尔街见闻" }
@@ -153,6 +295,45 @@
     "up": false,
     "date": "2024-06-13 07:21:14",
     "uuid": "a761278f-e6e1-402b-9482-e2f2520a06cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "电动汽车充电速度即将迎来新突破，宁德时代和比亚迪均在研发6C倍率动力电池。",
+    "id": "8aMaSGmLgd0",
+    "order": 1718239729944,
+    "createdAt": "2024-06-12T23:15:57.000Z",
+    "publishDate": "2024-06-13T00:48:49.944Z",
+    "title": "宁德时代、比亚迪竞赛超充，动力电池将进入6C时代",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 07:15:57",
+    "uuid": "566331e6-667b-411a-b051-d8b04e1a68fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "财政部计划于6月19日首次续发20年期超长期特别国债，招标面值达450亿元。自5月起，这类国债已有序发行，地方政府正加快筹备重要项目 ...",
+    "id": "8aNBYMIZbQg",
+    "order": 1718238337494,
+    "createdAt": "2024-06-12T23:10:51.000Z",
+    "publishDate": "2024-06-13T00:25:37.494Z",
+    "title": "促投资稳增长 超长期特别国债有序发行",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 07:10:51",
+    "uuid": "a759b85f-774e-4e12-b3fc-2fbf4ed547cc"
   },
   {
     "newsArray": [
