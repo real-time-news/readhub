@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软发布了Windows 10系统的累积更新KB5039211，用户安装后版本号升至19044.4529，修复了多个安全漏洞 ...",
+    "id": "8aNUUsxecpY",
+    "order": 1718250380436,
+    "createdAt": "2024-06-13T03:46:20.000Z",
+    "publishDate": "2024-06-13T03:46:20.436Z",
+    "title": "微软 Win10 发布 6 月累积更新：增强管理安卓手机端截图等",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 11:46:20",
+    "uuid": "c09ef42c-780e-4c18-bfcf-5387e14e8714"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "苏州臻锂新材科技有限公司近日完成数千万元天使轮融资，资金将用于2.0代设备投产和设备核心部件改造，以及研发生产的相关部署。",
+    "id": "8aNQ9wHEpt9",
+    "order": 1718250377226,
+    "createdAt": "2024-06-13T03:46:18.000Z",
+    "publishDate": "2024-06-13T03:46:17.226Z",
+    "title": "“臻锂新材”完成数千万元天使轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 11:46:18",
+    "uuid": "d5f54999-8e2f-4f44-9d50-4925ce9a4ee1"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "C114 通信网" },
       { "siteName": "快科技" }
@@ -494,6 +528,25 @@
   {
     "newsArray": [
       { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为在智能光伏战略与新品发布会上推出了智能光风储发电机解决方案，应对光伏成为主力能源时面临的应用场景复杂、并网与消纳、运营和安全等多重挑战 ...",
+    "id": "8aNDJ9n1S1B",
+    "order": 1718250376573,
+    "createdAt": "2024-06-13T01:07:07.000Z",
+    "publishDate": "2024-06-13T03:46:16.573Z",
+    "title": "华为智能光风储发电机大突破：解决电网世界级难题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 09:07:07",
+    "uuid": "d62c1f72-2b7e-4bc5-92d8-543443cf584a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "手机中国" },
       { "siteName": "凤凰科技" }
@@ -508,6 +561,26 @@
     "up": false,
     "date": "2024-06-13 09:03:59",
     "uuid": "2e8ed4ad-6c62-462f-a8b0-1c0553a4d349"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "苹果公司的 macOS Sonoma 系统提供了多项功能，但这些功能并不完全适用于所有 Mac 设备 ...",
+    "id": "8aNFUUnpvPu",
+    "order": 1718250230377,
+    "createdAt": "2024-06-13T01:03:52.000Z",
+    "publishDate": "2024-06-13T03:43:50.377Z",
+    "title": "Intel Mac 支持 iPhone 镜像，但无缘苹果牌“AI”和实时音频转录",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 09:03:52",
+    "uuid": "87aea4a4-e2e6-4ca9-9bf8-ca3c0ded04f9"
   },
   {
     "newsArray": [
@@ -616,6 +689,39 @@
     "up": false,
     "date": "2024-06-13 08:46:13",
     "uuid": "a34ffe31-7c5c-4910-9c05-5b3adc22bef4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Odaily" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "和讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "智通财经" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "苹果公司宣布与OpenAI达成合作，将在其设备中集成ChatGPT，初期合作对双方财务贡献有限，苹果不会支付合作费用，而是通过分销系统推广OpenAI品牌和技术，双方可通过将免费用户转为付费账户来实现收入。",
+    "id": "8aNF8vkKuPh",
+    "order": 1718250255387,
+    "createdAt": "2024-06-13T00:41:11.000Z",
+    "publishDate": "2024-06-13T03:44:15.387Z",
+    "title": "苹果据悉将通过分销而非现金支付ChatGPT费用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-13 08:41:11",
+    "uuid": "5001df8c-c5f5-4c24-ae54-a4fef8e563e6"
   },
   {
     "newsArray": [
