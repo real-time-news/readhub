@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "在摩根大通举办的世界中国峰会上，阿里巴巴集团主席蔡崇信讨论了AI与云计算的融合趋势，强调阿里巴巴作为同时拥有强大AI能力和云计算业务的公司之一，具有显著竞争优势 ...",
+    "id": "8aU4BY18JhC",
+    "order": 1718593969264,
+    "createdAt": "2024-06-17T03:12:50.000Z",
+    "publishDate": "2024-06-17T03:12:49.264Z",
+    "title": "阿里巴巴主席蔡崇信：微软和OpenAI未来或分道扬镳",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 11:12:50",
+    "uuid": "349add52-5909-4cd8-8413-45ceb1dbcd5e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "5月份，全球手游发行商收入榜TOP100中有40个中国厂商，合计吸金21.1亿美元，占39.7%。腾讯、网易、米哈游继续位列中国手游发行商全球收入排行榜前三 ...",
+    "id": "8aU4BHQjbRN",
+    "order": 1718593861052,
+    "createdAt": "2024-06-17T03:11:01.000Z",
+    "publishDate": "2024-06-17T03:11:01.052Z",
+    "title": "《地下城与勇士》手游爆火，带动腾讯5月移动端收入环比增长12%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 11:11:01",
+    "uuid": "2f807e76-353d-4b76-aa4f-239bdc70e60d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "财经网" },
+      { "siteName": "环球网科技" }
+    ],
+    "summary": "菜鸟集运在618期间对其美国专线进行了重大升级，推出了“5日达”服务，承诺5个工作日内送达包裹，若未能做到，将向消费者赔付50元运费红包 ...",
+    "id": "8aU4BK7M8nH",
+    "order": 1718593432061,
+    "createdAt": "2024-06-17T03:03:52.000Z",
+    "publishDate": "2024-06-17T03:03:52.061Z",
+    "title": "菜鸟集运上线美国“5日达”服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 11:03:52",
+    "uuid": "491d2078-d268-4d0a-81b4-f43f1f6ca16e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "日经225指数跌至38000点下方，创5月30日以来最低水平。",
+    "id": "8aTuADAOQQt",
+    "order": 1718593325592,
+    "createdAt": "2024-06-17T03:02:05.000Z",
+    "publishDate": "2024-06-17T03:02:05.592Z",
+    "title": "日经225指数跌至38000点下方，创5月30日以来最低水平",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 11:02:05",
+    "uuid": "f7b92bfc-d119-46a6-baf6-5209fd14a6ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "掘金" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "机器之心" }
+    ],
+    "summary": "微软宣布将在2024年7月停止其Copilot GPTs服务，并删除所有相关数据，引发用户不满。微软解释称，将GPT的重点转向商业和企业场景 ...",
+    "id": "8aSxaRkw8EH",
+    "order": 1718593316199,
+    "createdAt": "2024-06-17T03:01:57.000Z",
+    "publishDate": "2024-06-17T03:01:56.199Z",
+    "title": "仅存活三个月的Copilot GPTs，因无盈利希望，被微软强制「退休」",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 11:01:57",
+    "uuid": "f0060676-b298-45c3-8585-3fd9f7a5b487"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "SK海力士正在大幅扩产第五代1b DRAM，以满足HBM和DDR5 DRAM需求的增长 ...",
+    "id": "8aU4BJ8KNpO",
+    "order": 1718593265803,
+    "createdAt": "2024-06-17T03:01:06.000Z",
+    "publishDate": "2024-06-17T03:01:05.803Z",
+    "title": "SK海力士大幅扩产第5代1b DRAM 以应对HBM及DDR5需求增加",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 11:01:06",
+    "uuid": "ad16ee90-ddfd-45e3-a04d-386cb5030ecd"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "财经网" },
       { "siteName": "财联社" }
@@ -53,6 +155,23 @@
     "up": false,
     "date": "2024-06-17 10:36:01",
     "uuid": "6ab5184f-27fc-49c8-a921-543eb0867812"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "近日有报道称，小鹏汽车总裁王风英向小鹏汽车CEO何小鹏请辞。针对此事，王凤英和何小鹏均予以否认。",
+    "id": "8aU2k5eGfBU",
+    "order": 1718594085079,
+    "createdAt": "2024-06-17T02:31:35.000Z",
+    "publishDate": "2024-06-17T03:14:45.079Z",
+    "title": "网传小鹏汽车总裁王凤英提交辞职，王凤英、何小鹏均否认",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 10:31:35",
+    "uuid": "a5c3f6c7-32fa-44d1-9e9e-1f6d0954547d"
   },
   {
     "newsArray": [
@@ -165,6 +284,25 @@
     "up": false,
     "date": "2024-06-17 10:07:10",
     "uuid": "2401ced8-afe1-404b-9d90-de8f1d96bdc2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "据 The Information 报道，OpenAI CEO Sam Altman 对公司股东们表示，该公司正在考虑将其治理结构转变为该公司非营利性董事会无法控制的营利性公司 ...",
+    "id": "8aTzu7p1VCX",
+    "order": 1718594173356,
+    "createdAt": "2024-06-17T02:05:57.000Z",
+    "publishDate": "2024-06-17T03:16:13.356Z",
+    "title": "OpenAI 回应欲成为营利性公司：非营利组织是公司核心使命",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 10:05:57",
+    "uuid": "aaced57c-480e-4529-bdc2-0451ca64c406"
   },
   {
     "newsArray": [
@@ -291,6 +429,24 @@
     "up": false,
     "date": "2024-06-17 09:37:09",
     "uuid": "40bd9451-8ba2-4e23-8405-13b6400535b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "香港股市开盘下跌，恒指和恒生科技指数分别下跌0.52%和0.58%。媒体和食品板块上涨，锅圈涨幅超过5%，猫眼娱乐上涨近1%。而零售和科技板块下跌，阿里巴巴和快手跌幅超过1%。",
+    "id": "8aTzU5oz6wl",
+    "order": 1718593876466,
+    "createdAt": "2024-06-17T01:31:17.000Z",
+    "publishDate": "2024-06-17T03:11:16.466Z",
+    "title": "恒指开盘跌0.52%，科技股下挫",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 09:31:17",
+    "uuid": "60af45d1-78c1-4960-ac51-38f25e91ca21"
   },
   {
     "newsArray": [
