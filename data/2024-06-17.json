@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国股市开盘，道指下跌0.40%，纳指上涨0.05%，标普500指数下跌0.10%。台积电计划涨价，3nm或涨超5%，先进封装涨10%-20%，股价上涨逾3% ...",
+    "id": "8aUmWnAtAJF",
+    "order": 1718631665993,
+    "createdAt": "2024-06-17T13:41:05.000Z",
+    "publishDate": "2024-06-17T13:41:05.993Z",
+    "title": "美股开盘：三大指数涨跌不一，道指跌0.40%，台积电涨逾3%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 21:41:05",
+    "uuid": "cdebc46b-b9b5-4613-b48c-e284af01efa9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿欧" },
+      { "siteName": "i黑马" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "马上消费主导编制的IEEE国际标准P3826《金融大语言模型技术要求标准》获得立项批准，这是中国在金融大模型技术领域主导编制的首个IEEE国际技术标准 ...",
+    "id": "8aUhUrRmi6e",
+    "order": 1718631652314,
+    "createdAt": "2024-06-17T13:40:53.000Z",
+    "publishDate": "2024-06-17T13:40:52.314Z",
+    "title": "引领全球大模型发展 中国领先金融大模型标准将主导IEEE国际技术标准编制",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-17 21:40:53",
+    "uuid": "5d2cc815-4c42-424f-acc5-e527ba582c0f"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "IT 之家" },
       { "siteName": "界面" }
