@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "腾讯网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国芯片企业英伟达公司股票价格在6月18日午盘交易中上涨3.2%，市值达到3.33万亿美元，超越微软，成为全球市值最高的上市企业。",
+    "id": "8aWjyLX0yBl",
+    "order": 1718736062993,
+    "createdAt": "2024-06-18T18:41:02.000Z",
+    "publishDate": "2024-06-18T18:41:02.993Z",
+    "title": "英伟达成为全球市值最高上市企业",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-19 02:41:02",
+    "uuid": "240e9b04-84bd-482f-a4fd-bc8d30f17556"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "DoNews" },
       { "siteName": "界面" }
