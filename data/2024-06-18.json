@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "北大西洋公约组织宣布，首批4家欧洲高技术企业获得其总规模10亿欧元的“北约创新基金”投资 ...",
+    "id": "8aWEtvJKaSa",
+    "order": 1718706321493,
+    "createdAt": "2024-06-18T10:25:21.000Z",
+    "publishDate": "2024-06-18T10:25:21.493Z",
+    "title": "成立两年，北约风投基金首“开张”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-18 18:25:21",
+    "uuid": "51247a79-0eec-47ea-87ed-3884d8667f4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "雷锋网" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "高德地图在第十六届中国汽车蓝皮书论坛上发布了AutoSDK 750，推出了包括新能源导航、多场景车道级安全预警、车道级导航5.0等多项功能更新，旨在提升汽车行业导航和出行安全体验。",
+    "id": "8aWAxziogIP",
+    "order": 1718706061064,
+    "createdAt": "2024-06-18T10:21:01.000Z",
+    "publishDate": "2024-06-18T10:21:01.064Z",
+    "title": "高德地图升级车道级导航5.0、多场景车道级安全预警等多项功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-18 18:21:01",
+    "uuid": "bd7f57fe-712b-4dcd-aa51-9b02dbd683ba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "猎云网" },
+      { "siteName": "医药魔方" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "中国证监会披露了自动驾驶公司Momenta Global Limited的境外上市备案通知，该公司计划在美国纳斯达克或纽约证券交易所发行不超过6335万股普通股 ...",
+    "id": "8aVzelSyGTm",
+    "order": 1718706049113,
+    "createdAt": "2024-06-18T10:20:49.000Z",
+    "publishDate": "2024-06-18T10:20:49.113Z",
+    "title": "Momenta赴美IPO获备案，此前累计融资超12亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-18 18:20:49",
+    "uuid": "7125e6e1-6778-4ee1-9d12-95679c575de8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "罗技公司推出新品Keys-To-Go 2便携蓝牙键盘，售价约581元人民币，内置保护盖，提供三种配色，采用剪刀脚设计，支持蓝牙BLE连接并可连接三台设备。",
+    "id": "8aWBgKsRpM4",
+    "order": 1718705620658,
+    "createdAt": "2024-06-18T10:13:41.000Z",
+    "publishDate": "2024-06-18T10:13:40.658Z",
+    "title": "罗技推新款Keys-To-Go便携蓝牙键盘：内置保护盖、按键间距18mm",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-18 18:13:41",
+    "uuid": "53bf7fc8-696c-4a32-95af-15dc2a4dd287"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "金泰克推出新款速虎白月光内存条，采用全铝白色外壳，提供DDR4和DDR5不同频率产品，售价349元起。内存条具有一体化设计，时尚美观且散热性能佳，通过高温老化试验，环保稳定 ...",
+    "id": "8aVy8LZiN2F",
+    "order": 1718705611555,
+    "createdAt": "2024-06-18T10:13:32.000Z",
+    "publishDate": "2024-06-18T10:13:31.555Z",
+    "title": "349元起 金泰克速虎白月光内存开售：纯白外观设计 全铝外壳",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-18 18:13:32",
+    "uuid": "1c6f12d1-e392-481e-9c77-2ff21251a016"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "搜狐科技" },
       { "siteName": "鸟哥笔记" },
@@ -50,6 +136,25 @@
     "up": false,
     "date": "2024-06-18 18:01:52",
     "uuid": "b13433d4-7a5c-425d-82e6-6a66170ea319"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "亚马逊云科技与金山办公联合推出了海外版的人工智能应用WPS AI，该应用利用亚马逊云科技的Amazon Bedrock等生成式AI技术，为全球用户提供了一站式的智能办公平台 ...",
+    "id": "8aWDz7tysyw",
+    "order": 1718706037119,
+    "createdAt": "2024-06-18T10:01:40.000Z",
+    "publishDate": "2024-06-18T10:20:37.119Z",
+    "title": "金山办公：WPS AI海外版发布，海外月活设备数已超两亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-18 18:01:40",
+    "uuid": "9e6ba164-41b3-40db-8e6a-d5812578e069"
   },
   {
     "newsArray": [
