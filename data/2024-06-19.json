@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中国人民银行副行长朱鹤新在2024陆家嘴论坛上指出，尽管国际环境复杂，我国外汇市场展现出较强韧性，人民币汇率保持基本稳定 ...",
+    "id": "8aXQBZs7LTD",
+    "order": 1718767271052,
+    "createdAt": "2024-06-19T03:21:11.000Z",
+    "publishDate": "2024-06-19T03:21:11.052Z",
+    "title": "朱鹤新：将继续高度关注外部环境的变化，防范人民币汇率超调和异常跨境资金流动风险",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-19 11:21:11",
+    "uuid": "70fc763a-5a5e-4bea-aaf9-6d51be98e91c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "据显示器分析师Ross Young透露，采用M4芯片的MacBook Pro新机型预计将在2024年第四季度推出，面板出货将于第三季度开始 ...",
+    "id": "8aXDHQ0Sk2p",
+    "order": 1718767162222,
+    "createdAt": "2024-06-19T03:19:23.000Z",
+    "publishDate": "2024-06-19T03:19:22.222Z",
+    "title": "苹果或许在 2024 年底推出 M4 MacBook Pro 机型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-19 11:19:23",
+    "uuid": "fa35c36c-0c5b-482b-be9f-32f293ba53f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "DSCC报告显示，2024年第1季度全球OLED平板电脑面板出货量达到172万片，同比增长131%，预计到2028年，OLED平板电脑市场份额将显著增长 ...",
+    "id": "8aXJi2OFY7F",
+    "order": 1718766973015,
+    "createdAt": "2024-06-19T03:16:13.000Z",
+    "publishDate": "2024-06-19T03:16:13.015Z",
+    "title": "2024Q1 全球 OLED 平板面板出货量同比增长 131%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-19 11:16:13",
+    "uuid": "86b62624-e061-4780-b332-20cead2b18c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "捷豹路虎与奇瑞汽车签订战略合作意向书，将授权奇瑞捷豹路虎使用“Freelander神行者”品牌推出全新电动汽车 ...",
+    "id": "8aXQ8EhDBPP",
+    "order": 1718766833945,
+    "createdAt": "2024-06-19T03:13:54.000Z",
+    "publishDate": "2024-06-19T03:13:53.945Z",
+    "title": "捷豹路虎与奇瑞宣布开启在华价值创造新模式 迈向电动化时代",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-19 11:13:54",
+    "uuid": "784cf775-3eca-48c0-8f1f-9ba16ac5fc23"
+  },
+  {
+    "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "第一财经" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "阿里巴巴就其AI芯片的招标情况尚未对某头部服务器厂家获得几十万片订单的消息做出回应。",
+    "id": "8aXQr9MgmPz",
+    "order": 1718766824490,
+    "createdAt": "2024-06-19T03:13:45.000Z",
+    "publishDate": "2024-06-19T03:13:44.490Z",
+    "title": "头部服务器厂家拿下阿里AI芯片代工订单",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-19 11:13:45",
+    "uuid": "fcac3102-caae-4c19-8bfc-0500d895b3db"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
