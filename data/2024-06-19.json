@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果在开发者文档中宣布，macOS 15 Sequoia 将允许用户在基于 Virtualization Kit 框架搭建的虚拟机中登录 iCloud，解决了之前 macOS 虚拟机无法使用 iCloud 的问题 ...",
+    "id": "8aXTiHiRg6U",
+    "order": 1718779793757,
+    "createdAt": "2024-06-19T06:49:54.000Z",
+    "publishDate": "2024-06-19T06:49:53.757Z",
+    "title": "苹果 macOS 15 Sequoia 自带虚拟机开放 iCloud 登录服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-19 14:49:54",
+    "uuid": "550b28c0-6a30-4648-84ed-4bb639383ce7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软公司获得了一项技术专利，探索利用耳机进行身份验证。该技术通过发出超声波信号并利用内置麦克风捕捉用户的声纹和耳朵形状来实现身份认证，提高安全性 ...",
+    "id": "8aXXzyOQQk9",
+    "order": 1718779777432,
+    "createdAt": "2024-06-19T06:49:37.000Z",
+    "publishDate": "2024-06-19T06:49:37.432Z",
+    "title": "耳机成“钥匙”，微软探索全新身份认证方案：佩戴时靠近设备即解锁",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-19 14:49:37",
+    "uuid": "850a8906-450f-4484-8419-d8c824f00d21"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
