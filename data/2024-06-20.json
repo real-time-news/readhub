@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "丰田汽车因零部件短缺，将暂停日本国内五家工厂的六条生产线至周五，届时将决定是否恢复生产。",
+    "id": "8aZRtwDsyTA",
+    "order": 1718872925324,
+    "createdAt": "2024-06-20T08:42:05.000Z",
+    "publishDate": "2024-06-20T08:42:05.324Z",
+    "title": "因零部件短缺，丰田汽车日本国内六条生产线将停工至21日",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 16:42:05",
+    "uuid": "a2dadf39-3b93-4764-b114-930d478f11bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "半导体板块的美股盘前表现强劲，英伟达和超微电脑涨幅接近4%，台积电涨幅超过3%。",
+    "id": "8aZQvMKRq2j",
+    "order": 1718872865784,
+    "createdAt": "2024-06-20T08:41:05.000Z",
+    "publishDate": "2024-06-20T08:41:05.784Z",
+    "title": "半导体板块美股盘前大涨，英伟达涨近4%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 16:41:05",
+    "uuid": "337d4df7-5764-426f-8b8d-619c4bd93b68"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
