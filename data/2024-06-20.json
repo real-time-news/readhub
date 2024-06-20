@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "星纪魅族举办Flyme AIOS媒体沟通会，副总裁彭翻表示，Flyme Auto将逐步开放给合作伙伴，每一代都会搭载在不同的硬件平台上，希望其成为中国的安卓 ...",
+    "id": "8aZa31VleW8",
+    "order": 1718890278862,
+    "createdAt": "2024-06-20T13:31:18.000Z",
+    "publishDate": "2024-06-20T13:31:18.862Z",
+    "title": "星纪魅族副总裁彭翻：Flyme Auto会逐步走向开放，希望做成中国的安卓",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 21:31:18",
+    "uuid": "fc0f6dc9-2e52-4047-ac7c-1a0f9b57324e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD发布了ROCm 6.1.3版本，新版本支持多GPU加速，最多可同时使用4张GPU，提高了处理速度。新版本不仅支持AMD的Pro系列GPU，还支持RX系列游戏GPU ...",
+    "id": "8aZL7bwTj7h",
+    "order": 1718889966394,
+    "createdAt": "2024-06-20T13:26:06.000Z",
+    "publishDate": "2024-06-20T13:26:06.394Z",
+    "title": "AMD 软件栈 ROCm 更新：可支持 4 张 RX / Pro 显卡，初步支持 WSL2",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 21:26:06",
+    "uuid": "6617df8a-a1c5-4f18-8650-ddddd6f7de43"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
