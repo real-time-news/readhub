@@ -1,6 +1,130 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "DeepMind正研发视频生成配乐的人工智能技术，认为V2A技术是人工智能生成媒体不可或缺的一部分，尽管已有视频生成人工智能模型，但这些模型不能在生成视频时同步生成音效。",
+    "id": "8aYuJlaT3L1",
+    "order": 1718844924847,
+    "createdAt": "2024-06-20T00:55:25.000Z",
+    "publishDate": "2024-06-20T00:55:24.847Z",
+    "title": "谷歌DeepMind开发新AI，可为视频生成配乐和对白",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 08:55:25",
+    "uuid": "31c4924e-2b40-4325-a49c-648a48810b00"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "宁德时代员工表示公司存在加班现象，但都是口头通知而非正式文件。此前网上曝光的文件显示公司曾号召符合条件的员工实行896的工作制，每周工作6天，但公司回应称该文件是向管理层拟的，并未正式传达且没有强制规定 ...",
+    "id": "8aXV81DcSOz",
+    "order": 1718844208990,
+    "createdAt": "2024-06-20T00:43:29.000Z",
+    "publishDate": "2024-06-20T00:43:28.990Z",
+    "title": "896工作制 奋斗100天引热议：多位宁德时代员工称加班为真 都是口头说",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 08:43:29",
+    "uuid": "4f6e5aef-11b9-4037-b52d-db312f3cb3e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "华为HDC大会即将召开，将展示盘古大模型5.0和HarmonyOS NEXT鸿蒙星河版，可能加快鸿蒙生态的建设。车路云武汉项目开标，订单金额超百亿，交通信息化企业将受益 ...",
+    "id": "8aYsdayEX5B",
+    "order": 1718844085299,
+    "createdAt": "2024-06-20T00:41:26.000Z",
+    "publishDate": "2024-06-20T00:41:25.299Z",
+    "title": "中信建投：华为HDC大会召开在即，业绩期关注订单招标与业绩标的",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 08:41:26",
+    "uuid": "721b9b56-49f7-413a-bee0-dc43b0dab094"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果发布Apple Intelligence后，美国iPhone用户最希望其在邮件和信息聊天方面得到应用 ...",
+    "id": "8aYtFbYcmtl",
+    "order": 1718843177408,
+    "createdAt": "2024-06-20T00:26:18.000Z",
+    "publishDate": "2024-06-20T00:26:17.408Z",
+    "title": "苹果牌 AI 前瞻调查：将改变短信和邮件、Siri、照片编辑交互方式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 08:26:18",
+    "uuid": "4dc59a94-1c92-40f0-a1db-57322f8b2cb2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "花旗集团发布报告指出，银行业面临人工智能技术带来的重大变革，约54%的岗位具有自动化潜力，12%的岗位将因AI而增强 ...",
+    "id": "8aYTAChfIGX",
+    "order": 1718843459708,
+    "createdAt": "2024-06-20T00:13:25.000Z",
+    "publishDate": "2024-06-20T00:30:59.708Z",
+    "title": "花旗：银行业被人工智能取代的岗位数量将超过其他任何行业",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 08:13:25",
+    "uuid": "b8fe66a8-78db-47cc-94ba-4a623eee16c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "Ilya Sutskever，前OpenAI首席科学官和联合创始人，成立了一家新公司专注于“安全监督”，目标是追求安全的超级智能 ...",
+    "id": "8aYoamz5fgL",
+    "order": 1718841690241,
+    "createdAt": "2024-06-20T00:01:30.000Z",
+    "publishDate": "2024-06-20T00:01:30.241Z",
+    "title": "Ilya Sutskever创办人工智能公司SSI：直接迈向安全超级智能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 08:01:30",
+    "uuid": "38a56d06-b658-4104-8c4b-bc43fbfb95bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "中小银行改革化险持续深入，多家村镇银行将被吸收合并。民生银行、恒丰银行等6家中小银行已获监管部门批复同意收购或解散旗下村镇银行 ...",
+    "id": "8aYS4nDJi9K",
+    "order": 1718841685473,
+    "createdAt": "2024-06-19T23:51:24.000Z",
+    "publishDate": "2024-06-20T00:01:25.473Z",
+    "title": "中小银行改革化险持续推进 多家村镇银行将被吸收合并",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 07:51:24",
+    "uuid": "e7c9d02d-22f3-4384-98a4-ae55ac9541c6"
+  },
+  {
+    "newsArray": [
       { "siteName": "智通财经" },
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
@@ -103,6 +227,26 @@
     "up": false,
     "date": "2024-06-20 07:31:41",
     "uuid": "8c892beb-b061-4ccf-bdd5-71b6c3ac4b09"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "我国在3GPPRAN第104次会议上正式冻结了5G-Advanced首个版本标准R18，标志着5G-A技术商用版图正式展开 ...",
+    "id": "8aYnWnW60Kn",
+    "order": 1718841689453,
+    "createdAt": "2024-06-19T23:31:09.000Z",
+    "publishDate": "2024-06-20T00:01:29.453Z",
+    "title": "5G-A首个版本标准冻结 相关商用版图正式展开",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-20 07:31:09",
+    "uuid": "4bdee441-0142-4598-9b5d-200f0e7e686c"
   },
   {
     "newsArray": [
