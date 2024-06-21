@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为开发者大会上，余承东宣布鸿蒙原生应用进入冲刺阶段，已有大量应用加入鸿蒙生态。鸿蒙系统主打六大原生体验，与安卓和iOS有明显差异，可适用于多种智能设备服务 ...",
+    "id": "8ab1y2Ns7lo",
+    "order": 1718957253936,
+    "createdAt": "2024-06-21T08:07:33.000Z",
+    "publishDate": "2024-06-21T08:07:33.936Z",
+    "title": "余承东宣布纯血鸿蒙冲刺商用：TOP5000应用已加入鸿蒙生态",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 16:07:33",
+    "uuid": "a48f7112-0bd4-4871-8aa7-cfa1de4752cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "腾讯网" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "据悉，包括微信在内的众多腾讯产品正在开发适配鸿蒙系统，并与之进行技术沟通，以保障用户能够平滑、安全地过渡到新系统。",
+    "id": "8ab4WQ1oFvv",
+    "order": 1718957164305,
+    "createdAt": "2024-06-21T08:06:05.000Z",
+    "publishDate": "2024-06-21T08:06:04.305Z",
+    "title": "腾讯多款产品正在进行鸿蒙系统开发适配",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 16:06:05",
+    "uuid": "bd69b764-d82d-4e30-965f-89a6bae15635"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "华为开发者大会（HDC 2024）上，余承东宣布纯血鸿蒙HarmonyOS NEXT正式开启开发者Beta测试，并公布升级时间表 ...",
+    "id": "8ab1y8aUb1F",
+    "order": 1718956902969,
+    "createdAt": "2024-06-21T08:01:43.000Z",
+    "publishDate": "2024-06-21T08:01:42.969Z",
+    "title": "华为纯血鸿蒙升级计划出炉：Mate 60、Pura 70等8月推送正式版",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 16:01:43",
+    "uuid": "85ad74ca-6238-40f3-9ec1-8a9ab108b764"
+  },
+  {
+    "newsArray": [
+      { "siteName": "VR陀螺" },
+      { "siteName": "腾讯网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "在中国芜湖，安徽熙泰智能科技有限公司成功举办了12英寸硅基微显示及Micro OLED点亮仪式，标志着中国微显示技术的一大进步。活动中，多位政府官员、院士和行业专家发表了讲话 ...",
+    "id": "8aawnNhI8Me",
+    "order": 1718956879336,
+    "createdAt": "2024-06-21T08:01:19.000Z",
+    "publishDate": "2024-06-21T08:01:19.336Z",
+    "title": "总投资60亿元，熙泰科技首款12英寸fab Micro-OLED产品今天宣布点亮",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 16:01:19",
+    "uuid": "ef58d719-47d1-4228-a164-d5babad6b9fa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "华为在2024年的开发者大会上推出了升级的鸿蒙操作系统，其中鸿蒙NEXT版本通过集成AI技术提供了新的功能，如AIGC图像和声音修复，以及AI图像识别 ...",
+    "id": "8ab3GIBaKty",
+    "order": 1718956857798,
+    "createdAt": "2024-06-21T08:00:58.000Z",
+    "publishDate": "2024-06-21T08:00:57.798Z",
+    "title": "鸿蒙NEXT首次将AI能力融入系统",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 16:00:58",
+    "uuid": "a2b9c8ab-74ec-4cd8-ac13-1db439c75b97"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "国家图书馆推出《山海经》知识库，整合了92种古籍内容，提供文本、图像等多维度关联查询。公众可免费在线浏览书影、数字化图卷，进行文献检索和版本对比，并可个性化标记地图和图像 ...",
+    "id": "8aaxsa9VjCc",
+    "order": 1718956849749,
+    "createdAt": "2024-06-21T08:00:49.000Z",
+    "publishDate": "2024-06-21T08:00:49.749Z",
+    "title": "国家图书馆《山海经》知识库向公众开放，免费提供海量书影、数字化长卷",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 16:00:49",
+    "uuid": "a1659be4-e765-4224-83f4-c01be0858f59"
+  },
+  {
+    "newsArray": [
       { "siteName": "智通财经" },
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
@@ -494,6 +602,26 @@
     "up": false,
     "date": "2024-06-21 14:25:19",
     "uuid": "2f547e81-737f-4a62-b960-9b9cadb060c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" },
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "字节跳动员工发现公司内部办公平台飞连具有截屏功能，公司解释此为数据安全防护措施 ...",
+    "id": "8aawoFS0UYP",
+    "order": 1718956884079,
+    "createdAt": "2024-06-21T06:21:43.000Z",
+    "publishDate": "2024-06-21T08:01:24.079Z",
+    "title": "字节内部办公平台飞连被指监控截屏",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 14:21:43",
+    "uuid": "ba49aeb9-cf76-4ba8-9dc0-ecb920c12810"
   },
   {
     "newsArray": [
