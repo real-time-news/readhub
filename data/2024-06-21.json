@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软推送了Windows 11 24H2功能更新，其中包含了对搭载高通骁龙X Plus和X Elite处理器的电脑的支持 ...",
+    "id": "8aadxp0Htco",
+    "order": 1718938595300,
+    "createdAt": "2024-06-21T02:56:35.000Z",
+    "publishDate": "2024-06-21T02:56:35.300Z",
+    "title": "微软建议用户升级至 Win11 24H2 以体验 Wi-Fi 7",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 10:56:35",
+    "uuid": "f3c9ce05-47a1-4e61-87c0-3ea24a811c02"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "菜鸟高速智慧安检解决方案利用物联网、人工智能及大数据技术，对安检机进行智能化改造，能在高速安检机上每秒2米的运行速度下，实时匹配分析物品的订单信息和X光图像信息，提供即时分析报告给安检员，显著提高了安检效率和准确性。",
+    "id": "8aahNnY0ED4",
+    "order": 1718938576698,
+    "createdAt": "2024-06-21T02:56:16.000Z",
+    "publishDate": "2024-06-21T02:56:16.698Z",
+    "title": "安检进入AI时代，菜鸟自研高速智慧安检解决方案投入使用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 10:56:16",
+    "uuid": "1db210fe-9635-4fd5-a4bc-e55eb8dbca38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "恒大汽车股价在恢复交易后持续下跌，最近一个交易日收盘累计跌幅达到22.37%，但截至发稿时，该公司股价突然上涨了40.68%。",
+    "id": "8aaiWPkyrBv",
+    "order": 1718938547171,
+    "createdAt": "2024-06-21T02:55:47.000Z",
+    "publishDate": "2024-06-21T02:55:47.171Z",
+    "title": "恒大汽车大涨超40%，此前连续18个交易日下跌",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 10:55:47",
+    "uuid": "beeeed85-4397-44f5-a58c-cea72b1f9408"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "DoNews" }
@@ -50,6 +101,24 @@
     "up": false,
     "date": "2024-06-21 10:26:43",
     "uuid": "51974b5a-7b88-400a-9cd4-287a256d83d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "速途网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "快手宣布旗下苏州KSG和平精英分部加盟PEL职业联赛，将以新面貌备战2024赛季，并表示将利用游戏领域的优势，与PEL深化合作，打造多元优质的游戏内容生态。",
+    "id": "8aagjcEfxiy",
+    "order": 1718938913470,
+    "createdAt": "2024-06-21T02:25:09.000Z",
+    "publishDate": "2024-06-21T03:01:53.470Z",
+    "title": "快手宣布正式加入和平精英职业联赛",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 10:25:09",
+    "uuid": "70d828a3-09ce-4c17-bc6b-ab0755850388"
   },
   {
     "newsArray": [
@@ -290,6 +359,25 @@
     "up": false,
     "date": "2024-06-21 09:11:38",
     "uuid": "60ecca74-2024-4d60-9f78-33970219e1bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软向Windows Insider项目成员发布了Windows 11的KB5039304更新，版本号升至Build 26100.994 ...",
+    "id": "8aaT95Rgts1",
+    "order": 1718939134735,
+    "createdAt": "2024-06-21T01:02:52.000Z",
+    "publishDate": "2024-06-21T03:05:34.735Z",
+    "title": "微软 Win11 RP 26100.994 预览版发布：修复 WDAC 策略功能 Bug",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 09:02:52",
+    "uuid": "1b88713c-1d81-4a62-aac0-e8a2cdcce9ec"
   },
   {
     "newsArray": [
@@ -706,5 +794,23 @@
     "up": false,
     "date": "2024-06-21 00:46:19",
     "uuid": "cc00fc16-5ae3-45f4-92cd-1d9106369135"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "易观报告显示，今年618电商成交增速明显攀升，淘宝天猫成交额增速达12%，占综合电商平台62%市场份额 ...",
+    "id": "8aZoqvEBXQn",
+    "order": 1718938901893,
+    "createdAt": "2024-06-20T16:26:39.000Z",
+    "publishDate": "2024-06-21T03:01:41.893Z",
+    "title": "易观智库：618简化规则回归电商本质 淘宝天猫GMV同比增长12%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 00:26:39",
+    "uuid": "5829716f-2a83-4bf5-8c31-b29d86886f10"
   }
 ]
