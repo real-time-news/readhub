@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "一加科技宣布将于6月27日举行夏季性能生态新品发布会，推出包括一加平板Pro在内的多项新品。一加平板Pro定位为安卓最强性能平板，拥有灰、绿两种配色，并支持键盘和手写笔 ...",
+    "id": "8aaljouAOOD",
+    "order": 1718950407620,
+    "createdAt": "2024-06-21T06:13:27.000Z",
+    "publishDate": "2024-06-21T06:13:27.620Z",
+    "title": "国内首款一加平板官宣，号称“安卓最强性能”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 14:13:27",
+    "uuid": "26729f13-273b-4807-8fc5-66f420d575e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "速途网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "腾讯混元文生图大模型（混元DiT模型）全面开源训练代码，并发布LoRA小规模数据集训练方案与可控制插件ControlNet ...",
+    "id": "8aatFMMx4gs",
+    "order": 1718949968648,
+    "createdAt": "2024-06-21T06:06:08.000Z",
+    "publishDate": "2024-06-21T06:06:08.648Z",
+    "title": "腾讯混元文生图大模型开源训练代码，发布LoRA与ControlNet插件",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 14:06:08",
+    "uuid": "efb471f8-a892-40f1-91de-2c815a35e8f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "苹果公司推出Apple Intelligence服务，强调其在手机端侧整合所有应用数据和AI能力，并通过云端整合ChatGPT来处理更复杂任务 ...",
+    "id": "8aaqsOY4Zlu",
+    "order": 1718949673555,
+    "createdAt": "2024-06-21T06:01:13.000Z",
+    "publishDate": "2024-06-21T06:01:13.555Z",
+    "title": "苹果的智能革命：个人云计算以及数字孪生体的未来",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-21 14:01:13",
+    "uuid": "d1b301cd-9760-42b3-87ab-dd7330e4d27f"
+  },
+  {
+    "newsArray": [
       { "siteName": "速途网" },
       { "siteName": "界面" },
       { "siteName": "36Kr" }
