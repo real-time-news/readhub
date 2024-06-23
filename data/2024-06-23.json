@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "掘金" },
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "华为发布二合一设备HarmonyOS应用设计指南，强调开发者应充分利用设备特性，提供UI界面示范及应用案例。指南要求应用需支持窗口控制按钮、默认尺寸显示及分屏功能 ...",
+    "id": "8ackIMwQmzQ",
+    "order": 1719110224981,
+    "createdAt": "2024-06-23T02:37:04.000Z",
+    "publishDate": "2024-06-23T02:37:04.981Z",
+    "title": "华为发布HarmonyOS二合一设备应用设计指南",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-23 10:37:04",
+    "uuid": "feba3b77-6031-42f8-af1e-107ad5d8b6fa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国和加拿大大量汽车经销商因网络攻击而无法正常运营，攻击者索要高额赎金。攻击导致使用CDK Global软件的经销商系统中断，影响销售、维修和车辆交付等业务 ...",
+    "id": "8adsgJDdFgt",
+    "order": 1719109859185,
+    "createdAt": "2024-06-23T02:31:00.000Z",
+    "publishDate": "2024-06-23T02:30:59.185Z",
+    "title": "北美汽车经销商网络攻击事件持续发酵，黑客勒索巨额赎金",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-23 10:31:00",
+    "uuid": "bf84d670-ead1-4366-a0ba-06040e141111"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
