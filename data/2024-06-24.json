@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "西部证券收购国融证券激发市场对券商行业的热议，同时，有关湖北省市国资旗下的长江证券等三家券商合并的预期也受到投资者关注 ...",
+    "id": "8afjMohUeIx",
+    "order": 1719199278771,
+    "createdAt": "2024-06-24T03:21:19.000Z",
+    "publishDate": "2024-06-24T03:21:18.771Z",
+    "title": "券商合并预期增强，长江证券、天风证券回应：没有收购计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 11:21:19",
+    "uuid": "2d9a139f-544b-4a7b-99a3-aba1f8b82760"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "品玩" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "OpenAI 完成了对数据库分析公司 Rockset 的收购，这是其继去年收购 AI 设计公司 Global Illumination 之后的第二次重大收购 ...",
+    "id": "8ae3k61d8ux",
+    "order": 1719198992616,
+    "createdAt": "2024-06-24T03:16:32.000Z",
+    "publishDate": "2024-06-24T03:16:32.616Z",
+    "title": "OpenAI 收购 Rockset 以增强其检索能力",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 11:16:32",
+    "uuid": "762bf416-2631-4bba-aea8-ed5b46ff6b6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "麦肯锡的最新调查显示，全球3万名经常使用交通工具的个人中，有29%的电动汽车主可能会改回燃油车，而在澳大利亚和美国，这一比例更高，分别为49%和46% ...",
+    "id": "8adwxPphgwQ",
+    "order": 1719198974285,
+    "createdAt": "2024-06-24T03:16:15.000Z",
+    "publishDate": "2024-06-24T03:16:14.285Z",
+    "title": "麦肯锡调查：近半美国电动汽车车主考虑重回油车阵营",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 11:16:15",
+    "uuid": "dec6bc71-074d-4e7d-8b09-88d9b4233816"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财经网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "东风日产针对常州工厂关停传闻回应称，此次调整是基于整体战略和商业环境变化，旨在优化产能和资源，更好地适应企业转型发展。公司将加大新能源车型的产线布局和投入，同时确保燃油车型产能 ...",
+    "id": "8afhENuGB4C",
+    "order": 1719198975254,
+    "createdAt": "2024-06-24T03:16:15.000Z",
+    "publishDate": "2024-06-24T03:16:15.254Z",
+    "title": "东风日产回应常州工厂关停：资源优化调整 将加大新能源研发布局",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 11:16:15",
+    "uuid": "9acde637-b1d2-449e-a9b8-513fe3286f21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "在2024年华为开发者大会上，华为云CEO张平安推出了升级版的盘古大模型5.0，该模型在系列完整性、模态多样性和强思维能力方面进行了全面升级 ...",
+    "id": "8ae1xYTyJUl",
+    "order": 1719198958399,
+    "createdAt": "2024-06-24T03:15:58.000Z",
+    "publishDate": "2024-06-24T03:15:58.399Z",
+    "title": "华为云盘古大模型5.0正式发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 11:15:58",
+    "uuid": "d215997e-9a68-4f74-b0d0-defb9283db83"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "快科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "中国正通过教育扩张和基础设施投资，积极推进人工智能领域的发展，并已取得显著成果，全球顶尖AI研究人员中中国占比大幅提升 ...",
+    "id": "8afg53Cni1m",
+    "order": 1719198776518,
+    "createdAt": "2024-06-24T03:12:56.000Z",
+    "publishDate": "2024-06-24T03:12:56.518Z",
+    "title": "机构：2022年全球排名前20%的AI研究员中 中国占47%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 11:12:56",
+    "uuid": "2e5e3c1f-fe01-4963-96a7-c9139bbb8da6"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "凤凰科技" },
       { "siteName": "ZAKER" }
@@ -213,6 +316,27 @@
     "up": false,
     "date": "2024-06-24 10:02:05",
     "uuid": "e7ef4a44-430d-43c2-98a6-df29e4392658"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "恒生科技指数在6月24日上午的跌幅扩大至1%，同时恒指下跌0.83%。",
+    "id": "8afcDlOhiGY",
+    "order": 1719198784692,
+    "createdAt": "2024-06-24T02:01:31.000Z",
+    "publishDate": "2024-06-24T03:13:04.692Z",
+    "title": "恒生科技指数跌幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 10:01:31",
+    "uuid": "7ad036c4-159b-4ae9-8225-96d285a8f520"
   },
   {
     "newsArray": [
