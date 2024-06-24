@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "长城汽车与华为签署《HUAWEI HiCar 集成开发合作协议》，将共同探索智能出行，长城汽车将成为首批获得 HUAWEI HiCar 深度开发资源的汽车公司 ...",
+    "id": "8ag3jtp1tZU",
+    "order": 1719221157130,
+    "createdAt": "2024-06-24T09:25:57.000Z",
+    "publishDate": "2024-06-24T09:25:57.130Z",
+    "title": "长城汽车与华为签约 HiCar 合作协议：将共同探索智能出行的更多可能性",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 17:25:57",
+    "uuid": "e8f78459-bba6-4a91-9a8b-39d1fc3e9df2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "翰宇药业宣布其利拉鲁肽注射液获得美国FDA的暂定批准，该药品是公司与美国Hikma Pharmaceuticals共同申报的仿制药申请。",
+    "id": "8ag6vvsWnVk",
+    "order": 1719221101187,
+    "createdAt": "2024-06-24T09:25:01.000Z",
+    "publishDate": "2024-06-24T09:25:01.187Z",
+    "title": "翰宇药业：利拉鲁肽注射液获得美国FDA暂定批准",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 17:25:01",
+    "uuid": "f4383e8f-7d40-4ae8-8240-7bee80b0f30f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为在HDC 2024开发者大会上展示了鸿蒙HarmonyOS NEXT的新特性，包括丰富多样的SDK接入和实况窗功能的创新形态 ...",
+    "id": "8afZjBd94qo",
+    "order": 1719220894142,
+    "createdAt": "2024-06-24T09:21:34.000Z",
+    "publishDate": "2024-06-24T09:21:34.142Z",
+    "title": "华为鸿蒙HarmonyOS NEXT升级，实况窗“沉浸态”锁屏大卡来袭",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 17:21:34",
+    "uuid": "0f4e68ef-2236-424c-b327-4f79ac445b01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "环球网科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "6月24日港股市场上，极兔速递股价大跌超12%，成交额超过8亿港元。",
+    "id": "8afuEnAOwyV",
+    "order": 1719220885612,
+    "createdAt": "2024-06-24T09:21:26.000Z",
+    "publishDate": "2024-06-24T09:21:25.612Z",
+    "title": "港股极兔速递大跌超12%，成交额超8亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 17:21:26",
+    "uuid": "f63f09de-9421-40bb-a26e-d2be5a6a1b61"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "沃飞长空公司最近成功展示了其AE200电动垂直起降航空器的全倾转过渡飞行能力，这是航空技术领域的重要突破 ...",
+    "id": "8afjNcfSjvB",
+    "order": 1719220868475,
+    "createdAt": "2024-06-24T09:21:09.000Z",
+    "publishDate": "2024-06-24T09:21:08.475Z",
+    "title": "沃飞长空AE200电动垂直起降航空器完成二阶段试飞：航程可达200公里",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 17:21:09",
+    "uuid": "d7b2bfc2-bc8f-43c4-b668-ec80ac4894ba"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -341,6 +426,24 @@
     "up": false,
     "date": "2024-06-24 16:01:56",
     "uuid": "73b5d9d6-ca29-46ef-8f1d-e59e847217e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "中国汽、柴油批发价格上周整体下降，汽油平均批发价格下跌34元／吨，柴油下跌16元／吨。供应端方面，主营炼厂开工负荷将上升，山东地炼开工负荷将下降，成品油资源供应整体平稳 ...",
+    "id": "8afyP7HAB7q",
+    "order": 1719220736175,
+    "createdAt": "2024-06-24T08:01:38.000Z",
+    "publishDate": "2024-06-24T09:18:56.175Z",
+    "title": "截至6月21日当周中国汽、柴油批发均价回落",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 16:01:38",
+    "uuid": "c437b1af-5882-4df8-b581-3748b16dd9d1"
   },
   {
     "newsArray": [
