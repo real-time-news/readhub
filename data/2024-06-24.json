@@ -1,6 +1,146 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星在得克萨斯州泰勒市的新芯片工厂一期工程已完工，但全面运营可能要到2026年。原计划2024年投入运营，项目总成本从170亿美元增加到了约250亿美元 ...",
+    "id": "8aeIOSCZ9Va",
+    "order": 1719193041015,
+    "createdAt": "2024-06-24T01:37:22.000Z",
+    "publishDate": "2024-06-24T01:37:21.015Z",
+    "title": "投资 250 亿美元，三星美国得州芯片工厂推迟至 2026 年投产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 09:37:22",
+    "uuid": "0d49a692-bf17-47ba-85e9-139ddf29c964"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财新网" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "沪深两市今日低开，其中上证指数跌0.51%，报2982.83点。深证成指跌0.66%，报9004.85点。创业板指与中小板指也分别下跌0.57%和0.59% ...",
+    "id": "8afcCiC4Zla",
+    "order": 1719193029539,
+    "createdAt": "2024-06-24T01:37:09.000Z",
+    "publishDate": "2024-06-24T01:37:09.539Z",
+    "title": "今日开盘：两市双双低开 沪指跌幅 0.51%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 09:37:09",
+    "uuid": "a758f95d-fbfe-4936-b8d1-6843a5d959c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为在HDCC2024开发者大会上推出鸿蒙HarmonyOS NEXT全场景智能操作系统、盘古大模型5.0、全新小艺智能体与仓颉编程语言 ...",
+    "id": "8afZj9xFtFB",
+    "order": 1719192965690,
+    "createdAt": "2024-06-24T01:36:06.000Z",
+    "publishDate": "2024-06-24T01:36:05.690Z",
+    "title": "WPS Office 鸿蒙原生版完成开发：打通云账号、支持多端协调",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 09:36:06",
+    "uuid": "0d2f28de-52fa-4f63-a1ca-a5917564d47e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为星跃鼠标GT型号CD28-S通过蓝牙认证，支持星闪NearLink与蓝牙5.4连接，可与PC/平板设备配对。此前华为已推出两款星闪鼠标，新品GT将搭载相同的主控方案 ...",
+    "id": "8afYIIKammC",
+    "order": 1719192659224,
+    "createdAt": "2024-06-24T01:31:00.000Z",
+    "publishDate": "2024-06-24T01:30:59.224Z",
+    "title": "支持星闪连接，华为星跃鼠标 GT 通过蓝牙认证",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 09:31:00",
+    "uuid": "c5942c15-ce1c-4460-991a-bb0666d98ae4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "根据证券时报•数据宝的统计，截至6月21日，深沪北两融余额为15034.68亿元，较前一周末减少29.98亿元。其中，融资余额14708.81亿元，一周减少19.69亿元 ...",
+    "id": "8afZMJbi0VZ",
+    "order": 1719191489842,
+    "createdAt": "2024-06-24T01:11:29.000Z",
+    "publishDate": "2024-06-24T01:11:29.842Z",
+    "title": "融资融券周报：两融余额上周减少29.98亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 09:11:29",
+    "uuid": "7bf4ae2c-e548-428c-9b3d-e23e8239ecf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "证券时报网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国国家药监局批准了首款治疗阿尔茨海默病的药物“仑卡奈单抗注射液”，并将于下周在上海医院开出首张处方 ...",
+    "id": "8aehQ1g8tUz",
+    "order": 1719190849204,
+    "createdAt": "2024-06-24T01:00:49.000Z",
+    "publishDate": "2024-06-24T01:00:49.204Z",
+    "title": "年治疗费用18万元 首款阿尔茨海默药即将进入中国医院",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 09:00:49",
+    "uuid": "236ae193-f990-4d22-ad38-061b56f52b82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "动脉网" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "苏州威邦震电光电技术有限公司（威邦震电）完成近亿元人民币A+轮融资，由道远资本领投，峰瑞资本和方正和生跟投 ...",
+    "id": "8afWCPd4y7G",
+    "order": 1719190333443,
+    "createdAt": "2024-06-24T00:52:13.000Z",
+    "publishDate": "2024-06-24T00:52:13.443Z",
+    "title": "威邦震电完成近亿元A+轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 08:52:13",
+    "uuid": "f8810bb8-aff2-4d72-8416-7be2b452792f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国泰君安研报指出，尽管当前锂产品产销面临压力，锂矿公司中具备清晰产能和成本优势的企业仍被看好。由于全球新能源汽车和电池储能市场的持续增长，锂行业长期发展前景不变 ...",
+    "id": "8afVlxjHl3L",
+    "order": 1719190275168,
+    "createdAt": "2024-06-24T00:51:16.000Z",
+    "publishDate": "2024-06-24T00:51:15.168Z",
+    "title": "国泰君安：看好产能清晰且具备成本优势的锂矿公司",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 08:51:16",
+    "uuid": "2f516eed-3b67-4172-a2a3-f183854eed02"
+  },
+  {
+    "newsArray": [
       { "siteName": "C114 通信网" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -207,6 +347,27 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "长城汽车计划在未来两年内在马来西亚、印尼和越南建设新工厂，以实现当地组装。目前，长城汽车正在与马来西亚EP Manufacturing合作，计划在马六甲州组装产品，并预计在7月投产 ...",
+    "id": "8afU0JFExqn",
+    "order": 1719192982704,
+    "createdAt": "2024-06-23T23:40:53.000Z",
+    "publishDate": "2024-06-24T01:36:22.704Z",
+    "title": "长城汽车计划今明两年在马来西亚、印尼和越南新建工厂 实现当地组装",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 07:40:53",
+    "uuid": "ca88ef96-4c51-4eea-b393-b011ca44ba2f"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "智通财经" },
       { "siteName": "财联社" }
@@ -309,5 +470,25 @@
     "up": false,
     "date": "2024-06-24 07:00:58",
     "uuid": "02bfe43e-c5f8-4e96-9857-71b50af5b6cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财新网" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "中国三大交易所——沪深交易所、北交所重启了IPO受理，标志着上市环境逐步恢复。监管层出台了新政策，如“科创板八条”和国办“创投17条”，预期将缓解一级市场“退出难”问题，并改善创新支持环境 ...",
+    "id": "8aeoCaP6aFV",
+    "order": 1719189639370,
+    "createdAt": "2024-06-23T22:41:02.000Z",
+    "publishDate": "2024-06-24T00:40:39.370Z",
+    "title": "沪深北重启IPO受理，新“国九条”后首批企业亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-24 06:41:02",
+    "uuid": "b88151d5-75d2-4158-a1de-97e25fd7a47e"
   }
 ]
