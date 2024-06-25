@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "赛力斯股价在6月25日下午大幅下跌，逼近跌停，成交额超过56亿元。",
+    "id": "8ahb9E1vkHJ",
+    "order": 1719297656453,
+    "createdAt": "2024-06-25T06:40:56.000Z",
+    "publishDate": "2024-06-25T06:40:56.453Z",
+    "title": "赛力斯持续跳水，股价逼近跌停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 14:40:56",
+    "uuid": "6d1ecab0-8e0c-4b4f-9615-59ce316b4b05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉Model Y在欧洲销量下滑，5月销量同比下降49%，排名跌至第18位。销量下滑原因包括消费者对电动汽车购买热情减弱、国家补贴政策取消和交付问题等 ...",
+    "id": "8ahM8XGFd2H",
+    "order": 1719297443997,
+    "createdAt": "2024-06-25T06:37:24.000Z",
+    "publishDate": "2024-06-25T06:37:23.997Z",
+    "title": "5 月份特斯拉 Model Y 欧洲销量暴跌，从冠军宝座跌至第 18 位",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 14:37:24",
+    "uuid": "b4e5e0a4-81b4-408a-bf5b-98487e32d1af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米推出Civi 4 Pro迪士尼公主限定版手机，强调其超“上镜”特性，鼓励用户勇敢展现真实的自己 ...",
+    "id": "8ahbrHc8Q5u",
+    "order": 1719297151650,
+    "createdAt": "2024-06-25T06:32:31.000Z",
+    "publishDate": "2024-06-25T06:32:31.650Z",
+    "title": "小米 Civi 4 Pro 迪士尼公主限定版手机官宣，6 月 27 日发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 14:32:31",
+    "uuid": "e77933e4-5873-4b5c-a6c7-78825ba1d6cc"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
