@@ -1,6 +1,126 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "研究人员开发了一种新型芯片，能通过血液发电并测量电导率，为医疗测试提供新方法。血液电导率是评估健康的关键指标，该设备能更准确地诊断疾病。",
+    "id": "8agnpPESmSI",
+    "order": 1719282657452,
+    "createdAt": "2024-06-25T02:30:57.000Z",
+    "publishDate": "2024-06-25T02:30:57.452Z",
+    "title": "利用血液发电并测量电导率 新型芯片可快速监测健康情况",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 10:30:57",
+    "uuid": "ca54b0bb-2cc3-4018-a747-2a58362563e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2023年度国家科学技术奖中，\"第五代移动通信系统（5G）关键技术与工程应用\"项目获国家科学技术进步奖一等奖 ...",
+    "id": "8ahJi3Qs2Eo",
+    "order": 1719282375421,
+    "createdAt": "2024-06-25T02:26:15.000Z",
+    "publishDate": "2024-06-25T02:26:15.421Z",
+    "title": "华为vivo等参与、工信部提名：5G获国家科学技术进步奖一等奖",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 10:26:15",
+    "uuid": "c84af1f8-2814-4a29-859f-157218c8bdd2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "电商领域动态更新，商务部将加大吸引外资力度，放宽外资准入。618电商节全网销售额同比下降7%。派拉蒙流媒体服务调整订阅价格。Shopee越南调整订单取消政策 ...",
+    "id": "8ahDGmRapOd",
+    "order": 1719282072654,
+    "createdAt": "2024-06-25T02:21:13.000Z",
+    "publishDate": "2024-06-25T02:21:12.654Z",
+    "title": "9点聊电商：蔡崇信 爱好估值400亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 10:21:13",
+    "uuid": "d76ac98f-f2b9-42e2-aa0b-7bb4fd0f3e9d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "OpenAI宣布，为维护服务质量和安全性，将限制来自某些国家和地区的API流量。从7月9日起，非支持国家和地区的API流量将被阻止 ...",
+    "id": "8ahGG90BdK1",
+    "order": 1719281692280,
+    "createdAt": "2024-06-25T02:14:52.000Z",
+    "publishDate": "2024-06-25T02:14:52.280Z",
+    "title": "OpenAI宣布终止对中国提供API服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 10:14:52",
+    "uuid": "30ed8188-27a4-4265-bbc5-1cf8bb13d5ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "香港恒生指数和科技指数小幅上涨，能源和汽车板块表现较好，蔚来、理想汽车和中国海洋石油股价有所上涨。而电信和半导体板块表现不佳，阳光能源和华虹半导体股价下跌。",
+    "id": "8ahGiiGZHas",
+    "order": 1719281609886,
+    "createdAt": "2024-06-25T02:13:29.000Z",
+    "publishDate": "2024-06-25T02:13:29.886Z",
+    "title": "恒指开盘涨0.33%，汽车股领涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 10:13:29",
+    "uuid": "c2a4dbbf-e6ee-44a4-a9f7-738723b6e927"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "摄影师们对Meta旗下社交平台在他们的真实照片上添加“AI生成”标签表示不满。Meta公司承认这个问题，正在评估其做法 ...",
+    "id": "8ahGQ3RmfHu",
+    "order": 1719281174312,
+    "createdAt": "2024-06-25T02:06:14.000Z",
+    "publishDate": "2024-06-25T02:06:14.312Z",
+    "title": "Meta 将真实照片标记为“AI 生成”，引发多名摄影师不满",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 10:06:14",
+    "uuid": "d715d5cf-e9a1-467e-8447-8f67910e4ede"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌正在安卓版Chrome浏览器中测试“数字证书API”，通过该API，网站可以安全地请求存储在手机钱包中的身份信息，如驾照和护照 ...",
+    "id": "8ahIYuskyRG",
+    "order": 1719281165606,
+    "createdAt": "2024-06-25T02:06:06.000Z",
+    "publishDate": "2024-06-25T02:06:05.606Z",
+    "title": "谷歌测试安卓版 Chrome 新 API：让网站安全地请求用户身份信息",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 10:06:06",
+    "uuid": "467aaf3f-46f0-48a7-9dca-e23cda16447c"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "C114 通信网" },
       { "siteName": "IT 之家" }
@@ -15,6 +135,26 @@
     "up": false,
     "date": "2024-06-25 10:00:45",
     "uuid": "f8a5ab25-f9cb-442a-bfc2-dacfc6431589"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "i黑马" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "24年飞天茅台散瓶批发参考价从前一日的2080元上涨至2150元，原箱的24年飞天茅台批发参考价涨至2450元/瓶。",
+    "id": "8ahIYdAWwBb",
+    "order": 1719281217264,
+    "createdAt": "2024-06-25T01:51:17.000Z",
+    "publishDate": "2024-06-25T02:06:57.264Z",
+    "title": "飞天茅台散瓶批发参考价涨至2150元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 09:51:17",
+    "uuid": "585cdc35-909c-4d8f-b3a8-eb89f0aedc08"
   },
   {
     "newsArray": [
