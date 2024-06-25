@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "中关村在线" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "百度智能云在北京举办了“AI Cloud Day”，会上推出了针对知识管理、客服、营销三大企业应用场景的升级产品，分别是百度智能云甄知知识管理平台、百度智能云客悦智能客服平台和百度智能云曦灵数字人平台。",
+    "id": "8ahi8zsyqGJ",
+    "order": 1719308941423,
+    "createdAt": "2024-06-25T09:49:01.000Z",
+    "publishDate": "2024-06-25T09:49:01.423Z",
+    "title": "百度智能云升级3款大模型应用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 17:49:01",
+    "uuid": "614ddd0f-25dd-4e57-b946-dfc0990b9674"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -135,6 +152,43 @@
     "up": false,
     "date": "2024-06-25 17:12:20",
     "uuid": "37e62995-950d-4fe6-9503-602a943fb43c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "OpenAI终止对中国提供API服务，阿里云百炼推出替代方案，提供免费tokens和专属迁移服务 ...",
+    "id": "8ahnJ3crw0m",
+    "order": 1719309045319,
+    "createdAt": "2024-06-25T09:11:49.000Z",
+    "publishDate": "2024-06-25T09:50:45.319Z",
+    "title": "通义千问公布OpenAI用户迁移方案：将提供2200万免费tokens",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 17:11:49",
+    "uuid": "42112526-e783-4c3a-b063-ee3b4834e08e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "百度智能云千帆推出大模型普惠计划，为新注册企业用户提供0元调用、0元训练、0元迁移等服务 ...",
+    "id": "8ahmvvvWKHw",
+    "order": 1719308935333,
+    "createdAt": "2024-06-25T09:11:48.000Z",
+    "publishDate": "2024-06-25T09:48:55.333Z",
+    "title": "百度智能云千帆推出大模型普惠计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 17:11:48",
+    "uuid": "f43a5817-4cc8-4538-a0e8-29a57bff21b6"
   },
   {
     "newsArray": [
@@ -588,6 +642,24 @@
     "up": false,
     "date": "2024-06-25 14:48:50",
     "uuid": "84b81447-b270-4fa0-afb8-d33abfdde782"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "智谱AI宣布推出OpenAI API用户特别搬家计划，提供1.5亿Token，并为开发者提供从OpenAI到GLM的迁移培训 ...",
+    "id": "8ahZ8JM22vE",
+    "order": 1719308939909,
+    "createdAt": "2024-06-25T06:43:17.000Z",
+    "publishDate": "2024-06-25T09:48:59.909Z",
+    "title": "智谱宣布面向OpenAI API用户提供特别搬家计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-25 14:43:17",
+    "uuid": "45cd365a-9f5e-44e2-ae8e-328fa75e1c56"
   },
   {
     "newsArray": [
