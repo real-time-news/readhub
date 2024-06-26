@@ -1,6 +1,127 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "环球网科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "钉钉在2024钉钉生态大会上宣布开放大模型生态，与多家大模型厂商合作，探索AI在产品应用和个性化解决方案 ...",
+    "id": "8aj2ox1ivbV",
+    "order": 1719375930176,
+    "createdAt": "2024-06-26T04:25:31.000Z",
+    "publishDate": "2024-06-26T04:25:30.176Z",
+    "title": "钉钉宣布对所有大模型开放 以三种模式开展合作与探索",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 12:25:31",
+    "uuid": "4ab5eb08-d78f-4aca-a1b3-6b878260e051"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软承认Windows 11、Windows 10系统存在BUG，导致用户循环收到更改时区通知。",
+    "id": "8aim1LS877k",
+    "order": 1719375877638,
+    "createdAt": "2024-06-26T04:24:37.000Z",
+    "publishDate": "2024-06-26T04:24:37.638Z",
+    "title": "微软承认 Win10/Win11 存在 BUG：循环提醒更改时区",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 12:24:37",
+    "uuid": "f9d8b28d-b84b-4a84-93da-07c0d039aedd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "6月24日，全国科技大会、国家科学技术奖励大会和两院院士大会在北京联合召开，总书记为最高科学技术奖获得者颁奖 ...",
+    "id": "8ahrwm4xQiR",
+    "order": 1719375870723,
+    "createdAt": "2024-06-26T04:24:30.000Z",
+    "publishDate": "2024-06-26T04:24:30.723Z",
+    "title": "“国奖”放榜：十年来AI领域首个国奖一等奖花落科大讯飞",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 12:24:30",
+    "uuid": "2665eb77-53dc-4167-b22d-73e0e8fcd12d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "英伟达市值重返3万亿美元，美国银行将其列入最佳股票名单并维持“买入”评级，目标价150美元。分析师普遍看好英伟达，平均目标价122.13美元。",
+    "id": "8air38sKDLl",
+    "order": 1719375831605,
+    "createdAt": "2024-06-26T04:23:51.000Z",
+    "publishDate": "2024-06-26T04:23:51.605Z",
+    "title": "英伟达(NVDA.US)市值重返三万亿美元 美银将其列入最佳股票名单",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 12:23:51",
+    "uuid": "1c39cc76-3e07-4448-964a-b6343ae7dbf0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "界面" },
+      { "siteName": "财新网" }
+    ],
+    "summary": "日本10年期国债收益率首次升破1%，交易员关注央行削减购债计划，日本央行7月会议将讨论国债购买方向。",
+    "id": "8aizsw11nGE",
+    "order": 1719375792548,
+    "createdAt": "2024-06-26T04:23:13.000Z",
+    "publishDate": "2024-06-26T04:23:12.548Z",
+    "title": "日本10年期国债收益率两周来首次触及1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 12:23:13",
+    "uuid": "145f70b4-da4b-4cab-abaf-caacdbdc4b0f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "增程车型结合了电动车型和传统燃油车型的优点，既有零排放和高能效特性，又有续航里程优势，而作为哪吒汽车的首款增程SUV，哪吒L被寄予厚望，毕竟结合理想汽车的产品路线和销量来看，家庭用车才是刚需，而增程SUV则完全契合了家庭用车场景 ...",
+    "id": "8ahoZEOl8ID",
+    "order": 1719375772929,
+    "createdAt": "2024-06-26T04:22:52.000Z",
+    "publishDate": "2024-06-26T04:22:52.929Z",
+    "title": "纯电未卖，增程难产，哪吒汽车夹缝求存",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 12:22:52",
+    "uuid": "ee9dd218-26a9-4d01-944b-864e60d44956"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "6月25日，美股涨跌互现，纳指和标普500指数上涨，道指下跌。科技股普遍上涨，中概股多数下跌。",
+    "id": "8ailjwHCljh",
+    "order": 1719375748498,
+    "createdAt": "2024-06-26T04:22:28.000Z",
+    "publishDate": "2024-06-26T04:22:28.498Z",
+    "title": "美股三大指数收盘涨跌不一，大型科技股多数上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 12:22:28",
+    "uuid": "a5f80b2e-03f1-478f-8e0f-0b9dac45d301"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -500,6 +621,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "SK On公司计划从埃克森美孚购买10万吨锂，这些锂将用于在美国生产电动汽车电池。",
+    "id": "8aiCHbmKE3s",
+    "order": 1719375685074,
+    "createdAt": "2024-06-26T01:31:52.000Z",
+    "publishDate": "2024-06-26T04:21:25.074Z",
+    "title": "SK On向埃克森美孚寻求锂供应 用于电动汽车电池生产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 09:31:52",
+    "uuid": "8871436f-cd39-4907-b090-2165aa5ea7d9"
+  },
+  {
+    "newsArray": [
       { "siteName": "智通财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -928,6 +1067,25 @@
     "up": false,
     "date": "2024-06-26 06:31:51",
     "uuid": "104028cb-46f7-4e75-b9ab-1439146b3b27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "大众汽车将向Rivian投资50亿美元，两公司计划共同研发下一代电动汽车，消息推动Rivian美股盘后股价上涨23.75%。",
+    "id": "8aiZAB3LooM",
+    "order": 1719375673153,
+    "createdAt": "2024-06-25T22:22:10.000Z",
+    "publishDate": "2024-06-26T04:21:13.153Z",
+    "title": "Rivian获得德国大众50亿美元投资，股价盘后涨约24%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 06:22:10",
+    "uuid": "81127fec-3e01-40d4-b0b4-7845e2be0c48"
   },
   {
     "newsArray": [
