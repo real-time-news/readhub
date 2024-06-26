@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD计划推出支持120万片GPU的数据中心AI集群，目标是超越全球最强超级计算机的GPU数量，面临延迟、功耗等挑战。",
+    "id": "8ajNtgEP8HL",
+    "order": 1719389768548,
+    "createdAt": "2024-06-26T08:16:09.000Z",
+    "publishDate": "2024-06-26T08:16:08.548Z",
+    "title": "AMD 对抗英伟达“杀手锏”：120 万片 GPU 组成 AI 集群",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 16:16:09",
+    "uuid": "7b732901-6f01-4972-80f5-d9ee0a11b53e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "速途网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "6月1-23日，乘用车市场零售同比下降12%，新能源车市场零售同比增长19%，其中新能源批发同比增长23%。",
+    "id": "8ajNAaJDVYB",
+    "order": 1719389447284,
+    "createdAt": "2024-06-26T08:10:48.000Z",
+    "publishDate": "2024-06-26T08:10:47.284Z",
+    "title": "乘联会：6月1-23日新能源车市场零售53.4万辆 同比增长19%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 16:10:48",
+    "uuid": "12050e34-ce62-4ab5-80d9-218ab94d6ed8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国资委将加大对中央企业创投基金支持，鼓励投资科技领军企业和中小企业，助力实体经济发展。",
+    "id": "8ajNWsxtI4s",
+    "order": 1719388970160,
+    "createdAt": "2024-06-26T08:02:51.000Z",
+    "publishDate": "2024-06-26T08:02:50.160Z",
+    "title": "国资委：鼓励创投基金投早、投小、投长期、投硬科技，发挥长期耐心资本作用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 16:02:51",
+    "uuid": "710ce966-ba1f-4bd2-ae92-b91d73f5f3cd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "研究发现，人类驾驶员在昏暗光线和转弯路段的事故率低于自动驾驶系统。自动驾驶系统在低光照环境和复杂天气下存在局限性，如误识别阴影和态势感知不足 ...",
+    "id": "8aizbX1SP4L",
+    "order": 1719388968456,
+    "createdAt": "2024-06-26T08:02:48.000Z",
+    "publishDate": "2024-06-26T08:02:48.456Z",
+    "title": "自动驾驶还需修炼，研究表明人类驾驶员在弱光和转弯时更胜一筹",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 16:02:48",
+    "uuid": "a629da50-9d5d-4e55-bfa8-7bb145d706e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "波音公司研发的“星际线”飞船出现氦气泄漏问题，可能导致两名宇航员需乘坐SpaceX的“载人龙”飞船返回地球 ...",
+    "id": "8ahzmMCTz4r",
+    "order": 1719388925398,
+    "createdAt": "2024-06-26T08:02:06.000Z",
+    "publishDate": "2024-06-26T08:02:05.398Z",
+    "title": "万一波音飞船无法修复 宇航员可能乘SpaceX飞船返回地球",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 16:02:06",
+    "uuid": "b24e6848-5f15-4db4-9a43-3af5649529cc"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "新浪科技" },
       { "siteName": "腾讯网" },
