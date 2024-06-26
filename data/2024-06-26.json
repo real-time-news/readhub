@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "雷科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "OpenAI对中国内地和香港断供，引发国内大模型行业竞争加剧。科大讯飞推出“讯飞星火API普惠政策”，吸引开发者。政策包括免费试用、赠送tokens等 ...",
+    "id": "8ajFlitnE2X",
+    "order": 1719387125451,
+    "createdAt": "2024-06-26T07:32:06.000Z",
+    "publishDate": "2024-06-26T07:32:05.451Z",
+    "title": "Open AI断供 讯飞星火发布国内最优解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 15:32:06",
+    "uuid": "57ebc5a7-849c-4f7d-973f-e6178f04273b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "网商银行行长冯亮宣布交易银行战略，强调成为小微“资金管理专家”，推出生意卡和电商通等解决方案，与产业链金融解决方案大雁系统共同构成交易银行三大板块。",
+    "id": "8ahd0TOMgb1",
+    "order": 1719387091184,
+    "createdAt": "2024-06-26T07:31:32.000Z",
+    "publishDate": "2024-06-26T07:31:31.184Z",
+    "title": "网商银行：将交易银行作为第二增长曲线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 15:31:32",
+    "uuid": "988a7f3b-cdea-46f8-950e-aa15292d9db1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "天孚通信表示，美国拟议的针对高科技领域对华投资限制规则对其订单出口无影响，公司进出口政策近期未变。",
+    "id": "8ajKvnstDAU",
+    "order": 1719386778618,
+    "createdAt": "2024-06-26T07:26:18.000Z",
+    "publishDate": "2024-06-26T07:26:18.618Z",
+    "title": "天孚通信：公司产品的进出口政策近期未发生变化",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 15:26:18",
+    "uuid": "bfd4b9e8-675e-477f-b533-16b9dd684464"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "Etched公司完成1.2亿美元A轮融资，用于开发全球首款Transformer专用ASIC芯片Sohu ...",
+    "id": "8aj8PFbI385",
+    "order": 1719386736059,
+    "createdAt": "2024-06-26T07:25:37.000Z",
+    "publishDate": "2024-06-26T07:25:36.059Z",
+    "title": "全球首款 Transformer 专用 AI 芯片 Sohu 登场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 15:25:37",
+    "uuid": "d0d403cb-280e-4266-9da4-69039ec4126a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌将停止对Material Web Components（MWC）项目的专职开发，转而支持内部Wiz框架 ...",
+    "id": "8ajIsYQQmLQ",
+    "order": 1719386717938,
+    "createdAt": "2024-06-26T07:25:17.000Z",
+    "publishDate": "2024-06-26T07:25:17.938Z",
+    "title": "谷歌暂停开发 Material Web Components 项目，专注 Wiz 框架",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 15:25:17",
+    "uuid": "34bb0514-3fd4-4b7c-8da4-468deb1d94c9"
+  },
+  {
+    "newsArray": [
       { "siteName": "ZAKER" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -186,6 +272,24 @@
     "up": false,
     "date": "2024-06-26 14:11:22",
     "uuid": "5351d87b-9e32-4b53-a986-6c7b6c040f4d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "速途网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "魔兽怀旧服“巫妖王之怒”将于6月27日上午6点开启，同时公布新服务器名称“吉安娜”和“死亡猎手”，另有未来服务器名称“红玉圣殿”和“雪怒”。",
+    "id": "8ajEbnUP077",
+    "order": 1719386726466,
+    "createdAt": "2024-06-26T06:01:10.000Z",
+    "publishDate": "2024-06-26T07:25:26.466Z",
+    "title": "魔兽世界：“巫妖王之怒”将于6月27日正式开启",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-26 14:01:10",
+    "uuid": "c1fac2e3-9318-4d52-b8f6-244d8f4fb5a8"
   },
   {
     "newsArray": [
