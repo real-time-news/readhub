@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "RNA桥技术实现下一代基因组设计，可在指定位点进行DNA序列插入、倒置或删除，实现单步重排，有望提高基因组编辑的精准度和效率。",
+    "id": "8ak4PvjUcsF",
+    "order": 1719456085643,
+    "createdAt": "2024-06-27T02:41:25.000Z",
+    "publishDate": "2024-06-27T02:41:25.643Z",
+    "title": "解决基因组编辑面临难题 “RNA桥”实现下一代基因组设计",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 10:41:25",
+    "uuid": "b675b6e8-3716-4303-a3bb-0d793a8f9767"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "保时捷宣布召回全球Taycan车型，因制动系统软管可能开裂影响制动性能。新软管已优化，确保安全。Taycan系列车型性能强劲，续航里程长，支持超快充。",
+    "id": "8akcEBHPuRD",
+    "order": 1719456058156,
+    "createdAt": "2024-06-27T02:40:58.000Z",
+    "publishDate": "2024-06-27T02:40:58.156Z",
+    "title": "刹车系统存在风险，保时捷召回全球所有Taycan车型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 10:40:58",
+    "uuid": "cba89396-fc99-4bb9-ba1d-2497da47915e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "海航控股股价近期持续下跌，一度逼近1元，公司表示正在采取措施，具体措施待官方公告。",
+    "id": "8ajXvI3fdz7",
+    "order": 1719455843455,
+    "createdAt": "2024-06-27T02:37:23.000Z",
+    "publishDate": "2024-06-27T02:37:23.455Z",
+    "title": "海航控股回应股价逼近1元：公司正在采取措施",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 10:37:23",
+    "uuid": "7a0baba5-31d5-44dc-b5a0-40172cc68b30"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上海市新增6款生成式AI服务，累计登记9款。",
+    "id": "8ajjh1lAFbE",
+    "order": 1719455827400,
+    "createdAt": "2024-06-27T02:37:07.000Z",
+    "publishDate": "2024-06-27T02:37:07.400Z",
+    "title": "上海市新增6款生成式人工智能服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 10:37:07",
+    "uuid": "16b95fe3-876b-4473-b629-fe24e1f017a1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "中国首个视觉扩散架构人形机器人任务生成模型R-DDPRM发布，由成都人形机器人创新中心研发，大幅提升任务执行能力和效率。AI发展助力机器人产业，人形机器人产业落地加速 ...",
+    "id": "8ajHUNkk94S",
+    "order": 1719455770976,
+    "createdAt": "2024-06-27T02:36:11.000Z",
+    "publishDate": "2024-06-27T02:36:10.976Z",
+    "title": "国内首个人形机器人大模型发布 或将助力机器人产业提速",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 10:36:11",
+    "uuid": "4bda2529-7168-41aa-b00a-e3cda6ca385a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "SK集团将讨论业务重组，确保AI和芯片支出，并探讨高质量增长。",
+    "id": "8ake8O0isAG",
+    "order": 1719455767570,
+    "createdAt": "2024-06-27T02:36:07.000Z",
+    "publishDate": "2024-06-27T02:36:07.570Z",
+    "title": "SK集团将讨论业务重组措施 以确保AI和芯片支出",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 10:36:07",
+    "uuid": "d40afc86-73c6-4b0f-b235-5e543eba50c8"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "财联社" }
