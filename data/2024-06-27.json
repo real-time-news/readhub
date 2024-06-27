@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "3只中证国新港股通央企红利ETF成立，总规模34.01亿，其中广发、景顺长城、南方基金分别成立11.65亿、11.25亿和11.1亿。",
+    "id": "8aktrjPXjuZ",
+    "order": 1719472544934,
+    "createdAt": "2024-06-27T07:15:44.000Z",
+    "publishDate": "2024-06-27T07:15:44.934Z",
+    "title": "3只中证国新港股通央企红利ETF成立 总规模达34.01亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 15:15:44",
+    "uuid": "fb9737d7-cbd0-496f-930e-cd57408c7660"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财新网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "民生银行第九届董事会换届完成，高迎欣连任董事长，董事会成员调整为16人。",
+    "id": "8ajqp8SdciV",
+    "order": 1719472385961,
+    "createdAt": "2024-06-27T07:13:06.000Z",
+    "publishDate": "2024-06-27T07:13:05.961Z",
+    "title": "民生银行第九届董事会出炉 高管回应独董薪酬、资产质量等问题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 15:13:06",
+    "uuid": "f7949007-0311-460e-907e-2be64b8b8e24"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Frore Systems 近日发布其 AirJet 系列固态主动散热芯片的新款 AirJet Mini Sport，这也是其首款防水散热产品 ...",
+    "id": "8akfEISU1rP",
+    "order": 1719472296327,
+    "createdAt": "2024-06-27T07:11:37.000Z",
+    "publishDate": "2024-06-27T07:11:36.327Z",
+    "title": "IP68 防尘防水，Frore 推出 AirJet Mini Sport 固态主动散热芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 15:11:37",
+    "uuid": "201b3d3a-47dc-4536-8205-112b730c71bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "腾讯主导的AVS3P10实时语音编码行业标准完成定稿，采用腾讯自研神经网络语音编解码器Penguins AI语音引擎，可在弱网环境下提升通话质量 ...",
+    "id": "8akxFiaqSZd",
+    "order": 1719472280143,
+    "createdAt": "2024-06-27T07:11:21.000Z",
+    "publishDate": "2024-06-27T07:11:20.143Z",
+    "title": "电梯、地库里通话不卡顿，腾讯主导新一代实时语音编码行业标准 AVS3P10 即将发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 15:11:21",
+    "uuid": "2f891967-3dda-41ae-a22b-af2038c75eed"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "恒大汽车就潜在股份转让讨论进行中，但未签署协议，需进一步调查，交易可能进行也可能不进行，股东和投资者应谨慎。",
+    "id": "8ajp2kalD8f",
+    "order": 1719472268883,
+    "createdAt": "2024-06-27T07:11:08.000Z",
+    "publishDate": "2024-06-27T07:11:08.883Z",
+    "title": "恒大汽车：潜在股份转让仍在讨论中",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 15:11:08",
+    "uuid": "32e3443c-1ac2-4c77-9e39-f956a43df88e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国汽车行业主要游说团体要求重新考虑NHTSA的自动紧急制动（AEB）规则，认为现有技术难以达到政府制定的高标准 ...",
+    "id": "8akuDAZgIfe",
+    "order": 1719472036711,
+    "createdAt": "2024-06-27T07:07:16.000Z",
+    "publishDate": "2024-06-27T07:07:16.711Z",
+    "title": "美国要求 AEB 系统能在 100 公里 / 时的时速下刹停，遭众车企反对",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 15:07:16",
+    "uuid": "c76477ac-409b-41e3-9dbe-91c702863ebc"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -32,6 +134,24 @@
     "up": false,
     "date": "2024-06-27 14:56:05",
     "uuid": "eb37f34f-16e7-419b-a3f5-f345e24061f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "2024上海世界移动通信大会期间，中国联通举办国际合作伙伴大会，提出共同推进智能网络、智能应用和智能服务的倡议。GSMA首席执行官强调合作重要性，400余合作伙伴参会 ...",
+    "id": "8akiD0WOoWj",
+    "order": 1719472258560,
+    "createdAt": "2024-06-27T06:48:57.000Z",
+    "publishDate": "2024-06-27T07:10:58.560Z",
+    "title": "向新同行 智联未来 中国联通成功举办国际合作伙伴大会",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-27 14:48:57",
+    "uuid": "d4677d6a-102e-41d0-a6f3-0e657a09c208"
   },
   {
     "newsArray": [
