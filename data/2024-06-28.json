@@ -1,6 +1,164 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD宣布FSR 3.1超分技术已应用于5款新游戏，包括《对马岛之魂导演剪辑版》等，平均帧率提升3.3倍。FSR 3.1带来多项更新，SDK开发包即将公开。",
+    "id": "8amK6a5FBxb",
+    "order": 1719542770772,
+    "createdAt": "2024-06-28T02:46:10.000Z",
+    "publishDate": "2024-06-28T02:46:10.772Z",
+    "title": "AMD FSR 3.1新增5款游戏：RX 7000系列平均性能提升3.3倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-28 10:46:10",
+    "uuid": "ab0a56cf-b5e6-4ab2-bbcd-42c26f4f6b74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "图湃医疗完成2亿元D轮融资，由经纬创投领投。公司核心技术源自清华，拥有OCT、显微镜等四大产品线，在眼科设备领域取得突破。图湃眼科OCT产品市占率国内第一，产品已在多国销售装机 ...",
+    "id": "8amDpfIqZhb",
+    "order": 1719542748880,
+    "createdAt": "2024-06-28T02:45:50.000Z",
+    "publishDate": "2024-06-28T02:45:48.880Z",
+    "title": "图湃医疗完成2亿元D轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-28 10:45:50",
+    "uuid": "3de125c9-c983-430f-9307-831f9ba74365"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "电池技术正成为未来能源系统的关键，其重要性体现在推动减排技术潜力和在电网中平衡可再生能源。2023年，电池存储在全球电力行业中增长迅速，中国市场尤为突出 ...",
+    "id": "8alHo5axIM7",
+    "order": 1719542738401,
+    "createdAt": "2024-06-28T02:45:38.000Z",
+    "publishDate": "2024-06-28T02:45:38.401Z",
+    "title": "全球超一半电池新品是中国造，国内储能电池安装量已翻3倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-28 10:45:38",
+    "uuid": "646677f8-fda7-43f2-97cc-e579ae7b4c06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "上周首次申领失业救济人数为23.3万人，低于预期。",
+    "id": "8alOEzk5j60",
+    "order": 1719542583699,
+    "createdAt": "2024-06-28T02:43:04.000Z",
+    "publishDate": "2024-06-28T02:43:03.699Z",
+    "title": "美国上周首次申领失业救济人数为23.3万人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-28 10:43:04",
+    "uuid": "9e2bbd0e-c66b-4988-8dc2-52b134ac05f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "指数强劲，沪指涨超1%，多板块涨幅居前。",
+    "id": "8amKkHxgIwG",
+    "order": 1719542558069,
+    "createdAt": "2024-06-28T02:42:38.000Z",
+    "publishDate": "2024-06-28T02:42:38.069Z",
+    "title": "沪指涨逾1% 上涨个股超4700只",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-28 10:42:38",
+    "uuid": "092efc18-d413-4387-a1e8-0116724e4d5d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI AI模型销售收入超微软同类业务，年收入达10亿美元。",
+    "id": "8am8Gq2ixYR",
+    "order": 1719542448567,
+    "createdAt": "2024-06-28T02:40:49.000Z",
+    "publishDate": "2024-06-28T02:40:48.567Z",
+    "title": "OpenAI的人工智能模型销售收入据悉已超过微软",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-28 10:40:49",
+    "uuid": "2a403638-2e71-4df8-a682-ea7727575a96"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "6月27日，融资资金买入个股中，立讯精密、农业银行、赛力斯买入额居前，5只个股融资买入额占比超30%。",
+    "id": "8amF856mK12",
+    "order": 1719542400635,
+    "createdAt": "2024-06-28T02:40:00.000Z",
+    "publishDate": "2024-06-28T02:40:00.635Z",
+    "title": "融资客看好5股 买入占成交比例超三成",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-28 10:40:00",
+    "uuid": "e04cd0d2-4858-41ff-bd38-362a7bbae01e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "腾讯网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "国家航天局举行嫦娥六号任务月球样品交接仪式，标志着任务由工程实施阶段转入科学研究阶段。嫦娥六号采集月球样品1935.3克，将为人类月球演化认知和资源利用提供重要数据 ...",
+    "id": "8amEQlzxnZd",
+    "order": 1719542390405,
+    "createdAt": "2024-06-28T02:39:51.000Z",
+    "publishDate": "2024-06-28T02:39:50.405Z",
+    "title": "嫦娥六号带回世界首份月背样品1935.3克",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-28 10:39:51",
+    "uuid": "d1d3c340-cdd6-4932-b576-04f2948f7bd9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国电信在MWC上海发布5G-A行动计划，强调能力、应用和创新，涵盖8大核心能力、6大生态合作和9大核心应用 ...",
+    "id": "8amIpiiO5VG",
+    "order": 1719542439917,
+    "createdAt": "2024-06-28T02:31:14.000Z",
+    "publishDate": "2024-06-28T02:40:39.917Z",
+    "title": "中国电信发布5G-A行动计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-28 10:31:14",
+    "uuid": "469db8c1-ec8c-4c30-b577-dc712f88383f"
+  },
+  {
+    "newsArray": [
       { "siteName": "环球网科技" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
