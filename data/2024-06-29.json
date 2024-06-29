@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "百度地图V20版本已上线比亚迪应用商店，具备微信导航、车道级导航、明星语音包和全新小度等功能。目前仅适用于DiLink车型，部分智能辅助驾驶功能不支持 ...",
+    "id": "8an8qOaRLRT",
+    "order": 1719620480209,
+    "createdAt": "2024-06-29T00:21:20.000Z",
+    "publishDate": "2024-06-29T00:21:20.209Z",
+    "title": "百度地图V20上线比亚迪应用商店：支持手车互联、车道级导航等",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-29 08:21:20",
+    "uuid": "4e3125a6-0b72-4b3b-9b06-b3c65629ffa8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Python 3.12 版本升级导致部分 App 在苹果 App Store 被拒，原因在于升级后 App 中可能包含苹果Mac App Store 禁止使用的 \"itms-services\" 字符串 ...",
+    "id": "8amCyQqW2gD",
+    "order": 1719620469196,
+    "createdAt": "2024-06-29T00:21:10.000Z",
+    "publishDate": "2024-06-29T00:21:09.196Z",
+    "title": "Python 3.12 新版导致部分 App 无法通过苹果 App Store 审核",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-29 08:21:10",
+    "uuid": "709fa721-5c72-459e-93ba-b9ba56097db1"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "智通财经" },
       { "siteName": "36Kr" }
