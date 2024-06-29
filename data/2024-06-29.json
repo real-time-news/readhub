@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Windows Report 报道，Chromium 社区正在考虑一项提案，通过在 ARM64 设备上使用 Media Foundation Transforms 实现硬件加速视频编码，以优化基于 Chromium 的浏览器视频体验，并提升 Windows on ARM 设备的续航能力 ...",
+    "id": "8ao05xse8wq",
+    "order": 1719633367810,
+    "createdAt": "2024-06-29T03:56:07.000Z",
+    "publishDate": "2024-06-29T03:56:07.810Z",
+    "title": "Arm 版 Chrome / Edge 浏览器新改进：加速视频渲染、延长续航时间",
+    "type": "topic",
+    "up": false,
+    "date": "2024-06-29 11:56:07",
+    "uuid": "b394f7f6-d013-404d-9be0-438eb276a91a"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
