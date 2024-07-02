@@ -1,6 +1,147 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌下一代Tensor G5芯片确定在台积电投片，并已成功流片，预计采用3纳米制程。",
+    "id": "8arC1oepUpH",
+    "order": 1719881451490,
+    "createdAt": "2024-07-02T00:50:51.000Z",
+    "publishDate": "2024-07-02T00:50:51.490Z",
+    "title": "消息称谷歌Tensor G5芯片已流片 预计采用3nm制程",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 08:50:51",
+    "uuid": "93dde844-aa43-4f79-b348-e669d44876c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "今年上半年，A股上市公司回购和增持金额均创下新高。1646家公司实施回购，总金额达994.62亿元，同比增长134.47% ...",
+    "id": "8asbD29tn0z",
+    "order": 1719881338723,
+    "createdAt": "2024-07-02T00:48:58.000Z",
+    "publishDate": "2024-07-02T00:48:58.723Z",
+    "title": "提质增效重回报 A股公司上半年回购增持金额创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 08:48:58",
+    "uuid": "c3b41959-e5de-4acd-8187-560749e675d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "上半年香港交易所IPO市场活跃，6月28日共有7家公司同时招股，为近一年半来新高。30只新股中有14只网上认购超100倍，显示散户打新热情高。至少有15家上市公司引入基石投资者 ...",
+    "id": "8arpyfpT6OG",
+    "order": 1719880883988,
+    "createdAt": "2024-07-02T00:41:23.000Z",
+    "publishDate": "2024-07-02T00:41:23.988Z",
+    "title": "7家企业同日招股，港股下半年IPO热潮或持续",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 08:41:23",
+    "uuid": "33255772-5c9a-44e4-80aa-402e44775dd7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "富国基金将发售创业板增强策略ETF联接基金，指数增强基金产品日益受欢迎，今年近八成产品取得超额收益 ...",
+    "id": "8asktYfr9oB",
+    "order": 1719881338891,
+    "createdAt": "2024-07-02T00:31:20.000Z",
+    "publishDate": "2024-07-02T00:48:58.891Z",
+    "title": "近八成指数增强基金产品年内跑赢业绩比较基准",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 08:31:20",
+    "uuid": "65261f4f-f4f1-4bb0-98c5-c05001f8dc49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "雷锋网" },
+      { "siteName": "品玩" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "小米集团在业务快速发展中面临数据库性能、故障应对及运维成本的挑战，于2023年10月选用了蚂蚁集团自研的OceanBase分布式数据库 ...",
+    "id": "8arN9E5Uqff",
+    "order": 1719879968791,
+    "createdAt": "2024-07-02T00:26:08.000Z",
+    "publishDate": "2024-07-02T00:26:08.791Z",
+    "title": "小米搭载OceanBase，试点业务数据库性能提升2-3倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 08:26:08",
+    "uuid": "0ad6ec6c-2c16-4e20-bd64-9f7dbf6a6d14"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国海洋石油有限公司宣布，位于南海北部湾海域的乌石23-5油田群开发项目正式投产，这是中国海上首个绿色设计油田 ...",
+    "id": "8ar9BKA0mQP",
+    "order": 1719879944990,
+    "createdAt": "2024-07-02T00:25:44.000Z",
+    "publishDate": "2024-07-02T00:25:44.990Z",
+    "title": "中国海上首个绿色设计油田投产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 08:25:44",
+    "uuid": "184dbb28-1302-4237-b5dd-c7ec818a1f48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "今年上半年，长三角铁路发送旅客逾4.33亿人次，同比增长超34%。清明、“五一”、端午假期，长三角铁路客流回升明显 ...",
+    "id": "8arGI7xo57m",
+    "order": 1719879942580,
+    "createdAt": "2024-07-02T00:21:01.000Z",
+    "publishDate": "2024-07-02T00:25:42.580Z",
+    "title": "长三角铁路上半年日均发送旅客近240万人次，同比增超34%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 08:21:01",
+    "uuid": "b100da92-71d9-48e4-9053-15e81a44268f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "国有四大行计划在7月份进行分红派息，总规模近3000亿元，其中工行和建行各自的分红额超过1000亿元 ...",
+    "id": "8askArwzj0H",
+    "order": 1719879657667,
+    "createdAt": "2024-07-02T00:11:07.000Z",
+    "publishDate": "2024-07-02T00:20:57.667Z",
+    "title": "合计近3000亿元，四大行7月扎堆分红",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 08:11:07",
+    "uuid": "7e135041-7233-444a-a313-727363754f68"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "医药魔方" },
       { "siteName": "财联社" }
@@ -141,6 +282,26 @@
   {
     "newsArray": [
       { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "美股在科技股领涨下收高，纳指创收盘历史新高，苹果等科技股上涨。投资者关注美联储会议纪要和6月非农就业报告。法国监管机构将对英伟达提起反垄断诉讼 ...",
+    "id": "8asWaz8tc1u",
+    "order": 1719880607192,
+    "createdAt": "2024-07-01T20:51:11.000Z",
+    "publishDate": "2024-07-02T00:36:47.192Z",
+    "title": "收盘：下半年首日美股收涨 苹果推动纳指创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 04:51:11",
+    "uuid": "1d4effd7-8054-42fc-b61e-c5b8f216796d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" }
@@ -174,6 +335,26 @@
     "up": false,
     "date": "2024-07-02 01:40:56",
     "uuid": "f5b25969-3f91-4a17-bd77-0c90d9f89227"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。",
+    "id": "8asK3pEsWNN",
+    "order": 1719879888584,
+    "createdAt": "2024-07-01T17:15:45.000Z",
+    "publishDate": "2024-07-02T00:24:48.584Z",
+    "title": "苹果 visionOS 1.3 开发者预览版 Beta 2 发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-02 01:15:45",
+    "uuid": "397c48b9-0d85-4f57-a4b8-14bd8f2e9493"
   },
   {
     "newsArray": [
