@@ -1,6 +1,125 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "日本厚生劳动省宣布，截至7月2日，因食用小林制药公司生产的红曲保健品死亡的案例新增5起，总死亡人数达到81人。",
+    "id": "8awkqapCLHM",
+    "order": 1720144484069,
+    "createdAt": "2024-07-05T01:54:45.000Z",
+    "publishDate": "2024-07-05T01:54:44.069Z",
+    "title": "日本厚生劳动省：小林制药保健品疑致81人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 09:54:45",
+    "uuid": "d37598ca-77b3-4e07-aeed-554ff0c4914a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小红书近日启动新一轮裁员，主要针对绩效在3.5以下的员工，约占员工总数的30%。此次人员调整旨在降本增效，新管理层对当前的人效比不满意，认为只能达到拼多多的一半 ...",
+    "id": "8ax0YTl5UfM",
+    "order": 1720144286484,
+    "createdAt": "2024-07-05T01:51:26.000Z",
+    "publishDate": "2024-07-05T01:51:26.484Z",
+    "title": "消息称小红书将开启新一轮裁员 绩效 3.5 以下成重灾区",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 09:51:26",
+    "uuid": "c6a692a1-1768-46ed-b2fb-eb489641c049"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "焦煤主力合约价格下跌2%，当前价格为每吨1586元。",
+    "id": "8ax9UmWXEhe",
+    "order": 1720144254345,
+    "createdAt": "2024-07-05T01:50:55.000Z",
+    "publishDate": "2024-07-05T01:50:54.345Z",
+    "title": "焦煤主力合约日内跌幅达2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 09:50:55",
+    "uuid": "cd088891-453b-4a56-9b7f-ceed478546bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "央行进行20亿元7天期逆回购操作，利率为1.8%，同时有1000亿元逆回购到期。",
+    "id": "8awCoy9FiPA",
+    "order": 1720143792205,
+    "createdAt": "2024-07-05T01:43:12.000Z",
+    "publishDate": "2024-07-05T01:43:12.205Z",
+    "title": "央行开展20亿元7天期逆回购操作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 09:43:12",
+    "uuid": "142e21f1-f417-4a9b-bc64-196042e110e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "T3出行成为首批加入长三角“人工智能+”产业创新联合体的企业，并联手中国电信打造了国内出行行业首个生态大模型——阡陌大模型 ...",
+    "id": "8awpV7WZST5",
+    "order": 1720143653876,
+    "createdAt": "2024-07-05T01:40:54.000Z",
+    "publishDate": "2024-07-05T01:40:53.876Z",
+    "title": "T3出行亮相人工智能大会，CEO崔大勇谈自动驾驶商业化",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 09:40:54",
+    "uuid": "df764036-5178-419f-9fd6-acc6855be4b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "快科技" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "最新市场融资余额为14424.14亿元，较前一日减少65.61亿元。3个行业融资余额增加，其中煤炭行业增加最多，达7292.12万元 ...",
+    "id": "8axhSMryjWO",
+    "order": 1720143070232,
+    "createdAt": "2024-07-05T01:31:11.000Z",
+    "publishDate": "2024-07-05T01:31:10.232Z",
+    "title": "7月4日电力设备、计算机、电子等行业融资净卖出额居前",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 09:31:11",
+    "uuid": "e0532bc8-fbc4-4da3-99bc-6894ce632a4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果的Apple Intelligence在隐私保护方面制定了周全的措施，被认为树立了行业典范，但Inrupt公司安全主管布鲁斯·施奈尔指出其仍有改进空间 ...",
+    "id": "8axq0JS26vG",
+    "order": 1720142700802,
+    "createdAt": "2024-07-05T01:25:01.000Z",
+    "publishDate": "2024-07-05T01:25:00.802Z",
+    "title": "互联网之父公司：苹果牌 AI 树立隐私保护新标杆，但仍不完美",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 09:25:01",
+    "uuid": "9e244b26-9eb8-4605-b6a4-6f036914389d"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "界面" },
       { "siteName": "界面" }
@@ -49,6 +168,42 @@
     "up": false,
     "date": "2024-07-05 08:36:48",
     "uuid": "72d0cfb7-e0fb-4b25-9970-43e3f7f4ce8d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "吉祥航空HO1851航班因虹桥机场雷雨影响，延误起飞并导致旅客机上等待时间延长。由于一侧空调制冷不足，吉祥航空尝试使用廊桥桥载空调进行降温，但由于天气原因和地面单位作业标准，设备未能及时对接 ...",
+    "id": "8ax2IIdKH5h",
+    "order": 1720144299123,
+    "createdAt": "2024-07-05T00:31:01.000Z",
+    "publishDate": "2024-07-05T01:51:39.123Z",
+    "title": "吉祥航空回应“航班延误乘客中暑”：系天气原因 无法及时对接空调设备",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 08:31:01",
+    "uuid": "41e4a24f-fccc-40ec-b37a-3f58ee029b52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "健康界" }
+    ],
+    "summary": "2024年上半年，中国创新药领域取得显著进展，共有44款新药在中国获得批准，其中包括23款1类新药。",
+    "id": "8axjzwEe3AS",
+    "order": 1720144295754,
+    "createdAt": "2024-07-05T00:26:42.000Z",
+    "publishDate": "2024-07-05T01:51:35.754Z",
+    "title": "2024年上半年中国创新药领域发展概览（附PDF白皮书）",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 08:26:42",
+    "uuid": "48a0c170-dc8b-4bff-95b8-66882f1ddc80"
   },
   {
     "newsArray": [
@@ -156,6 +311,24 @@
     "up": false,
     "date": "2024-07-05 07:54:48",
     "uuid": "6bfb7861-f3b1-4fe8-9fb6-43290e180232"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "巴西数据保护局（ANPD）暂停了美国Meta公司的最新隐私政策执行，禁止其利用巴西用户帖子训练AI模型，因Meta未充分告知用户数据用途及设置障碍阻止用户拒绝 ...",
+    "id": "8axhSa4tTma",
+    "order": 1720142750704,
+    "createdAt": "2024-07-04T23:42:50.000Z",
+    "publishDate": "2024-07-05T01:25:50.704Z",
+    "title": "英媒：巴西禁止Meta用社交媒体训练AI",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 07:42:50",
+    "uuid": "d691d236-3480-436e-8fa3-9525a374a403"
   },
   {
     "newsArray": [
