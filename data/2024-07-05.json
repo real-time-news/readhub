@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "香港金融管理局公布，2024年6月底香港官方外汇储备资产为4163亿美元，低于5月底的4172亿美元 ...",
+    "id": "8ayNarlFnof",
+    "order": 1720170672331,
+    "createdAt": "2024-07-05T09:11:13.000Z",
+    "publishDate": "2024-07-05T09:11:12.331Z",
+    "title": "香港6月底官方外汇储备资产为4163亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 17:11:13",
+    "uuid": "08a1155f-ca38-4d66-ac69-652fab19f069"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "法国能源公司Engie与巴斯夫签署了一份为期7年的生物甲烷采购协议，Engie将在协议期间向巴斯夫供应2.7至3.0太瓦时的生物甲烷。",
+    "id": "8ayNssYb50p",
+    "order": 1720170659389,
+    "createdAt": "2024-07-05T09:10:59.000Z",
+    "publishDate": "2024-07-05T09:10:59.389Z",
+    "title": "巴斯夫与法国能源公司Engie签署生物甲烷采购协议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 17:10:59",
+    "uuid": "3281bd89-c0df-4844-bbc1-4ab973e0e670"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "勃兰登堡州环境保护局批准了特斯拉柏林超级工厂的场地扩建计划，允许特斯拉提前开始建设，以扩大产能。该扩建不包含引发环保抗议的额外土地开发，即无需砍伐森林的区域 ...",
+    "id": "8axsAA9EvYr",
+    "order": 1720170477333,
+    "createdAt": "2024-07-05T09:07:57.000Z",
+    "publishDate": "2024-07-05T09:07:57.333Z",
+    "title": "特斯拉德国柏林超级工厂扩建项目获“开绿灯”，可提前开始施工",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 17:07:57",
+    "uuid": "65ff3253-e4cb-411d-8f1a-d028759ff40c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "鸿海公司6月营收达4907.25亿元新台币，同比增长16.07%。",
+    "id": "8ayIMLoF9fy",
+    "order": 1720170417718,
+    "createdAt": "2024-07-05T09:06:58.000Z",
+    "publishDate": "2024-07-05T09:06:57.718Z",
+    "title": "鸿海6月营收4907亿元新台币，同比增长16%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 17:06:58",
+    "uuid": "f3016aaf-0b60-49ff-837f-bd1bf1a3e578"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "腾讯课堂宣布将于2024年8月1日起停止所有在线课程的访问服务，用户将无法访问新的课程内容，但可继续观看历史免费课程内容，最终于2024年10月1日全面停止运营。",
+    "id": "8ayNxd7gVu1",
+    "order": 1720170107485,
+    "createdAt": "2024-07-05T09:01:48.000Z",
+    "publishDate": "2024-07-05T09:01:47.485Z",
+    "title": "腾讯课堂将于10月1日全面停止所有平台服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 17:01:48",
+    "uuid": "83ff8ab6-c4cc-41dc-8e9e-2e215f7aa16a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "临港新片区多家国企采购特斯拉车辆，作为企业功能用车，体现了该区域在政府采购活动中对内外资企业一视同仁的原则，优化了营商环境。",
+    "id": "8ayOIvMas9Y",
+    "order": 1720170058364,
+    "createdAt": "2024-07-05T09:00:58.000Z",
+    "publishDate": "2024-07-05T09:00:58.364Z",
+    "title": "优化营商环境内外资一视同仁 临港新片区多家国企采购特斯拉车辆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 17:00:58",
+    "uuid": "e6a21dbb-7e71-4225-845b-5ec68cb9d34a"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "财联社" },
       { "siteName": "证券时报网" }
@@ -84,6 +189,24 @@
     "up": false,
     "date": "2024-07-05 16:42:46",
     "uuid": "50f6d9bc-dc73-4498-a4da-8dc8ad667b7a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "广州市推动低空经济高质量发展若干措施旨在促进低空经济及相关产业的发展。措施包括支持低空经济领域企业、鼓励建设低空基础设施、加大科技创新力度、拓展应用场景、加强要素保障等 ...",
+    "id": "8ayLSiCRU9L",
+    "order": 1720170682147,
+    "createdAt": "2024-07-05T08:41:16.000Z",
+    "publishDate": "2024-07-05T09:11:22.147Z",
+    "title": "广州：支持开设载人无人驾驶应用场景航线，单条航线年度最高补助100万元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 16:41:16",
+    "uuid": "e86d45ba-5d80-42ed-a36d-f11135c1059f"
   },
   {
     "newsArray": [
@@ -654,6 +777,25 @@
     "up": false,
     "date": "2024-07-05 13:51:01",
     "uuid": "c2e21d8c-11ed-4ff0-b6a5-fdfcf4f8932f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "投资圈" }
+    ],
+    "summary": "成都北理同创新材料有限公司投资3.3亿元在会东县建设的玄武岩新材料产业项目已正式投产 ...",
+    "id": "8ay00QYQf8M",
+    "order": 1720170033645,
+    "createdAt": "2024-07-05T05:41:09.000Z",
+    "publishDate": "2024-07-05T09:00:33.645Z",
+    "title": "投资3.3亿元的会东县玄武岩新材料产业项目投产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-05 13:41:09",
+    "uuid": "c8fdd593-1a54-4ebb-8e04-8fba2661b2cb"
   },
   {
     "newsArray": [
