@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软推出了Rewards Notes计划，旨在提高Microsoft Rewards奖励项目的透明度，让用户能更快、更直接地了解更新和变化，保持与Rewards计划的紧密联系 ...",
+    "id": "8azqLKn6mMp",
+    "order": 1720261131204,
+    "createdAt": "2024-07-06T10:18:51.000Z",
+    "publishDate": "2024-07-06T10:18:51.204Z",
+    "title": "微软提高 Rewards 项目透明度，将公示积分赚取、兑换等变动信息",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-06 18:18:51",
+    "uuid": "b2b1f291-d8da-4ad8-a943-9a634c0f01db"
+  },
+  {
+    "newsArray": [
       { "siteName": "智慧芽_新药情报库" },
       { "siteName": "医药魔方" },
       { "siteName": "医药魔方" }
@@ -493,5 +510,24 @@
     "up": false,
     "date": "2024-07-06 02:51:09",
     "uuid": "9b78fb68-cca6-47e6-949b-90785153e632"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "欧盟竞争事务负责人Margrethe Vestager对英伟达人工智能芯片供应垄断表示担忧，称其可能成为行业“巨大瓶颈” ...",
+    "id": "8ayqvDmvZvJ",
+    "order": 1720261249120,
+    "createdAt": "2024-07-05T18:30:57.000Z",
+    "publishDate": "2024-07-06T10:20:49.120Z",
+    "title": "欧盟官员警告称英伟达的人工智能芯片供应是“巨大瓶颈”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-06 02:30:57",
+    "uuid": "41b8cb47-da25-46bc-8a92-fadc0a6208e1"
   }
 ]
