@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "科大讯飞发布2024年半年度业绩预告，预计上半年亏损3.8亿-4.6亿元，去年同期净利润为0.74亿元 ...",
+    "id": "8ayrbMtJ2Z2",
+    "order": 1720224064116,
+    "createdAt": "2024-07-06T00:01:04.000Z",
+    "publishDate": "2024-07-06T00:01:04.116Z",
+    "title": "科大讯飞上半年预亏超3.8亿元，营业收入、毛利预增超15%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-06 08:01:04",
+    "uuid": "7c130962-1507-4903-a367-fe38b6942b36"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -51,5 +68,25 @@
     "up": false,
     "date": "2024-07-06 06:40:55",
     "uuid": "10966aca-3a9b-4edb-a3b0-091461204265"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "英伟达股价在过去一年多里涨幅惊人，但New Street Research的分析师Pierre Ferragu认为其股价已经充分体现了估值，因此将评级从买进下调至中性 ...",
+    "id": "8aytlt8C1P6",
+    "order": 1720224655869,
+    "createdAt": "2024-07-05T18:51:09.000Z",
+    "publishDate": "2024-07-06T00:10:55.869Z",
+    "title": "英伟达评级罕见遭下调 分析师对未来上涨空间发出警告",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-06 02:51:09",
+    "uuid": "9b78fb68-cca6-47e6-949b-90785153e632"
   }
 ]
