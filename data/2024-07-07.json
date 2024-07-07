@@ -68,5 +68,23 @@
     "up": false,
     "date": "2024-07-07 09:12:57",
     "uuid": "75b2d78c-0adf-41da-9f91-eed2bf66a9e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "绿联NAS新品因系统BUG引发关注，B站up主指出其控制面板提供通配符证书可能存在数据泄露风险。绿联官方回应称，该证书属于UGOS PRO体验域名，未在正式设备中使用，且已吊销 ...",
+    "id": "8azyEjYPq1E",
+    "order": 1720323649744,
+    "createdAt": "2024-07-06T23:42:55.000Z",
+    "publishDate": "2024-07-07T03:40:49.744Z",
+    "title": "绿联回应 NAS 安全设计缺陷：不影响正式用户，目前问题已修复",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-07 07:42:55",
+    "uuid": "f7e6d6ad-dd89-4869-b52a-c40fd04a7a66"
   }
 ]
