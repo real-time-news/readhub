@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "动脉网" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "江苏美尚洁生物科技有限公司近日完成A轮融资，金额达数千万元人民币，由上海九颂山河领投，张家港锦信资本及张创投跟投 ...",
+    "id": "8b4ZqkTq1XP",
+    "order": 1720509377268,
+    "createdAt": "2024-07-09T07:16:17.000Z",
+    "publishDate": "2024-07-09T07:16:17.268Z",
+    "title": "江苏美尚洁获九颂山河基金A轮领投",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-09 15:16:17",
+    "uuid": "16c1ad6f-8edc-4b0f-878f-eed9fa9e823a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财新网" }
+    ],
+    "summary": "A股市场当前估值跌至历史低点，机构预测7月有望迎来反弹窗口期。热点方面，消费电子和半导体板块表现强势，而医疗、医药和养殖板块表现较弱 ...",
+    "id": "8b4f523YDGH",
+    "order": 1720509163050,
+    "createdAt": "2024-07-09T07:11:07.000Z",
+    "publishDate": "2024-07-09T07:12:43.050Z",
+    "title": "午评：三大指数冲高回落 消费电子概念掀涨停潮",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-09 15:11:07",
+    "uuid": "1c5fdbb2-d278-4156-8322-0e757be1ffe0"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财经网" },
       { "siteName": "DoNews" }
@@ -573,6 +608,23 @@
     "up": false,
     "date": "2024-07-09 11:19:35",
     "uuid": "287d7f5a-c589-4f11-84b9-62f24be6b40e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "IEEE 发表了一篇论文，对 ChatGPT 在代码生成任务中的表现进行了系统评估。研究使用了程序员常用的 LeetCode 题库作为数据集 ...",
+    "id": "8b39o0B2W3e",
+    "order": 1720509375006,
+    "createdAt": "2024-07-09T03:19:10.000Z",
+    "publishDate": "2024-07-09T07:16:15.006Z",
+    "title": "ChatGPT 无法取代人类程序员： IEEE 35 页论文测出困难编码正确率仅为 0.66%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-09 11:19:10",
+    "uuid": "d8413037-ad22-493e-8f6e-75ff26588a6d"
   },
   {
     "newsArray": [
