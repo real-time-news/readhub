@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "据TechInsights报告显示，未来十年半导体销售额预计增长80%，到2034年集成电路销售总额有望达到1万亿美元，其中DRAM市场增长最为强劲，未来十年收入将翻一番以上。",
+    "id": "8b6eKydqaob",
+    "order": 1720602954350,
+    "createdAt": "2024-07-10T09:15:54.000Z",
+    "publishDate": "2024-07-10T09:15:54.350Z",
+    "title": "机构：半导体销售额预计将在未来十年增长80%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-10 17:15:54",
+    "uuid": "d17ec3ce-db49-491b-9872-49004a42a3e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "长城汽车公告，预计上半年净利润同比增长377%-436%，达到65亿元-73亿元。利润增长主要得益于公司高质量发展、产品品质坚守、海外销售增长和国内产品结构优化。",
+    "id": "8b6hC35lFRC",
+    "order": 1720602658254,
+    "createdAt": "2024-07-10T09:10:58.000Z",
+    "publishDate": "2024-07-10T09:10:58.254Z",
+    "title": "长城汽车：预计上半年净利同比增长377%-436%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-10 17:10:58",
+    "uuid": "63124470-1da5-4abf-bcad-54f06c6ce4ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "潞安环能公告，预计2024年上半年公司净利润将同比下降56%至61%，净利润区间为20.5亿至23.5亿元。利润下降主要由于煤炭产量减少、煤价下跌和成本费用上升等因素影响。",
+    "id": "8b6fkYGT0Om",
+    "order": 1720602095539,
+    "createdAt": "2024-07-10T09:01:35.000Z",
+    "publishDate": "2024-07-10T09:01:35.539Z",
+    "title": "潞安环能：预计上半年净利同比下降56%至61%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-10 17:01:35",
+    "uuid": "ac62bab4-78dd-415c-af3d-28f8f1a041d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "投资圈" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "京西集团发布了“2035全线控”全球技术战略，计划在未来十年内，以线控制动、线控悬架和智能系统及架构为核心，为全球客户提供智能出行解决方案，目标是到2035年使其95%的底盘产品实现全线控 ...",
+    "id": "8b6cBqQq16n",
+    "order": 1720602076291,
+    "createdAt": "2024-07-10T09:01:16.000Z",
+    "publishDate": "2024-07-10T09:01:16.291Z",
+    "title": "京西集团：2026中国量产EMB，2035全面线控化",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-10 17:01:16",
+    "uuid": "5cd08b18-50ba-46c7-815c-ef169c2ff075"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "DoNews" },
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "鲁大师发布新品AiNAS，一款结合Ai部署与在线NAS功能的复合软件，特点是零成本、低门槛 ...",
+    "id": "8b6czt3tHgD",
+    "order": 1720602060009,
+    "createdAt": "2024-07-10T09:01:00.000Z",
+    "publishDate": "2024-07-10T09:01:00.009Z",
+    "title": "鲁大师AiNAS正式发布 打造零成本数据中心NAS免费用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-10 17:01:00",
+    "uuid": "11e03428-3a6c-4d25-bb7d-a95fa136ad5e"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "36Kr" },
       { "siteName": "界面" }
