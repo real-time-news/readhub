@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上交所在北京、上海、深圳召开“科创板八条”基金公司座谈会，讨论优化做市商机制、盘后交易机制等话题，以提升科创板股票流动性，促进合理估值，满足投资者需求，并引导社会资金流向国家重点支持领域。",
+    "id": "8b9VutW6kea",
+    "order": 1720752042721,
+    "createdAt": "2024-07-12T02:40:43.000Z",
+    "publishDate": "2024-07-12T02:40:42.721Z",
+    "title": "上交所召开“科创板八条”基金公司系列座谈会 探讨优化做市商机制、盘后交易机制等",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 10:40:43",
+    "uuid": "a37ec7db-3fae-4a98-8ebb-fbfa286365a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "7月12日上午，恒生指数上涨2%，恒生科技指数上涨1.71%。",
+    "id": "8b9U837GAPW",
+    "order": 1720751523223,
+    "createdAt": "2024-07-12T02:32:04.000Z",
+    "publishDate": "2024-07-12T02:32:03.223Z",
+    "title": "恒生指数涨幅扩大至2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 10:32:04",
+    "uuid": "855f4e7e-7f90-4976-81fc-9268b8886a09"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "itsfoss" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "Zed 昨日发布了 0.143.6 版本，并正式支持 Linux ... Linux 上的 Zed 正在使用 Vulkan API 进行 GPU 加速 ...",
+    "id": "8b7tRe2cTZ4",
+    "order": 1720751157233,
+    "createdAt": "2024-07-12T02:25:58.000Z",
+    "publishDate": "2024-07-12T02:25:57.233Z",
+    "title": "开源代码编辑器 Zed 发布原生 Linux 版本",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 10:25:58",
+    "uuid": "b4b93da6-a249-4cc8-b45d-3b01fb850cae"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "华尔街见闻" },
       { "siteName": "澎湃新闻" }
@@ -32,6 +83,24 @@
     "up": false,
     "date": "2024-07-12 10:21:33",
     "uuid": "adf73173-6cee-4d99-aca9-cd8ba4843049"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "光伏板块持续上涨，艾罗能源、时创能源涨幅超过10%，锦浪科技、固德威、阳光电源、禾迈股份等表现突出。",
+    "id": "8b9VMW3tR3V",
+    "order": 1720751467539,
+    "createdAt": "2024-07-12T02:11:39.000Z",
+    "publishDate": "2024-07-12T02:31:07.539Z",
+    "title": "光伏板块继续反弹，艾罗能源涨超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 10:11:39",
+    "uuid": "6c5de191-063c-41d6-94c0-ad81376271ff"
   },
   {
     "newsArray": [
@@ -84,6 +153,24 @@
     "up": false,
     "date": "2024-07-12 10:01:43",
     "uuid": "be31be8b-1db3-4b46-9826-708f50d289f7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "今日资本创始人徐新澄清，一级市场团队未裁撤。徐新指出，近日自媒体关于今日资本撤销一级市场的报道纯属不实，强调今日资本一直活跃在一级市场，并领投了SandAI的早期融资 ...",
+    "id": "8b8VjUD37eO",
+    "order": 1720751530301,
+    "createdAt": "2024-07-12T02:01:17.000Z",
+    "publishDate": "2024-07-12T02:32:10.301Z",
+    "title": "“风投女王”徐新辟谣：从未离开一级市场，未关闭香港和上海办公室",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 10:01:17",
+    "uuid": "03d919af-2f05-41c1-8a83-d027a7c104e4"
   },
   {
     "newsArray": [
