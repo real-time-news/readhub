@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "天准科技宣布成为百度Apollo平台的生态合作伙伴，并为该平台提供基于英伟达Jetson方案的域控制器，但该公司未参与萝卜快跑项目。",
+    "id": "8b8GMkQcZKm",
+    "order": 1720773790480,
+    "createdAt": "2024-07-12T08:43:11.000Z",
+    "publishDate": "2024-07-12T08:43:10.480Z",
+    "title": "天准科技：为Apollo平台提供基于英伟达Jetson方案的域控制器",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 16:43:11",
+    "uuid": "347a92ad-0403-4870-8c0b-2b7257e15b8c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "沪电股份预告上半年盈利将达10.8亿至11.6亿元，比去年同期增长119.24%-135.48% ...",
+    "id": "8b9xeVLKjI8",
+    "order": 1720773684060,
+    "createdAt": "2024-07-12T08:41:25.000Z",
+    "publishDate": "2024-07-12T08:41:24.060Z",
+    "title": "沪电股份：预计上半年净利同比增长119%-135%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 16:41:25",
+    "uuid": "815b3f01-76d1-4f34-911b-016c75426f42"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "江苏悦达起亚汽车有限公司根据相关管理条例，向国家市场监督管理总局备案召回计划 ...",
+    "id": "8b9uYaDC5IA",
+    "order": 1720773676526,
+    "createdAt": "2024-07-12T08:41:16.000Z",
+    "publishDate": "2024-07-12T08:41:16.526Z",
+    "title": "江苏悦达起亚汽车有限公司召回部分进口起亚纯电动EV6汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 16:41:16",
+    "uuid": "06c2a396-d847-4ea3-8bf4-80dcca439036"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "丰田汽车（中国）投资有限公司宣布召回83717辆进口雷克萨斯RX汽车，这些车辆生产日期在2018年3月12日至2022年10月6日之间 ...",
+    "id": "8b9wLqXV57p",
+    "order": 1720773671804,
+    "createdAt": "2024-07-12T08:41:12.000Z",
+    "publishDate": "2024-07-12T08:41:11.804Z",
+    "title": "丰田汽车（中国）投资有限公司召回共计83717辆进口雷克萨斯RX汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 16:41:12",
+    "uuid": "bc65e3bd-aec5-4c90-a3b8-171e34bec30d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "任天堂Switch游戏机自2017年3月3日发售以来，至2024年7月11日已持续2687天，打破了红白机保持的2686天的记录，成为任天堂历史上寿命最长的的主力游戏机 ...",
+    "id": "8b9dUWlhiMC",
+    "order": 1720773655660,
+    "createdAt": "2024-07-12T08:40:55.000Z",
+    "publishDate": "2024-07-12T08:40:55.660Z",
+    "title": "Switch 成为任天堂最长寿游戏机",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 16:40:55",
+    "uuid": "0a02a879-7bb6-4892-ae00-c9d6c3b56cf9"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "36Kr" },
       { "siteName": "网易科技" }
@@ -157,6 +242,25 @@
     "up": false,
     "date": "2024-07-12 15:42:54",
     "uuid": "991b66d4-202f-4f37-a229-1c507f5ea361"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "民航局公布，6月份我国民航旅客运输量达到5866.5万人次，同比增长10.5%，恢复至2019年同期的98.8%。国内客运同比增长12.6%，国际客运恢复至88.1% ...",
+    "id": "8b9t8kzUJXv",
+    "order": 1720773654290,
+    "createdAt": "2024-07-12T07:35:53.000Z",
+    "publishDate": "2024-07-12T08:40:54.290Z",
+    "title": "民航局：6月民航完成旅客运输量5866.5万人次 同比增长10.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-12 15:35:53",
+    "uuid": "36ee0243-255b-4d9a-8a6f-7bd70f8e77fe"
   },
   {
     "newsArray": [
