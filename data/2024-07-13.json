@@ -18,6 +18,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软承认Windows 11的六月可选更新KB5039302存在多个BUG，其中一个BUG在调用Windows Update Agent API时会出现故障，导致PowerShell或VBScript脚本出现问题，查询某些对象属性时返回空结果，用户会遇到“TYPE_E_ELEMENTNOTFOUND”错误 ...",
+    "id": "8bBHasuNIYC",
+    "order": 1720847142014,
+    "createdAt": "2024-07-13T04:05:54.000Z",
+    "publishDate": "2024-07-13T05:05:42.014Z",
+    "title": "微软承认 6 月 Win11 可选更新存在新 BUG：导致 0x8002802B 错误",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-13 12:05:54",
+    "uuid": "f4bd4f7e-1500-4c36-a542-b33c1fa04f61"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
