@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "三星电子正在为苹果的下一代XR设备开发LLW DRAM产品，这种新一代DRAM通过增加I/O端子数量来提高带宽，能够实现高性能和低延迟特性，未来可能替代现有的LPDDR，应用于端侧AI行业。",
+    "id": "8bIAa97Mstf",
+    "order": 1721285475170,
+    "createdAt": "2024-07-18T06:51:15.000Z",
+    "publishDate": "2024-07-18T06:51:15.170Z",
+    "title": "三星为苹果下一代XR设备开发LLW DRAM",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-18 14:51:15",
+    "uuid": "0b747912-3b87-42c6-a938-76489fcae31a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "南方周末" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "一项新国际研究表明，南极夏季时，冰架上57%的融水以雪泥形式存在，这一部分通常被区域气候变化模型忽略 ...",
+    "id": "8bJY09zdWU2",
+    "order": 1721285468574,
+    "createdAt": "2024-07-18T06:51:09.000Z",
+    "publishDate": "2024-07-18T06:51:08.574Z",
+    "title": "最新研究发现南极冰架融水量远高于先前预测",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-18 14:51:09",
+    "uuid": "325c5631-b2e4-41de-bbcc-d0c45881986b"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "ZAKER" },
       { "siteName": "IT 之家" }
