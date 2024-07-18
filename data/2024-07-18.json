@@ -35,6 +35,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "SpaceX的猎鹰9号火箭因故障导致星链卫星落回地球，公司已向美国联邦航空管理局（FAA）提交恢复发射的请求。FAA正在审查此请求，并将依据数据和安全标准进行判断 ...",
+    "id": "8bJYL6I2UIS",
+    "order": 1721285755595,
+    "createdAt": "2024-07-18T06:51:01.000Z",
+    "publishDate": "2024-07-18T06:55:55.595Z",
+    "title": "SpaceX公司向FAA提交申请 要求尽快复飞猎鹰9号",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-18 14:51:01",
+    "uuid": "e902c29f-3f67-40c6-9992-1db97b5f0f49"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "ZAKER" },
       { "siteName": "IT 之家" }
@@ -154,6 +172,25 @@
     "up": false,
     "date": "2024-07-18 14:41:07",
     "uuid": "18475047-25ba-4032-a9e5-184956f17aa1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软更新支持文档，指出新发布的Windows 11照片应用存在问题，导致用户无法打开。该问题由组策略或CSP策略冲突引起，影响22H2和23H2用户 ...",
+    "id": "8bJHBFETuJP",
+    "order": 1721286051896,
+    "createdAt": "2024-07-18T06:30:45.000Z",
+    "publishDate": "2024-07-18T07:00:51.896Z",
+    "title": "微软更新 Win11 照片应用，修复因组策略冲突导致其无法打开的问题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-18 14:30:45",
+    "uuid": "26390468-6dd4-4122-a17f-aab60d97d96f"
   },
   {
     "newsArray": [
