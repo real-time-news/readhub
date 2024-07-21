@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "尼日利亚政府对Meta公司罚款2.2亿美元，因其违反当地法律，包括未经同意窃取用户数据、歧视性对待尼日利亚用户和滥用市场主导地位。当局要求Meta采取纠正措施。",
+    "id": "8bOAtm4RWy5",
+    "order": 1721520340499,
+    "createdAt": "2024-07-21T00:05:40.000Z",
+    "publishDate": "2024-07-21T00:05:40.499Z",
+    "title": "Meta公司被尼日利亚政府处以2.2亿美元罚款",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-21 08:05:40",
+    "uuid": "ba744676-f31e-4dcb-a550-c2b34ff8528b"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -15,6 +32,25 @@
     "up": false,
     "date": "2024-07-21 07:41:10",
     "uuid": "495e6e22-9efc-4979-b956-f72c6817bd49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "微软公司确认，由于美国电脑安全技术公司“众击”发布的微软视窗系统软件更新存在缺陷，全球约850万台设备受到影响，出现蓝屏故障。受影响的行业包括航空、医疗、传媒、金融、零售和物流等 ...",
+    "id": "8bNvth7O65c",
+    "order": 1721520037276,
+    "createdAt": "2024-07-20T23:20:50.000Z",
+    "publishDate": "2024-07-21T00:00:37.276Z",
+    "title": "微软预估系统故障影响全球近850万台相关设备",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-21 07:20:50",
+    "uuid": "69bfecf9-3f41-44ad-8edc-049820b11295"
   },
   {
     "newsArray": [
