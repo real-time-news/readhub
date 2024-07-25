@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "证券时报数据显示，今日上午10:29，上证综指跌破半年线，报2876.41点，跌幅为0.88%。A股总成交额为2724.47亿元 ...",
+    "id": "8bTV2xe5asv",
+    "order": 1721875280282,
+    "createdAt": "2024-07-25T02:41:21.000Z",
+    "publishDate": "2024-07-25T02:41:20.282Z",
+    "title": "今日34只个股突破半年线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 10:41:21",
+    "uuid": "13c84feb-aa13-432c-8e4c-14291e573683"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "雷克萨斯计划在中国建立独立工厂，投产全新UX混动版和纯电动车型，并向中国市场销售以及出口至海外市场。丰田中国与雷克萨斯中国官方对传闻没有给出明确回应 ...",
+    "id": "8bV87BY3WbL",
+    "order": 1721875014279,
+    "createdAt": "2024-07-25T02:36:55.000Z",
+    "publishDate": "2024-07-25T02:36:54.279Z",
+    "title": "曝雷克萨斯将在华独资建厂 官方回应：不予置评",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 10:36:55",
+    "uuid": "074414dc-1729-4982-b751-310dd779e5e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软必应官方博客宣布，已邀请部分用户测试搜索结果中的AI摘要功能。该功能结合搜索结果页面、生成式AI和大型语言模型，动态响应用户查询需求，以生成新的搜索结果布局 ...",
+    "id": "8bV1ixZdksm",
+    "order": 1721874991376,
+    "createdAt": "2024-07-25T02:36:31.000Z",
+    "publishDate": "2024-07-25T02:36:31.376Z",
+    "title": "必应翻开新篇章，微软邀测 AI 摘要功能：要颠覆搜索体验",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 10:36:31",
+    "uuid": "41952fb2-55a3-427f-8c07-e4f8198863a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "美国能源部发布招标书，计划开发新型超级计算机Discovery，以替代当前全球最快的超级计算机Frontier ...",
+    "id": "8bU1ue48CaW",
+    "order": 1721874987589,
+    "createdAt": "2024-07-25T02:36:27.000Z",
+    "publishDate": "2024-07-25T02:36:27.589Z",
+    "title": "美国开发新一代超级计算机，性能将是Frontier的5倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 10:36:27",
+    "uuid": "fc194c7c-5612-4323-8351-84798ef47557"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Mistral AI 发布全新旗舰模型 Large 2，功能强大，支持 128K 上下文窗口和多语言理解，包括英语、法语、德语等 80 种编码语言 ...",
+    "id": "8bUtA2dGqcL",
+    "order": 1721874710785,
+    "createdAt": "2024-07-25T02:31:52.000Z",
+    "publishDate": "2024-07-25T02:31:50.785Z",
+    "title": "Mistral AI 发布 Large 2 大模型，数学、推理、编程能力大幅提高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 10:31:52",
+    "uuid": "fb310f6c-4ff4-414a-b34d-4b239cd54242"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -15,6 +101,26 @@
     "up": false,
     "date": "2024-07-25 10:22:16",
     "uuid": "4719298d-fc65-41c0-9373-902ed4e1d23a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "财政部率先公布2023年度部门决算，各中央部门将陆续跟进，这已是连续第14年向社会公开决算。公众可通过中央部门网站或财政部“中央预决算公开平台”查阅相关信息公开。",
+    "id": "8bV7npdvvBR",
+    "order": 1721874662762,
+    "createdAt": "2024-07-25T02:21:49.000Z",
+    "publishDate": "2024-07-25T02:31:02.762Z",
+    "title": "2023年度中央部门决算今天陆续公开",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 10:21:49",
+    "uuid": "1e82482d-999e-4d7d-9453-0ac7407c0a10"
   },
   {
     "newsArray": [
@@ -245,6 +351,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "小米汽车更新“小米SU7答网友问”至第51集，涉及SU7 Ultra原型车展出计划、欧洲销售计划以及雷总背包等问题 ...",
+    "id": "8bUKrMIDyTH",
+    "order": 1721874947971,
+    "createdAt": "2024-07-25T01:21:49.000Z",
+    "publishDate": "2024-07-25T02:35:47.971Z",
+    "title": "小米汽车：近年内还没有在海外市场销售汽车的计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 09:21:49",
+    "uuid": "ca75d45b-cbfb-43b7-a5a4-9ff7d38cd049"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -466,6 +590,26 @@
     "up": false,
     "date": "2024-07-25 07:40:56",
     "uuid": "32366c94-0fc6-4152-a823-913c76a446c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "小鹏汽车将于7月30日公布端到端大模型智能驾驶技术细节。特斯拉CEO埃隆·马斯克表示将在欧洲和中国申请监管批准以实施监督下的FSD，预计年底前获得批准 ...",
+    "id": "8bUIMwQdhUO",
+    "order": 1721874942402,
+    "createdAt": "2024-07-24T23:31:08.000Z",
+    "publishDate": "2024-07-25T02:35:42.402Z",
+    "title": "何小鹏评特斯拉FSD：端到端大模型能实现L4自动驾驶",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 07:31:08",
+    "uuid": "7b3f38a9-58dd-47e0-9571-1d7c402d5e93"
   },
   {
     "newsArray": [
