@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Reddit在与Google达成数亿美元的内容授权协议后，开始限制除Google之外的其他搜索引擎和AI工具抓取其内容，使得使用Bing、DuckDuckGo、Mojeek、Qwant等替代搜索引擎搜索Reddit内容时，无法查看过去一周的任何结果。",
+    "id": "8bVB1pSUp8p",
+    "order": 1721901074938,
+    "createdAt": "2024-07-25T09:51:16.000Z",
+    "publishDate": "2024-07-25T09:51:14.938Z",
+    "title": "Reddit 限制除 Google 之外的搜索引擎抓取其内容",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 17:51:16",
+    "uuid": "e33a8328-f855-4c4d-a6b9-f4a637b2e007"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "传统汽车巨头通用和福特因应消费者对电动汽车热情降温，对电动汽车战略进行重大调整 ...",
+    "id": "8bVNYT2nTfW",
+    "order": 1721900945654,
+    "createdAt": "2024-07-25T09:49:07.000Z",
+    "publishDate": "2024-07-25T09:49:05.654Z",
+    "title": "两家美国汽车巨头公司放弃新能源转型 转而增产油车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 17:49:07",
+    "uuid": "34a4a67d-bf88-47c4-8f00-309263d8b4f3"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
@@ -170,6 +205,24 @@
     "up": false,
     "date": "2024-07-25 16:51:21",
     "uuid": "da81280d-8f31-4475-a208-e1592fbc5bec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "腾讯游戏针对未成年人冒用家长账号玩游戏的问题，启动“2024暑期未成年人保护专项行动”，升级人脸识别策略 ...",
+    "id": "8bVDWDwMFAv",
+    "order": 1721900759092,
+    "createdAt": "2024-07-25T08:49:32.000Z",
+    "publishDate": "2024-07-25T09:45:59.092Z",
+    "title": "腾讯对未成年人强制每秒自动人脸识别1次",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 16:49:32",
+    "uuid": "81864fbe-3067-48a6-a5ac-4e0dad6774a7"
   },
   {
     "newsArray": [
