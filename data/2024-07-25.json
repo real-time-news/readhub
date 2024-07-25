@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "NASA 成功进行了激光通信太空试验，通过飞机上的便携式激光终端将 4K 视频传输到国际空间站，并回传地面 ...",
+    "id": "8bVStOE0fOq",
+    "order": 1721892349821,
+    "createdAt": "2024-07-25T07:25:50.000Z",
+    "publishDate": "2024-07-25T07:25:49.821Z",
+    "title": "NASA 激光通信试验成功，未来有望实现登月直播",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 15:25:50",
+    "uuid": "673bd311-d838-4e49-bdb7-4324fe155777"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "快科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "Meta发布开源基础模型Llama 3.1，称其是目前“最强大的开源基础模型”，并致力于使开源AI成为行业标准 ...",
+    "id": "8bVEHSdYlAO",
+    "order": 1721892299379,
+    "createdAt": "2024-07-25T07:25:01.000Z",
+    "publishDate": "2024-07-25T07:24:59.379Z",
+    "title": "硬刚闭源OpenAI：Meta发布“最强开源模型”Llama 3.1",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 15:25:01",
+    "uuid": "347a0a4e-b8b1-40f2-86ae-f4cb3c245532"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "IT 之家" },
       { "siteName": "界面" }
@@ -510,6 +544,24 @@
     "up": false,
     "date": "2024-07-25 12:15:44",
     "uuid": "3e7acf45-a6c2-431f-b757-89a514ec5a95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "香港恒生指数和科技指数午间休盘分别下跌1.42%和1.49%，其中CRO和光伏板块表现较好，福莱特玻璃和百济神州涨幅超过8%和3% ...",
+    "id": "8bV3pJRIO86",
+    "order": 1721892297874,
+    "createdAt": "2024-07-25T04:07:03.000Z",
+    "publishDate": "2024-07-25T07:24:57.874Z",
+    "title": "恒指午间休盘跌1.42%，恒生科技指数跌1.49%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-25 12:07:03",
+    "uuid": "f76ab5cb-26ae-4d96-848a-892ce4a97fc9"
   },
   {
     "newsArray": [
