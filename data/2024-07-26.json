@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "财新网" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "成立于2023年4月的百川智能，一家致力于打造“中国版 OpenAI”的创业公司，近日完成了高达50亿元的A轮融资，并计划以200亿元估值进行B轮融资 ...",
+    "id": "8bWm8VlGkwm",
+    "order": 1721978342472,
+    "createdAt": "2024-07-26T07:19:03.000Z",
+    "publishDate": "2024-07-26T07:19:02.472Z",
+    "title": "大模型初创公司百川智能完成50亿元A轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-26 15:19:03",
+    "uuid": "85735df5-69fb-4d51-9271-149dfe6afee5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "阿里影业和大麦联合发布了2024财年社会责任报告，展现了他们在优质内容制作、数字科技应用、公益慈善事业、绿色环保行动以及安全透明度等方面的积极作为和显著成效 ...",
+    "id": "8bWxHxJEEi3",
+    "order": 1721978160245,
+    "createdAt": "2024-07-26T07:16:01.000Z",
+    "publishDate": "2024-07-26T07:16:00.245Z",
+    "title": "阿里影业发布社会责任报告：多部正能量影片带动观影人次破7.6亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-26 15:16:01",
+    "uuid": "8e61084f-7cc9-470e-9ff8-0ade737abafb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家发展改革委发布通知，全面推动基础设施领域不动产投资信托基金（REITs）项目常态化发行 ...",
+    "id": "8bX7RNKlSsd",
+    "order": 1721977981695,
+    "createdAt": "2024-07-26T07:13:03.000Z",
+    "publishDate": "2024-07-26T07:13:01.695Z",
+    "title": "国家发展改革委：全面推动基础设施REITs常态化发行",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-26 15:13:03",
+    "uuid": "4b82c2ac-43d2-4428-bcc3-51b268dcd843"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2024年上半年，中国软件业务收入达到62350亿元，同比增长11.5%。软件业利润总额为7347亿元，同比增长15.7%。软件业务出口254.6亿美元，同比实现0.6%的增长。",
+    "id": "8bX6Mfz2bkq",
+    "order": 1721978340932,
+    "createdAt": "2024-07-26T07:02:16.000Z",
+    "publishDate": "2024-07-26T07:19:00.932Z",
+    "title": "工信部：上半年我国软件业务收入62350亿元 同比增长11.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-26 15:02:16",
+    "uuid": "974fb689-77bf-43e5-817f-7da1c92b55cd"
+  },
+  {
+    "newsArray": [
       { "siteName": "投资圈" },
       { "siteName": "36Kr" },
       { "siteName": "猎云网" },
@@ -931,6 +1004,41 @@
     "up": false,
     "date": "2024-07-26 10:25:08",
     "uuid": "f661db5c-ab38-4e41-8d56-4534adc4200a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "速途网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "猎云网" },
+      { "siteName": "界面" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "财联社" },
+      { "siteName": "投资圈" },
+      { "siteName": "机器之心" },
+      { "siteName": "36Kr" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "财新网" },
+      { "siteName": "亿欧" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "智谱AI公司在其Open Day活动上推出全新AI视频生成模型清影（Ying），该模型能够以极快的速度生成风格多样的视频内容 ...",
+    "id": "8bWmhzCPizd",
+    "order": 1721978308529,
+    "createdAt": "2024-07-26T02:24:53.000Z",
+    "publishDate": "2024-07-26T07:18:28.529Z",
+    "title": "智谱AI宣布上线文生视频模型“清影”，可30秒生成视频",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-26 10:24:53",
+    "uuid": "ef94be53-a855-4308-b2a8-57ce261ba24f"
   },
   {
     "newsArray": [
