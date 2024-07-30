@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小米宣布对小爱同学大模型进行全量升级，覆盖多个核心品类如手机、平板、电视、音箱和汽车等 ...",
+    "id": "8beFPclDAgF",
+    "order": 1722381181011,
+    "createdAt": "2024-07-30T23:13:01.000Z",
+    "publishDate": "2024-07-30T23:13:01.011Z",
+    "title": "小米宣布大模型小爱全量升级：支持AI图片编辑、车外唤醒防御",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 07:13:01",
+    "uuid": "ef01ff4f-a6d3-40dc-a223-61bae4acfb04"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "日本央行考虑加息至0.25%，导致美元兑日元汇率下跌至153.57日元。同时提醒投资者市场有风险，投资需谨慎，本文不构成个人投资建议。",
+    "id": "8beLVTQrbrr",
+    "order": 1722380444065,
+    "createdAt": "2024-07-30T23:00:45.000Z",
+    "publishDate": "2024-07-30T23:00:44.065Z",
+    "title": "美元兑日元下跌约0.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 07:00:45",
+    "uuid": "d3864ece-629c-4d3d-9793-4f5d210e7f3f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "英特尔计划进行大规模裁员以降低成本，并为应对盈利和市场份额下降提供资金。该公司预计到2025年通过成本削减节省多达100亿美元。",
+    "id": "8bejo1GwGm5",
+    "order": 1722381039225,
+    "createdAt": "2024-07-30T22:45:58.000Z",
+    "publishDate": "2024-07-30T23:10:39.225Z",
+    "title": "英特尔计划裁员数千人以降低成本，为转型提供资金",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 06:45:58",
+    "uuid": "5e785c44-5449-4ce8-a837-6529f3e8f2b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI宣布推出GPT-4o的语音模式，该模式能提供更自然的实时对话，允许用户随时打断，并能感知和响应用户的情绪。语音模式将于今年秋季向所有ChatGPT Plus用户开放 ...",
+    "id": "8bejQXFo9y3",
+    "order": 1722380732336,
+    "createdAt": "2024-07-30T21:51:12.000Z",
+    "publishDate": "2024-07-30T23:05:32.336Z",
+    "title": "OpenAI向部分用户开放GPT-4o语音模式 今秋将扩大至所有付费用户",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 05:51:12",
+    "uuid": "17ec136e-d29a-4b31-8d19-c932349d467c"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "新浪科技" },
       { "siteName": "智通财经" },
