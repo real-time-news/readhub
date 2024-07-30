@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小米在京东上架了两款新品：米家浴霸花洒套装和米家智能浴霸Pro ...",
+    "id": "8bdYXDL2Xse",
+    "order": 1722322971676,
+    "createdAt": "2024-07-30T07:02:52.000Z",
+    "publishDate": "2024-07-30T07:02:51.676Z",
+    "title": "小米发布智能浴霸花洒套装：1099元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-30 15:02:52",
+    "uuid": "b5bbe699-c6a8-4335-b545-5bb8f3547f9d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ZAKER" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软在CrowdStrike驱动程序中断事件后，计划改进Windows内核安全性，以避免类似故障。此次事件全球影响约850万台电脑，经济损失可能超10亿美元 ...",
+    "id": "8bdgOlCUhw9",
+    "order": 1722322968800,
+    "createdAt": "2024-07-30T07:02:49.000Z",
+    "publishDate": "2024-07-30T07:02:48.800Z",
+    "title": "避免重蹈覆辙，微软考虑变革 Win11 内核：推动 Rust 语言重构",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-30 15:02:49",
+    "uuid": "41f72b70-09fe-4fd1-9266-0c71b6e13b5d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米汽车销量重回增长态势，单周销量达到3900辆，创历史新高，按此趋势今年销量达成10万辆无虞。同时，多家新势力车型销量上涨，特斯拉和比亚迪继续保持领先地位。",
+    "id": "8bdbKsINJ0y",
+    "order": 1722322967597,
+    "createdAt": "2024-07-30T07:02:48.000Z",
+    "publishDate": "2024-07-30T07:02:47.597Z",
+    "title": "小米汽车上周销量0.39万 创历史最高 理想被特斯拉反超",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-30 15:02:48",
+    "uuid": "dbe39a07-6ed6-4e09-8ee5-4fdb16a65dc4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "手机中国" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "广汽菲亚特克莱斯勒汽车有限公司（广汽菲克）的破产清算进程已至关键节点，其长沙工厂等核心资产将于8月5日进行第二次拍卖，起拍价下调至15.32亿元 ...",
+    "id": "8bdc7PxVsJT",
+    "order": 1722322894100,
+    "createdAt": "2024-07-30T07:01:35.000Z",
+    "publishDate": "2024-07-30T07:01:34.100Z",
+    "title": "广汽菲克长沙工厂流拍 第二次拍卖起拍价降超3亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-30 15:01:35",
+    "uuid": "e43a37a5-0e34-44cf-a8e5-bc4e0cdd0a09"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "小米公司将成为骁龙 4s Gen 2 芯片的首发合作伙伴，该芯片由高通公司发布，支持5G连接 ...",
+    "id": "8bdccAKfpsM",
+    "order": 1722322553322,
+    "createdAt": "2024-07-30T06:55:54.000Z",
+    "publishDate": "2024-07-30T06:55:53.322Z",
+    "title": "高通推出骁龙4s Gen 2，小米首发搭载，5G手机价格有望再创新低",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-30 14:55:54",
+    "uuid": "d1cc91f3-b90f-4542-89a9-1b7d144d9d78"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "36Kr" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "淘宝更新了《淘宝网退店规范》，引入了商家店铺自动打烊机制，以保护消费者购物体验和降低卖家经营风险。若卖家连续30天未登录后台且无交易，店铺将自动设为打烊状态 ...",
+    "id": "8bdIUxmoRH5",
+    "order": 1722322514934,
+    "createdAt": "2024-07-30T06:55:15.000Z",
+    "publishDate": "2024-07-30T06:55:14.934Z",
+    "title": "淘宝店铺新增“打烊”功能 避免商家休假期间产生赔付",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-30 14:55:15",
+    "uuid": "d90a9a20-4ec3-48aa-ad08-3c87ab6a7957"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "和讯网" },
       { "siteName": "财联社" }
@@ -172,6 +275,26 @@
     "up": false,
     "date": "2024-07-30 14:00:56",
     "uuid": "5a9433d4-cf6d-4d30-8111-aed31fe47c54"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "广州市统计局发布的数据显示，2024年上半年广州经济运行稳定，固定资产投资同比增长2.0%。其中，基础设施投资增长8.8%，工业投资增长24.6%，但房地产开发投资下降10.1% ...",
+    "id": "8bdccBzQcxj",
+    "order": 1722322889582,
+    "createdAt": "2024-07-30T05:51:42.000Z",
+    "publishDate": "2024-07-30T07:01:29.582Z",
+    "title": "广州：上半年全市完成固定资产投资同比增长2.0%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-30 13:51:42",
+    "uuid": "43f60348-7b6b-485d-9571-163da60dddef"
   },
   {
     "newsArray": [
@@ -490,6 +613,24 @@
     "up": false,
     "date": "2024-07-30 12:07:56",
     "uuid": "90e697c4-e4d0-43af-977d-8ba4878685d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "今日早盘，A股市场整体呈现震荡调整态势，三大股指小幅下跌。题材股表现活跃，其中地理信息概念股集体大涨，商业航天概念股也保持活跃 ...",
+    "id": "8bdVMPane3Q",
+    "order": 1722323149718,
+    "createdAt": "2024-07-30T04:02:07.000Z",
+    "publishDate": "2024-07-30T07:05:49.718Z",
+    "title": "午评：沪指半日跌0.52% 地理信息概念股集体大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-30 12:02:07",
+    "uuid": "e7852b1e-0abb-4422-8634-cabed7064ea5"
   },
   {
     "newsArray": [
