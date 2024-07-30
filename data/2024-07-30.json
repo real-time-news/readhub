@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Meta推出了全新开源模型Meta SAM 2，该模型具备图像和视频分割能力，能在视频的每一帧中实时追踪对象，解决了视频分割中对象移动、外观变化和遮挡等挑战 ...",
+    "id": "8bdPFKck0IW",
+    "order": 1722310849943,
+    "createdAt": "2024-07-30T03:40:50.000Z",
+    "publishDate": "2024-07-30T03:40:49.943Z",
+    "title": "META 发布开源模型 Meta SAM 2，实现视频中实时分割对象",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-30 11:40:50",
+    "uuid": "3d496672-9942-4969-a56c-ef1f4f073413"
+  },
+  {
+    "newsArray": [
       { "siteName": "投资圈" },
       { "siteName": "智通财经" },
       { "siteName": "投中网" }
