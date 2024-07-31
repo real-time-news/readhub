@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上海市发布高温橙色预警，预计今天最高气温将超过37℃，请注意防范强高温对工农业生产、人体健康的不利影响，确保生产、消防、用电等方面的安全。",
+    "id": "8bdM1q99Nh6",
+    "order": 1722390048851,
+    "createdAt": "2024-07-31T01:40:48.000Z",
+    "publishDate": "2024-07-31T01:40:48.851Z",
+    "title": "最高气温将超过37℃ 上海发布高温橙色预警",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 09:40:48",
+    "uuid": "3281e712-6910-4135-aae7-248c3e97946b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司发布新的Swift开源包，实现同态加密技术，支持在Swift编程语言中进行密文计算，保护用户数据隐私 ...",
+    "id": "8beyQk3xFzW",
+    "order": 1722389777108,
+    "createdAt": "2024-07-31T01:36:18.000Z",
+    "publishDate": "2024-07-31T01:36:17.108Z",
+    "title": "苹果发布用于同态加密的开源 Swift 软件包，已部署在 iOS 18 中",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 09:36:18",
+    "uuid": "69169805-77ff-42cf-b69d-cdace2ebaf64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Anthropic公司开发的ClaudeBot机器人因过度抓取网站数据用于训练Claude大语言模型而受到批评，尽管这是人工智能行业的普遍做法 ...",
+    "id": "8bez9vhfsBH",
+    "order": 1722389775911,
+    "createdAt": "2024-07-31T01:36:16.000Z",
+    "publishDate": "2024-07-31T01:36:15.911Z",
+    "title": "24 小时抓取百万次，Anthropic AI 公司被指过度抓取网站数据",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 09:36:16",
+    "uuid": "6984b49a-ed51-45fb-9ab1-6dc03a8bab3c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "香港股市开盘上涨，恒指和恒生科技指数分别上涨0.4%和0.17%，其中消费品、银行和汽车板块表现强劲，普拉达、零跑汽车和蔚来等个股涨幅超2% ...",
+    "id": "8bf1elaxjx4",
+    "order": 1722389547139,
+    "createdAt": "2024-07-31T01:32:27.000Z",
+    "publishDate": "2024-07-31T01:32:27.139Z",
+    "title": "恒指开盘涨0.4%，银行、汽车板块领涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 09:32:27",
+    "uuid": "6fea1c5d-d99d-4914-b237-bb3e02799abe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "恒指和恒生科技指数下跌超过1%，能源、食品饮料和半导体板块跌幅领先，高伟电子和信义光能跌幅超过3%，\"三桶油\"均跌超2%。",
+    "id": "8bdMNv6Fjv5",
+    "order": 1722389159578,
+    "createdAt": "2024-07-31T01:25:59.000Z",
+    "publishDate": "2024-07-31T01:25:59.578Z",
+    "title": "恒指、恒生科技指数双双跌超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 09:25:59",
+    "uuid": "7f3a3c9c-e85f-471a-bca5-b749c1ba8754"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国电动汽车制造商比亚迪计划进军加拿大市场，正聘用了游说人士以咨询电动汽车关税问题，并与当地经销商接洽建立销售网络 ...",
+    "id": "8beurCpnKnr",
+    "order": 1722389085272,
+    "createdAt": "2024-07-31T01:24:45.000Z",
+    "publishDate": "2024-07-31T01:24:45.272Z",
+    "title": "中国电动汽车出海新动向：消息称比亚迪准备进入加拿大市场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 09:24:45",
+    "uuid": "37506f83-49b6-45d7-8e09-3cc5fe3a11e6"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "C114 通信网" },
       { "siteName": "IT 之家" }
@@ -143,6 +245,27 @@
     "up": false,
     "date": "2024-07-31 08:02:28",
     "uuid": "6e0d7095-69d4-4cd5-9190-0949237f887d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "二十届三中全会决定强调通过深化改革来推进中国式现代化，资本市场作为资源配置的重要市场，需要不断强化基础制度之间的衔接和平衡，打破各类体制机制束缚，更好服务新质生产力和经济高质量发展 ...",
+    "id": "8besNZ2612F",
+    "order": 1722388907361,
+    "createdAt": "2024-07-31T00:02:19.000Z",
+    "publishDate": "2024-07-31T01:21:47.361Z",
+    "title": "加速形成资本市场内在稳定性长效机制",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 08:02:19",
+    "uuid": "cd46d205-2c00-4a2a-ad81-1b1fe76b4fd8"
   },
   {
     "newsArray": [
