@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "黑龙江省气象灾害应急指挥部办公室发布消息，预计7月31日至8月1日，该省多地区将遭遇暴雨，其中哈尔滨中部等市县有大暴雨，降水量将达60-180毫米 ...",
+    "id": "8beyRXWhTIb",
+    "order": 1722412340621,
+    "createdAt": "2024-07-31T07:52:20.000Z",
+    "publishDate": "2024-07-31T07:52:20.621Z",
+    "title": "黑龙江省启动重大气象灾害（暴雨）Ⅳ级应急响应",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 15:52:20",
+    "uuid": "4cc24503-b32c-4d3d-b937-71f0e71c1d91"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "环球网科技" }
+    ],
+    "summary": "美国加州大学旧金山分校的研究人员在《美国医学会杂志》发表研究，指出富含维生素和矿物质、少糖的饮食能让人细胞水平上显得更年轻 ...",
+    "id": "8bf853rV6ZS",
+    "order": 1722412298505,
+    "createdAt": "2024-07-31T07:51:38.000Z",
+    "publishDate": "2024-07-31T07:51:38.505Z",
+    "title": "少糖饮食能使身体更年轻",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 15:51:38",
+    "uuid": "5e7a1064-1231-457b-bea0-30d1cef35741"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "展鹏科技公告，股东奚方拟减持不超过1%的公司股份。",
+    "id": "8bfRkBnNIvT",
+    "order": 1722412272643,
+    "createdAt": "2024-07-31T07:51:12.000Z",
+    "publishDate": "2024-07-31T07:51:12.643Z",
+    "title": "展鹏科技：股东奚方拟减持不超1%公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 15:51:12",
+    "uuid": "41795c0d-29ad-40ff-9802-e929072ef21e"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "财新网" },
       { "siteName": "财联社" }
@@ -70,6 +121,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "Faraday Future（FF）发布了一季度10-Q财报，重新符合纳斯达克的财报合规要求。该公司2024年一季度的运营费用、运营亏损和经营活动现金流状况均有所改善 ...",
+    "id": "8bfNRWJGKMg",
+    "order": 1722412300567,
+    "createdAt": "2024-07-31T07:12:04.000Z",
+    "publishDate": "2024-07-31T07:51:40.567Z",
+    "title": "FF提交一季度10-Q财报 重新符合纳斯达克财报合规要求",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 15:12:04",
+    "uuid": "1f7f96cb-88a4-4eb0-bbf5-606a681da4fb"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -84,6 +153,40 @@
     "up": false,
     "date": "2024-07-31 15:03:08",
     "uuid": "a2da0bad-6e6e-413b-8259-15254539d043"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI开始向部分付费用户推出ChatGPT语音助手，该助手原计划6月底推出，但因安全问题推迟 ...",
+    "id": "8bf5Ec6i741",
+    "order": 1722412437284,
+    "createdAt": "2024-07-31T07:03:00.000Z",
+    "publishDate": "2024-07-31T07:53:57.284Z",
+    "title": "OpenAI推出ChatGPT语音助手 此前因安全问题推迟发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 15:03:00",
+    "uuid": "ee2816eb-0eda-4273-9fb2-0def452038cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "富达投资旗下的Fidelity Advisor International Growth Fund在6月份调整了大中华区股票投资组合，新买入拼多多ADR 19万份，同时减持了友邦保险港股236万股，并增持台积电和普拉达港股。",
+    "id": "8beP51PrLiU",
+    "order": 1722412448308,
+    "createdAt": "2024-07-31T07:02:58.000Z",
+    "publishDate": "2024-07-31T07:54:08.308Z",
+    "title": "富达旗下一支全球增长基金建仓拼多多",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 15:02:58",
+    "uuid": "4175c004-0637-49da-bb81-2c129d1ad533"
   },
   {
     "newsArray": [
@@ -634,6 +737,29 @@
     "up": false,
     "date": "2024-07-31 13:01:02",
     "uuid": "faf26c31-e145-4ed6-8e99-e92b5c6f3b46"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "市场传闻中金公司和中国银河将合并，但中金公司投资者关系部门表示没有这样的消息，官方消息为准。中国银河投资者关系部电话暂无人接听 ...",
+    "id": "8bfE9TBTx6P",
+    "order": 1722412494635,
+    "createdAt": "2024-07-31T04:51:10.000Z",
+    "publishDate": "2024-07-31T07:54:54.635Z",
+    "title": "传将与中国银河合并，中金公司回应：没有这样的消息",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 12:51:10",
+    "uuid": "8fc174b7-19e3-4280-a5ef-834403abf092"
   },
   {
     "newsArray": [
