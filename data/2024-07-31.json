@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司发布了一篇论文，介绍了其最新的Apple Intelligence模型，名为Apple Foundation Model（AFM），包括在设备上运行的AFM-on-device和尚未公开详细信息的AFM-server ...",
+    "id": "8bf49M1OcLZ",
+    "order": 1722392514851,
+    "createdAt": "2024-07-31T02:21:55.000Z",
+    "publishDate": "2024-07-31T02:21:54.851Z",
+    "title": "文本总结等方面超过 GPT-4，苹果披露 AFM AI 模型细节",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 10:21:55",
+    "uuid": "6d939ed6-a128-48c3-af5b-8adfc75f719c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软最新财报显示，收购动视暴雪后，Xbox业务增长强劲。游戏业务营收同比增长44%，其中动视贡献了大部分增幅。尽管Xbox硬件收入下降42%，但Xbox内容和服务收入增长了61% ...",
+    "id": "8besiI3KFcs",
+    "order": 1722392338609,
+    "createdAt": "2024-07-31T02:18:58.000Z",
+    "publishDate": "2024-07-31T02:18:58.609Z",
+    "title": "动视暴雪助力 Xbox 营收暴涨，微软硬件收入却下滑",
+    "type": "topic",
+    "up": false,
+    "date": "2024-07-31 10:18:58",
+    "uuid": "c66feed5-9abc-4869-bd0e-8b4652d451ed"
+  },
+  {
+    "newsArray": [
       { "siteName": "亿欧" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
