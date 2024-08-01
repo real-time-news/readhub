@@ -1,6 +1,167 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "潘兴广场美国宣布撤回其IPO计划，Bill Ackman表示将重新评估公司结构，以便IPO决策更加清晰。",
+    "id": "8bgEh3EQuu2",
+    "order": 1722473335130,
+    "createdAt": "2024-08-01T00:48:55.000Z",
+    "publishDate": "2024-08-01T00:48:55.130Z",
+    "title": "潘兴广场美国撤回IPO",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 08:48:55",
+    "uuid": "37b973ea-851f-4b5b-ac5b-459785348b77"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "财新网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上海市近期动作频繁，先是设立了总规模近1000亿元的集成电路、生物医药、人工智能三大产业母基金，随后又发布了《若干意见》，提出19条措施以推动创业投资高质量发展 ...",
+    "id": "8bgV89KZ6Xd",
+    "order": 1722472910292,
+    "createdAt": "2024-08-01T00:41:50.000Z",
+    "publishDate": "2024-08-01T00:41:50.292Z",
+    "title": "上海发布支持创投“十九条” 已设三大先导产业母基金",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 08:41:50",
+    "uuid": "a3f07ded-020a-499e-a75a-24dbea2cf189"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "南昌市发布《关于促进我市房地产市场“以旧换新”工作的通知》，在2024年12月31日前，购买新建商品住房并在12个月内完成旧房出售的居民，将获得购房合同金额2%的财政补贴 ...",
+    "id": "8bfkJIhJAOD",
+    "order": 1722472872238,
+    "createdAt": "2024-08-01T00:41:12.000Z",
+    "publishDate": "2024-08-01T00:41:12.238Z",
+    "title": "南昌市启动住房“以旧换新”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 08:41:12",
+    "uuid": "18362c36-e1ac-41ea-afc1-4a1d6a276f6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "罗技首席执行官Hanneke Faber在The Verge播客节目中提出了“永久鼠标”的新概念，该鼠标通过一次性购买和订阅服务模式，为用户提供长期使用价值和软件升级 ...",
+    "id": "8bfMN9xr61o",
+    "order": 1722472570293,
+    "createdAt": "2024-08-01T00:36:11.000Z",
+    "publishDate": "2024-08-01T00:36:10.293Z",
+    "title": "罗技或推出“永久鼠标” 采用订阅制 支持自我维修和升级",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 08:36:11",
+    "uuid": "45afe641-b029-419b-9222-85aca8370d27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "ARM公司美股盘后股价下跌超过7%，该公司预计第二财季收入在7.80亿至8.30亿美元之间，而分析师的预期为8.062亿美元。",
+    "id": "8bgK3KJodJ9",
+    "order": 1722471887985,
+    "createdAt": "2024-08-01T00:24:47.000Z",
+    "publishDate": "2024-08-01T00:24:47.985Z",
+    "title": "ARM美股盘后跌超7%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 08:24:47",
+    "uuid": "a14d27ab-dcdf-41a8-99fb-9754450026f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "日立制作所开发出一项技术，可判断文章是否由生成式AI创作。该技术通过分析文章的词语使用模式来实现，未来用途包括防止AI生成错误信息的传播，以及在撰写重要文件时避免著作权风险。",
+    "id": "8bgb0BUkwca",
+    "order": 1722471690354,
+    "createdAt": "2024-08-01T00:21:30.000Z",
+    "publishDate": "2024-08-01T00:21:30.354Z",
+    "title": "日立开发出判断文章是否由AI创作的技术",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 08:21:30",
+    "uuid": "adba1af7-7371-46e3-8996-75821add64ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "投资圈" }
+    ],
+    "summary": "SKG公司，一家专注于智能穿戴按摩产品的健康科技公司，近日获得了摩根士丹利管理的人民币私募股权基金亿元投资。SKG拥有近2000项全球专利，其产品已推广至全球50多个国家和地区 ...",
+    "id": "8bffK8Qm4Zm",
+    "order": 1722471067253,
+    "createdAt": "2024-08-01T00:11:07.000Z",
+    "publishDate": "2024-08-01T00:11:07.253Z",
+    "title": "SKG获摩根士丹利亿元战略投资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 08:11:07",
+    "uuid": "0359cb2a-6409-4c16-9071-2b9728347e62"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Odaily" },
+      { "siteName": "新浪科技" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "马斯克旗下的人工智能初创公司XAI正在考虑收购人工智能聊天机器人初创公司Character.AI。",
+    "id": "8bgXzbrGEQp",
+    "order": 1722470489302,
+    "createdAt": "2024-08-01T00:01:29.000Z",
+    "publishDate": "2024-08-01T00:01:29.302Z",
+    "title": "马斯克旗下XAI据悉考虑收购人工智能聊天机器人初创公司Character.AI",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 08:01:29",
+    "uuid": "8f559a18-5c79-4172-ae25-78eda3523011"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "文章介绍了股份回购在资本市场中的作用，以及A股市场7月以来超过700家公司披露的回购进展和相关数据 ...",
+    "id": "8bgRCOGLPTf",
+    "order": 1722472910820,
+    "createdAt": "2024-07-31T23:41:41.000Z",
+    "publishDate": "2024-08-01T00:41:50.820Z",
+    "title": "7月超700家公司实施回购，总额近160亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 07:41:41",
+    "uuid": "6367f604-b4f8-4ba0-9955-0af0ba8e9747"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
@@ -38,6 +199,24 @@
     "up": false,
     "date": "2024-08-01 06:31:13",
     "uuid": "4d423f6f-229f-47fc-b291-99b06669d985"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "花旗集团多次违反公司间交易规则。",
+    "id": "8bff6ZpPxHo",
+    "order": 1722473333258,
+    "createdAt": "2024-07-31T18:01:00.000Z",
+    "publishDate": "2024-08-01T00:48:53.258Z",
+    "title": "花旗集团据悉多次违反公司间交易规则",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-01 02:01:00",
+    "uuid": "de52c7e1-c09b-4b7f-8e71-baa489330f57"
   },
   {
     "newsArray": [
