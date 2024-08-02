@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国电信研究院发布了一项针对数据中心的RISC-V基础软件生态技术研究项目的采购公告，计划采购4台RISC-V云服务器和3台RISC-V边缘服务器。",
+    "id": "8bigtleM58k",
+    "order": 1722585760766,
+    "createdAt": "2024-08-02T08:02:40.000Z",
+    "publishDate": "2024-08-02T08:02:40.766Z",
+    "title": "中国电信拟采购RISC-V服务器",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-02 16:02:40",
+    "uuid": "b27ef660-78d2-45b0-90aa-41fa2174842a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "港大MIT等单位联合开发的ITINERA系统，结合LLM和空间优化算法，可实现个性化开放域城市行程规划 ...",
+    "id": "8bicxqwuMJy",
+    "order": 1722585758030,
+    "createdAt": "2024-08-02T08:02:38.000Z",
+    "publishDate": "2024-08-02T08:02:38.030Z",
+    "title": "大模型成私人导游：一键规划 Citywalk，港大 MIT 联合出品",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-02 16:02:38",
+    "uuid": "def27c34-2b59-4fe2-b821-c329bb8535fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国航天科技集团旗下的中国四维与百度地图签署合作协议，双方将共同开发新一代数字孪生地图，并拓展其在农业、水利、自然资源、建筑等行业的应用 ...",
+    "id": "8biV6boymXQ",
+    "order": 1722585758351,
+    "createdAt": "2024-08-02T08:02:38.000Z",
+    "publishDate": "2024-08-02T08:02:38.351Z",
+    "title": "航天科技集团中国四维与百度地图达成战略合作，全新一代数字孪生地图将近",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-02 16:02:38",
+    "uuid": "38297357-9646-4628-9f98-e63c13b55bd7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "猎云网" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "捷尼赛思任命朱江为中国区新一任首席执行官，以提振在中国市场的销量。朱江拥有丰富的汽车行业经验，曾担任宝马、雷克萨斯、蔚来等品牌的要职 ...",
+    "id": "8bhGAdncfgF",
+    "order": 1722585755584,
+    "createdAt": "2024-08-02T08:02:36.000Z",
+    "publishDate": "2024-08-02T08:02:35.584Z",
+    "title": "月销仅两位数：“韩国宾利”捷尼赛思换帅",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-02 16:02:36",
+    "uuid": "52b7cd62-babd-4b73-8ad8-928ccdb9bdf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "大连万达商业管理集团股份有限公司近日新增两则股权冻结信息，涉及青岛李沧万达广场投资有限公司和西安大明宫万达广场有限公司的股权，分别冻结1亿元和5000万元，执行法院为横琴粤澳深度合作区人民法院 ...",
+    "id": "8bimSyPD6rE",
+    "order": 1722585755752,
+    "createdAt": "2024-08-02T08:02:36.000Z",
+    "publishDate": "2024-08-02T08:02:35.752Z",
+    "title": "万达商管所持1.5亿元股权被冻结",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-02 16:02:36",
+    "uuid": "bd96a73f-03f5-4d41-9d50-a5bbd6a95f4a"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "雷锋网" },
       { "siteName": "财新网" }
