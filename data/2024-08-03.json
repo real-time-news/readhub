@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "私募巨头幻方量化旗下新组织“深度求索（DeepSeek）”在探索AGI过程中采用上下文硬盘缓存技术，将未来可能重复使用的内容缓存在分布式硬盘阵列中 ...",
+    "id": "8bj8mw6cSzv",
+    "order": 1722655141494,
+    "createdAt": "2024-08-03T03:19:01.000Z",
+    "publishDate": "2024-08-03T03:19:01.494Z",
+    "title": "幻方量化旗下大模型厂商DeepSeek启用硬盘缓存技术",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-03 11:19:01",
+    "uuid": "cd754399-219a-4e5e-97b7-295305e0941b"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "IT 之家" },
       { "siteName": "华尔街见闻" }
