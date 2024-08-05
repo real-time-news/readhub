@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "投资圈" },
+      { "siteName": "ofweek.com_news" }
+    ],
+    "summary": "文章探讨了中东地区在全球人工智能竞争中的角色，特别是在美国和中国的引领下，沙特和阿联酋如何展开竞争，以成为中东的人工智能大国 ...",
+    "id": "8bnqKSsoxOY",
+    "order": 1722853315031,
+    "createdAt": "2024-08-05T10:21:55.000Z",
+    "publishDate": "2024-08-05T10:21:55.031Z",
+    "title": "从石油到AI：中东经济转型的雄心",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-05 18:21:55",
+    "uuid": "ba8977d3-8f96-4361-9237-84052034d840"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "腾讯文件助手宣布将于2024年10月11日停止微信小程序和web端的运营，并即日起关闭备份文件功能。用户可正常浏览和下载已备份文件，但无法再进行新的备份 ...",
+    "id": "8bntBX6XfYC",
+    "order": 1722853148673,
+    "createdAt": "2024-08-05T10:19:09.000Z",
+    "publishDate": "2024-08-05T10:19:08.673Z",
+    "title": "腾讯文件助手微信小程序将停运",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-05 18:19:09",
+    "uuid": "7b2ed575-5ada-4d0f-9e38-e785c99ae4cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华中科技大学、西湖大学、国家电网信息通信公司、光迅科技和康宁光通信联合宣布，他们已成功实现单跨距1002.75公里无中继光通信传输，打破了世界纪录，这也是全球首次实现千公里级单跨距传输 ...",
+    "id": "8bnqKuEYcSN",
+    "order": 1722852969378,
+    "createdAt": "2024-08-05T10:16:09.000Z",
+    "publishDate": "2024-08-05T10:16:09.378Z",
+    "title": "我国实现全球首次千公里级单跨距光通信传输，1002.75 公里无中继 2Mb/s",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-05 18:16:09",
+    "uuid": "8c02db10-312b-471d-a602-a49252de0677"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" }
