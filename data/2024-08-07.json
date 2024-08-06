@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果在即将发布的macOS 15 Sequoia系统中将对屏幕录制权限进行严格管理，用户需定期确认是否允许应用访问屏幕和音频 ...",
+    "id": "8bqTyCVvy68",
+    "order": 1722987135466,
+    "createdAt": "2024-08-06T23:32:15.000Z",
+    "publishDate": "2024-08-06T23:32:15.466Z",
+    "title": "苹果 macOS 15 Sequoia 强化隐私保护：屏幕访问权限每周需重新授权",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-07 07:32:15",
+    "uuid": "c5d3caee-e729-42fd-aa21-f4f167aa707c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果在iOS 18系统中引入了一项新功能，用户在拍摄视频时可以继续播放音乐或其他音频，解决了之前拍摄视频时音频会暂停的问题 ...",
+    "id": "8bqTFwZ2jxu",
+    "order": 1722987132590,
+    "createdAt": "2024-08-06T23:32:12.000Z",
+    "publishDate": "2024-08-06T23:32:12.590Z",
+    "title": "苹果 iOS 18 小细节：iPhone 拍摄视频不会中断音频播放",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-07 07:32:12",
+    "uuid": "1ba2f22b-0401-4cff-b760-65d3b37aa14e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "和讯网" },
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "2024年上半年，60家非上市人身险公司中有31家盈利，28家亏损，1家未披露净利润数据。泰康人寿和中邮人寿净利润分别为60.47亿元和56.9亿元，排名前两位 ...",
+    "id": "8bou5QVJRe5",
+    "order": 1722987076810,
+    "createdAt": "2024-08-06T23:31:16.000Z",
+    "publishDate": "2024-08-06T23:31:16.810Z",
+    "title": "上半年非上市寿险公司业绩分化：31家盈利、28家亏损",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-07 07:31:16",
+    "uuid": "205b2c75-ccd4-4b71-baeb-199e95b3a409"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Reddit在2024年第二季度业绩中显示，其营收同比增长54%，达到2.812亿美元。日活用户数同比增长51%，达到9120万 ...",
+    "id": "8bqHp4eMCnn",
+    "order": 1722987070297,
+    "createdAt": "2024-08-06T23:31:10.000Z",
+    "publishDate": "2024-08-06T23:31:10.297Z",
+    "title": "Reddit第二季度营收同比增长54%至2.8亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-07 07:31:10",
+    "uuid": "a1e1785b-d668-44ab-880f-37ac6be28e97"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "超微电脑公司第四财季盈利未达预期，宣布10比1的股票拆分计划，股价周二盘后大跌13%。该公司表示，尽管面临毛利率下降，但正在经历新的AI基础设施需求的创纪录增长 ...",
+    "id": "8bqIYUyg0F6",
+    "order": 1722987068666,
+    "createdAt": "2024-08-06T23:21:31.000Z",
+    "publishDate": "2024-08-06T23:31:08.666Z",
+    "title": "超微电脑盘后大跌，财报不及预期，宣布拆股计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-07 07:21:31",
+    "uuid": "d6fba8a6-82a4-4e8d-981d-dfcd7f89d609"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "澎湃新闻" }
