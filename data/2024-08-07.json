@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "英伟达的Blackwell芯片因设计缺陷可能导致出货延迟长达三个月，但分析师认为这将对公司的人工智能芯片需求影响有限 ...",
+    "id": "8bqXZVyz8Je",
+    "order": 1723020699315,
+    "createdAt": "2024-08-07T08:51:40.000Z",
+    "publishDate": "2024-08-07T08:51:39.315Z",
+    "title": "设计缺陷致英伟达Blackwell芯片推迟出货",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-07 16:51:40",
+    "uuid": "50e1f986-1557-49e7-a75f-041b2a3e2291"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "我国在南海发现陵水36-1气田，新增探明储量超1000亿立方米，成为全球首个超深水超浅层大型气田。",
+    "id": "8br8hj2130U",
+    "order": 1723020697434,
+    "createdAt": "2024-08-07T08:51:38.000Z",
+    "publishDate": "2024-08-07T08:51:37.434Z",
+    "title": "我国在南海探获全球首个超深水超浅层大型气田",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-07 16:51:38",
+    "uuid": "1e643d29-1d22-4ba9-93e5-0fad912d38f5"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "财联社" }
