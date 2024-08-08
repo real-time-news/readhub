@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "国内汽、柴油价格每吨分别下调305、290元。",
+    "id": "8bsp37jsYac",
+    "order": 1723108312886,
+    "createdAt": "2024-08-08T09:11:53.000Z",
+    "publishDate": "2024-08-08T09:11:52.886Z",
+    "title": "国家发改委：国内汽、柴油价格每吨分别下调305、290元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-08 17:11:53",
+    "uuid": "7ebdad8b-8939-42eb-8fa5-823b71cf130a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "广东建工子公司粤水电能源集团与多家单位签订风电制氢合成绿甲醇一体化项目战略合作框架协议，总投资约140亿元，规划年产50万吨绿甲醇 ...",
+    "id": "8bsoL0rrtNK",
+    "order": 1723108298550,
+    "createdAt": "2024-08-08T09:11:38.000Z",
+    "publishDate": "2024-08-08T09:11:38.550Z",
+    "title": "广东建工：签订140亿元风电制氢合成绿甲醇一体化项目战略合作框架协议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-08 17:11:38",
+    "uuid": "1c80dfc8-0f28-459a-b30b-261d803c70d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "世茂集团公告，高等法院将针对公司的清盘呈请聆讯延期至2024年12月16日。",
+    "id": "8bsoBdXf6MS",
+    "order": 1723108295695,
+    "createdAt": "2024-08-08T09:11:35.000Z",
+    "publishDate": "2024-08-08T09:11:35.695Z",
+    "title": "世茂集团：公司清盘呈请聆讯延期至12月16日",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-08 17:11:35",
+    "uuid": "311fbb13-3a91-4c87-84ac-12e65cf6e967"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "劳斯莱斯推出了独一无二的Spectre Semaphore电动汽车，车身采用定制“信号灯黄”色漆和引擎盖上的“大理石泼墨”艺术图案 ...",
+    "id": "8bsTbBiVCvt",
+    "order": 1723107953629,
+    "createdAt": "2024-08-08T09:05:55.000Z",
+    "publishDate": "2024-08-08T09:05:53.629Z",
+    "title": "劳斯莱斯推出独一无二的 Spectre Semaphore：车头泼墨，极致奢华",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-08 17:05:55",
+    "uuid": "34b95c56-60e8-4778-97b1-c298c9019c12"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "猎云网" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "左蓝微电子完成新一轮亿元融资，专注于射频滤波器研发，提供中高端射频前端器件及优质服务，拥有超百件知识产权。",
+    "id": "8bqgVvf3Awj",
+    "order": 1723107777088,
+    "createdAt": "2024-08-08T09:02:57.000Z",
+    "publishDate": "2024-08-08T09:02:57.088Z",
+    "title": "左蓝微电子完成新一轮亿元融资，聚焦射频滤波器领域",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-08 17:02:57",
+    "uuid": "134475d2-5585-4155-b20e-ee9c71694424"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "澎湃新闻" },
       { "siteName": "新浪科技" },
@@ -1695,6 +1782,24 @@
     "up": false,
     "date": "2024-08-08 10:02:35",
     "uuid": "15685f9c-6d17-41ef-af7f-e4155edb01b6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "法布财经" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "法布财经" }
+    ],
+    "summary": "欧洲天然气价格升至年内高点，美国天然气价格也有所上涨。俄罗斯库尔斯克州遭遇乌克兰军队进攻，但天然气输送并未受到影响。美国天然气生产商因市场低迷考虑减产。",
+    "id": "8bsCT4ekQ97",
+    "order": 1723108320270,
+    "createdAt": "2024-08-08T01:51:36.000Z",
+    "publishDate": "2024-08-08T09:12:00.270Z",
+    "title": "欧洲天然气价飙升至年内新高 俄乌战场动态引发市场动荡",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-08 09:51:36",
+    "uuid": "66f9c030-f5ee-41d4-8005-fbebc48c9093"
   },
   {
     "newsArray": [
