@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国私募股权公司KKR计划以约6000亿日元收购日本富士软件，收购价略低于每股9000日元，比周三收盘价高出约20%。富士软件正在考虑私有化计划，董事会将于周四讨论 ...",
+    "id": "8bt3hiScBk5",
+    "order": 1723163459084,
+    "createdAt": "2024-08-09T00:31:00.000Z",
+    "publishDate": "2024-08-09T00:30:59.084Z",
+    "title": "美国 KKR 计划以 6000 亿日元收购富士软件",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-09 08:31:00",
+    "uuid": "1a367170-ee78-48e7-8d7f-5f19afd189f5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果公司将更新其应用商店政策，以符合欧盟的《数字市场法案》。更新后，欧盟地区的应用开发者可在应用内推广和销售产品，不仅限于苹果应用商店。新政策预计在今年秋季生效。",
+    "id": "8btVvtv5B3m",
+    "order": 1723163437464,
+    "createdAt": "2024-08-09T00:25:20.000Z",
+    "publishDate": "2024-08-09T00:30:37.464Z",
+    "title": "苹果响应欧盟法规，欧盟开发者将可自主推广产品",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-09 08:25:20",
+    "uuid": "0edadbdd-e8e2-40e9-a756-1e1155519101"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "CoreWeave是一家英伟达投资的云计算公司，近日从谷歌和甲骨文聘请了两名高管来推进其AI业务 ...",
+    "id": "8btK8PiYtct",
+    "order": 1723163118971,
+    "createdAt": "2024-08-09T00:25:19.000Z",
+    "publishDate": "2024-08-09T00:25:18.971Z",
+    "title": "CoreWeave从谷歌和甲骨文聘请两名高管 以推进AI业务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-09 08:25:19",
+    "uuid": "6b2c7204-9bb9-41c6-b775-ab5f38924acd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国联通与新加坡星和电信联合推出了跨境通信产品CUniq SG，提供“一卡两号”服务，用户可同时拥有新加坡和中国手机号码，享受两国数据、语音和短信服务 ...",
+    "id": "8bsrXZk1Vdf",
+    "order": 1723162748889,
+    "createdAt": "2024-08-09T00:19:08.000Z",
+    "publishDate": "2024-08-09T00:19:08.889Z",
+    "title": "联通推出中国/新加坡一卡两号服务：跨国无缝使用 最高共享60GB流量",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-09 08:19:08",
+    "uuid": "5f1912f9-7753-42e6-8572-3771d35acadd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "深圳市安居集团有限公司旗下企业启动收购商品房用作保障性住房，以构建“保障+市场”的住房供应体系 ...",
+    "id": "8bt1XZo8az9",
+    "order": 1723162553863,
+    "createdAt": "2024-08-09T00:15:54.000Z",
+    "publishDate": "2024-08-09T00:15:53.863Z",
+    "title": "深圳启动收购商品房用作保障房 范围包括住宅、公寓",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-09 08:15:54",
+    "uuid": "46699f9c-bd14-4ca3-83ff-98cacfcd797e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "新三板公司2024年上半年业绩整体好转，超六成公司净利润为正，52家公司净利润同比翻番。专家表示，这显示了中小企业的活力、经营效率提升和创新能力增强 ...",
+    "id": "8btoVqkTS16",
+    "order": 1723162276733,
+    "createdAt": "2024-08-09T00:01:53.000Z",
+    "publishDate": "2024-08-09T00:11:16.733Z",
+    "title": "203家新三板公司发布中报业绩 122家净利润为正",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-09 08:01:53",
+    "uuid": "00e9b3af-9274-4be9-a079-769a69cd4671"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "证券时报网" },
       { "siteName": "新浪科技" },
