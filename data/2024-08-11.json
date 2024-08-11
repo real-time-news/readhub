@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD官方确认，名为“Sinkclose”的新漏洞（CVE-2023-31315）影响部分EPYC和Ryzen处理器，可能影响全球数百万用户 ...",
+    "id": "8bwOw7ajor4",
+    "order": 1723347073838,
+    "createdAt": "2024-08-11T03:31:15.000Z",
+    "publishDate": "2024-08-11T03:31:13.838Z",
+    "title": "AMD 公布“Sinkclose”高危漏洞，数百万锐龙和 EPYC 处理器受影响",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-11 11:31:15",
+    "uuid": "885cebc5-30ce-4504-9428-64a215220ea5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "岚图CEO卢放在微博宣布，岚图旗下纯电SUV岚图知音全球版将于9月中旬在海外正式发布。",
+    "id": "8bxO28njvJF",
+    "order": 1723347069908,
+    "createdAt": "2024-08-11T03:31:09.000Z",
+    "publishDate": "2024-08-11T03:31:09.908Z",
+    "title": "岚图CEO卢放：岚图知音全球版将于9月在海外发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-11 11:31:09",
+    "uuid": "8d0b23d0-e1e3-4d98-9bf9-bdab5d8017a7"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "新浪科技" },
