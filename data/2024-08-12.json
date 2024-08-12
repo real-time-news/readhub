@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在DEF CON 32安全会议上，谷歌安全研究人员展示了9个高通Adreno GPU驱动的漏洞，这些漏洞可能允许攻击者完全控制受影响的设备内存，并接管设备 ...",
+    "id": "8bz7vghbLv7",
+    "order": 1723436771477,
+    "createdAt": "2024-08-12T04:26:12.000Z",
+    "publishDate": "2024-08-12T04:26:11.477Z",
+    "title": "谷歌发现高通 Adreno GPU 驱动超 9 个漏洞，OEM 已获补丁推送",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-12 12:26:12",
+    "uuid": "06d94d6f-0034-41aa-acc3-b42ca3321f3b"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
