@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "李继尊卸任证监会办公厅主任后，赴深圳就任深交所总经理，深交所已召开会议宣布此消息。",
+    "id": "8bzW5umF4dY",
+    "order": 1723456263874,
+    "createdAt": "2024-08-12T09:51:05.000Z",
+    "publishDate": "2024-08-12T09:51:03.874Z",
+    "title": "李继尊就任深交所总经理",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-12 17:51:05",
+    "uuid": "45d2143b-5a9c-4fc3-aef8-8332ea171284"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD的下一代RDNA4独立显卡正在开发中，而传闻中的RX 7400/7300显卡并未出现在AIB合作伙伴的产品开发清单中，可能主要面向OEM市场 ...",
+    "id": "8bzSetlJQA2",
+    "order": 1723456141743,
+    "createdAt": "2024-08-12T09:49:02.000Z",
+    "publishDate": "2024-08-12T09:49:01.743Z",
+    "title": "消息称AMD AIB伙伴忙于RDNA4显卡，目前无RX 7400、7300开发规划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-12 17:49:02",
+    "uuid": "a0601eb1-982c-4a5d-9f10-c1ef1a346ca8"
+  },
+  {
+    "newsArray": [
       { "siteName": "速途网" },
       { "siteName": "鸟哥笔记" },
       { "siteName": "36Kr" }
