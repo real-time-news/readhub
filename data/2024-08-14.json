@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "最新信托公司监管评级结果已公布，首次分为1—6级，评级体系包括公司治理、资本要求、风险管理、行为管理和业务转型等方面，数值越大代表风险越高 ...",
+    "id": "8c1L8TKApc6",
+    "order": 1723592463013,
+    "createdAt": "2024-08-13T23:41:03.000Z",
+    "publishDate": "2024-08-13T23:41:03.013Z",
+    "title": "最新信托公司监管评级结果出炉 首次分为1—6级",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-14 07:41:03",
+    "uuid": "dc93c6ba-77a4-4fd8-b246-cc3b6cc67cb8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "开发者X512为Haiku OS带来了Firefox浏览器v128版本的移植版，目前该版本比最新稳定版v129落后一个版本 ...",
+    "id": "8c1IIZbXr6C",
+    "order": 1723592247855,
+    "createdAt": "2024-08-13T23:37:29.000Z",
+    "publishDate": "2024-08-13T23:37:27.855Z",
+    "title": "传奇系统迎“火狐”，开发者将 Firefox 浏览器移植至 Haiku OS",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-14 07:37:29",
+    "uuid": "50a01061-b460-459a-b820-7553156aafaa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "英特尔第二季度出售了其持有的芯片设计公司Arm的股份，筹资约1.47亿美元。同时，英特尔正通过裁员和削减开支等措施来扭转业务。",
+    "id": "8c2360zzHlS",
+    "order": 1723592455131,
+    "createdAt": "2024-08-13T23:37:26.000Z",
+    "publishDate": "2024-08-13T23:40:55.131Z",
+    "title": "英特尔出售所持Arm的股份 以筹集资金",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-14 07:37:26",
+    "uuid": "9020843e-0700-4944-9fe1-a146a6f43602"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
