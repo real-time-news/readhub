@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "深蓝航天完成B3轮战略融资，投资方为正悦投资和正合云帆基金，计划于8月底进行可回收运载火箭的高空垂直回收飞行试验，并在厦门集美区设立国际业务和服务总部。",
+    "id": "8c0tH9kcwcH",
+    "order": 1723528324902,
+    "createdAt": "2024-08-13T05:52:05.000Z",
+    "publishDate": "2024-08-13T05:52:04.902Z",
+    "title": "深蓝航天完成B3轮战略融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-13 13:52:05",
+    "uuid": "fd6e8850-8f96-4a9e-b35d-ae18b816fa2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "AMD宣布完成对欧洲最大私人AI实验室Silo AI的收购，交易金额约6.65亿美元。此举旨在加强公司在AI及相关技术领域的领导地位，Silo AI的科学家和工程师已加入AMD ...",
+    "id": "8c0s8Qg9bgy",
+    "order": 1723528322491,
+    "createdAt": "2024-08-13T05:52:02.000Z",
+    "publishDate": "2024-08-13T05:52:02.491Z",
+    "title": "斥资 6.65 亿美元，AMD 完成收购欧洲最大私人 AI 实验室 Silo AI",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-13 13:52:02",
+    "uuid": "7ed5cb9f-e4ed-42d8-86ae-ce8f2299f6c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "MIT等机构的研究发现，开源数据集如C4、RefineWeb、Dolma等网站的数据许可正在收紧，大量数据难以获取，这对AI模型训练和学术研究造成阻碍 ...",
+    "id": "8c0rprtUIpz",
+    "order": 1723528320759,
+    "createdAt": "2024-08-13T05:52:01.000Z",
+    "publishDate": "2024-08-13T05:52:00.759Z",
+    "title": "「AI 数据荒」雪上加霜，MIT 发现网页数据的公开共享正走向衰落",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-13 13:52:01",
+    "uuid": "0150988d-a465-497e-a0b0-796a321cde89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "SpaceX被指控多次违反环境法规，向得克萨斯州水域非法排放污染物。监管机构发现SpaceX的水淋系统存在严重问题，并已对其发出违规通知 ...",
+    "id": "8c0kKaVar7y",
+    "order": 1723528295503,
+    "createdAt": "2024-08-13T05:51:36.000Z",
+    "publishDate": "2024-08-13T05:51:35.503Z",
+    "title": "美监管机构称 SpaceX 今年多次违规排放废水，污染得州水域",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-13 13:51:36",
+    "uuid": "5ef048c7-17f7-4ba9-bd7e-d7c291f70750"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "速途网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "怪兽充电正大规模出售城市直营业务，转为代理加盟模式。除上海、成都等核心城市的优质点位仍在运营，其余城市的直营点位已在出售给区域代理商。",
+    "id": "8c0rqKBhKgk",
+    "order": 1723528279379,
+    "createdAt": "2024-08-13T05:51:20.000Z",
+    "publishDate": "2024-08-13T05:51:19.379Z",
+    "title": "怪兽充电调整业务模式，全面转向代理加盟模式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-13 13:51:20",
+    "uuid": "12980de2-5bfa-40d0-a591-0a788c917b27"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -875,6 +960,24 @@
     "up": false,
     "date": "2024-08-13 09:35:50",
     "uuid": "f07346de-62b2-455e-bc3a-543ec7a59319"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "英伟达CEO黄仁勋在过去两个月内连续套现约5亿美元，自6月和7月分别出售价值1.7亿美元和3.23亿美元的公司股票后，在8月8日和9日又套现2490万美元，卖出24万股股票 ...",
+    "id": "8c0YPzqRsr2",
+    "order": 1723528262844,
+    "createdAt": "2024-08-13T01:20:55.000Z",
+    "publishDate": "2024-08-13T05:51:02.844Z",
+    "title": "英伟达CEO黄仁勋再套现2490万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-13 09:20:55",
+    "uuid": "0ebadde7-18af-47a9-aace-8c114b589894"
   },
   {
     "newsArray": [
