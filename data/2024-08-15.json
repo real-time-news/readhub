@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2024年7月，我国商品住宅销售价格整体呈下降趋势，一线城市二手住宅销售价格同比降幅继续收窄，新建商品住宅销售价格环比下降0.5%，其中北京、广州、深圳降幅分别为0.5%、0.8%、0.9%，上海上涨0.2% ...",
+    "id": "8c3ve6LexxC",
+    "order": 1723686135785,
+    "createdAt": "2024-08-15T01:42:15.000Z",
+    "publishDate": "2024-08-15T01:42:15.785Z",
+    "title": "国家统计局：7月份商品住宅销售价格环比下降，同比降幅整体略有扩大",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 09:42:15",
+    "uuid": "22573715-8de8-469d-93b3-f4dab8a84d74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "央行进行7天期逆回购操作，金额为5777亿元，利率为1.7%，同时有71亿元逆回购到期。另外，今日到期的MLF将于8月26日续做。",
+    "id": "8c3vE8sLrcf",
+    "order": 1723686117295,
+    "createdAt": "2024-08-15T01:41:57.000Z",
+    "publishDate": "2024-08-15T01:41:57.295Z",
+    "title": "央行今日进行5777亿元7天期逆回购操作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 09:41:57",
+    "uuid": "6f3cc700-48b9-4f62-9498-3350f6e6f3cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "恒生指数和恒生科技指数日内跌幅均超1%。",
+    "id": "8c3uof2zSEy",
+    "order": 1723685838905,
+    "createdAt": "2024-08-15T01:37:18.000Z",
+    "publishDate": "2024-08-15T01:37:18.905Z",
+    "title": "恒生指数、恒生科技指数日内双双跌超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 09:37:18",
+    "uuid": "597b762d-0fdd-4ed4-8a17-3d7d950aed6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "央行今日通过固定利率、数量招标方式开展了5777亿元逆回购操作，并宣布原定今日到期的MLF将于8月26日进行续做。",
+    "id": "8c3urSuIcl6",
+    "order": 1723685836863,
+    "createdAt": "2024-08-15T01:31:44.000Z",
+    "publishDate": "2024-08-15T01:37:16.863Z",
+    "title": "央行：今日到期的MLF将于8月26日续做",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 09:31:44",
+    "uuid": "c3e294c1-906e-4ebf-a30f-c994b1f25e98"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "广东多地14日遭遇强对流天气，68个镇街出现暴雨，深圳宝安区福永街道9小时降雨量达162.1毫米 ...",
+    "id": "8c2sCdlrQov",
+    "order": 1723685448423,
+    "createdAt": "2024-08-15T01:22:01.000Z",
+    "publishDate": "2024-08-15T01:30:48.423Z",
+    "title": "广东68个镇街遭遇暴雨 近期雷雨天气趋于明显",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 09:22:01",
+    "uuid": "ba445155-a347-46ec-a738-63b46d2e99e3"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -32,6 +119,24 @@
     "up": false,
     "date": "2024-08-15 08:37:39",
     "uuid": "03c371c2-4db4-48fc-a567-0980eccfc4d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "耐克公司股价周三尾盘大涨5.5%，原因是美国对冲基金大鳄比尔·阿克曼旗下的潘兴广场资本管理公司披露了其持有约300万股耐克股票，价值2.29亿美元 ...",
+    "id": "8c3lE3dCS7a",
+    "order": 1723683054060,
+    "createdAt": "2024-08-15T00:37:26.000Z",
+    "publishDate": "2024-08-15T00:50:54.060Z",
+    "title": "获阿克曼建仓，耐克股价大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 08:37:26",
+    "uuid": "13e9f24c-93a5-4a6a-a200-90bbaf41c119"
   },
   {
     "newsArray": [
@@ -190,6 +295,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "亚信科技控股有限公司公布截至2024年6月30日的中期业绩，公司面临外部经营环境的复杂性与不确定性，坚持“四个转变”发展战略，其中“三新”业务保持双位数增长，收入达12.00亿元，同比上升10.0% ...",
+    "id": "8c36TvguBoD",
+    "order": 1723685446933,
+    "createdAt": "2024-08-14T23:37:02.000Z",
+    "publishDate": "2024-08-15T01:30:46.933Z",
+    "title": "亚信科技中期业绩：垂直行业数字化强势带动，三新业务双位数增长",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 07:37:02",
+    "uuid": "d0abf2b1-153d-4580-a867-465e7c2ea09d"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "界面" }
@@ -204,6 +328,25 @@
     "up": false,
     "date": "2024-08-15 07:19:39",
     "uuid": "8f3fc81e-c832-4083-b5ae-cc72bcf9c7eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "高瓴旗下基金管理平台HHLR Advisors公布2024年二季度美股持仓情况，共持有78只股票，总市值约40.54亿美元 ...",
+    "id": "8c3ce2DFDFr",
+    "order": 1723684243237,
+    "createdAt": "2024-08-14T23:13:05.000Z",
+    "publishDate": "2024-08-15T01:10:43.237Z",
+    "title": "高瓴旗下HHLR Advisors二季度美股持仓披露 前十大重仓中概股占8席",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 07:13:05",
+    "uuid": "1aa611dc-a60f-4f6f-a97b-7b59649a1abd"
   },
   {
     "newsArray": [
