@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果的AI系统Apple Intelligence被指存在安全隐患，用户Evan Zhou声称成功操纵了该系统，并提出了新的攻击方式——提示词注入攻击。苹果目前尚未对此事进行回应。",
+    "id": "8c4AvZUbzGD",
+    "order": 1723705903643,
+    "createdAt": "2024-08-15T07:11:43.000Z",
+    "publishDate": "2024-08-15T07:11:43.643Z",
+    "title": "Apple Intelligence被曝存在重大安全隐患",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 15:11:43",
+    "uuid": "80513726-22e3-4b17-a0d7-4a31068c27f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "三星在FMS 2024展会上展出了新款企业级QLC固态硬盘BM1743，容量达122.88TB，较上一代产品提高了I/O性能4.1倍和连续写入能效45% ...",
+    "id": "8c47Mr2NYak",
+    "order": 1723705664291,
+    "createdAt": "2024-08-15T07:07:44.000Z",
+    "publishDate": "2024-08-15T07:07:44.291Z",
+    "title": "122.88 TB，三星展示 BM1743 企业级 QLC 固态硬盘",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 15:07:44",
+    "uuid": "9c701681-1f03-4f3d-b117-b786f5872860"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
