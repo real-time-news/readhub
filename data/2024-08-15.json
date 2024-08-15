@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "商务部、海关总署宣布，经国务院批准，自2024年9月15日起，对锑等物项实施出口管制，以维护国家安全和利益，履行国际义务。",
+    "id": "8c4NWJiEiIp",
+    "order": 1723709479726,
+    "createdAt": "2024-08-15T08:11:19.000Z",
+    "publishDate": "2024-08-15T08:11:19.726Z",
+    "title": "商务部、海关总署：对锑等物项实施出口管制",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 16:11:19",
+    "uuid": "b22c74db-cb08-4e4f-8a01-276bd2b9d1e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "光伏行业巨头通威股份计划通过增资及收购股权的方式，控股润阳股份，以加强其产业链布局。润阳股份拥有从工业硅到光伏电站的完整产业链，且在太阳能电池领域排名全球前五 ...",
+    "id": "8c42MYKUDBA",
+    "order": 1723708967697,
+    "createdAt": "2024-08-15T08:02:47.000Z",
+    "publishDate": "2024-08-15T08:02:47.697Z",
+    "title": "光伏行业兼并重组提速 通威股份逆周期收购引关注",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 16:02:47",
+    "uuid": "f8698b3e-bd8b-4774-8cff-ac8d247fb9c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "俄罗斯国家航天集团网站发布，进步MS-28货运飞船成功搭载联盟-2.1a火箭升空，进入预定轨道，并将于17日与国际空间站俄罗斯舱段对接。",
+    "id": "8c4DRLQ19p7",
+    "order": 1723708964585,
+    "createdAt": "2024-08-15T08:02:46.000Z",
+    "publishDate": "2024-08-15T08:02:44.585Z",
+    "title": "俄罗斯发射“进步MS-28”货运飞船",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 16:02:46",
+    "uuid": "974193df-4aa9-4c11-a4f2-fce88247ecf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "抖音外卖业务在上周内部宣布重新归入抖音本地生活业务线，这是半年内的第二次架构调整。",
+    "id": "8c4LoSjZu2S",
+    "order": 1723708928382,
+    "createdAt": "2024-08-15T08:02:08.000Z",
+    "publishDate": "2024-08-15T08:02:08.382Z",
+    "title": "抖音外卖离开电商板块，重归本地生活",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 16:02:08",
+    "uuid": "8b4a6a4b-aa4b-45cb-be1a-07522d75bcfc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "投资圈" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "天士力，一家老牌中药企业，近日宣布华润三九将以62亿元购买其28%的股份。这次交易被视为央国企针对中成药市场的重大策略变化，标志着更加积极的姿态 ...",
+    "id": "8c3qVg74T9A",
+    "order": 1723708903827,
+    "createdAt": "2024-08-15T08:01:44.000Z",
+    "publishDate": "2024-08-15T08:01:43.827Z",
+    "title": "昔日500亿中药巨头，终进“国家队”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 16:01:44",
+    "uuid": "df673339-d0e8-4001-b9d3-96ae0cf41f0f"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -800,6 +886,23 @@
     "up": false,
     "date": "2024-08-15 11:01:31",
     "uuid": "40f75eb8-e84d-48b1-a6ef-3890a06b4c81"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "对冲基金大佬David Tepper在2024年第二季度调整其对中国企业的投资，虽然削减了阿里巴巴、拼多多、百度的股份，但增持了京东、贝壳 ...",
+    "id": "8c3sNGIT51i",
+    "order": 1723709015521,
+    "createdAt": "2024-08-15T02:51:40.000Z",
+    "publishDate": "2024-08-15T08:03:35.521Z",
+    "title": "对冲基金大佬David Tepper坚定持有中概股：增持京东、贝壳，减持阿里、拼多多",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-15 10:51:40",
+    "uuid": "d9ea0e2a-8fef-44ae-862f-e20547a9c0ef"
   },
   {
     "newsArray": [
