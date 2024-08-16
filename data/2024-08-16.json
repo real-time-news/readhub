@@ -1,6 +1,115 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国家统计局发布的数据显示，2024年7月份，一线城市新建商品住宅销售价格环比下降0.5%，二线城市下降0.6%，三线城市下降0.7% ...",
+    "id": "8c4FneuinLE",
+    "order": 1723768977701,
+    "createdAt": "2024-08-16T00:42:57.000Z",
+    "publishDate": "2024-08-16T00:42:57.701Z",
+    "title": "7月房价：上海二手房环比两连涨，北京二手房止涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-16 08:42:57",
+    "uuid": "2069dfd2-0960-4b02-88b1-d9b7041d832e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "日经225指数上涨2.5%，多家大型企业股票表现良好，其中三菱日联金融和日立涨幅超过4%，丰田汽车涨幅超过3%，索尼和基恩士涨幅超过2%。",
+    "id": "8c4FEkSmPJS",
+    "order": 1723768840368,
+    "createdAt": "2024-08-16T00:33:18.000Z",
+    "publishDate": "2024-08-16T00:40:40.368Z",
+    "title": "日经225指数涨幅扩大至2.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-16 08:33:18",
+    "uuid": "f592a5b6-b96b-4e26-91ff-780eab703ab9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中信建投证券研报指出，3D打印技术具有颠覆性，在军民领域具有广阔的应用前景。该技术有助于发动机的轻量化、集成化，并提高推力和可靠性，金属3D打印发动机有潜力成为航空航天领域的主流技术工艺 ...",
+    "id": "8c5U7EaCtx2",
+    "order": 1723768394568,
+    "createdAt": "2024-08-16T00:33:14.000Z",
+    "publishDate": "2024-08-16T00:33:14.568Z",
+    "title": "中信建投：金属3D打印发动机有望成为航空航天领域主流技术工艺",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-16 08:33:14",
+    "uuid": "edf1d97f-27ce-4aa9-a1a2-18aaf728bf51"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "一心堂药业集团在国家医保局约谈后，积极开展医保基金使用问题的自查自纠和全面整改。集团成立了由高层领导的专项工作组，制定了自查整改方案，并已退回涉及违规的医保基金1070余万元 ...",
+    "id": "8c5TgUEUExK",
+    "order": 1723768389445,
+    "createdAt": "2024-08-16T00:33:10.000Z",
+    "publishDate": "2024-08-16T00:33:09.445Z",
+    "title": "国家医保局通报一心堂药业集团整改情况",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-16 08:33:10",
+    "uuid": "3d5207ce-d530-4981-a90c-4c16944e55df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国食品和药物管理局（FDA）批准阿斯利康抗癌药物Imfinzi用于非小细胞肺癌患者术后辅助治疗。Imfinzi此前已用于不能手术切除晚期癌症患者，此批准扩大了其应用范围 ...",
+    "id": "8c4NoCohsz2",
+    "order": 1723769677451,
+    "createdAt": "2024-08-16T00:21:13.000Z",
+    "publishDate": "2024-08-16T00:54:37.451Z",
+    "title": "美国FDA批准阿斯利康重磅药物Imfinzi用于治疗非小细胞肺癌",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-16 08:21:13",
+    "uuid": "927a8524-77e3-48ca-8fbb-d0a17b863088"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "华为数据存储软件首席专家张群辉在全球开源技术峰会（GOTC2024）上分享了ModelEngine在垂域大模型领域的应用实践 ...",
+    "id": "8c5RapGFROI",
+    "order": 1723767373418,
+    "createdAt": "2024-08-16T00:16:13.000Z",
+    "publishDate": "2024-08-16T00:16:13.418Z",
+    "title": "业界首个、开箱即用，华为 AI 训推全流程工具链 ModelEngine 亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-16 08:16:13",
+    "uuid": "43283728-5227-4311-8c7a-2e39d30e87bb"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -15,6 +124,24 @@
     "up": false,
     "date": "2024-08-16 07:56:05",
     "uuid": "f21c6f33-b016-4bcf-b184-834580a9a3f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "2024年6月，美国国债前三大海外债主日本、中国和英国的持有量出现不同变化。日本减持了106亿美元，中国则增持了119亿美元，为今年以来最大幅度增持，而英国也增持了181亿美元 ...",
+    "id": "8c5DFlDFxfd",
+    "order": 1723768389562,
+    "createdAt": "2024-08-15T23:51:32.000Z",
+    "publishDate": "2024-08-16T00:33:09.562Z",
+    "title": "6月中国增持119亿美元美债，日本减持106亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-16 07:51:32",
+    "uuid": "e7e7b9e9-7bdc-4c9d-940f-0b9aa6aa617e"
   },
   {
     "newsArray": [
