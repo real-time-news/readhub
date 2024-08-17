@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "欧盟《数字市场法》的实施迫使苹果允许第三方应用商店的存在，Epic游戏商城因此得以在欧盟地区的iOS设备上推出，《堡垒之夜》也随之回归 ...",
+    "id": "8c6Gd1qSjYa",
+    "order": 1723881963846,
+    "createdAt": "2024-08-17T08:06:03.000Z",
+    "publishDate": "2024-08-17T08:06:03.846Z",
+    "title": "苹果 iPhone 重新玩上《堡垒之夜》，Epic 游戏商城面向欧盟用户开放",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-17 16:06:03",
+    "uuid": "8677ab49-2dd8-4c53-9360-ad58bc5bd0e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "YouTube创作者大卫·米勒特对英伟达提起集体诉讼，指控英伟达未经许可从YouTube上抓取内容建立视频模型，用于训练AI，违反了加州的《不正当竞争法》和《联邦劳动法》，并使公司不当得利 ...",
+    "id": "8c7f6tCEqtS",
+    "order": 1723881693859,
+    "createdAt": "2024-08-17T08:01:33.000Z",
+    "publishDate": "2024-08-17T08:01:33.859Z",
+    "title": "因未经许可抓取 YouTube 内容训练模型，英伟达遭视频创作者起诉",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-17 16:01:33",
+    "uuid": "1f362f94-e2f8-4576-8b8a-fefd378e4e33"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
