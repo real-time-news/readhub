@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "NVIDIA发布了新驱动560.94，优化了《黑神话：悟空》的性能，可以充分发挥全景光追、DLSS 3、帧生成技术 ...",
+    "id": "8cD1PCEuTDD",
+    "order": 1724214123186,
+    "createdAt": "2024-08-21T04:22:04.000Z",
+    "publishDate": "2024-08-21T04:22:03.186Z",
+    "title": "NVIDIA 560.94版驱动发布：《黑神话：悟空》必备",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 12:22:04",
+    "uuid": "b36f0152-6fdd-454f-8d0a-f752b7871c3a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "吉泰智能近日完成6000万元A+轮融资，主要用于扩大火电和风电爬壁机器人的生产及研发投入。该公司专注于为能源大型设施提供全栈式智能化运维服务，业务覆盖多个领域，并拥有多项专利和软件著作权。",
+    "id": "8cDmdYWDZO5",
+    "order": 1724214110899,
+    "createdAt": "2024-08-21T04:21:51.000Z",
+    "publishDate": "2024-08-21T04:21:50.899Z",
+    "title": "高空高危爬壁检测机器人研发商吉泰智能完成6000万元A+轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 12:21:51",
+    "uuid": "1a342edf-073d-4495-b03f-2339867d5455"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "吉利汽车上半年营收达1073.1亿元，同比增长47%。净利润106亿元，同比增长575%。",
+    "id": "8cE4drymuwA",
+    "order": 1724214111519,
+    "createdAt": "2024-08-21T04:21:51.000Z",
+    "publishDate": "2024-08-21T04:21:51.519Z",
+    "title": "吉利汽车：上半年净利润106亿元，同比增长575%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 12:21:51",
+    "uuid": "d18e21c0-0899-40d3-8776-d228ab42176b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达宣布与联发科合作，将G-SYNC技术集成到联发科Scaler组件中，使得显示厂商能够不使用英伟达第一方G-SYNC处理器模块就能推出G-SYNC电竞显示器 ...",
+    "id": "8cDqUARd59t",
+    "order": 1724213602433,
+    "createdAt": "2024-08-21T04:13:22.000Z",
+    "publishDate": "2024-08-21T04:13:22.433Z",
+    "title": "无需第一方独立模块，联发科 Scaler 组件将支持英伟达 G-SYNC",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 12:13:22",
+    "uuid": "60fa310a-8400-4d66-95aa-e6bd1e9344d6"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" }
