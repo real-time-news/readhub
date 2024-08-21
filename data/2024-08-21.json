@@ -1,6 +1,144 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "苹果预计在2026年推出配备OLED屏幕的iPad Air，而凭借其产能优势，三星显示器可能成为这一产品的主要OLED供应商。",
+    "id": "8cDohSrCKab",
+    "order": 1724202088462,
+    "createdAt": "2024-08-21T01:01:29.000Z",
+    "publishDate": "2024-08-21T01:01:28.462Z",
+    "title": "得益于产能优势 三星显示有望成苹果iPad Air用OLED主要供应商",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 09:01:29",
+    "uuid": "0bfa1c08-cb72-4e8d-849a-d61d22fb4b0f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "地平线公司宣布其征程家族车载智能计算方案出货量超过600万套，并已与全球30多家车企及品牌达成前装量产合作，累计量产定点车型超过270款，上市车型超过130款。",
+    "id": "8cCuocOBN4q",
+    "order": 1724202072038,
+    "createdAt": "2024-08-21T01:01:14.000Z",
+    "publishDate": "2024-08-21T01:01:12.038Z",
+    "title": "地平线征程家族车载智能计算方案出货量已超600万套",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 09:01:14",
+    "uuid": "535c15d1-2290-4bb0-9c18-e291a0efc990"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "2024年中期，A股上市公司分红热情高涨，数量和分红金额均创历史新高。特别是科创板公司表现突出，一批上市后研发成果显现的公司积极回报投资者 ...",
+    "id": "8cDSBpHG6NA",
+    "order": 1724200865341,
+    "createdAt": "2024-08-21T00:41:06.000Z",
+    "publishDate": "2024-08-21T00:41:05.341Z",
+    "title": "A股现“中期分红潮”：家数已超去年 科创板公司“领衔”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 08:41:06",
+    "uuid": "b13818e9-0d14-40c3-8c3a-935602daa9a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "台积电在德国德累斯顿的首座12英寸厂举行动土典礼，董事长魏哲家透露成本上升，暗示可能调整海外厂区价格，会与客户有更多讨论。",
+    "id": "8cDlUZaTjsx",
+    "order": 1724200396764,
+    "createdAt": "2024-08-21T00:33:17.000Z",
+    "publishDate": "2024-08-21T00:33:16.764Z",
+    "title": "台积电德国厂动土 董事长魏哲家谈成本上升或暗示将涨价",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 08:33:17",
+    "uuid": "d8a85f65-f4b5-4612-8dec-ad6831e0297c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "界面" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果官网系统状态页面显示，iCloud储存空间升级服务问题仍未修复，已持续近两个小时，部分用户受到影响。",
+    "id": "8cDndmbX89V",
+    "order": 1724200396904,
+    "createdAt": "2024-08-21T00:33:16.000Z",
+    "publishDate": "2024-08-21T00:33:16.904Z",
+    "title": "苹果：部分用户受到iCloud存储升级问题的影响",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 08:33:16",
+    "uuid": "bc307e3b-23ce-4a1c-9ad5-27d1bb345cc5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "当前，A股正处于中报密集披露期，超六成上市公司实现净利润增长，电子、基础化工、医药生物等行业上市公司业绩高增长，行业景气度较高 ...",
+    "id": "8cDlUNO0kEx",
+    "order": 1724200359186,
+    "createdAt": "2024-08-21T00:32:40.000Z",
+    "publishDate": "2024-08-21T00:32:39.186Z",
+    "title": "中报密集披露，三大行业景气度较高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 08:32:40",
+    "uuid": "9b9bdb59-5d35-4be8-b1bb-10254fbe4b68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "OpenAI发布新功能，允许企业客户使用自身数据定制GPT-4o模型，以应对人工智能竞争压力和展示投资收益。该功能被称为微调，可让模型在特定领域接受额外训练 ...",
+    "id": "8cDJcY4VsTM",
+    "order": 1724199685182,
+    "createdAt": "2024-08-21T00:21:26.000Z",
+    "publishDate": "2024-08-21T00:21:25.182Z",
+    "title": "OpenAI将向企业开放GPT-4o模型定制版",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 08:21:26",
+    "uuid": "4d8e6a76-782d-4152-8ab6-a948224036fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "深蓝汽车宣布，搭载华为技术的L07和S05车型将于2024年成都车展期间亮相，实现15-30万元智能平权 ...",
+    "id": "8cDBlcc13MY",
+    "order": 1724199386406,
+    "createdAt": "2024-08-21T00:16:26.000Z",
+    "publishDate": "2024-08-21T00:16:26.406Z",
+    "title": "深蓝L07、S05将于2024成都车展期间首发亮相：华为技术加持",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 08:16:26",
+    "uuid": "7d9546bf-e378-4ecd-a7dc-b101dfe057e0"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -104,6 +242,24 @@
     "up": false,
     "date": "2024-08-21 07:01:23",
     "uuid": "bb28d7c6-57da-44e3-85bc-9cfe4a290a83"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "MSCI最新报告指出，2024年第二季度亚太区商业地产投资持续低迷，交易额较去年同期下降17%，但各主要市场表现各异 ...",
+    "id": "8cCAtDAQd4G",
+    "order": 1724200875801,
+    "createdAt": "2024-08-20T18:01:30.000Z",
+    "publishDate": "2024-08-21T00:41:15.801Z",
+    "title": "MSCI：第二季亚太区商业地产完成交易额同比下降17%至324亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 02:01:30",
+    "uuid": "e142c152-a77d-4c47-9498-5a47bc99829a"
   },
   {
     "newsArray": [
