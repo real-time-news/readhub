@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "财联社" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "理想工业智能科技（江苏）有限公司近日成立，法定代表人为王巍，注册资本1亿人民币。公司经营范围广泛，包括人工智能基础软件开发、计算机系统服务、大数据服务、工业机器人制造等 ...",
+    "id": "8cDxzOoBGre",
+    "order": 1724208714887,
+    "createdAt": "2024-08-21T02:51:55.000Z",
+    "publishDate": "2024-08-21T02:51:54.887Z",
+    "title": "理想汽车在江苏成立工业智能公司 注册资本1亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 10:51:55",
+    "uuid": "ea725c7c-b50a-4159-bd12-eba9652ccdd8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "今年以来，银行股权在拍卖平台上频繁出现，尤其是中小银行股权。然而，部分银行股权拍卖遭遇冷清，甚至出现流拍现象 ...",
+    "id": "8cDlWB2c2Sh",
+    "order": 1724208711875,
+    "createdAt": "2024-08-21T02:51:52.000Z",
+    "publishDate": "2024-08-21T02:51:51.875Z",
+    "title": "部分中小银行股权拍卖遇冷，“打折出售”“1元起拍”仍难觅买家",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 10:51:52",
+    "uuid": "fa68b439-f0e0-4273-b750-2a85ec74cba1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌通过Google Cloud API向研究人员开放了健康声学表征（HeAR）AI模型，该模型利用从3亿条音频数据训练而成，能帮助研究人员聆听人类声音并标记疾病早期征兆，特别针对咳嗽模型训练了约1亿条咳嗽声 ...",
+    "id": "8cDwv1vHNAV",
+    "order": 1724208703093,
+    "createdAt": "2024-08-21T02:51:44.000Z",
+    "publishDate": "2024-08-21T02:51:43.093Z",
+    "title": "谷歌向科研人员开放健康声学表征 AI 模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 10:51:44",
+    "uuid": "1041e9ff-6a43-4274-a7c1-91735c1538db"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软Xbox Game Pass在八月下旬将新增《星际卡车司机》、《尘封大陆》和《地心护核者》等多款游戏 ...",
+    "id": "8cDBkoEmfAb",
+    "order": 1724208672180,
+    "createdAt": "2024-08-21T02:51:14.000Z",
+    "publishDate": "2024-08-21T02:51:12.180Z",
+    "title": "微软公布 XGP 八月下旬新增游戏阵容：《尘封大陆》《地心护核者》《星际卡车司机》",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 10:51:14",
+    "uuid": "87a34815-4be6-4756-9df6-f03f973819bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "极氪公司获得杭州市L3自动驾驶测试牌照，将在上海和杭州两地开展L3自动驾驶测试。",
+    "id": "8cDx9F8h5LO",
+    "order": 1724208173491,
+    "createdAt": "2024-08-21T02:42:54.000Z",
+    "publishDate": "2024-08-21T02:42:53.491Z",
+    "title": "极氪获杭州L3自动驾驶测试牌照",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 10:42:54",
+    "uuid": "b59e45fb-0484-4a27-8d22-420b52a302d6"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "财新网" },
@@ -468,6 +553,24 @@
     "up": false,
     "date": "2024-08-21 08:16:05",
     "uuid": "a2404cfa-97a8-4bfe-b59d-6f829d9d1c6c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "福州市发布《数字人民币试点三年攻坚行动方案》，计划在13个领域推进数字人民币试点。年内多个试点地区已发布实施方案，明确工作目标与计划 ...",
+    "id": "8cDlU7T3Sya",
+    "order": 1724208701547,
+    "createdAt": "2024-08-21T00:13:16.000Z",
+    "publishDate": "2024-08-21T02:51:41.547Z",
+    "title": "数字人民币试点扎实推进 多地发布工作方案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-21 08:13:16",
+    "uuid": "f9cdbc87-80b0-4a77-9368-f70f23054ccf"
   },
   {
     "newsArray": [
