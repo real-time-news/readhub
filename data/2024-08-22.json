@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "浙江讯医科技有限公司近日成立，法定代表人为尹大海，注册资本1000万元。该公司经营范围涵盖人工智能硬件销售、软件开发、远程健康管理服务等，由科大讯飞旗下讯飞医疗科技股份有限公司全资持股。",
+    "id": "8cFegmPtQfJ",
+    "order": 1724316964031,
+    "createdAt": "2024-08-22T08:56:05.000Z",
+    "publishDate": "2024-08-22T08:56:04.031Z",
+    "title": "科大讯飞成立讯医科技公司，经营范围含多项AI业务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-22 16:56:05",
+    "uuid": "a3f2b22d-36a4-463b-819e-6e3c60236343"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "Open AI推出了GPT-4o微调自定义版本，即日起对所有付费使用级别开发人员开放。开发人员可以使用自定义数据集对GPT-4o进行微调，从而针对特定用例以更低的成本获得更高的性能 ...",
+    "id": "8cETxFw8yJe",
+    "order": 1724316919089,
+    "createdAt": "2024-08-22T08:55:20.000Z",
+    "publishDate": "2024-08-22T08:55:19.089Z",
+    "title": "Open AI宣布推出GPT-4o微调自定义版本",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-22 16:55:20",
+    "uuid": "cedcb131-b0af-49eb-94fd-8a8f43bf77ca"
+  },
+  {
+    "newsArray": [
       { "siteName": "ZAKER" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
