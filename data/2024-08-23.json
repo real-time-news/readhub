@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财经网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "吉祥航空宣布将于2024年12月中旬开辟中国上海至澳大利亚墨尔本、悉尼的洲际直飞航线，这是其首次执行飞往南半球的定期客运航线 ...",
+    "id": "8cGLZBqdFyk",
+    "order": 1724405187380,
+    "createdAt": "2024-08-23T09:26:28.000Z",
+    "publishDate": "2024-08-23T09:26:27.380Z",
+    "title": "吉祥航空进军南半球 国际航线加速扩张",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 17:26:28",
+    "uuid": "799105bc-1485-448e-aead-56fb9386ecfc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "在第八届未来网络发展大会上，中国电信副总经理李峻分享了人工智能发展对数字信息基础设施的影响，以及中国电信在智能化升级方面的实践 ...",
+    "id": "8cHJj0OcLvV",
+    "order": 1724405185812,
+    "createdAt": "2024-08-23T09:26:25.000Z",
+    "publishDate": "2024-08-23T09:26:25.812Z",
+    "title": "中国电信副总经理李峻：把握人工智能发展方向，打造新一代数字信息基础设施",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 17:26:25",
+    "uuid": "b0adaad6-dd43-45e5-acb8-028097c6ccaa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2024年7月，证券期货经营机构备案私募资管产品878只，环比增长1.97%，同比增长6.94%，设立规模543.38亿元 ...",
+    "id": "8cHjSixJ0v2",
+    "order": 1724404917947,
+    "createdAt": "2024-08-23T09:21:57.000Z",
+    "publishDate": "2024-08-23T09:21:57.947Z",
+    "title": "中基协：7月证券期货经营机构共备案私募资管产品878只 同比增长6.94%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 17:21:57",
+    "uuid": "ae6a7bfe-b0fd-4873-9134-70d52bbcc8c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "韩国BGF Eco Materials公司宣布在蔚山工业园区投资1500亿韩元，建设一座半导体材料无水氢氟酸生产工厂 ...",
+    "id": "8cHiwzCFN4f",
+    "order": 1724404914430,
+    "createdAt": "2024-08-23T09:21:54.000Z",
+    "publishDate": "2024-08-23T09:21:54.430Z",
+    "title": "韩国BGF Eco Materials将投资1500亿韩元建设半导体材料工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 17:21:54",
+    "uuid": "835eae89-d65d-4367-ae6f-14360cac2323"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "韩国无厂AI芯片设计企业Rebellions的下一代AI NPU芯片REBEL预计2024年发布，专为加速大语言模型和多模态模型设计，采用三星4nm工艺和三星HBM3E 12H内存 ...",
+    "id": "8cHfjpGs59Q",
+    "order": 1724404571054,
+    "createdAt": "2024-08-23T09:16:14.000Z",
+    "publishDate": "2024-08-23T09:16:11.054Z",
+    "title": "搭载三星 HBM3E 12H 内存，韩 Rebellions 有望年内发布下代 NPU",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 17:16:14",
+    "uuid": "95913df0-2d0a-49b8-a317-ad3d9f90b192"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "猎云网" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "四川新源生物电子科技有限公司（新源脑科学）近日完成数千万元Pre-A轮融资，由松禾资本领投 ...",
+    "id": "8cHG39tpc8n",
+    "order": 1724404549171,
+    "createdAt": "2024-08-23T09:15:49.000Z",
+    "publishDate": "2024-08-23T09:15:49.171Z",
+    "title": "新源脑科学完成数千万元Pre-A轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 17:15:49",
+    "uuid": "89f08b4e-9d9d-4e17-923b-e8e171f79233"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "36Kr" }
@@ -414,6 +516,23 @@
     "up": false,
     "date": "2024-08-23 15:25:51",
     "uuid": "d9194d78-e168-4200-9aa3-9044446f3acd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "投资圈" }
+    ],
+    "summary": "亚马逊以8000万美元现金收购了专注于边缘设备上大型人工智能模型技术的芯片制造商Perceive，该公司是上市公司Xperi的子公司 ...",
+    "id": "8cHJxlTgvFE",
+    "order": 1724404979012,
+    "createdAt": "2024-08-23T07:16:20.000Z",
+    "publishDate": "2024-08-23T09:22:59.012Z",
+    "title": "亚马逊8000万美元收购芯片公司Perceive",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 15:16:20",
+    "uuid": "e347703e-a904-496b-9624-dd6b9a2e028f"
   },
   {
     "newsArray": [
