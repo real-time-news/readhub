@@ -1,6 +1,125 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "九号公司作为中国智能两轮电动车领军企业，推出了包括K系列（魔术师）、机械师MMAX2以及E系列在内的多款新品，这些新品在配置、设计以及智能化方面实现了全面提升 ...",
+    "id": "8cGHz6rcqV0",
+    "order": 1724378112992,
+    "createdAt": "2024-08-23T01:55:13.000Z",
+    "publishDate": "2024-08-23T01:55:12.992Z",
+    "title": "九号电动车机械师 MMAX2 发布：首发 7999 元起",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 09:55:13",
+    "uuid": "e28f6e49-e7b9-41ab-833e-585909007c28"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达新发布了一款名为Mistral-NeMo-Minitron 8B的小型语言AI模型，该模型精度高、计算效率高，可在GPU加速的数据中心、云和工作站上运行 ...",
+    "id": "8cH4ZrwiqN5",
+    "order": 1724377906475,
+    "createdAt": "2024-08-23T01:51:47.000Z",
+    "publishDate": "2024-08-23T01:51:46.475Z",
+    "title": "英伟达发布 80 亿参数新 AI 模型，可在 RTX 工作站上部署",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 09:51:47",
+    "uuid": "768a8595-fe83-4055-9b41-313f5177a1f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "日本夏普公司宣布旗下堺显示器产品公司（SDP）已全面停产电视用液晶面板，这是日本失去大型面板生产能力的象征 ...",
+    "id": "8cGG8qCVki6",
+    "order": 1724377781747,
+    "createdAt": "2024-08-23T01:49:41.000Z",
+    "publishDate": "2024-08-23T01:49:41.747Z",
+    "title": "日本唯一电视液晶面板生产公司停产：500员工自愿离职",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 09:49:41",
+    "uuid": "a924f3da-dfa4-4809-a106-00703add3d38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LG显示公司已开发出蓝色磷光OLED面板，该技术能有效提高OLED的能效，减少功耗，增加电池续航时间和提高亮度。公司计划在今年对这一技术进行量产性能评估和商业化审查。",
+    "id": "8cGKqkDuu9c",
+    "order": 1724377778674,
+    "createdAt": "2024-08-23T01:49:39.000Z",
+    "publishDate": "2024-08-23T01:49:38.674Z",
+    "title": "LG显示成功开发出蓝色磷光OLED面板 计划年内进行量产性能评估",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 09:49:39",
+    "uuid": "8f1be19d-d2cd-482b-b17c-e3e1789423cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在2024世界机器人大会上，北京具身智能机器人创新中心的“天工”机器人展示了其最新升级 ...",
+    "id": "8cH7R56o9lV",
+    "order": 1724377583348,
+    "createdAt": "2024-08-23T01:46:23.000Z",
+    "publishDate": "2024-08-23T01:46:23.348Z",
+    "title": "北京自研全尺寸人形机器人“天工”亮相，掌握语音交互抓取能力",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 09:46:23",
+    "uuid": "21e0b2e4-d9a3-4e95-9a7a-5f31d8ec8fde"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "2024年第二季度，全球半导体市场规模达到1499亿美元，同比增长18.3%，环比增长6.5%。主要半导体公司第二季度收入普遍强劲增长，其中内存公司表现尤为突出 ...",
+    "id": "8cFVOez0W7g",
+    "order": 1724377267409,
+    "createdAt": "2024-08-23T01:41:07.000Z",
+    "publishDate": "2024-08-23T01:41:07.409Z",
+    "title": "全球TOP15半导体厂商排名出炉：英特尔滑落第四",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 09:41:07",
+    "uuid": "6b752636-619d-42ed-a517-4c7a82b716d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "界面" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "亚盛医药2024年中期业绩显示，公司实现收入8.24亿元，同比增长477%，主要收入来源为产品销售和对外合作授权。公司实现净利润1.63亿元，首次扭亏为盈。",
+    "id": "8cGS0pIUWlN",
+    "order": 1724376680179,
+    "createdAt": "2024-08-23T01:31:20.000Z",
+    "publishDate": "2024-08-23T01:31:20.179Z",
+    "title": "亚盛医药：上半年收入8.24亿元，同比增长477%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 09:31:20",
+    "uuid": "60ab4a22-3a0a-4aa6-816f-4ef0d6fdb40b"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -112,6 +231,25 @@
     "up": false,
     "date": "2024-08-23 07:42:27",
     "uuid": "28fa33a2-48b5-4fd6-a79f-d65965e0d9fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "券商行业并购重组活跃，西部证券计划并购国融证券，国信证券提出整合万和证券，预示着地方国资系券商牌照整合的开始 ...",
+    "id": "8cFPhQC4ypF",
+    "order": 1724376665098,
+    "createdAt": "2024-08-22T23:31:23.000Z",
+    "publishDate": "2024-08-23T01:31:05.098Z",
+    "title": "地方国资开启内部券商整合，“1+1”塑造增长新引擎",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-23 07:31:23",
+    "uuid": "ac51137f-bd7b-425d-bd58-a6fd9c6231d2"
   },
   {
     "newsArray": [
