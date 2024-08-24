@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "摩尔线程发布了v270.80版本的显卡驱动程序，解决了《黑神话：悟空》DX11模式下的闪退问题，但游戏流畅度仍无法保证 ...",
+    "id": "8cICcfHnrKE",
+    "order": 1724459177317,
+    "createdAt": "2024-08-24T00:26:17.000Z",
+    "publishDate": "2024-08-24T00:26:17.317Z",
+    "title": "摩尔线程内测《黑神话：悟空》专属显卡驱动，支持 MTT S80 流畅运行",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-24 08:26:17",
+    "uuid": "be688d7d-a1f4-414b-828c-54951120d77c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "摩尔线程发布业界首个基于国产GPU的开源语音模型MooER，支持中文和英文语音识别及中译英翻译功能。",
+    "id": "8cHp24U1Trf",
+    "order": 1724457675747,
+    "createdAt": "2024-08-24T00:01:15.000Z",
+    "publishDate": "2024-08-24T00:01:15.747Z",
+    "title": "摩尔线程正式开源音频理解大模型MooER",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-24 08:01:15",
+    "uuid": "0a909d9a-0052-41f7-9c01-5e7733fbbee7"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" },
       { "siteName": "界面" }
@@ -15,6 +49,25 @@
     "up": false,
     "date": "2024-08-24 07:46:06",
     "uuid": "d40f5b00-d888-499c-8cc8-00eeb22075db"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "Odaily" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "OpenAI聘请了原Meta Platforms的生成式人工智能经理Irina Kofman，她将负责OpenAI的战略计划，并向CTO Mira Murati汇报 ...",
+    "id": "8cId3ohrvpw",
+    "order": 1724458250640,
+    "createdAt": "2024-08-23T22:15:51.000Z",
+    "publishDate": "2024-08-24T00:10:50.640Z",
+    "title": "OpenAI聘用扎克伯格旗下Meta的生成式AI高管，负责战略计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-24 06:15:51",
+    "uuid": "f3549309-c845-4527-a20a-99cb752a50f2"
   },
   {
     "newsArray": [
