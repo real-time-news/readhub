@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "TCL科技上半年营业收入802.24亿元，下降5.78%。净利润9.95亿元，同比增长192.28%。",
+    "id": "8cMtKibMA55",
+    "order": 1724673078768,
+    "createdAt": "2024-08-26T11:51:18.000Z",
+    "publishDate": "2024-08-26T11:51:18.768Z",
+    "title": "TCL科技：上半年净利润为9.95亿元，同比增长192.28%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-26 19:51:18",
+    "uuid": "96f94708-be52-454d-96af-d2e1fae6ccf5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "深圳华强股票连续七个交易日涨停，公司提醒投资者注意交易风险，股票价格受宏观环境、行业发展、公司经营及投资者偏好等多重因素影响。",
+    "id": "8cKzYGPQVfK",
+    "order": 1724673063569,
+    "createdAt": "2024-08-26T11:51:03.000Z",
+    "publishDate": "2024-08-26T11:51:03.569Z",
+    "title": "七连板深圳华强：公司基本面近期未发生重大变化",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-26 19:51:03",
+    "uuid": "a93ae005-7cbe-4c8a-836e-016ea00b46f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "自2022年收购推特并更名为X后，马斯克因其一系列争议性决策引发关注，包括裁员、拒绝支付遣散费，以及最近提出的股票期权新条件 ...",
+    "id": "8cKqbtOHPaH",
+    "order": 1724672768782,
+    "createdAt": "2024-08-26T11:46:08.000Z",
+    "publishDate": "2024-08-26T11:46:08.782Z",
+    "title": "马斯克再出奇招：X 员工需证明自身价值才能获得股票",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-26 19:46:08",
+    "uuid": "0f45eb9d-de24-479e-95c4-bf75ad42fdb6"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "财经网" },
       { "siteName": "证券时报网" }
