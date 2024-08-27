@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国加州立法机构通过了一项草案，要求人工智能公司对其训练模型的数据更加透明。该草案现在将提交给州长纽森审批。",
+    "id": "8cPD5hi0F3c",
+    "order": 1724802553980,
+    "createdAt": "2024-08-27T23:49:13.000Z",
+    "publishDate": "2024-08-27T23:49:13.980Z",
+    "title": "人工智能训练数据透明度草案在加州立法机构通过",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-28 07:49:13",
+    "uuid": "5318249e-a977-46f4-adde-06c7786b3688"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "英伟达推出NIM代理蓝图，助力开发人员构建AI应用程序，并计划每月更新以支持生成式AI应用开发，涵盖客户服务、内容生成等多个领域。",
+    "id": "8cOkW3HYjPW",
+    "order": 1724802542897,
+    "createdAt": "2024-08-27T23:49:03.000Z",
+    "publishDate": "2024-08-27T23:49:02.897Z",
+    "title": "英伟达推出NIM代理蓝图，助力开发者打造智能应用程序",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-28 07:49:03",
+    "uuid": "a635e551-b102-4566-aac6-30c2fbe88006"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "DoNews" },
       { "siteName": "界面" }
