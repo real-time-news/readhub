@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "ZAKER" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软将Mono项目移交给WineHQ组织，这是一款开源的.NET框架，支持多种操作系统。微软建议Mono用户和维护者迁移到官方.NET版本 ...",
+    "id": "8cPSrKtAyZf",
+    "order": 1724813704790,
+    "createdAt": "2024-08-28T02:55:05.000Z",
+    "publishDate": "2024-08-28T02:55:04.790Z",
+    "title": "微软向 Wine 团队捐赠 Mono 开源项目",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-28 10:55:05",
+    "uuid": "412a4eed-4b38-404e-af52-d863a5f2ecc8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "品玩" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Cerebras Systems 推出了全球最快的 AI 推理解决方案 Cerebras Inference，其性能是同类基于英伟达 GPU 的解决方案的 20 倍，且价格仅为 GPU 云的 1/100 ...",
+    "id": "8cPX6XNYuw2",
+    "order": 1724813490755,
+    "createdAt": "2024-08-28T02:51:30.000Z",
+    "publishDate": "2024-08-28T02:51:30.755Z",
+    "title": "Cerebras Systems 宣布推出全球最快AI 推理解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-28 10:51:30",
+    "uuid": "3aa1d961-d856-439c-a8a8-13871c4844b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "米哈游旗下游戏《原神》第四次参加科隆游戏展，并将于今年11月20日首次登陆Xbox平台。",
+    "id": "8cOP4MA7iGQ",
+    "order": 1724813488192,
+    "createdAt": "2024-08-28T02:51:28.000Z",
+    "publishDate": "2024-08-28T02:51:28.192Z",
+    "title": "米哈游旗下《原神》将登陆Xbox平台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-28 10:51:28",
+    "uuid": "a48ace6c-74c8-4a2a-8401-af0c73b6dbf6"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "快科技" },
       { "siteName": "C114 通信网" }
