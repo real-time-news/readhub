@@ -1,6 +1,45 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "理想汽车发布二季度财报，营收317亿元人民币，净利润15.0亿元人民币，同比下降44%。预计第三季度交付量145000至155000辆。",
+    "id": "8cPzhOxjVcV",
+    "order": 1724834562932,
+    "createdAt": "2024-08-28T08:42:17.000Z",
+    "publishDate": "2024-08-28T08:42:42.932Z",
+    "title": "理想公布二季度财报：营收317亿元，净利润降44%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-28 16:42:17",
+    "uuid": "dbb790b8-32b9-41d0-900c-365b126ec854"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "猎云网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "美团2024年第二季度财报显示，营收达822.5亿元，同比增长21%，超出市场预期。",
+    "id": "8cPzPNfjYMR",
+    "order": 1724834476005,
+    "createdAt": "2024-08-28T08:40:58.000Z",
+    "publishDate": "2024-08-28T08:41:16.005Z",
+    "title": "美团：第二季度营收822.5亿元，同比增长21%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-28 16:40:58",
+    "uuid": "2b2ec4ae-0d57-4d24-8774-5c8c481bf974"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
