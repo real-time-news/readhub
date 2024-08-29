@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "海通证券2024年上半年营业收入为88.65亿元，同比下降47.76%。净利润为9.53亿元，同比下降75.11% ...",
+    "id": "8cRtcLZuHNd",
+    "order": 1724933582011,
+    "createdAt": "2024-08-29T12:13:02.000Z",
+    "publishDate": "2024-08-29T12:13:02.011Z",
+    "title": "海通证券：2024上半年净利润同比下降75.11% 拟10派0.3元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 20:13:02",
+    "uuid": "0434c164-1775-47f7-9d49-37fe8d757004"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "Odaily星球日报讯 花旗将苹果(AAPL.O)列为 2025 年首选人工智能股票，超过英伟达(NVDA.O)和 Arista 网络公司。",
+    "id": "8cRrSPStzuK",
+    "order": 1724933579624,
+    "createdAt": "2024-08-29T12:13:00.000Z",
+    "publishDate": "2024-08-29T12:12:59.624Z",
+    "title": "花旗将苹果列为2025年首选人工智能股票",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 20:13:00",
+    "uuid": "2cbd2884-01ff-4e25-a7cf-dc0b657fc095"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英特尔与中国石油合作，推进国内液冷散热方案的应用，满足本土供应链需求。双方共同研发了符合第四代英特尔至强可扩展处理器架构的本土浸没式液冷方案DC-SCL，用于可持续绿色数据中心 ...",
+    "id": "8cRmp1CbWgd",
+    "order": 1724933564001,
+    "createdAt": "2024-08-29T12:12:45.000Z",
+    "publishDate": "2024-08-29T12:12:44.001Z",
+    "title": "英特尔与中国石油合作，推出服务器浸没液冷方案 DC-SCL",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 20:12:45",
+    "uuid": "ade7bf08-a13c-40c6-bfec-c05cc81e425d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "印孚瑟斯公司宣布与英伟达扩大合作，共同研发以人工智能为核心，旨在提升客户体验、简化电信网络运营和加速服务交付的解决方案。",
+    "id": "8cRstqVjZk0",
+    "order": 1724933562633,
+    "createdAt": "2024-08-29T12:12:42.000Z",
+    "publishDate": "2024-08-29T12:12:42.633Z",
+    "title": "印度IT公司印孚瑟斯扩大与英伟达的合作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 20:12:42",
+    "uuid": "af179a17-de4d-45bb-87a5-00145c56914c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国中冶2024年半年度报告显示，上半年公司营业收入2988.42亿元，下降10.65%。净利润41.5亿元，同比降低42.5%。",
+    "id": "8cRroxcz9zM",
+    "order": 1724933561221,
+    "createdAt": "2024-08-29T12:12:41.000Z",
+    "publishDate": "2024-08-29T12:12:41.221Z",
+    "title": "中国中冶：上半年净利润41.5亿元 同比下降42.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 20:12:41",
+    "uuid": "d1c5b1b2-560b-481b-9bbe-9b49a5abd192"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "广汇汽车，曾为国内最大的汽车经销商集团之一，现已从股市摘牌退市。公司市值从巅峰时期的1000亿元以上，跌至仅剩64.71亿元 ...",
+    "id": "8cRmT2pgLVm",
+    "order": 1724933506346,
+    "createdAt": "2024-08-29T12:11:46.000Z",
+    "publishDate": "2024-08-29T12:11:46.346Z",
+    "title": "市值仅剩巅峰期零头：国内最大汽车经销商摘牌退市",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 20:11:46",
+    "uuid": "1aac2af2-f770-40b7-a32e-96e2a584d1fe"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "财联社" },
       { "siteName": "财联社" }
