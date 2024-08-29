@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "特斯拉曾请求加拿大降低对中国产特斯拉的关税，但遭到拒绝。此前，加拿大宣布对我国产电动汽车实施100%的关税。",
+    "id": "8cRUaIpwXrx",
+    "order": 1724912726504,
+    "createdAt": "2024-08-29T06:25:26.000Z",
+    "publishDate": "2024-08-29T06:25:26.504Z",
+    "title": "媒体称特斯拉曾要求加方降低中国产特斯拉关税",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 14:25:26",
+    "uuid": "088d3f75-9aae-4ba4-a230-f02b9a691e8c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "上海网之易网络科技发展有限公司与暴雪娱乐有限公司因计算机软件著作权许可使用合同纠纷，已被中国裁判文书网公示新增民事一审裁定书信息 ...",
+    "id": "8cRJtAPV5Xj",
+    "order": 1724912341547,
+    "createdAt": "2024-08-29T06:19:01.000Z",
+    "publishDate": "2024-08-29T06:19:01.547Z",
+    "title": "网易诉暴雪娱乐纠纷新进展：获法院裁定查封暴雪1.39亿财产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 14:19:01",
+    "uuid": "d0dd5a8c-2df1-4730-b687-e58ed5f36ddf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "我国已建成全国卫星导航定位基准站一张网，由3300余座基准站构成，实现全国基准站资源统一汇集存储、共享交换 ...",
+    "id": "8cRS57fsJoE",
+    "order": 1724912151288,
+    "createdAt": "2024-08-29T06:15:52.000Z",
+    "publishDate": "2024-08-29T06:15:51.288Z",
+    "title": "自然资源部：我国已建成卫星导航定位基准站一张网",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 14:15:52",
+    "uuid": "93406103-abbc-4e7f-a7e4-5d1f378f21bf"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -134,6 +188,24 @@
     "up": false,
     "date": "2024-08-29 12:51:11",
     "uuid": "3086d641-e37b-46ab-b370-ffb46fcc18b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "优必选（09880）发布2024年中期业绩，营业收入为4.87亿元，同比增长86.58%，研发开支为2.28亿元，同比增长1.4% ...",
+    "id": "8cR21woo1kh",
+    "order": 1724911960458,
+    "createdAt": "2024-08-29T04:24:58.000Z",
+    "publishDate": "2024-08-29T06:12:40.458Z",
+    "title": "优必选发布中期业绩 营业收入4.87亿元同比增长86.58%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 12:24:58",
+    "uuid": "87b3def0-2e72-436a-81f7-c6f142205886"
   },
   {
     "newsArray": [
@@ -1115,5 +1187,26 @@
     "up": false,
     "date": "2024-08-29 00:51:08",
     "uuid": "e8ce9231-a94c-4fb0-8640-3435b2cbeacb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "法布财经" }
+    ],
+    "summary": "美国劳工部发言人称，8月21日就业数据因技术故障推迟发布，劳工统计局已采取新措施保障数据访问平等。",
+    "id": "8cQNzu1nFkB",
+    "order": 1724912488002,
+    "createdAt": "2024-08-28T16:01:07.000Z",
+    "publishDate": "2024-08-29T06:21:28.002Z",
+    "title": "美国劳工部承认8.21就业数据发布失误",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 00:01:07",
+    "uuid": "b6d92d8a-3ade-4ab9-8994-45c496dcf1bf"
   }
 ]
