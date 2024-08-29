@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中芯国际上半年营业收入同比增长23.2%，净利润同比下降45.1%。",
+    "id": "8cRhkpLcOM4",
+    "order": 1724923889661,
+    "createdAt": "2024-08-29T09:31:30.000Z",
+    "publishDate": "2024-08-29T09:31:29.661Z",
+    "title": "中芯国际：上半年净利润16.46亿元，同比下降45.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 17:31:30",
+    "uuid": "0fd53074-bf2d-4d95-92df-ee78140a144b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "2024年7月世界汽车销量同比下降1%，环比下降8%，中国车企占世界市场份额31%。",
+    "id": "8cRb1uuMYcV",
+    "order": 1724923889759,
+    "createdAt": "2024-08-29T09:31:30.000Z",
+    "publishDate": "2024-08-29T09:31:29.759Z",
+    "title": "乘联会崔东树：7月世界汽车销量同比下降1% 中国车企占世界份额31%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 17:31:30",
+    "uuid": "0f580ba9-99b3-4352-a694-8e8fedcab9b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "创业邦" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "苏州速通半导体科技有限公司（速通半导体）完成新一轮数亿元人民币的战略融资，投资方包括泰凌微电子、SV Investment和道翼资本等 ...",
+    "id": "8cPUIIiAxCf",
+    "order": 1724923883594,
+    "createdAt": "2024-08-29T09:31:24.000Z",
+    "publishDate": "2024-08-29T09:31:23.594Z",
+    "title": "苏州速通半导体完成新一轮数亿元人民币战略投资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-29 17:31:24",
+    "uuid": "d05324c0-56a9-4c9e-8666-87ffbb7639b9"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
