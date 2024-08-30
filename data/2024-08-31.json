@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "高盛集团计划在未来几周内全球裁员超过1300人，作为低绩效员工淘汰计划的一部分，此次裁员预计将占高盛2024年员工总数的3%至4%。大部分裁员已经在今年早些时候进行 ...",
+    "id": "8cU2XKvBQSz",
+    "order": 1725060062538,
+    "createdAt": "2024-08-30T23:21:04.000Z",
+    "publishDate": "2024-08-30T23:21:02.538Z",
+    "title": "高盛(GS.US)计划裁员超千人 占24年员工总数3%至4%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-31 07:21:04",
+    "uuid": "bffba25f-3cf8-4dcd-8c61-5fe0ee4d9962"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉计划在华纳兄弟好莱坞工作室推出Robotaxi，将于10月10日在加州伯班克展示专门制造的Robotaxi车辆。",
+    "id": "8cU4fb5aujI",
+    "order": 1725059750443,
+    "createdAt": "2024-08-30T22:41:18.000Z",
+    "publishDate": "2024-08-30T23:15:50.443Z",
+    "title": "特斯拉将在华纳兄弟好莱坞工作室推出Robotaxi",
+    "type": "topic",
+    "up": false,
+    "date": "2024-08-31 06:41:18",
+    "uuid": "52f8d717-68e1-4160-a5dc-5cae32b0418b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "澎湃新闻" },
       { "siteName": "新浪科技" },
