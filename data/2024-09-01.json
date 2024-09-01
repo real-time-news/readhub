@@ -1,6 +1,99 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "小米SU7在2024年8月交付量突破10000台，已连续3个月实现破万交付，预计11月将提前完成全年10万台交付目标。",
+    "id": "8cVx8cbj6lU",
+    "order": 1725156663995,
+    "createdAt": "2024-09-01T02:11:03.000Z",
+    "publishDate": "2024-09-01T02:11:03.995Z",
+    "title": "小米汽车：8月小米SU7交付量超1万台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-01 10:11:03",
+    "uuid": "b3e12c3a-5ae9-467a-a8a4-6120d4fef900"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "福特汽车公司将召回90,736辆2021-2022款车辆，包括野马、F-150等车型，涉及2.7升或3.0升Nano EcoBoost发动机 ...",
+    "id": "8cV6H8isPBh",
+    "order": 1725155682515,
+    "createdAt": "2024-09-01T01:41:11.000Z",
+    "publishDate": "2024-09-01T01:54:42.515Z",
+    "title": "因发动机故障，福特在美召回逾9万辆汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-01 09:41:11",
+    "uuid": "10516093-828a-435d-a4a6-8e05ef652791"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "零跑汽车公布2024年8月交付量，达到30305台，同比增长113%，环比增长37%，成为第三家月销突破3万台的造车新势力。零跑C16交付量超8000台，SUV家族占比超72% ...",
+    "id": "8cW7J0xafxx",
+    "order": 1725154285050,
+    "createdAt": "2024-09-01T01:31:26.000Z",
+    "publishDate": "2024-09-01T01:31:25.050Z",
+    "title": "零跑汽车 2024 年 8 月交付量首次突破 3 万台：同比增长超 113%，环比增长超 37%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-01 09:31:26",
+    "uuid": "919c366a-5234-4aca-ae84-a8f8e39e2a7f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "永辉超市全国首家自主调改的学习胖东来门店——西安中贸广场店正式试营业，首日销售额达151.43万元，客流量超1.4万人 ...",
+    "id": "8cVyx0bQ8sH",
+    "order": 1725153518977,
+    "createdAt": "2024-09-01T01:16:07.000Z",
+    "publishDate": "2024-09-01T01:18:38.977Z",
+    "title": "永辉超市首家自主调改店试营业：首日销售额151.43万，客流量超1.4万人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-01 09:16:07",
+    "uuid": "83eb893b-a8db-4e0c-8391-b172fdf136a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "地方国资机构成为易方达纳斯达克100ETF联接基金的最大场内份额持有人，并已连续持有四年，该基金场内价格最近四年涨幅高达99% ...",
+    "id": "8cUtPgubbKq",
+    "order": 1725156958659,
+    "createdAt": "2024-09-01T00:51:19.000Z",
+    "publishDate": "2024-09-01T02:15:58.659Z",
+    "title": "地方国资场内买入美股ETF，四年大赚99%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-01 08:51:19",
+    "uuid": "59262f14-4d32-49b3-87ab-cc5114abd088"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -49,6 +142,24 @@
     "up": false,
     "date": "2024-09-01 08:26:10",
     "uuid": "e7f6bf59-3323-4105-9b60-d19aa1a998b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2024年8月，中国百城二手住宅平均价格环比下跌0.71%，同比跌幅为6.89%，已连续28个月环比下跌。而百城新建住宅平均价格环比上涨0.11%，同比上涨1.76% ...",
+    "id": "8cW152drVji",
+    "order": 1725152444951,
+    "createdAt": "2024-09-01T00:21:15.000Z",
+    "publishDate": "2024-09-01T01:00:44.951Z",
+    "title": "机构：8月百城二手房价格继续下行 新建住宅价格同比上涨1.76%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-01 08:21:15",
+    "uuid": "752ace0b-7f2c-43d1-81b9-9201188f7c33"
   },
   {
     "newsArray": [
