@@ -1,6 +1,186 @@
 [
   {
     "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "台积电计划于九月启动最新一环的CyberShuttle服务，即“晶圆共享”计划，该计划旨在合并不同客户的芯片设计到单一晶圆上，共同承担制造成本，加速产品试制和验证流程 ...",
+    "id": "8cWnJjYOYnr",
+    "order": 1725243205443,
+    "createdAt": "2024-09-02T02:13:25.000Z",
+    "publishDate": "2024-09-02T02:13:25.443Z",
+    "title": "苹果首发台积电2nm工艺 明年实现量产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:13:25",
+    "uuid": "232dbdc7-9797-47d1-864e-e3a325cfcf4e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "中国移动智算中心（哈尔滨）已建设完成并投入使用，拥有100%国产化AI芯片，并探索了1.8万张智算卡的单集群部署规模上限，提供6.9EFLOPS的智能算力 ...",
+    "id": "8cUwdnZWou1",
+    "order": 1725243080199,
+    "createdAt": "2024-09-02T02:11:20.000Z",
+    "publishDate": "2024-09-02T02:11:20.199Z",
+    "title": "全球运营商最大单集群智算中心在哈尔滨建成投产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:11:20",
+    "uuid": "023c7009-f60e-4a58-965e-aba14bef57ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "“无问芯穹”公司近日完成A轮融资，金额达近5亿元，创下国内AI Infra层创业公司单笔融资最高记录 ...",
+    "id": "8cXnvh7WEal",
+    "order": 1725242750147,
+    "createdAt": "2024-09-02T02:05:50.000Z",
+    "publishDate": "2024-09-02T02:05:50.147Z",
+    "title": "“无问芯穹”完成近5亿元A轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:05:50",
+    "uuid": "e26f1712-2cc1-4212-a83c-17842fce5ff7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "GoPro公司宣布收购智能头盔品牌Forcite，创始人Nicholas Woodman表示非常看好头盔市场，并计划推出自有品牌的智能头盔系列 ...",
+    "id": "8cUWGRb9wN9",
+    "order": 1725242566117,
+    "createdAt": "2024-09-02T02:02:46.000Z",
+    "publishDate": "2024-09-02T02:02:46.117Z",
+    "title": "GoPro收购智能头盔品牌Forcite Helmet Systems",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:02:46",
+    "uuid": "48945e11-9751-4b00-8184-fa8b6648210a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为常务董事余承东宣布，鸿蒙智行旗下高端SUV问界M9五座版将于9月10日发布。新车取消第三排座椅，以提供更大的第二排空间 ...",
+    "id": "8cXnUZ02Dzw",
+    "order": 1725242561146,
+    "createdAt": "2024-09-02T02:02:41.000Z",
+    "publishDate": "2024-09-02T02:02:41.146Z",
+    "title": "余承东官宣：问界M9五座版将于9月10日发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:02:41",
+    "uuid": "b0b75b1d-89d8-46b8-a04b-8cbb3b5e658e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "8月份中国物流业景气指数为51.5%，在扩张区间内环比回升0.5个百分点。随着政策落实和产业链供应链加速联动，物流业务总量和新订单增速加快，物流业景气水平进一步提升 ...",
+    "id": "8cXlhbzs4BR",
+    "order": 1725242542578,
+    "createdAt": "2024-09-02T02:02:22.000Z",
+    "publishDate": "2024-09-02T02:02:22.578Z",
+    "title": "8月份中国物流业景气指数为51.5% 在扩张区间内有所回升",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:02:22",
+    "uuid": "77e713ef-7a56-4989-8444-159588c50b75"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财新网" }
+    ],
+    "summary": "8月中国制造业景气度止跌回升，供需同步扩张但幅度有限。8月财新中国制造业PMI为50.4，较7月回升0.6个百分点，重回荣枯线以上 ...",
+    "id": "8cXomKXCHvq",
+    "order": 1725241927731,
+    "createdAt": "2024-09-02T01:52:07.000Z",
+    "publishDate": "2024-09-02T01:52:07.731Z",
+    "title": "中国8月财新制造业PMI 50.4，前值49.8",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 09:52:07",
+    "uuid": "ab074681-93c3-4a98-92a1-b20aa2c3be74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "今日股市普遍下跌，创业板指跌幅超过1%，沪指和深成指分别下跌0.35%和0.73%。房地产、有色金属、白酒和证券等板块领跌，沪深京三市近3300只个股下跌。",
+    "id": "8cXoD1isIme",
+    "order": 1725241741185,
+    "createdAt": "2024-09-02T01:49:01.000Z",
+    "publishDate": "2024-09-02T01:49:01.185Z",
+    "title": "创业板指跌逾1% 下跌个股近3300只",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 09:49:01",
+    "uuid": "77d76d00-7a6c-427c-bdf2-9cb0a44396e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "华为将于9月10日14:30举办品牌盛典及鸿蒙智行新品发布会。",
+    "id": "8cXnTZOECbY",
+    "order": 1725241597744,
+    "createdAt": "2024-09-02T01:46:38.000Z",
+    "publishDate": "2024-09-02T01:46:37.744Z",
+    "title": "华为将于9月10日举办新品发布会",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 09:46:38",
+    "uuid": "fad2116b-01b4-42b5-8f9e-0c675754a2d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财新网" }
+    ],
+    "summary": "9月2日A股市场三大指数集体低开，上证指数、深证成指和创业板指分别下跌0.35%、0.2%和0.19%，北证50微跌0.06% ...",
+    "id": "8cXm3YUPi2Y",
+    "order": 1725241242921,
+    "createdAt": "2024-09-02T01:31:11.000Z",
+    "publishDate": "2024-09-02T01:40:42.921Z",
+    "title": "A股开盘：三大指数集体低开，沪指跌0.35%，消费电子板块持续活跃",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 09:31:11",
+    "uuid": "7831457a-69c1-430b-9eae-063f76435397"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
       { "siteName": "IT 之家" },
