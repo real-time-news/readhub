@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "台湾地区将建设首个超大规模AI数据中心，由Zettabyte公司携手纬创资通共同打造。",
+    "id": "8cXqLXg0hbe",
+    "order": 1725247016484,
+    "createdAt": "2024-09-02T03:16:56.000Z",
+    "publishDate": "2024-09-02T03:16:56.484Z",
+    "title": "Zettabyte与纬创将共建台湾首个超大规模AI数据中心",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 11:16:56",
+    "uuid": "e3e6c231-aa56-44f4-b353-d248b4c053bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "Redmi 14C在越南发布，搭载6.88英寸屏幕和Helio G81 Ultra处理器，价格119美元起 ...",
+    "id": "8cWH9GZBrvg",
+    "order": 1725246795721,
+    "createdAt": "2024-09-02T03:13:15.000Z",
+    "publishDate": "2024-09-02T03:13:15.721Z",
+    "title": "早报：Redmi 14C正式发布 理想8月交付新车48122辆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 11:13:15",
+    "uuid": "3124e253-053f-4752-ae46-18a235eb1ee8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "广东省消费者委员会针对在线旅游平台酒店预订的退订规则开展了调查，发现超过四成的平台酒店预订后不可取消，主要集中在中高端酒店，这加重了消费者的责任 ...",
+    "id": "8cWmRnW4MdV",
+    "order": 1725246746146,
+    "createdAt": "2024-09-02T03:12:26.000Z",
+    "publishDate": "2024-09-02T03:12:26.146Z",
+    "title": "超四成酒店预订后不可取消，粤消委会约谈去哪儿等平台整改",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 11:12:26",
+    "uuid": "1fb47f47-9c07-436f-a708-30c288ff4df8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软公司副总裁Vik Singh指出，当前生成式AI缺乏在无法确定答案准确性时主动寻求帮助的能力 ...",
+    "id": "8cXpe9Vp1Yo",
+    "order": 1725246733659,
+    "createdAt": "2024-09-02T03:12:14.000Z",
+    "publishDate": "2024-09-02T03:12:13.659Z",
+    "title": "微软副总裁 Vik Singh：AI 聊天机器人需“学会求助”而非“制造幻觉”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 11:12:14",
+    "uuid": "8424cb81-8389-489b-9b89-ab24031f8bda"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "IT 之家" },
       { "siteName": "财联社" },
@@ -208,6 +276,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "雷锋网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "闲鱼推出“个人卖家流量保障计划”，通过新增服务标签、个性化卖点标签和设立“个人闲置”新入口来提升个人卖家曝光度 ...",
+    "id": "8cWUk4Ckmay",
+    "order": 1725246577658,
+    "createdAt": "2024-09-02T02:09:56.000Z",
+    "publishDate": "2024-09-02T03:09:37.658Z",
+    "title": "闲鱼发布“个人卖家流量保障计划”，设置个人闲置入口",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:09:56",
+    "uuid": "7227ad6a-c585-4a1e-bd7e-1bc696237efa"
+  },
+  {
+    "newsArray": [
       { "siteName": "机器之心" },
       { "siteName": "36Kr" },
       { "siteName": "36Kr" }
@@ -308,6 +394,24 @@
     "up": false,
     "date": "2024-09-02 09:52:07",
     "uuid": "ab074681-93c3-4a98-92a1-b20aa2c3be74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果和OpenAI已向台积电预订2026年的A16芯片。",
+    "id": "8cXkUouRDGH",
+    "order": 1725246731727,
+    "createdAt": "2024-09-02T01:52:02.000Z",
+    "publishDate": "2024-09-02T03:12:11.727Z",
+    "title": "苹果、OpenAI据悉向台积电订购A16芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 09:52:02",
+    "uuid": "c658f634-9bbe-42e2-a9dc-6b16005d997e"
   },
   {
     "newsArray": [
@@ -510,6 +614,24 @@
     "up": false,
     "date": "2024-09-02 08:11:44",
     "uuid": "781f44fd-9d29-4d20-85d3-1b0caf03ff28"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "今年上半年，申万行业分类下A股36家钢铁上市公司营业收入和归母净利润同比均出现下滑，整体净利润率仅为0.22%，其中14家公司业绩亏损，22家公司中只有7家净利润正增长 ...",
+    "id": "8cXDlScp3Hm",
+    "order": 1725246070523,
+    "createdAt": "2024-09-01T23:41:17.000Z",
+    "publishDate": "2024-09-02T03:01:10.523Z",
+    "title": "钢铁行业或仍处“磨底期” 上市公司积极优化产品结构",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 07:41:17",
+    "uuid": "5625c10e-09de-495c-a89c-d8f2f6377ce0"
   },
   {
     "newsArray": [
