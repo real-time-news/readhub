@@ -1,6 +1,161 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "9月2日，物流股集体上涨，申通快递涨停，多家公司跟涨。",
+    "id": "8cXrmEpVBca",
+    "order": 1725244900629,
+    "createdAt": "2024-09-02T02:41:40.000Z",
+    "publishDate": "2024-09-02T02:41:40.629Z",
+    "title": "物流股表现活跃，申通快递涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:41:40",
+    "uuid": "fe925ae0-212a-4dcc-9932-7689f2dbd8e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "深圳芯源新材料有限公司近日发生工商变更，比亚迪成为新增股东，注册资本提升至165.92万人民币。同时，公司新增陈鼎豪和郝馨儿为董事 ...",
+    "id": "8cXqUGEVXJd",
+    "order": 1725244896055,
+    "createdAt": "2024-09-02T02:41:36.000Z",
+    "publishDate": "2024-09-02T02:41:36.055Z",
+    "title": "比亚迪入股半导体封装材料研发商芯源新材料",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:41:36",
+    "uuid": "b13bcbc1-8db7-4748-aa76-1037eba7d6ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2024年8月，领克品牌全系销量达到22528台，同比增长超20%，其中新能源车型销量占比超74%，1-8月总销量169800台，同比增长约44%。",
+    "id": "8cWtkGGUMtE",
+    "order": 1725244887959,
+    "createdAt": "2024-09-02T02:41:28.000Z",
+    "publishDate": "2024-09-02T02:41:27.959Z",
+    "title": "领克8月销量22528台，同比增长超20%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:41:28",
+    "uuid": "67b9b3b1-d9a0-4bd4-a1d8-bfa4ff63123f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英特尔Panther Lake移动端处理器部分规格曝光，包括U、H系列，其中U系列配备4Xe核心规模核显，H系列配备12Xe或4Xe核心规模核显，部分型号无核显 ...",
+    "id": "8cXnURE3L8N",
+    "order": 1725244707561,
+    "createdAt": "2024-09-02T02:38:27.000Z",
+    "publishDate": "2024-09-02T02:38:27.561Z",
+    "title": "英特尔 Panther Lake-H 处理器无核显型号现身 Coreboot 代码",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:38:27",
+    "uuid": "c962dbf9-4fe4-4278-a260-35ef05a22a76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ZAKER" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "长安汽车推出的Lumin清悦款微型电动车正式上市，售价3.79万元，同时提供国家以旧换新补贴20000元或二手车置换补贴最高6000元的优惠（二选一） ...",
+    "id": "8cWrb5YDD5l",
+    "order": 1725244705017,
+    "createdAt": "2024-09-02T02:38:25.000Z",
+    "publishDate": "2024-09-02T02:38:25.017Z",
+    "title": "长安 Lumin 清悦款微型车上市，售 3.79 万元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:38:25",
+    "uuid": "32ab14d0-625b-4405-9525-043e38964d29"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "恒生科技指数和恒指跌幅均超2%，蔚来、比亚迪电子等个股跌超6%，农夫山泉、理想汽车等跌超4%。",
+    "id": "8cXn49Engfw",
+    "order": 1725244703462,
+    "createdAt": "2024-09-02T02:38:24.000Z",
+    "publishDate": "2024-09-02T02:38:23.462Z",
+    "title": "恒生科技指数跌幅扩大至2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:38:24",
+    "uuid": "9c3d1f5c-b9f3-47dd-8f2a-08b79b0017e0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日本公平交易委员会计划于明年4月新设一个部门，专门负责管制和调查大型IT企业。新部门将执行《智能手机特定软件竞争促进法》，限制IT巨头在智能手机App市场的垄断行为，并加强与其他国家反垄断部门的协作 ...",
+    "id": "8cX2JSMAeGm",
+    "order": 1725244645002,
+    "createdAt": "2024-09-02T02:37:25.000Z",
+    "publishDate": "2024-09-02T02:37:25.002Z",
+    "title": "日本拟设立 IT 巨头管制部门，并与海外反垄断机构加强合作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:37:25",
+    "uuid": "7d6f0b16-4724-4abf-a3f5-31e3e9339276"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "9月2日开盘，深圳华强等市场焦点股强势高开，科森科技等折叠屏概念股以及奋达科技等智能穿戴概念股涨停，并购重组的莫高股份平开，数据要素概念股广西广电低开，光伏+机器人概念的宝馨科技高开，医药股通化金马高开，华为产业链的宁水集团低开，力源信息高开。",
+    "id": "8cXnUoYHar7",
+    "order": 1725243671537,
+    "createdAt": "2024-09-02T02:21:11.000Z",
+    "publishDate": "2024-09-02T02:21:11.537Z",
+    "title": "竞价看龙头：科森科技一字涨停晋级6连板",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:21:11",
+    "uuid": "21d1ac20-9dd3-4ed8-b7cd-2ce559bfb226"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "格力电器近日积极布局多元化战略，申请注册了包括“双面女王”、“格力御龄魔杖”及“格力双面女王”在内的多枚商标，广泛覆盖医疗器械与科学仪器分类 ...",
+    "id": "8cXngm547Mp",
+    "order": 1725245161884,
+    "createdAt": "2024-09-02T02:19:10.000Z",
+    "publishDate": "2024-09-02T02:46:01.884Z",
+    "title": "格力申请双面女王商标：曾推出9800元美容仪",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:19:10",
+    "uuid": "137fe167-7eec-428d-a1b4-81bec009d5d9"
+  },
+  {
+    "newsArray": [
       { "siteName": "ZAKER" },
       { "siteName": "搜狐科技" },
       { "siteName": "中关村在线" }
@@ -100,6 +255,24 @@
     "up": false,
     "date": "2024-09-02 10:02:22",
     "uuid": "77e713ef-7a56-4989-8444-159588c50b75"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "高盛通常每年根据市场状况和公司财务前景，裁减员工总数的2%至7%。",
+    "id": "8cXNP7cO9QW",
+    "order": 1725243670878,
+    "createdAt": "2024-09-02T02:02:18.000Z",
+    "publishDate": "2024-09-02T02:21:10.878Z",
+    "title": "知情人士称高盛计划全球裁员超1300人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-02 10:02:18",
+    "uuid": "00059149-b389-4134-98f6-9909dbb80f9f"
   },
   {
     "newsArray": [
