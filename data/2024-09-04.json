@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "百度文心一言App推送一周年升级，更名为“文小言”，同时宣布9月内文心4.0大模型将免费使用。",
+    "id": "8cay0zFKWYh",
+    "order": 1725407779849,
+    "createdAt": "2024-09-03T23:56:19.000Z",
+    "publishDate": "2024-09-03T23:56:19.849Z",
+    "title": "百度文心一言App更名为“文小言”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 07:56:19",
+    "uuid": "ff444a4e-e1ac-48a8-8e05-eea22f8bb4b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenAI计划在美国投资数百亿美元建设人工智能基础设施，包括数据中心、能源设施和半导体制造 ...",
+    "id": "8cazmtNIex3",
+    "order": 1725407544709,
+    "createdAt": "2024-09-03T23:52:25.000Z",
+    "publishDate": "2024-09-03T23:52:24.709Z",
+    "title": "OpenAI的基础设施计划据悉考虑在美国投资数百亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 07:52:25",
+    "uuid": "dc1fbec9-c4f2-43be-83c5-6115fdd30b19"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "英特尔发布Ultra 200V系列芯片，共9款，旨在争夺AI PC市场，其核心优势在于支持传统x86架构，并强调性能优于竞品高通。首批搭载此芯片的笔记本电脑将于9月24日上线。",
+    "id": "8caoZuELHCQ",
+    "order": 1725407525456,
+    "createdAt": "2024-09-03T23:43:21.000Z",
+    "publishDate": "2024-09-03T23:52:05.456Z",
+    "title": "英特尔推出新一代AI PC芯片，官方宣称全面压过高通旗舰一头",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 07:43:21",
+    "uuid": "2e17fcf7-fd75-42d3-bb71-90f93b7a6df6"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "证券时报网" },
       { "siteName": "财联社" }
