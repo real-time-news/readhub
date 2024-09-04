@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "法布财经" }
+    ],
+    "summary": "加拿大央行按预期连续第三次降息25个基点，将利率降至4.25%。",
+    "id": "8cZY8aGucjQ",
+    "order": 1725457913937,
+    "createdAt": "2024-09-04T13:51:54.000Z",
+    "publishDate": "2024-09-04T13:51:53.937Z",
+    "title": "加拿大央行降息25个基点，为连续第三次降息",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 21:51:54",
+    "uuid": "fe3a5966-80c7-4dd4-921a-f4e5e2a95e77"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软宣布将于9月16日23点举办线上活动，活动将由CEO Satya Nadella和AI at Work副总裁Jared Spataro主持，并在领英直播 ...",
+    "id": "8cbrkYZLAUZ",
+    "order": 1725457911306,
+    "createdAt": "2024-09-04T13:51:53.000Z",
+    "publishDate": "2024-09-04T13:51:51.306Z",
+    "title": "微软 9 月 16 日举办专场活动，聚焦Copilot 下一阶段",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 21:51:53",
+    "uuid": "1283e16c-1b7f-4f1d-9d47-bb00c470b992"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
