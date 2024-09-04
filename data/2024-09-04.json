@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "SK海力士社长金柱善宣布，本月底将开始量产12层HBM3E，并且公司将与台积电合作生产HBM4。",
+    "id": "8cbosMBZjmK",
+    "order": 1725451929840,
+    "createdAt": "2024-09-04T12:12:10.000Z",
+    "publishDate": "2024-09-04T12:12:09.840Z",
+    "title": "SK海力士预计9月底量产12层HBM3E",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 20:12:10",
+    "uuid": "f5b43f7e-f2eb-4797-8fef-7ee1730a0a86"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "喜临门公司计划使用1亿元至2亿元资金，通过集中竞价交易方式回购股份，回购价格不超过22元/股。回购的股份将用于减少公司注册资本。回购期限为股东大会审议通过回购预案起12个月内 ...",
+    "id": "8cbnSQzRRJ4",
+    "order": 1725451918071,
+    "createdAt": "2024-09-04T12:11:59.000Z",
+    "publishDate": "2024-09-04T12:11:58.071Z",
+    "title": "喜临门：拟以1亿元至2亿元回购股份用于减少注册资本",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 20:11:59",
+    "uuid": "ae01f264-0155-4c0f-aa35-7e1ebc9477c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "三星Z Fold6特别版（国内称W25）将于9月开始组装生产，主要面向中国市场销售。新机计划于10月3日至10月9日发布 ...",
+    "id": "8cbO5bJYR1G",
+    "order": 1725451643568,
+    "createdAt": "2024-09-04T12:07:24.000Z",
+    "publishDate": "2024-09-04T12:07:23.568Z",
+    "title": "曝三星W25折叠屏将于10月上旬发布 有望配备2亿主摄",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 20:07:24",
+    "uuid": "efb59a12-9009-404a-9cf4-3c7e88d40be7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉将在2024外滩大会展示其最新科技，包括赛博越野旅行车和Optimus人形机器人 ...",
+    "id": "8cbqJkjQKbA",
+    "order": 1725451286919,
+    "createdAt": "2024-09-04T12:01:27.000Z",
+    "publishDate": "2024-09-04T12:01:26.919Z",
+    "title": "特斯拉将携最新科技亮相2024外滩大会 明年开始限量生产人形机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 20:01:27",
+    "uuid": "4d0833b6-088a-4b00-8ccc-c9ab5454ef0d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "瑞典Enerpoly公司位于斯德哥尔摩北部的锌离子电池巨型工厂已正式开业，是世界上第一家大规模使用锌离子电池技术的制造工厂 ...",
+    "id": "8cbP9O40R1k",
+    "order": 1725451256763,
+    "createdAt": "2024-09-04T12:00:56.000Z",
+    "publishDate": "2024-09-04T12:00:56.763Z",
+    "title": "全球首个锌离子电池巨型工厂投入运营：占地 6500 平方米，设计年产能 100 MWh",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 20:00:56",
+    "uuid": "a10a5fa6-ce1e-408d-ba4c-2f2c4ae343be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "投资圈" },
+      { "siteName": "猎云网" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "蔡浩宇卸任米哈游法人和董事长后，带领团队创立了位于新加坡的AGI创业公司Anuttacon，专注于软件和应用程序开发 ...",
+    "id": "8cbcNWoDq9w",
+    "order": 1725451259384,
+    "createdAt": "2024-09-04T11:42:38.000Z",
+    "publishDate": "2024-09-04T12:00:59.384Z",
+    "title": "米哈游蔡浩宇再创业：主攻AGI，曾称AIGC已彻底改变游戏开发方式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-04 19:42:38",
+    "uuid": "dbe56a0d-a187-408b-8034-76cae4b34fbc"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "36Kr" },
       { "siteName": "界面" }
