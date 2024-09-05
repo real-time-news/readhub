@@ -1,6 +1,162 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华盛顿邮报报道，OpenAI 开发的 SearchGPT 搜索引擎初步用户反馈显示，虽然其提供简洁、有条理的回答和某些特定查询方面的优秀表现受到认可，但要挑战谷歌搜索的地位尚需时日 ...",
+    "id": "8cclUEkqWIV",
+    "order": 1725504160920,
+    "createdAt": "2024-09-05T02:42:41.000Z",
+    "publishDate": "2024-09-05T02:42:40.920Z",
+    "title": "万人测试 OpenAI 搜索引擎：活动规划等表现出色，存在“幻觉”等不足",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 10:42:41",
+    "uuid": "0f92763f-ed6f-4821-8133-1f4f4e5ec993"
+  },
+  {
+    "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "财经网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "腾讯云在腾讯全球数字生态大会上发布全新AI infra品牌“腾讯云智算”，该智算底座整合了算存网高性能产品，如HCC、IHN星脉、高性能云存储等，具备性能领先、多芯兼容、灵活部署的特点 ...",
+    "id": "8ccpmS2i2SA",
+    "order": 1725503694769,
+    "createdAt": "2024-09-05T02:34:55.000Z",
+    "publishDate": "2024-09-05T02:34:54.769Z",
+    "title": "腾讯云发布AI infra品牌“腾讯云智算”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 10:34:55",
+    "uuid": "3ba5b95a-bf70-4983-8603-ea755fd7160c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "工信部正在就《电动自行车用锂离子电池健康评估工作指引》公开征求意见，该指引明确了电动自行车用锂离子电池存在健康隐患的检测指标，包括内阻大于0.5Ω、最大输出电压超过60V、放电容量衰减率超过50% ...",
+    "id": "8ccp2ww31BW",
+    "order": 1725503530646,
+    "createdAt": "2024-09-05T02:32:10.000Z",
+    "publishDate": "2024-09-05T02:32:10.646Z",
+    "title": "工信部拟进一步加强电动自行车用锂离子电池健康评估工作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 10:32:10",
+    "uuid": "09cbea83-9a76-4485-87fb-5ad5f957d097"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "IDC最新报告显示，2024年第二季度全球腕戴设备市场出货量虽略有下降，但中国市场表现突出，同比增长10.9% ...",
+    "id": "8ccidDPNtbA",
+    "order": 1725503525085,
+    "createdAt": "2024-09-05T02:32:07.000Z",
+    "publishDate": "2024-09-05T02:32:05.085Z",
+    "title": "华为二季度全球及中国腕戴设备出货量均登顶 小米第二",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 10:32:07",
+    "uuid": "4de4c840-5e39-49ae-b8d8-763d17f5d219"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "湃泊科技是一家专注于高功率芯片电子陶瓷散热封装方案的公司，近日完成了两轮融资，融资金额近1.5亿元 ...",
+    "id": "8ccpcsNEglU",
+    "order": 1725503527551,
+    "createdAt": "2024-09-05T02:32:07.000Z",
+    "publishDate": "2024-09-05T02:32:07.551Z",
+    "title": "湃泊科技年内已完成亿元级融资，推进国产激光热沉量产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 10:32:07",
+    "uuid": "59d4fd52-6daa-478a-883d-6a77d6c2769a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软将从9月10日开始向企业客户提供搭载高通芯片的新一代Surface Copilot+商用电脑，包括Surface Laptop第7版和Surface Pro第11版的商用版机型 ...",
+    "id": "8cbttOREepo",
+    "order": 1725503182781,
+    "createdAt": "2024-09-05T02:26:23.000Z",
+    "publishDate": "2024-09-05T02:26:22.781Z",
+    "title": "微软推出新一代Surface商用电脑：搭载高通芯片，为企业客户设计",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 10:26:23",
+    "uuid": "74f96b67-03e1-4be3-bf3b-77330b49d638"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "Yi-Coder 系列模型专为编码任务而生， 提供 1.5B 和 9B 两种参数 ...",
+    "id": "8ccmBnzxT73",
+    "order": 1725502743526,
+    "createdAt": "2024-09-05T02:19:04.000Z",
+    "publishDate": "2024-09-05T02:19:03.526Z",
+    "title": "零一万物开源 Yi-Coder 系列编程助手模型，支持 52 种编程语言",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 10:19:04",
+    "uuid": "dc7c8094-e3cd-4c0a-a19e-a20157a09879"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "恒大恒驰新能源汽车（上海）有限公司于9月4日被正泰电气股份有限公司申请破产审查，上海市第三中级人民法院负责办理该案件。",
+    "id": "8cbmjZz2wMN",
+    "order": 1725504154736,
+    "createdAt": "2024-09-05T02:16:14.000Z",
+    "publishDate": "2024-09-05T02:42:34.736Z",
+    "title": "恒大恒驰汽车上海公司被申请破产审查",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 10:16:14",
+    "uuid": "455de1e7-ca48-42d5-b069-fa64ff179c5e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" }
+    ],
+    "summary": "暴风控股有限公司及其实控人冯鑫因涉及9585万余元的公司纠纷案件，被如东县人民法院列为被执行人 ...",
+    "id": "8cbotAlrfxK",
+    "order": 1725502561766,
+    "createdAt": "2024-09-05T02:16:01.000Z",
+    "publishDate": "2024-09-05T02:16:01.766Z",
+    "title": "冯鑫及暴风控股被强制执行9585万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 10:16:01",
+    "uuid": "dacde2b3-0611-40a9-b5eb-2058ce7016da"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -15,6 +171,24 @@
     "up": false,
     "date": "2024-09-05 09:42:13",
     "uuid": "80b5b855-8069-497b-a380-aa6c9f099c0b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "光伏玻璃生产商信义光能、福莱特等召开紧急会议，计划实施高达30%的减产幅度，相关股票如固德威、赛伍技术等出现上涨。但实际减产幅度和封炉减产对供需格局的影响尚不确定。",
+    "id": "8ccmdTi4P38",
+    "order": 1725503431569,
+    "createdAt": "2024-09-05T01:41:58.000Z",
+    "publishDate": "2024-09-05T02:30:31.569Z",
+    "title": "光伏概念股开盘拉升 固德威涨超9%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-05 09:41:58",
+    "uuid": "986610ea-cc8a-4e05-9251-2468abca29ea"
   },
   {
     "newsArray": [
