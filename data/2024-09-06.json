@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "PPIO在“Power to Pioneers·2024分布式云计算论坛暨PPIO AI产品发布会”上推出了新的Serverless产品及模型API服务产品，其中Serverless产品提供了模型部署、运行优化、弹性伸缩及API服务，而API服务产品则支持AIGC应用开发所需的全模态API，使开发者无需精通机器学习即可快速部署和调用大模型功能。",
+    "id": "8ccnGyY5vos",
+    "order": 1725607614597,
+    "createdAt": "2024-09-06T07:26:55.000Z",
+    "publishDate": "2024-09-06T07:26:54.597Z",
+    "title": "PPIO派欧云发布全新算力云产品",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 15:26:55",
+    "uuid": "a5a45567-92da-4a23-85b4-72ac0c24d9d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "机器之心" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "《时代》周刊公布了2024年度AI领域最具影响力的100人名单，包括OpenAI CEO Sam Altman、英伟达 CEO 黄仁勋、字节跳动联合创始人兼 CEO 梁汝波、百川智能创始人兼 CEO 王小川等在内的多位知名学者和企业家入选 ...",
+    "id": "8cejgkRnun6",
+    "order": 1725607602617,
+    "createdAt": "2024-09-06T07:26:44.000Z",
+    "publishDate": "2024-09-06T07:26:42.617Z",
+    "title": "2024 TIME 100位最具影响力AI人物公布：姚期智、梁汝波等人入选",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 15:26:44",
+    "uuid": "2c984bcc-ddab-4291-82d2-1fe623f3f67a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "成都高新西区的京东方第8.6代AMOLED生产线项目的主体结构已封顶，预计2026年10月实现量产，投产后将使成都成为全国最大的柔性面板生产基地，并有望将“成都造”柔性面板的全球市场占有率提升至20% ...",
+    "id": "8cdKVLeTCcF",
+    "order": 1725607519446,
+    "createdAt": "2024-09-06T07:25:20.000Z",
+    "publishDate": "2024-09-06T07:25:19.446Z",
+    "title": "国内首条第 8.6 代 AMOLED 生产线冲刺年底封顶，京东方计划 2026 年量产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 15:25:20",
+    "uuid": "7b0f4341-6adc-4f6e-8c99-6138f60c57b8"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
