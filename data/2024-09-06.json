@@ -1,6 +1,128 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "戴姆勒卡车宣布任命Karin Radstrom为新任首席执行官，任期从2024年10月1日至2029年1月31日。",
+    "id": "8cdINaqRzYi",
+    "order": 1725590564001,
+    "createdAt": "2024-09-06T02:42:44.000Z",
+    "publishDate": "2024-09-06T02:42:44.001Z",
+    "title": "戴姆勒卡车任命新任首席执行官",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 10:42:44",
+    "uuid": "62818c83-1734-4652-8578-9b132240e31a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "高盛集团发布研究报告，对腾讯的业务增长持乐观态度，尽管腾讯在移动广告、媒体广告和金融科技等领域受到宏观环境压力，但其游戏、视频号、财富管理和SaaS等业务收入增长迅速，基本抵消了负面影响 ...",
+    "id": "8cdGdVTm4Zx",
+    "order": 1725590253621,
+    "createdAt": "2024-09-06T02:37:33.000Z",
+    "publishDate": "2024-09-06T02:37:33.621Z",
+    "title": "高盛看多腾讯：最具增长潜力的中国互联网巨头之一，对管理层充满信心",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 10:37:33",
+    "uuid": "077dc67a-359e-4c9a-9c68-432f115712ad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英特尔公司首席执行官计划在未来董事会会议上提出自救方案，主要聚焦于削减成本，包括剥离非必要业务 ...",
+    "id": "8cdIhb7Iqof",
+    "order": 1725589950579,
+    "createdAt": "2024-09-06T02:32:31.000Z",
+    "publishDate": "2024-09-06T02:32:30.579Z",
+    "title": "业绩下滑 美国英特尔公司拟出台自救方案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 10:32:31",
+    "uuid": "9be9c87e-228d-4b1c-9f1b-64f09ac8d29b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "机器之心" },
+      { "siteName": "创业邦" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "穹彻智能，一家专注于具身智能领域的新成立公司，宣布已完成数亿元的天使轮和Pre-A轮融资 ...",
+    "id": "8ceTGKANoz0",
+    "order": 1725589418766,
+    "createdAt": "2024-09-06T02:23:38.000Z",
+    "publishDate": "2024-09-06T02:23:38.766Z",
+    "title": "“穹彻智能”宣布完成数亿元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 10:23:38",
+    "uuid": "ff5aa335-c674-4c18-a5de-9738dd51dbb0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "央企改革概念股上涨，兵装系领涨，保变电气连续涨停，多家相关企业跟涨。",
+    "id": "8ceU6PtBmP4",
+    "order": 1725589414339,
+    "createdAt": "2024-09-06T02:23:35.000Z",
+    "publishDate": "2024-09-06T02:23:34.339Z",
+    "title": "央企改革概念异动拉升，保变电气5天4板",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 10:23:35",
+    "uuid": "aeb93303-db58-4c14-af75-08df763e977e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "法布财经" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "日本近期出现大米短缺现象，价格创20年来最大涨幅，引发社会广泛关注。原因包括政府稻米减产政策、大地震预警导致的囤货行为、高温干旱等极端天气造成的供给减少，以及访日游客增加带来的需求上升 ...",
+    "id": "8ceNXj2JrSx",
+    "order": 1725588736525,
+    "createdAt": "2024-09-06T02:12:16.000Z",
+    "publishDate": "2024-09-06T02:12:16.525Z",
+    "title": "日本“大米荒”再敲全球粮食安全警钟",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 10:12:16",
+    "uuid": "906d2177-ac6a-49ec-86b8-ff939d4c1b32"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "我国在酒泉卫星发射中心成功发射的可重复使用试验航天器，在轨飞行268天后，于9月6日成功返回预定着陆场 ...",
+    "id": "8ceTbhBdP1j",
+    "order": 1725588712737,
+    "createdAt": "2024-09-06T02:11:52.000Z",
+    "publishDate": "2024-09-06T02:11:52.737Z",
+    "title": "我国可重复使用试验航天器今日成功着陆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 10:11:52",
+    "uuid": "03e150d3-5cb7-4077-967d-03e60d494653"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -188,6 +310,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "手机中国" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "丰田汽车、日产汽车等日本车厂联合投资1万亿日元，计划将日本储能电池产能提高约50%，主要用于生产汽车电池。丰田将在两家子公司扩大电池生产，投资约2500亿日元 ...",
+    "id": "8cdx5hA6nib",
+    "order": 1725589945521,
+    "createdAt": "2024-09-06T00:21:57.000Z",
+    "publishDate": "2024-09-06T02:32:25.521Z",
+    "title": "丰田、日产及其他公司将共同投资1万亿日元，将日本储能电池的产能扩大50%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 08:21:57",
+    "uuid": "44f68edb-2e73-480c-a912-fecc4497baa1"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "网易科技" },
       { "siteName": "Odaily" },
@@ -204,6 +345,24 @@
     "up": false,
     "date": "2024-09-06 08:13:04",
     "uuid": "90180276-c9e6-4f90-ac07-8ea5436a5c9d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "半导体制造商Xockets在美国得州西区地方法院提起诉讼，指控英伟达和微软侵犯其七项半导体技术专利，涉及将人工智能计算相关的数据密集型任务转移到数据处理单元的组件 ...",
+    "id": "8cdxoWuRbsJ",
+    "order": 1725589455802,
+    "createdAt": "2024-09-06T00:08:24.000Z",
+    "publishDate": "2024-09-06T02:24:15.802Z",
+    "title": "英伟达及微软被指控侵权 违反反垄断法规",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-06 08:08:24",
+    "uuid": "f25a46b9-0ba8-427c-8625-f159de0df2bc"
   },
   {
     "newsArray": [
