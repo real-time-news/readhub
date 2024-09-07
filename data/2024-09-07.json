@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "Firefox 将禁用 HTTP/2 服务器推送功能，因为相关 bug 导致网站在 Firefox 上无法正常工作 ...",
+    "id": "8cgTaTQ1PvL",
+    "order": 1725706886564,
+    "createdAt": "2024-09-07T11:01:27.000Z",
+    "publishDate": "2024-09-07T11:01:26.564Z",
+    "title": "Firefox 将禁用 HTTP/2 服务器推送",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-07 19:01:27",
+    "uuid": "ced9afc0-8f7b-4142-8aa8-9cea2b0b05e1"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线" }
