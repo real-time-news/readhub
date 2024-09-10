@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "IDC发布的数据显示，2024年第二季度日本智能手机市场，苹果、夏普、谷歌、小米和三星分列市场份额前五，索尼跌出前五。谷歌Pixel手机出货量下降近50%，可能因运营商甩卖导致 ...",
+    "id": "8clfBdL6Xyu",
+    "order": 1725972715555,
+    "createdAt": "2024-09-10T12:51:55.000Z",
+    "publishDate": "2024-09-10T12:51:55.555Z",
+    "title": "日本智能手机市场二季度排名：小米大涨464% 排第四",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-10 20:51:55",
+    "uuid": "dcdf5b74-d41e-462e-b128-ef57a3c71629"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "苹果正在开发一款像素密度为1500 PPI的普及型混合现实设备，相比其年初推出的3391 PPI像素密度的Vision Pro设备，新品的制造成本更低 ...",
+    "id": "8cliOf7DqMz",
+    "order": 1725972106601,
+    "createdAt": "2024-09-10T12:41:47.000Z",
+    "publishDate": "2024-09-10T12:41:46.601Z",
+    "title": "苹果或计划开发一款入门级MR设备 拥有1500 PPI",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-10 20:41:47",
+    "uuid": "3705549b-342b-4d31-bc5d-90dc03cb411f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "摩根大通美国国债客户调查显示，上周多头占比增加2个百分点，空头下降4个百分点，中性上升2个百分点，多头和净多头占比均达到8月12日以来的最高水平。",
+    "id": "8clonf2znWd",
+    "order": 1725971841389,
+    "createdAt": "2024-09-10T12:37:22.000Z",
+    "publishDate": "2024-09-10T12:37:21.389Z",
+    "title": "摩根大通美国国债客户多头占比升至一个月以来最高水平",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-10 20:37:22",
+    "uuid": "9595faba-a3fa-43cf-898d-a86c6515fe17"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日本半导体设备巨头Tokyo Electron（TEL）与印度塔塔电子签署战略合作谅解备忘录，双方将共同加速印度两座半导体工厂的设备基础设施建设，并提供技术培训支持 ...",
+    "id": "8clgEsFbHcl",
+    "order": 1725971771832,
+    "createdAt": "2024-09-10T12:36:11.000Z",
+    "publishDate": "2024-09-10T12:36:11.832Z",
+    "title": "TEL、塔塔电子签署战略合作备忘录，加速后者印度半导体工厂设备基础设施建设",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-10 20:36:11",
+    "uuid": "adffe2ab-49fc-4b01-927e-6e568e1c26f3"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
