@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国电动汽车在韩国市场快速扩张，市场份额达到33.1%，并在全球市场占据主导地位，去年和今年上半年产量超过全球的68% ...",
+    "id": "8cnczkyrEr0",
+    "order": 1726097113390,
+    "createdAt": "2024-09-11T23:25:13.000Z",
+    "publishDate": "2024-09-11T23:25:13.390Z",
+    "title": "中国产电动汽车强势入韩，市场份额超三分之一",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-12 07:25:13",
+    "uuid": "2fa100aa-b99e-4066-94b6-5ddeb9207821"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "财联社" }
@@ -85,5 +102,23 @@
     "up": false,
     "date": "2024-09-12 03:20:50",
     "uuid": "02d38e1c-622d-4a8d-99f1-e162cb311e8f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "恩智浦半导体首席执行官Kurt Sievers宣布将在印度投资超过10亿美元，并将研发投入翻倍。恩智浦在印度已有四个半导体设计中心和约3000名员工 ...",
+    "id": "8cnbwCEiBkH",
+    "order": 1726096386936,
+    "createdAt": "2024-09-11T16:01:21.000Z",
+    "publishDate": "2024-09-11T23:13:06.936Z",
+    "title": "恩智浦半导体将在印度投资超10亿美元以加大研发力度",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-12 00:01:21",
+    "uuid": "d6132d8b-8565-4ba8-8e27-977a797bd0be"
   }
 ]
