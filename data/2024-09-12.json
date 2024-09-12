@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "小米在2024届应届生迎新典礼上公布“应届生计划”，目标是在10年内培养出技术专家或总经理。公司招募了4000名应届生，并计划持续招募相同数量人才 ...",
+    "id": "8cnHvtFIGIc",
+    "order": 1726107225295,
+    "createdAt": "2024-09-12T02:13:45.000Z",
+    "publishDate": "2024-09-12T02:13:45.295Z",
+    "title": "小米举办2024届应届生迎新典礼 雷军发表演讲",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-12 10:13:45",
+    "uuid": "8a9d62f0-b37e-49d2-a0fe-7c1bb8c23356"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "至纯科技计划用3000万至6000万元通过集中竞价交易方式回购公司股份，用于实施股权激励，回购股份的价格上限为29.46元/股。",
+    "id": "8cnHw6c8y72",
+    "order": 1726107072925,
+    "createdAt": "2024-09-12T02:11:12.000Z",
+    "publishDate": "2024-09-12T02:11:12.925Z",
+    "title": "至纯科技：拟以3000万元至6000万元回购股份",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-12 10:11:12",
+    "uuid": "8673f4bc-e86d-4124-ba7c-9d1ac3494c88"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "海源复材连续两个交易日涨停，多家光伏、太阳能概念股跟进上涨，其中包括奥特维、荣科科技等。美股相关概念股也昨晚集体大涨。",
+    "id": "8coPEb7dbmq",
+    "order": 1726107067541,
+    "createdAt": "2024-09-12T01:51:15.000Z",
+    "publishDate": "2024-09-12T02:11:07.541Z",
+    "title": "光伏概念股持续活跃 海源复材2连板",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-12 09:51:15",
+    "uuid": "873c313a-32c3-4ab1-878a-1fe509461229"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "CPO概念股开盘冲高，多股跟涨，英伟达CEO称市场对Blackwell需求旺盛，供应商赶进度，英伟达美股股价大涨超8%。",
+    "id": "8coOsrN3dC8",
+    "order": 1726105391172,
+    "createdAt": "2024-09-12T01:43:12.000Z",
+    "publishDate": "2024-09-12T01:43:11.172Z",
+    "title": "CPO概念股开盘冲高，中际旭创涨超5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-12 09:43:12",
+    "uuid": "787c62c9-01b7-4545-bc2e-f0dea90e2450"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "江苏发布政策盘活存量房源，通过房票安置方式推动城市更新和城中村改造。超50地推行房票安置，优化土地供给 ...",
+    "id": "8coFyFxLWvB",
+    "order": 1726107037210,
+    "createdAt": "2024-09-12T01:42:57.000Z",
+    "publishDate": "2024-09-12T02:10:37.210Z",
+    "title": "超50地出台房票安置政策 积极发挥消化存量作用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-12 09:42:57",
+    "uuid": "09fd0ca5-aa0f-499d-9ca0-63ad42ffa251"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "海南自贸区板块活跃，海南海药连续五个涨停板，双成药业连续两个涨停板，欣龙控股、康芝药业、金盘科技等涨幅靠前。",
+    "id": "8coOxqR6h1Y",
+    "order": 1726105374187,
+    "createdAt": "2024-09-12T01:42:54.000Z",
+    "publishDate": "2024-09-12T01:42:54.187Z",
+    "title": "海南自贸区板块持续活跃，海南海药5连板",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-12 09:42:54",
+    "uuid": "a3519585-1f5d-4f44-a119-ceee86c2fbff"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "界面" },
       { "siteName": "36Kr" }
@@ -328,6 +435,25 @@
     "up": false,
     "date": "2024-09-12 03:20:50",
     "uuid": "02d38e1c-622d-4a8d-99f1-e162cb311e8f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "俄罗斯总统普京表示，俄罗斯可能考虑限制镍、钛、铀出口。",
+    "id": "8cne5imOlUM",
+    "order": 1726107044816,
+    "createdAt": "2024-09-11T19:11:14.000Z",
+    "publishDate": "2024-09-12T02:10:44.816Z",
+    "title": "普京：俄罗斯可能考虑限制镍、钛、铀出口",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-12 03:11:14",
+    "uuid": "4942fd22-36d4-44ba-b896-687141748751"
   },
   {
     "newsArray": [
