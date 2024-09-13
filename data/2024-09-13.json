@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌正在将其高级订阅服务Gemini Live逐步免费开放给所有安卓用户。该服务提供流畅的移动对话体验，采用增强型语音引擎，能够进行更连贯、情感表达更丰富、更逼真的多轮对话 ...",
+    "id": "8cq00LgM2WO",
+    "order": 1726197135452,
+    "createdAt": "2024-09-13T03:12:15.000Z",
+    "publishDate": "2024-09-13T03:12:15.452Z",
+    "title": "安卓版谷歌 Gemini Live 免费上线，开启在线 AI 语音畅聊",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-13 11:12:15",
+    "uuid": "85fddb14-4790-4d4b-bd9f-fe6dc15ae5f5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "贵州茅台股价跌破1300元，跌幅超2.6%，成交额超40亿元。",
+    "id": "8coj6VYiAwv",
+    "order": 1726196850534,
+    "createdAt": "2024-09-13T03:07:31.000Z",
+    "publishDate": "2024-09-13T03:07:30.534Z",
+    "title": "贵州茅台股价跌破1300元整数关口",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-13 11:07:31",
+    "uuid": "ca699f44-0c74-43bc-9b4f-3ea9ea05cbf9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "贝斯生物近日完成A2轮融资，融资金额达数千万人民币，由戈壁大湾区管理的AEF大湾区创业基金领投。融资将用于加强研发团队、优化产品管线和加速临床试验 ...",
+    "id": "8corgInrJ87",
+    "order": 1726196617359,
+    "createdAt": "2024-09-13T03:03:37.000Z",
+    "publishDate": "2024-09-13T03:03:37.359Z",
+    "title": "“贝斯生物”完成数千万元A2轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-13 11:03:37",
+    "uuid": "cacd8e93-b981-44c6-9e10-fa7a5c7d673e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "广汽集团宣布，著名电动汽车设计巨匠Benoit Jacob（叶禀焕）将于9月13日正式加入广汽，担任设计工作，助力广汽自主品牌提升竞争力 ...",
+    "id": "8cq7Ixq5j0s",
+    "order": 1726197121676,
+    "createdAt": "2024-09-13T03:02:57.000Z",
+    "publishDate": "2024-09-13T03:12:01.676Z",
+    "title": "“宝马 i8 之父”汽车设计师 Benoit Jacob（叶禀焕）加入广汽",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-13 11:02:57",
+    "uuid": "1c629761-acf2-464a-aca3-c64da6ba1893"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "张前川，前今日头条用户产品负责人，因个人原因从大模型独角兽MiniMax淡出公司事务，现担任产品顾问 ...",
+    "id": "8cq9QaiTgp8",
+    "order": 1726196559711,
+    "createdAt": "2024-09-13T03:02:39.000Z",
+    "publishDate": "2024-09-13T03:02:39.711Z",
+    "title": "MiniMax产品负责人张前川近日离职",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-13 11:02:39",
+    "uuid": "55e011fb-3321-476a-905b-8498e0bae5a6"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "证券时报网" }
@@ -241,6 +327,25 @@
     "up": false,
     "date": "2024-09-13 09:47:19",
     "uuid": "8581b30b-5846-427d-9090-cd8d3778affa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果公司通知Mac用户需同意新的iCloud服务条款，新条款将于9月16日生效 ...",
+    "id": "8cpy4cFGnr2",
+    "order": 1726196574203,
+    "createdAt": "2024-09-13T01:41:36.000Z",
+    "publishDate": "2024-09-13T03:02:54.203Z",
+    "title": "苹果更新 iCloud 条款：9 月 16 日修订，替换为 Apple 账户",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-13 09:41:36",
+    "uuid": "736e8f4b-cd5c-4bae-8dd2-75b95aa5629e"
   },
   {
     "newsArray": [
