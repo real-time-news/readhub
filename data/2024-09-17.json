@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "苹果发布了iOS 18正式版和iOS 17.7正式版更新。iOS 17.7提供了重要安全性修复，涉及16个漏洞，建议所有用户安装 ...",
+    "id": "8cwil5EYOwR",
+    "order": 1726546943435,
+    "createdAt": "2024-09-17T04:22:24.000Z",
+    "publishDate": "2024-09-17T04:22:23.435Z",
+    "title": "iOS 17.7正式版发布：修复16个系统漏洞 建议所有用户升级",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-17 12:22:24",
+    "uuid": "3de48d43-88af-4f54-81ab-7505e3f16ac3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "国庆火车票已开售，9月17日起可购买10月1日车票，9月23日起可购买10月7日车票 ...",
+    "id": "8cwb2g08e9D",
+    "order": 1726546906093,
+    "createdAt": "2024-09-17T04:21:46.000Z",
+    "publishDate": "2024-09-17T04:21:46.093Z",
+    "title": "2024 年国庆假期火车票今日开售，铁路 12306 发布购票日历",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-17 12:21:46",
+    "uuid": "d22ce8a8-6a81-4874-a77d-47713d770ab2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果发布了iOS/iPadOS 18、watchOS 11.0、macOS 15.0 Sequoia、visionOS 2.0系统，同时HomePod系列音箱也迎来了软件v18更新，新增了同播共享功能，支持用户在iPhone或iPad上共享Apple Music播放列表控制，并允许客人向HomePod添加播放内容 ...",
+    "id": "8cws6zmPnFz",
+    "order": 1726546720466,
+    "createdAt": "2024-09-17T04:18:42.000Z",
+    "publishDate": "2024-09-17T04:18:40.466Z",
+    "title": "苹果 HomePod 软件 v18 更新，支持同播共享功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-17 12:18:42",
+    "uuid": "d398c117-a62b-445b-a1d9-668be8ad64e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英特尔CEO帕特·基辛格发布备忘录，提出公司转型新策略，包括增强代工业务独立性、加强与亚马逊AWS合作以及获取美国《芯片与科学法案》资助 ...",
+    "id": "8cwpy0vbJTL",
+    "order": 1726546718455,
+    "createdAt": "2024-09-17T04:18:39.000Z",
+    "publishDate": "2024-09-17T04:18:38.455Z",
+    "title": "英特尔 CEO 提出降本增效新举措：7500 多员工已离职，计划年底前大幅削减房地产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-17 12:18:39",
+    "uuid": "61a8068d-f573-4a89-a65f-38ec570ec4ed"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
