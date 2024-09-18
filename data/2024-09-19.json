@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "字节跳动宣布将于9月24日发布豆包大模型的视频生成模型，并提升模型家族的能力 ...",
+    "id": "8cywNuZRh1L",
+    "order": 1726701189997,
+    "createdAt": "2024-09-18T23:13:09.000Z",
+    "publishDate": "2024-09-18T23:13:09.997Z",
+    "title": "字节跳动豆包大模型 9 月 24 日发布视频生成模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 07:13:09",
+    "uuid": "42665b04-d0c4-457a-b46f-a48527b7e433"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "手机中国" },
       { "siteName": "IT 之家" }
@@ -71,5 +88,24 @@
     "up": false,
     "date": "2024-09-19 01:45:53",
     "uuid": "dac05b9f-8a59-4099-bd28-9e4a26b1c7e0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "欧洲股市周三普遍下跌，投资者关注欧洲经济数据并等待美联储利率决定。英国8月通胀率与7月持平，为2.2%，英国央行将于周四召开会议。本周，日本央行和美国联邦储备委员会也将举行会议 ...",
+    "id": "8cyCoDTDjJk",
+    "order": 1726700808368,
+    "createdAt": "2024-09-18T16:01:36.000Z",
+    "publishDate": "2024-09-18T23:06:48.368Z",
+    "title": "欧洲主要股指集体收跌 市场等待美联储利率决定",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 00:01:36",
+    "uuid": "d75eb5e5-c33f-4f88-8072-201ff0bcc532"
   }
 ]
