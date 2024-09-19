@@ -1,6 +1,128 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "两名前Coinbase高级员工Vishal Gupta和Patrick McCreary共同创立了名为TrueX的加密货币平台，该平台将使用PayPal的稳定币作为首选交易代币 ...",
+    "id": "8cz3X2at41K",
+    "order": 1726725973017,
+    "createdAt": "2024-09-19T06:06:13.000Z",
+    "publishDate": "2024-09-19T06:06:13.017Z",
+    "title": "前Coinbase员工拟创立加密货币平台TrueX",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 14:06:13",
+    "uuid": "e2811425-272c-44f8-b3b6-81642410ef49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "越南取消了对海外投资者在股票交易前必须全部预付资金的要求，以提高其被重新归类为新兴市场的可能性。新规定将于11月2日生效，为富时罗素上调越南评级提供了依据 ...",
+    "id": "8d0HdU38xCI",
+    "order": 1726725815857,
+    "createdAt": "2024-09-19T06:03:36.000Z",
+    "publishDate": "2024-09-19T06:03:35.857Z",
+    "title": "越南取消股票预融资规定 吸引更多海外资金流入越南股市",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 14:03:36",
+    "uuid": "5eb9c98f-ca93-470d-874f-58855cfda348"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "甲骨文支持的半导体初创公司Ampere正在考虑出售，并与财务顾问合作以了解收购意向，可能与业内一家大型公司进行谈判。",
+    "id": "8d058go48R1",
+    "order": 1726725795359,
+    "createdAt": "2024-09-19T06:03:16.000Z",
+    "publishDate": "2024-09-19T06:03:15.359Z",
+    "title": "甲骨文支持的芯片设计公司Ampere据悉考虑出售",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 14:03:16",
+    "uuid": "4fad7420-1e07-4df9-8703-f79713f1508c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "我国在西昌卫星发射中心成功发射了两颗北斗导航卫星，这是我国北斗三号全球卫星导航系统建成开通后发射的第二组MEO卫星 ...",
+    "id": "8d00UqOdnhV",
+    "order": 1726725743048,
+    "createdAt": "2024-09-19T06:02:23.000Z",
+    "publishDate": "2024-09-19T06:02:23.048Z",
+    "title": "我国成功发射第五十九颗、六十颗北斗导航卫星",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 14:02:23",
+    "uuid": "1a5db0a0-39bc-4c4b-a325-c96d857703f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果iPhone 16系列在维修性方面取得重大突破，采用了创新的“离子液体”电池黏合剂，简化了电池更换过程，并提高了安全性。摄像头的维修也变得更加简单，用户可以无缝更换不同设备 ...",
+    "id": "8d05VNLJdQI",
+    "order": 1726725738194,
+    "createdAt": "2024-09-19T06:02:18.000Z",
+    "publishDate": "2024-09-19T06:02:18.194Z",
+    "title": "苹果iPhone 16维修性大升级：电池更换更简单",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 14:02:18",
+    "uuid": "dfc434d7-608c-4d55-b135-3fbc84579e7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "速途网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "小鹏汽车董事长何小鹏在2024云栖大会上展示了搭载端到端大模型的“全球首款AI汽车”P7+。过去两年，小鹏汽车与阿里云合作，AI算力能力提升超4倍 ...",
+    "id": "8d0FRNsMVC9",
+    "order": 1726725401106,
+    "createdAt": "2024-09-19T05:56:41.000Z",
+    "publishDate": "2024-09-19T05:56:41.106Z",
+    "title": "何小鹏：继续深化与阿里云的AI算力合作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 13:56:41",
+    "uuid": "c61568d2-9dc2-4750-a4a0-fb51fa6cb22e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "截至9月18日收盘前，沪深两市成交额超4500亿元。上证指数报2714.88点，涨0.4%，成交额2049.51亿元。深证成指报7983.89点，涨0%，成交额2548.69亿元 ...",
+    "id": "8cykGzEMIZc",
+    "order": 1726725735445,
+    "createdAt": "2024-09-19T05:56:38.000Z",
+    "publishDate": "2024-09-19T06:02:15.445Z",
+    "title": "沪深两市合计成交额超4500亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 13:56:38",
+    "uuid": "33e2abf2-4093-4863-a364-327459c45d37"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
@@ -66,6 +188,24 @@
     "up": false,
     "date": "2024-09-19 13:43:10",
     "uuid": "337c7336-8af3-49ba-9093-9b5dc31e007d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "遵义市为促进房地产高质量发展，出台了38条政策措施，包括调整贷款首付比例、降低存量房贷利率、下调公积金贷款利率、支持首套住房公积金代际互助、稳定房地产开发贷款投放等 ...",
+    "id": "8czsI58JHqg",
+    "order": 1726725767883,
+    "createdAt": "2024-09-19T05:42:59.000Z",
+    "publishDate": "2024-09-19T06:02:47.883Z",
+    "title": "贵州遵义：支持房地产项目并购重整，鼓励金融机构为优质房企开展兼并收购贷款业务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 13:42:59",
+    "uuid": "a31e38e8-4ee5-4c1c-a932-1f6201430fb5"
   },
   {
     "newsArray": [
@@ -340,6 +480,24 @@
     "up": false,
     "date": "2024-09-19 11:55:05",
     "uuid": "826ad19c-fc2d-4f87-b199-ea8c1e5a9301"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "在2024云栖大会开幕式上，阿里巴巴集团董事兼CEO吴泳铭指出，AI驱动产生的算力需求超过50%，并在未来将持续扩大其主导地位 ...",
+    "id": "8d06CsJ1ddX",
+    "order": 1726725799784,
+    "createdAt": "2024-09-19T03:46:22.000Z",
+    "publishDate": "2024-09-19T06:03:19.784Z",
+    "title": "阿里CEO吴泳铭：AI算力需求渗透率已超50%，正主导整个计算体系",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-19 11:46:22",
+    "uuid": "418e6bbe-73bb-4b1e-880c-7df05a2137a0"
   },
   {
     "newsArray": [
