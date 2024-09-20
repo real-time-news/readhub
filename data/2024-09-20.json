@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "在国际广播电视展上，高通技术公司展示了搭载骁龙X Elite的Windows 11 AI PC上，基于阿里巴巴自研解码器Ali266的高性能视频解码方案，成功实现4K 120fps VVC视频的流畅播放，解决了超高清视频与低功耗间的性能平衡问题 ...",
+    "id": "8d1lko0mIiA",
+    "order": 1726819603035,
+    "createdAt": "2024-09-20T08:06:43.000Z",
+    "publishDate": "2024-09-20T08:06:43.035Z",
+    "title": "阿里自研解码器Ali266助力高通骁龙平台AI PC首次实现H.266超高清播放",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-20 16:06:43",
+    "uuid": "338725ab-30b2-4a09-bf25-a120194125b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为全联接大会2024上，华为董事、质量流程IT总裁陶景文发表主题演讲，分享了华为数字化转型的历程和全面智能升级的实践 ...",
+    "id": "8d1yi3AMz3n",
+    "order": 1726819566736,
+    "createdAt": "2024-09-20T08:06:07.000Z",
+    "publishDate": "2024-09-20T08:06:06.736Z",
+    "title": "华为陶景文：数转智改，实现企业持续高质量发展",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-20 16:06:07",
+    "uuid": "7f17af0c-f826-42ba-949a-eca84a6d0a70"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "财联社" },
       { "siteName": "DoNews" }
