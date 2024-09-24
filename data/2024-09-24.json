@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "华为秋季新品发布会上，余承东宣布HarmonyOS NEXT将于10月8日开启公测，支持华为Mate X5系列、MatePad Pro 13.2英寸系列和Mate 60系列等机型，后续将支持更多机型。",
+    "id": "8d8kAuYH2Af",
+    "order": 1727165491517,
+    "createdAt": "2024-09-24T08:11:31.000Z",
+    "publishDate": "2024-09-24T08:11:31.517Z",
+    "title": "余承东：HarmonyOS NEXT将于10月8日开启公测",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 16:11:31",
+    "uuid": "345584ab-b2e1-42e7-b0a3-10676d79832c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI在Hugging Face上发布了多语言大规模多任务语言理解（MMMLU）数据集，旨在评估大型语言模型（LLMs）在各种任务中的性能，包括不同研究领域中的常识、推理、解决问题和理解能力 ...",
+    "id": "8d8gaY8M7Kf",
+    "order": 1727165199302,
+    "createdAt": "2024-09-24T08:06:39.000Z",
+    "publishDate": "2024-09-24T08:06:39.302Z",
+    "title": "OpenAI 发布 MMMLU 数据集：更广、更深评估 AI 模型，支持简体中文",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 16:06:39",
+    "uuid": "a18db982-b7f6-47db-bde9-c05a16537512"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "小米正在研发两款新型三折智能手机，其中首款代号为“朱雀”，预计2025年第一季度推出，采用三折设计和无按钮设计 ...",
+    "id": "8d8epG3UChM",
+    "order": 1727164968773,
+    "createdAt": "2024-09-24T08:02:48.000Z",
+    "publishDate": "2024-09-24T08:02:48.773Z",
+    "title": "小米第二款三折叠屏手机现身数据库 计划2026年推出",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 16:02:48",
+    "uuid": "558dedcd-cbd2-48f3-b929-d7166182dbd8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "亿欧" },
+      { "siteName": "IT 之家" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "京东健康针对老年、术后康复、重症卧床患者和孕产妇等需定期医疗护理的行动不便人群，推出了护士到家服务 ...",
+    "id": "8d7BlyjGwbM",
+    "order": 1727164691990,
+    "createdAt": "2024-09-24T07:58:12.000Z",
+    "publishDate": "2024-09-24T07:58:11.990Z",
+    "title": "京东健康推出护士到家服务：已覆盖北上广深等 14 个城市",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 15:58:12",
+    "uuid": "604c232a-9fe7-49aa-90ed-b18f919371aa"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财经网" },
       { "siteName": "财联社" }
@@ -104,6 +176,28 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" },
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "字节跳动旗下火山引擎举办AI创新巡展，发布豆包视频生成-PixelDance和豆包视频生成-Seaweed两款大模型，并面向企业市场开启邀测 ...",
+    "id": "8d8i1BT78rJ",
+    "order": 1727165375077,
+    "createdAt": "2024-09-24T07:41:13.000Z",
+    "publishDate": "2024-09-24T08:09:35.077Z",
+    "title": "字节跳动发布豆包音乐模型和同声传译模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 15:41:13",
+    "uuid": "c0f4112f-e8bf-4b13-89af-9d24c5339bd8"
+  },
+  {
+    "newsArray": [
       { "siteName": "C114 通信网" },
       { "siteName": "快科技" },
       { "siteName": "新浪科技" },
@@ -136,6 +230,40 @@
     "up": false,
     "date": "2024-09-24 15:25:02",
     "uuid": "42bd7e44-22c5-4f8b-b019-45bf64517077"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "Stellantis 集团开始物色 CEO CarlosTavares 的继任者，但董事会主席并无立即更换 CEO 的计划。董事会在 10 月初将开会评估公司美国业务。",
+    "id": "8d7pM06QWxq",
+    "order": 1727165419213,
+    "createdAt": "2024-09-24T07:22:01.000Z",
+    "publishDate": "2024-09-24T08:10:19.213Z",
+    "title": "欧洲车企 Stellantis 开始寻找 CEO 的接班人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 15:22:01",
+    "uuid": "727fa6a7-c0ef-4ef8-b81d-8257460ffc56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "越南企业Tasco与吉利汽车签署协议，在越南太平省成立一家汽车装配厂合资企业，总投资额约1.68亿美元 ...",
+    "id": "8d8RH2kjOZ9",
+    "order": 1727165479979,
+    "createdAt": "2024-09-24T07:21:36.000Z",
+    "publishDate": "2024-09-24T08:11:19.979Z",
+    "title": "吉利与越南 Tasco 签署协议，将投资 1.68 亿美元组建汽车装配厂",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 15:21:36",
+    "uuid": "7cb17029-131b-47d3-bd02-1e4ff7ad2543"
   },
   {
     "newsArray": [
@@ -207,6 +335,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "胖东来超市实行一项特殊的文化制度，禁止员工之间随份子，而是由公司向有红白大事的员工发放贺金或慰问金。这项制度旨在减轻员工间的人情往来负担，营造轻松自由的企业文化 ...",
+    "id": "8d8WFYKfJTc",
+    "order": 1727165567897,
+    "createdAt": "2024-09-24T06:42:06.000Z",
+    "publishDate": "2024-09-24T08:12:47.897Z",
+    "title": "胖东来禁止员工之间随份子：发现会处罚，会以公司名义发 2000 元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 14:42:06",
+    "uuid": "49e1dec8-6902-4202-bc0f-f89334e8e275"
+  },
+  {
+    "newsArray": [
       { "siteName": "铅笔道" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -238,6 +385,40 @@
     "up": false,
     "date": "2024-09-24 14:40:03",
     "uuid": "d055b020-90da-437f-89cd-15ac28aa8f67"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财新网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "两名中国医疗器械公司高管在赴菲律宾考察期间遭遇绑架撕票，中间人“李娜”被指认为嫌疑人。据悉，“李娜”真实身份为陈妤瑄，出生于1980年5月17日中国台北 ...",
+    "id": "8d7LM5Ohv9E",
+    "order": 1727165689204,
+    "createdAt": "2024-09-24T06:37:36.000Z",
+    "publishDate": "2024-09-24T08:14:49.204Z",
+    "title": "两名中企高管在菲遭绑架撕票案嫌疑人「李娜」于韩国落网",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 14:37:36",
+    "uuid": "a4b4e093-8fc2-4c56-95be-f5a396f53f70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "哪吒汽车针对近期发生的电车翻车自燃事件作出回应，称已向警方和家属提供后台数据，但未得到认可。目前，警方正在调取国家平台信息以进一步调查，事故原因尚待交警结论。",
+    "id": "8d6lxvYNFon",
+    "order": 1727165822670,
+    "createdAt": "2024-09-24T06:37:02.000Z",
+    "publishDate": "2024-09-24T08:17:02.670Z",
+    "title": "哪吒汽车回应翻车自燃事件：已提供后台数据家属未认可，正调取国家平台信息",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-24 14:37:02",
+    "uuid": "4ad68ddf-6f48-4283-9927-381a488e959e"
   },
   {
     "newsArray": [
