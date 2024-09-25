@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "谷歌对微软在云计算市场的竞争行为提起欧盟反垄断诉讼，指控微软利用其Windows Server和Microsoft Office的主导地位，通过不公平的许可条款限制客户选择云服务，并将Teams应用程序与云平台捆绑，要求欧盟委员会介入并恢复市场竞争。",
+    "id": "8dAiiVVPz24",
+    "order": 1727270185390,
+    "createdAt": "2024-09-25T13:16:25.000Z",
+    "publishDate": "2024-09-25T13:16:25.390Z",
+    "title": "谷歌向欧盟提起诉讼，指控微软在云计算市场存在反竞争行为",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-25 21:16:25",
+    "uuid": "67c45ea8-7278-45e8-8c53-45c61219a873"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "天茂集团股票今日涨停，换手率和振幅分别为10.96%和9.35%，成交额达14.85亿元。龙虎榜数据显示，营业部席位净卖出5385.83万元 ...",
+    "id": "8dAUSXMpsga",
+    "order": 1727270042920,
+    "createdAt": "2024-09-25T13:14:02.000Z",
+    "publishDate": "2024-09-25T13:14:02.920Z",
+    "title": "天茂集团龙虎榜：营业部净卖出5385.83万元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-25 21:14:02",
+    "uuid": "c8aeeb98-a342-4a85-896a-76099450e32b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "Winamp是一款广受欢迎的Windows音乐播放器，现已成为开源项目 ...",
+    "id": "8dAQqqH6XEt",
+    "order": 1727269327261,
+    "createdAt": "2024-09-25T13:02:07.000Z",
+    "publishDate": "2024-09-25T13:02:07.261Z",
+    "title": "2000 年代经典音乐播放器 Winamp 开放 Windows 端源代码",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-25 21:02:07",
+    "uuid": "f9713602-e849-4e38-b577-db98da8dc4ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "深度操作系统宣布，deepin 社区将采用以年份为基准的版本号策略，每年发布一个大版本，包括正式版和质量版，分别在1月和6月发布，12月发布次年新版本的功能版（RC 版） ...",
+    "id": "8dAeQadUjAN",
+    "order": 1727268961819,
+    "createdAt": "2024-09-25T12:56:01.000Z",
+    "publishDate": "2024-09-25T12:56:01.819Z",
+    "title": "深度操作系统 deepin：推行以年为基准单位界定版本号的策略",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-25 20:56:01",
+    "uuid": "fee86302-edc4-4d5a-b53e-849eb848b099"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "界面" },
       { "siteName": "IT 之家" }
