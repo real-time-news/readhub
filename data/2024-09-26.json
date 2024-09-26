@@ -1,6 +1,144 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "哈苏中国官方公众号宣布，旗下移动图像处理应用Phocus Mobile 2已升级至2.2.0版本，新版本支持10位色深HEIF格式的完整工作流，提供与RAW格式相当的编辑支持，并引入HNCS技术以实现更准确的色彩还原 ...",
+    "id": "8dBafW18uTF",
+    "order": 1727320921438,
+    "createdAt": "2024-09-26T03:22:01.000Z",
+    "publishDate": "2024-09-26T03:22:01.438Z",
+    "title": "哈苏发布Phocus Mobile 2应用新版本，支持10位色深HEIF格式编辑",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 11:22:01",
+    "uuid": "18061438-0e0f-4467-8a6b-dc01e192b7a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "近期，国家推动大规模设备更新和消费品以旧换新政策，多地推出家装厨卫“焕新”补贴，消费者可享受15%-20%的产品成交价补贴 ...",
+    "id": "8dBUc2VwDc2",
+    "order": 1727320910283,
+    "createdAt": "2024-09-26T03:21:51.000Z",
+    "publishDate": "2024-09-26T03:21:50.283Z",
+    "title": "多地派发“大礼包” 有望拉动新一轮家装消费",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 11:21:51",
+    "uuid": "792f1e7f-78f6-4574-a9c1-5ba76575f87b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "贝恩咨询报告显示，AI半导体及支持AI的智能设备需求激增，可能导致新一轮全球芯片短缺。疫情期间的半导体短缺和人们对消费电子产品的需求上升有关 ...",
+    "id": "8dAtnxOMTfs",
+    "order": 1727320870079,
+    "createdAt": "2024-09-26T03:21:10.000Z",
+    "publishDate": "2024-09-26T03:21:10.079Z",
+    "title": "贝恩：人工智能需求激增 或再度拉响芯片短缺“警报”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 11:21:10",
+    "uuid": "037878c2-942c-43e2-baae-a0d8bf45cefa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "根据韩国统计厅发布的数据，上个月国内就业人口中销售从业人员同比减少7.1万人，已连续60个月减少。与此同时，整体就业人口同比增加12.3万人，连续42个月增加 ...",
+    "id": "8dBjxcW7ejs",
+    "order": 1727320748813,
+    "createdAt": "2024-09-26T03:19:08.000Z",
+    "publishDate": "2024-09-26T03:19:08.813Z",
+    "title": "韩国电商迅猛发展 线下销售从业者连续60个月减少",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 11:19:08",
+    "uuid": "9f6d0e45-c403-4708-bbcf-3a9d4c2715d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "欧洲隐私组织noyb指控火狐浏览器在用户不知情的情况下，通过“隐私保护归因”功能追踪用户上网行为，违反了欧盟的GDPR规定 ...",
+    "id": "8dBeF5tMz8r",
+    "order": 1727320922293,
+    "createdAt": "2024-09-26T03:13:16.000Z",
+    "publishDate": "2024-09-26T03:22:02.293Z",
+    "title": "欧洲隐私机构指控火狐浏览器侵犯用户隐私",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 11:13:16",
+    "uuid": "d23820e6-24b2-4cc0-9a64-dfa9f29b7ac1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软在Azure AI Content Safety中推出预览版Groundedness Detection，旨在纠正AI幻觉，通过对比AI输出内容和源文件，识别并修正没有证据或幻觉内容 ...",
+    "id": "8dAO01HlGaH",
+    "order": 1727320372258,
+    "createdAt": "2024-09-26T03:12:52.000Z",
+    "publishDate": "2024-09-26T03:12:52.258Z",
+    "title": "微软发布新工具，检测和纠正 AI 幻觉内容",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 11:12:52",
+    "uuid": "c7ef608c-377a-4cf9-b5bf-39ea62b255d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "上海交通大学清源研究院MIFA实验室与复旦大学附属中山医院内分泌科合作，开发了名为Diabetica的糖尿病专用大模型 ...",
+    "id": "8dBhpOxn7e7",
+    "order": 1727320326131,
+    "createdAt": "2024-09-26T03:12:07.000Z",
+    "publishDate": "2024-09-26T03:12:06.131Z",
+    "title": "我国团队打造糖尿病专用 AI 模型，助力个性化糖尿病护理",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 11:12:07",
+    "uuid": "5de33db1-b45c-46fc-8d34-caf7761c78b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "英伟达首席执行官黄仁勋在近三个月内分批减持公司股份，套现超7亿美元，已完成预先安排的减持计划。此外，公司董事会成员马克·史蒂文斯和全球业务运营执行副总裁Jay Puri也进行了股票出售 ...",
+    "id": "8dAKRM2E2u3",
+    "order": 1727319765116,
+    "createdAt": "2024-09-26T03:02:45.000Z",
+    "publishDate": "2024-09-26T03:02:45.116Z",
+    "title": "黄仁勋完成600万股减持计划 套现7亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 11:02:45",
+    "uuid": "e682b902-114f-4538-b3ba-a7235c4f1fad"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -328,6 +466,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "创业板新股无线传媒上市首日大幅高开，现涨超226%，主营业务为IPTV集成播控服务，是河北省三网融合内容集成播控平台唯一运营机构。",
+    "id": "8dBTtxgWePq",
+    "order": 1727320392455,
+    "createdAt": "2024-09-26T01:42:44.000Z",
+    "publishDate": "2024-09-26T03:13:12.455Z",
+    "title": "创业板新股无线传媒上市首日大幅高开，现涨超226%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 09:42:44",
+    "uuid": "1be56f1c-364d-4c1f-9ab3-77de10c0c3c9"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "网易科技" },
       { "siteName": "智通财经" },
@@ -360,6 +516,26 @@
     "up": false,
     "date": "2024-09-26 09:16:06",
     "uuid": "44e5560e-8d83-403f-9b76-78b2b22de2f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "手机中国" },
+      { "siteName": "ZAKER" }
+    ],
+    "summary": "三星显示和LG Display正在研发一种新技术，通过使用压电设备“Piezo”，实现OLED面板自身发声，无需额外扬声器。这项技术有望应用于未来的可折叠智能手机中。",
+    "id": "8dBZFh71Sh7",
+    "order": 1727319744437,
+    "createdAt": "2024-09-26T01:06:11.000Z",
+    "publishDate": "2024-09-26T03:02:24.437Z",
+    "title": "三星、LGD正研发手机发声屏",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-26 09:06:11",
+    "uuid": "65b88c87-4426-46ec-9f7a-e3fb4c194535"
   },
   {
     "newsArray": [
