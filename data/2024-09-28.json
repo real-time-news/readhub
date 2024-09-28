@@ -1,6 +1,169 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "2024年8月，东京23区二手住宅楼平均售价达到7750万日元，同比增长2.6%，为17年来最大涨幅。投资者因股市波动寻求房地产等稳定资产，同时待售住宅楼数量减少，进一步推高房价。",
+    "id": "8dEtPhTrfEA",
+    "order": 1727488884003,
+    "createdAt": "2024-09-28T02:01:24.000Z",
+    "publishDate": "2024-09-28T02:01:24.003Z",
+    "title": "日本东京23区二手房价涨幅创17年来最大",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 10:01:24",
+    "uuid": "162110ce-8656-40c6-a431-d0f6aae0959b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "九号电动与高德地图合作，推出电动车导航全新生态，新增一键投屏导航功能，并支持直接在高德地图发起导航。用户可在高德地图中搜索目的地后，选择电动车投屏，实现导航信息投屏到设备仪表中 ...",
+    "id": "8dEB6EVsT7R",
+    "order": 1727488156446,
+    "createdAt": "2024-09-28T01:49:17.000Z",
+    "publishDate": "2024-09-28T01:49:16.446Z",
+    "title": "九号电动车与高德地图合作升级，新增一键投屏导航功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 09:49:17",
+    "uuid": "c5dc98ae-9784-4b1a-a238-d5c31859eb48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国载人航天工程办公室启动了登月服命名征集活动，并公开了登月服的设计样式。该登月服是为了未来载人月球探测任务而设计，能够保护航天员在月球表面应对各种环境条件 ...",
+    "id": "8dEwzxt5FxP",
+    "order": 1727487660669,
+    "createdAt": "2024-09-28T01:41:00.000Z",
+    "publishDate": "2024-09-28T01:41:00.669Z",
+    "title": "中国登月服外观首次亮相，征名活动现已启动",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 09:41:00",
+    "uuid": "8ae812d9-cf1b-47af-8fb4-5d5d31a29e61"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星官方确认，Exynos 2400e 芯片降频 100MHz 外，没有其他差异，对用户实际体验影响很小 ...",
+    "id": "8dEuqXUtZ1K",
+    "order": 1727487088265,
+    "createdAt": "2024-09-28T01:31:28.000Z",
+    "publishDate": "2024-09-28T01:31:28.265Z",
+    "title": "三星：降频100MHz是 Exynos 2400 / e 唯一差异，不影响实际体验",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 09:31:28",
+    "uuid": "1660dd62-ef09-41d9-bdae-87757f710e3a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "和讯网" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "9月27日，知乎美股收盘股价大涨近11%，此前知乎获得MSCI ESG评级A级。知乎推出的AI搜索产品知乎直答，8月访问量环比增长345%，全国增势首位，全球第三。",
+    "id": "8dEIGTkbaiM",
+    "order": 1727486697110,
+    "createdAt": "2024-09-28T01:24:57.000Z",
+    "publishDate": "2024-09-28T01:24:57.110Z",
+    "title": "知乎美股股价大涨近11%，此前获MSCI ESG评级A级",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 09:24:57",
+    "uuid": "1971e956-ae28-4172-aead-44fe5a6d21b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenAI正在开展一轮投资，预计将获得近70亿美元资金。苹果公司已退出与OpenAI的融资谈判，而微软和英伟达则考虑参与此轮融资，其中微软可能再投资约10亿美元 ...",
+    "id": "8dEwGrECDIW",
+    "order": 1727487070310,
+    "createdAt": "2024-09-28T01:21:16.000Z",
+    "publishDate": "2024-09-28T01:31:10.310Z",
+    "title": "苹果据悉退出OpenAI融资轮谈判 微软预计再投10亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 09:21:16",
+    "uuid": "223a8728-3d5a-4159-8744-b6f46d6eeab6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国务院今年8月核准的五个核电项目，均引入了民间资本，其中民营企业参股比例达到10%，为民企参与核电项目以来的最高比例 ...",
+    "id": "8dEvCgXTi8H",
+    "order": 1727486462798,
+    "createdAt": "2024-09-28T01:21:03.000Z",
+    "publishDate": "2024-09-28T01:21:02.798Z",
+    "title": "10家民营企业参与5个核电项目，民营企业参股核电比例首次达10%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 09:21:03",
+    "uuid": "b01937a7-8699-4cf8-a70d-f9020aed7723"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "智通财经" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "OpenAI在8月份的月收入达到3亿美元，同比增长1700%，预计今年销售额约37亿美元，收入明年将增至116亿美元 ...",
+    "id": "8dErQAJU6GP",
+    "order": 1727485559585,
+    "createdAt": "2024-09-28T01:06:00.000Z",
+    "publishDate": "2024-09-28T01:05:59.585Z",
+    "title": "OpenAI据悉8月收入达3亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 09:06:00",
+    "uuid": "d0077741-583e-40f8-ab49-4cd1b8dcdacd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国人民银行宣布自9月27日起降准降息，释放约1万亿元长期流动性，降低社会融资成本，支持信贷投放，缓解中期借贷便利（MLF）续作压力 ...",
+    "id": "8dEoQcqBa5F",
+    "order": 1727487759944,
+    "createdAt": "2024-09-28T01:02:15.000Z",
+    "publishDate": "2024-09-28T01:42:39.944Z",
+    "title": "央行同步降准降息加力稳增长 10月LPR料下降",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 09:02:15",
+    "uuid": "5ac48b26-bc9f-491c-aaee-598434727f92"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
