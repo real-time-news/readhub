@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "比亚迪腾势Z9 GT于9月20日上市，插混版起售价33.48万元，纯电版起售价35.48万元，并于9月26日在深圳开启首批交付 ...",
+    "id": "8dDr60EpNZi",
+    "order": 1727484148015,
+    "createdAt": "2024-09-28T00:42:28.000Z",
+    "publishDate": "2024-09-28T00:42:28.015Z",
+    "title": "比亚迪腾势 Z9 GT 开启首批交付：全系标配易三方，33.48 万元起",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 08:42:28",
+    "uuid": "2cb1d9dd-be1a-487a-b1e6-6a2e385a25c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "据Jon Peddie Research预测，2024年全球PC游戏硬件市场规模将超过300亿美元 ...",
+    "id": "8dElXvGX2DT",
+    "order": 1727483166999,
+    "createdAt": "2024-09-28T00:26:07.000Z",
+    "publishDate": "2024-09-28T00:26:06.999Z",
+    "title": "JPR：预估2024年全球PC游戏硬件突破300亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 08:26:07",
+    "uuid": "e01954a8-fc87-4bae-8cfb-82c69da44024"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "亚马逊网络服务公司因侵犯Acceleration Bay LLC的两项专利，涉及计算机网络和广播技术，被要求赔偿3050万美元 ...",
+    "id": "8dEk7Hwco7z",
+    "order": 1727481674710,
+    "createdAt": "2024-09-28T00:01:14.000Z",
+    "publishDate": "2024-09-28T00:01:14.710Z",
+    "title": "亚马逊因网络技术专利遭美国法院裁定赔偿3050万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 08:01:14",
+    "uuid": "646645ce-64a2-4b00-a8c1-07d6fadf41c9"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -49,5 +101,65 @@
     "up": false,
     "date": "2024-09-28 07:32:14",
     "uuid": "e191100a-0b96-4bc5-90cd-a6f17d95150f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "本周五，美股成交额排名第一的英伟达下跌2.17%，但市场专家对其B系列GPU持积极看法。特斯拉上涨2.45%，CEO马斯克关注工厂高缺勤率 ...",
+    "id": "8dEKlSwOlak",
+    "order": 1727483163682,
+    "createdAt": "2024-09-27T22:41:33.000Z",
+    "publishDate": "2024-09-28T00:26:03.682Z",
+    "title": "9月27日美股成交额前20：马斯克称中国工业产能已远超美国",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 06:41:33",
+    "uuid": "9e585f54-0b64-4efd-8852-4dfd3b29990f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "大众汽车因宏观经济环境恶化、电动汽车增长放缓等因素，下调了2024年的营收和交付量预期。预计全年销售净利率为5.6%，低于此前预测和分析师平均预期 ...",
+    "id": "8dELTLzSR5x",
+    "order": 1727483466632,
+    "createdAt": "2024-09-27T18:21:05.000Z",
+    "publishDate": "2024-09-28T00:31:06.632Z",
+    "title": "大众汽车第二次下调全年营收和交付量预期，股价盘中跳水跌近2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 02:21:05",
+    "uuid": "e7e7d160-0e0b-466b-9776-0d314f864510"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "飓风“海伦妮”登陆美国，已致至少20人死亡，大量家庭和企业停电。",
+    "id": "8dEKOy1ZCjb",
+    "order": 1727483162379,
+    "createdAt": "2024-09-27T17:11:15.000Z",
+    "publishDate": "2024-09-28T00:26:02.379Z",
+    "title": "飓风“海伦妮”登陆美国 已致至少20人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2024-09-28 01:11:15",
+    "uuid": "b97927a5-b4aa-4e0a-a0ad-52f7a12f3541"
   }
 ]
