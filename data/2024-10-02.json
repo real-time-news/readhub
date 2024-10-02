@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "香港恒生科技指数开盘上涨1.9%，报4,840.08点，理想汽车港股开盘涨幅超11%，主要因其第三季度交付量同比增长45.4%。",
+    "id": "8dLaFNVMriD",
+    "order": 1727833036334,
+    "createdAt": "2024-10-02T01:37:17.000Z",
+    "publishDate": "2024-10-02T01:37:16.334Z",
+    "title": "香港恒生科技指数高开1.9% 理想汽车涨超11%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-02 09:37:17",
+    "uuid": "ee43b7bb-c2a0-412d-9460-f45bdfaee819"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "HMD Global为HMD Skyline手机推出了安卓14更新，提供了2024年9月的谷歌安全补丁和一项名为“数字排毒”的新功能 ...",
+    "id": "8dLWJ9ONvQ6",
+    "order": 1727832961601,
+    "createdAt": "2024-10-02T01:36:01.000Z",
+    "publishDate": "2024-10-02T01:36:01.601Z",
+    "title": "HMD Skyline 手机获推 9 月更新，新增“数字排毒”健康用机模式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-02 09:36:01",
+    "uuid": "a246163c-2f1a-46b3-a5aa-05d71d41a2c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "微软已停止生产HoloLens 2耳机，并将于2027年12月31日停止对其支持。公司正专注于与更广泛的手机和混合现实硬件生态系统合作，并将继续支持与美国国防部合作的IVAS计划 ...",
+    "id": "8dLV239rHdX",
+    "order": 1727832710276,
+    "createdAt": "2024-10-02T01:31:50.000Z",
+    "publishDate": "2024-10-02T01:31:50.276Z",
+    "title": "微软将停止生产混合现实头戴式HoloLens耳机",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-02 09:31:50",
+    "uuid": "c48fa3ff-6c02-460b-a20c-24b6eea502a3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Sonos公司在10月1日发布博文，强调重视软件质量和客户体验，并提出七项承诺以修复新版App中的BUG和重建消费者信任。承诺包括：坚定关注客户体验，设定高质量标准 ...",
+    "id": "8dLXjdy8J5K",
+    "order": 1727832423741,
+    "createdAt": "2024-10-02T01:27:03.000Z",
+    "publishDate": "2024-10-02T01:27:03.741Z",
+    "title": "新版应用“差评”后续：Sonos 出台 7 项承诺，重建用户信任",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-02 09:27:03",
+    "uuid": "46f88c44-4858-4546-93f7-13de6342c0b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司计划在今年推出搭载M4系列芯片的新款MacBook Pro、iMac和Mac mini产品 ...",
+    "id": "8dLPA8FI3cx",
+    "order": 1727832418069,
+    "createdAt": "2024-10-02T01:26:59.000Z",
+    "publishDate": "2024-10-02T01:26:58.069Z",
+    "title": "苹果全新M4芯片设备即将亮相 今年年底有望登场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-02 09:26:59",
+    "uuid": "01758fad-cc31-451f-a418-8a993fb6d2c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "国家劳动关系委员会指控苹果公司要求员工签署非法的保密及竞业禁止协议，并限制员工行使联邦劳动法下的权利。美国劳动委员会认为苹果的行为侵犯了员工改善工作条件的权利 ...",
+    "id": "8dLVbAgleHT",
+    "order": 1727831161301,
+    "createdAt": "2024-10-02T01:06:02.000Z",
+    "publishDate": "2024-10-02T01:06:01.301Z",
+    "title": "苹果被指控强迫员工签署非法合同，并压制劳工努力",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-02 09:06:02",
+    "uuid": "f4eb8751-2391-4075-9d0c-dd0def2d1dcc"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "Solidot" },
       { "siteName": "IT 之家" }
