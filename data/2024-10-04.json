@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "财联社" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "Coinbase宣布将在12月下架不符合欧盟新监管规则MiCA的稳定币。这将对泰达币等代币产生重大影响。",
+    "id": "8dPZqqbD2FQ",
+    "order": 1728046287668,
+    "createdAt": "2024-10-04T12:51:28.000Z",
+    "publishDate": "2024-10-04T12:51:27.668Z",
+    "title": "Coinbase将于12月在欧盟下架不符合规定的稳定币",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-04 20:51:28",
+    "uuid": "91dda183-b4e2-4c87-b603-83d521a6edb6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "法布财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国9月非农就业人数大幅增加25.4万人，远超市场预期的15万人，也显著高于前一个月的14.2万人。",
+    "id": "8dPe9rCAPEz",
+    "order": 1728045652706,
+    "createdAt": "2024-10-04T12:40:54.000Z",
+    "publishDate": "2024-10-04T12:40:52.706Z",
+    "title": "美国9月非农就业人数增加25.4万人 远超预期",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-04 20:40:54",
+    "uuid": "39552cc7-4d81-4b30-ab51-500de2352ccb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "Vivaldi、Waterfox、Wavebox等浏览器公司和开放网络倡导组织联合致信欧盟委员会，指控微软在Edge浏览器上采取不公平做法，并呼吁欧盟反垄断监管机构强制微软遵守欧盟技术规则 ...",
+    "id": "8dPGYRSEyyr",
+    "order": 1728045061242,
+    "createdAt": "2024-10-04T12:31:03.000Z",
+    "publishDate": "2024-10-04T12:31:01.242Z",
+    "title": "外媒：竞争对手浏览器及网络开发商呼吁欧盟对微软Edge采取行动",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-04 20:31:03",
+    "uuid": "52822609-5ef6-453f-a211-cd4c77cad605"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线" },
       { "siteName": "搜狐科技" },
