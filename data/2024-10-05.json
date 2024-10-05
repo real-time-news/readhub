@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "蔚来汽车与战略投资者CYVN签订协议，将在阿联酋阿布扎比建立技术研发中心并联合开发新车型 ...",
+    "id": "8dQYFDSt2rh",
+    "order": 1728093677855,
+    "createdAt": "2024-10-05T02:01:18.000Z",
+    "publishDate": "2024-10-05T02:01:17.855Z",
+    "title": "蔚来汽车宣布将在阿联酋阿布扎比建立先进技术研发中心",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-05 10:01:18",
+    "uuid": "a0c2973b-ee14-42be-a24f-63cdebe49916"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "丹麦制药商诺和诺德宣布将投资约1.582亿美元对位于巴西米纳斯吉拉斯州的蒙特斯克拉罗斯工厂进行改造，该厂生产的产品占公司全球胰岛素产量的四分之一，并将实施可持续发展项目。",
+    "id": "8dQYFC6rmMa",
+    "order": 1728091921232,
+    "createdAt": "2024-10-05T01:32:01.000Z",
+    "publishDate": "2024-10-05T01:32:01.232Z",
+    "title": "诺和诺德将投资8.64亿雷亚尔改造巴西胰岛素工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-05 09:32:01",
+    "uuid": "b25857a4-f869-4d90-93d5-9e5f5fa18f39"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国西得克萨斯地区法院陪审团裁定苹果公司未侵犯Identity Security LLC公司的4项专利，因此驳回了原告要求苹果赔偿超过3.6亿美元（约合25.4亿元人民币）的请求 ...",
+    "id": "8dQWnwXwAlU",
+    "order": 1728091577967,
+    "createdAt": "2024-10-05T01:26:17.000Z",
+    "publishDate": "2024-10-05T01:26:17.967Z",
+    "title": "iPhone 生物识别专利纠纷案苹果胜诉，3.6 亿美元索赔被驳回",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-05 09:26:17",
+    "uuid": "185ecd93-b08a-4b95-828d-dd6934ce88b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "联合发射联盟（ULA）的“火神半人马座”火箭成功进行了第二次认证飞行，发射任务在美国佛罗里达州凯普卡纳维拉尔太空军基地顺利进行 ...",
+    "id": "8dQW5chUIwt",
+    "order": 1728090989492,
+    "createdAt": "2024-10-05T01:16:30.000Z",
+    "publishDate": "2024-10-05T01:16:29.492Z",
+    "title": "“火神半人马座”火箭再战苍穹，完成第二次认证飞行",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-05 09:16:30",
+    "uuid": "0ec55434-542e-4a69-9584-221eaa7a4874"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "波音公司与工会代表将于10月7日恢复谈判，旨在解决美国西海岸工厂约3.3万名工人的罢工问题。此前，双方在联邦调解人参与下未能就关键问题达成一致。",
+    "id": "8dQW6NfojUq",
+    "order": 1728090362463,
+    "createdAt": "2024-10-05T01:06:03.000Z",
+    "publishDate": "2024-10-05T01:06:02.463Z",
+    "title": "波音与工会合同谈判将于10月7日恢复",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-05 09:06:03",
+    "uuid": "e513636b-f389-4b47-88d8-429d52d7922f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
