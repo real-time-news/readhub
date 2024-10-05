@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Anthropic公司扩展了Claude的功能，支持处理超过20万tokens的上下文窗口文件。目前，Claude在处理超出限制的文件时会显示错误 ...",
+    "id": "8dQz21MFbRL",
+    "order": 1728117982921,
+    "createdAt": "2024-10-05T08:46:22.000Z",
+    "publishDate": "2024-10-05T08:46:22.921Z",
+    "title": "Claude AI 被曝正研发新功能，突破 20 万 tokens 文件处理上限",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-05 16:46:22",
+    "uuid": "925308f8-4507-4cb5-b1d7-3adfe2890a44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "2024年前8个月，我国软件和信息技术服务业运行态势良好，软件业务收入同比增长11.2%，保持平稳增长。软件业利润总额同比增长9.8%，增速有所放缓 ...",
+    "id": "8dP57m1KyIY",
+    "order": 1728117954563,
+    "createdAt": "2024-10-05T08:45:55.000Z",
+    "publishDate": "2024-10-05T08:45:54.563Z",
+    "title": "1-8 月我国软件业务收入 85492 亿元，同比增长 11.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-05 16:45:55",
+    "uuid": "2278dc65-9f75-459e-84fb-639fbb9dba96"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
