@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软公司推出全新开源数据处理系统Drasi，旨在简化复杂基础设施中关键事件的检测与响应流程。Drasi能跟踪动态环境变化并自动作出反应，通过事件日志和变更提要实现高效跨系统数据处理 ...",
+    "id": "8dQrt1iXlTf",
+    "order": 1728108678601,
+    "createdAt": "2024-10-05T06:11:18.000Z",
+    "publishDate": "2024-10-05T06:11:18.601Z",
+    "title": "微软开源 Drasi，三大组件设计书写大数据处理新篇章",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-05 14:11:18",
+    "uuid": "2823ef8f-677b-4112-8ee2-4f6d991121ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "电动汽车制造商Fisker正遭遇美国证券交易委员会的调查，此前已申请破产保护。SEC已向其发出多份传票，而Fisker正试图结束破产运营并批准其清算计划。",
+    "id": "8dQogEejFCv",
+    "order": 1728107764092,
+    "createdAt": "2024-10-05T05:56:04.000Z",
+    "publishDate": "2024-10-05T05:56:04.092Z",
+    "title": "电动汽车制造商Fisker面临美国证券监管机构调查",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-05 13:56:04",
+    "uuid": "91a4841a-2d40-4840-905a-1dadf71f0f09"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
