@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "NASA 和 SpaceX 取消了原定于 10 月 10 日进行的欧罗巴快船任务的发射尝试，因为飓风“米尔顿”的来袭 ...",
+    "id": "8dTn3I7ef0F",
+    "order": 1728264659117,
+    "createdAt": "2024-10-07T01:31:00.000Z",
+    "publishDate": "2024-10-07T01:30:59.117Z",
+    "title": "因飓风“米尔顿”，NASA 与 SpaceX 取消 10 月 10 日的欧罗巴快船发射任务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-07 09:31:00",
+    "uuid": "f046394d-3957-4466-a14d-cbf532466358"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "印度股市遭遇自1999年1月1日以来最大规模的外资净抛售，10月3日全球基金净卖出印度债券1.017亿美元，同时净卖出印度股票18.5亿美元，创历史最高纪录。",
+    "id": "8dTrimaj3Bh",
+    "order": 1728265870251,
+    "createdAt": "2024-10-07T01:21:26.000Z",
+    "publishDate": "2024-10-07T01:51:10.251Z",
+    "title": "全球基金对印度股票的净卖出规模创纪录新高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-07 09:21:26",
+    "uuid": "bd0d3c13-607e-4204-9714-392462843747"
+  },
+  {
+    "newsArray": [
+      { "siteName": "环球网科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Gartner最新报告预测，到2027年，生成式人工智能将在软件工程和运维领域创造众多新岗位，并使得80%的软件工程师需要进行技能提升 ...",
+    "id": "8dTA6UDs4tG",
+    "order": 1728263456525,
+    "createdAt": "2024-10-07T01:10:56.000Z",
+    "publishDate": "2024-10-07T01:10:56.525Z",
+    "title": "Gartner：生成式AI将催生新岗位，80%软件工程师需技能提升",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-07 09:10:56",
+    "uuid": "9f9d41e1-4dcc-4565-b627-72e953deba2f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "力拓集团对Arcadium Lithium提出收购意向，具体财务细节未公开。有报道称，双方已进行谈判，Arcadium估值可能在40亿至60亿美元。",
+    "id": "8dSefIzthCZ",
+    "order": 1728263210345,
+    "createdAt": "2024-10-07T00:51:04.000Z",
+    "publishDate": "2024-10-07T01:06:50.345Z",
+    "title": "锂矿商Arcadium确认力拓收购计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-07 08:51:04",
+    "uuid": "c7186a01-cd3a-4742-9f24-27e00055975d"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" },
