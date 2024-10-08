@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软发现了一个影响Word文件的漏洞，用户在特定方式命名文件时可能导致文件被意外删除。文件虽能通过回收站恢复，但需采取预防措施 ...",
+    "id": "8dVYNGrvO5h",
+    "order": 1728357970647,
+    "createdAt": "2024-10-08T03:26:11.000Z",
+    "publishDate": "2024-10-08T03:26:10.647Z",
+    "title": "微软 Word 出现 Bug：命名不当恐致文件被删除",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-08 11:26:11",
+    "uuid": "30ead9ff-3d2d-43f2-820b-7955a1fdaa93"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "投资圈" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "修实生物医药（南通）有限公司（简称“修实生物”）近日完成近亿元Pre-A轮融资，由创景资本领投，华泰紫金、金雨茂物和小饭桌创投跟投 ...",
+    "id": "8dVaBne33jc",
+    "order": 1728357698552,
+    "createdAt": "2024-10-08T03:21:39.000Z",
+    "publishDate": "2024-10-08T03:21:38.552Z",
+    "title": "修实生物获近亿元Pre-A轮融资，创景资本领投",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-08 11:21:39",
+    "uuid": "0a0082a6-4598-4b67-bf15-42d48570f1c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD与台积电达成协议，将在美国亚利桑那州新工厂生产高性能芯片，成为继苹果之后的第二个重要客户 ...",
+    "id": "8dVbwoMY2sh",
+    "order": 1728357191130,
+    "createdAt": "2024-10-08T03:13:11.000Z",
+    "publishDate": "2024-10-08T03:13:11.130Z",
+    "title": "AMD成台积电亚利桑那工厂新客户，高性能AI芯片明年在美生产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-08 11:13:11",
+    "uuid": "df91be94-aca2-472a-97b5-d4591cb66258"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "今日股市指数高开后出现回落，其中沪指涨幅收窄至2%，此前曾一度上涨超过10%。创业板指涨幅收窄至10%，此前一度上涨超过18%。",
+    "id": "8dVbwaC1XIy",
+    "order": 1728357118866,
+    "createdAt": "2024-10-08T03:11:58.000Z",
+    "publishDate": "2024-10-08T03:11:58.866Z",
+    "title": "沪指涨幅收窄至2%，创业板指涨幅收窄至10%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-08 11:11:58",
+    "uuid": "a0787ae9-d05d-4607-8ab8-46e7ed8f8042"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "国家发改委主任郑栅洁在发布会上提出多项措施，包括利用专项债支持激活闲置土地，加快销售存量房，降低房贷利率，并完善土地、财税、金融政策，以构建新的房地产发展模式。",
+    "id": "8dVdAeUg4lx",
+    "order": 1728357115135,
+    "createdAt": "2024-10-08T03:11:56.000Z",
+    "publishDate": "2024-10-08T03:11:55.135Z",
+    "title": "​国家发改委主任郑栅洁：加快消化存量商品房",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-08 11:11:56",
+    "uuid": "cc75189d-496d-47e7-b5bc-39b457ab1068"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "电商行业动态盘点：亚马逊印度市场研究显示消费者购物热情上升，盒马鲜生国庆期间快速拓店，黄金周出行消费旺盛。赛力斯新能源汽车产销量同比增长显著。淘宝推出自营品牌“淘精选” ...",
+    "id": "8dVdQEAbmWm",
+    "order": 1728357016616,
+    "createdAt": "2024-10-08T03:10:17.000Z",
+    "publishDate": "2024-10-08T03:10:16.616Z",
+    "title": "11点聊电商：粉丝量超董宇辉 55岁的雷军成带货“新顶流”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-08 11:10:17",
+    "uuid": "a4f8a370-2e7f-4ff3-a161-a432b4c677fe"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "36Kr" },
       { "siteName": "澎湃新闻" },
