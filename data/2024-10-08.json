@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "瑞典皇家科学院当地时间10月8日宣布，将2024年诺贝尔物理学奖授予约翰·J·霍普菲尔德（John J. Hopfield）和杰弗里·E·辛顿（Geoffrey E. Hinton），表彰他们在使用人工神经网络进行机器学习的基础性发现和发明。",
+    "id": "8dW8ULWXD8I",
+    "order": 1728382021143,
+    "createdAt": "2024-10-08T10:07:02.000Z",
+    "publishDate": "2024-10-08T10:07:01.143Z",
+    "title": "2024 年诺贝尔物理学奖揭晓：两位计算机科学家获奖",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-08 18:07:02",
+    "uuid": "75c0a5a5-108e-4a35-a230-6fc67f2566d5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "广东天琴海纳投资有限公司成立，法定代表人为徐志豪，注册资本1000万人民币，由吉利科技集团有限公司全资持股 ...",
+    "id": "8dW36RP5aI1",
+    "order": 1728381772896,
+    "createdAt": "2024-10-08T10:02:52.000Z",
+    "publishDate": "2024-10-08T10:02:52.896Z",
+    "title": "吉利在广东成立投资公司 注册资本1000万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-08 18:02:52",
+    "uuid": "84ac9786-1118-468c-8fc5-30f563b5459f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "速途网" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "广汽能源科技（安徽）有限公司成立，由广汽集团旗下广汽能源科技有限公司全资持股，注册资本1000万人民币，经营范围包括电动汽车充电基础设施运营、充电桩销售等。",
+    "id": "8dVxWmRPtqx",
+    "order": 1728381770090,
+    "createdAt": "2024-10-08T10:02:50.000Z",
+    "publishDate": "2024-10-08T10:02:50.090Z",
+    "title": "广汽能源科技在安徽成立新公司 注册资本1000万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-08 18:02:50",
+    "uuid": "de53fbb4-0826-404b-bc2b-213d0c42c5b9"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "证券时报网" },
       { "siteName": "财联社" }
