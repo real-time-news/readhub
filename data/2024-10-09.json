@@ -1,6 +1,88 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉柏林超级工厂在投产两年半后达成生产里程碑，第40万辆Model Y量产车下线。公司已于9月25日庆祝此成就，并为员工提供免费披萨和额外假期 ...",
+    "id": "8dXIeSHLO4H",
+    "order": 1728445110819,
+    "createdAt": "2024-10-09T03:38:31.000Z",
+    "publishDate": "2024-10-09T03:38:30.819Z",
+    "title": "投产两年半：特斯拉柏林工厂第40万辆Model Y下线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 11:38:31",
+    "uuid": "a53c0239-8c84-48e5-987c-f63f2650a412"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "太美医疗科技（02576.HK）在香港交易所主板成功上市，但上市首日即破发，收报9.2港元/股，较发行价下跌29.23% ...",
+    "id": "8dW8UeIKaQs",
+    "order": 1728445088181,
+    "createdAt": "2024-10-09T03:38:08.000Z",
+    "publishDate": "2024-10-09T03:38:08.181Z",
+    "title": "太美医疗科技上市首日跌破发行价29%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 11:38:08",
+    "uuid": "88d6146c-eea8-4f0f-b6bc-d3a3368fa5fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "兰博基尼五年前决定全系转向混合动力，这一决策现在被证明是明智的。目前，消费者对大排量燃油车需求增加，兰博基尼通过混合动力化已为未来十年奠定基础 ...",
+    "id": "8dVpBrdUjJx",
+    "order": 1728445033525,
+    "createdAt": "2024-10-09T03:37:13.000Z",
+    "publishDate": "2024-10-09T03:37:13.525Z",
+    "title": "兰博基尼高管：纯电超跑仍不在计划内 依旧发力混动",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 11:37:13",
+    "uuid": "9a5404f4-d2c7-4581-b0e7-ac2852bdf1f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "大金融板块普遍下跌，中国人保跌停，中国太保、中国人寿、中国平安等多股大跌。",
+    "id": "8dXKDaayadk",
+    "order": 1728444737955,
+    "createdAt": "2024-10-09T03:32:17.000Z",
+    "publishDate": "2024-10-09T03:32:17.955Z",
+    "title": "大金融板块集体调整，中国人保跌停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 11:32:17",
+    "uuid": "d46945d2-4661-41dd-b1f6-e6c5065e3730"
+  },
+  {
+    "newsArray": [{ "siteName": "新浪科技" }, { "siteName": "界面" }],
+    "summary": "房地产板块在10月9日普遍下跌，多家公司股票跌停，包括万科A、渝开发、滨江集团、保利发展和我爱我家。",
+    "id": "8dVYsseECE6",
+    "order": 1728444771974,
+    "createdAt": "2024-10-09T03:31:49.000Z",
+    "publishDate": "2024-10-09T03:32:51.974Z",
+    "title": "房地产板块持续下挫，万科A等多股跌停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 11:31:49",
+    "uuid": "8a37e672-ff33-4ab4-a618-875b4000e98c"
+  },
+  {
+    "newsArray": [
       { "siteName": "财新网" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
