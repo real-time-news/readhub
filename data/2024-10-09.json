@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI宣布收到英伟达首批DGX B200工程机，该机型配备8个NVIDIA Blackwell GPU，与第五代NVIDIA NVLink相互连接 ...",
+    "id": "8dX8dNHaOId",
+    "order": 1728457983683,
+    "createdAt": "2024-10-09T07:13:04.000Z",
+    "publishDate": "2024-10-09T07:13:03.683Z",
+    "title": "OpenAI宣布收到英伟达首批DGX B200工程机",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 15:13:04",
+    "uuid": "e6c6759d-8bd0-4690-9713-1158b0034d21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "证券板块普遍下跌，国金证券、国盛金控、华鑫股份、首创证券、信达证券等近10股跌停。",
+    "id": "8dXZfCR9vho",
+    "order": 1728457963703,
+    "createdAt": "2024-10-09T07:12:43.000Z",
+    "publishDate": "2024-10-09T07:12:43.703Z",
+    "title": "证券板块持续走弱，国金证券等近10股跌停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 15:12:43",
+    "uuid": "b17ba602-2e7b-48f6-a16c-a103f925e971"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "界面" },
       { "siteName": "证券时报网" }
