@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "台积电公布了季度营收增长39%，超过市场预期，缓解了人们对于人工智能硬件支出减少的担忧。作为英伟达和苹果的主要芯片供应商，台积电的销售额达到了236亿美元，主要得益于人工智能芯片的强劲需求 ...",
+    "id": "8dXaXlYAV40",
+    "order": 1728469900705,
+    "createdAt": "2024-10-09T10:31:41.000Z",
+    "publishDate": "2024-10-09T10:31:40.705Z",
+    "title": "AI芯片保持强劲需求 台积电(TSM.US)Q3营收超预期大增39%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 18:31:41",
+    "uuid": "58e7ca8a-807c-4ead-a621-50718377ffd0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "OpenAI 请求驳回马斯克提出的联邦诉讼，该诉讼指控 OpenAI 推动马斯克的人工智能初创公司 xAI 进行骚扰 ...",
+    "id": "8dXkspIp8F2",
+    "order": 1728469596997,
+    "createdAt": "2024-10-09T10:26:36.000Z",
+    "publishDate": "2024-10-09T10:26:36.997Z",
+    "title": "OpenAI寻求驳回马斯克的诉讼，称其为“咆哮式”骚扰活动",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 18:26:36",
+    "uuid": "f71a463b-7c55-4b8e-96cb-0b80342b3d05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "快科技" },
+      { "siteName": "财新网" }
+    ],
+    "summary": "2024年诺贝尔化学奖授予了David Baker，Demis Hassabis和John M. Jumper，以表彰他们在计算蛋白质设计和蛋白质结构预测领域的杰出贡献。",
+    "id": "8dXnN7XE5SK",
+    "order": 1728469570632,
+    "createdAt": "2024-10-09T10:21:14.000Z",
+    "publishDate": "2024-10-09T10:26:10.632Z",
+    "title": "2024 年诺贝尔化学奖揭晓，授予 AI 计算和预测蛋白质结构科学家",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 18:21:14",
+    "uuid": "099985cb-6951-4749-9c35-226ebb891e7d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "黄冈哈行网络科技有限公司近日成立，法定代表人为吴传凡，注册资本100万人民币。该公司由上海哈啰普惠科技有限公司全资持股，经营范围包括自行车及配件零售、电动自行车销售、充电桩销售等 ...",
+    "id": "8dXgwSm7Snp",
+    "order": 1728469151561,
+    "createdAt": "2024-10-09T10:19:11.000Z",
+    "publishDate": "2024-10-09T10:19:11.561Z",
+    "title": "哈啰出行在黄冈成立网络科技公司",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 18:19:11",
+    "uuid": "20e0119d-4ea7-413c-ab8a-be90fddf47ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "韦尔股份预告2024年前三季度净利润将达22.67亿至24.67亿元，同比增长515.35%至569.64%。",
+    "id": "8dXnO1vizhB",
+    "order": 1728468798044,
+    "createdAt": "2024-10-09T10:13:18.000Z",
+    "publishDate": "2024-10-09T10:13:18.044Z",
+    "title": "韦尔股份：前三季度净利润同比预增515.35%—569.64%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-09 18:13:18",
+    "uuid": "ae5f9738-8a78-43c7-a8f5-30c31b33fb7a"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "界面" },
       { "siteName": "界面" }
