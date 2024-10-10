@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "亚马逊宣布，从10月下旬开始，美国用户可以通过Prime Video订阅苹果Apple TV+服务，每月收费9.99美元 ...",
+    "id": "8dZ4hc0k5r9",
+    "order": 1728542837582,
+    "createdAt": "2024-10-10T06:46:33.000Z",
+    "publishDate": "2024-10-10T06:47:17.582Z",
+    "title": "亚马逊宣布苹果 Apple TV+ 将以附加订阅形式加入美国区 Prime Video，每月 9.99 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-10 14:46:33",
+    "uuid": "968cce3e-36d5-4634-8af2-5e2ee4dcb3f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "法布财经" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "美国司法部考虑对谷歌实施反垄断措施，包括强制剥离Chrome浏览器和Android操作系统等业务，以打破其在线搜索的垄断地位 ...",
+    "id": "8dYmr8q205N",
+    "order": 1728542788031,
+    "createdAt": "2024-10-10T06:46:28.000Z",
+    "publishDate": "2024-10-10T06:46:28.031Z",
+    "title": "美国计划打破谷歌搜索垄断，威胁其利润引擎和人工智能增长",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-10 14:46:28",
+    "uuid": "45866ed3-363e-4b42-b1b4-4d97031cc33e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "天猫双11活动期间，商家不再担忧不合理和一刀切的“仅退款”问题。淘宝已实施优化策略，拦截不合理的“仅退款”超40万笔/日，有效整治了相关现象 ...",
+    "id": "8dZB8DRCjzn",
+    "order": 1728542858318,
+    "createdAt": "2024-10-10T06:41:07.000Z",
+    "publishDate": "2024-10-10T06:47:38.318Z",
+    "title": "淘宝：“仅退款”新策略上线两月，日均拦截超40万不合理仅退款",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-10 14:41:07",
+    "uuid": "bee659a2-ced8-45bc-b136-62b4a0b22406"
+  },
+  {
+    "newsArray": [
       { "siteName": "ZAKER" },
       { "siteName": "手机中国" },
       { "siteName": "快科技" }
