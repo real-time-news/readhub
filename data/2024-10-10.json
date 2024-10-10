@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "近期美国多地发生窃贼针对含有AT&T版iPhone的联邦快递包裹的门廊窃盗事件。窃贼事先获取精确运单号信息，利用AT&T包裹不要求买家签收的特点，快速盗走包裹 ...",
+    "id": "8dZOMAurK4e",
+    "order": 1728558251190,
+    "createdAt": "2024-10-10T11:04:11.000Z",
+    "publishDate": "2024-10-10T11:04:11.190Z",
+    "title": "美国发生多起iPhone包裹被盗事件 小偷“0元购”仅需几秒",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-10 19:04:11",
+    "uuid": "7ffeeb5a-4120-4a99-91a0-8427695d3b89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "三星电子在2024年Q3业绩预告中显示，尽管营收和净利润实现增长，但未达市场预期，引发投资者失望。公司副董事长罕见发表致歉声明，承认在AI芯片领域进展缓慢，并面临存储业务竞争压力 ...",
+    "id": "8dYvhM3qLyD",
+    "order": 1728558241154,
+    "createdAt": "2024-10-10T11:04:01.000Z",
+    "publishDate": "2024-10-10T11:04:01.154Z",
+    "title": "三星电子遭遇寒冬：开启裁员度日",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-10 19:04:01",
+    "uuid": "adb995b9-73ac-4fb5-8748-b03c188b713f"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "36Kr" },
       { "siteName": "界面" }
