@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中信证券研报指出，全球半导体产业在云端算力和存储涨价推动下已显著复苏，并预期2025年产业规模将持续增长 ...",
+    "id": "8daSSAI6d6U",
+    "order": 1728628330413,
+    "createdAt": "2024-10-11T06:32:10.000Z",
+    "publishDate": "2024-10-11T06:32:10.413Z",
+    "title": "中信证券：半导体产业整体温和复苏，后续期待AI与国产化持续拉动高需求",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-11 14:32:10",
+    "uuid": "a556ecb3-0a45-41f6-b62c-2a30bcbeb66f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "据TechInsights最新预测，Arm将在未来几年内逐渐威胁到x86在笔记本电脑市场的主导地位 ...",
+    "id": "8daqkb8Ac2g",
+    "order": 1728628277583,
+    "createdAt": "2024-10-11T06:31:17.000Z",
+    "publishDate": "2024-10-11T06:31:17.583Z",
+    "title": "机构：到2029年，Arm架构将占据笔记本电脑处理器40%以上的市场份额",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-11 14:31:17",
+    "uuid": "ca93c013-8ba4-442a-a057-a441ce0dc0aa"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
