@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "Odaily" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉“We，Robot”发布会上，马斯克透露了Optimus机器人进展顺利，预计大规模生产的成本在2-3万美元。",
+    "id": "8daebVE5Afh",
+    "order": 1728617436309,
+    "createdAt": "2024-10-11T03:26:05.000Z",
+    "publishDate": "2024-10-11T03:30:36.309Z",
+    "title": "马斯克：Optimus机器人取得很大进展 规模生产成本2-3万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-11 11:26:05",
+    "uuid": "cb38263e-0cfd-4de7-99e0-42d109824e8a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AWS副总裁马特・伍德在亚马逊工作15年后宣布离职。伍德是AWS在机器学习和人工智能领域的关键人物，曾参与推出Amazon Q等项目 ...",
+    "id": "8daVfhUaa4P",
+    "order": 1728617008972,
+    "createdAt": "2024-10-11T03:23:28.000Z",
+    "publishDate": "2024-10-11T03:23:28.972Z",
+    "title": "亚马逊 AI 版图新变数，15 年老将 Matt Wood 官宣离职",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-11 11:23:28",
+    "uuid": "fdf18aa0-bb85-49ab-8964-99107479f6b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉推出Robovan，一款能载20人亦可进行货物运输的车型。",
+    "id": "8daeSI9hr1M",
+    "order": 1728617491425,
+    "createdAt": "2024-10-11T03:22:46.000Z",
+    "publishDate": "2024-10-11T03:31:31.425Z",
+    "title": "特斯拉推出 Robovan 无人驾驶厢式货车：可承载 20 人，也可进行货物运输",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-11 11:22:46",
+    "uuid": "59fca09d-a788-4065-8b4a-3a7c91b95ad9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "北交所公告近期发现个别投资者违反规定，在大宗交易受让上市公司大股东股份后短期内卖出，已被北交所从严从快查处，实施公开谴责并限制证券账户交易6个月 ...",
+    "id": "8dadsuC38XC",
+    "order": 1728616938088,
+    "createdAt": "2024-10-11T03:22:18.000Z",
+    "publishDate": "2024-10-11T03:22:18.088Z",
+    "title": "北交所：从严打击惩处违规减持行为",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-11 11:22:18",
+    "uuid": "f37de3ce-3e8a-4f65-bcb6-03efa0286769"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" },
