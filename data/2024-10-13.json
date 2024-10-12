@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "OpenAI公司推出了Swarm框架，这是一个实验性框架，旨在解决多智能体系统编排中的复杂挑战，简化智能体的协调、执行和测试过程，让开发者能更高效地管理多个AI智能体的互动 ...",
+    "id": "8dcSRf6MrQ6",
+    "order": 1728753073115,
+    "createdAt": "2024-10-12T17:11:13.000Z",
+    "publishDate": "2024-10-12T17:11:13.115Z",
+    "title": "OpenAI推出Swarm框架：简化多AI智能体系统交互",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-13 01:11:13",
+    "uuid": "ac723ff4-7612-4007-9905-64df9868821d"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
