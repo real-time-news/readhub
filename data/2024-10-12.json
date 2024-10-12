@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微博鸿蒙客户端近期出现发微博丢字、输入法异常等问题，经排查，初步定位为鸿蒙NEXT系统问题，华为已在排期修复。微博鸿蒙版于10月8日开启公测，实现了核心功能在鸿蒙系统的全面落地 ...",
+    "id": "8dcueaJVWj4",
+    "order": 1728737178304,
+    "createdAt": "2024-10-12T12:46:18.000Z",
+    "publishDate": "2024-10-12T12:46:18.304Z",
+    "title": "微博鸿蒙客户端回应偶发打字丢字等Bug：初步定位为系统问题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-12 20:46:18",
+    "uuid": "af68cf18-55e8-4a6b-989d-3bc4b8b3ab40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "数字尾巴" },
+      { "siteName": "雷科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "2024 vivo开发者大会上，vivo展示了其自研的蓝河操作系统2，该系统全栈自研，支持多种嵌入式平台，并以AGI时代为背景，强调了其在内核、系统和生态应用方面的创新 ...",
+    "id": "8dcjwxZxXLh",
+    "order": 1728736276581,
+    "createdAt": "2024-10-12T12:31:16.000Z",
+    "publishDate": "2024-10-12T12:31:16.581Z",
+    "title": "2024VDC蓝河分会场：蓝河操作系统2 全栈自研 为AI而生",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-12 20:31:16",
+    "uuid": "c2764d3f-1aa3-45ba-9437-6dd6769571f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "小米公司旗下的子品牌POCO宣布将关闭全球网站，并从10月21日起停止在官方网站上销售产品 ...",
+    "id": "8dcbNPgr1Vu",
+    "order": 1728735972131,
+    "createdAt": "2024-10-12T12:26:12.000Z",
+    "publishDate": "2024-10-12T12:26:12.131Z",
+    "title": "POCO宣布将关闭全球网站 用户数据转移至小米官网",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-12 20:26:12",
+    "uuid": "7ff80642-d440-4bef-baa3-73e2adaba3af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "马斯克旗下的社交平台公司X撤销了对联合利华的诉讼，此前诉讼称联合利华和世界广告主联合会等合谋抵制X，导致X的收入损失 ...",
+    "id": "8dcbNiDtG38",
+    "order": 1728735393628,
+    "createdAt": "2024-10-12T12:16:33.000Z",
+    "publishDate": "2024-10-12T12:16:33.628Z",
+    "title": "马斯克旗下X撤销对联合利华的诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-12 20:16:33",
+    "uuid": "c2bdac5a-607b-4822-9f36-2e3c05ca8de0"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "IT 之家" },
       { "siteName": "财联社" }
@@ -435,6 +503,27 @@
   },
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国移动在2024年全球合作伙伴大会上发布了“低空经济高质量发展能力体系”，推动低空经济的快速发展 ...",
+    "id": "8db220yZvao",
+    "order": 1728735357858,
+    "createdAt": "2024-10-12T08:37:15.000Z",
+    "publishDate": "2024-10-12T12:15:57.858Z",
+    "title": "中国移动发布“四驱两翼”低空经济高质量发展能力体系",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-12 16:37:15",
+    "uuid": "393b1a3e-d92c-45c2-a40f-fcee86f6ab19"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "界面" },
       { "siteName": "IT 之家" }
@@ -673,6 +762,24 @@
     "up": false,
     "date": "2024-10-12 14:36:27",
     "uuid": "15e13314-c891-4579-861b-14fbadc4c7aa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "在10月12日的国新办新闻发布会上，确定了通过发行特别国债方式，支持六大行增加核心一级资本的具体模式 ...",
+    "id": "8dcOVORqXvo",
+    "order": 1728736838257,
+    "createdAt": "2024-10-12T06:21:39.000Z",
+    "publishDate": "2024-10-12T12:40:38.257Z",
+    "title": "注资“六大行”路径获得确认：时隔26年再迎特别国债加持",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-12 14:21:39",
+    "uuid": "6928ba04-869a-44e0-aedc-0f198fa93854"
   },
   {
     "newsArray": [
