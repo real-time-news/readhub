@@ -1,6 +1,115 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果公司推出了多模态大模型MM的1.5版本，该版本模型延续了数据驱动的训练原则，并研究了不同类型数据混合对模型性能的影响 ...",
+    "id": "8ddry44FB8M",
+    "order": 1728786101221,
+    "createdAt": "2024-10-13T02:21:42.000Z",
+    "publishDate": "2024-10-13T02:21:41.221Z",
+    "title": "苹果推出 300 亿参数多模态 AI 大模型 MM1.5",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-13 10:21:42",
+    "uuid": "905018f2-1e14-444b-b86f-e159ad8a274a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国地震台网测定，哥斯达黎加沿岸远海发生6.2级地震，震源深度20千米。",
+    "id": "8ddMB4t73JJ",
+    "order": 1728785749604,
+    "createdAt": "2024-10-13T02:15:49.000Z",
+    "publishDate": "2024-10-13T02:15:49.604Z",
+    "title": "哥斯达黎加沿岸远海发生6.2级地震",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-13 10:15:49",
+    "uuid": "67a37911-d062-4f7e-8d07-505a78b97e5e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "阿维塔科技总裁陈卓解释了阿维塔07 Ultra版交付周期较长的原因，主要由于关键部件从德国运至韩国总装，再运至重庆数智工厂组装，受到国际物流影响 ...",
+    "id": "8ddppq2OMar",
+    "order": 1728784930496,
+    "createdAt": "2024-10-13T02:02:11.000Z",
+    "publishDate": "2024-10-13T02:02:10.496Z",
+    "title": "阿维塔陈卓：国际物流影响 07 Ultra 部件运输，承诺按期交付、超时一天补偿 150 元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-13 10:02:11",
+    "uuid": "f35f8ddf-8256-4cb5-843c-f0992e183ef8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "2024年9月，国家统计局发布CPI和PPI数据。CPI环比持平，同比上涨0.4%，食品价格上涨0.8%，非食品价格下降0.2% ...",
+    "id": "8ddrG4m0eCt",
+    "order": 1728784235161,
+    "createdAt": "2024-10-13T01:43:39.000Z",
+    "publishDate": "2024-10-13T01:50:35.161Z",
+    "title": "国家统计局：9月份CPI环比持平，PPI环比降幅收窄",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-13 09:43:39",
+    "uuid": "5ff8be31-2884-4336-9ec2-d96a385ba7d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "国家统计局数据显示，9月份我国居民消费价格同比上涨0.4%，其中食品价格上涨3.3%，非食品价格下降0.2%。1—9月平均，全国居民消费价格比上年同期上涨0.3%。",
+    "id": "8ddquEGB8Ej",
+    "order": 1728783684983,
+    "createdAt": "2024-10-13T01:41:24.000Z",
+    "publishDate": "2024-10-13T01:41:24.983Z",
+    "title": "国家统计局：9月份居民消费价格同比上涨0.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-13 09:41:24",
+    "uuid": "de9cc301-63eb-4f27-a98b-13761af3815f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "宝钢、鞍钢、本钢等国内大型钢铁企业宣布2024年11月产品价格大幅上调，每吨最高上调600元，主要原因是订单量明显增加，推动价格回升。",
+    "id": "8ddjPJf1HH2",
+    "order": 1728781983885,
+    "createdAt": "2024-10-13T01:13:03.000Z",
+    "publishDate": "2024-10-13T01:13:03.885Z",
+    "title": "国内钢厂大幅上调11月份出厂价",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-13 09:13:03",
+    "uuid": "2948799f-6347-4db7-8ccd-2b43d004f95a"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "投资圈" },
       { "siteName": "财联社" }
@@ -15,6 +124,25 @@
     "up": false,
     "date": "2024-10-13 09:07:19",
     "uuid": "77d269ea-7407-425e-b4e8-a754cffdcfb1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "美国国家劳资关系委员会（NLRB）收到投诉，称苹果公司通过非法规定限制员工使用Slack，监控和干扰员工权利。苹果对此表示强烈反对，并称其致力于维护积极和包容的工作场所 ...",
+    "id": "8dbqD6JFJP1",
+    "order": 1728783680155,
+    "createdAt": "2024-10-13T00:41:18.000Z",
+    "publishDate": "2024-10-13T01:41:20.155Z",
+    "title": "苹果再陷劳资纠纷：被指非法限制员工使用社交媒体",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-13 08:41:18",
+    "uuid": "53a38ab1-ef53-4d26-82a3-b45698d35feb"
   },
   {
     "newsArray": [
@@ -50,6 +178,24 @@
     "up": false,
     "date": "2024-10-13 08:30:52",
     "uuid": "dc3539df-5cb2-4021-af05-6a51f3bd1c7a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "ZAKER" }
+    ],
+    "summary": "美团境外版Keeta在沙特阿拉伯首都利雅得上线，这是其继中国香港和沙特阿尔卡吉之后的第三个海外城市 ...",
+    "id": "8dd3xVRKb5Z",
+    "order": 1728782702201,
+    "createdAt": "2024-10-12T23:31:08.000Z",
+    "publishDate": "2024-10-13T01:25:02.201Z",
+    "title": "美团“外卷”沙特，利雅得或现“百团大战”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-13 07:31:08",
+    "uuid": "fcd75e76-b5a3-406b-b03e-a17fac8750d5"
   },
   {
     "newsArray": [
