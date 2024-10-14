@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软宣布将于10月17日举办Xbox合作伙伴预览活动，聚焦多款第三方开发商的新游戏及即将发布的作品，活动将通过Xbox的YouTube和Twitch频道直播，发布超过十个全新游戏预告片 ...",
+    "id": "8dgFXCQNaNw",
+    "order": 1728948956496,
+    "createdAt": "2024-10-14T23:35:56.000Z",
+    "publishDate": "2024-10-14T23:35:56.496Z",
+    "title": "微软宣布北京时间本周五举办 Xbox 合作伙伴预览活动",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-15 07:35:56",
+    "uuid": "dba7077d-486a-41bd-8169-c95b769a4ba5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "北特科技公告称，与江苏昆山经济技术开发区管理委员会签订投资协议，投资18.5亿元建设行星滚柱丝杠研发生产基地项目，项目分两期进行，一期用地80亩，二期用地60亩，旨在实现公司机器人相关技术和产品的商业化、规模化生产。",
+    "id": "8dg4Tgh9UQV",
+    "order": 1728948726752,
+    "createdAt": "2024-10-14T23:32:06.000Z",
+    "publishDate": "2024-10-14T23:32:06.752Z",
+    "title": "北特科技：拟18.5亿元投建行星滚柱丝杠研发生产基地",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-15 07:32:06",
+    "uuid": "2d4c61b1-c5f7-4fcd-849d-82c36ae50b16"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "以色列表示将避免袭击伊朗的石油基础设施，缓解了市场对中东紧张局势的担忧，导致油价下跌。WTI原油价格周一下跌2.3%，布伦特原油跌幅达4.0% ...",
+    "id": "8dgr4GJTufh",
+    "order": 1728948711506,
+    "createdAt": "2024-10-14T23:31:52.000Z",
+    "publishDate": "2024-10-14T23:31:51.506Z",
+    "title": "传以色列避免袭击伊朗原油设施 油价延续跌势 布油日内跌幅达4.0%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-15 07:31:52",
+    "uuid": "abab6a5a-1be4-48f7-b5f2-c713c95a6459"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "机器之心" },
+      { "siteName": "ofweek.com_news" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "月之暗面公司推出的kimi探索版AI，具备自主搜索和深度分析能力，搜索量是普通版的10倍，能精读500个页面，性能超过同类产品至少30% ...",
+    "id": "8dfokXAMUxU",
+    "order": 1728948704096,
+    "createdAt": "2024-10-14T23:25:58.000Z",
+    "publishDate": "2024-10-14T23:31:44.096Z",
+    "title": "月之暗面发布 Kimi 探索版：搜索量相比普通版增强 10 倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-15 07:25:58",
+    "uuid": "37ccfdac-69f2-4564-856d-83ce44f49340"
+  },
+  {
+    "newsArray": [
       { "siteName": "C114 通信网" },
       { "siteName": "ZAKER" },
       { "siteName": "品玩" }
