@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "英特尔公司宣布将在俄勒冈州裁员1300名员工，作为其全球裁员1.5万人的计划之一。此举是为了降低成本并提高效率，以应对公司在半导体领域的竞争压力和超过10亿美元的亏损 ...",
+    "id": "8djH8sEUPUO",
+    "order": 1729070187634,
+    "createdAt": "2024-10-16T09:16:27.000Z",
+    "publishDate": "2024-10-16T09:16:27.634Z",
+    "title": "英特尔宣布 11 月将在俄勒冈州裁员 1300 人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 17:16:27",
+    "uuid": "2a307efb-fd3c-4a55-9e7f-d55a027258f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "香港金融管理局（金管局）发布指引，修订逆周期宏观审慎监管措施，以稳定住宅和非住宅物业市场 ...",
+    "id": "8djDh2hFCg2",
+    "order": 1729069951789,
+    "createdAt": "2024-10-16T09:12:31.000Z",
+    "publishDate": "2024-10-16T09:12:31.789Z",
+    "title": "香港放宽物业按揭贷款比例上限至七成",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 17:12:31",
+    "uuid": "79354608-ed7a-4e41-bbbc-ed426da36b12"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "鸿蒙智行SUV问界M7在2024年的累计交付量已超过16万辆。",
+    "id": "8dixpgAGo6I",
+    "order": 1729069413208,
+    "createdAt": "2024-10-16T09:03:34.000Z",
+    "publishDate": "2024-10-16T09:03:33.208Z",
+    "title": "问界：新M7今年累计交付量已超16万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 17:03:34",
+    "uuid": "c1106865-ee65-4f3a-b857-da4dc0a2030e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "天风证券董事长庞介民在2024半年度业绩说明会上否认了公司存在与长江证券合并的计划，也确认没有其他应披露而未披露的重大事项。",
+    "id": "8djKjK9bAQV",
+    "order": 1729069353628,
+    "createdAt": "2024-10-16T09:02:33.000Z",
+    "publishDate": "2024-10-16T09:02:33.628Z",
+    "title": "天风证券董事长庞介民：不存在与长江证券合并的计划",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 17:02:33",
+    "uuid": "fa2e68dc-1ee2-4d2c-a982-8c726f5662b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "在2024联想创新科技大会上，Intel展示了全球首款采用18A工艺的移动端Panther Lake CPU样品，并交付给联想 ...",
+    "id": "8dj282u0P1Q",
+    "order": 1729069350354,
+    "createdAt": "2024-10-16T09:02:30.000Z",
+    "publishDate": "2024-10-16T09:02:30.354Z",
+    "title": "英特尔展示Panther Lake芯片，采用Intel 18A制程打造",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 17:02:30",
+    "uuid": "66e1cb28-cfd1-4687-97ef-9055c5392f1d"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -119,6 +205,24 @@
     "up": false,
     "date": "2024-10-16 16:12:18",
     "uuid": "2c52a64e-1d7d-48d5-94c4-2c7bd5426d36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "知情人士透露，高通公司可能等待美国总统大选之后，才会决定是否收购英特尔。由于新一届政府将影响反垄断格局，高通希望在新总统就职后再做决定 ...",
+    "id": "8diaGsvPkSD",
+    "order": 1729069423502,
+    "createdAt": "2024-10-16T08:03:10.000Z",
+    "publishDate": "2024-10-16T09:03:43.502Z",
+    "title": "高通据悉将等到美国11月大选后再决定对英特尔的行动",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 16:03:10",
+    "uuid": "cc389b39-4dea-4750-a326-ef5916eff406"
   },
   {
     "newsArray": [
