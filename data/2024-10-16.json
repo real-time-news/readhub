@@ -1,6 +1,182 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "光刻机巨头阿斯麦（ASML）发布2024年第三季度财报，尽管净销售额和净利润均超预期，但新增订单金额相比第二季度有所下滑 ...",
+    "id": "8diytyzg6YR",
+    "order": 1729074168334,
+    "createdAt": "2024-10-16T10:22:48.000Z",
+    "publishDate": "2024-10-16T10:22:48.334Z",
+    "title": "ASML首席财务官戴厚杰：半导体行业复苏进程比预期缓慢 长期趋势仍强劲且积极",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:22:48",
+    "uuid": "3fc82f87-a5e9-484a-b190-946ddcf356db"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "无锡银行公告，国家金融监督管理总局无锡监管分局已核准史炜担任该行副行长的任职资格。",
+    "id": "8djFgmxj8nu",
+    "order": 1729074132105,
+    "createdAt": "2024-10-16T10:22:12.000Z",
+    "publishDate": "2024-10-16T10:22:12.105Z",
+    "title": "无锡银行：副行长任职资格获监管机构核准",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:22:12",
+    "uuid": "26ecb62d-e3e4-4a1e-9b2f-88db1a2c2551"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "蚂蚁集团董事长兼CEO井贤栋在2024ESG全球领导者大会上透露，蚂蚁数科在香港金融管理局的指导下，支持内地新能源公司在香港成功获得1亿元RWA跨境融资，这是国内首个新能源RWA项目 ...",
+    "id": "8djDZ5FalQ5",
+    "order": 1729074099998,
+    "createdAt": "2024-10-16T10:21:40.000Z",
+    "publishDate": "2024-10-16T10:21:39.998Z",
+    "title": "井贤栋透露蚂蚁绿色发展新探索：支持国内首个新能源RWA项目达成",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:21:40",
+    "uuid": "f5dccedd-ebf6-44ee-86f4-84efe785e383"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "openKylin社区RISC-V SIG团队为解决RISC-V硬件平台img镜像分区格式及内容不一致的问题，开发了RISC-V统一镜像烧录工具，并发布了统一iso镜像 ...",
+    "id": "8dit7bB2MHC",
+    "order": 1729073967322,
+    "createdAt": "2024-10-16T10:19:27.000Z",
+    "publishDate": "2024-10-16T10:19:27.322Z",
+    "title": "openKylin 正式推出 RISC-V 统一镜像烧录工具，破解镜像碎片化",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:19:27",
+    "uuid": "e87f816d-92fb-487a-8bc6-f98b2ad40dcb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "隆基绿能太阳能科技公司作为第一单位在《Nature》期刊在线发表研究论文，首次报道了通过全激光图形化工艺使晶硅电池光电转换效率突破27%的成果，超过了行业标准的27% ...",
+    "id": "8djLm4RyFHX",
+    "order": 1729073940703,
+    "createdAt": "2024-10-16T10:19:00.000Z",
+    "publishDate": "2024-10-16T10:19:00.703Z",
+    "title": "晶硅太阳能电池效率首超 27%，隆基绿能成果刊登于《自然》",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:19:00",
+    "uuid": "6ce425d6-1abf-495e-a49e-76912d5a9d15"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "商务部等七部门发布通知，加强报废机动车回收监督管理，确保汽车以旧换新政策实施效果。通知包括加强回收资质认定管理，引导企业提质升级，开展非法回收拆解专项整治行动，以及加强组织实施等方面内容 ...",
+    "id": "8djPhsH4Snb",
+    "order": 1729073960285,
+    "createdAt": "2024-10-16T10:18:17.000Z",
+    "publishDate": "2024-10-16T10:19:20.285Z",
+    "title": "商务部等七部门：加强报废机动车回收监督管理工作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:18:17",
+    "uuid": "2058ee85-0ec8-4fd6-a545-e867b7cd95ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "Stellantis集团旗下豪华汽车品牌玛莎拉蒂近期销量下滑严重，公司首席执行官塔瓦雷斯指出问题主要在于营销策略不当和品牌定位模糊 ...",
+    "id": "8dj8YXsEdVw",
+    "order": 1729073892914,
+    "createdAt": "2024-10-16T10:18:12.000Z",
+    "publishDate": "2024-10-16T10:18:12.914Z",
+    "title": "Stellantis CEO承认玛莎拉蒂处于亏损状态，问题出在品牌定位不清",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:18:12",
+    "uuid": "c7c5f146-0b97-43a7-b570-3b877eee5c34"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "三星获得了一项关于可穿戴投影仪的专利，该设备能通过光束图像输出技术，从智能手机或其他电子设备投影图像，增强显示能力，实现图像的手部投射 ...",
+    "id": "8djHTWhZMn8",
+    "order": 1729073839137,
+    "createdAt": "2024-10-16T10:17:19.000Z",
+    "publishDate": "2024-10-16T10:17:19.137Z",
+    "title": "三星专利探索可穿戴投影仪：翻手为主屏幕、覆手为键盘",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:17:19",
+    "uuid": "7542e059-5be0-4ddf-846b-adbe865bb16d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "亚马逊将推出以多款知名游戏为背景的全新动画剧集《秘密关卡》，由曾参与《爱、死亡与机器人》的Tim Miller执导和制作 ...",
+    "id": "8dhRrm6Z9oe",
+    "order": 1729073691587,
+    "createdAt": "2024-10-16T10:14:51.000Z",
+    "publishDate": "2024-10-16T10:14:51.587Z",
+    "title": "亚马逊《秘密关卡》演员名单泄露 众多明星加盟",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:14:51",
+    "uuid": "51c95285-dfe8-4179-bed9-cfcca36cbc81"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中国人民银行和科技部联合印发通知，指导和推动北京、长三角、粤港澳大湾区等科技要素密集地区做好科技金融服务 ...",
+    "id": "8djQPbD6DiM",
+    "order": 1729073509549,
+    "createdAt": "2024-10-16T10:11:49.000Z",
+    "publishDate": "2024-10-16T10:11:49.549Z",
+    "title": "央行、科技部对重点地区做好科技金融服务作出部署 整合各类政策资源支持科技金融发展",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-16 18:11:49",
+    "uuid": "68ec2c3b-e9a5-4893-b4c0-a25de22a3cf6"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" },
       { "siteName": "网易科技" },
