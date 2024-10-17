@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "豆包MarsCode是解决编程难题的工具，微软宣布Azure OpenAI服务将终止个人用户订阅，只有企业客户可继续使用，个人用户需在7天内找替代方案，此举是为了符合中国法规，给个人开发者和中小型企业带来挑战。",
+    "id": "8dl8SadwXwt",
+    "order": 1729165384612,
+    "createdAt": "2024-10-17T11:43:04.000Z",
+    "publishDate": "2024-10-17T11:43:04.612Z",
+    "title": "Azure OpenAI 即将关停对中国个人用户的服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-17 19:43:04",
+    "uuid": "a881120c-12aa-4f6f-8b3a-7929a5ee9215"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "搜狐科技" },
       { "siteName": "36Kr" }
