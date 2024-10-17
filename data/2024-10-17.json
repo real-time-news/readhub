@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "SK海力士正缩减CIS等次要业务规模，全力聚焦高利润产品HBM以及CXL内存、PIM、AI SSD等新兴增长点 ...",
+    "id": "8dkj9s6bUGR",
+    "order": 1729149929337,
+    "createdAt": "2024-10-17T07:25:29.000Z",
+    "publishDate": "2024-10-17T07:25:29.337Z",
+    "title": "消息称 SK 海力士收缩 CIS 业务规模，全力聚焦 HBM 等高利润产品",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-17 15:25:29",
+    "uuid": "c6dd50b0-f1b3-4a67-b93c-430ed6c33db0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "台积电首席执行官表示不感兴趣收购英特尔晶圆厂。",
+    "id": "8dkqtbSUD0s",
+    "order": 1729149926157,
+    "createdAt": "2024-10-17T07:25:27.000Z",
+    "publishDate": "2024-10-17T07:25:26.157Z",
+    "title": "台积电首席执行官：对收购英特尔晶圆厂不感兴趣",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-17 15:25:27",
+    "uuid": "fbe3a88e-1222-4d5c-8ff8-333303aefc5d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国银行业协会发布的《城市商业银行发展报告（2024）》显示，2023年城商行资产规模稳中有升，不良贷款率下降，流动性比例上升。民营银行资产规模和贷款余额也有显著增长 ...",
+    "id": "8djXYzEbeLu",
+    "order": 1729149764098,
+    "createdAt": "2024-10-17T07:22:44.000Z",
+    "publishDate": "2024-10-17T07:22:44.098Z",
+    "title": "中银协报告：城商行2023年年末普惠贷款余额同比增长19.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-17 15:22:44",
+    "uuid": "5f403e39-9c5b-4b26-a15c-dacf6f411042"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "近日，原本宣布关闭的雇主点评网站“看准网”重新以婚恋交友服务平台的身份“复活”，新平台名为“看准”，由北京小锋科技有限公司开发运营，法定代表人为沈锋 ...",
+    "id": "8djoLZOYUNc",
+    "order": 1729149548204,
+    "createdAt": "2024-10-17T07:19:09.000Z",
+    "publishDate": "2024-10-17T07:19:08.204Z",
+    "title": "BOSS直聘涉足婚恋交友服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-17 15:19:09",
+    "uuid": "82a2240b-4e43-47de-bf74-6d379ec2862e"
+  },
+  {
+    "newsArray": [
       { "siteName": "雷科技" },
       { "siteName": "36Kr" },
       { "siteName": "快科技" }
@@ -32,6 +101,23 @@
     "up": false,
     "date": "2024-10-17 15:06:52",
     "uuid": "f181dd29-854a-4aaf-ab64-2b85a228996d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "淘宝宣布将推出一系列新措施改善营商环境，包括扩大退货凭证覆盖、升级售后工具和关闭全额仅退款评价入口等，以帮助商家降低成本和提高效率 ...",
+    "id": "8dkpEcMMNTe",
+    "order": 1729149717211,
+    "createdAt": "2024-10-17T07:02:49.000Z",
+    "publishDate": "2024-10-17T07:21:57.211Z",
+    "title": "淘宝将关闭全额仅退款评价入口，预计一年减少 265 万条中差评",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-17 15:02:49",
+    "uuid": "151ace37-09e7-4d0d-8aa8-ee884bc1fbc5"
   },
   {
     "newsArray": [
@@ -536,6 +622,25 @@
     "up": false,
     "date": "2024-10-17 12:01:50",
     "uuid": "7c300054-4288-4ef7-acc0-45033230e35a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "近期，大疆公司因在招聘过程中向投递简历被拒的用户发送营销短信引发投诉。公司回应称，由于招聘官网与官网后台系统共享，用户注册时需授权数据处理，导致部分求职者误收营销短信 ...",
+    "id": "8dkVwxs8QpX",
+    "order": 1729149832246,
+    "createdAt": "2024-10-17T03:49:14.000Z",
+    "publishDate": "2024-10-17T07:23:52.246Z",
+    "title": "应届生投简历被拒反收营销短信，大疆致歉并优化流程",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-17 11:49:14",
+    "uuid": "c53bb49c-cc52-4681-8486-563d5163003c"
   },
   {
     "newsArray": [
