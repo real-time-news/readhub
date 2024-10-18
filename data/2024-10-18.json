@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "微软公司近日通知客户，由于软件故障，从2021年9月2日至19日期间，关键安全日志数据丢失，这可能给依赖这些数据监测未经授权活动的公司带来风险 ...",
+    "id": "8dmZBloT8VI",
+    "order": 1729241229552,
+    "createdAt": "2024-10-18T08:47:09.000Z",
+    "publishDate": "2024-10-18T08:47:09.552Z",
+    "title": "问题持续 17 天，微软客户被通知安全日志丢失",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-18 16:47:09",
+    "uuid": "a24b3c98-d2ec-4fb4-88fb-cd113bcdf03c"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "智通财经" },
       { "siteName": "智通财经" }
@@ -1730,6 +1747,41 @@
     "up": false,
     "date": "2024-10-18 07:31:38",
     "uuid": "eee2a3e5-fd70-4fbc-9b62-b4127bbb65dc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "爱范儿" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "开源中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "品玩" },
+      { "siteName": "机器之心" },
+      { "siteName": "财经网" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "OpenAI为Windows用户推出了ChatGPT应用桌面客户端，目前该应用正在测试中，只有订阅了ChatGPT Plus/Enterprise/Team/Edu版本的付费用户可以在微软应用商店中下载使用 ...",
+    "id": "8dkwlFm5WP1",
+    "order": 1729241310879,
+    "createdAt": "2024-10-17T23:30:57.000Z",
+    "publishDate": "2024-10-18T08:48:30.879Z",
+    "title": "OpenAI 推出 Windows 版 ChatGPT 客户端：暂仅限付费用户测试",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-18 07:30:57",
+    "uuid": "f6df564e-b223-4ec2-8344-b0bab5c9cc93"
   },
   {
     "newsArray": [
