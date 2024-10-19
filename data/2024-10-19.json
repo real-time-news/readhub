@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子有望重新获得英伟达的游戏芯片订单，这对其市场前景构成了积极影响。由于英伟达试图减少对台积电的依赖，并寻求获得更好的定价条件，三星因此获得了一个新的机会 ...",
+    "id": "8dnl6MP9CT3",
+    "order": 1729304779921,
+    "createdAt": "2024-10-19T02:26:19.000Z",
+    "publishDate": "2024-10-19T02:26:19.921Z",
+    "title": "消息称三星将重获英伟达订单，游戏 GPU 芯片代工合作在望",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-19 10:26:19",
+    "uuid": "4fdd48b7-831b-4c5e-b83b-df65b1ab718f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "西部矿业2024年第三季度报告显示，公司前三季度营业收入约367.25亿元，同比增长13.93%，净利润约27.32亿元，同比增长24.33% ...",
+    "id": "8dmg5MHggCh",
+    "order": 1729304709041,
+    "createdAt": "2024-10-19T02:25:09.000Z",
+    "publishDate": "2024-10-19T02:25:09.041Z",
+    "title": "西部矿业：第三季度净利润约11.12亿元 同比增长60.91%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-19 10:25:09",
+    "uuid": "4ad553f6-2075-4707-9c4d-dbf2b38c1f27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "美国加州地方法官詹姆斯・多纳托针对谷歌与Epic Games的诉讼案作出新裁定，批准谷歌暂停执行先前命令，维持其在安卓应用商店的主导地位 ...",
+    "id": "8dnnG8PyMyG",
+    "order": 1729304557245,
+    "createdAt": "2024-10-19T02:22:37.000Z",
+    "publishDate": "2024-10-19T02:22:37.245Z",
+    "title": "谷歌安卓Play应用商店开放令暂停，赢得暂时喘息机会",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-19 10:22:37",
+    "uuid": "1824ca8d-2b16-474d-81c7-2bb583484c67"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "沃尔沃集团2024年第三季度财报显示，净销售额为1170亿瑞典克朗，下降12%。调整后营业利润为140.74亿瑞典克朗，同比减少27.6% ...",
+    "id": "8dmPnGqPGEr",
+    "order": 1729302693027,
+    "createdAt": "2024-10-19T01:51:33.000Z",
+    "publishDate": "2024-10-19T01:51:33.027Z",
+    "title": "沃尔沃集团三季度净销售额同比下降12%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-19 09:51:33",
+    "uuid": "32f7da58-267f-4e30-b94f-5a81aff13392"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Stellantis计划出售其在美国亚利桑那州的测试设施，以削减成本 ...",
+    "id": "8dn7oMFAO7l",
+    "order": 1729302073970,
+    "createdAt": "2024-10-19T01:41:13.000Z",
+    "publishDate": "2024-10-19T01:41:13.970Z",
+    "title": "Stellantis将出售位于美国亚利桑那州的测试设施",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-19 09:41:13",
+    "uuid": "a3b0a507-d301-45b3-8b67-c2fb165f6890"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "特斯拉的Optimus人形机器人在发布会上展示跳舞、倒饮料等技能，但后被证实是由工程师远程控制 ...",
+    "id": "8dmdR8m1h4Z",
+    "order": 1729301766250,
+    "createdAt": "2024-10-19T01:36:06.000Z",
+    "publishDate": "2024-10-19T01:36:06.250Z",
+    "title": "英伟达力挺特斯拉人形机器人：能做到远程操控也很厉害",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-19 09:36:06",
+    "uuid": "c9178ba0-c48a-4480-8de9-8e254e9f767e"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
