@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为在原生鸿蒙之夜暨全场景新品发布会上公布，鸿蒙操作系统拥有超过15000个原生应用和元服务，每天原生鸿蒙APP的迭代速度达到一次 ...",
+    "id": "8dtTuvSPykz",
+    "order": 1729601200973,
+    "createdAt": "2024-10-22T12:46:40.000Z",
+    "publishDate": "2024-10-22T12:46:40.973Z",
+    "title": "余承东：华为鸿蒙原生应用和元服务已超15000+",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 20:46:40",
+    "uuid": "bfc75faa-95dc-42c0-8fd9-14503edf53d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为在全场景新品发布会上公布了《华为终端可持续发展报告（2023-2024）》，展示了在信息无障碍、社会责任、教育和健康以及绿色环保方面的进展 ...",
+    "id": "8dtW34r0jgY",
+    "order": 1729601171605,
+    "createdAt": "2024-10-22T12:46:11.000Z",
+    "publishDate": "2024-10-22T12:46:11.605Z",
+    "title": "华为终端可持续发展报告（2023-2024）公布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 20:46:11",
+    "uuid": "9bf4316a-c250-4028-94b4-009b8831fdd4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为在10月22日的鸿蒙之夜发布会上推出了纯血鸿蒙操作系统，余承东宣布已有超过15000个鸿蒙原生应用和元服务上线，并且鸿蒙原生应用的迭代速度极快 ...",
+    "id": "8dtVLJIKoyf",
+    "order": 1729600576306,
+    "createdAt": "2024-10-22T12:36:16.000Z",
+    "publishDate": "2024-10-22T12:36:16.306Z",
+    "title": "纯血鸿蒙正式发布 已上架应用和元服务超1.5万个",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 20:36:16",
+    "uuid": "48aa8f23-9522-4ac6-9f7f-f3bdd36aef60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "财联社" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "支付宝官方宣布支持鸿蒙原生版的小程序和“碰一下”功能，用户可升级体验。鸿蒙系统手机通过近场通信技术实现快速支付，与条码支付的“扫一下”相比，具有同等安全性 ...",
+    "id": "8dtViybA9QO",
+    "order": 1729600297602,
+    "createdAt": "2024-10-22T12:31:38.000Z",
+    "publishDate": "2024-10-22T12:31:37.602Z",
+    "title": "支付宝鸿蒙原生版升级支持小程序，上线“碰一下”功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 20:31:38",
+    "uuid": "3630798f-adf4-48ee-b035-e1a26dfc0098"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "由中国电子工业标准化技术协会RISC-V工作委员会等联合主办的智能水表行业技术研讨会在山东泰安举行，中国移动发布了基于中移芯昇RISC-V架构的国产自研芯片CM6620的智能水表方案 ...",
+    "id": "8dtM3as8Xpl",
+    "order": 1729599806843,
+    "createdAt": "2024-10-22T12:23:26.000Z",
+    "publishDate": "2024-10-22T12:23:26.843Z",
+    "title": "中国移动智能水表方案发布：RISC-V 架构国产自研芯片 CM6620",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 20:23:26",
+    "uuid": "c0855543-6fa1-40eb-80e7-3b14ae94d45f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司即将推出iOS 18.1正式版，其中新加入的“临床级”助听器功能已获得美国食品药品监督管理局批准 ...",
+    "id": "8druMOLYi6b",
+    "order": 1729599802498,
+    "createdAt": "2024-10-22T12:23:22.000Z",
+    "publishDate": "2024-10-22T12:23:22.498Z",
+    "title": "iOS18.1正式版下周推出 为AirPods Pro2新增助听器功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 20:23:22",
+    "uuid": "5566ee76-77ce-4b64-a7ea-613286e36117"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
