@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "速途网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "由于PC和智能手机需求疲软，DRAM价格出现1年5个月来的首次下降，其中2024年9月交货的DDR4 8GB批发价约为每个2.04美元，4GB产品价格约为每个1.57美元，均较上月下降3%。",
+    "id": "8dskXgDmfb6",
+    "order": 1729585894806,
+    "createdAt": "2024-10-22T08:31:34.000Z",
+    "publishDate": "2024-10-22T08:31:34.806Z",
+    "title": "PC、智能手机需求不振致DRAM价格1年5个月来首降",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 16:31:34",
+    "uuid": "610a5b1a-5773-4f05-b300-7d44b138b3af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "北京京能氢安科技有限公司近日成立，法定代表人为刘毅，注册资本4800万元。该公司由北京京能科技有限公司全资持股，后者是北京能源集团有限责任公司的全资子公司 ...",
+    "id": "8dtD2a6H8gP",
+    "order": 1729585891237,
+    "createdAt": "2024-10-22T08:31:31.000Z",
+    "publishDate": "2024-10-22T08:31:31.237Z",
+    "title": "京能集团成立氢安科技公司 注册资本4800万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 16:31:31",
+    "uuid": "23f1e94a-2925-49d2-8d87-201ea2132b7a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "猎云网" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "中关村实验室、蚂蚁集团、北京大学、南方科技大学等机构联合发布了一款名为“星绽”的开源系统软件栈，包括星绽OS和星绽机密计算两大项目，旨在为云计算、数据可信流通、人工智能等安全攸关的计算场景提供安全原生的系统软件支持 ...",
+    "id": "8dtFGdfhHkP",
+    "order": 1729585527655,
+    "createdAt": "2024-10-22T08:25:28.000Z",
+    "publishDate": "2024-10-22T08:25:27.655Z",
+    "title": "“星绽”安全可信系统软件栈发布 面向全球开发者开源",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 16:25:28",
+    "uuid": "7f3f0268-6b8b-4bfb-a585-ec8a74ab35cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "天猫双11活动期间，李佳琦直播间销售额表现超预期。活动开始一小时，直播间访客人数同比增长超30%，多款国货品牌商品迅速售罄。据报道，李佳琦直播间今年双11投入5亿用于派发红包雨 ...",
+    "id": "8dsuPKVZJEI",
+    "order": 1729585326184,
+    "createdAt": "2024-10-22T08:22:06.000Z",
+    "publishDate": "2024-10-22T08:22:06.184Z",
+    "title": "开卖首日李佳琦直播间访客人数增长超30%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 16:22:06",
+    "uuid": "19ad50d9-6ea3-43e9-8f48-5406b4221e33"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "华为宣布8款设备可升级尝鲜HarmonyOS NEXT公测版，包括Pura 70系列、Pocket 2系列及MatePad Pro 11英寸2024款等 ...",
+    "id": "8dtEZBOKDlb",
+    "order": 1729584979741,
+    "createdAt": "2024-10-22T08:16:19.000Z",
+    "publishDate": "2024-10-22T08:16:19.741Z",
+    "title": "华为8款机型启动纯血鸿蒙公测升级：Pura 70在列",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 16:16:19",
+    "uuid": "c2fd423c-2eb2-4cfc-8a87-1dae41fccd5f"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "Odaily" },
       { "siteName": "Odaily" }
