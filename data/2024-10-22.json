@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "台积电新竹2纳米芯片工厂发生工安意外，一名工人触电身亡。新竹科学园区管理局已勒令停工，并要求台积电提出改善计划。待计划出台后，将进行检查，复检合格后才同意复工。",
+    "id": "8dt3bbyCazG",
+    "order": 1729582285688,
+    "createdAt": "2024-10-22T07:31:25.000Z",
+    "publishDate": "2024-10-22T07:31:25.688Z",
+    "title": "台积电新竹工厂一名工人疑似触电身亡，管理局勒令停工",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 15:31:25",
+    "uuid": "b3eac5a9-e3ad-4993-903f-2a438ac1d2ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "2024年9月，中国公共充电桩数量达到332.9万个，私人充电桩总数达到810万个，均呈现增长趋势。充电基础设施已建成世界最全面的体系，但存在布局不完善、结构不合理等问题 ...",
+    "id": "8dskX8XlMmU",
+    "order": 1729581971513,
+    "createdAt": "2024-10-22T07:26:11.000Z",
+    "publishDate": "2024-10-22T07:26:11.513Z",
+    "title": "9月全国充电公桩总量达到332.9万 增速较去年同期放缓",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 15:26:11",
+    "uuid": "6795b683-3cea-496b-a437-b89d0da704b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "国华（松原）新能源有限公司成立，法定代表人为赵永青，注册资本1亿人民币。该公司由国家能源投资集团有限责任公司的子公司国家能源集团氢能科技有限责任公司和国华能源投资有限公司共同持股 ...",
+    "id": "8drdwKt8ziz",
+    "order": 1729581909127,
+    "createdAt": "2024-10-22T07:25:09.000Z",
+    "publishDate": "2024-10-22T07:25:09.127Z",
+    "title": "国家能源集团在松原成立新能源公司 注册资本1亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 15:25:09",
+    "uuid": "5bfd5a36-596a-4be3-927d-48c3a6029864"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上海首批股票回购增持贷款项目已正式落地，中远海运集团旗下四家上市公司获得合计超20亿元贷款，占国内五分之一。",
+    "id": "8dsvFNYt7oC",
+    "order": 1729581683152,
+    "createdAt": "2024-10-22T07:21:24.000Z",
+    "publishDate": "2024-10-22T07:21:23.152Z",
+    "title": "上海首批股票回购增持贷款项目落地",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 15:21:24",
+    "uuid": "b52b6d2c-315a-4790-a1c7-ff5ba047467a"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
@@ -523,6 +592,32 @@
   },
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "云南省人力资源和社会保障厅公布2024年第三批重大劳动保障违法案件，涉及7起违法事件。",
+    "id": "8driwSdmEdx",
+    "order": 1729581741092,
+    "createdAt": "2024-10-22T03:33:01.000Z",
+    "publishDate": "2024-10-22T07:22:21.092Z",
+    "title": "云南2024年第三批重大劳动保障违法案件公布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 11:33:01",
+    "uuid": "a57b2d42-5840-41db-9834-4ee34574daf1"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
@@ -970,6 +1065,25 @@
     "up": false,
     "date": "2024-10-22 09:27:04",
     "uuid": "d598dfd2-ac37-4e6d-97fd-2dbce90eaa48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "新闻集团旗下的道琼斯集团和《纽约邮报》起诉AI初创公司Perplexity，指控其大规模复制并利用受版权保护的新闻内容生成回应，吸引用户流量，并要求赔偿和停止侵权 ...",
+    "id": "8dsMyawGSHI",
+    "order": 1729581171495,
+    "createdAt": "2024-10-22T01:26:19.000Z",
+    "publishDate": "2024-10-22T07:12:51.495Z",
+    "title": "Perplexity被两大新闻机构起诉 指控其AI工具侵犯版权",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-22 09:26:19",
+    "uuid": "d6c7d0da-9d52-456a-902a-76ef2d40f84a"
   },
   {
     "newsArray": [
