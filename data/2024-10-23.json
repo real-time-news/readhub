@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "港股汽车股在10月23日继续上涨，其中吉利汽车涨幅达到6.01%，理想汽车-W涨4.75%，小鹏汽车-W涨2.24%。",
+    "id": "8duYMh9UETi",
+    "order": 1729656398037,
+    "createdAt": "2024-10-23T04:02:34.000Z",
+    "publishDate": "2024-10-23T04:06:38.037Z",
+    "title": "港股汽车股延续涨势，吉利汽车涨超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-23 12:02:34",
+    "uuid": "76dbcb07-db71-43b7-88a0-18fa50913070"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "赛门铁克发现多款热门移动应用程序因开发错误和不良实践，内置了未加密的硬编码凭证，可能被恶意利用，危及用户数据安全 ...",
+    "id": "8duZo7gWjmP",
+    "order": 1729656140283,
+    "createdAt": "2024-10-23T04:02:20.000Z",
+    "publishDate": "2024-10-23T04:02:20.283Z",
+    "title": "多款百万下载量移动应用被曝安全隐患：代码未加密硬编码凭证",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-23 12:02:20",
+    "uuid": "1f877120-0093-474f-a76e-47d4605962cf"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线" },
       { "siteName": "财联社" }
@@ -100,6 +135,24 @@
     "up": false,
     "date": "2024-10-23 11:43:06",
     "uuid": "6f51ec80-130b-4ceb-8680-0337ab48d75b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "本文主要讨论了当前股市中的结构性机会，重点关注了市场两大主线：一是风能设备板块的持续上涨，二是军工板块的走高 ...",
+    "id": "8dsvyRoBYwx",
+    "order": 1729656034370,
+    "createdAt": "2024-10-23T03:43:05.000Z",
+    "publishDate": "2024-10-23T04:00:34.370Z",
+    "title": "午评：沪指半日涨0.79% 军工、风电板块强势",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-23 11:43:05",
+    "uuid": "3fd37f8b-d4b6-4618-8d53-2dc2071b786e"
   },
   {
     "newsArray": [
