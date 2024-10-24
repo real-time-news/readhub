@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软官方的Windows 11虚拟机因“持续的技术问题”暂停下载。所有Windows 11官方开发环境虚拟机截至2024年10月23日已过期，用户运行中的虚拟机将面临激活问题，每小时桌面背景会变黑并关闭一次 ...",
+    "id": "8dwknmk5mKN",
+    "order": 1729812711600,
+    "createdAt": "2024-10-24T23:31:52.000Z",
+    "publishDate": "2024-10-24T23:31:51.600Z",
+    "title": "微软 Win11 系统官方虚拟机暂停下载，因“持续的技术问题”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 07:31:52",
+    "uuid": "dc444524-139e-44e1-b050-b105c2ecfbe1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "商业银行积极运用互换便利和回购增持贷等金融创新工具，寻找业务机会。工行、农行、中行、邮储银行和浦发银行已落地首批互换便利工具债券回购交易，而多家股份行也实施了股票回购增持贷款 ...",
+    "id": "8dx1fEemHHI",
+    "order": 1729812694147,
+    "createdAt": "2024-10-24T23:31:34.000Z",
+    "publishDate": "2024-10-24T23:31:34.147Z",
+    "title": "两大创新金融工具落地，银行火速布局拿下首批客户",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 07:31:34",
+    "uuid": "9430b1c2-dbaa-4ce7-8536-7e62d03391e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "第三届北斗规模应用国际峰会于湖南株洲举办，期间千寻位置CEO陈金培宣布时空智能全球通服务正式商用。",
+    "id": "8dweN66tDT6",
+    "order": 1729812658617,
+    "createdAt": "2024-10-24T23:30:59.000Z",
+    "publishDate": "2024-10-24T23:30:58.617Z",
+    "title": "千寻位置全球增强服务正式商用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 07:30:59",
+    "uuid": "cd23ff0b-2c26-4aef-8c7c-15c99dc3e02b"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
