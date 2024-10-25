@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "牛透社" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "2024年上半年，中国IT安全软件市场整体收入约112.5亿元，同比增长4.1%。市场由七个子市场构成，政府、金融、运营商等行业为主要的投入力量 ...",
+    "id": "8dwCvUOQgLc",
+    "order": 1729816877758,
+    "createdAt": "2024-10-25T00:41:17.000Z",
+    "publishDate": "2024-10-25T00:41:17.758Z",
+    "title": "报告称上半年IT安全软件市场规模112.5亿元，同比增长4.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 08:41:17",
+    "uuid": "efbe0a5b-fdb5-4419-97bb-bce570068376"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "社保基金出现在9只科创板股的前十大流通股东名单中，持股量共计2949.44万股，市值达到10.49亿元 ...",
+    "id": "8duQtTK0y6i",
+    "order": 1729816362505,
+    "createdAt": "2024-10-25T00:32:42.000Z",
+    "publishDate": "2024-10-25T00:32:42.505Z",
+    "title": "社保基金现身9只科创板股前十大流通股东榜",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 08:32:42",
+    "uuid": "19aa0137-867a-4c55-8abd-af289f993b49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "2024年第三季度，中国智能手机市场出货量同比增长3.2%，实现连续四个季度增长。vivo、Huawei、Xiaomi等品牌表现突出，共同推动了Android市场同比增长3.8% ...",
+    "id": "8dxgOkjtT5w",
+    "order": 1729816359153,
+    "createdAt": "2024-10-25T00:32:39.000Z",
+    "publishDate": "2024-10-25T00:32:39.153Z",
+    "title": "IDC：三季度中国智能手机市场保持增势",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 08:32:39",
+    "uuid": "9ab9af17-19dd-4ef9-be21-2fc474afcf22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "台积电美国分部总裁Rick Cassidy在网络研讨会上表示，台积电亚利桑那工厂生产的芯片良率比台湾同类工厂高出约4个百分点。",
+    "id": "8dxb2VjwpZy",
+    "order": 1729816022238,
+    "createdAt": "2024-10-25T00:27:02.000Z",
+    "publishDate": "2024-10-25T00:27:02.238Z",
+    "title": "台积电亚利桑那工厂芯片良率据悉超越在台同类工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 08:27:02",
+    "uuid": "3a12423a-9772-4048-8841-5cc44a83d27c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司推出了“私有云计算”系统，强调数据处理安全性，并承诺保护用户隐私。为验证系统安全，苹果提供虚拟研究环境和安全指南，并公开部分源代码 ...",
+    "id": "8dxbNioff6D",
+    "order": 1729815370885,
+    "createdAt": "2024-10-25T00:16:10.000Z",
+    "publishDate": "2024-10-25T00:16:10.885Z",
+    "title": "苹果为AI打造“云安全堡垒”，公开指南引热议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 08:16:10",
+    "uuid": "71943faa-27f6-4366-85c4-556a3ffbbca9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "华泰证券研报指出，Servicenow在3Q24业绩会上展示了强劲的收入增长，达27.97亿美元，同比增长22%。公司上调了FY24全年订阅收入指引，显示出订阅业务需求旺盛 ...",
+    "id": "8dwYOWqGmA4",
+    "order": 1729815082672,
+    "createdAt": "2024-10-24T23:55:22.000Z",
+    "publishDate": "2024-10-25T00:11:22.672Z",
+    "title": "华泰证券：积极把握AI机遇，海外AI Agent逐步落地",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 07:55:22",
+    "uuid": "aed3fb33-1bf6-4c7a-a1e2-3589d9820447"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -32,6 +137,25 @@
     "up": false,
     "date": "2024-10-25 07:42:25",
     "uuid": "535feb25-42c8-4501-b5ed-8e448a0053b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "长三角区域原油管网今年管输量已超过6000万吨，自“十四五”以来每年增长超5%。",
+    "id": "8dxb1FbQscq",
+    "order": 1729814434967,
+    "createdAt": "2024-10-24T23:42:20.000Z",
+    "publishDate": "2024-10-25T00:00:34.967Z",
+    "title": "长三角区域原油管网今年管输量突破6000万吨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 07:42:20",
+    "uuid": "72240a58-ce1a-4fd6-8865-e4bcd5c9a114"
   },
   {
     "newsArray": [
