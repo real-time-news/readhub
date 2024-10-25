@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "阿里巴巴达摩院推出了一款名为CoI-Agent的AI工具，该工具能根据输入的论文主题自动生成相关的科研想法，包括关键词、研究问题和研究方法，旨在提高科研人员的工作效率，适用于自然科学、社会科学、工程技术等多个领域。",
+    "id": "8dxst2yR7zk",
+    "order": 1729830167625,
+    "createdAt": "2024-10-25T04:22:47.000Z",
+    "publishDate": "2024-10-25T04:22:47.625Z",
+    "title": "阿里达摩院开源 CoI-Agent：一键生成科研 idea 的 AI 研究助手",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 12:22:47",
+    "uuid": "cb908ed7-3b52-4eee-b143-83e404de360e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Anthropic公司推出了Claude 3.5 Sonnet和Claude 3.5 Haiku更新，并新增了一款分析工具，该工具支持编写和运行JavaScript代码，用于处理数据、分析并实时生成洞察 ...",
+    "id": "8dxtG9j1lna",
+    "order": 1729830163219,
+    "createdAt": "2024-10-25T04:22:43.000Z",
+    "publishDate": "2024-10-25T04:22:43.219Z",
+    "title": "Claude AI 上线新工具：分析、可视化 CSV 文件中的数据",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 12:22:43",
+    "uuid": "634dcb14-54c9-489e-b0d9-f6016e624a55"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "中国国内首艘自主研发、设计及建造的大型出口客滚船“GNV·北极星”号在广州南沙交付，标志着中国在内装材料领域实现了100%国产化，打破了国外的垄断 ...",
+    "id": "8dx7wnmlkm7",
+    "order": 1729830102810,
+    "createdAt": "2024-10-25T04:21:42.000Z",
+    "publishDate": "2024-10-25T04:21:42.810Z",
+    "title": "国内首艘自主研制大型出口客滚船在广州交付，内装完全国产化",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 12:21:42",
+    "uuid": "bfe77fe6-b20a-41fb-8913-cff2d573fc1d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "石头科技与苏州丝绸博物馆展开技术跨界合作，推动丝绸文化传承与发展。石头科技捐赠定制化分子筛低温烘干除湿设备给苏州丝绸博物馆，提升丝绸护理效率，并得到苏绣非遗传承人与博物馆的高度认可 ...",
+    "id": "8dwuW4rCXrK",
+    "order": 1729829908799,
+    "createdAt": "2024-10-25T04:18:28.000Z",
+    "publishDate": "2024-10-25T04:18:28.799Z",
+    "title": "石头洗衣机跨界特展开幕 用科技赋能丝绸文化的传承与发展",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 12:18:28",
+    "uuid": "66cb12f7-a7b6-4100-9d1e-980c36b8c2b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2024年第三季度，中国智能手机市场出货量约6878万台，同比增长3.2%，连续四个季度保持增长 ...",
+    "id": "8dxhoRsspNd",
+    "order": 1729829810387,
+    "createdAt": "2024-10-25T04:16:50.000Z",
+    "publishDate": "2024-10-25T04:16:50.387Z",
+    "title": "2024Q3中国智能手机市场：vivo领跑，苹果华为小米荣耀紧随其后",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 12:16:50",
+    "uuid": "9ca2ce32-f61a-4130-ac0d-b4aa815a541f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "大众汽车复兴的美国汽车品牌Scout发布两款新车，包括全尺寸皮卡和SUV，提供纯电和增程两种动力选择，预计售价在50,000至60,000美元之间，将于2027年上市销售 ...",
+    "id": "8dxh6ngvUxc",
+    "order": 1729829526746,
+    "createdAt": "2024-10-25T04:12:06.000Z",
+    "publishDate": "2024-10-25T04:12:06.746Z",
+    "title": "大众 Scout 品牌推出全新皮卡 / SUV：可选纯电 / 增程，5 万-6 万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 12:12:06",
+    "uuid": "fe5086b2-e7f0-4af9-b7b1-143087ef9541"
+  },
+  {
+    "newsArray": [
       { "siteName": "搜狐科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "C114 通信网" }
@@ -49,6 +153,25 @@
     "up": false,
     "date": "2024-10-25 11:37:10",
     "uuid": "5101a5f0-dc1d-47da-a740-09c12142e311"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "奈雪的茶关联公司深圳市品道餐饮管理有限公司被曝新增欠税公告，涉及印花税，欠税余额31万余元。但奈雪的茶回应称，该欠税信息系误传，公司并无欠税情况，已向税务部门反馈。",
+    "id": "8dxrotClzxW",
+    "order": 1729829916738,
+    "createdAt": "2024-10-25T03:27:36.000Z",
+    "publishDate": "2024-10-25T04:18:36.738Z",
+    "title": "奈雪的茶回应欠税：欠税信息系误传 已向税务部门反馈",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-25 11:27:36",
+    "uuid": "9d3e7836-d27f-4730-b243-1cd7224b28e6"
   },
   {
     "newsArray": [
