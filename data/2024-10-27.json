@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "北斗三号卫星系统总设计师林宝军在第三届北斗规模应用国际峰会上表示，尽管北斗三号已圆满收官，但其发展并未止步 ...",
+    "id": "8dzcoiutcp9",
+    "order": 1730001065304,
+    "createdAt": "2024-10-27T03:51:05.000Z",
+    "publishDate": "2024-10-27T03:51:05.304Z",
+    "title": "北斗三号总设计师：天上应用世界一流，地面精度待提升",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-27 11:51:05",
+    "uuid": "d2dc4433-7182-47b7-bbec-1cf4c354509f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Anthropic公司推出了一个基于Claude AI的JavaScript沙盒工具，该工具允许用户编写和测试JavaScript代码，并可上传本地文件进行分析处理和可视化 ...",
+    "id": "8e19pvX2iPG",
+    "order": 1730000937868,
+    "createdAt": "2024-10-27T03:48:57.000Z",
+    "publishDate": "2024-10-27T03:48:57.868Z",
+    "title": "Claude 新增 JavaScript 沙盒工具：AI 写代码、可上传自有代码",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-27 11:48:57",
+    "uuid": "877acdbd-6868-4a0d-99f6-046e1a9ed1b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "网约车公司Lyft因宣传司机薪酬方式不当，与FTC达成和解，同意支付210万美元罚款。Lyft曾夸大司机每小时收入，实际收入与宣传有30%差距，还未能充分说明其“收入保证” ...",
+    "id": "8e0yPksTvQl",
+    "order": 1730000760166,
+    "createdAt": "2024-10-27T03:46:00.000Z",
+    "publishDate": "2024-10-27T03:46:00.166Z",
+    "title": "Lyft因虚假宣传司机收入，被罚210万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-27 11:46:00",
+    "uuid": "1580db56-172c-4cc0-bc4f-fa39efbd8675"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" },
       { "siteName": "界面" }
