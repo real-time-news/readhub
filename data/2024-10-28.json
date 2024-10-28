@@ -1,6 +1,123 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "起亚汽车公司发布2021年第三季度业绩报告，显示营业利润同比增长0.6%，达2.88万亿韩元。销售额同比增长3.8%，达26.52万亿韩元 ...",
+    "id": "8e1feN7yyIg",
+    "order": 1730078159050,
+    "createdAt": "2024-10-28T01:16:00.000Z",
+    "publishDate": "2024-10-28T01:15:59.050Z",
+    "title": "新能源汽车销量创新高 起亚Q3利润创纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-28 09:16:00",
+    "uuid": "c0ec7755-f4ef-4172-930c-161a83bfe1bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "随着上市公司三季报的披露，百亿级私募的最新持仓情况得以揭示。统计显示，有59家上市公司的前十大流通股股东名单中出现了百亿级私募。专用设备和光学光电子板块是百亿级私募的主要投资领域 ...",
+    "id": "8e2P0sAXewL",
+    "order": 1730076178806,
+    "createdAt": "2024-10-28T00:42:58.000Z",
+    "publishDate": "2024-10-28T00:42:58.806Z",
+    "title": "百亿级私募最新持仓亮相，科技板块成新宠",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-28 08:42:58",
+    "uuid": "d5e27bd7-124f-44d2-9788-ccc08f4cdf46"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "波音公司面临工会罢工和现金储备减少的双重困境，计划最早于周一启动高达150亿美元的融资计划，并可能根据需要增加筹资金额 ...",
+    "id": "8e2dgRukemm",
+    "order": 1730075784298,
+    "createdAt": "2024-10-28T00:36:25.000Z",
+    "publishDate": "2024-10-28T00:36:24.298Z",
+    "title": "消息称波音即将启动超 150 亿美元融资计划，应对罢工和财务压力",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-28 08:36:25",
+    "uuid": "764e7dc2-da30-4ef0-8288-7770cdc10139"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "英特尔宣布扩容成都封装测试基地，新增服务器芯片封装测试服务，并设立客户解决方案中心，以提高本土供应链效率，加大对中国客户支持，提升响应速度 ...",
+    "id": "8e2f6UJfa08",
+    "order": 1730075770270,
+    "createdAt": "2024-10-28T00:36:11.000Z",
+    "publishDate": "2024-10-28T00:36:10.270Z",
+    "title": "英特尔宣布扩容成都封装测试基地，加强本土供应链和客户支持",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-28 08:36:11",
+    "uuid": "426ce87c-fc75-4347-9096-32437353cc22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "智通财经" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财新网" }
+    ],
+    "summary": "中国人民银行宣布启动公开市场买断式逆回购操作工具，以维护银行体系流动性，丰富货币政策工具箱。该操作对象为公开市场业务一级交易商，每月一次，期限不超过1年 ...",
+    "id": "8e2e25QRNLO",
+    "order": 1730074260654,
+    "createdAt": "2024-10-28T00:11:00.000Z",
+    "publishDate": "2024-10-28T00:11:00.654Z",
+    "title": "央行：即日起启用公开市场买断式逆回购操作工具",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-28 08:11:00",
+    "uuid": "6536c12e-cd56-409f-beef-c33b3299bfec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "苹果公司计划在未来几周内向测试版用户推出新的Genmoji、Image Playground和Image Wand功能 ...",
+    "id": "8e2cxrPe5kn",
+    "order": 1730073679207,
+    "createdAt": "2024-10-28T00:01:20.000Z",
+    "publishDate": "2024-10-28T00:01:19.207Z",
+    "title": "苹果确认：Genmoji等功能会在未来几周内在iOS 18.2测试版中提供",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-28 08:01:20",
+    "uuid": "49ccff66-5473-420f-9ca1-b1f56b4f3019"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -15,6 +132,24 @@
     "up": false,
     "date": "2024-10-28 07:56:35",
     "uuid": "fd8f94c2-976e-4eda-a709-d9d51ac2455c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "德国大众汽车计划节省约40亿欧元（约合43亿美元）成本，措施包括减薪、暂停加薪和关闭数家德国工厂，主要针对表现不佳的乘用车品牌。",
+    "id": "8e1ywg8Iw7u",
+    "order": 1730076643527,
+    "createdAt": "2024-10-27T23:49:07.000Z",
+    "publishDate": "2024-10-28T00:50:43.527Z",
+    "title": "据悉大众汽车董事会正在起草节约成本的方案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-28 07:49:07",
+    "uuid": "435254bf-dc7d-4aea-8a93-7fa4dc0968b7"
   },
   {
     "newsArray": [
@@ -50,6 +185,25 @@
     "up": false,
     "date": "2024-10-28 07:31:31",
     "uuid": "8483efd7-edbc-4dbf-ae93-e73723a993c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "福建证监局对紫天科技及北京亚泰会计师事务所拒绝配合监管执法的行为立案调查。紫天科技因阻碍执法被福州市公安机关刑事立案，涉嫌隐匿会计凭证等 ...",
+    "id": "8e215lKp3JT",
+    "order": 1730077857001,
+    "createdAt": "2024-10-27T23:11:29.000Z",
+    "publishDate": "2024-10-28T01:10:57.001Z",
+    "title": "涉嫌拒绝、阻碍证券执法,紫天科技及其年审机构被立案调查",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-28 07:11:29",
+    "uuid": "288d9ac4-a57a-4397-a0d2-d3ec2c42933a"
   },
   {
     "newsArray": [
