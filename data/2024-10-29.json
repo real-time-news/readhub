@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "顺丰控股2024年前三季度净利润76.17亿元，同比增长21.59%，其中第三季度净利润28.1亿元，同比增长34.59%。营业收入724.51亿元，同比增长12.07%。",
+    "id": "8e4tk2vlY3s",
+    "order": 1730191443602,
+    "createdAt": "2024-10-29T08:44:04.000Z",
+    "publishDate": "2024-10-29T08:44:03.602Z",
+    "title": "顺丰控股：前三季度归母净利润76.17亿元，同比增长21.59%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 16:44:04",
+    "uuid": "bc8a4243-5530-4ec3-9f15-6f31f1943da6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "太平洋公司公布前三季度业绩，营业收入同比下降16.45%，净利润下降45.71%，主要因固定收益类投资业务收入减少 ...",
+    "id": "8e4sKLjebJx",
+    "order": 1730191326559,
+    "createdAt": "2024-10-29T08:42:06.000Z",
+    "publishDate": "2024-10-29T08:42:06.559Z",
+    "title": "太平洋：第三季度归母净利润为6792.95万元，同比增长65.10%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 16:42:06",
+    "uuid": "81b6e34e-67b8-4289-96e6-7718fb3a52d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OPPO宣布与InterDigital签署全球专利许可协议，涵盖蜂窝网络、HEVC视频及WiFi专利，结束全球所有未决诉讼 ...",
+    "id": "8e4rwQhVXw2",
+    "order": 1730191079536,
+    "createdAt": "2024-10-29T08:37:59.000Z",
+    "publishDate": "2024-10-29T08:37:59.536Z",
+    "title": "OPPO 与 InterDigital 签署全球专利许可协议，结束所有未决诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 16:37:59",
+    "uuid": "61de8f87-1aef-4eda-8849-b1d418fb2c1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "机器之心" }
+    ],
+    "summary": "北京智源人工智能研究院（BAAI）推出了新的扩散模型架构 OmniGen，这是一种用于统一图像生成的多模态模型 ...",
+    "id": "8e4fo1b9xTc",
+    "order": 1730191034757,
+    "createdAt": "2024-10-29T08:37:14.000Z",
+    "publishDate": "2024-10-29T08:37:14.757Z",
+    "title": "智源推出全能视觉生成模型 OmniGen：支持文生图、图像编辑等",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 16:37:14",
+    "uuid": "24343e24-6f6c-42c8-b264-ade5101ebc0e"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
