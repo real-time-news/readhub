@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "良品铺子公布前三季度财报，营收54.80亿元，同比下降8.66%。净利润1939.03万元，同比大降89.86%。",
+    "id": "8e52tWQYt9U",
+    "order": 1730201558300,
+    "createdAt": "2024-10-29T11:32:39.000Z",
+    "publishDate": "2024-10-29T11:32:38.300Z",
+    "title": "良品铺子：前三季度净利润同比下降89.86%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 19:32:39",
+    "uuid": "116fb7a0-46fd-4b26-b129-3f419c7760c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "VR陀螺" }
+    ],
+    "summary": "Rokid 日前宣布将于 2024 年 11 月 18 日在中国杭州举办 Rokid Jungle 2024 合作伙伴暨新品发布会 ...",
+    "id": "8e4R9G9vMz0",
+    "order": 1730201555420,
+    "createdAt": "2024-10-29T11:32:35.000Z",
+    "publishDate": "2024-10-29T11:32:35.420Z",
+    "title": "Rokid官宣新品发布会，或联合BOLON眼镜带来AI新品",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 19:32:35",
+    "uuid": "a39c5e2d-62e9-49d5-a9da-3274d5ddebea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国汽车工业协会宣布，小米汽车科技有限公司等75家公司和大学机构成为第118批会员单位。中汽协会是世界汽车组织（OICA）的常任理事会员单位。",
+    "id": "8e4z5RHyLmj",
+    "order": 1730201534911,
+    "createdAt": "2024-10-29T11:32:15.000Z",
+    "publishDate": "2024-10-29T11:32:14.911Z",
+    "title": "小米汽车公司获批成为中汽协会会员",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 19:32:15",
+    "uuid": "f66eedad-efd7-4ba0-8925-519316b1e6b9"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" }
