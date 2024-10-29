@@ -1,6 +1,128 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "群晖官方更新了旗下DSM 7.2系统设备的Synology Photos套件应用和BeeStation OS系统设备的BeePhotos应用，修复了一个在PWN2OWN 2024爱尔兰黑客大赛上被发现的严重漏洞，该漏洞允许远程攻击者执行任意代码 ...",
+    "id": "8e4z5Oo7lHk",
+    "order": 1730204062564,
+    "createdAt": "2024-10-29T12:14:22.000Z",
+    "publishDate": "2024-10-29T12:14:22.564Z",
+    "title": "修复严重任意代码执行漏洞，群晖为旗下两款图片应用推出更新",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 20:14:22",
+    "uuid": "9b6a46f3-2cd9-4bb4-be0d-f85d15c9ddd9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "TCL科技2024年前三季度营业收入1230.28亿元，同比下降7.57%。归母净利润15.25亿元，同比下降5.34% ...",
+    "id": "8e56JPOpObp",
+    "order": 1730204035905,
+    "createdAt": "2024-10-29T12:13:55.000Z",
+    "publishDate": "2024-10-29T12:13:55.905Z",
+    "title": "TCL科技：前三季度归母净利润15.25亿元，同比下降5.34%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 20:13:55",
+    "uuid": "78717196-3982-4ccc-a136-4d1e857702bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英飞凌公司宣布成功研发全球最薄的硅功率晶圆，其厚度仅20微米，为头发丝直径的四分之一，打破了目前最先进的40-60微米晶圆厚度记录 ...",
+    "id": "8e582aiIJxV",
+    "order": 1730203938050,
+    "createdAt": "2024-10-29T12:12:18.000Z",
+    "publishDate": "2024-10-29T12:12:18.050Z",
+    "title": "英飞凌宣布推出全球最薄硅功率晶圆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 20:12:18",
+    "uuid": "412620b5-c647-4649-9354-94a7ec2daaf0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌将推出 Pixel 10 与 Pixel 11 系列手机，分别于 2025 年和 2026 年发布 ...",
+    "id": "8e4O5B4Yd20",
+    "order": 1730203638948,
+    "createdAt": "2024-10-29T12:07:18.000Z",
+    "publishDate": "2024-10-29T12:07:18.948Z",
+    "title": "谷歌 Pixel 10 和 11 系列新曝光：支持 4K 60 帧 HDR 录制",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 20:07:18",
+    "uuid": "7de153cf-3cda-44a6-9e7d-e068c6511268"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "小米在举办的小米15系列及澎湃OS 2新品发布会上，副总裁金凡展示了闭关一年后的成果。澎湃OS 2带来了微架构调度器自研技术，显著提升了CPU效率和系统性能，实现了全生态设备流畅运行 ...",
+    "id": "8e56wk1IF71",
+    "order": 1730203451803,
+    "createdAt": "2024-10-29T12:04:12.000Z",
+    "publishDate": "2024-10-29T12:04:11.803Z",
+    "title": "小米正式公布澎湃OS 2系统：CPU空转时长降低19%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 20:04:12",
+    "uuid": "fd45d0b2-07f5-46fd-a189-59acb2eab242"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "小米新品发布会上，雷军宣布小米智驾城市领航功能将于10月30日全面推送，并透露小米汽车今年研发投入预计达240亿人民币，到2025年预计达300亿人民币 ...",
+    "id": "8e56xYhG9tH",
+    "order": 1730203440575,
+    "createdAt": "2024-10-29T12:04:01.000Z",
+    "publishDate": "2024-10-29T12:04:00.575Z",
+    "title": "雷军：小米智驾城市领航功能10月30日开启全量推送",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 20:04:01",
+    "uuid": "4842911b-2ee3-441b-8eb9-d7b914a737b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "i黑马" },
+      { "siteName": "界面" }
+    ],
+    "summary": "广州知名烘焙品牌“勿理堂”因资金链断裂突然关闭所有广州门店，引发关注。公司法人代表黄卓华发布公开声明，澄清并未卷款跑路。但消费者反映，会员储值卡内的款项难以追回 ...",
+    "id": "8e33OrKiVPV",
+    "order": 1730203297968,
+    "createdAt": "2024-10-29T12:01:38.000Z",
+    "publishDate": "2024-10-29T12:01:37.968Z",
+    "title": "资金链断裂 知名烘焙品牌勿理堂广州门店全关",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-29 20:01:38",
+    "uuid": "b10f1762-c3cb-40ed-b813-f3b226da807a"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "证券时报网" },
       { "siteName": "铅笔道" }
