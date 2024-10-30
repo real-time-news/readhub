@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "中国移动千兆宽带用户数量突破1亿，这一里程碑标志着中国移动在宽带市场的领先地位。公司积极响应国家战略，推动技术升级，丰富应用场景，提升服务质量，不断推动数字生活的发展 ...",
+    "id": "8e65hvcbKiP",
+    "order": 1730259652369,
+    "createdAt": "2024-10-30T03:36:41.000Z",
+    "publishDate": "2024-10-30T03:40:52.369Z",
+    "title": "中国移动千兆宽带用户破1亿：引领数字生活新篇章",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 11:36:41",
+    "uuid": "306c8981-3e46-4ebd-8926-f7579a900755"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "法布财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "三星在AI领域的表现不如预期，市值蒸发1220亿美元。公司原本被视为能够从AI热潮中获益，但市场对其在AI内存和代工芯片制造领域的竞争力表示担忧 ...",
+    "id": "8e68CqY7xL1",
+    "order": 1730259498555,
+    "createdAt": "2024-10-30T03:31:55.000Z",
+    "publishDate": "2024-10-30T03:38:18.555Z",
+    "title": "错失AI浪潮，三星市值蒸发1220亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 11:31:55",
+    "uuid": "440cbbd0-d6d1-4b03-a307-3547601a8432"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
@@ -160,6 +196,58 @@
   },
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果官网推出了2024款Mac mini，提供M4和M4 Pro两款配置可选，价格分别为4499元起和10999元起 ...",
+    "id": "8e5LxJowsMh",
+    "order": 1730259006274,
+    "createdAt": "2024-10-30T02:26:25.000Z",
+    "publishDate": "2024-10-30T03:30:06.274Z",
+    "title": "苹果 2024 款 Mac mini M4 款均配备雷雳 4 接口，仅 M4 Pro 款配备雷雳 5",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 10:26:25",
+    "uuid": "2e0e5ed7-af61-4594-9ffc-41953f489ff5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "陆家嘴第三季度的财报显示，前三季度营收69.09亿元，同比增长14.50%，但归母净利润为10.55亿元，同比下降3.76%，基本每股收益为0.2158元。",
+    "id": "8e4sajmFV0O",
+    "order": 1730259030127,
+    "createdAt": "2024-10-30T02:22:37.000Z",
+    "publishDate": "2024-10-30T03:30:30.127Z",
+    "title": "陆家嘴：前三季度归母净利润10.55亿元，同比下降3.76%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 10:22:37",
+    "uuid": "f25462ef-0369-40c4-8244-79d3e720529c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "Visa计划在今年年底前裁员约1400名雇员和合同工，作为精简国际业务计划的一部分。大约1000个技术岗位将被裁员，其余岗位将集中在销售和全球数字合作伙伴关系上 ...",
+    "id": "8e5eBwnVzHK",
+    "order": 1730259025110,
+    "createdAt": "2024-10-30T02:19:53.000Z",
+    "publishDate": "2024-10-30T03:30:25.110Z",
+    "title": "美国支付巨头Visa据悉计划裁员约1400名正式及合同工",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 10:19:53",
+    "uuid": "749ea494-fe25-4780-9062-dfe24fdcd4ca"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
@@ -227,6 +315,23 @@
     "up": false,
     "date": "2024-10-30 10:13:50",
     "uuid": "f8f8e2c5-df2c-4a86-82b9-cf99d956e056"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "贝莱德集团正在独家谈判收购私人信贷公司HPS，且已取得进展。",
+    "id": "8e5yvodmoHm",
+    "order": 1730259569686,
+    "createdAt": "2024-10-30T02:13:46.000Z",
+    "publishDate": "2024-10-30T03:39:29.686Z",
+    "title": "贝莱德收购私人信贷公司HPS的谈判取得进展",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 10:13:46",
+    "uuid": "2a7448c9-a92d-4c2f-9a87-4d5c257fa6c4"
   },
   {
     "newsArray": [
@@ -332,6 +437,23 @@
     "up": false,
     "date": "2024-10-30 09:01:44",
     "uuid": "434340b4-06fd-4e54-8cbe-dd32e45a5e0a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Visa发布的四季度报告显示，调整后Non-GAAP净利润同比增长13%至54亿美元，每股收益2.71美元，高于分析师预期 ...",
+    "id": "8e5yKrX3cmM",
+    "order": 1730259639505,
+    "createdAt": "2024-10-30T00:41:43.000Z",
+    "publishDate": "2024-10-30T03:40:39.505Z",
+    "title": "Visa公司第四财季调整后净利润同比增长13%至54亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 08:41:43",
+    "uuid": "d0119a71-69c4-4ee5-8970-16b29a105983"
   },
   {
     "newsArray": [
