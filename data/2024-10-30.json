@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "山西汾酒第三季度财报显示，公司前三季度营业收入313.58亿元，同比增长17.25%。净利润113.5亿元，同比增长20.34%。",
+    "id": "8e6ZeZHjYr7",
+    "order": 1730290451957,
+    "createdAt": "2024-10-30T12:14:12.000Z",
+    "publishDate": "2024-10-30T12:14:11.957Z",
+    "title": "山西汾酒：前三季度净利润113.5亿元，同比增长20.34%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 20:14:12",
+    "uuid": "5ed65420-97c2-444e-95e7-6ec2b8e7339d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "凯迪拉克宣布将推出其纯电动SUV Lyriq的高性能版本——Lyriq-V，作为首款获得V系列徽章的电动车型，首先登陆北美、澳大利亚和新西兰市场 ...",
+    "id": "8e6B35jk2om",
+    "order": 1730290013468,
+    "createdAt": "2024-10-30T12:06:53.000Z",
+    "publishDate": "2024-10-30T12:06:53.468Z",
+    "title": "凯迪拉克将推出 Lyriq-V 高性能纯电 SUV，官图公布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 20:06:53",
+    "uuid": "58513e75-102e-4022-af25-be46a22912cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "杭州市公安局西湖区分局调查并通报了一起编造并传播不实信息扰乱社会秩序的案件。嫌疑人蔡某为自媒体账号增流量，编造了关于某企业非法测绘的虚假信息，并制作视频在互联网上传播 ...",
+    "id": "8e6ifKezxpt",
+    "order": 1730289855731,
+    "createdAt": "2024-10-30T12:04:15.000Z",
+    "publishDate": "2024-10-30T12:04:15.731Z",
+    "title": "此前有消息称阿里云涉“非法测绘案” 警方：已对造谣者采取强制措施",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 20:04:15",
+    "uuid": "e32aaf77-85ba-4bda-a248-9f574987da6c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "数据库与大型模型结合将影响数据库使用者，GitHub Copilot for Xcode 公开预览版推出，为苹果开发者提供智能编码辅助，特性包括代码补全、多语言支持、多行建议等，同时具备内容过滤和阻止匹配公共代码的功能。",
+    "id": "8e5zGngV68F",
+    "order": 1730289838532,
+    "createdAt": "2024-10-30T12:03:59.000Z",
+    "publishDate": "2024-10-30T12:03:58.532Z",
+    "title": "GitHub Copilot for Xcode 发布公开预览版",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 20:03:59",
+    "uuid": "65547d76-9b10-4fc5-9d5c-64d33a57f896"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "理想汽车成立出海一级部门，由王进负责，向邹良军汇报。王进曾在华为负责智利业务，对拉美市场较熟悉。理想汽车计划在中东和拉丁美洲国家出海，坚持直营模式，并在中亚和中东建立售后服务网络 ...",
+    "id": "8e6m5OtpIPC",
+    "order": 1730289720442,
+    "createdAt": "2024-10-30T12:02:00.000Z",
+    "publishDate": "2024-10-30T12:02:00.442Z",
+    "title": "消息称理想汽车成立出海一级部门，瞄准中东、拉美市场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 20:02:00",
+    "uuid": "7041b72a-f8c3-4400-92e4-6165bb307ad2"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "界面" },
       { "siteName": "36Kr" }
