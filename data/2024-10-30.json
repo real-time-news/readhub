@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中方强烈反对美国推出的对华投资限制最终规则，认为这些措施是歧视性的非市场行为，会干扰中美企业的正常经贸合作，并损害两国企业利益 ...",
+    "id": "8e6FMIQvEjE",
+    "order": 1730262146918,
+    "createdAt": "2024-10-30T04:22:26.000Z",
+    "publishDate": "2024-10-30T04:22:26.918Z",
+    "title": "商务部新闻发言人就美发布对华投资限制最终规则答记者问",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 12:22:26",
+    "uuid": "a00a1a25-e363-42e4-b7b6-78abb6c3a0b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星在旗舰手机中越来越依赖高通骁龙芯片，而自家的Exynos芯片主要用在低端和中端产品以及家电上 ...",
+    "id": "8e6B32CbiOx",
+    "order": 1730262143338,
+    "createdAt": "2024-10-30T04:22:23.000Z",
+    "publishDate": "2024-10-30T04:22:23.338Z",
+    "title": "Exynos 节节败退，消息称三星计划在家电产品中也使用高通芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 12:22:23",
+    "uuid": "a05fa009-75d1-40b1-87e4-36f2845f2ea0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ZAKER" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "安全公司ACROS Security发布了针对Windows Themes零日漏洞的免费非官方补丁 ...",
+    "id": "8e693yyLAw0",
+    "order": 1730261948072,
+    "createdAt": "2024-10-30T04:19:09.000Z",
+    "publishDate": "2024-10-30T04:19:08.072Z",
+    "title": "非官方补丁已发布：微软系统被曝零日漏洞，影响Win7至Win11 24H2",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 12:19:09",
+    "uuid": "00cd8254-a75a-4f6f-8eaf-5698e2e7bf9c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ZAKER" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为在2024年10月31日正式上线了仓颉编程语言官网，并发布了首个公测版本，可供开发者下载体验。仓颉是一种全新的通用编程语言，专为鸿蒙OS设计，用于开发原生应用 ...",
+    "id": "8e6941HP0UX",
+    "order": 1730261923299,
+    "createdAt": "2024-10-30T04:18:43.000Z",
+    "publishDate": "2024-10-30T04:18:43.299Z",
+    "title": "华为自研仓颉编程语言首个公测版本开放下载",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 12:18:43",
+    "uuid": "666ff8e6-39f4-49bc-bf93-78a1a9658c28"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "华为发布HarmonyOS NEXT，带来安全访问图库和相机的新规范。新系统要求所有应用在访问图库时必须通过安全访问控件，分为官方Picker和嵌入式集成两种方式 ...",
+    "id": "8e6B4xU6jKB",
+    "order": 1730261920720,
+    "createdAt": "2024-10-30T04:18:41.000Z",
+    "publishDate": "2024-10-30T04:18:40.720Z",
+    "title": "博主：原生鸿蒙安全访问图库相机会进一步明确和规范",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-30 12:18:41",
+    "uuid": "6776fa2d-3f73-4212-be2d-b89d86212c2e"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" },
       { "siteName": "DoNews" }
