@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软更新Windows健康控制台，承认Windows 11 24H2更新存在BUG，导致任务管理器中的进程计数显示为0。该问题特别出现在启用“按类型分组”视图的进程页面上 ...",
+    "id": "8e7s6vRQrDv",
+    "order": 1730357207223,
+    "createdAt": "2024-10-31T06:46:47.000Z",
+    "publishDate": "2024-10-31T06:46:47.223Z",
+    "title": "微软承认十月可选更新导致 Win11 24H2 任务管理器进程分组计数为 0",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 14:46:47",
+    "uuid": "ae1b8409-3176-4322-83ed-f7f4eb886e9e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "港机集团与中国商飞公司下属的上海飞机客户服务有限公司签署合作备忘录，将在机身、部件及物料管理服务方面建立合作关系，共同应对中国商飞飞机的维修需求。",
+    "id": "8e81O8IkVbs",
+    "order": 1730357163491,
+    "createdAt": "2024-10-31T06:46:04.000Z",
+    "publishDate": "2024-10-31T06:46:03.491Z",
+    "title": "港机集团与中国商飞签署飞机维修合作备忘录",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 14:46:04",
+    "uuid": "0ed070f8-4507-462d-88d2-00e84cbb2d38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "爱范儿" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "OpenAI正在与博通合作开发首款定制AI推理芯片，以处理其大规模AI工作负载。博通将帮助OpenAI进行芯片设计，并由台积电进行制造，预计2026年开始生产 ...",
+    "id": "8e7dSgJd6ya",
+    "order": 1730356879122,
+    "createdAt": "2024-10-31T06:41:19.000Z",
+    "publishDate": "2024-10-31T06:41:19.122Z",
+    "title": "OpenAI 计划自研 AI 芯片，以减少对英伟达的依赖",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 14:41:19",
+    "uuid": "eb904531-6c88-44f4-98a4-3864637bb79b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "中兴通讯正式开售中兴U30 Air 5G随身WiFi亚太版，售价399元起 ...",
+    "id": "8e81kr9LRI0",
+    "order": 1730356631021,
+    "createdAt": "2024-10-31T06:37:11.000Z",
+    "publishDate": "2024-10-31T06:37:11.021Z",
+    "title": "中兴U30 Air 5G随身WiFi亚太版开售 内置5G双网卡",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 14:37:11",
+    "uuid": "22fd7599-0535-4827-b308-8597c3065d65"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "IT 之家" },
       { "siteName": "机器之心" }
@@ -842,6 +910,24 @@
     "up": false,
     "date": "2024-10-31 10:12:29",
     "uuid": "6865869e-7c7b-4fea-9c14-8e8d70f977fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "手机中国" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "雷诺汽车计划以新形式重返中国，已在中国的上海组建了一个数十人的研发团队，负责开发新款电动车项目 ...",
+    "id": "8e65UL1lhpp",
+    "order": 1730356962590,
+    "createdAt": "2024-10-31T02:07:06.000Z",
+    "publishDate": "2024-10-31T06:42:42.590Z",
+    "title": "曝雷诺“重返”中国：搭建研发团队 专为欧洲开发电动车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 10:07:06",
+    "uuid": "fef749df-777b-4d66-a9a6-d50734eb7e94"
   },
   {
     "newsArray": [
