@@ -1,6 +1,116 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "三星电子公司第三季度净利润达到10.1万亿韩元，同比增长72.8%，但营业利润未达市场预期，为9.18万亿韩元。营收为79.09万亿韩元，同比增长17.3%。",
+    "id": "8e7cPkizcFD",
+    "order": 1730336617297,
+    "createdAt": "2024-10-31T00:32:25.000Z",
+    "publishDate": "2024-10-31T01:03:37.297Z",
+    "title": "三星电子第三季度营业利润9.18万亿韩元，低于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 08:32:25",
+    "uuid": "6aeb9c25-0195-419c-9a14-9b52b86bd231"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "自动驾驶公司Zoox将在未来几周内在美国旧金山和拉斯维加斯推出数十辆自动驾驶出租车，并计划在2026年开始大规模生产。",
+    "id": "8e7cNklg9Vv",
+    "order": 1730334101860,
+    "createdAt": "2024-10-31T00:21:41.000Z",
+    "publishDate": "2024-10-31T00:21:41.860Z",
+    "title": "亚马逊旗下Zoox将在美国旧金山和拉斯维加斯推出自动驾驶汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 08:21:41",
+    "uuid": "cd6849d0-c97f-4630-b95b-92530bf41a2b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ZAKER" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "OpenAI 宣布 ChatGPT 的高级语音模式 AVM 登陆 Windows 和 Mac 平台，该功能基于 GPT-4o 模型，提供更自然、实时的对话体验，能感知和回应用户情绪 ...",
+    "id": "8e7cOIQqewW",
+    "order": 1730333813520,
+    "createdAt": "2024-10-31T00:16:53.000Z",
+    "publishDate": "2024-10-31T00:16:53.520Z",
+    "title": "OpenAI ChatGPT 高级语音模式已登陆 Windows 和 Mac 平台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 08:16:53",
+    "uuid": "b493c9bd-d684-46eb-b256-722ee6d2a6e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美国股市三大指数集体下跌，道指、纳指和标普500分别下跌0.22%、0.56%和0.33% ...",
+    "id": "8e5tuCQkLLM",
+    "order": 1730333695215,
+    "createdAt": "2024-10-31T00:14:56.000Z",
+    "publishDate": "2024-10-31T00:14:55.215Z",
+    "title": "美股收评：三大指数集体收跌，芯片股普跌，AMD跌逾10%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 08:14:56",
+    "uuid": "f8e2eb3d-db69-4863-8bf3-a59ea5f7ba60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "i黑马" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "近期，有关疯狂小杨哥及其团队于10月27日复播的消息在网络上流传。然而，三只羊相关负责人及小杨哥的网络客服均表示该传言不实，并未接到相关直播安排。",
+    "id": "8e6DEOx0A8J",
+    "order": 1730334456624,
+    "createdAt": "2024-10-31T00:07:52.000Z",
+    "publishDate": "2024-10-31T00:27:36.624Z",
+    "title": "三只羊回应小杨哥复播传言：不属实",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 08:07:52",
+    "uuid": "8654a00b-5254-4d9a-a20c-19cddece3f01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国平安、中国人寿、中国人保、中国太保和新华保险在2024年前三季度实现净利润约3190.26亿元，创历史新高 ...",
+    "id": "8e7ZXTmE6pB",
+    "order": 1730336520493,
+    "createdAt": "2024-10-30T23:51:44.000Z",
+    "publishDate": "2024-10-31T01:02:00.493Z",
+    "title": "A股五大上市险企前三季度合计净利创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 07:51:44",
+    "uuid": "dd79bd7d-8131-488b-b934-7a1ce49887d0"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" },
       { "siteName": "界面" }
