@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "A股教育板块在开盘后领涨，教育指数上涨7.45%，其中豆神教育、中公教育涨停，*ST开元涨幅达17.28% ...",
+    "id": "8e65MXFtgQV",
+    "order": 1730350989691,
+    "createdAt": "2024-10-31T05:03:09.000Z",
+    "publishDate": "2024-10-31T05:03:09.691Z",
+    "title": "教育板块领涨A股，豆神教育连续4个交易日20CM涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 13:03:09",
+    "uuid": "d987e67f-6b41-4d6a-9743-b22592d23c14"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "现代汽车在韩国首尔发布了名为INITIUM的氢燃料电池概念车，并计划于2025年上半年推出基于该概念车的量产车型 ...",
+    "id": "8e7mNkDkzHU",
+    "order": 1730350955857,
+    "createdAt": "2024-10-31T05:02:35.000Z",
+    "publishDate": "2024-10-31T05:02:35.857Z",
+    "title": "现代汽车发布氢燃料电池概念车INITIUM，明年上半年推出量产车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 13:02:35",
+    "uuid": "67303200-22a6-4c35-b297-1662a13898ad"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "界面" },
       { "siteName": "IT 之家" }
