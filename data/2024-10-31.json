@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "宁夏华电海原新能源有限公司成立，法定代表人为王军，注册资本7.5亿人民币，经营范围包括风力发电、太阳能发电等技术服务以及热力生产和供应等 ...",
+    "id": "8e6jOy20wsV",
+    "order": 1730358850250,
+    "createdAt": "2024-10-31T07:14:10.000Z",
+    "publishDate": "2024-10-31T07:14:10.250Z",
+    "title": "华电新能源在宁夏成立新能源公司 注册资本7.5亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 15:14:10",
+    "uuid": "00b93319-9c7f-45c8-907e-bf2097a21ad4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "GitHub年度报告《Octoverse》显示，Python超越JavaScript成为GitHub上最受欢迎的编程语言，主要受人工智能开发需求激增推动，广泛应用于数据科学和开源项目开发 ...",
+    "id": "8e82oeoHcCF",
+    "order": 1730358844413,
+    "createdAt": "2024-10-31T07:14:04.000Z",
+    "publishDate": "2024-10-31T07:14:04.413Z",
+    "title": "Python 成 GitHub 最受欢迎编程语言，AI 成主要推动力",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 15:14:04",
+    "uuid": "7daf3e3f-1995-472d-b175-1ff6bdbeef54"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "和讯网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "10月31日A股收市，主要指数普遍上涨，其中上证指数、深证成指和创业板指分别上涨0.42%、0.57%和0.6%，但北证50下跌1.68% ...",
+    "id": "8e7sG7nWkZf",
+    "order": 1730358815410,
+    "createdAt": "2024-10-31T07:13:35.000Z",
+    "publishDate": "2024-10-31T07:13:35.410Z",
+    "title": "A股收评：沪指涨0.42%，半导体、光伏等板块走强，北证50逆势跌1.68%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 15:13:35",
+    "uuid": "097b8606-68c2-40b6-a70f-d2aa9a22f998"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "数据中心初创公司Crusoe Energy正在募集高达5亿美元的股权资本，用于扩大其基础设施，以支持人工智能行业的发展。此次融资使公司的估值达到约30亿美元，是两年前的两倍多。",
+    "id": "8e6XvRsOTaU",
+    "order": 1730358416578,
+    "createdAt": "2024-10-31T07:06:56.000Z",
+    "publishDate": "2024-10-31T07:06:56.578Z",
+    "title": "初创公司Crusoe Energy据悉融资5亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-10-31 15:06:56",
+    "uuid": "b51227d0-24d4-49f1-842c-cdd417fd135f"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
