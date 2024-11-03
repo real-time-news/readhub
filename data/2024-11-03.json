@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "Intel在财报电话会议上提出减少对台积电依赖的计划，目标是通过增加内部芯片生产来提升利润率 ...",
+    "id": "8eD27j9AgSx",
+    "order": 1730618157324,
+    "createdAt": "2024-11-03T07:15:58.000Z",
+    "publishDate": "2024-11-03T07:15:57.324Z",
+    "title": "Intel概述摆脱台积电计划：Panther Lake、Nova Lake两步走",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-03 15:15:58",
+    "uuid": "026c501e-7139-431a-b924-34ff1d50f47e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "IDC最新报告指出，2024年第三季度全球平板电脑出货量同比增长20.4%，达到3960万台。其中，华为平板电脑出货量同比增长44.1%，市场份额占8.2%，排名第四 ...",
+    "id": "8eCmGAxn9vp",
+    "order": 1730618107582,
+    "createdAt": "2024-11-03T07:15:07.000Z",
+    "publishDate": "2024-11-03T07:15:07.582Z",
+    "title": "全球平板电脑三季度出货量排名：国产华为夺冠 大增44.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-03 15:15:07",
+    "uuid": "4d9572aa-9ee1-471f-9faf-fcbb44bc7550"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "苹果公司计划投资15亿美元给美国卫星运营商Globalstar，其中11亿美元作为预付款用于扩展其卫星通信网络和偿还债务，另外4亿美元用于收购Globalstar 20%的股份 ...",
+    "id": "8eBiDj31n0e",
+    "order": 1730617300441,
+    "createdAt": "2024-11-03T07:01:40.000Z",
+    "publishDate": "2024-11-03T07:01:40.441Z",
+    "title": "苹果强化手机直连卫星布局：15亿美元加码投资Globalstar",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-03 15:01:40",
+    "uuid": "cb706a7c-1b7b-4775-9ec5-0e17dd5c07b6"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "网易科技" },
       { "siteName": "界面" },
