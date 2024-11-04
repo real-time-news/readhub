@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "苹果将在12月2日推出iOS 18.2更新，其中Siri将接入ChatGPT，提供更精准的回答，并扩展多项Apple Intelligence功能至英语地区 ...",
+    "id": "8eF4jwKORcV",
+    "order": 1730762819249,
+    "createdAt": "2024-11-04T23:27:00.000Z",
+    "publishDate": "2024-11-04T23:26:59.249Z",
+    "title": "iOS18.2正式版预计12月第一周推出 Siri将集成ChatGPT",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 07:27:00",
+    "uuid": "14c7e256-83a1-4e15-8ce8-c1ae36818597"
+  },
+  {
+    "newsArray": [
       { "siteName": "ZAKER" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
@@ -85,5 +102,26 @@
     "up": false,
     "date": "2024-11-05 07:01:38",
     "uuid": "ee803d53-8f25-4556-ad16-7a199fa1121c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。",
+    "id": "8eFXfYoAoPt",
+    "order": 1730762811081,
+    "createdAt": "2024-11-04T18:36:12.000Z",
+    "publishDate": "2024-11-04T23:26:51.081Z",
+    "title": "苹果 visionOS 2.2 开发者预览版 Beta 发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 02:36:12",
+    "uuid": "cf0e6edf-3156-4753-aa8f-4dc5e0e3d21f"
   }
 ]
