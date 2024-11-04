@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "字节跳动豆包大模型团队与香港大学合作开源了名为HybridFlow的全新RLHF框架，该框架支持多种训练和推理框架，兼容不同模型部署和多种RL算法，实验结果显示，在各种模型规模和RL算法下，HybridFlow的训练吞吐量相比其他框架提升了1.5倍至20倍。",
+    "id": "8eD7cBlKya6",
+    "order": 1730713956347,
+    "createdAt": "2024-11-04T09:52:36.000Z",
+    "publishDate": "2024-11-04T09:52:36.347Z",
+    "title": "字节豆包大模型团队与香港大学发布并开源全新 RLHF 框架",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-04 17:52:36",
+    "uuid": "22ef4457-1fef-4956-b968-ce2e4dd9d9ea"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线" },
       { "siteName": "ITBear科技资讯" }
