@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财经网" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "惠普在2024年秋季打印机新品发布会暨合作伙伴大会上，焕新推出了A4激光打印产品家族，包括为中国市场定制的战系列激光打印机和优化升级的锐系列激光打印机 ...",
+    "id": "8eGJDhzCSzI",
+    "order": 1730788679528,
+    "createdAt": "2024-11-05T06:38:00.000Z",
+    "publishDate": "2024-11-05T06:37:59.528Z",
+    "title": "惠普全新战系列激光打印机发布：适配原生鸿蒙，为中国市场量身定制",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 14:38:00",
+    "uuid": "4eb82853-b8d2-4856-a478-53061cfa2183"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软将Microsoft Teams的市政厅功能参与者上限从2万人提升至5万人，以改善一对多的沟通方式，并帮助企业接触更多受众 ...",
+    "id": "8eG9XoWn4ue",
+    "order": 1730788080372,
+    "createdAt": "2024-11-05T06:28:00.000Z",
+    "publishDate": "2024-11-05T06:28:00.372Z",
+    "title": "微软计划 12 月重磅升级 Teams 市政厅功能，参与者上限提至 5 万人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 14:28:00",
+    "uuid": "721377eb-5a7c-4b2d-ad60-517c2c5a4296"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国核工业集团有限公司旗下的中国核动力研究设计院成功完成了自主研发的ATF耐事故特征化燃料组件在商用反应堆中的全周期运行考验，这标志着中国ATF燃料组件的研发取得了重要进展，与国际核燃料技术保持同步。",
+    "id": "8eGECPgLtcw",
+    "order": 1730787788901,
+    "createdAt": "2024-11-05T06:23:09.000Z",
+    "publishDate": "2024-11-05T06:23:08.901Z",
+    "title": "我国ATF燃料组件自主研发迈出关键一步",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 14:23:09",
+    "uuid": "ed61d390-5d20-4684-9604-5b8d8ca573d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "2024年10月，我国房地产企业债券融资总额为289.7亿元，同比增长3.2%，但环比下降32.4% ...",
+    "id": "8eGKdsVOBp3",
+    "order": 1730787780036,
+    "createdAt": "2024-11-05T06:23:00.000Z",
+    "publishDate": "2024-11-05T06:23:00.036Z",
+    "title": "中指研究院：房企融资规模连续两月同比小幅增长",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 14:23:00",
+    "uuid": "34af5f8b-47c9-41e9-9aff-ecabbb08f76c"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "速途网" },
       { "siteName": "机器之心" },
@@ -19,6 +87,27 @@
   },
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "2025年4月21日至23日，第20届中国南京国际电池及储能技术博览会将在南京国际展览中心举行 ...",
+    "id": "8eEUHdQ6sYt",
+    "order": 1730787520223,
+    "createdAt": "2024-11-05T06:12:40.000Z",
+    "publishDate": "2024-11-05T06:18:40.223Z",
+    "title": "2025年4月南京电池展：聚焦新能源电池全产业链，探索电池寿命与充电次数之谜",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 14:12:40",
+    "uuid": "2acc2bbc-33ec-4a2b-a058-5087344311ce"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "鸟哥笔记" },
       { "siteName": "快科技" }
@@ -33,6 +122,24 @@
     "up": false,
     "date": "2024-11-05 14:03:35",
     "uuid": "2376bc34-ac10-41e0-b49b-3569b1672f27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "重庆市发布了《重庆市“机器人+”应用行动计划（2024—2027年）》，旨在推动机器人产业高质量发展，推进机器人典型应用开发，推广“机器人+”应用创新实践 ...",
+    "id": "8eGI8EZJ3FK",
+    "order": 1730787881638,
+    "createdAt": "2024-11-05T05:54:50.000Z",
+    "publishDate": "2024-11-05T06:24:41.638Z",
+    "title": "重庆市：目标到 2027 年将机器人广泛应用于经济社会各领域",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 13:54:50",
+    "uuid": "3f4a0fda-e9bf-477b-8ba8-aa944b37b5de"
   },
   {
     "newsArray": [
