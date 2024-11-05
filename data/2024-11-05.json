@@ -1,6 +1,25 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "字节跳动发布第四季度的《企业纪律与职业道德委员会通报》，103人因违法违规行为被辞退，包括11名涉嫌刑事犯罪的员工 ...",
+    "id": "8eGZD1xXhU1",
+    "order": 1730799935672,
+    "createdAt": "2024-11-05T09:43:57.000Z",
+    "publishDate": "2024-11-05T09:45:35.672Z",
+    "title": "字节再发反腐及违规通报：辞退103人，11人涉嫌犯罪被立案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 17:43:57",
+    "uuid": "468d8aa5-75d6-41ed-a307-d24086e6031c"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "品玩" },
       { "siteName": "IT 之家" }
@@ -204,6 +223,24 @@
     "up": false,
     "date": "2024-11-05 16:56:51",
     "uuid": "8e406e2c-d7ab-49a9-852a-80d2ae3a5827"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "品玩" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "腾讯混元宣布开源最新MoE模型“混元Large”和3D生成大模型“Hunyuan3D-1.0”，支持企业及开发者调优和部署 ...",
+    "id": "8eGUGvr7MJ5",
+    "order": 1730799943695,
+    "createdAt": "2024-11-05T08:56:36.000Z",
+    "publishDate": "2024-11-05T09:45:43.695Z",
+    "title": "腾讯混元宣布：大语言模型和3D模型正式开源，免费可商用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 16:56:36",
+    "uuid": "0db663f4-11af-405d-9a5d-be4ead8d6d28"
   },
   {
     "newsArray": [
