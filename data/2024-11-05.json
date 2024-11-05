@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国农业科学院深圳农业基因组研究所的周永锋团队在《自然・遗传学》发表了利用人工智能进行葡萄育种的研究成果 ...",
+    "id": "8eF7EJRNnjC",
+    "order": 1730776359514,
+    "createdAt": "2024-11-05T03:12:40.000Z",
+    "publishDate": "2024-11-05T03:12:39.514Z",
+    "title": "我国科学家利用人工智能加速葡萄育种，效率提高 400%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 11:12:40",
+    "uuid": "2d65269a-991a-4568-944f-0dd8a9385072"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "速途网" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "昆仑万维发布天工AI最新版本，新增AI高级搜索功能，支持处理超500K字长文本，并提供PDF引用信源、浮窗、引用原文展示、深度解析和专业信源展示等新交互与功能。",
+    "id": "8eG73DRlYuV",
+    "order": 1730776569214,
+    "createdAt": "2024-11-05T03:02:28.000Z",
+    "publishDate": "2024-11-05T03:16:09.214Z",
+    "title": "昆仑万维发布天工AI高级搜索功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 11:02:28",
+    "uuid": "aaf3b158-b3fa-4907-955f-fd8aa29704fe"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线" }
@@ -569,5 +604,24 @@
     "up": false,
     "date": "2024-11-05 02:36:12",
     "uuid": "cf0e6edf-3156-4753-aa8f-4dc5e0e3d21f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "美国联邦能源管理委员会（FERC）拒绝了与亚马逊数据中心互联的协议请求，导致Talen Energy等核电股大跌。FERC认为该协议可能增加公众电费并影响电网可靠性 ...",
+    "id": "8eF91CfMtCZ",
+    "order": 1730776468928,
+    "createdAt": "2024-11-04T17:43:31.000Z",
+    "publishDate": "2024-11-05T03:14:28.928Z",
+    "title": "美监管机构拒绝与亚马逊(AMZN.US)核电协议，多只核电股遭“血洗”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-05 01:43:31",
+    "uuid": "13dc0e99-3c42-4af1-90b0-e9d96ac134f4"
   }
 ]
