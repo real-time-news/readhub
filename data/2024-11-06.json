@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财经网" },
+      { "siteName": "速途网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "一汽大众与大众汽车集团在第七届中国国际进口博览会上签订合作备忘录，约定2025年一汽大众将向大众汽车集团进口部分零部件及奥迪整车。",
+    "id": "8eHe7HrcRyN",
+    "order": 1730884402063,
+    "createdAt": "2024-11-06T09:13:23.000Z",
+    "publishDate": "2024-11-06T09:13:22.063Z",
+    "title": "一汽-大众与大众汽车集团进博会签署合作备忘录",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 17:13:23",
+    "uuid": "77af3934-5949-4f48-bea3-d6418aed9a25"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国联邦法官贝丝·弗里曼近日对一起涉及谷歌的诉讼作出裁决，驳回了原告朱迪·梅的索赔请求 ...",
+    "id": "8eIAc8ZZQM5",
+    "order": 1730884330449,
+    "createdAt": "2024-11-06T09:12:10.000Z",
+    "publishDate": "2024-11-06T09:12:10.449Z",
+    "title": "谷歌胜诉：法官裁定无需为Play礼品卡骗局退款",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 17:12:10",
+    "uuid": "03d1f0b3-f3b9-4c6e-890f-c9af33b41cfa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小鹏汽车在AI科技日上推出了全新飞行器，该飞行器可垂直起降，拥有六人座舱，并采用鲲鹏增程式动力，续航超过500公里 ...",
+    "id": "8eI9KY6TpWy",
+    "order": 1730884327710,
+    "createdAt": "2024-11-06T09:12:09.000Z",
+    "publishDate": "2024-11-06T09:12:07.710Z",
+    "title": "小鹏长航程飞行器亮相：增程式动力 续航超500公里",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 17:12:09",
+    "uuid": "dad637ed-a669-4aa8-b79c-ea788d04d553"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "卡内基梅隆大学研究人员开发出“Power-over-Skin”技术，利用人体射频能量为可穿戴设备供电，有望取代电池 ...",
+    "id": "8eI9KW88iT9",
+    "order": 1730884036045,
+    "createdAt": "2024-11-06T09:07:17.000Z",
+    "publishDate": "2024-11-06T09:07:16.045Z",
+    "title": "卡内基梅隆大学研发出皮肤供电技术，可穿戴设备将无需电池",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 17:07:17",
+    "uuid": "0292273e-ee4e-4f2a-904d-469979c876e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "亚马逊CEO安迪・贾西否认了公司强制员工返回办公室是“变相裁员”的说法，强调这是为了强化企业文化 ...",
+    "id": "8eHhgOCiCZg",
+    "order": 1730884016484,
+    "createdAt": "2024-11-06T09:06:56.000Z",
+    "publishDate": "2024-11-06T09:06:56.484Z",
+    "title": "亚马逊 CEO 贾西称回归办公室规定并非“变相裁员”：只为强化企业文化",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 17:06:56",
+    "uuid": "af559597-202d-44d5-b86d-660bdeb50d6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "宏石激光微信公众号发布说明，称其IPO批文因友商恶意诉讼而中止，耗时6年，耗资近亿。公司呼吁行业自律，反对恶意竞争，期望孕育出良性产业生态 ...",
+    "id": "8eFrLC8i4pR",
+    "order": 1730883839121,
+    "createdAt": "2024-11-06T09:03:59.000Z",
+    "publishDate": "2024-11-06T09:03:59.121Z",
+    "title": "宏石激光：IPO批文因友商的恶意诉讼而中止",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 17:03:59",
+    "uuid": "4f437bbb-2562-4da4-924f-d770af308c8f"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "界面" },
       { "siteName": "快科技" }
