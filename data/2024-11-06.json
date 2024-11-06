@@ -1,6 +1,127 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "Solidot" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "FFmpeg开发者通过手写AVX-512指令集的汇编代码路径，优化了其多媒体处理库，实现了3-94倍的性能提升 ...",
+    "id": "8eGKDX0hnjY",
+    "order": 1730873764835,
+    "createdAt": "2024-11-06T06:16:04.000Z",
+    "publishDate": "2024-11-06T06:16:04.835Z",
+    "title": "FFmpeg 手写 AVX512 汇编代码性能提升最多 94 倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 14:16:04",
+    "uuid": "e7b26d6f-731f-4347-a8fc-3047ad9c69e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "中国空天信息和卫星互联网创新联盟的成立，作为首个全国性社会组织，为空天信息领域的协同发展、多方联动和科技创新提供了坚实基础，对落实国家重大战略、促进多链融合、加强国际交流以及推动空天信息产业和卫星互联网事业的发展具有重要意义。",
+    "id": "8eHxoUSK9VA",
+    "order": 1730873696818,
+    "createdAt": "2024-11-06T06:14:56.000Z",
+    "publishDate": "2024-11-06T06:14:56.818Z",
+    "title": "中国空天信息和卫星互联网创新联盟成立",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 14:14:56",
+    "uuid": "a66e9aba-04b8-492f-a007-b8b0d0468dad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" }
+    ],
+    "summary": "盒马与智利水果供应商吉制签订战略合作协议，将供应车厘子等水果，并宣布在智利首个海外直采基地落成。",
+    "id": "8eHwgYlUFnu",
+    "order": 1730873678836,
+    "createdAt": "2024-11-06T06:14:40.000Z",
+    "publishDate": "2024-11-06T06:14:38.836Z",
+    "title": "进博会盒马与智利车厘子企业签约，建成首个智利水果直采基地",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 14:14:40",
+    "uuid": "95ab3156-9511-43e5-9400-ae2e03e7047c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "\"爱奇艺限制投屏案\"在经历了一审和二审后，法院最终判定爱奇艺平台需在老会员有效期内持续提供高清投屏服务，并补偿原告41天黄金会员时长 ...",
+    "id": "8eHzXG17QKA",
+    "order": 1730873622066,
+    "createdAt": "2024-11-06T06:13:43.000Z",
+    "publishDate": "2024-11-06T06:13:42.066Z",
+    "title": "爱奇艺限制投屏案二审维持原判",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 14:13:43",
+    "uuid": "d47cd5e7-b180-447b-8fdf-04a46469fc6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉车主在使用车内Apple Music服务时遇到“MEDIA_LICENSE”播放错误，经客服确认系授权到期所致 ...",
+    "id": "8eHxkfuVE1c",
+    "order": 1730873229739,
+    "createdAt": "2024-11-06T06:07:09.000Z",
+    "publishDate": "2024-11-06T06:07:09.739Z",
+    "title": "特斯拉车主遭遇Apple Music“播放错误”，客服回应称正在紧急修复",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 14:07:09",
+    "uuid": "022f01ac-4bea-4552-aec8-6589d4fea152"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "丰田汽车第二季度净利润低于预期，预计全年汽车销量也将不达原预期。",
+    "id": "8eHwY7FCp65",
+    "order": 1730873226196,
+    "createdAt": "2024-11-06T06:07:07.000Z",
+    "publishDate": "2024-11-06T06:07:06.196Z",
+    "title": "丰田汽车：预计全年全球汽车销量为1085万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 14:07:07",
+    "uuid": "ef3cc47a-1583-4791-8fef-e4c272f65d9e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "爱玛科技集团公布2024年第三季度财报，显示营业收入68.73亿元，同比下滑5.05%，净利润6.03亿元，同比下滑9.02%，为近年来首次营收和净利润双双下滑。",
+    "id": "8eHfsByEfZa",
+    "order": 1730873035600,
+    "createdAt": "2024-11-06T06:03:56.000Z",
+    "publishDate": "2024-11-06T06:03:55.600Z",
+    "title": "爱玛电动车 Q3 营收利润双双下滑 营业收入 68.73 亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-06 14:03:56",
+    "uuid": "4dcb546c-3a94-43ec-87a3-86498972ee63"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
