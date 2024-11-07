@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软承认其电子邮件客户端Outlook存在性能缺陷，当用户尝试同时浏览超过60封电子邮件时，程序可能会崩溃 ...",
+    "id": "8eJn1LJZrfw",
+    "order": 1730973996290,
+    "createdAt": "2024-11-07T10:06:36.000Z",
+    "publishDate": "2024-11-07T10:06:36.290Z",
+    "title": "微软经典版Outlook出故障：超60封邮件同时打开或致程序崩溃",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 18:06:36",
+    "uuid": "9c417df8-637f-43c2-9cf5-9873d3830953"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "日产汽车宣布实施降本增效措施，包括全球减产20%，裁员9000人，并下调年度业绩预期。公司正降低开支、商品成本，优化资产组合，CEO内田诚及其他高管将自愿减薪 ...",
+    "id": "8eJnjAhYR8e",
+    "order": 1730973830889,
+    "createdAt": "2024-11-07T10:03:50.000Z",
+    "publishDate": "2024-11-07T10:03:50.889Z",
+    "title": "日产将在全球裁员 9000 人，CEO 内田诚本月起自愿减薪 50%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 18:03:50",
+    "uuid": "64382a7c-03aa-41b3-898f-b5dcf490afe1"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
