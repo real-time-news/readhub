@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "在第七届进博会上，全球领先的生命科学企业拜耳宣布，其中国处方药事业部已全面采用“阿里云上的Salesforce”解决方案，成功打造了一款全新的客户互动平台OPERA 2.0，并已正式上线 ...",
+    "id": "8eJgmrBvKuq",
+    "order": 1730965414760,
+    "createdAt": "2024-11-07T07:43:35.000Z",
+    "publishDate": "2024-11-07T07:43:34.760Z",
+    "title": "拜耳中国和阿里云达成战略合作，采用阿里云上的Salesforce",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 15:43:35",
+    "uuid": "2fd06d17-90ae-46ab-ac35-57a97a5d9174"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "环球网科技" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "天猫双11活动期间，淘宝与天猫联合举办南非牛油果线上首发仪式，标志南非牛油果正式进入中国市场 ...",
+    "id": "8eJMaZhXvOt",
+    "order": 1730965320322,
+    "createdAt": "2024-11-07T07:42:01.000Z",
+    "publishDate": "2024-11-07T07:42:00.322Z",
+    "title": "南非牛油果亮相第七届进博会 零时差上线天猫双11",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 15:42:01",
+    "uuid": "3d0d3804-63a6-4877-9dce-2abe6d22e823"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "财经网" },
       { "siteName": "界面" }
