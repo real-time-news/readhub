@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国10月外汇储备减少，从33163.67亿美元降至32610.50亿美元。同时，中国10月末的黄金储备与上个月持平，为7280万盎司（约2264.33吨），连续第六个月未增持黄金。",
+    "id": "8eJnj8uqsPT",
+    "order": 1730967532628,
+    "createdAt": "2024-11-07T08:13:08.000Z",
+    "publishDate": "2024-11-07T08:18:52.628Z",
+    "title": "中国央行连续第六个月暂停增持黄金",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 16:13:08",
+    "uuid": "d7d93eb2-6834-4b32-894a-76120c3e65e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "特斯拉焕新版Model Y已在中国的上海超级工厂正式下线并开始测试，预计2025年初开售 ...",
+    "id": "8eJeR0oo7l0",
+    "order": 1730966841067,
+    "createdAt": "2024-11-07T08:07:22.000Z",
+    "publishDate": "2024-11-07T08:07:21.067Z",
+    "title": "特斯拉焕新版Model Y现身上海工厂：2025年初有望开售",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 16:07:22",
+    "uuid": "966ed2cb-4c74-41d2-808c-daeca91affe8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "财经网" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "2024年11月7日，马斯克因特斯拉股价大涨，身家单日增长209亿美元，达到2856亿美元，再次成为全球首富，远超排名第二的杰夫·贝索斯。",
+    "id": "8eJJia3k9cY",
+    "order": 1730966488398,
+    "createdAt": "2024-11-07T08:01:29.000Z",
+    "publishDate": "2024-11-07T08:01:28.398Z",
+    "title": "马斯克身家增长209亿美元，稳居全球首富宝座",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 16:01:29",
+    "uuid": "d8780cb0-b9b3-41f5-b69b-3feb7615b05d"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财经网" }
