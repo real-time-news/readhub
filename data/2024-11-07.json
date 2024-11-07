@@ -1,6 +1,127 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小米官方宣布，旗下人工智能助手小爱同学的音乐能力得到升级，支持「音乐问答」功能，用户可在手机和车载端体验。此次升级基于AI能力，允许用户追问歌曲信息、搜索专业音乐知识等 ...",
+    "id": "8eJwJ9UrWFv",
+    "order": 1730981558817,
+    "createdAt": "2024-11-07T12:12:38.000Z",
+    "publishDate": "2024-11-07T12:12:38.817Z",
+    "title": "大模型小爱能力升级，多端设备支持「音乐问答」功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 20:12:38",
+    "uuid": "d7fef34b-8769-425f-8e4b-70742f09efc7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "Odaily" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "盛宝银行预测英国央行将降息25个基点至4.75%，这是自8月份以来的第二次降息。预计货币政策委员会将以8比1通过此举，唯一反对者曼恩坚持鹰派立场 ...",
+    "id": "8eJRbOXnkaU",
+    "order": 1730981442090,
+    "createdAt": "2024-11-07T12:07:58.000Z",
+    "publishDate": "2024-11-07T12:10:42.090Z",
+    "title": "盛宝银行：英国央行将降息25个基点 难以发出激进信号",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 20:07:58",
+    "uuid": "740385c2-b2d8-4673-80d7-d469b3a92291"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "在小鹏P7+发布会上，小鹏汽车董事长何小鹏针对MONA M03车型交付延迟问题致歉，并表示工厂将提高30%-40%的产能以解决问题 ...",
+    "id": "8eIZyVwxnQX",
+    "order": 1730981244998,
+    "createdAt": "2024-11-07T12:07:24.000Z",
+    "publishDate": "2024-11-07T12:07:24.998Z",
+    "title": "何小鹏：小鹏MONA M03本月及次月将提高30%至40%产能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 20:07:24",
+    "uuid": "6ef92237-5717-48fc-86ed-2cc72a508e11"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司可能会推迟推出原计划于2027年推出的OLED屏幕版MacBook Air，主要由于制造成本高和供应链问题。OLED屏幕的高成本可能会提高产品零售价格，影响市场竞争力 ...",
+    "id": "8eK0a3NXUqM",
+    "order": 1730981138238,
+    "createdAt": "2024-11-07T12:05:38.000Z",
+    "publishDate": "2024-11-07T12:05:38.238Z",
+    "title": "苹果OLED MacBook Air面临重大延误，2027年上市计划或受阻",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 20:05:38",
+    "uuid": "79882c84-b91c-4fa3-9b60-481bcd3aabdb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为发布HarmonyOS NEXT（5.0）更新，20款设备已开始公测或升级。腾讯旗下QQ和微信应用已加入华为应用市场，微信正式版预计2024年第四季度上架 ...",
+    "id": "8eK0a5PHnSx",
+    "order": 1730981134412,
+    "createdAt": "2024-11-07T12:05:34.000Z",
+    "publishDate": "2024-11-07T12:05:34.412Z",
+    "title": "华为鸿蒙再迎重磅应用：企业微信预计年底登陆华为应用市场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 20:05:34",
+    "uuid": "eaf3160f-6082-47a2-9757-420272a5fd99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "腾讯响应市场积极反馈，加大纯血鸿蒙版QQ下载量，并继续推广鸿蒙版微信。鸿蒙版QQ和微信不断优化功能和体验，有望成为用户新宠。",
+    "id": "8eJvb3yIvHu",
+    "order": 1730981122052,
+    "createdAt": "2024-11-07T12:05:22.000Z",
+    "publishDate": "2024-11-07T12:05:22.052Z",
+    "title": "腾讯QQ纯血鸿蒙版质量稳定，将大规模放量供用户尝鲜",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 20:05:22",
+    "uuid": "4cb2a13f-1f8b-4ca6-9f77-0f992f61bd21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "国家标准委发布《IPv6 网络安全设备技术要求》系列国家标准，以指导设备厂商设计、开发与测试IPv6网络安全设备，提高产品和服务的安全可信水平 ...",
+    "id": "8eJyRsNsjVj",
+    "order": 1730980987321,
+    "createdAt": "2024-11-07T12:03:08.000Z",
+    "publishDate": "2024-11-07T12:03:07.321Z",
+    "title": "《IPv6 网络安全设备技术要求》系列国家标准明年 2 月起实施，华为等主导编写",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-07 20:03:08",
+    "uuid": "48289ab4-1282-4166-84a6-ca8a61e67c62"
+  },
+  {
+    "newsArray": [
       { "siteName": "雷科技" },
       { "siteName": "IT 之家" },
       { "siteName": "和讯网" }
