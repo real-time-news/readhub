@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "汽车博主“小刚学长”因发布误导性特斯拉汽车紧急制动测试视频，向特斯拉道歉并赔偿12万元。视频存在测试不严谨、条件不一致、片面夸大性能问题等，影响了特斯拉公司商誉，构成名誉权侵害 ...",
+    "id": "8eKMbBlrDiH",
+    "order": 1731034531164,
+    "createdAt": "2024-11-08T02:55:31.000Z",
+    "publishDate": "2024-11-08T02:55:31.164Z",
+    "title": "博主小刚学长向特斯拉道歉：测试不严谨 片面夸大特斯拉性能不良",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 10:55:31",
+    "uuid": "9816e9be-c5ed-43c0-8165-a0b29ec0b879"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "百度计划推出一款配备人工智能助手的智能眼镜。",
+    "id": "8eL1Ko1tHq9",
+    "order": 1731034328287,
+    "createdAt": "2024-11-08T02:52:08.000Z",
+    "publishDate": "2024-11-08T02:52:08.287Z",
+    "title": "百度据悉即将发布一款内置人工智能助手的智能眼镜",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 10:52:08",
+    "uuid": "2880a0c4-a2e3-490c-8bee-44c3653331b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Windows 10将于2025年10月14日停止获得官方支持，微软正大力推广用户升级至Windows 11 ...",
+    "id": "8eL1T6ImzoD",
+    "order": 1731033745196,
+    "createdAt": "2024-11-08T02:42:25.000Z",
+    "publishDate": "2024-11-08T02:42:25.196Z",
+    "title": "微软官网下载渠道发出 Win10“死亡警告”，建议用户升级 Win11",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 10:42:25",
+    "uuid": "1394248b-3ea6-44fd-9be0-e65aaaf899dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "极客公园" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "亚马逊计划对OpenAI竞争对手Anthropic进行第二笔数十亿美元的投资，要求Anthropic使用亚马逊开发的芯片驱动的服务器，但Anthropic更倾向于使用Nvidia设计的人工智能芯片驱动的亚马逊服务器 ...",
+    "id": "8eKrU9OBSTw",
+    "order": 1731033188338,
+    "createdAt": "2024-11-08T02:33:08.000Z",
+    "publishDate": "2024-11-08T02:33:08.338Z",
+    "title": "亚马逊讨论对 Anthropic 进行数十亿美元的新投资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 10:33:08",
+    "uuid": "46ab0f9f-1e38-45e9-ad7a-810456ed63f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "广汽集团已发布全固态电池研发成果，并初步打通全流程制造工艺，计划在2026年实现装车搭载。目前，研发工作正按计划推进中。",
+    "id": "8eK5RsiTSiT",
+    "order": 1731032520236,
+    "createdAt": "2024-11-08T02:22:01.000Z",
+    "publishDate": "2024-11-08T02:22:00.236Z",
+    "title": "广汽集团：全固态电池研发成果已发布，正在着力于2026年装车搭载",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 10:22:01",
+    "uuid": "459972d7-7724-45b9-a9c0-162f46ba2752"
+  },
+  {
+    "newsArray": [
       { "siteName": "ZAKER" },
       { "siteName": "IT 之家" },
       { "siteName": "Solidot" }
@@ -139,6 +224,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "LG新能源与美国电动车制造商Rivian签订了一份为期五年的电池供应合同。根据合同，LG将在其美国亚利桑那州工厂为Rivian的北美市场车型R2提供电池。",
+    "id": "8eKrUH0VyvJ",
+    "order": 1731033146894,
+    "createdAt": "2024-11-08T01:22:49.000Z",
+    "publishDate": "2024-11-08T02:32:26.894Z",
+    "title": "LG新能源同美国电动车商Rivian签署电池供应协议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 09:22:49",
+    "uuid": "ef60906d-cd40-4da3-b235-325c3b745baf"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "创业邦" },
       { "siteName": "猎云网" },
@@ -223,6 +326,24 @@
     "up": false,
     "date": "2024-11-08 08:42:52",
     "uuid": "b5b513f8-0178-41ed-bea2-b20ab998fb5c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "特朗普重返白宫后，华尔街股市持续上涨，英特尔股价创新高，英伟达因减税和监管降低的预期而股价上涨，市值在交易日结束时达到3.65万亿美元，超越苹果成为全球市值最高的公司 ...",
+    "id": "8eKlltEAKXf",
+    "order": 1731033185308,
+    "createdAt": "2024-11-08T00:38:54.000Z",
+    "publishDate": "2024-11-08T02:33:05.308Z",
+    "title": "特朗普胜选后，英伟达市值突破3.6万亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 08:38:54",
+    "uuid": "7a0a9d2c-ab55-4b20-be5d-77f86005ebab"
   },
   {
     "newsArray": [
