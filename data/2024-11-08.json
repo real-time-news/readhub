@@ -1,6 +1,126 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "汇丰控股的法国人寿保险业务已收到多个收购意向，包括BPCE Assurances、BNP Paribas Cardif、Vyv和Groupama等机构提交了收购意向书。",
+    "id": "8eKC2LsmChR",
+    "order": 1731027224994,
+    "createdAt": "2024-11-08T00:53:44.000Z",
+    "publishDate": "2024-11-08T00:53:44.994Z",
+    "title": "汇丰法国人寿保险业务据悉已获数个收购报价",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 08:53:44",
+    "uuid": "734f6891-700f-4fb5-bf23-38b5bcfc0bf4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "日产汽车在11月7日公布的业绩中显示，第二财季出现93亿日元的净亏损，并据此下调了2024财年全年的经营利润预期至1500亿日元。",
+    "id": "8eJmazyGErs",
+    "order": 1731027197971,
+    "createdAt": "2024-11-08T00:53:18.000Z",
+    "publishDate": "2024-11-08T00:53:17.971Z",
+    "title": "日产汽车：第二财季净亏损93亿日元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 08:53:18",
+    "uuid": "abd2d68a-c244-4b9a-9890-90e809b4c074"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果在tvOS 18.2的新测试版中引入了AdBlocker框架，解决了用户在观看电视广告时误触发Siri的问题 ...",
+    "id": "8eKsu6HuXLC",
+    "order": 1731027117185,
+    "createdAt": "2024-11-08T00:51:57.000Z",
+    "publishDate": "2024-11-08T00:51:57.185Z",
+    "title": "苹果tvOS 18.2引入AdBlocker新框架，避免广告误触Siri",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 08:51:57",
+    "uuid": "ecebf8db-eda3-4942-8006-4e452962bac0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "小鹏汽车推出全新车型P7+，全球首款AI汽车，售价18.68万元起，配备强大多传感器和芯片，续航里程可达602-710公里 ...",
+    "id": "8eKtbqObbpc",
+    "order": 1731026572948,
+    "createdAt": "2024-11-08T00:42:52.000Z",
+    "publishDate": "2024-11-08T00:42:52.948Z",
+    "title": "早报：小鹏P7+正式上市 苹果Mac系列新品开售",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 08:42:52",
+    "uuid": "b5b513f8-0178-41ed-bea2-b20ab998fb5c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "华为与巴基斯坦CMPak合作，在伊斯兰堡、卡拉奇等地成功部署了FDD Book RRU解决方案，优化了网络覆盖和用户体验 ...",
+    "id": "8eKpkwT5KLi",
+    "order": 1731026193735,
+    "createdAt": "2024-11-08T00:36:33.000Z",
+    "publishDate": "2024-11-08T00:36:33.735Z",
+    "title": "华为微型基站大放异彩：只需墙上一挂 手机网速暴增35倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 08:36:33",
+    "uuid": "fe5454c4-5dbe-43ab-a15b-a9c18e4fd319"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "网易游戏针对近期反腐调查传闻回应，表示反腐工作一直在进行，但具体案件信息尚在侦办中，不便透露。同时，对于网络上的不实洗钱等传言，网易已报警并呼吁公众不要传播谣言 ...",
+    "id": "8eKr7TvM5vd",
+    "order": 1731026500626,
+    "createdAt": "2024-11-08T00:25:13.000Z",
+    "publishDate": "2024-11-08T00:41:40.626Z",
+    "title": "网易回应：反腐从未停止，谣言已报警处理",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 08:25:13",
+    "uuid": "2b2d0f7e-8d56-4bcb-a27f-ff5f54dad784"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "香港金管局跟随美联储步伐，将基准利率下调25个基点至5%。",
+    "id": "8eKrtcPs45g",
+    "order": 1731024693717,
+    "createdAt": "2024-11-08T00:11:34.000Z",
+    "publishDate": "2024-11-08T00:11:33.717Z",
+    "title": "香港金管局将基准利率下调25个基点至5%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 08:11:34",
+    "uuid": "2b592f43-34a5-463c-97c7-409d961085aa"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
