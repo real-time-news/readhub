@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "ZAKER" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "工信部发布了第389批《道路机动车辆生产企业及产品公告》，其中鸿蒙智行智界R7增程版汽车入选。该车型与纯电版本尺寸和轴距一致，搭载奇瑞1.5T发动机，电池使用四川时代的磷酸铁锂电池 ...",
+    "id": "8eL7BdIFZnr",
+    "order": 1731037133813,
+    "createdAt": "2024-11-08T03:38:53.000Z",
+    "publishDate": "2024-11-08T03:38:53.813Z",
+    "title": "鸿蒙智行智界 R7 增程版汽车申报，搭载奇瑞 1.5T 发动机",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 11:38:53",
+    "uuid": "e5809735-a567-45df-86eb-ecb9e4c697fa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "上汽通用汽车旗下凯迪拉克品牌新XT6开启预售，提供三个版本，官方指导价44.99万-50.99万元，限时预售价格优惠至34.99万-40.99万元。",
+    "id": "8eL3bshEwSo",
+    "order": 1731037099755,
+    "createdAt": "2024-11-08T03:38:19.000Z",
+    "publishDate": "2024-11-08T03:38:19.755Z",
+    "title": "凯迪拉克新XT6正式开启预售",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 11:38:19",
+    "uuid": "a81ab9f6-7679-4395-b1f2-43dd0d7d58e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "财新网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "在南京发现的张昭家族墓地，由八座小型土坑砖室墓葬构成，展现了排水系统的设计智慧，虽曾遭盗掘，但仍出土了青瓷、金印章等遗物。张昭墓独特布局与遗物揭示了其身份及时代背景。",
+    "id": "8eK5ai4UcaS",
+    "order": 1731037085004,
+    "createdAt": "2024-11-08T03:38:06.000Z",
+    "publishDate": "2024-11-08T03:38:05.004Z",
+    "title": "南京发现三国东吴墓：两方金印确定墓主为重臣张昭",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 11:38:06",
+    "uuid": "709b3c30-10ed-4466-a65f-3cb2b65b6c4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软Outlook邮件应用近日迎来重大更新，引入了名为AI主题的全新功能，这一举措在提升用户邮件体验的同时，也将个性化服务推向新境界 ...",
+    "id": "8eKxtbxjxNM",
+    "order": 1731036994638,
+    "createdAt": "2024-11-08T03:36:34.000Z",
+    "publishDate": "2024-11-08T03:36:34.638Z",
+    "title": "微软Outlook推出AI主题功能，邮件个性化体验再升级",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 11:36:34",
+    "uuid": "38ac6349-97db-4279-893a-85f4c9edffa2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "丰田墨西哥子公司计划投资14.5亿美元，用于提高生产能力。",
+    "id": "8eL1l3cyKPc",
+    "order": 1731036822329,
+    "createdAt": "2024-11-08T03:33:42.000Z",
+    "publishDate": "2024-11-08T03:33:42.329Z",
+    "title": "丰田墨西哥子公司将投资14.5亿美元以提高产量",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 11:33:42",
+    "uuid": "17386c60-caa6-4ed9-8350-af9bb0142b81"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "36Kr" },
       { "siteName": "界面" }
@@ -343,6 +428,29 @@
     "up": false,
     "date": "2024-11-08 08:51:57",
     "uuid": "ecebf8db-eda3-4942-8006-4e452962bac0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "2024款苹果Mac mini今日发售，搭载M4或M4 Pro芯片，内存从16GB起步，最高可达64GB。新款Mac mini尺寸缩小，提供USB-C接口和3.5mm音频接口 ...",
+    "id": "8eKuKhunBLH",
+    "order": 1731037230615,
+    "createdAt": "2024-11-08T00:43:10.000Z",
+    "publishDate": "2024-11-08T03:40:30.615Z",
+    "title": "苹果史上最小电脑 2024 款 Mac mini 正式发售：内存 16GB 起步，4499 元起",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 08:43:10",
+    "uuid": "df334b68-ada3-4a1c-9bcc-abbf825660b6"
   },
   {
     "newsArray": [
