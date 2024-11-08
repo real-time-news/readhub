@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "腾讯旗下工作室Sharkmob London因游戏市场形势困难进行裁员，具体人数未公布，同时取消了一款在开发中的游戏。不过，位于瑞典马尔默市的Sharkmob Malm ...",
+    "id": "8eKE9uBJId5",
+    "order": 1731038729008,
+    "createdAt": "2024-11-08T04:05:29.000Z",
+    "publishDate": "2024-11-08T04:05:29.008Z",
+    "title": "腾讯确认Sharkmob伦敦工作室已进行裁员 《Exoborne》开发不受影响",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 12:05:29",
+    "uuid": "84f08c46-ad00-47d0-8858-96fe2282957a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国石油在四川最大的超级充电站——四川销售成都分公司涌泉综合能源站，单日充电量已突破2万千瓦时 ...",
+    "id": "8eKxCaDrYQx",
+    "order": 1731038689751,
+    "createdAt": "2024-11-08T04:04:49.000Z",
+    "publishDate": "2024-11-08T04:04:49.751Z",
+    "title": "中国石油：在川最大超充站单日充电量突破2万千瓦时",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 12:04:49",
+    "uuid": "8e133d38-20be-445f-bd48-8b2cf753d243"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "速途网" },
+      { "siteName": "投资圈" }
+    ],
+    "summary": "飞行汽车公司Lilium因资金不足向德国法院申请破产。",
+    "id": "8eIF6JSBqub",
+    "order": 1731038534426,
+    "createdAt": "2024-11-08T03:52:35.000Z",
+    "publishDate": "2024-11-08T04:02:14.426Z",
+    "title": "飞行汽车界“特斯拉”（Lilium）破产 曾获腾讯投资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-08 11:52:35",
+    "uuid": "9abc06fc-1c20-4836-b3b8-6501095eaf26"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "快科技" }
