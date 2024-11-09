@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软公司宣布，在Microsoft Access中对Current频道的用户全新升级了monochrome编辑器为Monaco SQL编辑器，引入现代化开发功能，提升用户体验 ...",
+    "id": "8eMnAl2kU7X",
+    "order": 1731127462136,
+    "createdAt": "2024-11-09T04:44:22.000Z",
+    "publishDate": "2024-11-09T04:44:22.136Z",
+    "title": "微软推出新Monaco SQL编辑器：功能升级，支持离线使用与自动补全",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-09 12:44:22",
+    "uuid": "bf60bd26-d19d-4f45-917d-42546a700cdd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "亚马逊执行主席杰夫・贝索斯近期大量出售公司股票，11月6日至7日分九次售出5992.724万股，总价值约123亿美元。此操作使贝索斯个人财富减少约200亿美元 ...",
+    "id": "8eMiX1j0nl9",
+    "order": 1731127404314,
+    "createdAt": "2024-11-09T04:43:24.000Z",
+    "publishDate": "2024-11-09T04:43:24.314Z",
+    "title": "贝索斯两天内出售近 600 万股亚马逊股票，价值约 12.3 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-09 12:43:24",
+    "uuid": "b0519984-7b59-4e73-b89e-79f7b69187a8"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "搜狐科技" },
       { "siteName": "IT 之家" }
