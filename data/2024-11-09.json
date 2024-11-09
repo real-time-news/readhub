@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "OpenAI 在与 Raw Story 和 AlterNet 的版权纠纷中获首轮胜利。两家新闻网站指控 OpenAI 的 ChatGPT 聊天机器人抄袭文章用于训练，未显示版权信息 ...",
+    "id": "8eMaSIjVw7F",
+    "order": 1731136885300,
+    "createdAt": "2024-11-09T07:21:25.000Z",
+    "publishDate": "2024-11-09T07:21:25.300Z",
+    "title": "AI 内容博弈：OpenAI 在和新闻机构版权纠纷案中赢得首轮胜利",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-09 15:21:25",
+    "uuid": "1b65e043-e981-46e1-8a36-e70bd25fd068"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "在线旅游集团Booking Holdings宣布计划进行组织变革和裁员，以释放资源并再投资。除了裁员外，公司还打算实现流程和系统的现代化，节省房地产成本，并优化采购流程。",
+    "id": "8eMm67c0GNB",
+    "order": 1731136754787,
+    "createdAt": "2024-11-09T07:19:15.000Z",
+    "publishDate": "2024-11-09T07:19:14.787Z",
+    "title": "Booking计划进行裁员，以释放资源并进行再投资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-09 15:19:15",
+    "uuid": "0d123637-fa3d-47c6-8c63-9dfc33fff8e5"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
