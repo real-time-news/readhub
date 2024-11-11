@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "领克汽车发布了旗下最新车型领克Z20的官图和部分配置信息。新车拥有4.03㎡的座舱空间，配备零压躺椅、哈曼卡顿14扬声器音响和“无限浪潮”氛围灯 ...",
+    "id": "8eQ6Fr4rQJk",
+    "order": 1731317133190,
+    "createdAt": "2024-11-11T09:25:33.000Z",
+    "publishDate": "2024-11-11T09:25:33.190Z",
+    "title": "领克新车 Z20 内饰公布：提供车载冰箱、哈曼卡顿 14 扬声器音响等",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-11 17:25:33",
+    "uuid": "dd657315-cc2d-4223-a454-d6df9cd73b18"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AI初创公司Nous Research推出了基于Meta Llama 3.1微调的Nous Chat聊天机器人，具备长记忆、多轮对话等功能，并已开放Hermes 3-70B模型家族供开发人员预览 ...",
+    "id": "8eQTpzurtCF",
+    "order": 1731316990318,
+    "createdAt": "2024-11-11T09:23:10.000Z",
+    "publishDate": "2024-11-11T09:23:10.318Z",
+    "title": "AI 初创公司推出 Nous Chat 聊天机器人，底层基于 Meta Llama 3.1 打造",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-11 17:23:10",
+    "uuid": "5a9acee0-8c94-4df1-af36-d7afc894f9c6"
+  },
+  {
+    "newsArray": [
       { "siteName": "智通财经" },
       { "siteName": "速途网" },
       { "siteName": "36Kr" }
