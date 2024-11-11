@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "国泰君安研报预测，随着政府化债和更积极的财政政策实施，政府信创采购将在2024年四季度开始复苏 ...",
+    "id": "8ePo3ag7o6O",
+    "order": 1731287966758,
+    "createdAt": "2024-11-11T01:19:26.000Z",
+    "publishDate": "2024-11-11T01:19:26.758Z",
+    "title": "国泰君安：政府化债及更积极财政有望加速信创发展",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-11 09:19:26",
+    "uuid": "418e0e71-f292-4a34-8a64-9b536d32aca6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "海通证券发布通知，11月11日起，公司调整客户人民币保证金利率标准，调整后的人民币保证金利率标准为0.10%（年化利率）。",
+    "id": "8ePt2SOCfh0",
+    "order": 1731284480233,
+    "createdAt": "2024-11-11T00:21:20.000Z",
+    "publishDate": "2024-11-11T00:21:20.233Z",
+    "title": "海通证券：调整客户人民币保证金利率至0.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-11 08:21:20",
+    "uuid": "517b7aa9-65f0-4731-8546-ee23a6a366d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "深圳地铁6号线一列车内发生充电宝自燃事件，无人员受伤，未影响其他列车运行。",
+    "id": "8ePqBptmKCF",
+    "order": 1731283561286,
+    "createdAt": "2024-11-11T00:06:01.000Z",
+    "publishDate": "2024-11-11T00:06:01.286Z",
+    "title": "深圳地铁：6号线一列车内有乘客充电宝发生自燃，无人员受伤",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-11 08:06:01",
+    "uuid": "3be5f616-3e53-4723-aaab-3f29a685507c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "科创相关ETF近期吸引了大量资金净流入，资产净值显著增长，显示出投资者对参与科创板“硬科技”投资的热情不断升温 ...",
+    "id": "8ePpUaKwvZI",
+    "order": 1731283291784,
+    "createdAt": "2024-11-11T00:01:31.000Z",
+    "publishDate": "2024-11-11T00:01:31.784Z",
+    "title": "科创类ETF持续吸金，一个多月资金净流入超400亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-11 08:01:31",
+    "uuid": "7f844a67-8d04-405a-b4dd-7c7056941451"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -15,6 +87,66 @@
     "up": false,
     "date": "2024-11-11 07:46:04",
     "uuid": "19b05e45-b2c2-4c79-a41c-de40984df424"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "Odaily" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "欧洲央行管委霍尔茨曼表示12月降息有可能，但不是确定的事。自6月份以来，欧洲央行已降息三次，市场预计下月可能再次降息。作为最初降息唯一反对者的霍尔茨曼，是目前最鹰派的官员之一。",
+    "id": "8eOv1WuRQ6Q",
+    "order": 1731283351929,
+    "createdAt": "2024-11-10T23:13:38.000Z",
+    "publishDate": "2024-11-11T00:02:31.929Z",
+    "title": "欧洲央行管委霍尔茨曼：12月可能降息",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-11 07:13:38",
+    "uuid": "556cc072-659f-4ee0-b05e-77d0b7793310"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "今年以来，我国财政部门推出一系列增量政策举措，以促进经济回升向好。专家预计，明年我国将实施更大力度的财政政策，特别是积极利用赤字空间，促进经济持续增长 ...",
+    "id": "8eP3bLIGfRH",
+    "order": 1731284678557,
+    "createdAt": "2024-11-10T23:07:12.000Z",
+    "publishDate": "2024-11-11T00:24:38.557Z",
+    "title": "专家：明年我国有望实施力度更大的财政政策",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-11 07:07:12",
+    "uuid": "d0dc24a0-8eed-4e36-8183-0c21613ab595"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果第二代Apple Vision Pro有望在2025年秋季至2026年春季期间上市，将搭载性能更强的M5芯片 ...",
+    "id": "8ePHWrav6Us",
+    "order": 1731284152529,
+    "createdAt": "2024-11-10T22:56:23.000Z",
+    "publishDate": "2024-11-11T00:15:52.529Z",
+    "title": "古尔曼：苹果 Vision Pro 2 有望在 2025 年秋季至 2026 年春季之间上市",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-11 06:56:23",
+    "uuid": "7be92793-0bc4-40b4-ac78-44705f59344f"
   },
   {
     "newsArray": [
