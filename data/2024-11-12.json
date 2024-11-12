@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "和讯网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "11月12日，A股三大股指涨跌互现，上证综指跌1.39%，科创50指数跌2.17%，深证成指跌0.65%，创业板指跌0.07% ...",
+    "id": "8eS2gIIcpNq",
+    "order": 1731397920129,
+    "createdAt": "2024-11-12T07:52:01.000Z",
+    "publishDate": "2024-11-12T07:52:00.129Z",
+    "title": "A股午后下挫：沪指跌1.39%，医药、锂矿板块逆势活跃",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 15:52:01",
+    "uuid": "3bc25b10-a69d-4bf5-a0c5-3e77475a0070"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "亚马逊确认一起第三方供应商导致的数据泄露事件，涉及员工的工作联系信息。此次事件由文件传输软件MOVEit的零日漏洞引起，除亚马逊外，汇丰银行也被认为是受害者。该漏洞已被供应商修复。",
+    "id": "8eS0sW7YTu8",
+    "order": 1731397877628,
+    "createdAt": "2024-11-12T07:51:18.000Z",
+    "publishDate": "2024-11-12T07:51:17.628Z",
+    "title": "亚马逊确认员工数据因第三方供应商网络安全事故泄露",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 15:51:18",
+    "uuid": "cc5d6af0-45c2-4ae8-8fe3-eca2b7363853"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果公司推出了一项新的海外市场节假日退货政策，将退货期限延长至两个月，以便消费者在购物后有更长时间考虑是否退货 ...",
+    "id": "8eRdKMbPEgB",
+    "order": 1731397760760,
+    "createdAt": "2024-11-12T07:49:20.000Z",
+    "publishDate": "2024-11-12T07:49:20.760Z",
+    "title": "苹果海外退货期限放宽至 2 个月，中国大陆暂不支持",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 15:49:20",
+    "uuid": "a8b7d45f-c9dd-4465-a98e-0810f7a880d2"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" },
       { "siteName": "中关村在线" }
