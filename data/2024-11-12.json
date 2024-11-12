@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "英特尔的Linux内核测试机器人报告指出，主线Linux内核性能在Intel Xeon Platinum (Cooper Lake)测试服务器上提升了3888.9% ...",
+    "id": "8eQRvGwO44V",
+    "order": 1731380096506,
+    "createdAt": "2024-11-12T02:54:56.000Z",
+    "publishDate": "2024-11-12T02:54:56.506Z",
+    "title": "只需一行代码：Intel实现Linux内核性能提升3888.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 10:54:56",
+    "uuid": "cd3a981d-27e3-4d3c-9922-94341b4d40f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软在最新的Windows 11预览版中正在尝试改进默认应用设置页面，尽管目前还存在一些问题，显示仍在早期阶段 ...",
+    "id": "8eRfSDqWSsu",
+    "order": 1731380020400,
+    "createdAt": "2024-11-12T02:53:40.000Z",
+    "publishDate": "2024-11-12T02:53:40.400Z",
+    "title": "微软正重构 Windows 11 默认应用设置页面",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 10:53:40",
+    "uuid": "6d88a09f-5118-48ed-a23f-7f3b4b5d7ab5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "佰维存储推出采用1bnm制程工艺的LPDDR5X内存，数据传输速率提升33%至8533Mbps，功耗降低25% ...",
+    "id": "8eQi7zivQve",
+    "order": 1731379887167,
+    "createdAt": "2024-11-12T02:51:28.000Z",
+    "publishDate": "2024-11-12T02:51:27.167Z",
+    "title": "佰维存储推出 LPDDR5X 内存：速率 8533Mbps，最高 16GB",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 10:51:28",
+    "uuid": "07f67d34-5523-4632-a936-d8f594e79fad"
+  },
+  {
+    "newsArray": [
       { "siteName": "猎云网" },
       { "siteName": "投资圈" },
       { "siteName": "投中网" }
@@ -32,6 +83,24 @@
     "up": false,
     "date": "2024-11-12 10:26:54",
     "uuid": "b440bdf1-58da-432e-8b2e-4a93b3172ca0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "美国银行的最新报告指出，在微芯片领域，英特尔的市场份额正在下降，而AMD则呈现出强劲的增长趋势 ...",
+    "id": "8eRag9hmUzS",
+    "order": 1731380017671,
+    "createdAt": "2024-11-12T02:26:25.000Z",
+    "publishDate": "2024-11-12T02:53:37.671Z",
+    "title": "AMD势头强劲：2024年Q3 CPU出货量大幅增长，英特尔面临挑战",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 10:26:25",
+    "uuid": "81086c94-fc16-4a81-a2e8-3815a11c13a3"
   },
   {
     "newsArray": [
@@ -86,6 +155,24 @@
     "up": false,
     "date": "2024-11-12 10:07:29",
     "uuid": "d87cbcf8-3cc7-4a94-b64f-1979d07d26dc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "禾信仪器近日收到广东证监局的《警示函》，指出其存在未按规定程序变更募投项目实施地点和存货跌价准备计提不充分的问题。公司董事长周振和董事会秘书陆万里被认为负有主要责任 ...",
+    "id": "8eQVn6WSwdz",
+    "order": 1731380091371,
+    "createdAt": "2024-11-12T02:04:33.000Z",
+    "publishDate": "2024-11-12T02:54:51.371Z",
+    "title": "因存货跌价准备计提不充分等 禾信仪器及相关人员收警示函",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 10:04:33",
+    "uuid": "497422ce-2abe-4bbd-952b-b5e5ac1521fd"
   },
   {
     "newsArray": [
