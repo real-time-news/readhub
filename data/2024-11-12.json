@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "在中国国际航空航天博览会首日，中国商飞与海航航空集团签署60架C919飞机确认订单和40架C909飞机确认订单 ...",
+    "id": "8eRoOkUbzHw",
+    "order": 1731387692041,
+    "createdAt": "2024-11-12T05:01:32.000Z",
+    "publishDate": "2024-11-12T05:01:32.041Z",
+    "title": "航展首日，中国商飞签下130架飞机订单",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 13:01:32",
+    "uuid": "cd31d50c-761d-4a8b-88f7-66006a886097"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "豪威集团发布了一款名为OV0TA1B的单色/红外CMOS图像传感器，该传感器具有2微米像素和PureCel®技术，适用于3毫米模块Y尺寸、小型笔记本电脑、网络摄像头和物联网设备 ...",
+    "id": "8eRdhJvpOmT",
+    "order": 1731387391396,
+    "createdAt": "2024-11-12T04:56:31.000Z",
+    "publishDate": "2024-11-12T04:56:31.396Z",
+    "title": "豪威OV0TA1B超小尺寸传感器发布：支持人脸识别、存在检测",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 12:56:31",
+    "uuid": "81663dd5-fdf4-43c9-8b12-72b6786dd719"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
