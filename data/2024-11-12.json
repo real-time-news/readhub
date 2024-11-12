@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软官方披露，部分Windows Server 2019和2022设备出现自动升级至Windows Server 2025的现象，原因是第三方补丁管理工具错误地将KB5044284更新标记为安全更新，触发了自动升级和重启 ...",
+    "id": "8eS1GfrR6od",
+    "order": 1731397631679,
+    "createdAt": "2024-11-12T07:47:11.000Z",
+    "publishDate": "2024-11-12T07:47:11.679Z",
+    "title": "微软回应Windows Server自动升级事件：第三方补丁管理工具误操作所致",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 15:47:11",
+    "uuid": "7af02006-6356-4d9c-be1e-4c9fff2c5494"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉发布了2024.38.4软件更新，旨在解决哨兵模式下车辆耗电过多的问题，这曾是车主们关注的焦点 ...",
+    "id": "8eS2K2GJbFj",
+    "order": 1731397354889,
+    "createdAt": "2024-11-12T07:42:35.000Z",
+    "publishDate": "2024-11-12T07:42:34.889Z",
+    "title": "特斯拉推出新软件更新，着手解决哨兵模式耗电困扰",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 15:42:35",
+    "uuid": "b65dae3c-b5be-4518-908c-012c6aefdc4d"
+  },
+  {
+    "newsArray": [
       { "siteName": "C114 通信网" },
       { "siteName": "界面" },
       { "siteName": "C114 通信网" }
@@ -118,6 +152,24 @@
     "up": false,
     "date": "2024-11-12 15:05:05",
     "uuid": "4d612c47-217c-40a7-96ae-f58ec25b0e57"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "《2024胡润慈善榜》显示，虞仁荣以53亿元捐赠额首次成为中国的首善，他向宁波东方理工大学教育基金会捐赠了韦尔股份的5000万股股票 ...",
+    "id": "8eRigPFniB8",
+    "order": 1731397345177,
+    "createdAt": "2024-11-12T07:05:03.000Z",
+    "publishDate": "2024-11-12T07:42:25.177Z",
+    "title": "2024胡润慈善榜：小米雷军第二 捐赠额已超150亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 15:05:03",
+    "uuid": "975ac8fc-e0aa-4416-8644-01a2deb05f09"
   },
   {
     "newsArray": [
