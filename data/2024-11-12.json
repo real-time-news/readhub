@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国航空工业集团公司研发的国产祥云AS700载人飞艇在2024年11月12日开幕的第十五届中国航展上获得新的购艇订单，累计订单数量达到23艘。",
+    "id": "8eS6xm7Xx50",
+    "order": 1731400918760,
+    "createdAt": "2024-11-12T08:41:58.000Z",
+    "publishDate": "2024-11-12T08:41:58.760Z",
+    "title": "国产“祥云”AS700载人飞艇将开启商业运营",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 16:41:58",
+    "uuid": "dc704b3b-a3ca-45ec-9d60-a9a29f50df4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "两名加州玩家因育碧关闭《飙酷车神》服务器提起集体诉讼，指控育碧销售游戏时存在误导，未提供单人模式。玩家要求赔偿和服务器关闭造成的损失 ...",
+    "id": "8eRggJIhurZ",
+    "order": 1731400620879,
+    "createdAt": "2024-11-12T08:37:00.000Z",
+    "publishDate": "2024-11-12T08:37:00.879Z",
+    "title": "加州玩家起诉育碧 关闭《飙酷车神》游戏服务器",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 16:37:00",
+    "uuid": "312a870a-96e4-4d9d-badf-9c158fa618cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "百度在世界大会上推出新文生图技术iRAG，解决图片生成模型幻觉问题。通过结合亿级图片资源与基础模型能力，iRAG降低了模型出现幻觉的风险，使得文心大模型能生成更真实的图片。",
+    "id": "8eS31JxhfdH",
+    "order": 1731400503338,
+    "createdAt": "2024-11-12T08:35:03.000Z",
+    "publishDate": "2024-11-12T08:35:03.338Z",
+    "title": "百度发布全新文生图技术 iRAG，降低图片幻觉问题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 16:35:03",
+    "uuid": "6edefa69-f7ec-4a7f-9c4e-251704f696d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "欧洲搜索引擎公司Ecosia和Qwant宣布合作，计划于2025年初成立合资企业“欧洲搜索展望”（EUSP），以打破谷歌和微软在搜索引擎市场的垄断地位 ...",
+    "id": "8eRvX3zAbe2",
+    "order": 1731400435418,
+    "createdAt": "2024-11-12T08:33:56.000Z",
+    "publishDate": "2024-11-12T08:33:55.418Z",
+    "title": "欧洲搜索引擎新格局：Ecosia与Qwant联手，欲破谷歌垄断打造独立索引",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-12 16:33:56",
+    "uuid": "ce83e922-45d5-423f-9c66-40832dfa4b1a"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "DoNews" }
