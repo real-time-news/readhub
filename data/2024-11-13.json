@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软披露了一个名为 CVE-2024-49040 的高危 Exchange Server 漏洞，该漏洞主要影响 Exchange Server 2016 和 2019 版本 ...",
+    "id": "8eTLmlfszqE",
+    "order": 1731469527029,
+    "createdAt": "2024-11-13T03:45:27.000Z",
+    "publishDate": "2024-11-13T03:45:27.029Z",
+    "title": "邮件欺诈新威胁，微软披露 Exchange Server 高风险漏洞",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 11:45:27",
+    "uuid": "1fff09d2-31c0-4fc3-af55-05aeb1c0b895"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "《2024双十一消费洞察报告》显示，10月14日至11月11日期间，我国网络零售额超1.9万亿元，同比增长超8%，国货品牌在TOP10品牌中占据7席，加速崛起。",
+    "id": "8eSBFlubzrN",
+    "order": 1731469514278,
+    "createdAt": "2024-11-13T03:45:14.000Z",
+    "publishDate": "2024-11-13T03:45:14.278Z",
+    "title": "《2024双十一消费洞察报告》：Z世代引领国潮风尚，AI购物时代加速到来",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 11:45:14",
+    "uuid": "47256bfd-a659-43de-8f1d-5affc0514745"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "财经网" },
       { "siteName": "36Kr" }
