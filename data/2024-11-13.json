@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "A股三大股指在11月13日集体低开，但在中字头和银行股的上涨拉动下，沪指小幅下挫，深成指和创指跌幅收窄。午后两市出现一波急涨，三大股指全线翻红 ...",
+    "id": "8eTLRoflo0Z",
+    "order": 1731482585343,
+    "createdAt": "2024-11-13T07:23:05.000Z",
+    "publishDate": "2024-11-13T07:23:05.343Z",
+    "title": "A股午后急涨：三大股指全线翻红，上海国资概念大幅上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 15:23:05",
+    "uuid": "4ea91542-3274-432e-a943-35870198e1ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "湖南协鑫产业投资有限公司成立，法定代表人为张强，注册资本1.9亿人民币，由协鑫集团有限公司全资持股，经营范围为投资活动。",
+    "id": "8eTcbuGqPCi",
+    "order": 1731482197973,
+    "createdAt": "2024-11-13T07:16:38.000Z",
+    "publishDate": "2024-11-13T07:16:37.973Z",
+    "title": "协鑫集团在湖南成立产业投资公司 注册资本1.9亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 15:16:38",
+    "uuid": "ad33827d-3ab4-4aa6-855a-e2dadb2e1739"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "芯片制造商AMD近日宣布裁员，约占全球员工的4%，以优化资源配置和应对市场变化，支持在人工智能领域的扩张计划 ...",
+    "id": "8eTRAyuPv0c",
+    "order": 1731482184118,
+    "createdAt": "2024-11-13T07:16:25.000Z",
+    "publishDate": "2024-11-13T07:16:24.118Z",
+    "title": "AMD官方确认全球裁员4% 将更多重心投向AI领域",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 15:16:25",
+    "uuid": "f3e7234a-ab80-4e47-ae92-18c4829087a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "亚马逊旗下AWS即将敲定一项价值4.75亿美元的五年期协议，希望向IBM供应与英伟达GPU相关的服务。",
+    "id": "8eTArFh5Zkd",
+    "order": 1731481975912,
+    "createdAt": "2024-11-13T07:12:55.000Z",
+    "publishDate": "2024-11-13T07:12:55.912Z",
+    "title": "亚马逊AWS据悉接近达成协议，向IBM提供英伟达GPU相关服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 15:12:55",
+    "uuid": "98b0a2b0-84c3-4404-81dd-6ad43d99ff09"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "证券时报网" },
       { "siteName": "澎湃新闻" }
@@ -49,6 +118,64 @@
     "up": false,
     "date": "2024-11-13 14:53:26",
     "uuid": "1553ad66-4417-495e-889c-d79a266ad1b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "地平线公司宣布其车载智能计算方案的出货量已超过700万，自2020年开启前装量产以来，发展迅速，并在今年8月达到了600万出货量 ...",
+    "id": "8eTSrNxM5Gq",
+    "order": 1731482194762,
+    "createdAt": "2024-11-13T06:47:10.000Z",
+    "publishDate": "2024-11-13T07:16:34.762Z",
+    "title": "地平线：征程家族智驾计算方案出货量破 700 万，累计量产定点车型超 290 款",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 14:47:10",
+    "uuid": "94f16216-5f49-4ea6-a3e5-ba176784e0f7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "腾讯应用宝专区正式入驻微软应用商店，首批面向Windows预览体验用户开放使用 ...",
+    "id": "8eTdIteXOAF",
+    "order": 1731481949545,
+    "createdAt": "2024-11-13T06:36:28.000Z",
+    "publishDate": "2024-11-13T07:12:29.545Z",
+    "title": "腾讯应用宝专区正式入驻微软应用商店",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 14:36:28",
+    "uuid": "b8d673cb-2cad-45d5-91c7-a0d03a20a1f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "品玩" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "机器之心" }
+    ],
+    "summary": "钉钉升级推出“精选 AI 助理”，首批包括工单助理、Excel 助理等六大功能，预设工作流和 AI 技能，并与钉内其他应用深度打通，用户可免费试用 ...",
+    "id": "8eTe06uIxFN",
+    "order": 1731481833478,
+    "createdAt": "2024-11-13T06:34:03.000Z",
+    "publishDate": "2024-11-13T07:10:33.478Z",
+    "title": "钉钉上线工单等六大场景AI助理，联合生态推出行业AI解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 14:34:03",
+    "uuid": "1f4e6a83-259a-465f-ad41-9e4425afb76f"
   },
   {
     "newsArray": [
