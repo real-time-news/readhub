@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "越秀资本宣布，其第十届董事会第十六次会议及第十届监事会第十三次会议通过了关于出售中信证券股份的议案，同意通过二级市场出售不超过中信证券总股本1%的股份 ...",
+    "id": "8eSOOTmNByU",
+    "order": 1731485603020,
+    "createdAt": "2024-11-13T08:13:23.000Z",
+    "publishDate": "2024-11-13T08:13:23.020Z",
+    "title": "越秀资本：拟出售不超1%中信证券股份",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 16:13:23",
+    "uuid": "9db7a2e2-545e-4177-b1dd-4adc7eac883e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "抖音App对“朋友”功能进行升级，新朋友关系独立于粉丝关系，需主动申请添加。新朋友关系更偏向于传统熟人关系，社交亲密度高于粉丝关系 ...",
+    "id": "8eTVdMqQsl9",
+    "order": 1731485197436,
+    "createdAt": "2024-11-13T08:06:38.000Z",
+    "publishDate": "2024-11-13T08:06:37.436Z",
+    "title": "抖音 App“朋友”功能升级，打造类“微信朋友圈”体验",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 16:06:38",
+    "uuid": "121b91c2-c3db-4e1f-b609-54f8ba9f69f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LG电子与AI芯片创企Tenstorrent扩大合作，共同开发面向全球市场的SoC与系统，以提高AI芯片的设计开发能力，实现“情感智能”愿景 ...",
+    "id": "8eSAsxOtGGK",
+    "order": 1731485087484,
+    "createdAt": "2024-11-13T08:04:48.000Z",
+    "publishDate": "2024-11-13T08:04:47.484Z",
+    "title": "LG 电子、Tenstorrent 扩大合作，共同开发面向全球市场的 SoC 与系统",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 16:04:48",
+    "uuid": "48c3d3d5-c3eb-4701-97ce-bad2130eec3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "速途网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "北京零一万物信息技术有限公司与华为技术有限公司签署合作协议，启动昇腾原生大模型开发合作 ...",
+    "id": "8eTimsf1lxs",
+    "order": 1731485079046,
+    "createdAt": "2024-11-13T08:04:40.000Z",
+    "publishDate": "2024-11-13T08:04:39.046Z",
+    "title": "零一万物与华为启动昇腾原生开发合作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 16:04:40",
+    "uuid": "66e95931-3f1a-453f-99a7-c03747209935"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "第四届中国广电媒体融合发展大会在北京怀柔举行，主题为“新质强视听 融合启未来”。会上，北京市广播电视局发布了“视听北京传播矩阵”，展示了一年来在主题宣传、文化传承、精品作品推广等方面的成果 ...",
+    "id": "8eTDrJCn0Fh",
+    "order": 1731485069556,
+    "createdAt": "2024-11-13T08:04:30.000Z",
+    "publishDate": "2024-11-13T08:04:29.556Z",
+    "title": "第四届中国广电媒体融合发展大会：视听北京传播矩阵精彩亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 16:04:30",
+    "uuid": "a451b771-c5c2-4876-a86f-8eba75a5766d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "ZAKER" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2024全球6G发展大会在上海发布6G创新发展合作倡议，包括推动6G创新、塑造智能服务范式、制定全球统一标准、深化技术试验和构建合作新典范 ...",
+    "id": "8eTidpCSULa",
+    "order": 1731484966764,
+    "createdAt": "2024-11-13T08:02:46.000Z",
+    "publishDate": "2024-11-13T08:02:46.764Z",
+    "title": "全球 6G 创新发展合作倡议发布：呼吁共同制定全球统一标准",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 16:02:46",
+    "uuid": "544a5587-2c75-4ce7-a124-71dcc6e81128"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财经网" },
       { "siteName": "界面" }
@@ -1758,6 +1865,24 @@
     "up": false,
     "date": "2024-11-13 07:11:15",
     "uuid": "8e67f592-3497-4526-b05d-e6d8ceabd626"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "小鹏汽车在尼泊尔首都加德满都开设了旗舰展厅，并正式进入尼泊尔市场，同时小鹏G6在尼泊尔上市并开始交付。",
+    "id": "8eSaFxjIq9k",
+    "order": 1731485166499,
+    "createdAt": "2024-11-12T23:07:00.000Z",
+    "publishDate": "2024-11-13T08:06:06.499Z",
+    "title": "小鹏G6在尼泊尔上市并开启交付",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 07:07:00",
+    "uuid": "7ae2315b-0585-4ba1-a827-41cf5e23ad18"
   },
   {
     "newsArray": [
