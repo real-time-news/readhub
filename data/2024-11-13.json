@@ -2,6 +2,40 @@
   {
     "newsArray": [
       { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "安全公司Perception Point发现了一种名为“ZIP串联文件”的新型攻击手段，黑客通过这种技术利用ZIP文件的特性来隐藏恶意文件，对Windows用户进行攻击 ...",
+    "id": "8eSSmETBJjq",
+    "order": 1731473030516,
+    "createdAt": "2024-11-13T04:43:50.000Z",
+    "publishDate": "2024-11-13T04:43:50.516Z",
+    "title": "新型黑客攻击手法曝光：普通压缩包暗藏木马，ZIP串联文件成隐患",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 12:43:50",
+    "uuid": "84558268-b22c-4daf-bb3f-384edb4d5904"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" },
+      { "siteName": "雷科技" }
+    ],
+    "summary": "百度网盘和百度地图已上架鸿蒙应用市场，支持HarmonyOS NEXT公测版用户下载使用。鸿蒙版百度网盘提供了数据自动备份、极速上传下载等功能，并基于原生安全特性升级了隐私保护 ...",
+    "id": "8eTS1j2n7Zg",
+    "order": 1731473009643,
+    "createdAt": "2024-11-13T04:43:29.000Z",
+    "publishDate": "2024-11-13T04:43:29.643Z",
+    "title": "百度网盘、百度地图上架鸿蒙原生版，手机百度已开启尝鲜测试",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-13 12:43:29",
+    "uuid": "4b3f1956-a0f4-4da6-8c54-3e7a584434d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" },
       { "siteName": "投资圈" }
     ],
