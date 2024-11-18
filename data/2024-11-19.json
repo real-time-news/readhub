@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国司法部计划推动谷歌出售Chrome浏览器以破除市场垄断，并要求网站可选择不使用人工智能技术。",
+    "id": "8ed2Q5cFLXG",
+    "order": 1731970878200,
+    "createdAt": "2024-11-18T23:01:19.000Z",
+    "publishDate": "2024-11-18T23:01:18.200Z",
+    "title": "美国司法部将推动谷歌出售CHROME 以打破垄断",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 07:01:19",
+    "uuid": "ddefe90e-e2e1-4b17-bfd4-0a1ad2b8fa03"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "界面" }
@@ -32,5 +50,25 @@
     "up": false,
     "date": "2024-11-19 01:01:33",
     "uuid": "073a21ed-3d39-49a7-b848-97443a62a6eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "北京市取消了普通住房和非普通住房的标准，并规定自2024年12月1日起，个人购买并持有2年以上的住房销售时免征增值税，不足2年的则需按5%的税率缴纳 ...",
+    "id": "8ebuQVGpJHd",
+    "order": 1731971198558,
+    "createdAt": "2024-11-18T16:01:34.000Z",
+    "publishDate": "2024-11-18T23:06:38.558Z",
+    "title": "北京：取消普通住房和非普通住房标准 加大住房交易税收优惠力度",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 00:01:34",
+    "uuid": "e07df6a6-f99e-441f-8f92-4c574bb48938"
   }
 ]
