@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "智通财经" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "中国即将在六个城市开展eVTOL试点，这标志着低空经济正在加速发展。随着试点城市的确定，地方政府将承担更多的管理责任 ...",
+    "id": "8ed6i9QonkY",
+    "order": 1731979395971,
+    "createdAt": "2024-11-19T01:23:15.000Z",
+    "publishDate": "2024-11-19T01:23:15.971Z",
+    "title": "航空新势力起飞：六城即将开展eVTOL试点，将迎来哪些新机遇",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 09:23:15",
+    "uuid": "c68a13d2-7303-4c44-bbb1-5eba63a9b862"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "苹果公司为了说服印尼政府解除iPhone16的销售禁令，已将其在印尼的投资报价提高了近十倍，计划在两年内向印尼投资近1亿美元。",
+    "id": "8ed0ztWPbzL",
+    "order": 1731978444086,
+    "createdAt": "2024-11-19T01:07:25.000Z",
+    "publishDate": "2024-11-19T01:07:24.086Z",
+    "title": "苹果据悉将向印尼投资1亿美元，以争取当地政府解除iPhone 16销售禁令",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 09:07:25",
+    "uuid": "7ed10198-57ea-4aa3-b1cb-58911a5a256a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果发布了tvOS 18.2第三个测试版，新增了对21:9宽高比投影仪的支持和史努比系列屏保，同时推出了visionOS 2.2第三个测试版，该版本为Mac虚拟显示功能带来新突破，用户可将虚拟显示设置为宽屏和超宽屏模式。",
+    "id": "8ed4XtxgULK",
+    "order": 1731978086407,
+    "createdAt": "2024-11-19T01:01:27.000Z",
+    "publishDate": "2024-11-19T01:01:26.407Z",
+    "title": "苹果向开发者推送tvOS 18.2 Beta3 新增史努比屏保",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 09:01:27",
+    "uuid": "a92c76dd-6430-40a1-8343-d3654cbb3381"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "上交所和深交所的融资余额在11月18日均有减少，分别报9419.31亿元和8773.11亿元，两市合计余额为18192.42亿元，较前一交易日减少32.94亿元。",
+    "id": "8ebY5404uYN",
+    "order": 1731977715183,
+    "createdAt": "2024-11-19T00:55:16.000Z",
+    "publishDate": "2024-11-19T00:55:15.183Z",
+    "title": "两市融资余额减少32.94亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 08:55:16",
+    "uuid": "42f5d8c7-7ab6-465c-9170-4070d88f33b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。",
+    "id": "8eckXQOZAMn",
+    "order": 1731977174094,
+    "createdAt": "2024-11-19T00:46:15.000Z",
+    "publishDate": "2024-11-19T00:46:14.094Z",
+    "title": "苹果 visionOS 2.2 开发者预览版 Beta 3 发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 08:46:15",
+    "uuid": "0dfa9aeb-9182-4923-a2fd-ac2d03208d1a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "证监会发布的市值管理指引将对主要指数成分股实施市值管理制度，并要求长期破净公司披露估值提升计划，这可能有利于红利风格和煤炭板块，尤其是那些业绩稳定且为主要指数成分股的煤炭行业龙头公司 ...",
+    "id": "8ebXfGxxEWs",
+    "order": 1731976643530,
+    "createdAt": "2024-11-19T00:37:23.000Z",
+    "publishDate": "2024-11-19T00:37:23.530Z",
+    "title": "中信证券：市值管理指引发布，煤炭板块有望受益",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 08:37:23",
+    "uuid": "617aa527-19b1-4e94-a06e-6d539556ca99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "俄罗斯法院对谷歌公司处以380万卢布罚款，因其未删除被禁止内容。多年来，俄罗斯一直要求外国技术平台删除其认为非法的内容，并对违规行为多次罚款。",
+    "id": "8ecOoov6PIc",
+    "order": 1731976271360,
+    "createdAt": "2024-11-19T00:31:12.000Z",
+    "publishDate": "2024-11-19T00:31:11.360Z",
+    "title": "俄罗斯法院以违规为由对谷歌处以3.8万美元罚款",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 08:31:12",
+    "uuid": "823d722e-7819-4e16-9c47-0f216df02fc9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "《原神》游戏Xbox端已开启预载，容量约100GB，将于11月20日正式上线。同时，《原神》5.2版本“灵与火的织卷”更新也已开放预下载，并将于11月20日6点开始维护 ...",
+    "id": "8ebyfaahPfB",
+    "order": 1731975704866,
+    "createdAt": "2024-11-19T00:21:45.000Z",
+    "publishDate": "2024-11-19T00:21:44.866Z",
+    "title": "米哈游《原神》Xbox 端开启预载：容量约 100GB，11 月 20 日上线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 08:21:45",
+    "uuid": "c6fa721e-bccd-4750-9ba9-62e49514fd18"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "生物医药行业在政策推动和市场需求下，迎来并购交易活跃期。多家上市公司采取并购重组以扩展业务和实现价值重估。行业整合加速，帮助企业应对专利到期和新技术挑战，促进行业健康发展 ...",
+    "id": "8ed88iieQGh",
+    "order": 1731975569425,
+    "createdAt": "2024-11-19T00:19:30.000Z",
+    "publishDate": "2024-11-19T00:19:29.425Z",
+    "title": "当“天然并购体质”遇上风口 生物医药行业并购潮起",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 08:19:30",
+    "uuid": "25c7ccc7-dca7-4ac8-8746-af579213978f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司更新支持文档，承认iCloud备忘录存在问题，并提供了修复方案。部分用户在同意iCloud条款后丢失了基于iCloud的笔记 ...",
+    "id": "8ed9YCG1vxt",
+    "order": 1731975432357,
+    "createdAt": "2024-11-19T00:17:12.000Z",
+    "publishDate": "2024-11-19T00:17:12.357Z",
+    "title": "苹果新公告：修复 iCloud 备忘录消失问题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-19 08:17:12",
+    "uuid": "22cb4304-332c-4715-a385-7bb3ff2702fa"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财新网" },
       { "siteName": "财经网" }
