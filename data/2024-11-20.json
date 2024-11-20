@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "2024年中国5G+工业互联网大会于11月19日在武汉开幕，展示了5G+工业互联网在各领域的广泛应用 ...",
+    "id": "8eeptk9aNTw",
+    "order": 1732067786772,
+    "createdAt": "2024-11-20T01:56:26.000Z",
+    "publishDate": "2024-11-20T01:56:26.772Z",
+    "title": "“5G+工业互联网”高质量发展蹄疾步稳",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 09:56:26",
+    "uuid": "f100236c-b1b4-4a49-9f79-c7648e6cdac6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "智通财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "国家能源局公布10月全社会用电量，达7742亿千瓦时，同比增长4.3%。1至10月累计用电量81836亿千瓦时，同比增长7.6% ...",
+    "id": "8eevbdpJqME",
+    "order": 1732067564257,
+    "createdAt": "2024-11-20T01:52:45.000Z",
+    "publishDate": "2024-11-20T01:52:44.257Z",
+    "title": "国家能源局：10月份全社会用电量同比增长4.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 09:52:45",
+    "uuid": "bf831736-554d-4cde-a5ec-112d0a6b1de4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "2024年前三季度，中国市场折叠屏手机销量达852万部，同比增长101%，市场渗透率提升至4.1%，接近倍增。",
+    "id": "8eekuYDjI62",
+    "order": 1732067125042,
+    "createdAt": "2024-11-20T01:45:25.000Z",
+    "publishDate": "2024-11-20T01:45:25.042Z",
+    "title": "机构：第三季度中国市场折叠屏手机销量达354万部，同比增长79%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 09:45:25",
+    "uuid": "e78493f4-f295-4894-8e83-1549690c7eb7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "南方周末" }
+    ],
+    "summary": "深圳市住房和建设局宣布自2024年12月1日起取消本市普通住房和非普通住房标准，同时对个人住房交易的增值税、契税以及个人所得税等相关税收政策进行调整，以满足居民的刚性和改善性住房需求。",
+    "id": "8ee7bay3puf",
+    "order": 1732066979345,
+    "createdAt": "2024-11-20T01:43:00.000Z",
+    "publishDate": "2024-11-20T01:42:59.345Z",
+    "title": "深圳：取消普通住房和非普通住房标准",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 09:43:00",
+    "uuid": "516989ef-6626-4750-bafa-e7a85bb29ff6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "近期，受供需改善等因素推动，我国多家造纸企业纷纷发布涨价通知，瓦楞纸、牛卡纸等纸品价格出现上涨 ...",
+    "id": "8eeqdOgz4h3",
+    "order": 1732065755903,
+    "createdAt": "2024-11-20T01:22:35.000Z",
+    "publishDate": "2024-11-20T01:22:35.903Z",
+    "title": "市场需求稳中向好 多家纸企上调产品价格",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 09:22:35",
+    "uuid": "5a73b241-7990-4b11-b3f5-8b5ec21ef1c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "FX原型车已运抵FF中国总部，并将从北京出发前往洛杉矶进行产品开发测试。",
+    "id": "8eer4ZuLvDU",
+    "order": 1732065728389,
+    "createdAt": "2024-11-20T01:22:09.000Z",
+    "publishDate": "2024-11-20T01:22:08.389Z",
+    "title": "法拉第未来称首批FX原型车将运往FF美国总部",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 09:22:09",
+    "uuid": "b845a44f-a886-4610-bc39-80f95cd40a65"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
@@ -66,6 +173,44 @@
     "up": false,
     "date": "2024-11-20 08:13:05",
     "uuid": "44c65a65-ac82-451a-9742-e16edafff390"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "六家公募基金公司宣布降低旗下31只大型宽基ETF的管理费率和托管费率，其中包括五只千亿规模ETF ...",
+    "id": "8eegFc7G21o",
+    "order": 1732064763750,
+    "createdAt": "2024-11-19T23:52:03.000Z",
+    "publishDate": "2024-11-20T01:06:03.750Z",
+    "title": "新一轮降费启动 多只千亿规模ETF管理费下调至0.15%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 07:52:03",
+    "uuid": "0b4ccaed-3b71-4a8f-bb1e-b29956436c02"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "指数基金本月成立数量高达31只，发行规模占比超过70%，成为新基金发行的主力军，多家基金公司正密集上报新品。",
+    "id": "8eejTlX3lsA",
+    "order": 1732068575891,
+    "createdAt": "2024-11-19T23:50:10.000Z",
+    "publishDate": "2024-11-20T02:09:35.891Z",
+    "title": "密集申报快速发行，月内指数基金成立31只",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 07:50:10",
+    "uuid": "b122a3ed-0e0d-4c5d-9522-c42f86ddaa65"
   },
   {
     "newsArray": [
