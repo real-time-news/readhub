@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软在Ignite大会上推出了新的Azure HBv5单租户虚拟机，专为HPC高性能计算设计 ...",
+    "id": "8ef6fya5Mp4",
+    "order": 1732088206779,
+    "createdAt": "2024-11-20T07:36:46.000Z",
+    "publishDate": "2024-11-20T07:36:46.779Z",
+    "title": "微软发布 Azure HBv5 虚拟机：基于集成 HBM3 内存的定制 AMD EPYC 处理器",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 15:36:46",
+    "uuid": "21ce6ba5-060a-42e3-b8b0-e69f64942072"
+  },
+  {
+    "newsArray": [
       { "siteName": "i黑马" },
       { "siteName": "C114 通信网" },
       { "siteName": "36Kr" }
