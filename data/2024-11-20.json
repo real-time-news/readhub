@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "JEDEC固态技术协会推出新的NAND闪存接口互操作性标准JESD230G，该标准显著提升了接口速率至4800MT/s，并引入了SCA总线协议，以提高系统吞吐量和效率 ...",
+    "id": "8eetoXrwI7c",
+    "order": 1732070413427,
+    "createdAt": "2024-11-20T02:40:13.000Z",
+    "publishDate": "2024-11-20T02:40:13.427Z",
+    "title": "JEDEC发布NAND闪存新标准JESD230G，支持4800MT/s高速接口",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 10:40:13",
+    "uuid": "5f0cf15e-125e-4db0-9a74-9f910f2b8b35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "开源中国" },
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "开源CAD软件FreeCAD发布了1.0正式版，该版本解决了长期存在的toponaming问题和内置装配模块 ...",
+    "id": "8eeqy3SnYZn",
+    "order": 1732070382256,
+    "createdAt": "2024-11-20T02:39:42.000Z",
+    "publishDate": "2024-11-20T02:39:42.256Z",
+    "title": "FreeCAD 1.0 正式发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 10:39:42",
+    "uuid": "4e085506-0b19-4635-9cd1-91c6c9925ed4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "台积电的2nm工艺尚未量产，但苹果已预订首批产能，计划用于未来的iPhone 17 Pro和17 Pro Max芯片。同时，iPhone 17 Air可能继续使用3nm工艺 ...",
+    "id": "8eer4Y1yNt1",
+    "order": 1732070177477,
+    "createdAt": "2024-11-20T02:36:17.000Z",
+    "publishDate": "2024-11-20T02:36:17.477Z",
+    "title": "台积电制程遥遥领先 2nm未量产已招大客户抢单",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 10:36:17",
+    "uuid": "573b3cf0-cb09-4b01-8dfb-6781f9558f70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财新网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "索尼集团正考虑收购日本出版商Kadokawa，双方已进行会谈，但索尼也可能选择不发出正式收购要约 ...",
+    "id": "8edibLZgGzf",
+    "order": 1732070145076,
+    "createdAt": "2024-11-20T02:25:23.000Z",
+    "publishDate": "2024-11-20T02:35:45.076Z",
+    "title": "索尼据悉考虑收购日本出版商Kadokawa",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 10:25:23",
+    "uuid": "15d1b4b9-4d5e-4891-8976-df639aee4965"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "定增市场逐渐回暖，私募机构参与定增项目平均浮盈接近30%，使得越来越多上市公司定增项目中出现私募身影 ...",
+    "id": "8eemJgqBYUD",
+    "order": 1732068610457,
+    "createdAt": "2024-11-20T02:10:11.000Z",
+    "publishDate": "2024-11-20T02:10:10.457Z",
+    "title": "公私募基金参与定增热情渐次回暖",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 10:10:11",
+    "uuid": "43f4eee5-9d95-48e5-b763-19ec6172a5f7"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "36Kr" },
       { "siteName": "证券时报网" }
@@ -70,6 +157,30 @@
   },
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "环球网科技" }
+    ],
+    "summary": "上海市药品监督管理局已对网友关于上海百雀羚日用化学有限公司生产的化妆品添加禁用原料的举报作出回应，确认举报基本属实，并已决定立案调查 ...",
+    "id": "8eeqcn0al3p",
+    "order": 1732068828803,
+    "createdAt": "2024-11-20T01:31:08.000Z",
+    "publishDate": "2024-11-20T02:13:48.803Z",
+    "title": "百雀羚化妆品涉嫌添加禁用原料 被立案调查",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 09:31:08",
+    "uuid": "73c662cf-8ef2-4aec-b3a9-b219b4020e7f"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "36Kr" },
       { "siteName": "证券时报网" }
@@ -105,6 +216,26 @@
     "up": false,
     "date": "2024-11-20 09:22:09",
     "uuid": "b845a44f-a886-4610-bc39-80f95cd40a65"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "国家发展改革委举行11月新闻发布会，介绍设备更新和以旧换新政策已推动出台近300项实施细则。下一步，发改委将研究加大支持力度、扩大支持范围的政策举措 ...",
+    "id": "8edXs52wxgU",
+    "order": 1732070040105,
+    "createdAt": "2024-11-20T00:31:55.000Z",
+    "publishDate": "2024-11-20T02:34:00.105Z",
+    "title": "我国经济运行有望延续回升向好态势 继续加力支持“两新”举措",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 08:31:55",
+    "uuid": "2d06aacc-f1dd-405b-af90-37927a8e3192"
   },
   {
     "newsArray": [
