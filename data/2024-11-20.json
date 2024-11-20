@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "德国大众汽车工人反对管理层提出的降薪、裁员和关厂方案。工会提出减少工时、保留岗位，并设立“未来基金”以降低企业成本。如管理层不接受，工会威胁从12月1日起举行大规模罢工。",
+    "id": "8efa4UcZBJA",
+    "order": 1732102453699,
+    "createdAt": "2024-11-20T11:34:13.000Z",
+    "publishDate": "2024-11-20T11:34:13.699Z",
+    "title": "德国大众汽车工会反对降薪裁员，威胁将进行规模“前所未有”的罢工",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 19:34:13",
+    "uuid": "99c533ef-7b83-446f-9fab-398d0c226acb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "近期基于Chromium的浏览器如Chrome 131的用户在访问某些网站时，发现文字高亮功能出现问题，原因是新浏览器选择样式的更改与Tailwind CSS存在冲突 ...",
+    "id": "8efVhW6jzYW",
+    "order": 1732102422811,
+    "createdAt": "2024-11-20T11:33:42.000Z",
+    "publishDate": "2024-11-20T11:33:42.811Z",
+    "title": "谷歌 Chrome 131 浏览器出 Bug：选中网站文字不会高亮显示",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-20 19:33:42",
+    "uuid": "c98b407e-0740-4664-94cd-44d55e6dcbc4"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "快科技" },
