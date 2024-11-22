@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2024年10月，中国智能门锁线上市场销量和销售额分别同比增长83.1%和68.6%，环比增长114.8%和194.5%。预测第四季度销量将达191万套，同比增长44% ...",
+    "id": "8eiJRs97nf1",
+    "order": 1732262610342,
+    "createdAt": "2024-11-22T08:03:31.000Z",
+    "publishDate": "2024-11-22T08:03:30.342Z",
+    "title": "10月中国智能门锁线上销量增长83.1% 小米第一梯队",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 16:03:31",
+    "uuid": "95a66e21-1196-4d3f-8680-02d112b7aee6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "华为终端即将于11月26日发布凌霄子母路由Q7网线版，该产品首次将星闪连接技术应用于家庭网关，智能设备连接与控制能力将得到提升。",
+    "id": "8eidZRMLDRN",
+    "order": 1732262507258,
+    "createdAt": "2024-11-22T08:01:47.000Z",
+    "publishDate": "2024-11-22T08:01:47.258Z",
+    "title": "华为路由将首次应用星闪技术",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 16:01:47",
+    "uuid": "b3187a0c-d898-4ddc-a6b9-24801425cc4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "Ubuntu Linux 发行版中被隐藏了10年的漏洞近日被 Qualys 安全公司发现，其中5个漏洞位于 needrestart 工具中，可允许攻击者获取 root 权限 ...",
+    "id": "8eggEB9rh66",
+    "order": 1732262192910,
+    "createdAt": "2024-11-22T07:56:32.000Z",
+    "publishDate": "2024-11-22T07:56:32.910Z",
+    "title": "Ubuntu 发行版修复 5 个本地提权漏洞，已潜伏 10 年",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 15:56:32",
+    "uuid": "2fdbb311-bafa-449e-a658-d200acda8e52"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "IT 之家" },
       { "siteName": "财经网" }
