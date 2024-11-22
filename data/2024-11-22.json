@@ -1,6 +1,166 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "蔚来汽车助理副总裁马麟在微博上否认了比亚迪与蔚来合作成立比未来汽车集团，并以165亿元收购蔚来汽车的消息，表示公司运营状况良好，感谢朋友们的关心和支持 ...",
+    "id": "8eimzujUX5Q",
+    "order": 1732271110312,
+    "createdAt": "2024-11-22T10:25:11.000Z",
+    "publishDate": "2024-11-22T10:25:10.312Z",
+    "title": "蔚来马麟辟谣“被比亚迪收购”：公司近况挺好，三季度现金流转正",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 18:25:11",
+    "uuid": "985ec8d1-ad6f-462e-91c4-cfaa2a7c0d48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "盒马鲜生持续扩大其在成都的门店网络，新开第27家门店位于三利爱琴海。今年成都已新增4家门店，预计下月再开3家，门店总数将超过30家，实现对核心城区的完整覆盖 ...",
+    "id": "8einQkQkgH8",
+    "order": 1732270868475,
+    "createdAt": "2024-11-22T10:21:08.000Z",
+    "publishDate": "2024-11-22T10:21:08.475Z",
+    "title": "持续加码成都市场，盒马门店数年底将突破30家",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 18:21:08",
+    "uuid": "1fbca90e-27d6-4d11-8455-77b0b36871e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "南方周末" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "快手公司因未及时处置违法信息和青少年模式落实不到位，被公安机关依据《网络安全法》警告处罚。公安机关要求快手加强青少年保护，全面清理违法信息，并严格落实网络实名制和信息网络安全管理 ...",
+    "id": "8eiqDu7ekAo",
+    "order": 1732270841538,
+    "createdAt": "2024-11-22T10:20:41.000Z",
+    "publishDate": "2024-11-22T10:20:41.538Z",
+    "title": "国家网络安全通报中心：公安机关依法处罚快手公司",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 18:20:41",
+    "uuid": "234ed6e8-c71a-4ca2-992b-fa8b55c72df4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "尽管曾因埃隆·马斯克的言论而抵制X平台的广告商如迪士尼等，现在已经逐步回归并在X平台上投放广告，广告支出总计约330万美元 ...",
+    "id": "8eiiLk0KP6y",
+    "order": 1732270817108,
+    "createdAt": "2024-11-22T10:20:18.000Z",
+    "publishDate": "2024-11-22T10:20:17.108Z",
+    "title": "消息称迪士尼等广告商开始陆续回归马斯克 X 平台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 18:20:18",
+    "uuid": "36bb7c32-a08c-4843-89f9-186eb3a0bf0c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉CEO马斯克在社交媒体上透露了即将推出的Optimus机器人和Robotaxi智驾出租车的低价策略，预计这两款产品将在两年内面向消费者推出 ...",
+    "id": "8eigvvxr8vF",
+    "order": 1732270811555,
+    "createdAt": "2024-11-22T10:20:12.000Z",
+    "publishDate": "2024-11-22T10:20:11.555Z",
+    "title": "马斯克：Optimus机器人能定价2-3万美元 但年产量需超100万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 18:20:12",
+    "uuid": "42edf39f-2bb1-46c4-9503-192262690d21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "华睿（天津）投资合伙企业（有限合伙）近日成立，执行事务合伙人为华电湖北能源销售有限公司，出资额达39.75亿元 ...",
+    "id": "8eid0lhFBXg",
+    "order": 1732270701564,
+    "createdAt": "2024-11-22T10:18:23.000Z",
+    "publishDate": "2024-11-22T10:18:21.564Z",
+    "title": "华电国际等在天津成立投资合伙企业，出资额39.75亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 18:18:23",
+    "uuid": "4a90e13f-0601-49b1-aabb-d517c2a6b4d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "紫金矿业集团黄金珠宝（龙岩）有限公司成立，赖开辉为法定代表人，注册资本500万人民币，经营范围包括珠宝首饰零售、金银制品销售等。该公司由紫金矿业集团黄金珠宝有限公司全资持股。",
+    "id": "8eidYqbr4LT",
+    "order": 1732270698875,
+    "createdAt": "2024-11-22T10:18:19.000Z",
+    "publishDate": "2024-11-22T10:18:18.875Z",
+    "title": "紫金矿业在福建成立黄金珠宝公司",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 18:18:19",
+    "uuid": "c5038d05-7f5e-4e9a-9fdf-f33fa83f246d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "市场情绪回暖，但指数持续调整，沪指、创指跌1%。互联网电商、游戏、AI应用股走强，光伏设备、创新药板块走低 ...",
+    "id": "8eiNzyx8XLT",
+    "order": 1732270687121,
+    "createdAt": "2024-11-22T10:18:08.000Z",
+    "publishDate": "2024-11-22T10:18:07.121Z",
+    "title": "午评：指数早盘调整沪指跌1% AI应用端持续爆发",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 18:18:08",
+    "uuid": "2dfa8121-ca1e-4895-b176-c43b28a7573b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "DHL快递和壳牌公司签订了一项为期一年的合作协议，目标是在布鲁塞尔机场推进可持续航空货运 ...",
+    "id": "8ein1NtqsEa",
+    "order": 1732270274404,
+    "createdAt": "2024-11-22T10:11:15.000Z",
+    "publishDate": "2024-11-22T10:11:14.404Z",
+    "title": "DHL快递与壳牌签署协议 推动机场可持续航空货运",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 18:11:15",
+    "uuid": "632215cb-7ce9-4a38-9b0f-6c0ac023931c"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "新浪科技" },
       { "siteName": "网易科技" }
@@ -1460,6 +1620,24 @@
     "up": false,
     "date": "2024-11-22 09:15:56",
     "uuid": "5180b649-6fe9-420c-ac12-faaabdeabcd0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "孩子王公司公告，计划以5.6亿元现金收购乐友国际剩余35%的股权，以实现对该公司的全资拥有。此前，孩子王已在2023年完成对乐友国际65%股权的收购 ...",
+    "id": "8ehEYQwQxfw",
+    "order": 1732270283143,
+    "createdAt": "2024-11-22T01:02:06.000Z",
+    "publishDate": "2024-11-22T10:11:23.143Z",
+    "title": "孩子王：拟5.6亿元现金继续收购乐友国际35%股权",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 09:02:06",
+    "uuid": "0b1f7f30-ec35-447c-9ea3-8addf1639ca7"
   },
   {
     "newsArray": [
