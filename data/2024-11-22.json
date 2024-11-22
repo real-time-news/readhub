@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "魅族宣布与深圳通合作研发的UWB无感支付技术开始试点应用，成为全国首个手机UWB无感支付技术。该技术已在深圳云巴一号线所有站点上线，用户无需掏出手机即可通过闸机完成支付 ...",
+    "id": "8eiIdLGwNpP",
+    "order": 1732247222917,
+    "createdAt": "2024-11-22T03:47:03.000Z",
+    "publishDate": "2024-11-22T03:47:02.917Z",
+    "title": "全国首创手机 UWB 无感支付：星纪魅族与深圳通合作，云巴一号线过闸门不用掏手机",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 11:47:03",
+    "uuid": "e6bfe38b-6c74-4d64-9d77-aca413d34e46"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "OpenAI计划开发一款结合聊天机器人的网络浏览器，以与谷歌竞争。",
+    "id": "8ei2D2wHvwc",
+    "order": 1732246871807,
+    "createdAt": "2024-11-22T03:41:12.000Z",
+    "publishDate": "2024-11-22T03:41:11.807Z",
+    "title": "OpenAI据悉考虑推出浏览器，与谷歌竞争",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 11:41:12",
+    "uuid": "feacb024-15a5-41e0-9500-91481e70425b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "瑞典电池制造商Northvolt在美国申请破产保护，该公司表示将根据破产法第11章寻求重组。目前公司有3000万美元现金，但背负58.4亿美元债务。",
+    "id": "8ei6YK8vryA",
+    "order": 1732246869992,
+    "createdAt": "2024-11-22T03:36:04.000Z",
+    "publishDate": "2024-11-22T03:41:09.992Z",
+    "title": "瑞典电池制造商Northvolt在美国申请破产保护",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 11:36:04",
+    "uuid": "62d15797-3c78-4ae0-9b6a-b15aba0201ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "速途网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "极氪汽车宣布，极氪 7X 上市 60 天交付量突破 25000 台，持续刷新纪录。",
+    "id": "8eiK3PmQmt9",
+    "order": 1732246558106,
+    "createdAt": "2024-11-22T03:35:59.000Z",
+    "publishDate": "2024-11-22T03:35:58.106Z",
+    "title": "极氪 7X 上市 60 天交付量破 25000 台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 11:35:59",
+    "uuid": "444f2634-748b-4350-8645-9efee6e9a71e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "雷科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "数字尾巴" }
+    ],
+    "summary": "华为将于11月26日发布搭载HarmonyOS NEXT的原生鸿蒙耳机华为FreeBuds Pro 4，该耳机支持星闪连接技术升级，并接入小艺智能体。",
+    "id": "8eiMC9PR1FT",
+    "order": 1732246437848,
+    "createdAt": "2024-11-22T03:33:58.000Z",
+    "publishDate": "2024-11-22T03:33:57.848Z",
+    "title": "华为将推出原生鸿蒙耳机",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-22 11:33:58",
+    "uuid": "fee3ff15-035b-4c77-af6f-639793dd1566"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "智通财经" },
       { "siteName": "36Kr" },
