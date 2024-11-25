@@ -1,6 +1,130 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ZAKER" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "一名博主声称其特斯拉Cybertruck皮卡在96%电量下为停电的住宅连续供电48小时后，还剩51%电量 ...",
+    "id": "8em7WA6mDCL",
+    "order": 1732503036338,
+    "createdAt": "2024-11-25T02:50:36.000Z",
+    "publishDate": "2024-11-25T02:50:36.338Z",
+    "title": "博主测试特斯拉 Cybertruck 为房屋供电：48 小时后还剩 51%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-25 10:50:36",
+    "uuid": "1e1910de-36a1-4761-a798-e0e6111a0146"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司将为新款14英寸和16英寸MacBook Pro提供独立的扬声器维修部件，这是自2015年以来首次。此前，扬声器维修需更换整个上盖，导致费用高昂 ...",
+    "id": "8emLSqDwYbB",
+    "order": 1732503033737,
+    "createdAt": "2024-11-25T02:50:34.000Z",
+    "publishDate": "2024-11-25T02:50:33.737Z",
+    "title": "苹果为 2024 款 M4 MacBook Pro 提供独立扬声器维修部件，修起来更便宜",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-25 10:50:34",
+    "uuid": "ee241a3b-6499-4481-a9a0-a318ec77e592"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "速途网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "第二届中国国际供应链促进博览会在北京举行，美国苹果公司首席执行官库克首次现身链博会。",
+    "id": "8enGynWMO5c",
+    "order": 1732502571627,
+    "createdAt": "2024-11-25T02:42:51.000Z",
+    "publishDate": "2024-11-25T02:42:51.627Z",
+    "title": "苹果公司CEO 库克首次现身链博会",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-25 10:42:51",
+    "uuid": "cdaf60a6-f6af-42e7-93e2-5d5b084461f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "德国TÜV协会的可靠性测试显示，特斯拉Model 3在2-3年和4-5年车龄组中的表现不佳，问题主要集中在灯光、刹车和悬挂系统 ...",
+    "id": "8emFkK3rN5F",
+    "order": 1732501574487,
+    "createdAt": "2024-11-25T02:26:15.000Z",
+    "publishDate": "2024-11-25T02:26:14.487Z",
+    "title": "德国TV可靠性测试结果出炉：特斯拉Model 3再次垫底",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-25 10:26:15",
+    "uuid": "290b1554-c7fa-4514-9808-aca2b3779a70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "AMD计划进入手机芯片市场，新品将使用台积电3nm工艺，使得台积电3nm产能满载，订单展望至2026年下半年。",
+    "id": "8enEiPu4vH9",
+    "order": 1732501476576,
+    "createdAt": "2024-11-25T02:24:37.000Z",
+    "publishDate": "2024-11-25T02:24:36.576Z",
+    "title": "AMD据悉有意进入手机芯片领域，将采用台积电3nm工艺",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-25 10:24:37",
+    "uuid": "1df545eb-097c-4d7e-a223-20219b2ec350"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "数学家陶哲轩通过结合人类数学家的智慧、AI工具以及证明辅助语言Lean，发起了“等式理论计划”，旨在探索代数领域中magma等式之间的蕴含关系 ...",
+    "id": "8ek6on2HJlU",
+    "order": 1732501344136,
+    "createdAt": "2024-11-25T02:22:24.000Z",
+    "publishDate": "2024-11-25T02:22:24.136Z",
+    "title": "陶哲轩宣布“等式理论计划”成功，人类AI协作57天",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-25 10:22:24",
+    "uuid": "7d76c019-f21b-489e-aa6a-3d7bc99a2ea1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资圈" },
+      { "siteName": "投资圈" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "黄仁勋访问香港科技大学并称赞其为中国版的MIT，认为大湾区在机电一体化方面有特长，香港科技大学在人工智能和数据科学领域有显著贡献 ...",
+    "id": "8emTYlpfq6u",
+    "order": 1732501014905,
+    "createdAt": "2024-11-25T02:16:55.000Z",
+    "publishDate": "2024-11-25T02:16:54.905Z",
+    "title": "黄仁勋现身香港大排档，一个月内密集访问亚洲",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-25 10:16:55",
+    "uuid": "689e8997-5859-4ec8-9eec-1c5eea88e84b"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "界面" },
       { "siteName": "网易科技" }
