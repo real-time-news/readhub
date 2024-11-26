@@ -1,6 +1,116 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "格灵深瞳公告拟通过增资、股权收购及一致行动协议方式控股国科亿道，预计将产生2600万-3100万元商誉。国科亿道主要提供以国产化芯片为核心的军工领域终端计算设备 ...",
+    "id": "8enwUYRhBBM",
+    "order": 1732581730218,
+    "createdAt": "2024-11-26T00:42:11.000Z",
+    "publishDate": "2024-11-26T00:42:10.218Z",
+    "title": "格灵深瞳拟控股国科亿道 开拓军工领域智能化业务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-26 08:42:11",
+    "uuid": "a1b99401-d7a8-4634-8b8e-7fb8ea722b48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "金融分析师Dan Nystedt透露，OpenAI正在与三星电子洽谈合作，计划将ChatGPT引入三星Galaxy AI。此举可能对已集成谷歌Gemini模型的三星AI造成冲击 ...",
+    "id": "8eo5iMXHYaa",
+    "order": 1732581465055,
+    "createdAt": "2024-11-26T00:37:45.000Z",
+    "publishDate": "2024-11-26T00:37:45.055Z",
+    "title": "消息称三星正与 OpenAI 洽谈，有望令 Galaxy AI 整合 ChatGPT 服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-26 08:37:45",
+    "uuid": "15165a20-a0c0-494b-8cf8-3787c79519e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "NASA宣布与SpaceX签订合同，使用猎鹰超重火箭发射“蜻蜓号”土卫探测器，价值约2.566亿美元。该任务将调查土卫六“泰坦”的生命承载潜力，采集样本并确定表面成分 ...",
+    "id": "8eoiIyxkz6l",
+    "order": 1732580188073,
+    "createdAt": "2024-11-26T00:16:28.000Z",
+    "publishDate": "2024-11-26T00:16:28.073Z",
+    "title": "SpaceX摘获NASA近2.57亿美元大单，计划2028年发射“蜻蜓号”探测器",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-26 08:16:28",
+    "uuid": "d45e93d7-e611-48a3-854e-edb82dd849ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "京东发言人通过微博发布声明，近期京东在社交平台上遭受一系列造谣攻击，包括京东金融遭挤兑、白条虚假征信等虚假内容。部分造谣者已被公安机关依法惩处，其他谣言也在立案调查中 ...",
+    "id": "8eombBqdnmw",
+    "order": 1732580187566,
+    "createdAt": "2024-11-26T00:16:27.000Z",
+    "publishDate": "2024-11-26T00:16:27.566Z",
+    "title": "京东声明：部分造谣抹黑京东者已被公安机关处罚",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-26 08:16:27",
+    "uuid": "c493fff5-b238-4947-ab53-d37e5db6f696"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "长安汽车、宁德时代及时代电服在重庆签署换电项目合作协议，深化合作，展示了快速换电技术 ...",
+    "id": "8eoE1NNAabM",
+    "order": 1732579904485,
+    "createdAt": "2024-11-26T00:11:44.000Z",
+    "publishDate": "2024-11-26T00:11:44.485Z",
+    "title": "长安联手宁德时代、时代电服推出换电项目：2分钟即可获得500公里续航",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-26 08:11:44",
+    "uuid": "2fc3afd1-129e-4beb-80f1-86085177ae4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "英伟达开发了一项名为Fugatto的人工智能模型，能够修改和生成声音效果，为音乐、电影和视频游戏制作提供服务。尽管目前未计划公开发布，但其对合成音频的影响和潜在应用引起了关注 ...",
+    "id": "8eoiJq9qHQX",
+    "order": 1732579558528,
+    "createdAt": "2024-11-26T00:05:58.000Z",
+    "publishDate": "2024-11-26T00:05:58.528Z",
+    "title": "英伟达展示AI模型Fugatto：能修改并生成新声音",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-26 08:05:58",
+    "uuid": "e8c693bd-5fea-4cea-8f54-c8340e5e64f9"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "证券时报网" },
       { "siteName": "证券时报网" }
@@ -15,6 +125,25 @@
     "up": false,
     "date": "2024-11-26 07:41:20",
     "uuid": "82a722ce-282c-4752-99bd-3a9bad265798"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2024年先进制造业集群竞赛的胜出名单已经完成公示，其中35个集群脱颖而出，乌昌石光伏集群榜上有名。这些集群代表了国家经济高质量发展的标杆，对于提升全球竞争力和创新能力至关重要 ...",
+    "id": "8enGHagQJpk",
+    "order": 1732579346534,
+    "createdAt": "2024-11-25T22:12:32.000Z",
+    "publishDate": "2024-11-26T00:02:26.534Z",
+    "title": "乌昌石光伏集群入选国家先进制造业集群",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-26 06:12:32",
+    "uuid": "08fe9f26-7584-4710-b824-8e87f919626d"
   },
   {
     "newsArray": [
