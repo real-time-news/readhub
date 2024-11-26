@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软公司解决了Windows 10系统中的一个错误问题，该问题在用户更新或卸载应用时导致0x80073CFA错误。问题根源在于WinAppSDK 1.6.2软件包 ...",
+    "id": "8ep0AXHS8QR",
+    "order": 1732596223642,
+    "createdAt": "2024-11-26T04:43:43.000Z",
+    "publishDate": "2024-11-26T04:43:43.642Z",
+    "title": "微软Win10系统Teams应用故障终获修复，用户可安心更新卸载",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-26 12:43:43",
+    "uuid": "030bef2b-3492-4b54-8624-df11be8b4ced"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
