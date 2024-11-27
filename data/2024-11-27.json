@@ -1,6 +1,131 @@
 [
   {
     "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "DoNews" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "辛选集团公告称，针对旗下主播在直播带货过程中出现的讲解措辞不当和部分产品宣传涉嫌虚假问题，决定对相关产品进行退款处理，并启动代位赔偿机制 ...",
+    "id": "8epI32eZ8kb",
+    "order": 1732696648092,
+    "createdAt": "2024-11-27T08:37:28.000Z",
+    "publishDate": "2024-11-27T08:37:28.092Z",
+    "title": "辛选回应辛巴带货乳粉措辞不当：对多产品启动退一赔三",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 16:37:28",
+    "uuid": "149ba7de-40ad-4c22-b22a-756ee5510b51"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "大众汽车与上汽集团的合资伙伴关系将延长至2040年。",
+    "id": "8eqxoi7QNRm",
+    "order": 1732696577978,
+    "createdAt": "2024-11-27T08:36:18.000Z",
+    "publishDate": "2024-11-27T08:36:17.978Z",
+    "title": "大众汽车与上汽集团的合资伙伴关系将延至2040年",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 16:36:18",
+    "uuid": "96750605-2156-4acb-81c0-5f9d961ddf56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "网易推出名为“网易小蜜蜂”的独立APP，这是一个面向年轻人的生活分享和交流社区，旨在帮助用户找到合适的生活节奏 ...",
+    "id": "8eqYfM9SIIh",
+    "order": 1732696521342,
+    "createdAt": "2024-11-27T08:35:21.000Z",
+    "publishDate": "2024-11-27T08:35:21.342Z",
+    "title": "网易小蜜蜂APP上线 打造种草社区",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 16:35:21",
+    "uuid": "08e0338f-af6c-44a4-ae97-b1b41d15565f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "DoNews" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "重庆巨人统平网络科技有限公司近日成立，法定代表人为费拥军，注册资本1000万人民币。该公司由巨人网络全资持股，经营范围包括互联网游戏服务、互联网信息服务、网络文化经营等多个领域。",
+    "id": "8epC20v53oK",
+    "order": 1732696513504,
+    "createdAt": "2024-11-27T08:35:14.000Z",
+    "publishDate": "2024-11-27T08:35:13.504Z",
+    "title": "巨人网络在重庆成立科技公司 注册资本1000万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 16:35:14",
+    "uuid": "838f9ae7-7c23-4ff0-840e-595b99b7a155"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "根据报告，2024年全球智能手机出货量预计将增长6.2%，达到12.4亿部，结束连续两年的下降趋势。增长主要来源于被压抑的需求释放和智能手机普及率较低的地区 ...",
+    "id": "8equ6lZW4nt",
+    "order": 1732696501695,
+    "createdAt": "2024-11-27T08:35:01.000Z",
+    "publishDate": "2024-11-27T08:35:01.695Z",
+    "title": "连续两年下滑后实现强劲反弹：IDC 预计今年全球智能手机出货量同比增长 6.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 16:35:01",
+    "uuid": "8c620a61-0987-43a4-b4fb-795b8a897a6d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "周大福2025财政年度上半年营业额为394.08亿港元，同比下降20.4%。股东应占溢利25.3亿港元，同比下降44.4% ...",
+    "id": "8epPBrjhygP",
+    "order": 1732695965275,
+    "createdAt": "2024-11-27T08:26:05.000Z",
+    "publishDate": "2024-11-27T08:26:05.275Z",
+    "title": "周大福：2025财政年度上半年营业额同比下降20.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 16:26:05",
+    "uuid": "44ce6ff5-cdc1-44bf-a1c5-d0816318781d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "呼和浩特盛源生物质加工有限公司近日成立，法定代表人为虞立涛，注册资本100万元人民币。公司业务包括生物质燃料加工销售、生物质成型及液体燃料生产装备销售，并致力于研发生物质液体燃料生产工艺 ...",
+    "id": "8eqjnVaqJHu",
+    "order": 1732695885281,
+    "createdAt": "2024-11-27T08:24:46.000Z",
+    "publishDate": "2024-11-27T08:24:45.281Z",
+    "title": "隆基绿能呼和浩特新设生物质加工公司，布局新能源领域",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 16:24:46",
+    "uuid": "d24b311a-b833-469f-b9c6-ec5975ae7e82"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线_ZOL企业站" },
       { "siteName": "C114 通信网" }
@@ -103,6 +228,24 @@
     "up": false,
     "date": "2024-11-27 15:56:36",
     "uuid": "a07eacbf-fc55-47fe-85c2-46bdb46ad954"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "比亚迪在印尼建立工厂预计将降低电动汽车成本，印尼最大出租车公司蓝鸟集团对此表示欢迎。公司高管普尔诺莫透露，蓝鸟计划明年将电动汽车比例提升至3%，并在2030年达到20% ...",
+    "id": "8eqb6A0yYXP",
+    "order": 1732695530403,
+    "createdAt": "2024-11-27T07:35:42.000Z",
+    "publishDate": "2024-11-27T08:18:50.403Z",
+    "title": "印尼最大出租车公司：预计比亚迪工厂将带动电动汽车价格大幅下降",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 15:35:42",
+    "uuid": "b19e49c5-b4d2-4614-94d9-f9c12c147f55"
   },
   {
     "newsArray": [
@@ -1011,6 +1154,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "中国首座海上储气库——位于渤海唐山海域的中国石油天然气股份有限公司冀东油田分公司南堡1号储气库正式投产 ...",
+    "id": "8epImT3QWJA",
+    "order": 1732695930138,
+    "createdAt": "2024-11-27T04:41:12.000Z",
+    "publishDate": "2024-11-27T08:25:30.138Z",
+    "title": "我国首座海上储气库正式投产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 12:41:12",
+    "uuid": "3a2e729f-d154-45ba-b84c-db68818201c8"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
       { "siteName": "i黑马" },
@@ -1080,6 +1241,24 @@
     "up": false,
     "date": "2024-11-27 12:34:17",
     "uuid": "68ca1f5b-9dbd-4757-8161-4b3b1362da0a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "近一个月来，46家北交所公司获得机构调研，其中纳科诺尔最受关注，有144家机构参与其调研。调研机构类型包括券商、基金、阳光私募、保险和海外机构 ...",
+    "id": "8enkIjcrLjY",
+    "order": 1732695916638,
+    "createdAt": "2024-11-27T04:30:47.000Z",
+    "publishDate": "2024-11-27T08:25:16.638Z",
+    "title": "46家北交所公司获机构调研",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 12:30:47",
+    "uuid": "e7212a97-c206-4969-892e-a98cfe4dd3ef"
   },
   {
     "newsArray": [
