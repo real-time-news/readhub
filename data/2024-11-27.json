@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "上汽大通汽车有限公司也跟随比亚迪，要求供应商降价10%，以应对当前汽车市场供大于求的问题。上汽大通表示，随着新车大量上市，市场供需失衡状况预计在短期内难以得到根本改善，导致价格战难以平息 ...",
+    "id": "8er1fVwHlCe",
+    "order": 1732698890070,
+    "createdAt": "2024-11-27T09:14:50.000Z",
+    "publishDate": "2024-11-27T09:14:50.070Z",
+    "title": "上汽大通致信零部件供应商 提出降本10%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 17:14:50",
+    "uuid": "8a759221-aec9-4e99-b187-dbe5a929cde1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "微软针对用户关于Office套件“连接体验”功能默认启用并使用用户内容训练AI模型的担忧作出回应 ...",
+    "id": "8er1fNfMbA2",
+    "order": 1732698741431,
+    "createdAt": "2024-11-27T09:12:22.000Z",
+    "publishDate": "2024-11-27T09:12:21.431Z",
+    "title": "微软声明：不会使用Office套件为AI训练收集数据",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 17:12:22",
+    "uuid": "739e78b2-7a02-4f67-95c6-700a12032d8b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉FSD V13尚未发布，目前推送的最新版本V12.5.6.3已是非常强大且安全的先进驾驶辅助套件 ...",
+    "id": "8epTTEACvIz",
+    "order": 1732698415873,
+    "createdAt": "2024-11-27T09:06:55.000Z",
+    "publishDate": "2024-11-27T09:06:55.873Z",
+    "title": "特斯拉晒出极端场景测试视频，大秀 FSD 安全性",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 17:06:55",
+    "uuid": "91245107-e2d2-4888-b5d4-532971a841f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "百度智能云（香港）人工智能创新中心正式启用，百度集团执行副总裁沈抖表示，将依托百度在人工智能领域的积累和数码港的资源，共同推动人工智能技术在香港和亚太地区的发展，加速香港发展新质生产力 ...",
+    "id": "8eqxojEgVBX",
+    "order": 1732698164178,
+    "createdAt": "2024-11-27T09:02:45.000Z",
+    "publishDate": "2024-11-27T09:02:44.178Z",
+    "title": "百度智能云（香港）人工智能创新中心落成启用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-27 17:02:45",
+    "uuid": "5f20cd8a-e0fd-4022-83f3-eeb0743904af"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "36Kr" }
