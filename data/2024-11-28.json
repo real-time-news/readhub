@@ -1,6 +1,127 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2023年我国广告业务收入达1.3万亿元，同比增长17.5%，继续保持世界第二大广告市场地位。",
+    "id": "8esk00yrqJG",
+    "order": 1732786739543,
+    "createdAt": "2024-11-28T09:38:59.000Z",
+    "publishDate": "2024-11-28T09:38:59.543Z",
+    "title": "2023年我国持续稳居世界第二大广告市场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-28 17:38:59",
+    "uuid": "41df4ac0-48c1-4bfc-bf43-59d8658e102f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "丽珠集团计划通过集中竞价交易方式，回购公司A股股份，回购资金总额为6亿至10亿元，回购价格不超过45元/股，用于注销并减少注册资本 ...",
+    "id": "8eskQkHIlfD",
+    "order": 1732786700153,
+    "createdAt": "2024-11-28T09:38:20.000Z",
+    "publishDate": "2024-11-28T09:38:20.153Z",
+    "title": "丽珠集团：拟6亿元至10亿元回购股份予以注销",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-28 17:38:20",
+    "uuid": "e487691d-a546-4478-8d5d-c5e7b9c0d66f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "速途网" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "联想发布业内首个IT服务智能体“联想百应”，基于擎天智能IT引擎，具备多模态交互等技术能力。联想百应智能体推出AI营销、AI办公、AI服务三大应用，旨在助力中小企业开源、增效、降本 ...",
+    "id": "8esR8rhNUUo",
+    "order": 1732786609233,
+    "createdAt": "2024-11-28T09:36:49.000Z",
+    "publishDate": "2024-11-28T09:36:49.233Z",
+    "title": "联想发布业内首个中小企业IT服务智能体",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-28 17:36:49",
+    "uuid": "96833d90-1d22-4038-9463-41d6eb50237f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Kimi正在测试AI视频生成功能“Kimi创作空间”，提供12种预设风格模板和自定义创作功能，用户可制作个性化音乐视频。该功能目前处于灰度测试阶段，未来将在官网展示 ...",
+    "id": "8eshvw9a4Gf",
+    "order": 1732786707715,
+    "createdAt": "2024-11-28T09:34:49.000Z",
+    "publishDate": "2024-11-28T09:38:27.715Z",
+    "title": "Kimi灰度测试AI视频生成功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-28 17:34:49",
+    "uuid": "7b943ada-3f2d-49c0-bd33-8eac5e2fd535"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "中关村在线" },
+      { "siteName": "证券时报网" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "猎云网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "猎云网" },
+      { "siteName": "智通财经" },
+      { "siteName": "速途网" },
+      { "siteName": "品玩" },
+      { "siteName": "中关村在线" },
+      { "siteName": "财经网" },
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财新网" },
+      { "siteName": "电商报" },
+      { "siteName": "品玩" },
+      { "siteName": "ofweek.com_news" },
+      { "siteName": "界面" },
+      { "siteName": "中证网" },
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "投资圈" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "ofweek.com_news" },
+      { "siteName": "财新网" },
+      { "siteName": "雷锋网" }
+    ],
+    "summary": "北京时间11月27日，小马智行正式在纳斯达克挂牌上市，股票代码“PONY”，成为Robotaxi第一股 ...",
+    "id": "8eskTEG7dPi",
+    "order": 1732786685398,
+    "createdAt": "2024-11-28T09:31:16.000Z",
+    "publishDate": "2024-11-28T09:38:05.398Z",
+    "title": "小马智行正式登陆纳斯达克",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-28 17:31:16",
+    "uuid": "803d7a3f-655c-462d-be96-670da684009a"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "界面" },
       { "siteName": "IT 之家" }
