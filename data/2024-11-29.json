@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "福莱蒽特公告，因光伏行业竞争加剧，其控股孙公司福莱蒽特新能源持续亏损，决定停产歇业。该公司主要业务并非福莱蒽特的主要业务，因此停产不会对公司的正常运营和持续经营能力产生不利影响 ...",
+    "id": "8esvBmeEDwf",
+    "order": 1732867587269,
+    "createdAt": "2024-11-29T08:06:27.000Z",
+    "publishDate": "2024-11-29T08:06:27.269Z",
+    "title": "拟对旗下亏损光伏公司停产歇业 福莱蒽特降低运营成本",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-29 16:06:27",
+    "uuid": "df659d2c-ab17-4576-88ab-3d2ef621db01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "华为旗下的鸿蒙智行品牌推出的尊界S800豪华轿车在开启预订48小时内获得了2108台订单，意向金达4216万元，显示出市场的热烈反响 ...",
+    "id": "8etw1pCy29K",
+    "order": 1732867393991,
+    "createdAt": "2024-11-29T08:03:14.000Z",
+    "publishDate": "2024-11-29T08:03:13.991Z",
+    "title": "尊界48小时入账超4千万 路虎保时捷地位岌岌可危",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-29 16:03:14",
+    "uuid": "5a98ffe1-0cc6-4003-908c-a9e4a003fa34"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
@@ -70,6 +104,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "速途网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "阿里旗下B2B平台1688发布新贴牌业务品牌“1688源选”，旨在服务全域范围内的买家，提供高性价比商品，并助力工厂数字化 ...",
+    "id": "8euGOT12PNG",
+    "order": 1732867241123,
+    "createdAt": "2024-11-29T07:46:32.000Z",
+    "publishDate": "2024-11-29T08:00:41.123Z",
+    "title": "1688发布贴牌业务品牌“1688源选”，内部定级为战略项目",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-29 15:46:32",
+    "uuid": "a10696c0-a59b-4098-844f-fe0e6c4fb77e"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "DoNews" },
       { "siteName": "36Kr" }
@@ -118,6 +170,25 @@
     "up": false,
     "date": "2024-11-29 15:43:43",
     "uuid": "7cee9410-a04c-43b7-9feb-904901b5b6f9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "财政部批准发行了包括“上冰雪 逐梦亚冬会”在内的28款即开型体育彩票游戏，这些彩票的销售收入将分别按照65%、15%和20%的比例用于彩票奖金、发行费用和公益金。",
+    "id": "8euGmdzH8Xr",
+    "order": 1732867384144,
+    "createdAt": "2024-11-29T07:43:26.000Z",
+    "publishDate": "2024-11-29T08:03:04.144Z",
+    "title": "财政部同意发行“上冰雪 逐梦亚冬会”等28款即开型体育彩票游戏",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-29 15:43:26",
+    "uuid": "94e75e98-6fec-4cff-97ff-3e163b6ee83d"
   },
   {
     "newsArray": [
@@ -1662,6 +1733,24 @@
     "up": false,
     "date": "2024-11-29 09:56:57",
     "uuid": "ec1dbaec-6b91-4dea-bfb2-eeba3b695b29"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "联芸科技，一家专注于数据存储主控芯片和AIoT信号处理传输芯片设计的公司，在科创板上市首日大幅上涨超453%。",
+    "id": "8ethkkwwJRq",
+    "order": 1732867614396,
+    "createdAt": "2024-11-29T01:55:24.000Z",
+    "publishDate": "2024-11-29T08:06:54.396Z",
+    "title": "科创板新股联芸科技上市首日大幅高开，现涨超453%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-29 09:55:24",
+    "uuid": "7e7c2763-ee5c-4b61-abe6-797a6c3baf6a"
   },
   {
     "newsArray": [
