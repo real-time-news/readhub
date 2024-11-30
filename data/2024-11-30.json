@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "广州车展上，一汽丰田宣布bZ3C将于2025年年初上市，搭载Momenta合作的高阶智驾和端到端智驾大模型。新车提供550公里和630公里两种续航版本，有多种车身颜色和内饰选择 ...",
+    "id": "8evpZpqAhvI",
+    "order": 1732951350157,
+    "createdAt": "2024-11-30T07:22:30.000Z",
+    "publishDate": "2024-11-30T07:22:30.157Z",
+    "title": "一汽丰田 bZ3C 更多信息公布：纯电续航达 630 公里，提供双色车身",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-30 15:22:30",
+    "uuid": "fc2beb2c-4b33-4806-b34c-9f6a03875441"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "俄罗斯国家航天集团公司于莫斯科时间11月30日，利用“联盟-2.1a”火箭，从远东地区的东方发射场成功发射了第二颗“秃鹰-FKA”系列雷达卫星 ...",
+    "id": "8evGw95Ft6M",
+    "order": 1732951174688,
+    "createdAt": "2024-11-30T07:19:34.000Z",
+    "publishDate": "2024-11-30T07:19:34.688Z",
+    "title": "俄罗斯发射第二颗“秃鹰-FKA”系列雷达卫星",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-30 15:19:34",
+    "uuid": "44f49383-6cc5-49ae-9c55-ff1fbf008396"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "飞利浦Hue智能照明系统通过最新官方应用5.31版本更新，新增了对多桥连接的支持，使用户可在一个家庭系统中轻松连接与管理多个Hue bridge ...",
+    "id": "8evtsV7VjWp",
+    "order": 1732951099121,
+    "createdAt": "2024-11-30T07:18:19.000Z",
+    "publishDate": "2024-11-30T07:18:19.121Z",
+    "title": "飞利浦Hue App升级：全屋智能照明多桥统一管控",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-30 15:18:19",
+    "uuid": "0294281f-3a66-4fbd-9d0b-63696d95b7a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌更新了安卓版Gmail应用，改进了发送邮件时使用“抄送”和“密送”功能的方式 ...",
+    "id": "8evr0QzX4NF",
+    "order": 1732951080148,
+    "createdAt": "2024-11-30T07:18:00.000Z",
+    "publishDate": "2024-11-30T07:18:00.148Z",
+    "title": "谷歌升级安卓版Gmail：抄送和密送字段支持拖拽联系人、邮件地址",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-30 15:18:00",
+    "uuid": "f0c1a1e8-c010-404b-b3df-f76bdaebc699"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "腾讯网" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "速腾聚创公布2024年前三季度财务业绩，营收同比增长91.5%，超过2023年全年营收。激光雷达累计销量同比增长259.6%，历史累计总销量突破72万台 ...",
+    "id": "8euqUCldr9T",
+    "order": 1732951048979,
+    "createdAt": "2024-11-30T07:17:28.000Z",
+    "publishDate": "2024-11-30T07:17:28.979Z",
+    "title": "速腾聚创前三季度营收11.35亿：同比增91.5% 超2023年全年营收",
+    "type": "topic",
+    "up": false,
+    "date": "2024-11-30 15:17:28",
+    "uuid": "0d91ddd5-2956-4ff7-9349-a6879b3c5d21"
+  },
+  {
+    "newsArray": [
       { "siteName": "投资圈" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "36Kr" }
