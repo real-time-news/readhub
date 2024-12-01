@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "英特尔推出了面向企业的AI一体化解决方案，涵盖基于至强处理器和Gaudi 2D AI加速器的硬件，以及OPEA软件平台。首个合作方案为新三AIGC灵犀一体机。",
+    "id": "8exAqVqIHtP",
+    "order": 1733027838686,
+    "createdAt": "2024-12-01T04:37:18.000Z",
+    "publishDate": "2024-12-01T04:37:18.686Z",
+    "title": "英特尔发布全新企业AI一体化方案",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-01 12:37:18",
+    "uuid": "c4ee29aa-b873-44e1-8355-85194564c602"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "快科技" },
       { "siteName": "快科技" }
@@ -434,5 +451,25 @@
     "up": false,
     "date": "2024-12-01 07:26:45",
     "uuid": "46f80ffd-b7ff-44a3-99ac-23069b54099c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "360公司公告，其全资子公司天津奇瀚科技有限公司以1.33亿元人民币的价格，出售了位于天津市滨海高新区的13-21层研发楼A栋房屋及90个地下车位给天津滨海高新区企业创新服务有限公司 ...",
+    "id": "8ewDY4FTERc",
+    "order": 1733027148225,
+    "createdAt": "2024-11-30T23:26:35.000Z",
+    "publishDate": "2024-12-01T04:25:48.225Z",
+    "title": "周鸿祎公司突然卖房：董事会同意360全资子公司1.33亿元出售房屋车位",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-01 07:26:35",
+    "uuid": "2c488d15-d6d4-40a9-a05b-eee674d2ea8e"
   }
 ]
