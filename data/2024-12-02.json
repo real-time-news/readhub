@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "药王谷中医馆宣称拥有抗癌大师和治癌秘方，治愈率超过80%，吸引了大量患者就诊。但调查发现，该馆在短短一个月内导致15名患者去世，20人病情恶化 ...",
+    "id": "8ezF94s2bUg",
+    "order": 1733146483725,
+    "createdAt": "2024-12-02T13:34:44.000Z",
+    "publishDate": "2024-12-02T13:34:43.725Z",
+    "title": "药王谷中医馆开诊月余引争议：15名患者去世，曾被罚46万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 21:34:44",
+    "uuid": "17feb90c-56f7-411f-a581-8348e15d9da7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "Stellantis集团宣布CEO唐唯实辞职，股价大跌。作为全球第四大汽车制造商，Stellantis集团在唐唯实的领导下曾达到净利润高峰，但今年业绩缩水严重 ...",
+    "id": "8ezMkvWcul4",
+    "order": 1733146419181,
+    "createdAt": "2024-12-02T13:33:39.000Z",
+    "publishDate": "2024-12-02T13:33:39.181Z",
+    "title": "Stellantis集团宣布CEO辞职，股价应声大跌",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 21:33:39",
+    "uuid": "df29c857-5dd0-4e1a-af43-954886f27165"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "腾讯网" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "铠侠考虑在2024年12月减产以稳定NAND闪存价格，由于消费型产品需求疲软，AI服务器成为存储器市场主要需求来源 ...",
+    "id": "8eyplC0er3P",
+    "order": 1733146381020,
+    "createdAt": "2024-12-02T13:33:01.000Z",
+    "publishDate": "2024-12-02T13:33:01.020Z",
+    "title": "NAND闪存价格持续下跌 铠侠或12月起减产应对",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 21:33:01",
+    "uuid": "2785af57-d166-4351-a17c-5a861a2e0be2"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" }
