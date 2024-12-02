@@ -1,6 +1,127 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "界面" }
+    ],
+    "summary": "电影《雄狮少年2》宣布将于12月14日上映，并发布了定档海报。",
+    "id": "8eyulTMoX9y",
+    "order": 1733112804646,
+    "createdAt": "2024-12-02T04:13:25.000Z",
+    "publishDate": "2024-12-02T04:13:24.646Z",
+    "title": "电影《雄狮少年2》定档12月14日",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 12:13:25",
+    "uuid": "b2bd20ff-e3ec-49d3-bbad-d9ba5e542e8a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "刘晓光教授建议启动本土高科技企业培育计划，目标是创建多家企业，包括20家类似华为的高科技企业，以促进中高收入就业岗位的创造和工资收入的增加，实现这一目标需要引导大规模金融、社会和政府资金支持新产业、新动能和新模式的培育。",
+    "id": "8eyo1tuWP0Z",
+    "order": 1733112307850,
+    "createdAt": "2024-12-02T04:05:08.000Z",
+    "publishDate": "2024-12-02T04:05:07.850Z",
+    "title": "人大教授：中国应再造20家华为 提供10万个年收入60万以上岗位",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 12:05:08",
+    "uuid": "99c7aa4f-bc9e-420f-a362-d61262c5ae29"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "界面" },
+      { "siteName": "速途网" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "华为技术有限公司近期申请注册多个“鸿蒙办公”商标，涵盖灯具空调、办公用品、网站服务等多个国际分类，当前商标状态正等待实质审查。",
+    "id": "8eyuEXXrw7E",
+    "order": 1733112298464,
+    "createdAt": "2024-12-02T04:04:59.000Z",
+    "publishDate": "2024-12-02T04:04:58.464Z",
+    "title": "华为申请注册鸿蒙办公商标",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 12:04:59",
+    "uuid": "da364d46-199b-4d41-9474-754783c4abc3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "安徽国风新材料股份有限公司因拟发行股份购买资产，股票于2024年12月2日起临时停牌，待公告后复牌。",
+    "id": "8eyndN0d4o1",
+    "order": 1733112293353,
+    "createdAt": "2024-12-02T04:04:53.000Z",
+    "publishDate": "2024-12-02T04:04:53.353Z",
+    "title": "国风新材今开市起临时停牌，拟筹划发行股份购买资产事项",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 12:04:53",
+    "uuid": "228a46d6-0e09-48a6-8bcc-2479ebf25f0b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "创业黑马科技集团股份有限公司因拟披露重大事项，于2024年12月2日起停牌，待公告披露后复牌。",
+    "id": "8eyo1cNeJxW",
+    "order": 1733112193870,
+    "createdAt": "2024-12-02T04:03:13.000Z",
+    "publishDate": "2024-12-02T04:03:13.870Z",
+    "title": "创业黑马今开市起停牌，拟披露重大事项",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 12:03:13",
+    "uuid": "3fb91f48-5e59-4c0b-af99-b7a8052702fa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "Odaily" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "日本加密货币交易所DMM Bitcoin将停止运营，其资产将被出售给SBI集团子公司。",
+    "id": "8eyisahQeI5",
+    "order": 1733112174006,
+    "createdAt": "2024-12-02T04:02:54.000Z",
+    "publishDate": "2024-12-02T04:02:54.006Z",
+    "title": "日本加密货币交易所DMM Bitcoin将关闭运营并将其资产出售给SBI集团子公司",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 12:02:54",
+    "uuid": "562b8867-f3ec-46e7-8ad0-2dde76113467"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2024年1-10月，全球新能源汽车销量达1407万台，其中纯电动车占比12.2%，插电混动车型占比6.8% ...",
+    "id": "8eyfS9ofIO8",
+    "order": 1733112154145,
+    "createdAt": "2024-12-02T04:02:35.000Z",
+    "publishDate": "2024-12-02T04:02:34.145Z",
+    "title": "中国插混占世界近85%创历史新高 是美国22倍",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 12:02:35",
+    "uuid": "99a73354-f4ac-4ea8-acbb-78eed051f5eb"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
@@ -215,6 +336,24 @@
     "up": false,
     "date": "2024-12-02 10:35:59",
     "uuid": "866c57a9-1b76-419d-b3bc-e5c590422573"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "开源证券上调美团-W 2024-2026non-IFRS净利润预测至435/557/707亿元，主要因为即时配送广告货币化率提升、配送成本及补贴优化下UE有望持续改善、社区团购业务减亏好于预期 ...",
+    "id": "8eypNrCM53i",
+    "order": 1733112361101,
+    "createdAt": "2024-12-02T02:35:24.000Z",
+    "publishDate": "2024-12-02T04:06:01.101Z",
+    "title": "开源证券：美团-W整体利润上行趋势不变 维持“买入”评级",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-02 10:35:24",
+    "uuid": "a0f5ed13-f3df-4650-98f0-138cba29bafb"
   },
   {
     "newsArray": [
