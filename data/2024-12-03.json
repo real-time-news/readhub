@@ -1,6 +1,143 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "德国DAX指数历史上首次超过20,000点，当日涨幅超0.6%。提醒投资者市场有风险，投资需谨慎，本文不作为个人投资建议，读者需根据自己的财务状况和投资目标考虑本文观点，并自负责任。",
+    "id": "8f0zOcI4WhY",
+    "order": 1733215750231,
+    "createdAt": "2024-12-03T08:49:10.000Z",
+    "publishDate": "2024-12-03T08:49:10.231Z",
+    "title": "德国DAX指数首次突破20,000点，日内涨超0.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 16:49:10",
+    "uuid": "69cbf286-5047-4084-ab9b-00ac6aca1bf9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "腾讯网" },
+      { "siteName": "财经网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "乘联分会数据显示，新能源领军企业市场优势扩大，市场分化加剧，新能源渗透率维持高位 ...",
+    "id": "8eywE5RfJgg",
+    "order": 1733215707023,
+    "createdAt": "2024-12-03T08:48:27.000Z",
+    "publishDate": "2024-12-03T08:48:27.023Z",
+    "title": "乘联分会：预计11月的全国新能源乘用车批发销量为146万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 16:48:27",
+    "uuid": "6def4885-d758-4e54-8421-0caf0c36c7dc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "快科技" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "一名旅客发布视频显示，海航长安航空航班上有老鼠在旅客脚上、鞋子上窜来窜去。对此，航班工作人员表示，已接到旅客反馈的问题，在飞机落地后就安排了捕鼠作业，并对飞机进行了深度消毒 ...",
+    "id": "8f0xFAV1ZtS",
+    "order": 1733215688119,
+    "createdAt": "2024-12-03T08:48:08.000Z",
+    "publishDate": "2024-12-03T08:48:08.119Z",
+    "title": "旅客称老鼠在飞机上乱窜 长安航空回应：已做捕鼠消杀处理",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 16:48:08",
+    "uuid": "bb6725fe-eff8-4aa2-8674-4ff365afb816"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "11月全国新能源乘用车厂商批发销量达146万辆，同比增长51%，环比增长6%。",
+    "id": "8f0zOJ9Hdrl",
+    "order": 1733215681518,
+    "createdAt": "2024-12-03T08:48:01.000Z",
+    "publishDate": "2024-12-03T08:48:01.518Z",
+    "title": "乘联会：预估11月全国新能源乘用车厂商批发销量146万辆，同比增长51%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 16:48:01",
+    "uuid": "040e12bb-2d52-433d-8ee1-63c1c9acd1b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "WPS Office推出了AI语音速记功能，通过WPS AI技术增强，与WPS云文档深度整合，提供更快捷、准确、智能的语音转文字体验 ...",
+    "id": "8f0sxHAl8lZ",
+    "order": 1733215616256,
+    "createdAt": "2024-12-03T08:46:56.000Z",
+    "publishDate": "2024-12-03T08:46:56.256Z",
+    "title": "WPS Office推出 WPS AI 语音速记功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 16:46:56",
+    "uuid": "d251a4bd-6ef9-40af-8211-520b4f65f6e0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "联环药业获得国家药监局核准签发的地高辛注射液《药品注册证书》，规格为2ml:0.5mg，可用于治疗心力衰竭、控制心律失常等 ...",
+    "id": "8ezLua7coq6",
+    "order": 1733215506978,
+    "createdAt": "2024-12-03T08:45:06.000Z",
+    "publishDate": "2024-12-03T08:45:06.978Z",
+    "title": "联环药业：公司获得地高辛注射液《药品注册证书》",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 16:45:06",
+    "uuid": "0989c985-fcd6-4d51-8259-965f6f908c9d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "阿里巴巴公益基金会发布2024年助残报告，展现科技助残成果。报告指出，阿里将“助残扶弱”作为重要公益方向，支持超1万多名残疾人获得收入，并致力于科技创造更美好的残障人士生活 ...",
+    "id": "8f0wsXy95hk",
+    "order": 1733215070719,
+    "createdAt": "2024-12-03T08:37:50.000Z",
+    "publishDate": "2024-12-03T08:37:50.719Z",
+    "title": "阿里巴巴2024助残报告：已支持1万多名残疾人获得收入",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 16:37:50",
+    "uuid": "a38cf637-071e-44c2-81ba-5b5f8d435e78"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星计划在2025年1月的Galaxy Unpacked活动上推出轻便的AR眼镜原型，该眼镜重50克，集成了人工智能技术，旨在提供新奇的体验 ...",
+    "id": "8f0tItqDfOk",
+    "order": 1733215049045,
+    "createdAt": "2024-12-03T08:37:29.000Z",
+    "publishDate": "2024-12-03T08:37:29.045Z",
+    "title": "三星AR眼镜原型明亮相：50克轻盈，AI功能强大引期待",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 16:37:29",
+    "uuid": "d163d200-99d3-436b-ba00-6ce2d722d8bb"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" },
@@ -171,6 +308,24 @@
     "up": false,
     "date": "2024-12-03 16:23:53",
     "uuid": "f287c4d4-9d8a-4139-8a78-78252e7eec52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "金山办公在国际残疾人日推出“WPS AI 一起听见”行动，为持有中国残疾人证的听力残疾人士免费提供一年的WPS AI语音速记服务 ...",
+    "id": "8f0voGrkZHD",
+    "order": 1733215034318,
+    "createdAt": "2024-12-03T08:20:10.000Z",
+    "publishDate": "2024-12-03T08:37:14.318Z",
+    "title": "国际残疾人日金山发起公益活动 听障人士可免费领取AI权益",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 16:20:10",
+    "uuid": "e7c8b189-6c53-4b9b-b23e-018b5cb9ed88"
   },
   {
     "newsArray": [
