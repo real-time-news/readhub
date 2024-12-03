@@ -1,6 +1,162 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "天通卫星科技（深圳）有限公司成立，注册资本10亿元人民币，法定代表人为杨岭才 ...",
+    "id": "8f0gpTONYO5",
+    "order": 1733207208658,
+    "createdAt": "2024-12-03T06:26:48.000Z",
+    "publishDate": "2024-12-03T06:26:48.658Z",
+    "title": "中国电信全资设立天通卫星科技公司，注册资本高达10亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:26:48",
+    "uuid": "19d801eb-6341-4f4c-a57a-1cf6d11d9597"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "电商报" },
+      { "siteName": "财经网" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "北京秋实满园信息技术有限公司发生多项工商变更：原股东陈友珍和陈东仙退出，新增抖音旗下的杭州巨量引擎网络技术有限公司全资持股，注册资本从100万人民币增至5000万人民币，主要人员也有所变动 ...",
+    "id": "8f0nFJEl7j4",
+    "order": 1733206743342,
+    "createdAt": "2024-12-03T06:19:04.000Z",
+    "publishDate": "2024-12-03T06:19:03.342Z",
+    "title": "抖音入股秋实满园信息技术公司",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:19:04",
+    "uuid": "50b85a59-7ae3-495c-93ff-c2a175758b8e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Rust 团队于 11 月 28 日发布公告，正式宣布 Rust 1.83.0 版本更新，带来了新的 const 功能和一系列稳定的 API， 进一步提升了 Rust 语言的性能和易用性 ...",
+    "id": "8f0VhvnJoiX",
+    "order": 1733206709472,
+    "createdAt": "2024-12-03T06:18:30.000Z",
+    "publishDate": "2024-12-03T06:18:29.472Z",
+    "title": "Rust 编程语言 1.83.0 发布：扩展 const 功能、强化 API 等",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:18:30",
+    "uuid": "7df424ce-3c88-4a82-b8a3-34ef6b937929"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "新提交的Linux内核补丁解决了AMD Zen 1和Zen 2处理器启动速度缓慢的问题，该问题自2023年6月起源于内核对CPU微码更新的处理不当，导致initramfs解包过程耗时过长 ...",
+    "id": "8ezUWukmNfC",
+    "order": 1733206674430,
+    "createdAt": "2024-12-03T06:17:54.000Z",
+    "publishDate": "2024-12-03T06:17:54.430Z",
+    "title": "新 Linux 补丁修复 AMD Zen 1/2 处理器设备开机需数分钟的 BUG",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:17:54",
+    "uuid": "0af6e39e-2d8c-48ae-828f-420a050d50bd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "宁德时代宣布其全资子公司时代电服与二手车品牌优信签署合作协议，双方将共同探索换电新模式，拓展市场和生态体系，并打造一站式电池服务解决方案 ...",
+    "id": "8f0bRHKnXeg",
+    "order": 1733206666773,
+    "createdAt": "2024-12-03T06:17:46.000Z",
+    "publishDate": "2024-12-03T06:17:46.773Z",
+    "title": "宁德时代与优信二手车合作，打造“车电分离”交易体系",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:17:46",
+    "uuid": "a2080a81-bcc8-4e60-8de2-fb06c3af3689"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "忱芯科技已完成2亿元B轮融资，投资方有国投创业、阳光融汇和火山石投资等，资金将用于产品研发、量产及全球化布局。",
+    "id": "8f0k5pDZgog",
+    "order": 1733206660335,
+    "createdAt": "2024-12-03T06:17:41.000Z",
+    "publishDate": "2024-12-03T06:17:40.335Z",
+    "title": "“忱芯科技”完成2亿元B轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:17:41",
+    "uuid": "2813312f-0a9e-4370-bf36-4483f795d779"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "证券板块涨幅明显，哈投股份上涨超6%，多家证券公司如国元证券、海通证券等跟涨。",
+    "id": "8f0oMnQUbLt",
+    "order": 1733206629668,
+    "createdAt": "2024-12-03T06:17:09.000Z",
+    "publishDate": "2024-12-03T06:17:09.668Z",
+    "title": "证券板块快速拉升，哈投股份涨超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:17:09",
+    "uuid": "6d42e1ff-3a77-4b55-8da3-025af5de62b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "电商报" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "近期，快手科学线推荐架构的领军人物任恺悄然离职，业界关注。任恺拥有清华大学和卡内基梅隆大学的学术背景，曾在Instagram广告组担任研究科学家，回国后加入快手并担任推荐架构负责人 ...",
+    "id": "8f0aE3ogP3D",
+    "order": 1733206416524,
+    "createdAt": "2024-12-03T06:13:37.000Z",
+    "publishDate": "2024-12-03T06:13:36.524Z",
+    "title": "快手推荐架构领军人物任恺近期离职，去向成谜",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:13:37",
+    "uuid": "47acc04f-eda8-42c2-bab3-9386ce5afa48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "埃克森美孚计划出售其新加坡价值10亿美元的加油站。",
+    "id": "8f0lMoFbJ1R",
+    "order": 1733205802689,
+    "createdAt": "2024-12-03T06:03:22.000Z",
+    "publishDate": "2024-12-03T06:03:22.689Z",
+    "title": "埃克森美孚据悉正在考虑出售价值10亿美元的新加坡加油站",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:03:22",
+    "uuid": "e5e29386-3eb8-430b-af12-26ff1526a09b"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" }
