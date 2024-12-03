@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2024年12月3日，中国在西昌卫星发射中心用长征三号乙运载火箭成功发射通信技术试验卫星十三号，卫星进入预定轨道，圆满完成了发射任务 ...",
+    "id": "8f0qWT4lKrs",
+    "order": 1733208256527,
+    "createdAt": "2024-12-03T06:44:16.000Z",
+    "publishDate": "2024-12-03T06:44:16.527Z",
+    "title": "我国成功发射通信技术试验卫星十三号",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:44:16",
+    "uuid": "c8e26460-d4a6-4f5f-ad24-77cfe17caee4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "酷狗音乐庆祝上线20周年，推出了限定版本，并首次推出了横屏播放器，提升用户听歌沉浸感，并适应多种场景 ...",
+    "id": "8f0bVq8fTO9",
+    "order": 1733208134542,
+    "createdAt": "2024-12-03T06:42:15.000Z",
+    "publishDate": "2024-12-03T06:42:14.542Z",
+    "title": "酷狗音乐推出业内平台首个横屏播放器，解锁听歌新体验",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:42:15",
+    "uuid": "bcd9fa75-2282-446c-9018-b4676c8ab9af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "智通财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "TechInsights预测，尽管面临通胀和全球经济挑战，2024年全球智能家居设备、服务和安装费用的支出将同比增长7%，达到1250亿美元 ...",
+    "id": "8f0pP3S1vv3",
+    "order": 1733207861088,
+    "createdAt": "2024-12-03T06:37:42.000Z",
+    "publishDate": "2024-12-03T06:37:41.088Z",
+    "title": "机构：到2030年，服务收入将推动智能家居市场规模达到1900亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:37:42",
+    "uuid": "36839a09-31a1-4610-b1e2-6bf52c157bb8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "美国商务部工业和安全局（BIS）修订的新的《出口管制条例》（EAR）将140家中国半导体相关企业列入了实体清单，其中国产半导体制造设备厂商成为了打击重点 ...",
+    "id": "8f0inwXsyq3",
+    "order": 1733207553659,
+    "createdAt": "2024-12-03T06:32:33.000Z",
+    "publishDate": "2024-12-03T06:32:33.659Z",
+    "title": "闻泰科技回应被美国列入实体清单：短期不会有重大影响",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 14:32:33",
+    "uuid": "9c1585e4-df0f-4afc-9de1-596b6839ad5f"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "界面" },
       { "siteName": "ITBear科技资讯" }
