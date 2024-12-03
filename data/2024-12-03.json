@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果公司提交了一项新专利申请，名为“设备、方法及图形用户界面的可配置输入区域”，未来iPhone可能会允许用户自定义音量按钮的功能 ...",
+    "id": "8f0UJOPimHr",
+    "order": 1733200536458,
+    "createdAt": "2024-12-03T04:35:37.000Z",
+    "publishDate": "2024-12-03T04:35:36.458Z",
+    "title": "苹果新专利曝光：自定义音量按钮或将成未来iPhone标配",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 12:35:37",
+    "uuid": "a3b7b917-e2c0-4dd9-b067-3af761cdbdcb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "中国移动联合多家行业领先企业推出了“芯合”异构混合并行训练系统1.0版本，该系统以非均匀计算任务切分算法和GPU Direct RDMA技术为亮点，已成功应用于大规模模型训练，并达到业界领先水平 ...",
+    "id": "8ezPLBDfG33",
+    "order": 1733200489590,
+    "createdAt": "2024-12-03T04:34:49.000Z",
+    "publishDate": "2024-12-03T04:34:49.590Z",
+    "title": "中国移动携手产业伙伴，发布“芯合”异构训练系统，引领智算新时代",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 12:34:49",
+    "uuid": "14a568c0-a9bb-4e29-9a7b-600cd5d2ad63"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "特朗普胜选带动的“特朗普交易”使得对冲基金行业获得了四年来最好的收益，其中Citadel和Discovery资本管理的宏观对冲基金表现尤为突出，年度收益率分别达到了20%和46.5%，Rokos基金年内收益为28.5%，Balyasny资产管理公司11月的收益为3.9%，年内累计回报达到了11.6%。",
+    "id": "8f0PvZwRzD8",
+    "order": 1733199910132,
+    "createdAt": "2024-12-03T04:25:11.000Z",
+    "publishDate": "2024-12-03T04:25:10.132Z",
+    "title": "“特朗普交易”推动对冲基金行业取得四年来最佳收益",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 12:25:11",
+    "uuid": "fd2fa267-a2e5-417b-bff7-11ba20ee913b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2024年12月3日，中国东航引进的第九架C919客机成功执飞“上海虹桥—重庆”商业航班，安全抵达重庆江北国际机场，这是国产C919在重庆的首个商业航班，东航也将在重庆开设C919航班的第七个航点。",
+    "id": "8f0fOYnUmkj",
+    "order": 1733199765102,
+    "createdAt": "2024-12-03T04:16:18.000Z",
+    "publishDate": "2024-12-03T04:22:45.102Z",
+    "title": "国产大飞机C919商业首航重庆执飞“沪渝快线”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-03 12:16:18",
+    "uuid": "2b86c676-e88e-4292-8210-4e556ca9a8a3"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "财经网" },
       { "siteName": "36Kr" }
