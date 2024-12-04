@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "aibase" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "字节跳动前实习生田柯宇与字节合作的论文被人工智能顶级会议 NeurIPS评为最佳论文（Best Paper） ...",
+    "id": "8f2JYYgf9r9",
+    "order": 1733294280131,
+    "createdAt": "2024-12-04T06:26:05.000Z",
+    "publishDate": "2024-12-04T06:38:00.131Z",
+    "title": "被字节起诉800万的“投毒”实习生，参与项目获得AI顶级会议最佳论文",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 14:26:05",
+    "uuid": "83503216-bc7b-473e-819b-02242bf0d724"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "上周末，聊天机器人ChatGPT出现了一个故障，无法说出\"David Mayer\"这个名字，引起了网友们的广泛猜测 ...",
+    "id": "8f2AzqQHWjq",
+    "order": 1733294422216,
+    "createdAt": "2024-12-04T06:12:04.000Z",
+    "publishDate": "2024-12-04T06:40:22.216Z",
+    "title": "ChatGPT 拒绝谈论特定名字，OpenAI 称系内部工具故障导致",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 14:12:04",
+    "uuid": "08bd91fe-86e6-46f0-9a17-87e220a4a941"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "DoNews" }
@@ -927,6 +964,25 @@
     "up": false,
     "date": "2024-12-04 09:10:16",
     "uuid": "39f23a2c-e213-4eb7-929d-5a50b12a7040"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "中国移动研究院在举办的成果发布及研讨会上，发布了空芯光纤及传输系统的重大创新成果，包括国际领先的四单元截断型双层嵌套结构空芯光纤，以及业界首次的160波x800G传输系统和S+C+L超宽谱同波长单纤双向377.6Tb/s百公里传输 ...",
+    "id": "8f23BB8my5e",
+    "order": 1733293656187,
+    "createdAt": "2024-12-04T01:09:36.000Z",
+    "publishDate": "2024-12-04T06:27:36.187Z",
+    "title": "中国移动空芯光纤大突破：百公里传输疾速377.6Tb/s",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 09:09:36",
+    "uuid": "8c000ea1-0f22-41d1-b6e6-ab029ce7c9f4"
   },
   {
     "newsArray": [
