@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "和讯网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "安天科技因连年亏损和未完成上市对赌，被投资人发起仲裁，决定启动全员降薪。公司运营成本高，市场开拓缓慢，2020年至2024年累计亏损达11.22亿元 ...",
+    "id": "8f2G0B6Vz3o",
+    "order": 1733286716899,
+    "createdAt": "2024-12-04T04:31:56.000Z",
+    "publishDate": "2024-12-04T04:31:56.899Z",
+    "title": "累计亏损超11亿元 安天科技宣布全员降薪",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 12:31:56",
+    "uuid": "8605fd65-4d4e-49d3-91e1-8a9cb07feb5c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "各大电商平台正为双12活动做准备。京东公布了2024年双12活动规则，活动分为预热期和正式期，主要玩法为跨店满减 ...",
+    "id": "8f2Ac6me45u",
+    "order": 1733286157363,
+    "createdAt": "2024-12-04T04:22:37.000Z",
+    "publishDate": "2024-12-04T04:22:37.363Z",
+    "title": "京东、淘宝公布双12活动规则",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 12:22:37",
+    "uuid": "8764f2de-9a73-4271-9d29-f54869b6ba11"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "电商报" },
       { "siteName": "雷锋网" }
