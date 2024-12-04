@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "任天堂宣布，原定于明年2月中旬推出的Alarmo体感闹钟，因生产和库存问题推迟销售，具体上市时间待定 ...",
+    "id": "8f2DpfnXAdM",
+    "order": 1733284385328,
+    "createdAt": "2024-12-04T03:53:05.000Z",
+    "publishDate": "2024-12-04T03:53:05.328Z",
+    "title": "任天堂推迟对非会员销售体感闹钟：生产和库存存在问题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 11:53:05",
+    "uuid": "ee42b7d1-c61e-41db-a92c-40a1ebb300d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" },
+      { "siteName": "雷锋网" }
+    ],
+    "summary": "星纪魅族与阿里云在杭州签署全面合作协议，强化在AI大模型和云计算领域的合作。双方将合作提供包括云计算服务、基础大语言模型与多模态模型等服务，共同构建软硬件一体、多终端互联、全场景覆盖的开放AI生态 ...",
+    "id": "8f2AeUxXYu5",
+    "order": 1733284245887,
+    "createdAt": "2024-12-04T03:50:45.000Z",
+    "publishDate": "2024-12-04T03:50:45.887Z",
+    "title": "星纪魅族与阿里云签约 共同构建开放繁荣的 AI 生态",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 11:50:45",
+    "uuid": "835e28a3-78c2-474b-82b6-42b31d563985"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "南京市人民法院判决一烧烤炉厂家因使用与蔚来汽车商标相似的标识构成侵权，需赔偿蔚来汽车30万元 ...",
+    "id": "8f0uOAxy6eq",
+    "order": 1733284056780,
+    "createdAt": "2024-12-04T03:47:36.000Z",
+    "publishDate": "2024-12-04T03:47:36.780Z",
+    "title": "因通风口形似蔚来Logo构成侵权：烧烤炉厂家被判赔30万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 11:47:36",
+    "uuid": "6f1a2fa3-7f79-4ce6-9297-9f85fc4a3462"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Vivo 今日官宣，OriginOS 5 十二月公测招募开启，招募时间为 ... 公测报名卡片点击【查看详情】按钮，进入公测报名界面，按照提示完成报名申请 ...",
+    "id": "8f2FHhUtJuG",
+    "order": 1733284034999,
+    "createdAt": "2024-12-04T03:47:14.000Z",
+    "publishDate": "2024-12-04T03:47:14.999Z",
+    "title": "vivo OriginOS 5 十二月公测招募开启，10 款机型升级尝鲜",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 11:47:14",
+    "uuid": "84cb257c-c64a-45fb-8d26-8e8e163ea549"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "广州市政府发布措施支持氢能产业，对日加氢能力500公斤及以上的加氢站提供建设补贴，油（气）氢合建站和制氢加氢一体化综合能源站每站补贴100万元，其他固定式加氢站每站补贴50万元 ...",
+    "id": "8f2IYIA3Ojj",
+    "order": 1733284027389,
+    "createdAt": "2024-12-04T03:47:07.000Z",
+    "publishDate": "2024-12-04T03:47:07.389Z",
+    "title": "广州：鼓励各区根据实际情况对加氢站建设给予补贴",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 11:47:07",
+    "uuid": "0b0692df-71ae-4933-b790-f1a42ee4668a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Flexbar是一款受苹果Touch Bar启发的独立触控条产品，现正在Kickstarter平台众筹 ...",
+    "id": "8f20FaxTE1j",
+    "order": 1733283864018,
+    "createdAt": "2024-12-04T03:44:24.000Z",
+    "publishDate": "2024-12-04T03:44:24.018Z",
+    "title": "灵感源于苹果 Touch Bar，独立触控条 Flexbar 开启众筹",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 11:44:24",
+    "uuid": "3f1b3af2-eec9-47aa-996c-dbc47b344ba6"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
