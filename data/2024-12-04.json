@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "碧桂园2024年11月合同销售额约为30.1亿元，销售建筑面积约33万平方米。",
+    "id": "8f2k0D0S1II",
+    "order": 1733307080524,
+    "createdAt": "2024-12-04T10:11:20.000Z",
+    "publishDate": "2024-12-04T10:11:20.524Z",
+    "title": "碧桂园：11月合同销售额约30.1亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 18:11:20",
+    "uuid": "e207c5aa-1a18-4c1e-8e54-84189b496887"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "葫芦娃公告股票交易风险提示，公司股票连续五个交易日涨停，累计涨幅达61.04%，公司基本面未发生重大变化，且不存在未披露信息 ...",
+    "id": "8ezT3nFYw3o",
+    "order": 1733306872447,
+    "createdAt": "2024-12-04T10:07:53.000Z",
+    "publishDate": "2024-12-04T10:07:52.447Z",
+    "title": "5连板葫芦娃：股票可能存在非理性炒作，公司基本面未发生重大变化",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 18:07:53",
+    "uuid": "bd2b7dce-42ee-488c-8c33-d5318bbecdbd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财经网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "根据TrendForce的最新调查，固态电池是低空飞行载具如飞行汽车和电动垂直起降飞机（eVTOL）的关键能源技术 ...",
+    "id": "8f2jHYymK5t",
+    "order": 1733306227216,
+    "createdAt": "2024-12-04T09:57:07.000Z",
+    "publishDate": "2024-12-04T09:57:07.216Z",
+    "title": "机构：低空飞行市场推动2035年固态电池需求达302GWh",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 17:57:07",
+    "uuid": "51e9a013-7757-43fa-bff1-fa0cb7ca5540"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "梅赛德斯-奔驰正在开发一种先进的太阳能车漆，该技术能使电动汽车每年增加高达12000公里的续航里程。新太阳能电池组件仅5微米厚，每平方米重量50克，具有20%的能量转换效率 ...",
+    "id": "8f2bPyGCSsX",
+    "order": 1733306212373,
+    "createdAt": "2024-12-04T09:56:52.000Z",
+    "publishDate": "2024-12-04T09:56:52.373Z",
+    "title": "奔驰研发太阳能涂料技术，为电动车续航里程年增 1.2 万公里",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 17:56:52",
+    "uuid": "1ec42dc9-faac-4540-a673-4cd9c92a7a3e"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "IT 之家" },
       { "siteName": "电商报" }
