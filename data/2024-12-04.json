@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "AI概念股普遍下跌，元隆雅图逼近跌停，凡拓数创、生意宝、新经典、天地在线、天龙集团、因赛集团等多股跌超5%。",
+    "id": "8f2R8f7XKbM",
+    "order": 1733290986483,
+    "createdAt": "2024-12-04T05:43:07.000Z",
+    "publishDate": "2024-12-04T05:43:06.483Z",
+    "title": "AI应用方向持续走低，元隆雅图逼近跌停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 13:43:07",
+    "uuid": "df4c5aad-d9fb-4911-9971-baab04e6da6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "亚马逊在全球10个国家推出配备生成式人工智能的购物助手Rufus，旨在通过智能、个性化的服务提升购物体验 ...",
+    "id": "8f2JuFA0LaB",
+    "order": 1733290946236,
+    "createdAt": "2024-12-04T05:42:27.000Z",
+    "publishDate": "2024-12-04T05:42:26.236Z",
+    "title": "亚马逊法国推出AI购物助手Rufus测试版",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 13:42:27",
+    "uuid": "66dbb0f5-c40d-44f6-9c42-101e07988322"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美满电子（Marvell）推出业界首款3nm工艺PAM4光学DSP芯片Ara，可将1.6Tbps高速光模块功耗降低20%，满足AI工作负载对高性能光通信的需求 ...",
+    "id": "8f2IqdVtbyM",
+    "order": 1733290614262,
+    "createdAt": "2024-12-04T05:36:55.000Z",
+    "publishDate": "2024-12-04T05:36:54.262Z",
+    "title": "Marvell 美满电子推出业界首款 3nm 制程 PAM4 光学 DSP 芯片 Ara",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-04 13:36:55",
+    "uuid": "2eec2cec-ed10-4389-9a98-a8525ab8db8d"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "爱范儿" },
       { "siteName": "虎嗅网" }
