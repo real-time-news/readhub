@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "最高检检察委员会委员、普通犯罪检察厅厅长侯亚辉表示，检察机关在醉驾治理问题中，将以“酒精含量+情节”的方式划分入罪标准，对没有从重处理情节的案件不再按犯罪处理，但对符合刑事追诉条件的，将依法起诉 ...",
+    "id": "8f3vd5yqTxO",
+    "order": 1733370240115,
+    "createdAt": "2024-12-05T03:39:21.000Z",
+    "publishDate": "2024-12-05T03:44:00.115Z",
+    "title": "最高检：今年前三季度公诉危险驾驶案件21.2万人，同比下降14.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 11:39:21",
+    "uuid": "962c235b-22a1-495d-a9d3-d0d5e1bda350"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI首席执行官阿尔特曼在DealBook峰会上表示，人工智能发展将远超预期，预测到2025年将出现具备通用人工智能（AGI）能力的系统 ...",
+    "id": "8f3uAT5khML",
+    "order": 1733369938786,
+    "createdAt": "2024-12-05T03:38:58.000Z",
+    "publishDate": "2024-12-05T03:38:58.786Z",
+    "title": "OpenAI：2025 年或现通用人工智能系统，将带来深远变革",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 11:38:58",
+    "uuid": "c5dc29f0-0355-4f95-9ca9-389f1d115bf5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "2024年11月，我国房地产企业债券融资总额为482.7亿元，同比增长9.0%，环比增长66.6%。其中，信用债发行量同比下降，而ABS发行量同比显著增长 ...",
+    "id": "8f3i3GFmPaG",
+    "order": 1733369795417,
+    "createdAt": "2024-12-05T03:36:35.000Z",
+    "publishDate": "2024-12-05T03:36:35.417Z",
+    "title": "中指研究院：11月房企融资出现持续性回暖",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 11:36:35",
+    "uuid": "1113da84-f9d0-44ad-9d9d-dd3c4611b79e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "牛透社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "爱立信获得印度巴帝电信数十亿美元的4G和5G RAN产品和解决方案续约合同，将提供集中式RAN和开放式RAN就绪解决方案，升级现有4G设备软件。",
+    "id": "8f2aZIlMv57",
+    "order": 1733369364910,
+    "createdAt": "2024-12-05T03:29:25.000Z",
+    "publishDate": "2024-12-05T03:29:24.910Z",
+    "title": "爱立信获“数十亿美元”巴帝电信网络合同",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 11:29:25",
+    "uuid": "e195bbff-78b5-4806-ae9d-7e15ac4e5c46"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "通用汽车中国业务是公司重要资产，通用汽车与上汽集团的合作更加紧密，正采取措施减少库存、按需生产、保护价格体系及降低固定成本，以实现盈利和可持续发展。",
+    "id": "8f3r1nrd9Od",
+    "order": 1733369277999,
+    "createdAt": "2024-12-05T03:27:57.000Z",
+    "publishDate": "2024-12-05T03:27:57.999Z",
+    "title": "通用中国回应“通用计划重组中国业务”传闻：正采取措施减少库存、按需生产、保护价格体系及降低固定成本",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 11:27:57",
+    "uuid": "21638543-733e-46e6-8900-a3252e66b1b7"
+  },
+  {
+    "newsArray": [
       { "siteName": "牛透社" },
       { "siteName": "界面" },
       { "siteName": "DoNews" }
@@ -405,6 +493,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "aibase" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "OpenAI 公司首席执行官山姆・阿尔特曼在纽约时报举办的 DealBook 峰会上宣布，ChatGPT 聊天机器人的周活跃用户已超过 3 亿，日均消息发送量超过 10 亿条。",
+    "id": "8f3hJIqclKu",
+    "order": 1733370204534,
+    "createdAt": "2024-12-05T00:38:10.000Z",
+    "publishDate": "2024-12-05T03:43:24.534Z",
+    "title": "ChatGPT 周活跃用户超 3 亿，日均消息发送量突破 10 亿条",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 08:38:10",
+    "uuid": "acce1ad2-f8be-46f8-b7e0-f55522dae9d2"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "IT 之家" },
       { "siteName": "腾讯网" },
@@ -420,6 +528,24 @@
     "up": false,
     "date": "2024-12-05 08:26:20",
     "uuid": "2c89a41d-dff6-4364-8186-af0eb8463be8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "苹果CEO蒂姆·库克在接受采访时否认了苹果AI服务将收费的传闻，强调AI技术作为智能设备的基础功能应免费提供 ...",
+    "id": "8f3Bs4PxAed",
+    "order": 1733370231489,
+    "createdAt": "2024-12-05T00:21:47.000Z",
+    "publishDate": "2024-12-05T03:43:51.489Z",
+    "title": "苹果CEO库克：从来没有考虑过Apple Intelligence收费问题",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 08:21:47",
+    "uuid": "213e8e6d-41d0-4067-a32f-4f604b97df0d"
   },
   {
     "newsArray": [
