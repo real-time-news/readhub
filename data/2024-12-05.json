@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "高凌信息公告称，公司计划通过发行股份和支付现金方式购买上海欣诺通信技术股份有限公司71.98%的股权，并募集配套资金。此次交易预计构成重大资产重组，但不会改变公司实际控制人 ...",
+    "id": "8f4NC2IkclC",
+    "order": 1733392432813,
+    "createdAt": "2024-12-05T09:53:52.000Z",
+    "publishDate": "2024-12-05T09:53:52.813Z",
+    "title": "高凌信息：拟购买欣诺通信71.98%股权，股票停牌",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 17:53:52",
+    "uuid": "11171ea9-64af-498e-a208-e9ba8255d044"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "恩智浦半导体与中国台湾的世界先进VSMC合资在新加坡建设12英寸晶圆厂，总投资约78亿美元 ...",
+    "id": "8f2Mr5PISXd",
+    "order": 1733392264484,
+    "createdAt": "2024-12-05T09:51:04.000Z",
+    "publishDate": "2024-12-05T09:51:04.484Z",
+    "title": "半导体巨头恩智浦：将为客户建立一条中国芯片供应链",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 17:51:04",
+    "uuid": "863f7fc4-dd3b-4bf4-aca3-a58d304045c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "杭州行芯科技有限公司发生工商变更，盐城加先呈信息技术咨询合伙企业等退出股东，新增国家集成电路产业投资基金等为股东，注册资本增加 ...",
+    "id": "8f4MlPu5CQw",
+    "order": 1733392208759,
+    "createdAt": "2024-12-05T09:50:08.000Z",
+    "publishDate": "2024-12-05T09:50:08.759Z",
+    "title": "国家大基金二期等入股行芯科技",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 17:50:08",
+    "uuid": "a53a0068-501e-4cc8-bfef-93087f1e8c4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "荣耀Magic 7系列手机推送了MagicOS 9.0.0.128版本更新，更新包约1.39GB，新增多项功能与优化。YOYO智能助理功能增强，支持智能填写表单和语音检索信息 ...",
+    "id": "8f39jP1EIYe",
+    "order": 1733392203827,
+    "createdAt": "2024-12-05T09:50:04.000Z",
+    "publishDate": "2024-12-05T09:50:03.827Z",
+    "title": "荣耀Magic 7系列新升级：YOYO智能填表与三方通话录音等功能来袭",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 17:50:04",
+    "uuid": "a53b68de-3c4b-4d38-9867-16d6bba7a327"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Counterpoint报告显示，2024年Q3全球智能手机市场同比增长2%，出货量达3.07亿部，收入同比增长10%，平均售价增长7%，均创历史新高 ...",
+    "id": "8f4Hl3anXpI",
+    "order": 1733392137580,
+    "createdAt": "2024-12-05T09:48:57.000Z",
+    "publishDate": "2024-12-05T09:48:57.580Z",
+    "title": "Counterpoint：今年 Q3 全球智能手机出货 3.07 亿部，三星独占近 2 成",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 17:48:57",
+    "uuid": "0d765b76-22cc-48c0-a2b9-82dae9da8d22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "根据TrendForce集邦咨询的最新调查，2023年第三季度全球前十大晶圆代工厂家的产值总额达到349亿美元，同比增长9.1% ...",
+    "id": "8f4Hc9T0MPG",
+    "order": 1733392131590,
+    "createdAt": "2024-12-05T09:48:51.000Z",
+    "publishDate": "2024-12-05T09:48:51.590Z",
+    "title": "三度季全球晶圆代工厂营收排名公布：中芯国际第三",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 17:48:51",
+    "uuid": "78965815-f390-4ec1-a352-250a0eed069b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "和讯网" },
       { "siteName": "36Kr" }
