@@ -1,6 +1,28 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "速途网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "拼多多旗下的Temu在上线越南站后不久被通知暂停在越南的业务，目前拼多多官方尚未对此作出回应 ...",
+    "id": "8f3qx1ic6dG",
+    "order": 1733383440015,
+    "createdAt": "2024-12-05T07:19:48.000Z",
+    "publishDate": "2024-12-05T07:24:00.015Z",
+    "title": "传Temu暂停越南业务 官方暂无回应",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 15:19:48",
+    "uuid": "72a7a818-ca8b-4a29-9077-36b1b8576997"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "网易科技" },
       { "siteName": "DoNews" }
@@ -32,6 +54,24 @@
     "up": false,
     "date": "2024-12-05 15:16:53",
     "uuid": "30d57d75-7ea6-478c-b27a-543078ad8c78"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "和讯网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "美国田纳西州孟菲斯商会宣布，马斯克的人工智能初创公司xAI计划大规模扩展其位于孟菲斯的超级计算机集群Colossus，将GPU数量增加到至少100万个，用于训练聊天机器人Grok ...",
+    "id": "8f3sq2oiPiy",
+    "order": 1733383516105,
+    "createdAt": "2024-12-05T07:07:10.000Z",
+    "publishDate": "2024-12-05T07:25:16.105Z",
+    "title": "马斯克旗下人工智能初创公司xAI拟将孟菲斯超算集群规模扩展至100万个GPU",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 15:07:10",
+    "uuid": "002ff8a0-52ed-44b1-a922-30ab6ff0dcb4"
   },
   {
     "newsArray": [
