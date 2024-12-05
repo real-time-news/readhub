@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "华特迪士尼公司宣布将年度股息提高33%，至每股1美元，这意味着公司两年前启动的重振计划正在生效。股息将于明年分两次支付，每次50美分 ...",
+    "id": "8f3hAHmVgjq",
+    "order": 1733359282330,
+    "createdAt": "2024-12-05T00:41:23.000Z",
+    "publishDate": "2024-12-05T00:41:22.330Z",
+    "title": "实现流媒体业务盈利后，迪士尼将年度股息提高33%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 08:41:23",
+    "uuid": "30dc26c2-ad05-4722-851f-9cca8c9b6553"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子近期宣布了一系列高层人事变动和架构调整，任命朴顺哲为首席财务官，全永铉为共同执行长并负责存储芯片业务，韩进万为总裁并主管晶圆代工业务 ...",
+    "id": "8f3eRR2D4IB",
+    "order": 1733359128652,
+    "createdAt": "2024-12-05T00:38:49.000Z",
+    "publishDate": "2024-12-05T00:38:48.652Z",
+    "title": "三星新动向：朴顺哲接任CFO，AI中心成立助力未来布局",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 08:38:49",
+    "uuid": "ef40b88f-9a1e-4bc3-8d30-7b6b258be925"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "多地出台新计划推动人工智能产业发展，上市公司积极展示AI应用进展。在生产端，企业将AI融入核心业务，建立智能化基础架构。在产品端，AI成为创新主导，增强市场竞争力。",
+    "id": "8f3hKZI9q0e",
+    "order": 1733359122133,
+    "createdAt": "2024-12-05T00:38:43.000Z",
+    "publishDate": "2024-12-05T00:38:42.133Z",
+    "title": "多地力挺人工智能产业发展，上市公司“含AI量”持续提升",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 08:38:43",
+    "uuid": "486c1505-80ff-471f-bd69-af1ce8630f55"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "腾讯网" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "DeepMind发布Genie 2模型，能根据文本描述和图像生成交互式3D场景，实时模拟物体交互、动画、光照、物理反射及NPC行为，画质可达AAA级别 ...",
+    "id": "8f3BVGQJ6md",
+    "order": 1733358379801,
+    "createdAt": "2024-12-05T00:26:20.000Z",
+    "publishDate": "2024-12-05T00:26:19.801Z",
+    "title": "谷歌旗下 DeepMind 推出 Genie 2 模型，可生成长达 1 分钟的游戏世界",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 08:26:20",
+    "uuid": "2c89a41d-dff6-4364-8186-af0eb8463be8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2024年，受疫情影响，传媒行业项目制作周期延长，优质内容供给减少，外部消费环境不佳，AI主题情绪下降，文化事业单位转制企业所得税政策调整，导致传媒公司业绩增长缓慢，估值调整较多 ...",
+    "id": "8f3hKfcj4tu",
+    "order": 1733357610779,
+    "createdAt": "2024-12-05T00:13:31.000Z",
+    "publishDate": "2024-12-05T00:13:30.779Z",
+    "title": "中金：传媒行业优质内容为基，AI应用助力，迈向高质量发展",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 08:13:31",
+    "uuid": "3e10281e-f118-4911-a599-25c084d8cc15"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "DoNews" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "通用汽车因在华业务困境预计将产生超50亿美元费用和减记，其中29亿美元为在华合资业务价值减记，27亿美元为关闭工厂和重组业务的费用 ...",
+    "id": "8f2vS2D1wjp",
+    "order": 1733358248368,
+    "createdAt": "2024-12-04T23:51:47.000Z",
+    "publishDate": "2024-12-05T00:24:08.368Z",
+    "title": "通用汽车在华业务将产生超50亿美元费用及价值减记",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 07:51:47",
+    "uuid": "00b84816-0972-4f4b-b570-bf415c035155"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" }
@@ -119,6 +226,34 @@
     "up": false,
     "date": "2024-12-05 07:13:20",
     "uuid": "417cbad1-1d8c-4c85-aa8b-13233af34a8c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "深圳宝安区深江铁路5标段施工现场发生地面坍塌事故，导致13名作业人员失联。事发后，省市领导紧急赶赴现场，组织救援处置及事故原因调查。附近居民已疏散，周边路段实行临时交通管制。",
+    "id": "8f3bcOOZPt4",
+    "order": 1733356607201,
+    "createdAt": "2024-12-04T23:11:35.000Z",
+    "publishDate": "2024-12-04T23:56:47.201Z",
+    "title": "深圳深江铁路施工现场发生地面坍塌 13人失联",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 07:11:35",
+    "uuid": "2e8b3f98-ec3c-40a8-9b15-fe071cc453c2"
   },
   {
     "newsArray": [
