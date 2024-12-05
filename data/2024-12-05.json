@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Qt Creator 15正式版发布，新版本在跨平台集成开发环境方面有重要更新，特别是对Windows on ARM应用开发的原生支持，同时增强了扩展内容，引入了新的主题和Markdown支持，以及为Lua提供了交互式shell ...",
+    "id": "8f40aulK8zi",
+    "order": 1733377804256,
+    "createdAt": "2024-12-05T05:50:04.000Z",
+    "publishDate": "2024-12-05T05:50:04.256Z",
+    "title": "Qt Creator 15正式版发布：支持Windows on ARM 应用开发",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 13:50:04",
+    "uuid": "47c578df-df8b-4012-b413-f3bb5241c4c5"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "AMZ123" },
       { "siteName": "电商报" }
