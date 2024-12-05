@@ -1,6 +1,25 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "财政部发布《关于政府采购领域本国产品标准及实施政策有关事项的通知（征求意见稿）》，拟在政府采购活动中，对符合本国产品标准的产品给予20%的价格扣除优惠，同时要求平等对待各类经营主体，包括国有企业、民营企业、外商投资企业等，以保障公平竞争。",
+    "id": "8f4MLEY8JRF",
+    "order": 1733394110814,
+    "createdAt": "2024-12-05T10:21:50.000Z",
+    "publishDate": "2024-12-05T10:21:50.814Z",
+    "title": "财政部征求意见：在政府采购中，给予本国产品20％价格优惠",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 18:21:50",
+    "uuid": "660768bb-51e3-4f52-b014-20c13fd9a80c"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "第一财经" }
@@ -35,6 +54,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "辽宁金融监管局批准杨法德担任辽沈银行股份有限公司行长职务。",
+    "id": "8f42lCj9qKB",
+    "order": 1733393780172,
+    "createdAt": "2024-12-05T09:54:50.000Z",
+    "publishDate": "2024-12-05T10:16:20.172Z",
+    "title": "杨法德获批出任辽沈银行行长",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 17:54:50",
+    "uuid": "1baaa4b1-87ab-4bb7-b034-d3383960340f"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "第一财经" }
@@ -49,6 +86,24 @@
     "up": false,
     "date": "2024-12-05 17:53:52",
     "uuid": "11171ea9-64af-498e-a208-e9ba8255d044"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国联通国际科技创新大会在香港会展中心举行，主题为“智能连接未来”。会上宣布中国联通（香港）创新研究院成立，并发布全新国际品牌UniCom。此外，还启动了科技创新合作伙伴计划 ...",
+    "id": "8f4M2GeXCNn",
+    "order": 1733393933515,
+    "createdAt": "2024-12-05T09:52:25.000Z",
+    "publishDate": "2024-12-05T10:18:53.515Z",
+    "title": "中国联通成立香港创新研究院，发布国际品牌 UniCom",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 17:52:25",
+    "uuid": "36787bc9-3973-4b21-a72e-3e5ceb11f32e"
   },
   {
     "newsArray": [
@@ -1441,6 +1496,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "腾讯网" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "乐从镇专项调查组发布通报，回应近期网民关注的大墩村问题。村民梁某泳在抖音平台发布视频，指责大墩村两委班子成员履职不力、以权谋私，但经调查未发现实际情况 ...",
+    "id": "8f3zCmIjlaS",
+    "order": 1733393534270,
+    "createdAt": "2024-12-05T04:23:49.000Z",
+    "publishDate": "2024-12-05T10:12:14.270Z",
+    "title": "广东大墩村一村民举报村干部“以权谋私”，官方再通报",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 12:23:49",
+    "uuid": "6d115600-d539-4940-a7b7-98c233061757"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
@@ -1549,6 +1623,24 @@
     "up": false,
     "date": "2024-12-05 11:58:03",
     "uuid": "d7f75c9f-a64f-49db-a9ee-eb77163c40de"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Steam秋季特卖活动火热进行中，官方公布了最新销售排名 ...",
+    "id": "8f2EING0njS",
+    "order": 1733394673696,
+    "createdAt": "2024-12-05T03:47:35.000Z",
+    "publishDate": "2024-12-05T10:31:13.696Z",
+    "title": "Steam秋季特卖热销榜公布 荒野大镖客：救赎2火热销售中",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-05 11:47:35",
+    "uuid": "eca5a66a-fce5-4b63-bfcc-2e5c8c0da4a3"
   },
   {
     "newsArray": [
