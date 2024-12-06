@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "今年1至11月，上海边检总站在上海口岸检查出入境交通运输工具24.7万架（艘）次，查验出入境人员3310余万人次，增长显著 ...",
+    "id": "8f5ytdNCiS4",
+    "order": 1733475858985,
+    "createdAt": "2024-12-06T09:04:18.000Z",
+    "publishDate": "2024-12-06T09:04:18.985Z",
+    "title": "今年1至11月，上海口岸出入境人员超3310万人次同比增逾91%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-06 17:04:18",
+    "uuid": "0afd8146-83a0-48ae-aeb1-692dd62339b3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "舜宇光学科技公告，2024年11月手机镜头出货量1.11亿件，下降5.6%。手机摄像模组出货量3740.6万件，下降28.1%。",
+    "id": "8f5yfhbpu68",
+    "order": 1733475841656,
+    "createdAt": "2024-12-06T09:04:01.000Z",
+    "publishDate": "2024-12-06T09:04:01.656Z",
+    "title": "舜宇光学科技：11月手机镜头出货量同比减少5.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-06 17:04:01",
+    "uuid": "b479f888-de6a-4927-b3c3-71b92ed8d771"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "电商报" },
       { "siteName": "ITBear科技资讯" }
@@ -1765,6 +1800,26 @@
     "up": false,
     "date": "2024-12-06 08:25:49",
     "uuid": "6593d20d-b3fa-4034-a1c7-c8ec79dbd3ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "Waymo，Alphabet的自动驾驶子公司，宣布将在佛罗里达州的迈阿密进行自动驾驶车辆的路测，并计划在2026年通过Waymo One应用程序提供自动驾驶付费出租车服务 ...",
+    "id": "8f4nwRBqI0O",
+    "order": 1733475799838,
+    "createdAt": "2024-12-06T00:19:46.000Z",
+    "publishDate": "2024-12-06T09:03:19.838Z",
+    "title": "Waymo业务将扩展到迈阿密 计划后年推出付费乘车服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-06 08:19:46",
+    "uuid": "f9cca5e9-adf4-4768-bca4-85ddedaf83c3"
   },
   {
     "newsArray": [
