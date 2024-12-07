@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "在2024数字科技生态大会主论坛上，国内单台比特数最多的超导量子计算机“天衍-504”正式发布 ...",
+    "id": "8f75GirmWPv",
+    "order": 1733536524298,
+    "createdAt": "2024-12-07T01:55:25.000Z",
+    "publishDate": "2024-12-07T01:55:24.298Z",
+    "title": "国内最大规模超导量子计算机发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-07 09:55:25",
+    "uuid": "37f5b4e4-5975-495f-886c-6210e3fef755"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "富士官方宣布售后维修系统线上服务功能已开通，并整合至富士数码影像官方公众号。用户可通过微信公众号【富士数码影像】，点击【服务】→【寄修服务】，选择产品并填写序列号及故障情况，选择就近售后网点 ...",
+    "id": "8f6KERxmPiA",
+    "order": 1733535522354,
+    "createdAt": "2024-12-07T01:38:43.000Z",
+    "publishDate": "2024-12-07T01:38:42.354Z",
+    "title": "富士售后维修系统线上服务功能开通",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-07 09:38:43",
+    "uuid": "d78ba1d0-b344-4c71-a5a2-d5d232cb7ee1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "索尼和富士两款新相机完成无线认证注册，外界猜测分别为索尼A7 V和富士一亿像素中画幅固定镜头新机 ...",
+    "id": "8f686OZkGyh",
+    "order": 1733535482503,
+    "createdAt": "2024-12-07T01:38:03.000Z",
+    "publishDate": "2024-12-07T01:38:02.503Z",
+    "title": "索尼富士两款相机完成注册 或为A7 V和一亿像素中画幅",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-07 09:38:03",
+    "uuid": "3b1aa8db-4d99-4aad-9285-6fe1c3039176"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Arm首席执行官雷内・哈斯在采访中评价英特尔当前的困境和未来的发展方向。他认为英特尔的处境令人遗憾，指出英特尔过去在垂直整合模式和无厂化模式之间摇摆不定，这是其面临的最大挑战 ...",
+    "id": "8f73GSPoVtk",
+    "order": 1733534635902,
+    "createdAt": "2024-12-07T01:23:56.000Z",
+    "publishDate": "2024-12-07T01:23:55.902Z",
+    "title": "Arm CEO 评英特尔：需破局 IDM 与 Fabless 半导体模式之困",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-07 09:23:56",
+    "uuid": "200867d8-ea07-481c-abc7-0f62ccdcf03f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "中国成功发射了“千帆星座”组网卫星，这是中国平板式卫星堆叠“一箭多星”技术的业务化应用实践。12月5日，长征六号改运载火箭将千帆极轨03组卫星一次性发射18颗卫星入预定轨道 ...",
+    "id": "8f5VWWtgvfW",
+    "order": 1733533931347,
+    "createdAt": "2024-12-07T01:12:12.000Z",
+    "publishDate": "2024-12-07T01:12:11.347Z",
+    "title": "第三批发射成功，“千帆星座”在轨卫星增至54颗",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-07 09:12:12",
+    "uuid": "895cece1-e7e3-42c2-bc32-65c4dbddab96"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "美国第九巡回上诉法院维持下级法院裁决，驳回针对苹果公司的iCloud存储付费集体诉讼。原告指控苹果误导消费者，使他们难以控制在5GB免费iCloud存储内的使用量 ...",
+    "id": "8f6XqGcrOkt",
+    "order": 1733533284428,
+    "createdAt": "2024-12-07T01:01:24.000Z",
+    "publishDate": "2024-12-07T01:01:24.428Z",
+    "title": "5GB iCloud 免费存储集体诉讼案上诉被驳，苹果胜诉",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-07 09:01:24",
+    "uuid": "504912b4-3de3-4249-8f43-74e363be15e3"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "华尔街见闻" },
