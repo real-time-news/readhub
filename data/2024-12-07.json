@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软Edge浏览器通过引入WebUI 2.0框架实现了性能显著提升，改善了运行速度和响应能力。新框架优化了元素加载过程，解决了之前JavaScript使用和代码共享对性能的制约问题 ...",
+    "id": "8f7IzeBPLx5",
+    "order": 1733545574845,
+    "createdAt": "2024-12-07T04:26:15.000Z",
+    "publishDate": "2024-12-07T04:26:14.845Z",
+    "title": "WebUI 2.0助力，微软Edge浏览器加载与响应速度大幅提升",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-07 12:26:15",
+    "uuid": "cb33cc91-ccfd-4c8f-ad2b-1ccbc0dc9e5f"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "界面" },
       { "siteName": "网易科技" }
