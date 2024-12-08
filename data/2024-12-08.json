@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "近期，全国超过20个城市调整公积金政策，主要涉及提高贷款额度、支持公积金首付和优化贷款套数认定等方面。预计未来更多城市将根据实际情况优化公积金政策。",
+    "id": "8f93c336t8M",
+    "order": 1733637119173,
+    "createdAt": "2024-12-08T05:52:00.000Z",
+    "publishDate": "2024-12-08T05:51:59.173Z",
+    "title": "超20城优化住房公积金贷款政策",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-08 13:52:00",
+    "uuid": "764b2a88-7fd1-4138-8ed2-cc576fb4539c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌发布的新AI模型PaliGemma 2具有图像分析能力，能够识别物体、生成图像描述并回答有关照片中人物的问题。该模型还能识别情感，但需要专门微调 ...",
+    "id": "8f92XHLRVLG",
+    "order": 1733637107277,
+    "createdAt": "2024-12-08T05:51:48.000Z",
+    "publishDate": "2024-12-08T05:51:47.277Z",
+    "title": "谷歌称其 PaliGemma 2 人工智能模型可识别情绪，引发专家担忧",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-08 13:51:48",
+    "uuid": "d440521e-803a-4b03-afff-874c1feaf5e8"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
       { "siteName": "DoNews" }
