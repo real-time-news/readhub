@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "蚂蚁科技集团股份有限公司获得了一项关于“隐私擦除模型的训练方法、隐私擦除方法及装置”的专利授权。该专利通过在原始训练数据和脱敏数据上训练大模型，并记录其权重，形成新的擦除数据训练集 ...",
+    "id": "8fAW9DUoCfi",
+    "order": 1733718866107,
+    "createdAt": "2024-12-09T04:34:26.000Z",
+    "publishDate": "2024-12-09T04:34:26.107Z",
+    "title": "蚂蚁集团隐私擦除模型专利获授权",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-09 12:34:26",
+    "uuid": "04253269-e8f9-4c99-b283-aa8d274ee619"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "北京代理智能科技发展有限公司近日成立，法定代表人为徐春梅，注册资本5000万人民币。该公司经营范围广泛，包括计算机系统服务、人工智能行业应用系统集成服务、网络与信息安全软件开发等 ...",
+    "id": "8fAaePWKHEd",
+    "order": 1733718843870,
+    "createdAt": "2024-12-09T04:34:03.000Z",
+    "publishDate": "2024-12-09T04:34:03.870Z",
+    "title": "南威软件在北京成立智能科技发展公司，注册资本5000万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-09 12:34:03",
+    "uuid": "a0e8c2b6-c44b-404e-81d5-c4f44b44a51c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "韩国庆州附近海域发生渔船倾覆事故，一艘载有8人的渔船与运沙船相撞后倾覆，目前已发现6人全部心肺停止，其余船员可能仍在船内，警方全力搜救。",
+    "id": "8fAJ48rT7iw",
+    "order": 1733718830283,
+    "createdAt": "2024-12-09T04:33:51.000Z",
+    "publishDate": "2024-12-09T04:33:50.283Z",
+    "title": "韩国庆州附近海域一艘渔船倾覆 6人心肺停止",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-09 12:33:51",
+    "uuid": "e4f8ebd6-1a23-44e9-b21b-350c5774b37c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子已成功研发4XX层第10代3D V-NAND闪存，并开始在位于平泽1号工厂的量产线上进行生产 ...",
+    "id": "8fAdr837uq9",
+    "order": 1733718501252,
+    "createdAt": "2024-12-09T04:28:21.000Z",
+    "publishDate": "2024-12-09T04:28:21.252Z",
+    "title": "消息称三星电子完成 4XX 层 NAND 闪存技术开发，开始向量产线转移",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-09 12:28:21",
+    "uuid": "a6dc188d-468c-443a-b23b-927aca1625df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "长歌有和（北京）科技合伙企业（有限合伙）成立，执行事务合伙人为终南远眺（西安）科技有限公司，出资额100万元人民币 ...",
+    "id": "8fAOrHm6SzC",
+    "order": 1733718393847,
+    "createdAt": "2024-12-09T04:26:34.000Z",
+    "publishDate": "2024-12-09T04:26:33.847Z",
+    "title": "董宇辉在北京成立科技合伙新企业",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-09 12:26:34",
+    "uuid": "ff4e46bd-32b7-475b-931e-a6f3d765bfdc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "优派计划在2025年初推出一款刷新率高达520Hz的27英寸OLED电竞显示器，支持VRR、1ms MPRT响应时间和AMD FreeSync Premium技术 ...",
+    "id": "8fAVIRY1qbj",
+    "order": 1733718016215,
+    "createdAt": "2024-12-09T04:20:17.000Z",
+    "publishDate": "2024-12-09T04:20:16.215Z",
+    "title": "消息称优派明年初推出 520Hz 超高刷 OLED 显示器，有望 CES 公布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-09 12:20:17",
+    "uuid": "c40a3684-4454-4a17-a504-7469ca131ed9"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "电商报" },
       { "siteName": "电商报" }
@@ -282,6 +384,24 @@
     "up": false,
     "date": "2024-12-09 11:04:59",
     "uuid": "935c6d52-58a8-44d2-9702-ef0d9da008b6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "DoNews" },
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "中核聚力兴核（北京）企业管理合伙企业（有限合伙）成立，执行事务合伙人为中国核工业集团资本控股有限公司，出资额62.5亿人民币，主要经营企业管理、企业管理咨询 ...",
+    "id": "8fAWYzKqZmV",
+    "order": 1733718477034,
+    "createdAt": "2024-12-09T02:55:11.000Z",
+    "publishDate": "2024-12-09T04:27:57.034Z",
+    "title": "中国诚通中核集团成立企管合伙企业 出资额62.5亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-09 10:55:11",
+    "uuid": "0485a07c-abcc-48c3-a022-193bbd67f616"
   },
   {
     "newsArray": [
