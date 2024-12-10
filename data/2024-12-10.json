@@ -1,6 +1,128 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "中国欧盟商会与罗兰贝格咨询公司发布报告显示，在欧中企面临的主要挑战是“不确定性”，大部分企业期望欧盟能创造公平公正的市场环境 ...",
+    "id": "8fC32xjFCYX",
+    "order": 1733819083767,
+    "createdAt": "2024-12-10T08:24:44.000Z",
+    "publishDate": "2024-12-10T08:24:43.767Z",
+    "title": "欧盟中国商会：78%受访企业认为欧盟营商环境“不确定性增高”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-10 16:24:44",
+    "uuid": "79f627b6-c014-4a9a-80a3-03d7db2b9c3f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "在2024数字物流大会上，G7易流展示了由腾讯云支持开发的对话式AI智能助手“小七”，旨在解决物流场景中的交互问题 ...",
+    "id": "8fAw4iHRm9i",
+    "order": 1733819063518,
+    "createdAt": "2024-12-10T08:24:23.000Z",
+    "publishDate": "2024-12-10T08:24:23.518Z",
+    "title": "腾讯云助力G7易流打造对话式AI助手",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-10 16:24:23",
+    "uuid": "bc181ab5-b695-4d05-847d-1aa8ad996462"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "美国零售巨头百思买通过采用自动化技术和新配送中心来优化供应链，为节日购物季提供高效物流支持 ...",
+    "id": "8fC6z7xntZO",
+    "order": 1733819016395,
+    "createdAt": "2024-12-10T08:23:36.000Z",
+    "publishDate": "2024-12-10T08:23:36.395Z",
+    "title": "百思买优化供应链自动化水平，扩大假日季配送网络",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-10 16:23:36",
+    "uuid": "3d8825d1-897b-4adf-bbb6-d658997adb76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "宁德时代宣布与Stellantis集团达成协议，将在西班牙共同投资成立一家合资公司，各持股权50% ...",
+    "id": "8fCYqqQwRuh",
+    "order": 1733817854060,
+    "createdAt": "2024-12-10T08:04:14.000Z",
+    "publishDate": "2024-12-10T08:04:14.060Z",
+    "title": "宁德时代：与Stellantis拟共同在西班牙出资成立合资公司",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-10 16:04:14",
+    "uuid": "4941e6c1-6786-49aa-851b-49548a20e170"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "预计到2025年，中小尺寸OLED（1~8英寸）的出货量将首次超过10亿台，涵盖了智能手机、智能手表等多种产品 ...",
+    "id": "8fCMKG90z7G",
+    "order": 1733817836370,
+    "createdAt": "2024-12-10T08:03:56.000Z",
+    "publishDate": "2024-12-10T08:03:56.370Z",
+    "title": "Omdia：预计 2025 年中小尺寸 OLED 出货量首次超过 10 亿台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-10 16:03:56",
+    "uuid": "937ae048-6c0e-4d50-aee4-6c34d7fc9c6f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "xAI 面向X高级订阅用户开放了Aurora文生图AI模型，该模型能快速生成更真实的图片，但暂不具备长宽比定制和参考图生成功能 ...",
+    "id": "8fCS3f3h5KZ",
+    "order": 1733817829758,
+    "createdAt": "2024-12-10T08:03:49.000Z",
+    "publishDate": "2024-12-10T08:03:49.758Z",
+    "title": "X 向 Premium 用户开放 Aurora 文生图 AI 模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-10 16:03:49",
+    "uuid": "23100ccf-8832-4f17-a2ac-65d3a5d02d3b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "在中英汽车合作论坛上，外方人士强调英国汽车业应加强与中国的合作，以促进低碳转型 ...",
+    "id": "8fAyewpEnVs",
+    "order": 1733817775496,
+    "createdAt": "2024-12-10T08:02:55.000Z",
+    "publishDate": "2024-12-10T08:02:55.496Z",
+    "title": "英国业界人士：英国汽车行业应加强与中国合作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-10 16:02:55",
+    "uuid": "44cd0707-d335-47d0-b6f0-ee1b0158f73f"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
