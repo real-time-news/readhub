@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司正在研发Apple Watch的血压监测功能，计划在2025年推出。该功能主要用于追踪血压上升趋势并发出警报，有助于早期发现高血压问题 ...",
+    "id": "8fDan9Xsm24",
+    "order": 1733873557125,
+    "createdAt": "2024-12-10T23:32:37.000Z",
+    "publishDate": "2024-12-10T23:32:37.125Z",
+    "title": "古尔曼：苹果正加紧开发 Apple Watch 血压监测功能，最早明年推出",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 07:32:37",
+    "uuid": "03bb64a6-b055-4859-bd40-fcb01bccaa04"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "OpenAI最近推出了一系列人工智能新产品和功能。其中，视频生成工具Sora和交互界面Canvas备受关注 ...",
+    "id": "8fDXajUQaNL",
+    "order": 1733873546654,
+    "createdAt": "2024-12-10T23:32:26.000Z",
+    "publishDate": "2024-12-10T23:32:26.654Z",
+    "title": "OpenAI免费开放Canvas，支持Python编码，可整合到定制GPT当中",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 07:32:26",
+    "uuid": "d2704c56-d6de-4984-899f-92f308d3660a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "智通财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "通用汽车宣布将不再为旗下Cruise的机器人出租车项目提供资金，转而将重点放在高级驾驶辅助系统和自动驾驶个人车辆上 ...",
+    "id": "8fDUkJ0pgFa",
+    "order": 1733873497753,
+    "createdAt": "2024-12-10T23:26:49.000Z",
+    "publishDate": "2024-12-10T23:31:37.753Z",
+    "title": "通用汽车停止资助Cruise开发自动驾驶出租车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 07:26:49",
+    "uuid": "fbe9f53c-44a7-4222-afdf-515fc70ccb7a"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "网易科技" }
