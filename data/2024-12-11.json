@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "OpenAI发布了最新功能Canvas，它是一个内置在ChatGPT中的独立窗口，用于编程和写作任务，能提供意见、审核和执行功能 ...",
+    "id": "8fDZNusjzx6",
+    "order": 1733872581080,
+    "createdAt": "2024-12-10T23:16:21.000Z",
+    "publishDate": "2024-12-10T23:16:21.080Z",
+    "title": "OpenAI发布Canvas，ChatGPT新增史诗级功能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 07:16:21",
+    "uuid": "e2189bf3-d54d-448c-9594-8955f591eb91"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "商汤公告与配售代理签订配售协议，计划配售18.65亿股，配售价格1.50港元，较市价折价6.3%，预计筹资27.87亿港元，主要用于支持公司核心业务发展。",
+    "id": "8fCxrZHd9sd",
+    "order": 1733872289757,
+    "createdAt": "2024-12-10T23:11:29.000Z",
+    "publishDate": "2024-12-10T23:11:29.757Z",
+    "title": "商汤：拟折价6.3%配售18.65亿股股份，筹资27.87亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 07:11:29",
+    "uuid": "3f2e3ac3-d383-49f6-b845-64608c9d3468"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "夏普计划于2025年度在日本堺工厂旧址全面启动AI数据中心，并与KDDI及软银就设立数据中心进行磋商。此外，夏普正与四家企业推进成立运营公司和采购GPU的协调工作。",
+    "id": "8fD0LSeiF15",
+    "order": 1733872093109,
+    "createdAt": "2024-12-10T23:08:13.000Z",
+    "publishDate": "2024-12-10T23:08:13.109Z",
+    "title": "夏普与KDDI就2025年度启动AI数据中心达成共识",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 07:08:13",
+    "uuid": "56b49d84-20fa-488a-a3f7-2fe1c3766530"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "魅族可能推出魅族22系列新机，搭载骁龙8至尊版，采用白色面板，支持车机互联。一加13国际版在GeekBench跑分平台表现出色 ...",
+    "id": "8fCfHFktg2S",
+    "order": 1733871676267,
+    "createdAt": "2024-12-10T23:01:16.000Z",
+    "publishDate": "2024-12-10T23:01:16.267Z",
+    "title": "早报：魅族22系列配置曝光 一加13国际版现身跑分平台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 07:01:16",
+    "uuid": "9f75e64d-0094-4dab-a532-acd11217af72"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
