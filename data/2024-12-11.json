@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日本11月企业物价指数同比上涨3.7%，达到2023年7月以来最高增幅，主要由大米价格上涨推动 ...",
+    "id": "8fDekZLTYbp",
+    "order": 1733903756167,
+    "createdAt": "2024-12-11T07:55:57.000Z",
+    "publishDate": "2024-12-11T07:55:56.167Z",
+    "title": "日本企业物价指数创17个月来同比最大增幅",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 15:55:57",
+    "uuid": "13c12261-6b49-4386-838d-cc14eac7e7c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "酷特智能正在与华为合作研发酷特AI Agents 2.0版本，以升级后的企业级操作系统为基础，借助盘古大模型、鲲鹏+昇腾算力等先进技术，目标是将其打造成为普适的数智化工具和帮手 ...",
+    "id": "8fECt2CfHoz",
+    "order": 1733903722031,
+    "createdAt": "2024-12-11T07:55:23.000Z",
+    "publishDate": "2024-12-11T07:55:22.031Z",
+    "title": "酷特智能：和华为共同打造的酷特AI Agents 2.0版本正在研发中",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 15:55:23",
+    "uuid": "806a7416-5b08-4618-9adc-2d64bcfb163f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2024年1-11月，中国充电基础设施增量达到375.6万台，同比增长23.0% ...",
+    "id": "8fECt6HZsiU",
+    "order": 1733903715547,
+    "createdAt": "2024-12-11T07:55:16.000Z",
+    "publishDate": "2024-12-11T07:55:15.547Z",
+    "title": "中国充电联盟：1-11月充电基础设施增量为375.6万台，同比上升23%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 15:55:16",
+    "uuid": "d4aa4c7f-fe71-4566-948d-cbe4c92a14bf"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "太平洋电脑网" }
