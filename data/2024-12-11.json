@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "秦山核电宣布成为国内首个实现厂区5G专网全覆盖的核电基地，也是全国规模最大的电力5G专网，站在了核电数字化转型的前沿。",
+    "id": "8fCpIYk6pVV",
+    "order": 1733886810234,
+    "createdAt": "2024-12-11T03:13:30.000Z",
+    "publishDate": "2024-12-11T03:13:30.234Z",
+    "title": "全国规模最大电力5G专网在秦山核电建成上线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 11:13:30",
+    "uuid": "f2fd89f8-6edc-434c-822d-a94572b734e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小鹏P7+在上市四周时间内，完成10000台小鹏P7+正式交付。",
+    "id": "8fChr5AcUg0",
+    "order": 1733886311166,
+    "createdAt": "2024-12-11T03:05:11.000Z",
+    "publishDate": "2024-12-11T03:05:11.166Z",
+    "title": "小鹏汽车：小鹏P7+上市累计交付突破10000台",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 11:05:11",
+    "uuid": "751602b1-378d-451a-86fa-75afd0c3bada"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "香港大公文汇传媒集团记者：对于美方可能会要求台积电将先进制程转移到美国，民进党当局日前称，“迟早会在美国生产”，并证实台积电明年第一季度董事会将移师美国 ...",
+    "id": "8fDrxeJIN2m",
+    "order": 1733886235192,
+    "createdAt": "2024-12-11T03:03:55.000Z",
+    "publishDate": "2024-12-11T03:03:55.192Z",
+    "title": "国台办回应美方要求台积电先进制程移美：台湾相关产业优势势必遭到削弱",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 11:03:55",
+    "uuid": "ab6d56a3-d5da-4f8f-beaa-6a671602f0ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "南方周末" },
+      { "siteName": "第一财经" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "中国足协原秘书长刘奕因受贿被判刑11年，并被处以罚金360万元人民币，相关受贿所得财物将依法追缴上交国库。",
+    "id": "8fChPnxyK0d",
+    "order": 1733886128413,
+    "createdAt": "2024-12-11T03:02:08.000Z",
+    "publishDate": "2024-12-11T03:02:08.413Z",
+    "title": "中国足协原秘书长刘奕因受贿获刑11年",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 11:02:08",
+    "uuid": "864f7b49-8451-449f-b740-3533875a01b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "苹果公司在新款iPad Pro中引入OLED显示屏技术，市场预测未来几年iPad产品线和Mac产品线将逐步采用OLED显示技术，这将为用户带来更优质的视觉体验，推动电子设备市场向高质量、高技术含量方向发展。",
+    "id": "8fChqjCPVSJ",
+    "order": 1733885576401,
+    "createdAt": "2024-12-11T02:52:57.000Z",
+    "publishDate": "2024-12-11T02:52:56.401Z",
+    "title": "苹果OLED屏iPad系列将迎新变革，iPad mini或于2026年率先登场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:52:57",
+    "uuid": "cffb95c2-ab56-40b3-804d-26477b77e0a0"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
