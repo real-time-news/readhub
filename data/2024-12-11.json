@@ -1,6 +1,179 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "IBM公司解决了图形处理单元（GPU）成本高、供应有限以及常处于空闲状态的问题，通过将光学元件与电子芯片集成在一个封装内的新工艺，实现了数据中心内设备的光速连接 ...",
+    "id": "8fBP5NbAfp1",
+    "order": 1733879285816,
+    "createdAt": "2024-12-11T01:08:05.000Z",
+    "publishDate": "2024-12-11T01:08:05.816Z",
+    "title": "IBM 大力推广光纤技术，称可将 AI 训练时间和能源消耗减少 80%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 09:08:05",
+    "uuid": "0e8562bb-3941-4fd4-bb1e-46c33ccb9126"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "券商给出买入评级的12只个股中，海象新材以88.1%的目标涨幅领先，龙净环保和康冠科技紧随其后。其中，4只个股评级未变，8只为首次评级 ...",
+    "id": "8fDi13GEtvL",
+    "order": 1733879258052,
+    "createdAt": "2024-12-11T01:07:38.000Z",
+    "publishDate": "2024-12-11T01:07:38.052Z",
+    "title": "12股获券商买入评级，海象新材目标涨幅达88.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 09:07:38",
+    "uuid": "a8f00256-1004-4ca1-89fa-b0b34c09835f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "面壁智能近日完成新一轮数亿元融资，投资方包括龙芯创投、鼎晖百孚、中关村科学城基金、赛富基金、北京市人工智能产业投资基金与清科创投，万甲资本担任财务顾问 ...",
+    "id": "8fDiu1A1lUg",
+    "order": 1733879165521,
+    "createdAt": "2024-12-11T01:06:05.000Z",
+    "publishDate": "2024-12-11T01:06:05.521Z",
+    "title": "面壁智能获新一轮数亿元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 09:06:05",
+    "uuid": "21262d4c-7333-4ac6-bed7-72e5ddeda519"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "近期，我国REITs市场迎来新品首发热潮，多家公募基金公司争相布局，其中不乏数家头部机构和中小型公司 ...",
+    "id": "8fDeaVxVvcg",
+    "order": 1733879150693,
+    "createdAt": "2024-12-11T01:05:50.000Z",
+    "publishDate": "2024-12-11T01:05:50.693Z",
+    "title": "新玩家跑步进场，今年REITs产品新发数量和规模均创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 09:05:50",
+    "uuid": "7762f73a-22d2-4c83-b9cc-ccbabfe92ebb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "近期，华泰柏瑞红利ETF和华泰柏瑞红利低波ETF规模分别突破200亿元和100亿元，使红利主题ETF总规模超过840亿元 ...",
+    "id": "8fDe1a0BVnP",
+    "order": 1733879037740,
+    "createdAt": "2024-12-11T01:03:57.000Z",
+    "publishDate": "2024-12-11T01:03:57.740Z",
+    "title": "高股息信仰卷土重来，红利主题ETF“增重”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 09:03:57",
+    "uuid": "9e68c83e-d41b-498c-bce8-b0a3bfe4ebcb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "央企在资本市场上持续优化其上市平台布局，以更好地服务国家重大战略。2024年底成为其调整盘活上市公司的关键节点 ...",
+    "id": "8fDeaRtjjFR",
+    "order": 1733878938237,
+    "createdAt": "2024-12-11T01:02:18.000Z",
+    "publishDate": "2024-12-11T01:02:18.237Z",
+    "title": "服务国家重大战略 央企“揽A”现新气象",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 09:02:18",
+    "uuid": "b8bb2f6b-86e4-4273-bd3c-2a49b1a928b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "本田宣布将终止与通用汽车的自动驾驶汽车合作，包括出售Cruise股份和取消2026年起在东京联合推出自动驾驶出租车业务计划 ...",
+    "id": "8fDTK41bSUx",
+    "order": 1733878314469,
+    "createdAt": "2024-12-11T00:51:54.000Z",
+    "publishDate": "2024-12-11T00:51:54.469Z",
+    "title": "本田据悉将与通用汽车终止自动驾驶合作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 08:51:54",
+    "uuid": "e3af42d0-92c9-430c-9d34-a77995d46263"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "根据Counterpoint Research的最新报告，2024年第三季度全球半导体市场显著回暖，主要受人工智能技术强劲需求和内存市场复苏的推动，收入达1582亿美元，同比增长17% ...",
+    "id": "8fDeNUl9BLG",
+    "order": 1733878214310,
+    "createdAt": "2024-12-11T00:50:14.000Z",
+    "publishDate": "2024-12-11T00:50:14.310Z",
+    "title": "2024Q3全球半导体市场回暖，三星领跑收入榜单，英伟达SK海力士大增",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 08:50:14",
+    "uuid": "d594f64b-55f0-4fe3-ae72-07f0ef3a0631"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "OPPO法务部官微转发最高检案件通报，宣布OPPO与警方合作，成功打击一起新型诈骗犯罪，涉案者杨某等人通过制造手机故障换取新机，骗取大量手机及金额 ...",
+    "id": "8fCm8SF8sN1",
+    "order": 1733878202702,
+    "createdAt": "2024-12-11T00:50:02.000Z",
+    "publishDate": "2024-12-11T00:50:02.702Z",
+    "title": "人为破坏手机主板骗取新机获利，OPPO 联合警方击破新型诈骗",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 08:50:02",
+    "uuid": "fb4289c2-f2b8-4c3f-91be-e222c56c70fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "银河证券认为，在宏观政策加强的背景下，银行信贷增长得到支持，负债成本优化对银行息差构成支撑。同时，银行资产质量和风险预期将受益于风险防范和化解 ...",
+    "id": "8fDhAdRJtVC",
+    "order": 1733877737680,
+    "createdAt": "2024-12-11T00:42:17.000Z",
+    "publishDate": "2024-12-11T00:42:17.680Z",
+    "title": "银河证券：银行经营基本面积极因素积累，继续看好板块配置价值",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 08:42:17",
+    "uuid": "6745eff3-218b-4c6a-9d91-ae883804f68a"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
