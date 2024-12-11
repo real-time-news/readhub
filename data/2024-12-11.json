@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "古茗控股有限公司通过IPO备案，为在港交所上市铺平道路，蜜雪冰城也向港交所发起冲刺。古茗控股拥有9001家门店，蜜雪冰城则有超36000家 ...",
+    "id": "8fC5BD9ffpx",
+    "order": 1733894228472,
+    "createdAt": "2024-12-11T05:17:09.000Z",
+    "publishDate": "2024-12-11T05:17:08.472Z",
+    "title": "古茗控股IPO备案成功，门店近万家，9月营收超55亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 13:17:09",
+    "uuid": "21932161-9c3c-4c03-925c-7ce9a42f036e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司获得了一项折叠屏铰链设计专利，该设计采用指状物和月牙槽结构，提高了折叠效果和耐用性，并可应用于多种设备，包括手机、平板电脑、笔记本电脑和手表等。",
+    "id": "8fDvWuuDalh",
+    "order": 1733894067985,
+    "createdAt": "2024-12-11T05:14:28.000Z",
+    "publishDate": "2024-12-11T05:14:27.985Z",
+    "title": "苹果新铰链设计专利公示，让折叠 iPhone / iPad 更灵活、更耐用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 13:14:28",
+    "uuid": "97e56ec6-be91-444b-8bb3-8898fa63902d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "DeepSeek AI 发布了 DeepSeek V2.5 最终版微调模型 DeepSeek-V2.5-1210，此版本是对 V2 系列的最后一次更新 ...",
+    "id": "8fDu1PxEs1A",
+    "order": 1733894064801,
+    "createdAt": "2024-12-11T05:14:24.000Z",
+    "publishDate": "2024-12-11T05:14:24.801Z",
+    "title": "深度求索宣布 DeepSeek V2 系列收官，联网搜索上线官网",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 13:14:24",
+    "uuid": "33405cde-d529-4091-b68a-02b2201e91ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2024年中国电子竞技产业实际收入275.68亿元，同比增长4.6%。其中，电竞内容直播收入占比最高，达80.84%，赛事收入占比8.75%，电竞俱乐部收入为6.37%，其他收入为4.04%。",
+    "id": "8fE02AqQhTr",
+    "order": 1733893788368,
+    "createdAt": "2024-12-11T05:09:48.000Z",
+    "publishDate": "2024-12-11T05:09:48.368Z",
+    "title": "2024年电竞产业同比增长4.6%，电竞内容直播收入占比最高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 13:09:48",
+    "uuid": "f270e308-390e-4102-b01f-3a8c3fb7bb3c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "一项研究表明，电动汽车的实际使用寿命长于预期，这意味着车主在几年内可能无需更换电池或购买新车 ...",
+    "id": "8fCYTmuT0ow",
+    "order": 1733893775195,
+    "createdAt": "2024-12-11T05:09:35.000Z",
+    "publishDate": "2024-12-11T05:09:35.195Z",
+    "title": "电动汽车电池寿命长于预期 未来无需频繁换电池",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 13:09:35",
+    "uuid": "32c37dc5-ef46-4b43-9b10-32825664409f"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "电商报" },
       { "siteName": "界面" }
@@ -749,6 +834,24 @@
     "up": false,
     "date": "2024-12-11 09:02:18",
     "uuid": "b8bb2f6b-86e4-4273-bd3c-2a49b1a928b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "我国成功发射了“吉林一号”高分05B卫星，主要用于验证高分辨率成像、高速星地激光数传和电推进轨道维持等关键技术 ...",
+    "id": "8fDJ9cUkH69",
+    "order": 1733894318015,
+    "createdAt": "2024-12-11T00:58:45.000Z",
+    "publishDate": "2024-12-11T05:18:38.015Z",
+    "title": "全球首次：中国的磁阳极霍尔电推成功在轨应用",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 08:58:45",
+    "uuid": "8d8d8646-79ea-429c-81ba-b642d11dc834"
   },
   {
     "newsArray": [
