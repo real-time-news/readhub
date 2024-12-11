@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "加拿大中央银行降息50个基点，将政策利率从3.75%降至3.25%。",
+    "id": "8fEgLD63DW4",
+    "order": 1733928820756,
+    "createdAt": "2024-12-11T14:53:40.000Z",
+    "publishDate": "2024-12-11T14:53:40.756Z",
+    "title": "加拿大央行宣布降息50个基点",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 22:53:40",
+    "uuid": "17432bc6-2689-4da1-ade1-b12f1c8f4faa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "爱范儿" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "苹果公司计划在未来几年为智能手表引入卫星连接功能，并开发血压监测功能，以吸引更多消费者升级设备 ...",
+    "id": "8fENbx9b7Gn",
+    "order": 1733928781158,
+    "createdAt": "2024-12-11T14:53:01.000Z",
+    "publishDate": "2024-12-11T14:53:01.158Z",
+    "title": "卫星通信+血压监测，据称Apple Watch将迎重磅升级",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 22:53:01",
+    "uuid": "d123b796-f596-45b6-8431-2db61b1f14b4"
+  },
+  {
+    "newsArray": [
       { "siteName": "中证网" },
       { "siteName": "证券时报网" },
       { "siteName": "第一财经" }
@@ -265,6 +302,27 @@
     "up": false,
     "date": "2024-12-11 21:03:03",
     "uuid": "99ef2846-d63f-40a3-8b4d-1f65287524ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "上海市科学技术委员会发布行动方案，旨在2025至2027年间促进科学仪器和科研试剂的创新发展 ...",
+    "id": "8fEWKvxRw7u",
+    "order": 1733928797334,
+    "createdAt": "2024-12-11T12:56:09.000Z",
+    "publishDate": "2024-12-11T14:53:17.334Z",
+    "title": "上海：到2027年科学仪器和科研试剂产业产值达到450亿元左右",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 20:56:09",
+    "uuid": "e0af20ac-7143-4b48-a18f-5eed0f105ae8"
   },
   {
     "newsArray": [
