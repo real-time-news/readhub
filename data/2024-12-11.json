@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "苹果公司推出了包括iPhone、iPad和Mac在内的软件更新，其中引人注目的是集成了ChatGPT的Siri。当用户提出复杂问题时，Siri会调用ChatGPT来回答 ...",
+    "id": "8fEad1MnnPz",
+    "order": 1733923545432,
+    "createdAt": "2024-12-11T13:25:46.000Z",
+    "publishDate": "2024-12-11T13:25:45.432Z",
+    "title": "苹果推出与ChatGPT融合的Siri",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 21:25:46",
+    "uuid": "d3309b40-a675-4d1f-b985-0c8e07e26f61"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "福光股份公告，公司三股东计划通过集中竞价、大宗交易方式减持不超过300万股，占总股本1.87%。减持计划将在公告披露15个交易日后的3个月内实施。",
+    "id": "8fEXlJ8UXbx",
+    "order": 1733922948526,
+    "createdAt": "2024-12-11T13:15:48.000Z",
+    "publishDate": "2024-12-11T13:15:48.526Z",
+    "title": "福光股份：股东拟合计减持不超1.87%公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 21:15:48",
+    "uuid": "cd402a22-e023-4633-8530-4102179df581"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "世界气象组织预测，从2024年12月至2025年2月，出现拉尼娜现象的概率为55%，目前状态为非厄尔尼诺也非拉尼娜。预计此次拉尼娜现象较弱且持续时间短。",
+    "id": "8fEKBQ2VhXv",
+    "order": 1733922692886,
+    "createdAt": "2024-12-11T13:11:32.000Z",
+    "publishDate": "2024-12-11T13:11:32.886Z",
+    "title": "世界气象组织：未来三个月出现拉尼娜现象的可能性过半",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 21:11:32",
+    "uuid": "8898ee88-59d9-4e5b-a179-00d8e4683da7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "波罗的海干散货指数（BDI）报1156点，为2023年9月7日以来最低水平，较前值跌1.03%，创3天最大跌幅 ...",
+    "id": "8fCv8U6uUJP",
+    "order": 1733922896982,
+    "createdAt": "2024-12-11T13:04:59.000Z",
+    "publishDate": "2024-12-11T13:14:56.982Z",
+    "title": "一张图：波罗的海指数因船舶运费下跌而跌至 15 个月低点",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 21:04:59",
+    "uuid": "986f56c9-ba28-4867-9f46-3dae2e290772"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "36Kr" },
       { "siteName": "腾讯网" }
