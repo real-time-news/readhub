@@ -1,6 +1,143 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "智通财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "香港新股市场在下半年迎来多家龙头企业上市，包括美的集团，使得全年新股集资额预计达到829亿港元，排名提升至第四位 ...",
+    "id": "8fE4JZCQlqR",
+    "order": 1733897713665,
+    "createdAt": "2024-12-11T06:15:13.000Z",
+    "publishDate": "2024-12-11T06:15:13.665Z",
+    "title": "毕马威：料明年香港IPO集资额保持头五位",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 14:15:13",
+    "uuid": "f3fb20b8-ece6-450f-a53f-e3cdb38ed3c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "旅游及酒店板块活跃，西安饮食连续涨停，西安旅游涨幅超5%，同庆楼、君亭酒店、曲江文旅、华天酒店等股票跟随上涨。",
+    "id": "8fE5B9QTwN0",
+    "order": 1733897707366,
+    "createdAt": "2024-12-11T06:15:08.000Z",
+    "publishDate": "2024-12-11T06:15:07.366Z",
+    "title": "旅游及酒店板块反复活跃",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 14:15:08",
+    "uuid": "02e69e19-058b-43bf-85d3-010495941676"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "根据Canalys的最新预测，全球生成式人工智能市场在未来五年内有望增长五倍，应用领域主要集中在消费类、企业服务、零售业、媒体娱乐和医疗保健业。",
+    "id": "8fE5BbN7SKt",
+    "order": 1733897418349,
+    "createdAt": "2024-12-11T06:10:19.000Z",
+    "publishDate": "2024-12-11T06:10:18.349Z",
+    "title": "机构：预计2029年生成式AI市场规模达728亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 14:10:19",
+    "uuid": "18b5d4e1-cbb7-4d3f-ba2c-6eba213cd8c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "今年前述时间内，去哪儿平台旅客购买首张机票数同比增长41%，尤其以上海、北京等地区和青少年群体增幅突出 ...",
+    "id": "8fDr2QbmLY7",
+    "order": 1733897362020,
+    "createdAt": "2024-12-11T06:09:22.000Z",
+    "publishDate": "2024-12-11T06:09:22.020Z",
+    "title": "去哪儿：今年以来购买人生第一张机票旅客同比增长41%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 14:09:22",
+    "uuid": "70252c9f-c8c5-4f61-b43b-a1eff0d6e032"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "微软成立新部门，专注于消费者人工智能健康业务。",
+    "id": "8fE1cbrFchs",
+    "order": 1733897293559,
+    "createdAt": "2024-12-11T06:08:14.000Z",
+    "publishDate": "2024-12-11T06:08:13.559Z",
+    "title": "微软成立新的消费者人工智能健康业务部门",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 14:08:14",
+    "uuid": "cbee1de7-dc12-41e7-8bb5-c0d6a6b3fca3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在庆祝佳能“1”系列35周年活动上，佳能宣布EOS系列相机全球销量突破1亿台。此外，佳能计划于2025年根据C2PA标准升级固件，以增强图像真实性校验，防止图像篡改和AI生成假图 ...",
+    "id": "8fDtO1K7PsK",
+    "order": 1733897221247,
+    "createdAt": "2024-12-11T06:07:02.000Z",
+    "publishDate": "2024-12-11T06:07:01.247Z",
+    "title": "佳能 EOS 系列相机全球销量超 1 亿台，明年将推 AI 假图校验固件更新",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 14:07:02",
+    "uuid": "b50ffff4-d076-4d77-bcca-774409b58656"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "佳能美国宣布将为EOS R50、EOS R10和EOS R7相机推出付费的自定义网格线功能，名为Cropping Guide，专注于人像拍摄，适用于影楼等专业场景 ...",
+    "id": "8fDtNyRI7vf",
+    "order": 1733897208899,
+    "createdAt": "2024-12-11T06:06:49.000Z",
+    "publishDate": "2024-12-11T06:06:48.899Z",
+    "title": "佳能美国推出相机付费功能：针对人像拍摄，120 美元解锁定制网格线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 14:06:49",
+    "uuid": "8271b5b8-f371-4854-a059-269dd0292793"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "密歇根大学研究团队开发了一种新型固态存储器，能在超过600°C的高温下存储和重写信息，解决了传统硅基存储器在高温下无法正常工作的问题 ...",
+    "id": "8fDqVrL5nEY",
+    "order": 1733897056444,
+    "createdAt": "2024-12-11T06:04:16.000Z",
+    "publishDate": "2024-12-11T06:04:16.444Z",
+    "title": "密歇根大学研发出新型固态存储器，可耐受 600°C 极端高温",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 14:04:16",
+    "uuid": "109c6278-fa1f-439d-8da2-56a7ac5da473"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "界面" },
       { "siteName": "ITBear科技资讯" }
@@ -725,6 +862,24 @@
     "up": false,
     "date": "2024-12-11 10:23:57",
     "uuid": "5bf274db-3518-4ebc-94ec-542a7c4a3b27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "中公教育科技股份有限公司公告称，因公司创始人李永新及法定代表人王振东未能按时偿还融资债务，二人所持有的股份被司法再冻结 ...",
+    "id": "8fDcakPpuD9",
+    "order": 1733897204915,
+    "createdAt": "2024-12-11T02:17:01.000Z",
+    "publishDate": "2024-12-11T06:06:44.915Z",
+    "title": "中公教育：因未能在约定期限内偿还融资债务，创始人李永新部分股份被司法再冻结",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:17:01",
+    "uuid": "9ec387dd-f0b2-4851-b6f6-c05eeaaf5d1a"
   },
   {
     "newsArray": [
