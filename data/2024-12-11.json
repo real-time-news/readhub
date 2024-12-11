@@ -1,6 +1,162 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "2024年深圳第49周二手房成交量环比增长12.6%，达2390套，创近200周新高。该数据为二手房买卖合同发起时间的统计，非最终成交套数。",
+    "id": "8fDpT2xo7TL",
+    "order": 1733884690861,
+    "createdAt": "2024-12-11T02:38:10.000Z",
+    "publishDate": "2024-12-11T02:38:10.861Z",
+    "title": "深圳二手房录得量创3年多来单周最高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:38:10",
+    "uuid": "b44361e7-1343-487a-bef0-4c91d91f8078"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "网络安全公司Cleafy发现名为DroidBot的安卓远程访问木马，黑客通过伪造Chrome浏览器和银行应用进行传播，针对英国等五国77家银行客户 ...",
+    "id": "8fCqLGUNKu8",
+    "order": 1733884177620,
+    "createdAt": "2024-12-11T02:29:38.000Z",
+    "publishDate": "2024-12-11T02:29:37.620Z",
+    "title": "安卓木马 DroidBot 曝光，包装成仿冒软件瞄准 77 家海外银行客户下手",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:29:38",
+    "uuid": "e506a332-6f66-42e0-a1f9-28344fbd3111"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软正在Windows 11上测试Copilot应用的新更新，虽然被称为“原生”应用，但实际上仍然主要依赖网页，与之前版本没有本质区别 ...",
+    "id": "8fDknWShpMz",
+    "order": 1733884121097,
+    "createdAt": "2024-12-11T02:28:41.000Z",
+    "publishDate": "2024-12-11T02:28:41.097Z",
+    "title": "微软为 Win11 推出“原生”Copilot 应用，但本质仍是一个网页",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:28:41",
+    "uuid": "efd3de2a-7d46-4fd2-8959-7bddf13fa7a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "港股黄金股在12月11日多数上涨，其中招金矿业和灵宝黄金涨幅超过4%，中国黄金国际和复兴亚洲涨近3%，山东黄金涨幅超过2%。",
+    "id": "8fDnAiGTHry",
+    "order": 1733883937781,
+    "createdAt": "2024-12-11T02:25:37.000Z",
+    "publishDate": "2024-12-11T02:25:37.781Z",
+    "title": "港股黄金股多数走强，招金矿业、灵宝黄金涨超4%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:25:37",
+    "uuid": "ba5f0919-e0af-41e3-8574-bc884c3a7522"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AI初创公司Artisan在旧金山投放广告，提出“停止雇佣人类”的口号，引发争议 ...",
+    "id": "8fDp5C38392",
+    "order": 1733883837500,
+    "createdAt": "2024-12-11T02:23:57.000Z",
+    "publishDate": "2024-12-11T02:23:57.500Z",
+    "title": "硅谷公司在旧金山街头投放争议性广告：“停止雇佣人类”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:23:57",
+    "uuid": "5bf274db-3518-4ebc-94ec-542a7c4a3b27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "香港特区行政长官李家超表示，特区政府长期计划建立药监局，与内地合作发挥临床试验优势。",
+    "id": "8fDlAutoudm",
+    "order": 1733883333927,
+    "createdAt": "2024-12-11T02:15:33.000Z",
+    "publishDate": "2024-12-11T02:15:33.927Z",
+    "title": "李家超：香港特区政府希望未来设立药监局",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:15:33",
+    "uuid": "1cb3287b-34b1-42b8-9ef1-0ae120853d44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "上汽通用五菱宣布成功研发并下线首台第四代十合一DHT样机，展示了在混合动力技术领域的最新进展。这款DHT产品具有高集成度、轻量化、高功率密度等特点，并针对市场需求推出了三款不同型号 ...",
+    "id": "8fCh3HJYmqI",
+    "order": 1733883305718,
+    "createdAt": "2024-12-11T02:15:05.000Z",
+    "publishDate": "2024-12-11T02:15:05.718Z",
+    "title": "全球首创电磁式DHT：五菱第四代十合一混动专用变速箱样机下线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:15:05",
+    "uuid": "7ef6282d-8b64-4bdf-bfef-44eb45250b9e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "鹰眼智慧中医公司宣布解散，员工们表示之前已经拖欠了四个月工资。公司运营主体为北京鹰之眼智能健康科技有限公司，是上市公司江山控股旗下 ...",
+    "id": "8fDnesKgCE9",
+    "order": 1733883867432,
+    "createdAt": "2024-12-11T02:10:09.000Z",
+    "publishDate": "2024-12-11T02:24:27.432Z",
+    "title": "江山控股旗下的 AI 医疗企业宣布解散，全体员工解聘",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:10:09",
+    "uuid": "ed46d582-71f4-425b-ac37-5fd222c533d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "博苑股份是一家主要从事有机碘化物、无机碘化物、贵金属催化剂、发光材料等产品研发、生产和销售的公司，同时提供贵金属催化剂、六甲基二硅氮烷等加工服务，还涉足含碘、贵金属等物料的回收利用业务 ...",
+    "id": "8fDdJ0pgDbx",
+    "order": 1733882858624,
+    "createdAt": "2024-12-11T02:07:38.000Z",
+    "publishDate": "2024-12-11T02:07:38.624Z",
+    "title": "创业板新股博苑股份上市首日大幅高开，现涨超220%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 10:07:38",
+    "uuid": "b7fb8b94-5120-4c0d-9708-75b0f4a67bca"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "aibase" },
       { "siteName": "牛透社" }
@@ -85,6 +241,24 @@
     "up": false,
     "date": "2024-12-11 09:03:57",
     "uuid": "9e68c83e-d41b-498c-bce8-b0a3bfe4ebcb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软更新了iPad版Teams应用，现支持外接摄像头，改善视频会议体验。用户可通过USB-C接口连接兼容摄像头，获取更高分辨率和动态范围的图像，并选择更合适的摄像头角度 ...",
+    "id": "8fDf5qFmdzt",
+    "order": 1733883593840,
+    "createdAt": "2024-12-11T01:03:08.000Z",
+    "publishDate": "2024-12-11T02:19:53.840Z",
+    "title": "iPad 版微软 Teams 应用已支持外接摄像头功能，提升视频会议体验",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-11 09:03:08",
+    "uuid": "ba9639de-f6c7-4ede-9178-9f68cd1094c5"
   },
   {
     "newsArray": [
