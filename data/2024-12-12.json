@@ -1,6 +1,125 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "投资圈" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "“众智维科技”近日完成数千万B1轮融资，投资方为广州白云金融控股集团有限公司和泓沣北京私募基金管理有限公司 ...",
+    "id": "8fFSxGoMYJf",
+    "order": 1733974954743,
+    "createdAt": "2024-12-12T03:42:35.000Z",
+    "publishDate": "2024-12-12T03:42:34.743Z",
+    "title": "“众智维科技”完成数千万B1轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-12 11:42:35",
+    "uuid": "d8a09bfd-a962-48b5-ab04-baaa0b93794f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "大疆可能在2025年夏季推出重量低于249克的Mini 5或Mini 5 Pro无人机，该款无人机将配备前置避障传感器，可能是激光雷达，以提高飞行安全性 ...",
+    "id": "8fFV4aQISm1",
+    "order": 1733974798100,
+    "createdAt": "2024-12-12T03:39:59.000Z",
+    "publishDate": "2024-12-12T03:39:58.100Z",
+    "title": "大疆 Mini 5 / Pro 无人机首曝：重 249 克以下，集成激光雷达、通风电机设计",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-12 11:39:59",
+    "uuid": "1ede1ed3-0aab-4477-8792-5ee6fcd82646"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在2024年IEEE IEDM国际电子器件会议上，IBM和日本Rapidus公司展示了合作研发的多阈值电压GAA晶体管技术，该技术将应用于Rapidus的2nm制程生产 ...",
+    "id": "8fFV4W3DXYO",
+    "order": 1733974745030,
+    "createdAt": "2024-12-12T03:39:06.000Z",
+    "publishDate": "2024-12-12T03:39:05.030Z",
+    "title": "Rapidus与IBM合作研发多阈值电压GAA晶体管技术",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-12 11:39:06",
+    "uuid": "a0d7d785-d767-4231-9304-fb93341384e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "网易科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "ChatGPT出现全球宕机，影响用户正常使用，OpenAI正在努力恢复服务。此前ChatGPT曾出现过长时间宕机事故 ...",
+    "id": "8fFWMbVzUyK",
+    "order": 1733974590893,
+    "createdAt": "2024-12-12T03:36:31.000Z",
+    "publishDate": "2024-12-12T03:36:30.893Z",
+    "title": "ChatGPT突发全球宕机，此前曾宕机超12小时",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-12 11:36:31",
+    "uuid": "7d35b0d0-7336-4fff-ba86-2143e9573c78"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "良品铺子公告，达永有限公司于2024年10月31日至12月10日累计减持公司1203万股股份，占总股本3.00%，减持计划已实施完毕。",
+    "id": "8fEX2LUVg3i",
+    "order": 1733974586946,
+    "createdAt": "2024-12-12T03:36:27.000Z",
+    "publishDate": "2024-12-12T03:36:26.946Z",
+    "title": "良品铺子：主要股东达永有限完成减持3%股份",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-12 11:36:27",
+    "uuid": "4a2acc8f-c9ec-42f3-9d6a-cf7199627562"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小米正式开源其物联网嵌入式软件平台Vela，源代码已托管至GitHub和Gitee，采用Apache 2.0开源协议 ...",
+    "id": "8fEKWq189cO",
+    "order": 1733974372296,
+    "createdAt": "2024-12-12T03:32:53.000Z",
+    "publishDate": "2024-12-12T03:32:52.296Z",
+    "title": "小米物联网操作系统 Vela 正式开源，代码已托管至 Gitee/GitHub",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-12 11:32:53",
+    "uuid": "2bb2480a-6fba-44dc-8203-3c965f3bc650"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌推出升级版AI模型Gemini 2.0，并计划将其高级推理能力整合进AI Overviews功能，以处理更复杂的主题、多模态和多步骤搜索，包括高级数学和编程问题 ...",
+    "id": "8fFXvPVbJ9Y",
+    "order": 1733973381352,
+    "createdAt": "2024-12-12T03:16:22.000Z",
+    "publishDate": "2024-12-12T03:16:21.352Z",
+    "title": "谷歌：“AI 概览”功能计划明年面向更多国家、更多语言开放",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-12 11:16:22",
+    "uuid": "414fc3a2-54c8-4c7d-81e8-fe341a909910"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "电商报" },
       { "siteName": "亿邦动力网" }
@@ -83,6 +202,32 @@
     "up": false,
     "date": "2024-12-12 10:53:19",
     "uuid": "f0b5d313-813a-450d-836c-93b663f46a5d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "南水北调东中线一期工程自全面通水十年来，已累计调水超过767亿立方米。",
+    "id": "8fFUdUfqfXE",
+    "order": 1733974348104,
+    "createdAt": "2024-12-12T02:46:04.000Z",
+    "publishDate": "2024-12-12T03:32:28.104Z",
+    "title": "全面通水十周年 南水北调东中线一期工程调水超767亿立方米",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-12 10:46:04",
+    "uuid": "30ebb6ca-3da5-4d0a-9053-b9afa1573f7b"
   },
   {
     "newsArray": [
@@ -292,6 +437,24 @@
     "up": false,
     "date": "2024-12-12 09:41:48",
     "uuid": "30f5c517-76e4-4edc-afde-ce66466b6dc7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "网传谷歌员工担忧公司明年1月将启动新一轮裁员，因谷歌提高了裁员标准，并将绩效考核“低分桶”员工的裁员比例从8%提升至10% ...",
+    "id": "8fFMUN5TMTA",
+    "order": 1733973432383,
+    "createdAt": "2024-12-12T01:25:20.000Z",
+    "publishDate": "2024-12-12T03:17:12.383Z",
+    "title": "消息称谷歌正酝酿新一轮裁员风暴，低绩效员工比例提至 10%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-12 09:25:20",
+    "uuid": "279e7dbc-a8e6-484a-a28f-5de028f7dfa0"
   },
   {
     "newsArray": [
