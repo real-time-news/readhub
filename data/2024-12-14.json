@@ -1,6 +1,44 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "2024年1-11月，中国新设外商投资企业52379家，同比增长8.9%。实际使用外资金额7497亿元人民币，同比下降27.9%。",
+    "id": "8fJALNm9NzW",
+    "order": 1734163338125,
+    "createdAt": "2024-12-14T08:02:19.000Z",
+    "publishDate": "2024-12-14T08:02:18.125Z",
+    "title": "前11月中国实际使用外资金额同比下降27.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-14 16:02:19",
+    "uuid": "b1574f3f-15af-40e0-95ba-5fc496a8ae65"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中国科学院预测，到2024年，中国AI框架新增市场中，昇思MindSpore的份额将达到30% ...",
+    "id": "8fJALPOuzAR",
+    "order": 1734163329471,
+    "createdAt": "2024-12-14T08:02:09.000Z",
+    "publishDate": "2024-12-14T08:02:09.471Z",
+    "title": "中国AI框架2024年新增市场华为昇思份额将达30%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-14 16:02:09",
+    "uuid": "bc94732a-b831-46c0-a647-293606b70d29"
+  },
+  {
+    "newsArray": [
       { "siteName": "智通财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
