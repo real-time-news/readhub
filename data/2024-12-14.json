@@ -1,6 +1,131 @@
 [
   {
     "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "在北京，饿了么、武汉理工大学、360集团和声智科技等机构共同免费开放了13项智能安全出行专利许可，旨在加速创新成果转化和推广专利技术的应用 ...",
+    "id": "8fHlsPEey6K",
+    "order": 1734141821267,
+    "createdAt": "2024-12-14T02:03:42.000Z",
+    "publishDate": "2024-12-14T02:03:41.267Z",
+    "title": "饿了么联合校、企多方免费开放13项智能出行专利 共同助力安全出行",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-14 10:03:42",
+    "uuid": "07114937-d806-4c53-a69b-b00cbc329b7f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "11月全球电动汽车销量同比增长32%，创历史新高，中国电动汽车销量同比增长50%，接近全球总销量的70%，继续领跑全球电动汽车销售市场。",
+    "id": "8fHDYXD0FRs",
+    "order": 1734140253346,
+    "createdAt": "2024-12-14T01:37:33.000Z",
+    "publishDate": "2024-12-14T01:37:33.346Z",
+    "title": "占全球总销量近70%，中国继续领跑全球电动汽车销售市场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-14 09:37:33",
+    "uuid": "0b8f6dff-99db-42d1-b579-a1dba822d5d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Meta请求美国加州总检察长阻止OpenAI转为盈利企业，认为这会设立危险先例，允许初创公司在盈利前享受非营利地位的好处。",
+    "id": "8fIiRUpyMEE",
+    "order": 1734140989904,
+    "createdAt": "2024-12-14T01:32:43.000Z",
+    "publishDate": "2024-12-14T01:49:49.904Z",
+    "title": "Meta敦促加州总检察长阻止OpenAI转为营利企业",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-14 09:32:43",
+    "uuid": "e3b9bc52-004f-4b2d-a070-7da1b57eeed2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "小米集团股价虽在本周五随大盘回落，但年初至今已涨约101%，主要受新业务电动汽车前景提振。小米首款电动汽车SU7自3月发布以来销售良好，已交付超10万辆，提前完成全年目标 ...",
+    "id": "8fH6lDtq29Q",
+    "order": 1734139882876,
+    "createdAt": "2024-12-14T01:31:22.000Z",
+    "publishDate": "2024-12-14T01:31:22.876Z",
+    "title": "小米股价今年大涨101%逼近历史高位，电动SUV或成未来增长关键",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-14 09:31:22",
+    "uuid": "724b5fc4-8557-4f1c-9c87-6152a35b99c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Character.AI平台近期推出了针对青少年用户的AI模型和严格家长控制功能，优化了用户互动方式并加强了内容监管，以保障青少年用户的心理健康与安全 ...",
+    "id": "8fIhirEPlHE",
+    "order": 1734138994235,
+    "createdAt": "2024-12-14T01:16:35.000Z",
+    "publishDate": "2024-12-14T01:16:34.235Z",
+    "title": "Character.AI升级安全功能，严防青少年与AI发展不当关系",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-14 09:16:35",
+    "uuid": "bbf77606-3abb-4642-b587-4bad0a6d92c7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "小米为REDMI K80 Pro用户推送了小米澎湃OS 2正式版内测更新，版本号为OS2.0.14.0.VOMCNXM，带来了触控体验优化和多项问题修复，包括息屏时间显示、文件夹操作、微博文案显示、系统稳定性以及蓝牙连接问题 ...",
+    "id": "8fHdzWSLd8P",
+    "order": 1734138842817,
+    "createdAt": "2024-12-14T01:14:03.000Z",
+    "publishDate": "2024-12-14T01:14:02.817Z",
+    "title": "红米K80 Pro推送澎湃OS 2正式版内测 优化触控体验",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-14 09:14:03",
+    "uuid": "e55ceaea-3ed8-4697-bcc2-c8a197457668"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "纳斯达克100指数公布新的年度成分股调整，新纳入三家公司：Palantir、Microstrategy和Axon，同时移除Illumina、超微电脑和莫德纳。",
+    "id": "8fIjAN1bMjX",
+    "order": 1734140237737,
+    "createdAt": "2024-12-14T01:12:14.000Z",
+    "publishDate": "2024-12-14T01:37:17.737Z",
+    "title": "纳斯达克100指数成分股调整：新增“微策略”，移除超微电脑",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-14 09:12:14",
+    "uuid": "db561eb3-cb30-4dfd-9931-620a89c9ce80"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "澎湃新闻" },
       { "siteName": "新浪科技" },
