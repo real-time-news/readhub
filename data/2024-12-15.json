@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "黑海海域风暴导致“伏尔加石油212”号和“伏尔加石油239”号两船倾覆，分别有15名和14名船员，石油产品泄漏。俄海上救援局和紧急情况部正采取措施减轻泄漏后果。",
+    "id": "8fL5eEbYqG4",
+    "order": 1734262398088,
+    "createdAt": "2024-12-15T11:33:18.000Z",
+    "publishDate": "2024-12-15T11:33:18.088Z",
+    "title": "俄罗斯两艘船只倾覆 造成石油产品泄漏",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-15 19:33:18",
+    "uuid": "2ee2e99c-46b4-4438-8eff-1fbf72691679"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "柏诚股份公告，成功中标济南先进材料智造港项目（一期）机电工程施工总承包，中标金额达5.2亿元。",
+    "id": "8fKrMXVbt9u",
+    "order": 1734262352613,
+    "createdAt": "2024-12-15T11:32:32.000Z",
+    "publishDate": "2024-12-15T11:32:32.613Z",
+    "title": "柏诚股份：中标5.2亿元机电工程施工总承包项目",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-15 19:32:32",
+    "uuid": "0d66ef4c-63c8-4b72-bf88-6747fdea5a32"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
