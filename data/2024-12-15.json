@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "西部证券研报指出，随着ChatGPT等大模型具备视觉能力，迎来了重要更新，用户可在对话中展示实时视频或共享屏幕 ...",
+    "id": "8fKSLT19Jbq",
+    "order": 1734228785133,
+    "createdAt": "2024-12-15T02:13:05.000Z",
+    "publishDate": "2024-12-15T02:13:05.133Z",
+    "title": "西部证券：具有视觉能力的多模态大模型将对视觉 SoC和存储带来新需求",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-15 10:13:05",
+    "uuid": "9f495e2d-e6bf-449d-b0ea-e4ad96ad6e03"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "保时捷控股公司宣布将减记其持有的大众股份价值，预计在70亿欧元至200亿欧元之间。此次减记将导致保时捷控股2024年业绩显著负面，因此撤回了此前的盈利预期 ...",
+    "id": "8fKQCPbKl8a",
+    "order": 1734228092357,
+    "createdAt": "2024-12-15T02:01:33.000Z",
+    "publishDate": "2024-12-15T02:01:32.357Z",
+    "title": "大众最大单一股东或大幅减记所持股份价值",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-15 10:01:33",
+    "uuid": "fdcce96b-36a4-4026-8180-cb3108cdc6f3"
+  },
+  {
+    "newsArray": [
       { "siteName": "南方周末" },
       { "siteName": "第一财经" },
       { "siteName": "IT 之家" },
