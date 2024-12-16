@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧洲主要股指普遍下跌，其中德国DAX30指数、英国富时100指数、法国CAC40指数和欧洲斯托克50指数分别下跌0.25%、0.46%、0.71%和0.46%。",
+    "id": "8fMX7Vri916",
+    "order": 1734390745051,
+    "createdAt": "2024-12-16T23:12:25.000Z",
+    "publishDate": "2024-12-16T23:12:25.051Z",
+    "title": "欧洲主要股指集体收跌，德国DAX30指数跌0.25%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-17 07:12:25",
+    "uuid": "32f1d9fc-b458-4d6c-ad31-6712f192e479"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国股市收盘时，纳指再创历史新高，标普500指数也有所上涨，但道指微跌。大型科技股普遍上涨，特斯拉、谷歌和亚马逊均刷新了最高价，而英伟达则下跌。",
+    "id": "8fNQiVkeuKV",
+    "order": 1734390725399,
+    "createdAt": "2024-12-16T23:12:05.000Z",
+    "publishDate": "2024-12-16T23:12:05.399Z",
+    "title": "美股收盘：纳指再创新高 特斯拉、谷歌、亚马逊均再创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-17 07:12:05",
+    "uuid": "f56b594b-b990-41c1-b565-c0828a3f267c"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -15,6 +49,44 @@
     "up": false,
     "date": "2024-12-17 07:07:22",
     "uuid": "face706d-36b7-4197-b443-fda604ff9565"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中央经济工作会议对明年经济工作作出系统部署，提出总体要求和政策取向。强调要认真学习领会和准确理解党中央决策意图，不折不扣落实各项要求 ...",
+    "id": "8fN60hyJjYk",
+    "order": 1734390686171,
+    "createdAt": "2024-12-16T23:02:24.000Z",
+    "publishDate": "2024-12-16T23:11:26.171Z",
+    "title": "人民日报评论员：深刻把握明年经济工作的总体要求和政策取向",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-17 07:02:24",
+    "uuid": "3ba2854d-0315-4caa-b7b8-bcb6b4ff97dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "民企公募REITs在政策环境优化、市场需求提升和民营企业自身优势凸显等因素的推动下逐渐崛起，对于民营企业自身拓宽融资渠道、优化财务结构，以及丰富市场参与主体、产品供给和助力实体经济发展具有重要意义。",
+    "id": "8fLv8Q3F9ZR",
+    "order": 1734391580219,
+    "createdAt": "2024-12-16T22:41:08.000Z",
+    "publishDate": "2024-12-16T23:26:20.219Z",
+    "title": "资本市场新“势力” 民企公募REITs崛起",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-17 06:41:08",
+    "uuid": "a6586428-47b4-4bac-8126-08defcf3026b"
   },
   {
     "newsArray": [
@@ -50,5 +122,25 @@
     "up": false,
     "date": "2024-12-17 03:01:15",
     "uuid": "f9230f93-7eec-402b-840f-fe8957d22f8c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。",
+    "id": "8fNEv7GxDSU",
+    "order": 1734391358474,
+    "createdAt": "2024-12-16T18:26:16.000Z",
+    "publishDate": "2024-12-16T23:22:38.474Z",
+    "title": "苹果 visionOS 2.3 开发者预览版 Beta 发布",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-17 02:26:16",
+    "uuid": "fde57ec0-0956-4a3b-80ff-3e5e5120c211"
   }
 ]
