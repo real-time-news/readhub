@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米集团启动了大家电生产线，计划明年开始自研自产空调。同时，小米在武汉的智能家电工厂已经奠基，该项目预计在2026年实现大规模量产。",
+    "id": "8fMSQupf2go",
+    "order": 1734338637405,
+    "createdAt": "2024-12-16T08:43:57.000Z",
+    "publishDate": "2024-12-16T08:43:57.405Z",
+    "title": "小米王化：大家电工厂已经动工，明年自研自产小米空调",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-16 16:43:57",
+    "uuid": "47e1ff06-5eaa-42f8-9eb4-fe7f2edb8742"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "据财政部数据，今年前11个月，全国政府性基金预算收入42348亿元，同比下降18.4%。其中，中央政府性基金预算收入3915亿元，同比增长5.7% ...",
+    "id": "8fMZ7MpTED4",
+    "order": 1734338590996,
+    "createdAt": "2024-12-16T08:43:10.000Z",
+    "publishDate": "2024-12-16T08:43:10.996Z",
+    "title": "财政部：前11个月国有土地使用权出让收入32626亿元 同比下降22.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-16 16:43:10",
+    "uuid": "18e66d07-1188-46f6-bae1-35d91454e0b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "天津颁发首张外商独资三级综合医院执业许可证，标志着全国首家外商独资三级综合医院落地，服务范围覆盖京津冀地区，符合国家扩大医疗领域开放的政策。",
+    "id": "8fMYPenMRu7",
+    "order": 1734338239895,
+    "createdAt": "2024-12-16T08:37:19.000Z",
+    "publishDate": "2024-12-16T08:37:19.895Z",
+    "title": "全国首家外商独资三级综合医院在天津落地 服务范围辐射京津冀地区",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-16 16:37:19",
+    "uuid": "a0638638-d0d3-4c78-9793-7935266bf366"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "恒瑞医药子公司苏州盛迪亚生物医药的注射用瑞康曲妥珠单抗（SHR-A1811）被纳入国家药品监督管理局药品审评中心公示的拟突破性治疗品种名单，同时该产品已有六个适应症获得突破性疗法认定。",
+    "id": "8fMWyZ3a1NH",
+    "order": 1734338131487,
+    "createdAt": "2024-12-16T08:35:31.000Z",
+    "publishDate": "2024-12-16T08:35:31.487Z",
+    "title": "恒瑞医药：子公司药物纳入拟突破性治疗品种公示名单",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-16 16:35:31",
+    "uuid": "28c15928-bbfe-4add-a249-78e3d4920c42"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "在NeurIPS 2024大会上，阿里妈妈主办了一场主题为“Auto-Bidding in Large-Scale Auctions”的专场Workshop，并公布了同名比赛的获奖团队 ...",
+    "id": "8fMQiBftB9E",
+    "order": 1734338075314,
+    "createdAt": "2024-12-16T08:34:35.000Z",
+    "publishDate": "2024-12-16T08:34:35.314Z",
+    "title": "阿里妈妈公布NeurIPS比赛结果并开源AuctionNet",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-16 16:34:35",
+    "uuid": "d2d163ba-3b1e-4833-a4a4-413bb7ac653c"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
