@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "美国11月零售销售月率增长0.7%，达到自9月以来的最高水平。",
+    "id": "8fOZAszUR3j",
+    "order": 1734442924308,
+    "createdAt": "2024-12-17T13:42:04.000Z",
+    "publishDate": "2024-12-17T13:42:04.308Z",
+    "title": "美国11月零售销售月率录得0.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-17 21:42:04",
+    "uuid": "ce4ecd45-1d9d-4b89-b9fb-49028d654acc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中国科学家潘建伟团队成功研制出拥有105个量子比特的超导量子计算机“祖冲之三号”，并在性能上超越了谷歌的“悬铃木”，与谷歌最新发布的Willow量子计算机性能指标相当 ...",
+    "id": "8fOVl8BKiXO",
+    "order": 1734442618283,
+    "createdAt": "2024-12-17T13:36:58.000Z",
+    "publishDate": "2024-12-17T13:36:58.283Z",
+    "title": "中国版Willow问世，潘建伟团队发布“祖冲之三号”最新成果",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-17 21:36:58",
+    "uuid": "a530344b-a2e1-4af5-9bb4-95328ad1bcda"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
