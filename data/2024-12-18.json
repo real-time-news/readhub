@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "电研院（苏州）科技有限公司近日成立，注册资本1亿元人民币，业务范围广泛，涵盖半导体器件专用设备制造、电子元器件与机电组件设备制造、环境保护专用设备制造及物联网技术服务等 ...",
+    "id": "8fPa1y01Z9W",
+    "order": 1734503974951,
+    "createdAt": "2024-12-18T06:39:35.000Z",
+    "publishDate": "2024-12-18T06:39:34.951Z",
+    "title": "中国电研新设亿元科技公司，布局半导体与物联网领域",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 14:39:35",
+    "uuid": "c9bc933e-e13c-4738-aa09-b13d7c47951b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "UEFI论坛发布了UEFI 2.11和PI 1.9两个新规范，旨在提升硬件架构兼容性，增强安全性，简化用户实施过程 ...",
+    "id": "8fPfO4QJW5q",
+    "order": 1734503959570,
+    "createdAt": "2024-12-18T06:39:20.000Z",
+    "publishDate": "2024-12-18T06:39:19.570Z",
+    "title": "UEFI 2.11和PI 1.9规范正式发布：新增支持国产架构龙芯LoongArch",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 14:39:20",
+    "uuid": "6f1382a7-50fd-4c99-bddd-0272dfeba737"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉首席设计师近日透露，新款自动驾驶出租车Cybercab采用金色涂装是为了向纽约市标志性的黄色出租车致敬，并赋予其更未来感的外观 ...",
+    "id": "8fPXqKthx3Z",
+    "order": 1734503952603,
+    "createdAt": "2024-12-18T06:39:13.000Z",
+    "publishDate": "2024-12-18T06:39:12.603Z",
+    "title": "特斯拉首席设计师揭秘：Cybercab金色涂装是为了致敬纽约出租车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 14:39:13",
+    "uuid": "bec57642-c21b-4c97-8111-9587c9818040"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Linux内核维护者Greg Kroah-Hartman签署新提案，将Linux 6.1 LTS内核寿命从4年延长至5年，持续支持至2027年底 ...",
+    "id": "8fPNquJS7mI",
+    "order": 1734503695767,
+    "createdAt": "2024-12-18T06:34:55.000Z",
+    "publishDate": "2024-12-18T06:34:55.767Z",
+    "title": "因被社区青睐，Linux 6.1 LTS 内核续命至 2027 年",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 14:34:55",
+    "uuid": "f7035f6a-bca0-4cb9-984d-586f553a5a72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财新网" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "携程集团董事局主席梁建章透露，携程正尝试实施更灵活的四天工作制或缩短工作时间，认为这不会影响效率，反而能提升员工满意度。",
+    "id": "8fPUeSznLpY",
+    "order": 1734503690837,
+    "createdAt": "2024-12-18T06:34:50.000Z",
+    "publishDate": "2024-12-18T06:34:50.837Z",
+    "title": "梁建章：携程正在积极探索更加灵活的四天工作制 或者缩短工作时间",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 14:34:50",
+    "uuid": "9b9cd46d-1305-4ef8-9463-931230cd3cb7"
+  },
+  {
+    "newsArray": [
       { "siteName": "环球网科技" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
