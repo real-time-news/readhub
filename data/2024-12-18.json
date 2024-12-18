@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "惠誉评级预测，受地缘政治紧张影响，2025年国际油价可能从2024年的每桶80美元降至70美元，提示全球油气行业可能面临波动。",
+    "id": "8fQ2Dp62vF2",
+    "order": 1734530827237,
+    "createdAt": "2024-12-18T14:07:08.000Z",
+    "publishDate": "2024-12-18T14:07:07.237Z",
+    "title": "惠誉评级：2025 年油价或降至 70 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 22:07:08",
+    "uuid": "7d2f09bf-aa0b-4c02-af77-dabb178a51d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "Odaily" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "阿曼投资局收购了马斯克旗下人工智能公司xAI的部分股份，并且已经是SpaceX的股东。",
+    "id": "8fQF6PxiDmZ",
+    "order": 1734530772599,
+    "createdAt": "2024-12-18T14:06:12.000Z",
+    "publishDate": "2024-12-18T14:06:12.599Z",
+    "title": "阿曼投资局收购马斯克旗下人工智能公司xAI部分股份",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 22:06:12",
+    "uuid": "2a363fcc-c23c-442c-9827-0d32fa7b0a73"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "明阳电路发布股票交易异常波动公告，连续三个交易日收盘价格涨幅偏离值累计超过30%，公司生产经营正常，未公开重大信息可能影响股票交易价格 ...",
+    "id": "8fQ3ecPt5RX",
+    "order": 1734530712990,
+    "createdAt": "2024-12-18T14:05:13.000Z",
+    "publishDate": "2024-12-18T14:05:12.990Z",
+    "title": "2天1板明阳电路：实控人一致行动人在股价异动期间存在卖出公司股票情形",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 22:05:13",
+    "uuid": "e1459f25-2a17-4985-9271-78abafca2d01"
+  },
+  {
+    "newsArray": [
       { "siteName": "联商网" },
       { "siteName": "联商网" },
       { "siteName": "界面" }
