@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "胖东来专营店在抖音上的粉丝数量已超过900万，近30天增长了500万粉丝，店铺商品浏览量超亿，销量达到194万单。",
+    "id": "8fPiDc1Mjq7",
+    "order": 1734507053831,
+    "createdAt": "2024-12-18T07:30:53.000Z",
+    "publishDate": "2024-12-18T07:30:53.831Z",
+    "title": "胖东来线上抖音店粉丝超900万",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 15:30:53",
+    "uuid": "26f0d513-c787-43c2-ace5-4ae8d88844d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "诺邦股份在经历跌停后迅速反弹，并再次触及涨停，成交额超7亿元。",
+    "id": "8fPl4CoTu8N",
+    "order": 1734507008469,
+    "createdAt": "2024-12-18T07:30:08.000Z",
+    "publishDate": "2024-12-18T07:30:08.469Z",
+    "title": "诺邦股份快速反弹上演“天地天板”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 15:30:08",
+    "uuid": "883d1add-ca9e-46e1-9378-7d35f496b17b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "《仙剑奇侠传四》重制版是基于虚幻引擎5开发，由UP software研发、方块游戏发行的RPG单机游戏。游戏将在原作基础上以最新技术进行完全重制，并将在PC及各主机平台登陆 ...",
+    "id": "8fPahZ55oF3",
+    "order": 1734507004329,
+    "createdAt": "2024-12-18T07:30:04.000Z",
+    "publishDate": "2024-12-18T07:30:04.329Z",
+    "title": "《仙剑奇侠传四》重制版前导 PV 公开，基于虚幻引擎 5 开发",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 15:30:04",
+    "uuid": "4de519f8-7c3b-42f2-ba4b-516c5777af3a"
+  },
+  {
+    "newsArray": [
       { "siteName": "科学网" },
       { "siteName": "界面" },
       { "siteName": "凤凰科技" }
@@ -15,6 +66,23 @@
     "up": false,
     "date": "2024-12-18 15:23:45",
     "uuid": "e16963b2-5021-4270-8904-b8a581c04f7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "多位网友反映豆瓣App出现闪退现象，无法正常使用，疑似服务器出现问题。此前，豆瓣曾在6月22日遭遇过服务崩溃问题。新浪科技尝试向豆瓣方面求证，但截至发稿未得到回应。",
+    "id": "8fPiZ9HJOio",
+    "order": 1734506908788,
+    "createdAt": "2024-12-18T07:14:58.000Z",
+    "publishDate": "2024-12-18T07:28:28.788Z",
+    "title": "多位网友反馈豆瓣 App 闪退",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 15:14:58",
+    "uuid": "c4932801-a759-4c5c-af63-5c58f0c42b3d"
   },
   {
     "newsArray": [
@@ -70,6 +138,23 @@
   {
     "newsArray": [
       { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "重庆集度汽车销售服务有限公司发生工商变更，谢迅卸任法定代表人等职位，由夏一平接任。该公司成立于2024年8月，注册资本1000万人民币，经营范围包括机动车检验检测服务、新能源汽车整车销售等 ...",
+    "id": "8fPk3rkZf7N",
+    "order": 1734507045045,
+    "createdAt": "2024-12-18T06:46:38.000Z",
+    "publishDate": "2024-12-18T07:30:45.045Z",
+    "title": "夏一平接手集度旗下销售服务公司",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 14:46:38",
+    "uuid": "feaf8334-08cb-4931-8955-7bb4933a90ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "界面" }
@@ -103,6 +188,23 @@
     "up": false,
     "date": "2024-12-18 14:43:07",
     "uuid": "0d1b12d4-ca1f-4f3e-b9b1-dfc79dafb0d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "智通财经" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "本田汽车和日产汽车计划启动合并谈判，以应对全球大型电动汽车制造商的激烈竞争。两家公司可能成立一家控股公司来运营 ...",
+    "id": "8fPM3vB0tLh",
+    "order": 1734507066234,
+    "createdAt": "2024-12-18T06:41:49.000Z",
+    "publishDate": "2024-12-18T07:31:06.234Z",
+    "title": "日本两大汽车巨头本田、日产酝酿大合并",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 14:41:49",
+    "uuid": "f499f959-3ebb-48ad-b409-d13b1c25de4c"
   },
   {
     "newsArray": [
@@ -419,6 +521,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "品玩" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "字节跳动在火山引擎 Force 大会上发布豆包视觉理解模型，以极低成本提供多模态大模型能力。该模型精准识别视觉内容，并具备出色的理解和推理能力，已接入豆包App和PC端产品 ...",
+    "id": "8fPYEZBjrXN",
+    "order": 1734507170641,
+    "createdAt": "2024-12-18T05:04:19.000Z",
+    "publishDate": "2024-12-18T07:32:50.641Z",
+    "title": "豆包视觉理解模型正式发布，比行业价格便宜85%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 13:04:19",
+    "uuid": "491520ff-3e1b-4e11-b8fb-6eaac93c0a8e"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
       { "siteName": "华尔街见闻" }
@@ -450,6 +571,23 @@
     "up": false,
     "date": "2024-12-18 12:54:02",
     "uuid": "7077286c-e165-4f73-b4d7-69a114b7b871"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "黑石集团收购了冲绳岛的一家丽思卡尔顿酒店，并正在收购岛上的另一家酒店，总值约200亿日元。这笔交易是在日元疲软推动日本旅游热潮之际达成的 ...",
+    "id": "8fPZf6r5TmN",
+    "order": 1734507204074,
+    "createdAt": "2024-12-18T04:43:39.000Z",
+    "publishDate": "2024-12-18T07:33:24.074Z",
+    "title": "黑石收购冲绳丽思卡尔顿酒店",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 12:43:39",
+    "uuid": "273cb969-7f57-4c6e-8fe8-0f160b86e3ae"
   },
   {
     "newsArray": [
@@ -1042,6 +1180,25 @@
     "up": false,
     "date": "2024-12-18 10:49:53",
     "uuid": "471a755b-ac37-4cba-8653-4f766f4553a1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "联商网" }
+    ],
+    "summary": "深圳在首发经济领域表现突出，三年内吸引了超过1000家各类首店，平均每天几乎有一家新首店开业。这些首店涵盖了餐饮、零售、娱乐文旅等多个领域，包括国际知名品牌和中国新兴品牌 ...",
+    "id": "8fOILgRqnbP",
+    "order": 1734507082712,
+    "createdAt": "2024-12-18T02:48:57.000Z",
+    "publishDate": "2024-12-18T07:31:22.712Z",
+    "title": "千家首店落户 深圳首发经济再现“深圳速度”",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-18 10:48:57",
+    "uuid": "0a9128b6-ebaf-4d43-903b-88325c2550ce"
   },
   {
     "newsArray": [
