@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "中证网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "A股三大指数今日涨跌互现，沪指微跌0.36%，深证成指和创业板指则分别上涨0.61%和0.52%。液冷服务器、铜缆高速连接和算力租赁概念股表现强势，多个相关股票涨停 ...",
+    "id": "8fRCQ6vvopO",
+    "order": 1734598234067,
+    "createdAt": "2024-12-19T08:50:35.000Z",
+    "publishDate": "2024-12-19T08:50:34.067Z",
+    "title": "收评：沪指跌0.36% 液冷服务器、算力概念大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:50:35",
+    "uuid": "f1cefbd0-beba-418a-a733-d9a04ee74fd0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "智通财经" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "2024 年 11 月，新能源汽车产销分别完成 156.6 万辆和 151.2 万辆，同比分别增长 45.8% 和 47.4% ...",
+    "id": "8fQt76oHg4Z",
+    "order": 1734598223791,
+    "createdAt": "2024-12-19T08:50:24.000Z",
+    "publishDate": "2024-12-19T08:50:23.791Z",
+    "title": "中汽协：2024 年 1-11 月新能源汽车国内销量破千万辆，同比增长 40.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:50:24",
+    "uuid": "9302b408-fe40-4b8d-abf9-d4a249a37ff8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "根据最新数据，巴西电商市场11月访问量环比增长10.5%，其中进入巴西市场仅半年多的Temu迅速崛起，超越了Olx、Shein、速卖通和Maganize Luiza，成为市场第五名，其11月点击量超过1.07亿次，市场份额达3.6% ...",
+    "id": "8fRLghmQ2Fu",
+    "order": 1734598185994,
+    "createdAt": "2024-12-19T08:49:46.000Z",
+    "publishDate": "2024-12-19T08:49:45.994Z",
+    "title": "巴西11月电商访问量环比增长10.5%，Temu位居第五",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:49:46",
+    "uuid": "845153ea-9210-439c-ae35-a48e25aaf4e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "香港金融管理局和数码港管理有限公司公布了首批生成式人工智能（GenA.I.）沙盒参与者名单，共有10家银行和四家技术合作伙伴的15个用例被选中 ...",
+    "id": "8fRVrGwSXOR",
+    "order": 1734597965743,
+    "createdAt": "2024-12-19T08:46:06.000Z",
+    "publishDate": "2024-12-19T08:46:05.743Z",
+    "title": "香港金管局公布首批GenA.I.沙盒参与者名单",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:46:06",
+    "uuid": "c16f4380-99dc-43ac-a3b5-e6c0009752f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国湖南Changsha Silun Network Technology Co., Ltd. of China长沙思伦网络科技有限公司、中国湖南Hunan Maiqiang Network Technology Company Limited of China湖南迈强网络技术有限公司、中国湖南Hunan Zikun Information Technology Co., Ltd. of China湖南紫坤信息科技股份有限公司、中国广东Guangzhou Qiton Electronics Technology Co., Ltd. of China广州齐通电子科技有限公司为列名被告。",
+    "id": "8fR6hF9DA0e",
+    "order": 1734597921190,
+    "createdAt": "2024-12-19T08:45:22.000Z",
+    "publishDate": "2024-12-19T08:45:21.190Z",
+    "title": "外国企业对特定支持NETCONF的无源光网络设备提起337调查申请",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:45:22",
+    "uuid": "b338529e-9ead-4ff0-8574-fd0a1c233e2f"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -100,6 +186,26 @@
     "up": false,
     "date": "2024-12-19 16:25:38",
     "uuid": "abcc75e3-e321-4653-ae60-1c23e0657846"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "香港交易所作为全球重要的金融中心，在经济自由度、金融市场深度、国际化法律环境和人才储备等方面具有显著优势，吸引了众多优质企业上市 ...",
+    "id": "8fQuYRDFIB0",
+    "order": 1734598110790,
+    "createdAt": "2024-12-19T08:24:25.000Z",
+    "publishDate": "2024-12-19T08:48:30.790Z",
+    "title": "港股2024年回望：IPO重焕活力，市场流动性改善",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:24:25",
+    "uuid": "8f0ab22d-7b4b-490a-ac18-7446c34e2780"
   },
   {
     "newsArray": [
