@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "浪潮信息宣布其源2.0大模型已全面开源，供行业和个人开发者使用，以开发各类AI Agent。公司本身并未交付任何AI Agent。",
+    "id": "8fRVqhdfdOo",
+    "order": 1734597539427,
+    "createdAt": "2024-12-19T08:39:00.000Z",
+    "publishDate": "2024-12-19T08:38:59.427Z",
+    "title": "浪潮信息：源2.0大模型已全面开源",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:39:00",
+    "uuid": "74e2bb4a-e03e-4c12-a37a-f9a70c7c270e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "在第五批高值耗材国家带量采购中，人工耳蜗首轮报价中，奥地利美迪医疗和美国领先仿生两家外企以及国产企业力声特报价较低，预计将中标，中标价在40000-60000元之间，其中外企报价已降至5万以下，包含植入体和言语处理器。",
+    "id": "8fR5Fhkfwy2",
+    "order": 1734597414799,
+    "createdAt": "2024-12-19T08:36:55.000Z",
+    "publishDate": "2024-12-19T08:36:54.799Z",
+    "title": "人工耳蜗最新集采价降至5万以下",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:36:55",
+    "uuid": "dea60146-ac7d-476a-bb85-fa4c2062c011"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Bing Image Creator 迎来重大更新，升级到 DALL-E 3 PR16 模型，速度快、质量优 ...",
+    "id": "8fRVKZqfVmq",
+    "order": 1734597245017,
+    "createdAt": "2024-12-19T08:34:06.000Z",
+    "publishDate": "2024-12-19T08:34:05.017Z",
+    "title": "Bing Image Creator 升级：AI 创作速度翻倍、必应搜索可直接生成",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:34:06",
+    "uuid": "e5ee7a4d-d1e4-4efb-942b-544a2bca0c62"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米SU7车型在安全性上表现出色，尽管发生多起事故，车内人员均安全。一名车主分享经历，其驾驶的小米SU7不慎冲下30米陡坡，严重撞击后车辆报废，但车架保持完整，乘客仅受轻伤 ...",
+    "id": "8fRR9RS4GrY",
+    "order": 1734597215273,
+    "createdAt": "2024-12-19T08:33:36.000Z",
+    "publishDate": "2024-12-19T08:33:35.273Z",
+    "title": "小米SU7不慎冲下近30米陡坡翻滚撞树致报废：完好护住车里三人",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:33:36",
+    "uuid": "cf798354-3266-4afe-86be-b8e0a8ae0005"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "京东与三棵树签订2025年战略合作，以推动健康环保的国民涂料普及。合作将聚焦于新品发布、数字化施工服务及环保认证，通过品牌价值和智能供应链提供高品质、环保的乳胶漆产品 ...",
+    "id": "8fRSpIhbYvP",
+    "order": 1734596953498,
+    "createdAt": "2024-12-19T08:29:13.000Z",
+    "publishDate": "2024-12-19T08:29:13.498Z",
+    "title": "京东与三棵树达成战略合作  为消费者带来更高性价比的健康环保涂料",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 16:29:13",
+    "uuid": "e01ed462-9076-48b6-8eaf-999f245ed48d"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -512,6 +597,25 @@
     "up": false,
     "date": "2024-12-19 14:38:34",
     "uuid": "9e6b6036-7ad7-46d2-8c88-21c37292c0c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "华为问界M9发布11个月后预订量超19万台，成为50万元以上中国豪华车销量纪录保持者，月销量近2万台，超越同级别车型总销量 ...",
+    "id": "8fRMSlXQlw5",
+    "order": 1734597447905,
+    "createdAt": "2024-12-19T06:37:50.000Z",
+    "publishDate": "2024-12-19T08:37:27.905Z",
+    "title": "华为余承东：问界M9累计大定超19万台，销量超50万元以上车型第2-20名总和",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 14:37:50",
+    "uuid": "4a5a5188-8f32-4c1a-8e1f-c12df0e01e70"
   },
   {
     "newsArray": [
