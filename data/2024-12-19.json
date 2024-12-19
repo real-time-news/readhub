@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "瑞典央行降低关键利率25个基点，当前利率为2.50%。",
+    "id": "8fRXYxYl6Jb",
+    "order": 1734618691191,
+    "createdAt": "2024-12-19T14:31:31.000Z",
+    "publishDate": "2024-12-19T14:31:31.191Z",
+    "title": "瑞典央行将关键利率下调25个基点",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 22:31:31",
+    "uuid": "a54129e6-dcef-43a0-9b4f-17fcdefaa0fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "国家电网有限公司在北京发布千亿级多模态行业大模型——光明电力大模型，该模型在电力知识、参数规模和专业能力方面具有优势 ...",
+    "id": "8fRnCGMkFEt",
+    "order": 1734618158800,
+    "createdAt": "2024-12-19T14:22:38.000Z",
+    "publishDate": "2024-12-19T14:22:38.800Z",
+    "title": "国家电网与阿里巴巴达成AI合作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 22:22:38",
+    "uuid": "40d14e45-c962-4802-85b8-630553de2619"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家电网发布千亿级多模态电力行业大模型“光明电力大模型”，是能源电力领域的AI“专家”，能支持电网安全稳定运行、促进新能源消纳和供电服务。",
+    "id": "8fRkhYJPeQg",
+    "order": 1734618130650,
+    "createdAt": "2024-12-19T14:22:10.000Z",
+    "publishDate": "2024-12-19T14:22:10.650Z",
+    "title": "国家电网发布国内首个千亿级多模态电力行业大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-19 22:22:10",
+    "uuid": "d0f8b147-9a98-4275-8381-9752846c2880"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
