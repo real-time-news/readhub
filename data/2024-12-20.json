@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果公司的“苹果智能”功能近日因AI推送摘要错误受到批评，包括错误归纳BBC和《纽约时报》的新闻内容 ...",
+    "id": "8fSWRMRLbQu",
+    "order": 1734666209459,
+    "createdAt": "2024-12-20T03:43:30.000Z",
+    "publishDate": "2024-12-20T03:43:29.459Z",
+    "title": "“苹果智能”引发讨论：AI总结新闻摘要出大错",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-20 11:43:30",
+    "uuid": "334bc86f-b6fa-471d-809a-c2cfc4d1abc3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "亚马逊在美国爱荷华州安克尼新开设了一个占地15万平方英尺的当日送达中心，为50英里范围内的Prime客户提供当天配送服务 ...",
+    "id": "8fSpA7LYx5g",
+    "order": 1734666134100,
+    "createdAt": "2024-12-20T03:42:15.000Z",
+    "publishDate": "2024-12-20T03:42:14.100Z",
+    "title": "亚马逊在安克尼开设当日送达中心 扩展美国中西部配送网络",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-20 11:42:15",
+    "uuid": "ce18f55c-bc12-4e65-981d-df831c65bee2"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
