@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "Odaily" },
+      { "siteName": "AMZ123" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Meta请求美国加州总检察长阻止OpenAI从非营利组织转变为营利性公司，担忧此举可能扭曲市场竞争，影响科技初创企业模式，并造成税收不公平 ...",
+    "id": "8fT9vGiMBMQ",
+    "order": 1734698475258,
+    "createdAt": "2024-12-20T12:41:15.000Z",
+    "publishDate": "2024-12-20T12:41:15.258Z",
+    "title": "Meta向政府提出异议，称OpenAI转为盈利公司将导致不公平竞争",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-20 20:41:15",
+    "uuid": "a17eb9e0-c7d3-4bcf-85c5-df816d59e09e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华为成立主机上云军团，聚焦系统性创新和突破根技术，构建全栈技术体系，保障核心技术供应连续性。华为通过软硬充分协同，解决主机上云这一世界级难题，加快突破核心技术 ...",
+    "id": "8fT71ZrcKkO",
+    "order": 1734698271864,
+    "createdAt": "2024-12-20T12:37:51.000Z",
+    "publishDate": "2024-12-20T12:37:51.864Z",
+    "title": "华为成立主机上云军团：坚定不移投入主机上云",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-20 20:37:51",
+    "uuid": "3a1491b9-8c07-45f6-be54-bc67f1366f85"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国金融期货交易所于2024年12月19日成立战略规划委员会，旨在加快其成为世界一流交易所的步伐 ...",
+    "id": "8fTTB2h623J",
+    "order": 1734698264046,
+    "createdAt": "2024-12-20T12:37:45.000Z",
+    "publishDate": "2024-12-20T12:37:44.046Z",
+    "title": "中金所召开董事会战略规划委员会成立会议 加快建设世界一流交易所",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-20 20:37:45",
+    "uuid": "4660ce71-f43b-4a6d-96a1-ac43ef5e3062"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "台积电正推进FOPLP（面板级扇出封装）技术，计划先试验尺寸较小的300×300毫米面板，并预计在2026年前建设miniline小规模生产线 ...",
+    "id": "8fTGfAccTWV",
+    "order": 1734697920681,
+    "createdAt": "2024-12-20T12:32:01.000Z",
+    "publishDate": "2024-12-20T12:32:00.681Z",
+    "title": "台积电FOPLP封装初期选小基板，2026年或建成小规模中试线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-20 20:32:01",
+    "uuid": "28611c9b-40b8-4bf1-b1ff-06a598dd94b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "传智教育宣布，已与14名交易方签订协议，以1.06亿元现金收购厦门优优汇联51%的股份。",
+    "id": "8fTRkNu4ZAN",
+    "order": 1734697916786,
+    "createdAt": "2024-12-20T12:31:56.000Z",
+    "publishDate": "2024-12-20T12:31:56.786Z",
+    "title": "传智教育：拟1.06亿元收购优优汇联51%股份",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-20 20:31:56",
+    "uuid": "71ba52d1-e6f7-468d-9722-86202fac2581"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国航空工业集团的AR-500无人直升机在粤澳深度合作区的珠海横琴区域成功进行了首次城市示范应用演示飞行，展示了其在无人物流、城市管理、环境监测等领域的应用潜力 ...",
+    "id": "8fTI5rizN7Z",
+    "order": 1734697165030,
+    "createdAt": "2024-12-20T12:19:25.000Z",
+    "publishDate": "2024-12-20T12:19:25.030Z",
+    "title": "AR-500无人直升机珠海亮相，首次城市示范应用展现多场景实力",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-20 20:19:25",
+    "uuid": "462c2f08-7997-4330-91fb-3d38fc92d6cb"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "界面" },
       { "siteName": "36Kr" }
@@ -521,6 +625,24 @@
     "up": false,
     "date": "2024-12-20 18:02:23",
     "uuid": "ba252777-1ea3-49a7-a0bd-f844e7ee371e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中日双方专家在北京举行了第三轮关于福岛核污染水排海问题的技术对话，双方就国际监测安排及中国等利益相关国的独立取样监测进行了深入讨论。",
+    "id": "8fRV0SOS1RU",
+    "order": 1734697283471,
+    "createdAt": "2024-12-20T09:50:36.000Z",
+    "publishDate": "2024-12-20T12:21:23.471Z",
+    "title": "中日专家就福岛核污染水排海问题举行新一轮对话 外交部回应",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-20 17:50:36",
+    "uuid": "070e18d8-52ed-4e5a-9e75-30c3163792e6"
   },
   {
     "newsArray": [
