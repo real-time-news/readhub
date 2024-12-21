@@ -1,6 +1,45 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "德州仪器与美国商务部根据《芯片与科学法案》达成16亿美元资助协议，用于支持在得州和犹他州建设晶圆厂。",
+    "id": "8fTrUGmqgW9",
+    "order": 1734757308023,
+    "createdAt": "2024-12-21T05:01:49.000Z",
+    "publishDate": "2024-12-21T05:01:48.023Z",
+    "title": "德州仪器获美国16亿美元芯片补贴",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-21 13:01:49",
+    "uuid": "885a63cd-7d5d-4aa7-a7c3-97588a837f5f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国商务部向三星电子提供47.45亿美元资助，用于其在得克萨斯州建设芯片制造设施，包括两座新晶圆厂、一座研发厂以及现有设施的扩建，旨在促进美国芯片产业的发展。",
+    "id": "8fTsMHXG7X6",
+    "order": 1734757277526,
+    "createdAt": "2024-12-21T04:56:18.000Z",
+    "publishDate": "2024-12-21T05:01:17.526Z",
+    "title": "三星电子获美国47.45亿美元芯片补贴",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-21 12:56:18",
+    "uuid": "7749ad71-f32f-43a2-9b4b-8bd87ac43b0c"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "界面" },
       { "siteName": "网易科技" }
