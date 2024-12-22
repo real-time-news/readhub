@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "中国DRAM芯片制造商长鑫存储已开始量产DDR5内存芯片，并且有多家DRAM模组厂商销售基于长鑫DDR5芯片的模组。这显示长鑫在追赶主流DRAM厂商方面的步伐正在加快 ...",
+    "id": "8fUWv632Nfc",
+    "order": 1734841522442,
+    "createdAt": "2024-12-22T04:25:22.000Z",
+    "publishDate": "2024-12-22T04:25:22.442Z",
+    "title": "传长鑫存储已量产DDR5，良率达80%左右",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-22 12:25:22",
+    "uuid": "039dbb18-c9c2-4a46-a4e6-e69453b64a1c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "极氪001纯电动车型累计交付量突破25万台，创中国纯电车型最快纪录。2025款极氪001搭载升级的浩瀚智驾2.0系统，包括双Orin-X芯片和激光雷达，售价从25.9万元起 ...",
+    "id": "8fW5fn98sH1",
+    "order": 1734840830634,
+    "createdAt": "2024-12-22T04:13:51.000Z",
+    "publishDate": "2024-12-22T04:13:50.634Z",
+    "title": "极氪001累计交付超25万台：刷新中国纯电车型最快纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-22 12:13:51",
+    "uuid": "a278c1d0-5eff-4dde-a878-783bd108f469"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
