@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "永福股份公告，股东宁德时代拟减持公司股份不超过556.18万股，即不超过公司总股本的3%。减持期间为2025年1月14日起至2025年4月13日止 ...",
+    "id": "8fXwSdt6aQx",
+    "order": 1734931162738,
+    "createdAt": "2024-12-23T05:19:23.000Z",
+    "publishDate": "2024-12-23T05:19:22.738Z",
+    "title": "宁德时代欲减持3%股份，永福股份接近跌停，公司回应",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 13:19:23",
+    "uuid": "c741868e-6170-4247-a734-cc1e56dfc05b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "电商报" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "在近日的数字金融与科技金融大会上，蚂蚁数科的Deepfake检测方案获得认可 ...",
+    "id": "8fXqjdEHJcl",
+    "order": 1734930711517,
+    "createdAt": "2024-12-23T05:11:51.000Z",
+    "publishDate": "2024-12-23T05:11:51.517Z",
+    "title": "Deepfake 检测准确率达 98%，蚂蚁数科入选金融科技创新应用案例",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 13:11:51",
+    "uuid": "c9d9b4f1-ba70-4806-9ff8-6b90e812728c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "中证网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "沪深两市成交额连续59个交易日超过1万亿元。",
+    "id": "8fXl1Mwb1Cl",
+    "order": 1734930672335,
+    "createdAt": "2024-12-23T05:11:12.000Z",
+    "publishDate": "2024-12-23T05:11:12.335Z",
+    "title": "沪深两市成交额连续第59个交易日突破1万亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 13:11:12",
+    "uuid": "3552563d-2066-4c72-a4b9-615554e72371"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "贵州茅台董事长张德芹在2025年茅台酱香酒经销商联谊会上宣布，公司将加大市场资源投入，包括扩大销售团队、深化渠道建设和提高商超陈列比例，以支持茅台酱香酒的发展。",
+    "id": "8fVvQQqly3k",
+    "order": 1734930699735,
+    "createdAt": "2024-12-23T05:07:23.000Z",
+    "publishDate": "2024-12-23T05:11:39.735Z",
+    "title": "贵州茅台董事长张德芹：明年将给予茅台酱香酒更多市场资源支持",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 13:07:23",
+    "uuid": "7ff0f2bc-b270-4831-9edb-e2df207a63a0"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
