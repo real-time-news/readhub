@@ -1,6 +1,97 @@
 [
   {
     "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉公司将推出一款名为TeslaBot的摆件，比例为1:10，由40多个零件组成，拥有20个关节点，外观和动作设计与人形机器人相似 ...",
+    "id": "8fY8E4Y3UGI",
+    "order": 1734943046035,
+    "createdAt": "2024-12-23T08:37:27.000Z",
+    "publishDate": "2024-12-23T08:37:26.035Z",
+    "title": "特斯拉 Tesla Bot 机器人摆件即将开售：售价 199 元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 16:37:27",
+    "uuid": "8bf2461f-f1e7-4d2f-a364-414f8635d98f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "德国默克集团宣布将在日本静冈厂区投资超过7000万欧元建设新的先进材料开发中心，自2021年以来该集团在静冈工厂的总投资已超1.2亿欧元。该中心预计2026年投入运营。",
+    "id": "8fYA1Ot164N",
+    "order": 1734942987244,
+    "createdAt": "2024-12-23T08:36:27.000Z",
+    "publishDate": "2024-12-23T08:36:27.244Z",
+    "title": "默克集团将投资逾7000万欧元在日本新建先进材料开发中心",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 16:36:27",
+    "uuid": "76fac816-c969-4172-8d15-cada1f887d0a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "广东省发布《广东省2024—2025年节能降碳行动方案》，提出2024年单位GDP能源消耗和二氧化碳排放降低目标，以及规模以上工业单位增加值能源消耗降低目标，非化石能源消费占比达到30% ...",
+    "id": "8fYAJ53t3QD",
+    "order": 1734942969548,
+    "createdAt": "2024-12-23T08:36:09.000Z",
+    "publishDate": "2024-12-23T08:36:09.548Z",
+    "title": "广东：2025年非化石能源消费占比达到32%左右",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 16:36:09",
+    "uuid": "3a32f005-31ae-4f8c-8bd8-66c4b86daedd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "广东省发布《广东省2024—2025年节能降碳行动方案》，提出加强钢铁产能产量调控，严格落实产能置换，禁止以其他名义新增钢铁产能，继续实施粗钢产量调控，淘汰落后产能 ...",
+    "id": "8fYAJ9c2KiN",
+    "order": 1734942892010,
+    "createdAt": "2024-12-23T08:34:53.000Z",
+    "publishDate": "2024-12-23T08:34:52.010Z",
+    "title": "广东：加强钢铁产能产量调控 依法依规限制和淘汰落后产能",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 16:34:53",
+    "uuid": "3a0ca5df-035f-4f56-a571-09529815b53d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财经网" },
+      { "siteName": "DoNews" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "郑州低空产业科技发展有限公司成立，由郑州国有资本投资运营集团有限公司全资持股，注册资本1亿人民币，经营范围包括航空运营支持服务、航空商务服务、卫星通信服务等。",
+    "id": "8fYAIhyz8iy",
+    "order": 1734942886154,
+    "createdAt": "2024-12-23T08:34:46.000Z",
+    "publishDate": "2024-12-23T08:34:46.154Z",
+    "title": "郑州国投集团成立低空产业科技发展公司 注册资本1亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 16:34:46",
+    "uuid": "18d57672-40dc-4df6-88be-9e0d749b095d"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
@@ -16,6 +107,25 @@
     "up": false,
     "date": "2024-12-23 16:31:48",
     "uuid": "ba5d2b54-e32d-426f-81f1-ef6275140adb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "法国化妆品巨头欧莱雅宣布与瑞士零售商Migros达成协议，收购其韩国护肤业务Gowoonsesang Cosmetics，这包括在韩国化妆品市场排名第一的面部护理品牌Dr.G。",
+    "id": "8fY9KzW6qFQ",
+    "order": 1734943004573,
+    "createdAt": "2024-12-23T08:22:35.000Z",
+    "publishDate": "2024-12-23T08:36:44.573Z",
+    "title": "欧莱雅宣布收购韩国护肤品牌Dr.G",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 16:22:35",
+    "uuid": "0222d5fd-346c-4c36-8c97-4ba80bb44573"
   },
   {
     "newsArray": [
