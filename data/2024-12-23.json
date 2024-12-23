@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "博通公司首席执行官陈福阳透露，公司正专注于AI半导体业务，并目前没有收购英特尔的计划。他同时表示，博通在考虑新的并购案，但对敌意收购已持谨慎态度 ...",
+    "id": "8fXnVRYovtK",
+    "order": 1734925676338,
+    "createdAt": "2024-12-23T03:47:56.000Z",
+    "publishDate": "2024-12-23T03:47:56.338Z",
+    "title": "博通 CEO 陈福阳：正忙于 AI 半导体业务，目前无意收购英特尔",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 11:47:56",
+    "uuid": "29e7a3db-f34d-42f1-aa73-e336be0deb7c"
+  },
+  {
+    "newsArray": [
       { "siteName": "联商网" },
       { "siteName": "电商报" },
       { "siteName": "DoNews" }
@@ -966,5 +983,42 @@
     "up": false,
     "date": "2024-12-23 07:01:16",
     "uuid": "a2a354be-333d-4abe-888b-d45212d8d40b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "每经网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "i黑马" },
+      { "siteName": "智通财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" },
+      { "siteName": "中证网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "品玩" },
+      { "siteName": "中国科技网" },
+      { "siteName": "AMZ123" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国总统特朗普在亚利桑那州菲尼克斯表示支持TikTok在美国继续运营，这是他反对TikTok退出美国市场的强烈信号 ...",
+    "id": "8fXR2ax7gr1",
+    "order": 1734925351328,
+    "createdAt": "2024-12-22T22:41:59.000Z",
+    "publishDate": "2024-12-23T03:42:31.328Z",
+    "title": "特朗普表示赞成TikTok继续在美国运营",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 06:41:59",
+    "uuid": "36bb2c62-3c09-4ca1-ad64-f663177afb60"
   }
 ]
