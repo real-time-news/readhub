@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "小米汽车推出小米SU7 1.4.5 OTA更新，新增13项功能，优化26项体验，引入VLM视觉语言大模型以提升道路环境和交通规则识别能力，并宣布与蔚来、小鹏、理想合作升级充电地图。",
+    "id": "8fYFjlEEhYn",
+    "order": 1734946985486,
+    "createdAt": "2024-12-23T09:43:06.000Z",
+    "publishDate": "2024-12-23T09:43:05.486Z",
+    "title": "小米汽车正式接入VLM视觉语言大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 17:43:06",
+    "uuid": "342b0af7-cd06-459c-a068-7c77a5298fb5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "企业微信私有版已完成鸿蒙5.0原生开发并正式上线，该版本针对大型企业提供智慧办公私有化解决方案，以提高办公效率 ...",
+    "id": "8fXpRvvxnqr",
+    "order": 1734946974328,
+    "createdAt": "2024-12-23T09:42:55.000Z",
+    "publishDate": "2024-12-23T09:42:54.328Z",
+    "title": "企业微信私有版完成原生鸿蒙开发 已上架华为应用市场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 17:42:55",
+    "uuid": "6d7ea832-c7e9-4722-8863-62ddbbfb6d75"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "2024年广州黄埔马拉松赛顺利结束，官方指定物流提供商菜鸟速递为赛事提供了包括存包转运和寄件服务在内的数字物流服务，确保了赛事的顺利进行。",
+    "id": "8fY9oRhaYqo",
+    "order": 1734946967244,
+    "createdAt": "2024-12-23T09:42:47.000Z",
+    "publishDate": "2024-12-23T09:42:47.244Z",
+    "title": "菜鸟速递为广州黄埔马拉松提供数字物流服务",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 17:42:47",
+    "uuid": "79609493-c5fd-4104-921b-169762b0b7ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "博瑞医药宣布其磺达肝癸钠注射液获得美国FDA正式批准，该药物为全合成抗凝血剂，可用于预防下肢重大骨科手术患者发生静脉血栓栓塞。",
+    "id": "8fYC1PX7ndQ",
+    "order": 1734946962953,
+    "createdAt": "2024-12-23T09:42:43.000Z",
+    "publishDate": "2024-12-23T09:42:42.953Z",
+    "title": "博瑞医药：磺达肝癸钠注射液获得美国FDA批准",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 17:42:43",
+    "uuid": "2ca9552a-6f61-452b-98e8-b89cf7974383"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "方正电机全资孙公司浙江高科润与新加坡公司GCYST PTE.LTD.签署合资协议，共同出资在新加坡设立新加坡高科润公司，浙江高科润持股51%，GCYST PTE.LTD.持股49%，旨在开展智能控制器、电子产品等领域的项目和业务合作。",
+    "id": "8fYF28VObs9",
+    "order": 1734946671103,
+    "createdAt": "2024-12-23T09:37:52.000Z",
+    "publishDate": "2024-12-23T09:37:51.103Z",
+    "title": "方正电机：全资孙公司浙江高科润与GCYST PTE.LTD.签署合资协议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 17:37:52",
+    "uuid": "a9876af4-c31b-4abe-b6c1-7e4a08244760"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD计划推出Radeon RX 9070 XT \"RDNA 4\"显卡和FSR 4超分辨率技术，将与锐龙 9 9000X3D处理器一同上市 ...",
+    "id": "8fXqNLg0rQr",
+    "order": 1734946635733,
+    "createdAt": "2024-12-23T09:37:16.000Z",
+    "publishDate": "2024-12-23T09:37:15.733Z",
+    "title": "AMD 被曝同期推出 Radeon RX 9070 XT 显卡和 FSR4 超分辨率技术",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 17:37:16",
+    "uuid": "e606a6c1-101e-44dd-9c85-ef85a3070f47"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "电商报" },
       { "siteName": "亿邦动力网" }
@@ -32,6 +135,24 @@
     "up": false,
     "date": "2024-12-23 17:37:00",
     "uuid": "8e4a4e7e-11b6-44ef-a76e-70e7629c0f40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "印尼投资和下游化部长Rosan Perkasa Roeslani在华会见了包括吉利汽车、振石控股等在内的多家中国企业，确定了总额为74.6亿美元的新投资承诺。",
+    "id": "8fXq0mzr1dt",
+    "order": 1734946927410,
+    "createdAt": "2024-12-23T09:35:38.000Z",
+    "publishDate": "2024-12-23T09:42:07.410Z",
+    "title": "印尼投资部高官访华会见多家中企代表，获74.6亿美元新投资承诺",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-23 17:35:38",
+    "uuid": "12125951-0a28-47ba-91e8-e08f98bc59f1"
   },
   {
     "newsArray": [
