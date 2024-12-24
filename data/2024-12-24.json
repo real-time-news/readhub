@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "199IT" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "亚马逊云科技在2024 re:Invent中国行活动中展示了其在生成式AI、大数据和智能分析等领域的深度布局和创新成果 ...",
+    "id": "8fXrDcSbh5L",
+    "order": 1735021303851,
+    "createdAt": "2024-12-24T06:21:43.000Z",
+    "publishDate": "2024-12-24T06:21:43.851Z",
+    "title": "亚马逊云科技中国行：生成式AI与数据管理的前沿探索",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-24 14:21:43",
+    "uuid": "dec519b4-99a8-4085-8dba-ca1c92ad3a2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "互联网金融概念股普遍下跌，汇金科技、飞天诚信等跌幅超13%，多家相关公司跟跌。",
+    "id": "8fZddUQqgGJ",
+    "order": 1735020721048,
+    "createdAt": "2024-12-24T06:12:01.000Z",
+    "publishDate": "2024-12-24T06:12:01.048Z",
+    "title": "互联网金融概念震荡走低，汇金科技、飞天诚信跌超13%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-24 14:12:01",
+    "uuid": "16924995-d62d-4ad0-b101-6b2a3b8b7f73"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "永辉在北京的第二家学习胖东来自主调改店将于12月27日开业，位于北京房山印象城，调改后的店铺面积是首家店的两倍 ...",
+    "id": "8fYEbADcyef",
+    "order": 1735020181314,
+    "createdAt": "2024-12-24T06:03:02.000Z",
+    "publishDate": "2024-12-24T06:03:01.314Z",
+    "title": "永辉北京第二家学习胖东来自主调改店将于12月27日开业",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-24 14:03:02",
+    "uuid": "27998ee9-5f49-4f5e-9aa9-1826cdb34000"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "快手平台针对老年用户推出了“长辈模式”，通过增大字体、简化图标等措施，使产品更适合老年用户使用。用户可通过设置或搜索相关关键词开启此模式。",
+    "id": "8fZV4x1lZcR",
+    "order": 1735020148473,
+    "createdAt": "2024-12-24T06:02:28.000Z",
+    "publishDate": "2024-12-24T06:02:28.473Z",
+    "title": "快手上线长辈模式  提升老年用户使用体验",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-24 14:02:28",
+    "uuid": "d92fe728-d287-4719-a3cf-2b024c6c7e7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "鸿海公司与Porotech合作，计划进入AR眼镜市场，强化AR与MicroLED领域的战略布局。将在台中建立MicroLED晶圆制程产线，目标是在2025年第四季度实现量产。",
+    "id": "8fZeUpfqk2k",
+    "order": 1735020141196,
+    "createdAt": "2024-12-24T06:02:21.000Z",
+    "publishDate": "2024-12-24T06:02:21.196Z",
+    "title": "鸿海宣布携手Porotech进军AR眼镜市场",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-24 14:02:21",
+    "uuid": "e065460d-eac0-4dac-b290-cdd782fabc05"
+  },
+  {
+    "newsArray": [
       { "siteName": "站长之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
@@ -172,6 +257,27 @@
     "up": false,
     "date": "2024-12-24 12:57:09",
     "uuid": "625790f4-6ce1-4cf3-a5ff-404bd47759c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中国科技网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "全国财政工作会议提出2025年六方面工作重点：提升国内需求，支持现代化产业体系建设，保障和改善民生，推动城乡区域融合发展，加强生态文明建设，支持高水平对外开放 ...",
+    "id": "8fZZE2VgTkD",
+    "order": 1735021307302,
+    "createdAt": "2024-12-24T04:51:41.000Z",
+    "publishDate": "2024-12-24T06:21:47.302Z",
+    "title": "财政部：明年要适当提高退休人员基本养老金",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-24 12:51:41",
+    "uuid": "7c6a2a00-e48c-4819-b5ff-912bb8a58eb2"
   },
   {
     "newsArray": [
