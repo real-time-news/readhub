@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI的ChatGPT搜索工具存在安全问题，可能被恶意使用，返回的结果会被网页的隐藏内容操纵，甚至可能返回恶意代码 ...",
+    "id": "8fbJTefmq5h",
+    "order": 1735108695703,
+    "createdAt": "2024-12-25T06:38:17.000Z",
+    "publishDate": "2024-12-25T06:38:15.703Z",
+    "title": "AI 搜索的阴暗面，隐藏内容可操纵 ChatGPT 结果",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 14:38:17",
+    "uuid": "7c45d304-e0fc-4cb9-a693-25c0c3be3d63"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "开源中国" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "进迭时空近日完成A+轮数亿元人民币融资，主要用于研发高性能RISC-V AI CPU和服务器AI CPU产品，以及市场拓展 ...",
+    "id": "8fb4opSNBDW",
+    "order": 1735108456176,
+    "createdAt": "2024-12-25T06:34:17.000Z",
+    "publishDate": "2024-12-25T06:34:16.176Z",
+    "title": "「进迭时空」完成A+轮数亿元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 14:34:17",
+    "uuid": "d304ae88-336d-44db-8809-f8d77ce3e744"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "美团闪电仓启动针对下沉市场的招商计划，计划三年内投入50亿，培育1000个千万级、200个亿级和10个十亿级合作商 ...",
+    "id": "8fbL7jEtnEL",
+    "order": 1735108422398,
+    "createdAt": "2024-12-25T06:33:42.000Z",
+    "publishDate": "2024-12-25T06:33:42.398Z",
+    "title": "美团闪电仓面向下沉市场招商 预计三年内投入50亿",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 14:33:42",
+    "uuid": "2078851d-8855-4a17-b4ee-19afc39a58a1"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财新网" },
       { "siteName": "界面" }
