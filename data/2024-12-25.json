@@ -1,6 +1,151 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "小米汽车与蔚来宣布合作，将蔚来超14000个充电桩接入小米充电地图，用户可在地图上实时查看蔚来充电站信息，并通过小米汽车APP扫码充电。",
+    "id": "8fb36XxM6Pf",
+    "order": 1735092800283,
+    "createdAt": "2024-12-25T02:13:20.000Z",
+    "publishDate": "2024-12-25T02:13:20.283Z",
+    "title": "小米汽车携手蔚来，正式开始充电补能网络合作",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 10:13:20",
+    "uuid": "68b6c387-a481-4481-919c-8f791bb31ac9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "铜缆高速连接概念股普遍下跌，鑫科材料跌停，露笑科技跌超7%，神宇股份、兆龙互连、沃尔核材、得润电子等个股跟跌。",
+    "id": "8fZdCdQPFrm",
+    "order": 1735092477841,
+    "createdAt": "2024-12-25T02:07:58.000Z",
+    "publishDate": "2024-12-25T02:07:57.841Z",
+    "title": "铜缆高速连接概念震荡调整，鑫科材料跌停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 10:07:58",
+    "uuid": "d8dfc7f6-ef54-4130-bf98-16641e53600e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "互联网电商概念股普遍下跌，青木科技跌幅超9%，多家公司跟跌。",
+    "id": "8fb0dEJkDg6",
+    "order": 1735092422921,
+    "createdAt": "2024-12-25T02:07:03.000Z",
+    "publishDate": "2024-12-25T02:07:02.921Z",
+    "title": "互联网电商概念盘初走低，青木科技跌超9%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 10:07:03",
+    "uuid": "d86ab4c6-4ba5-49c8-8497-313519fa1bf3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "圆通快递推出了国际卡空联运业务，利用国内发达的物流网络和国际航线资源，结合了卡车的价格和机动优势以及航空运输的快捷准时特点。自11月以来，发车频次大幅增加，每天都有发车 ...",
+    "id": "8fb1EvEzJoi",
+    "order": 1735091592182,
+    "createdAt": "2024-12-25T01:53:12.000Z",
+    "publishDate": "2024-12-25T01:53:12.182Z",
+    "title": "圆通国际：卡空联运业务运输成本较空运降低约40%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 09:53:12",
+    "uuid": "f03a4d92-b0fa-418b-be62-a4a9f9c91b4e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国央行进行了3000亿元1年期的MLF操作，利率为2.00%，与上一次操作持平。同时，12月16日有14500亿元的MLF到期。",
+    "id": "8fb1ork1vau",
+    "order": 1735091522991,
+    "createdAt": "2024-12-25T01:52:02.000Z",
+    "publishDate": "2024-12-25T01:52:02.991Z",
+    "title": "人民银行开展3000亿元MLF操作，利率持平在2%",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 09:52:02",
+    "uuid": "6fb8b31c-1baa-4cf2-8b5b-701df85a7589"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "谷歌涉嫌违反Anthropic的服务条款，让其承包商对比评测Gemini AI和Anthropic的Claude ...",
+    "id": "8faz76RRt0e",
+    "order": 1735091378156,
+    "createdAt": "2024-12-25T01:49:39.000Z",
+    "publishDate": "2024-12-25T01:49:38.156Z",
+    "title": "谷歌正利用Claude评测 Gemini AI 引发合规争议",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 09:49:39",
+    "uuid": "ab148dd3-e97e-4e9c-9abf-f8190ee9358b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "培育钻石概念股普遍下跌，亚振家居跌停，四方达跌10%，多家公司跌幅超6%。",
+    "id": "8fZQmof2qCN",
+    "order": 1735091374655,
+    "createdAt": "2024-12-25T01:49:35.000Z",
+    "publishDate": "2024-12-25T01:49:34.655Z",
+    "title": "培育钻石概念股持续走低，亚振家居触及跌停",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 09:49:35",
+    "uuid": "75d5826d-5555-4a51-94df-095bd1a269f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "中国全国人大常委会会议通过了增值税法，该法将于2026年1月1日起施行。至此，中国已有14个税种立法，实现了税收收入法定原则的重大进展。",
+    "id": "8fb06CqWc5O",
+    "order": 1735092713918,
+    "createdAt": "2024-12-25T01:36:55.000Z",
+    "publishDate": "2024-12-25T02:11:53.918Z",
+    "title": "增值税法通过，自2026年1月1日起施行",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 09:36:55",
+    "uuid": "8d86f024-fade-4d88-9757-43c0317a827b"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
@@ -344,6 +489,27 @@
     "up": false,
     "date": "2024-12-25 06:41:11",
     "uuid": "8dd24011-a6c7-4701-b8ad-a0f2d9d9c129"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "中国人民银行启动2025年蛇年贺岁纪念币和纪念钞的网上预约，两者的全国发行量各为1亿枚/张，面额分别为10元和20元。网友反映预约过程顺利，并对纪念钞的设计给予了好评。",
+    "id": "8fZHMYbcdkU",
+    "order": 1735092303837,
+    "createdAt": "2024-12-24T22:31:30.000Z",
+    "publishDate": "2024-12-25T02:05:03.837Z",
+    "title": "“蛇年纪念币预约”话题登上热搜 网友称预约很丝滑",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-25 06:31:30",
+    "uuid": "e551765d-8343-4034-8c8f-a97c0140dfd8"
   },
   {
     "newsArray": [
