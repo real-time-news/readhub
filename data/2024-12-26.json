@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "英伟达最新旗舰芯片B300/GB300面临难产问题，参数确认但存在过热问题，可能影响量产进度。分析师郭明錤指出，问题可能与DrMos芯片和系统芯片管理设计不足有关 ...",
+    "id": "8fd4JFLXhuf",
+    "order": 1735205840854,
+    "createdAt": "2024-12-26T09:37:20.000Z",
+    "publishDate": "2024-12-26T09:37:20.854Z",
+    "title": "英伟达新“王炸” 未发先难产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-26 17:37:20",
+    "uuid": "a8e81031-4d92-436e-b8e1-f6aa42ed8d6d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "中国电动汽车销量预计将在明年首次超越内燃机汽车，中国国内电动汽车销量在2025年同比增长大约20%，达到逾1200万辆 ...",
+    "id": "8fd4SMWssIB",
+    "order": 1735205700574,
+    "createdAt": "2024-12-26T09:35:00.000Z",
+    "publishDate": "2024-12-26T09:35:00.574Z",
+    "title": "英媒：中国电动汽车销量2025年将首超传统汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-26 17:35:00",
+    "uuid": "0d2b6e93-8e5e-486a-8e59-8d3b1b928c49"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "证券时报网" }
