@@ -1,6 +1,125 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "阿达尼集团计划以20亿美元的价格退出其在印度的合资企业Wilmar，将重点转向核心基础设施业务。",
+    "id": "8fjtVvZmbWE",
+    "order": 1735553256943,
+    "createdAt": "2024-12-30T10:07:37.000Z",
+    "publishDate": "2024-12-30T10:07:36.943Z",
+    "title": "阿达尼计划以20亿美元退出Wilmar在印度的合资企业",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 18:07:37",
+    "uuid": "996fe3eb-61e6-479d-9c5d-1a15703e7644"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "沃伦·巴菲特的伯克希尔哈撒韦公司增持了互联网域名服务提供商VeriSign的股份，最近三个交易日购买了143424股，六个交易日共购买了377736股，价值约7400万美元 ...",
+    "id": "8fjQwa1NeQE",
+    "order": 1735553172127,
+    "createdAt": "2024-12-30T10:06:14.000Z",
+    "publishDate": "2024-12-30T10:06:12.127Z",
+    "title": "利润率比肩英伟达，巴菲特大举增持VeriSign股份",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 18:06:14",
+    "uuid": "b9a66235-8965-4308-84d3-585d8510ebe6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "武汉市人大常委会公布《武汉市智能网联汽车发展促进条例》，规定智能网联汽车在发生违法和交通事故时，若无驾驶人或安全员，责任将由车辆所有人或管理人承担。",
+    "id": "8fjsmjzBa0z",
+    "order": 1735553100388,
+    "createdAt": "2024-12-30T10:05:00.000Z",
+    "publishDate": "2024-12-30T10:05:00.388Z",
+    "title": "武汉公布智能网联汽车发展促进条例 确认无人驾驶交通事故责任划分",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 18:05:00",
+    "uuid": "99803ffc-cbcf-4aa9-8c20-bddecf203cff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "瑞士洛桑联邦理工学院研究团队在一项最新研究中，成功使6个机械振荡器集体进入量子状态，为构建大规模量子系统奠定了基础 ...",
+    "id": "8fjCcGQ4jIF",
+    "order": 1735553071455,
+    "createdAt": "2024-12-30T10:04:31.000Z",
+    "publishDate": "2024-12-30T10:04:31.455Z",
+    "title": "六个机械振荡器实现集体量子态",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 18:04:31",
+    "uuid": "8895812c-d396-441e-bdbe-9aedaf551638"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "上汽集团旗下MG品牌将在埃及启动本地生产组装项目，埃及总理穆斯塔法·马德布利见证了上汽国际党委书记、副总经理赵爱民与埃及曼苏尔集团签署的战略合作技术协议。",
+    "id": "8fjqV9EscgG",
+    "order": 1735553045270,
+    "createdAt": "2024-12-30T10:04:06.000Z",
+    "publishDate": "2024-12-30T10:04:05.270Z",
+    "title": "上汽MG品牌启动埃及本地生产组装项目",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 18:04:06",
+    "uuid": "fad337a4-c824-4d2c-b1ad-bbd4ddb7a632"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "美国哥伦比亚大学研究团队利用3D打印技术研制出超薄超锐利的微针，可精准递送基因疗法药物至耳蜗内难以触及的区域，帮助恢复听力 ...",
+    "id": "8fjCcMJg4pO",
+    "order": 1735552974180,
+    "createdAt": "2024-12-30T10:02:54.000Z",
+    "publishDate": "2024-12-30T10:02:54.180Z",
+    "title": "3D打印微针将药物精准送入耳蜗",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 18:02:54",
+    "uuid": "ebbd44b1-70f0-4008-963f-9601d9a27abe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "美国斯坦福大学和麻省理工学院团队研发出一款名为Haptiknit的针织袖套，这款袖套内置小型气动系统，通过创新方式提供真实的压力感，使可穿戴触觉设备有了新突破 ...",
+    "id": "8fjCcLRkI77",
+    "order": 1735552930382,
+    "createdAt": "2024-12-30T10:02:12.000Z",
+    "publishDate": "2024-12-30T10:02:10.382Z",
+    "title": "可穿戴针织袖套能提供真实触感",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 18:02:12",
+    "uuid": "7afbbfc3-d1c7-4fc2-8a67-80bf8803c024"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" }
