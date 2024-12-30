@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "特斯拉Cybertruck电动皮卡已在欧洲注册，最近一辆在荷兰被拍到的车辆悬挂阿尔巴尼亚车牌，车主为说唱歌手Kosso ...",
+    "id": "8fjRdlMmUGk",
+    "order": 1735533127191,
+    "createdAt": "2024-12-30T04:32:09.000Z",
+    "publishDate": "2024-12-30T04:32:07.191Z",
+    "title": "特斯拉工程师证实：多辆 Cybertruck 电动皮卡已在欧洲注册",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 12:32:09",
+    "uuid": "b622eee0-1e9c-4646-bb47-9c91a67927c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "智元机器人发布了名为AgiBot World的百万真机数据集开源项目，该数据集是全球首个全域真实场景、全能硬件平台、全程质量把控的数据集 ...",
+    "id": "8fjVERTY9LO",
+    "order": 1735533102719,
+    "createdAt": "2024-12-30T04:31:43.000Z",
+    "publishDate": "2024-12-30T04:31:42.719Z",
+    "title": "智元机器人宣布开源AgiBot World数据集",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 12:31:43",
+    "uuid": "23e6ecfc-7c76-421b-be85-38911c72115a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "SOHO中国宣布，普华永道已辞去其审计师职务，该变更自12月30日起生效。",
+    "id": "8fjVDK9jcuS",
+    "order": 1735532717193,
+    "createdAt": "2024-12-30T04:25:17.000Z",
+    "publishDate": "2024-12-30T04:25:17.193Z",
+    "title": "SOHO中国：普华永道辞任审计师",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 12:25:17",
+    "uuid": "8e8f9b80-5392-46b1-bf34-0fc9442067fe"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中证网" },
       { "siteName": "猎云网" }
