@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "理想汽车法务部公布了一起涉及理想MEGA车型的谣言后续处理结果，一名男子因散布“MEGA车内摄像头拍摄色情图片”的虚假信息被判处有期徒刑七个月 ...",
+    "id": "8fjTnSjUnar",
+    "order": 1735534030069,
+    "createdAt": "2024-12-30T04:47:10.000Z",
+    "publishDate": "2024-12-30T04:47:10.069Z",
+    "title": "编造理想MEGA车内摄像头拍摄色情图片：一男子获刑7个月",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 12:47:10",
+    "uuid": "eca6d849-9e29-41ca-8280-28106a6b854c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "vivo公司MR团队规模达500人，计划2025年9月在全国多个城市推出高保真原型机体验，产品部分指标已超越苹果。商业化进展将取决于内容生态的匹配情况。",
+    "id": "8fjSMYdYIpZ",
+    "order": 1735534020466,
+    "createdAt": "2024-12-30T04:47:01.000Z",
+    "publishDate": "2024-12-30T04:47:00.466Z",
+    "title": "vivo内部MR团队已达500人，原型机体验明年9月上线",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 12:47:01",
+    "uuid": "618d6d91-b6bb-4fbc-b8d0-4e92da14b603"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "前OpenAI员工Suchir Balaji在26岁生日后不久离奇死亡，其母Poornima Ramarao质疑旧金山警方的自杀结论，并要求FBI介入调查 ...",
+    "id": "8fjR1fHlaDB",
+    "order": 1735533983727,
+    "createdAt": "2024-12-30T04:46:24.000Z",
+    "publishDate": "2024-12-30T04:46:23.727Z",
+    "title": "26 岁 OpenAI 举报人离奇身亡：其母亲不接受自杀结论，要求 FBI 介入调查",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 12:46:24",
+    "uuid": "f54a1d58-88b0-495c-a103-da1a0c295182"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
@@ -875,5 +926,25 @@
     "up": false,
     "date": "2024-12-30 10:20:58",
     "uuid": "704d5c27-98e2-4bb5-9b64-a42c3f3d1394"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "荷兰皇家航空一架从挪威奥斯陆飞往荷兰阿姆斯特丹的波音737-800客机在着陆时出现液压故障，向右滑行冲出跑道并滑入草地，目前尚未有伤亡报告，乘客已撤离 ...",
+    "id": "8fhvjZQ5LQO",
+    "order": 1735534135864,
+    "createdAt": "2024-12-29T23:15:58.000Z",
+    "publishDate": "2024-12-30T04:48:55.864Z",
+    "title": "外媒：荷兰皇家航空公司一架波音737-800客机冲出跑道",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-30 07:15:58",
+    "uuid": "1ede233d-878e-4cf9-bf78-40994712d293"
   }
 ]
