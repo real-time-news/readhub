@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "市场监管总局对浙江省和内蒙古自治区的羊绒衫虚标含量问题进行挂牌督办。",
+    "id": "8fl7xsVqnAV",
+    "order": 1735617168209,
+    "createdAt": "2024-12-31T03:52:49.000Z",
+    "publishDate": "2024-12-31T03:52:48.209Z",
+    "title": "市场监管总局对两地羊绒衫虚标含量问题挂牌督办",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 11:52:49",
+    "uuid": "6b07aca1-dc2b-43f9-a1b1-4b37bba68656"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "杭州市规划和自然资源局发布国有建设用地使用权挂牌出让公告，涉及3宗涉宅地块，总起始价约12.3亿元，将于2025年2月14日出让。地块分别位于余杭区和临平区，竞价方式为价高者得 ...",
+    "id": "8fl7EvLfoVq",
+    "order": 1735617146430,
+    "createdAt": "2024-12-31T03:52:28.000Z",
+    "publishDate": "2024-12-31T03:52:26.430Z",
+    "title": "杭州挂牌3宗住宅用地，起始总价约12.3亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 11:52:28",
+    "uuid": "f256e8a5-4dbc-42ca-99a6-d46cd85055f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "中国船燃江苏公司在扬州中远海运重工有限公司成功为国内首艘16000TEU甲醇双燃料集装箱船加注了150吨甲醇燃料，这标志着中国在大型双燃料集装箱船的甲醇加注技术上迈出了关键一步 ...",
+    "id": "8fl2FfmRDw1",
+    "order": 1735617141276,
+    "createdAt": "2024-12-31T03:52:22.000Z",
+    "publishDate": "2024-12-31T03:52:21.276Z",
+    "title": "国产16000TEU甲醇双燃料集装箱船首次成功加注甲醇燃料",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 11:52:22",
+    "uuid": "d0fb9eff-e627-4569-b54f-08f358358f5f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -242,6 +293,27 @@
     "up": false,
     "date": "2024-12-31 11:13:00",
     "uuid": "e40b5caf-6a31-4bff-8abc-703368a9be58"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "水利部副部长陈敏在国新办发布会上介绍了我国水利高质量发展和水安全保障情况。截至目前，全国农村自来水普及率达到94%，2024年已完成2万多处农村供水工程，提升1亿多农村人口供水保障水平 ...",
+    "id": "8fl4QMCth2i",
+    "order": 1735616919182,
+    "createdAt": "2024-12-31T03:12:04.000Z",
+    "publishDate": "2024-12-31T03:48:39.182Z",
+    "title": "水利部：2024年提升1亿多农村人口供水保障水平",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 11:12:04",
+    "uuid": "64cfb7d1-8d7b-4948-852e-1c1603d31a91"
   },
   {
     "newsArray": [
@@ -762,6 +834,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "近日，有网友爆料称，安谋科技（Arm 中国）的 CPU 部门将裁员，约 30-40 人，补偿方案为「n+3」，年终奖可正常发放，社保将会交到明年 2 月份 ...",
+    "id": "8fjzDfEA8wy",
+    "order": 1735616862117,
+    "createdAt": "2024-12-31T01:12:33.000Z",
+    "publishDate": "2024-12-31T03:47:42.117Z",
+    "title": "传安谋科技裁员，补偿N+3",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 09:12:33",
+    "uuid": "9b9617fd-e7dd-4f4c-9099-16ac70b9c34b"
+  },
+  {
+    "newsArray": [
       { "siteName": "中证网" },
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
@@ -847,6 +936,39 @@
     "up": false,
     "date": "2024-12-31 08:32:06",
     "uuid": "bbb99bf5-f057-4856-8a8b-443df3930456"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "财经网" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "aibase" },
+      { "siteName": "量子位" },
+      { "siteName": "环球网科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "站长之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI计划在2025年推出一系列新技术产品，包括通用人工智能(AGI)、智能体(Agents)、升级版的GPT-4o、改进的记忆存储和上下文窗口功能、成人模式、深度研究特色功能、改进的Sora以及更好的个性化定制服务。",
+    "id": "8fktFnReSoA",
+    "order": 1735616910750,
+    "createdAt": "2024-12-31T00:31:41.000Z",
+    "publishDate": "2024-12-31T03:48:30.750Z",
+    "title": "Sam Altman 确定明年 OpenAI 新产品：AGI、Agents、成人模式",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 08:31:41",
+    "uuid": "d0ceecc1-de68-4716-8ef6-fc228c208ae9"
   },
   {
     "newsArray": [
