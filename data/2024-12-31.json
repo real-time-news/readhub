@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "奥迪与上汽合作推出的新品牌AUDI首款概念车AUDI E亮相，外观内饰颠覆传统奥迪设计，具有强烈科技感，续航超过700km，并配备先进技术 ...",
+    "id": "8fjgdvK5UAq",
+    "order": 1735618579830,
+    "createdAt": "2024-12-31T04:16:20.000Z",
+    "publishDate": "2024-12-31T04:16:19.830Z",
+    "title": "奥迪AUDI E量产版首批路试谍照曝光：1:1还原概念车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 12:16:20",
+    "uuid": "3d712661-f5c2-4a84-ad2b-5da9c868486b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉宣布其上海储能超级工厂项目已于12月27日通过竣工验收，从开工到竣工仅用时7个月，目前已进入试生产阶段，预计明年实现量产。",
+    "id": "8fl9P6Ie2MD",
+    "order": 1735618549318,
+    "createdAt": "2024-12-31T04:12:55.000Z",
+    "publishDate": "2024-12-31T04:15:49.318Z",
+    "title": "特斯拉上海储能超级工厂开始试生产",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 12:12:55",
+    "uuid": "06a44932-6831-49cc-96fa-95b05edd9b43"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "人工智能在过去十年中因神经网络规模的扩大和海量数据的训练而取得了巨大进步。然而，现正面临两大挑战：一是AI模型训练所需的能源越来越多 ...",
+    "id": "8fl07Xm8WUx",
+    "order": 1735617954818,
+    "createdAt": "2024-12-31T04:05:56.000Z",
+    "publishDate": "2024-12-31T04:05:54.818Z",
+    "title": "AI发展：训练数据即将遭遇瓶颈",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 12:05:56",
+    "uuid": "d3a33d3e-d210-4b63-b830-15f653fc53f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "上海市政府修订《上海市非营业性客车额度拍卖管理规定》，允许在本市连续缴纳满1年社会保险或个人所得税的户籍居民和持有居住证明的个人参加客车额度拍卖，条件还包括未持有客车额度证明、未拥有使用客车额度注册登记的机动车、持有效的机动车驾驶证、1年内无交通安全违法行为记录，以及其他经市政府批准的条件。",
+    "id": "8fjzVSJvzq3",
+    "order": 1735617742407,
+    "createdAt": "2024-12-31T04:02:24.000Z",
+    "publishDate": "2024-12-31T04:02:22.407Z",
+    "title": "上海：在本市连续缴纳满1年社会保险或个人所得税可拍牌",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 12:02:24",
+    "uuid": "57a53484-a65e-406c-996f-b3bc09ffdbab"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -786,6 +859,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "多家银行如农业银行、民生银行、青岛银行等近期推出基金费率优惠活动，对部分公募基金申购费率进行折扣优惠 ...",
+    "id": "8fkq8iCGNbk",
+    "order": 1735617778175,
+    "createdAt": "2024-12-31T01:29:14.000Z",
+    "publishDate": "2024-12-31T04:02:58.175Z",
+    "title": "低至一折起， 多家银行代销养老基金费率大降",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 09:29:14",
+    "uuid": "92cf3544-08ae-4c9d-bb4b-f6780c8a6663"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
@@ -802,6 +893,25 @@
     "up": false,
     "date": "2024-12-31 09:27:27",
     "uuid": "5ef7f13f-983b-4d88-bf89-d72e2929cdaa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "近期，meta Quest系列虚拟现实头显在例行更新后出现大规模故障，导致用户设备无法使用 ...",
+    "id": "8fknwmuU2sV",
+    "order": 1735618311418,
+    "createdAt": "2024-12-31T01:27:13.000Z",
+    "publishDate": "2024-12-31T04:11:51.418Z",
+    "title": "Meta承诺修复过保Quest头显变砖问题，用户不满终获回应",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 09:27:13",
+    "uuid": "e8d94944-5fac-4d01-9626-26fc78ffc516"
   },
   {
     "newsArray": [
