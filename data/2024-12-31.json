@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "根据最新规定，出口铈及其合金、钨及其合金、锑、锆、铍、锗、镓等材料需获得《中华人民共和国两用物项和技术出口许可证》方可免于申领出口许可证 ...",
+    "id": "8flaaxNulPT",
+    "order": 1735641233641,
+    "createdAt": "2024-12-31T10:33:54.000Z",
+    "publishDate": "2024-12-31T10:33:53.641Z",
+    "title": "商务部、海关总署公布《出口许可证管理货物目录（2025年）》",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 18:33:54",
+    "uuid": "e872b98a-4482-45dd-9f69-16cfca9eff37"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财经网" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "融创计划在2024年交付17万套房源，过去三年累计交付量超过66.8万套。",
+    "id": "8flZqmBnJe8",
+    "order": 1735641212655,
+    "createdAt": "2024-12-31T10:33:33.000Z",
+    "publishDate": "2024-12-31T10:33:32.655Z",
+    "title": "融创：2024年完成交付17万套房源",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 18:33:33",
+    "uuid": "504dd8fd-5cb7-42a0-a7aa-a73854933f83"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "华为举办第二届华为智驾大师赛，吸引了众多鸿蒙智行用户的积极参与，展示了HUAWEI ADS 3.0的领先技术实力 ...",
+    "id": "8flRye3eswk",
+    "order": 1735641209107,
+    "createdAt": "2024-12-31T10:33:30.000Z",
+    "publishDate": "2024-12-31T10:33:29.107Z",
+    "title": "20天轻松行驶近2万公里 第二届华为智驾大师赛最新成绩出炉",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 18:33:30",
+    "uuid": "0c6a556d-c843-4b79-b1bb-fdae01c1c36a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "中国船舶集团广州船舶工业有限公司和广东省港航集团合作，交付了全国载客量最大的碳纤维高速客船“新明珠3”号 ...",
+    "id": "8fl8KQSJD0w",
+    "order": 1735641193807,
+    "createdAt": "2024-12-31T10:33:14.000Z",
+    "publishDate": "2024-12-31T10:33:13.807Z",
+    "title": "全国最大载客量碳纤维船舶“新明珠3”号交付",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 18:33:14",
+    "uuid": "3f04c530-45a8-456a-b0b0-b43363538bf8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "福建漳州核电站1号机组已完成168小时满功率连续运行考核，预计2025年1月1日具备商业运行条件。该机组采用自主知识产权的“华龙一号”核电技术，额定电功率为121.2万千瓦 ...",
+    "id": "8flYQYgX7yr",
+    "order": 1735641090983,
+    "createdAt": "2024-12-31T10:31:32.000Z",
+    "publishDate": "2024-12-31T10:31:30.983Z",
+    "title": "中国核电：福建漳州核电站1号机组具备商运条件",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 18:31:32",
+    "uuid": "6f1e5333-620f-4e6b-962f-1fdd03f009f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "广汽传祺汽车有限公司宣布召回74422辆2022款GS8汽车，生产日期为2021年9月4日至2023年8月31日，已向国家市场监督管理总局备案召回计划。",
+    "id": "8flUpYcja3I",
+    "order": 1735640530200,
+    "createdAt": "2024-12-31T10:22:10.000Z",
+    "publishDate": "2024-12-31T10:22:10.200Z",
+    "title": "广汽传祺汽车有限公司召回部分2022款GS8汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 18:22:10",
+    "uuid": "b633b3ae-15c2-4eb6-bd03-d07b7aa586a5"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "界面" },
       { "siteName": "DoNews" }
@@ -85,6 +188,25 @@
     "up": false,
     "date": "2024-12-31 18:07:06",
     "uuid": "c054cb23-3a58-46fe-a8d1-b1b007aaaf49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "荣耀CEO赵明在微博发布管理团队新年致辞，指出2024年荣耀经受了市场竞争的考验并取得进步。未来，荣耀将坚持AI和品牌高端化战略，推动全球业务正向循环和可持续增长 ...",
+    "id": "8flP9bUYomv",
+    "order": 1735640746796,
+    "createdAt": "2024-12-31T10:04:13.000Z",
+    "publishDate": "2024-12-31T10:25:46.796Z",
+    "title": "赵明：荣耀12月海外销量占比突破50%，并在多地实现规模化盈利",
+    "type": "topic",
+    "up": false,
+    "date": "2024-12-31 18:04:13",
+    "uuid": "a60bc70d-048f-4b92-ab1c-0ed2c9a97eb8"
   },
   {
     "newsArray": [
