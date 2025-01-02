@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "道指跌0.36%，标普500指数跌0.22%，纳指跌0.16% ... 英伟达涨约3%，Meta涨超2%，谷歌、亚马逊、英特尔小幅上涨。",
+    "id": "8fpCnQFWLIx",
+    "order": 1735853091960,
+    "createdAt": "2025-01-02T21:24:52.000Z",
+    "publishDate": "2025-01-02T21:24:51.960Z",
+    "title": "美股三大指数均小幅收跌 特斯拉跌超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-03 05:24:52",
+    "uuid": "c2f32bd3-4299-4169-b553-dc89d0b4bd72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "特斯拉旗下Cybertruck今年获得美国最高7500美元的税收抵免资格，为该款车型首次 ...",
+    "id": "8fpU5qOZHv0",
+    "order": 1735853088300,
+    "createdAt": "2025-01-02T20:51:29.000Z",
+    "publishDate": "2025-01-02T21:24:48.300Z",
+    "title": "特斯拉Cybertruck首次获得美国电动汽车税收抵免资格",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-03 04:51:29",
+    "uuid": "eddd8d48-26cc-4318-a05d-2cf929aceba4"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" }
