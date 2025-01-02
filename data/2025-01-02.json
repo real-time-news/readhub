@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "腾讯宣布2025年“科学探索奖”开始报名，这是国内金额最高的青年科技人才资助计划之一 ...",
+    "id": "8foIcmQpzb3",
+    "order": 1735790724978,
+    "createdAt": "2025-01-02T04:05:25.000Z",
+    "publishDate": "2025-01-02T04:05:24.978Z",
+    "title": "腾讯2025年“科学探索奖”开始报名：每人300万奖金随便花",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 12:05:25",
+    "uuid": "cecfd7df-e5dd-4716-89cd-2648cb24d9af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "百度推出了升级版的AI搜索引擎「AI搜」，该搜索工具基于百度文心大模型，致力于提供可靠、权威的搜索结果 ...",
+    "id": "8foH53f2QX9",
+    "order": 1735790694752,
+    "createdAt": "2025-01-02T04:04:57.000Z",
+    "publishDate": "2025-01-02T04:04:54.752Z",
+    "title": "百度网页版新增「AI 搜」功能，基于文心大模型打造",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 12:04:57",
+    "uuid": "55860b84-8963-480d-9603-649cb27f85ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "沈阳航空航天大学辽宁通用航空研究院研制的RX4E锐翔四座电动飞机获得中国民航局型号合格证，成为我国首款正常类电动飞机，新能源电动飞机技术取得突破。",
+    "id": "8foR4sSsHrk",
+    "order": 1735790688043,
+    "createdAt": "2025-01-02T04:04:50.000Z",
+    "publishDate": "2025-01-02T04:04:48.043Z",
+    "title": "我国首款四座电动飞机获颁型号合格证",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 12:04:50",
+    "uuid": "9844549d-b3a6-42f1-83d8-cc88d5f13fc1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "康奈尔大学科研团队开发出一款名为MouseGoggles的低成本虚拟现实头显，用于研究小鼠大脑的空间导航与记忆机制，为治疗阿尔茨海默症等疾病提供新视角和途径 ...",
+    "id": "8foAym7jo9E",
+    "order": 1735790682515,
+    "createdAt": "2025-01-02T04:04:43.000Z",
+    "publishDate": "2025-01-02T04:04:42.515Z",
+    "title": "VR头显助力康奈尔科研：小鼠成探索大脑空间导航新“模特”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 12:04:43",
+    "uuid": "7f4ff5a4-a493-4841-8e39-75ae00774468"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "台积电正在扩大其先进封装技术CoWoS的生产能力，预计将在2025年中旬如期完成扩产，甚至可能提前完成，以迅速满足客户需求 ...",
+    "id": "8fn1tjMaVgV",
+    "order": 1735790673507,
+    "createdAt": "2025-01-02T04:04:35.000Z",
+    "publishDate": "2025-01-02T04:04:33.507Z",
+    "title": "台积电CoWoS扩产据悉超进度，月产能达7.5万片新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 12:04:35",
+    "uuid": "a51f30d3-305e-448f-ba4f-3db542b41931"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "领克汽车宣布将于1月3日19:00举行旗舰车型全球首秀及领克SPA Evo架构发布会 ...",
+    "id": "8fnlxXPiXwi",
+    "order": 1735790609177,
+    "createdAt": "2025-01-02T04:03:30.000Z",
+    "publishDate": "2025-01-02T04:03:29.177Z",
+    "title": "领克旗舰全球首秀暨 SPA Evo 架构发布会定档 1 月 3 日 19:00",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 12:03:30",
+    "uuid": "2a35daa6-8b06-4ed7-81da-8ee3b4dbcbca"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
@@ -66,6 +168,26 @@
     "up": false,
     "date": "2025-01-02 11:42:53",
     "uuid": "6f48c460-d959-417f-b03c-f731df66bc22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "小米科技有限责任公司是乐渊网络科技（上海）有限公司的股东，持股比例为15%。乐渊网络科技成立于2013年11月，法定代表人为宋广慧，注册资本约807万人民币 ...",
+    "id": "8foPuWwfh5z",
+    "order": 1735790258574,
+    "createdAt": "2025-01-02T03:42:48.000Z",
+    "publishDate": "2025-01-02T03:57:38.574Z",
+    "title": "小米已入股健身公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 11:42:48",
+    "uuid": "44bee8b0-a549-4415-94be-78e5b2badae5"
   },
   {
     "newsArray": [
