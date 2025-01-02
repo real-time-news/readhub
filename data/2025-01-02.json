@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "国家广播电视总局宣布，江苏有线于率先完成10000只通用遥控器的采购工作 ...",
+    "id": "8fpCENgakn7",
+    "order": 1735832756316,
+    "createdAt": "2025-01-02T15:45:57.000Z",
+    "publishDate": "2025-01-02T15:45:56.316Z",
+    "title": "江苏完成全国首个运营商通用遥控器采购：一键切换直播/互联网电视",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 23:45:57",
+    "uuid": "8b869337-fe1b-493d-88aa-e807fa63f92f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智通财经" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "继香港证监会早前提出检控后，东区裁判法院裁定一名香港执业事务律师谢延丰(男)违反《证券及期货条例》下的保密条文罪成 ...",
+    "id": "8fowYqhvduA",
+    "order": 1735832629271,
+    "createdAt": "2025-01-02T15:43:49.000Z",
+    "publishDate": "2025-01-02T15:43:49.271Z",
+    "title": "香港证监会：首次有执业事务律师因违反保密条文而被定罪",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 23:43:49",
+    "uuid": "a7939500-de36-4a57-82c0-c428f5e16f75"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "澎湃新闻" },
       { "siteName": "Odaily" }
@@ -205,6 +239,24 @@
     "up": false,
     "date": "2025-01-02 22:11:36",
     "uuid": "1f40812c-7d7a-42e2-a439-8910688fcdec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "较2024年10月21日的首次操作相比，这次操作规模更大，费率明显下降，专家表示这有助于提高金融机构参与互换便利的积极性，也能降低操作成本 ...",
+    "id": "8foygOS7H8d",
+    "order": 1735832628412,
+    "createdAt": "2025-01-02T14:01:21.000Z",
+    "publishDate": "2025-01-02T15:43:48.412Z",
+    "title": "央行启动第二次互换便利操作：规模较首次更大、中标费率更低",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 22:01:21",
+    "uuid": "88a83bff-2cf1-498e-bc75-a7a0063e90f4"
   },
   {
     "newsArray": [
@@ -513,6 +565,24 @@
     "up": false,
     "date": "2025-01-02 20:02:39",
     "uuid": "d32c86db-6a14-44fd-937e-0807fc7badc1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "Synaptics 今天与谷歌宣布将在物联网边缘人工智能（Edge AI for the IoT）领域开展合作，旨在为情境感知计算定义多模态处理的最佳实现方案 ...",
+    "id": "8forUtafHDa",
+    "order": 1735832548349,
+    "createdAt": "2025-01-02T11:52:16.000Z",
+    "publishDate": "2025-01-02T15:42:28.349Z",
+    "title": "谷歌、Synaptics 宣布将合作开发物联网边缘 AI 技术",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 19:52:16",
+    "uuid": "4617edab-b7b5-4fbe-979e-8ee473df5cce"
   },
   {
     "newsArray": [
@@ -2510,6 +2580,30 @@
     "up": false,
     "date": "2025-01-02 14:11:37",
     "uuid": "7df75797-c5aa-488a-ad00-8077f5c7e8e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "陈日彪总领事前往釜山市厅吊唁大厅，对济州航空失事客机遇难者表示哀悼。",
+    "id": "8foXWjRnp5G",
+    "order": 1735832622421,
+    "createdAt": "2025-01-02T06:03:40.000Z",
+    "publishDate": "2025-01-02T15:43:42.421Z",
+    "title": "中国驻釜山总领事吊唁济州航空失事客机遇难者",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 14:03:40",
+    "uuid": "a8acac53-980b-46ac-b86b-59a65c6edad1"
   },
   {
     "newsArray": [
