@@ -1,6 +1,172 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "商务部根据相关法律法规，为维护国家安全和利益，将28家美国实体列入出口管制管控名单，并禁止向其出口两用物项。特殊情况下需出口的，需向商务部提出申请。该公告即日起正式实施。",
+    "id": "8fokMLYadoB",
+    "order": 1735805607279,
+    "createdAt": "2025-01-02T08:13:28.000Z",
+    "publishDate": "2025-01-02T08:13:27.279Z",
+    "title": "商务部：将28家美国实体列入出口管制管控名单，本公告自公布之日起正式实施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 16:13:28",
+    "uuid": "4d7ebc6a-28c6-4c11-8848-c0385bea1fb6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "四、不批准并取消上述企业高级管理人员在中国境内工作许可、停留或者居留资格。",
+    "id": "8fokMPo0OW5",
+    "order": 1735805594663,
+    "createdAt": "2025-01-02T08:12:18.000Z",
+    "publishDate": "2025-01-02T08:13:14.663Z",
+    "title": "商务部：对洛克希德·马丁导弹与火控公司等10家美国企业采取不可靠实体清单措施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 16:12:18",
+    "uuid": "9a9b342c-9332-4574-9e0c-a1815aa66346"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "2025年1月1日，华夏航空国产C909飞机在重庆万州五桥机场成功完成国产制动系统的验证飞行测试，为提高国产飞机技术水平和市场竞争力打下基础。",
+    "id": "8foiMIKOAo5",
+    "order": 1735805123334,
+    "createdAt": "2025-01-02T08:05:23.000Z",
+    "publishDate": "2025-01-02T08:05:23.334Z",
+    "title": "国产C909飞机在渝完成国产制动系统验证飞行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 16:05:23",
+    "uuid": "65f9fbc5-372f-415e-a8a2-c16396083f41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华能水电宣布，TB水电站的4号机组（35万千瓦）和硬梁包水电站的首台5号机组（3.6万千瓦）及第二台4号机组（27万千瓦）均已顺利完成72小时试运行并投入商业运行 ...",
+    "id": "8foivRhyU3O",
+    "order": 1735805092563,
+    "createdAt": "2025-01-02T08:04:53.000Z",
+    "publishDate": "2025-01-02T08:04:52.563Z",
+    "title": "华能水电：公司所属TB水电站和硬梁包水电站机组投产发电",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 16:04:53",
+    "uuid": "07595489-b40c-4184-a6b7-0006486caea0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "Meta AI 研究人员推出了一种名为 LIGER 的新型 AI 推荐系统模型，结合了密集检索和生成检索的优势，有效提升了生成式推荐系统的性能 ...",
+    "id": "8fohVCDEn0j",
+    "order": 1735805088770,
+    "createdAt": "2025-01-02T08:04:49.000Z",
+    "publishDate": "2025-01-02T08:04:48.770Z",
+    "title": "Meta AI 推出 LIGER 混合检索 AI 模型，计算效率与推荐精度兼得",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 16:04:49",
+    "uuid": "41d9237e-be79-46b4-a7d3-949ba57b847b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国石化发布2025年国内成品油调整时间表，第一轮调价窗口于1月2日24时开启，调价可能上调或搁浅 ...",
+    "id": "8foDq3VFg6M",
+    "order": 1735805061844,
+    "createdAt": "2025-01-02T08:04:22.000Z",
+    "publishDate": "2025-01-02T08:04:21.844Z",
+    "title": "国内油价 2025 年首调今日 24 时开启，大概率迎来新年“第一涨”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 16:04:22",
+    "uuid": "8c696ac0-8e2d-4ce5-8f9b-f353107fce1f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2025款奥迪Q2L上市，价格下调5.1万元，售价区间17.18万至21万。外观设计微调，配置上标配备胎和18英寸轮圈，座椅材质升级为仿皮 ...",
+    "id": "8foOv2IawHd",
+    "order": 1735805010041,
+    "createdAt": "2025-01-02T08:03:31.000Z",
+    "publishDate": "2025-01-02T08:03:30.041Z",
+    "title": "2025款奥迪Q2L正式上市 全系降价5.1万 售17.18万起",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 16:03:31",
+    "uuid": "7f0f37e0-9c15-41d4-8d60-c79e11847579"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "阿里云与零一万物达成战略合作，成立产业大模型联合实验室，合作涉及技术、业务和人才等领域，双方将共同探索大模型技术并加速其应用落地，全面通过阿里云百炼大模型平台服务市场。",
+    "id": "8fohupAswu9",
+    "order": 1735805006248,
+    "createdAt": "2025-01-02T08:03:27.000Z",
+    "publishDate": "2025-01-02T08:03:26.248Z",
+    "title": "阿里云与零一万物达成战略合作，成立“产业大模型联合实验室”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 16:03:27",
+    "uuid": "28b376f2-d1ca-4010-9472-88e50c098c90"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "金融界" },
+      { "siteName": "界面" }
+    ],
+    "summary": "京东健康与华润三九医药签署战略合作协议，将在医药零售全渠道、数字化营销和企业社会责任等方面深化合作，共同树立行业新标杆。",
+    "id": "8fohYAr1Is0",
+    "order": 1735805000395,
+    "createdAt": "2025-01-02T08:03:21.000Z",
+    "publishDate": "2025-01-02T08:03:20.395Z",
+    "title": "京东健康与华润三九签署战略合作协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 16:03:21",
+    "uuid": "139f444c-10a9-42f6-b913-fc0b271b7733"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线" }
