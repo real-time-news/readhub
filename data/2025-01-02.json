@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "华东医药透露，其与重庆派金合作的司美格鲁肽注射液在糖尿病适应症上已提交pre-BLA申请，并计划在2023年一季度提交BLA申请。同时，体重管理适应症已完成三期临床首例入组 ...",
+    "id": "8fobnC7Xhgs",
+    "order": 1735798941958,
+    "createdAt": "2025-01-02T06:22:22.000Z",
+    "publishDate": "2025-01-02T06:22:21.958Z",
+    "title": "华东医药回应司美格鲁肽研发进展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 14:22:22",
+    "uuid": "ab5ffa8b-1095-459f-a7a3-7eb9d8e72c79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "胖东来公司成为全国首个出台制度规范员工结婚要彩礼的企业。创始人于东来在直播中提出将出台更多制度，辅助员工美好生活，并引导他们理性科学地对待爱情、婚姻和家庭 ...",
+    "id": "8fob7RtKuio",
+    "order": 1735799623733,
+    "createdAt": "2025-01-02T06:21:22.000Z",
+    "publishDate": "2025-01-02T06:33:43.733Z",
+    "title": "胖东来将出台制度规范员工彩礼：让员工明白要活自己喜欢状态 而非为面子",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 14:21:22",
+    "uuid": "c8026106-067b-4088-89a2-0c93c33662ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "职场社交平台“脉脉”上有网友爆料称，禾赛科技正在开启裁员计划，裁员人数或达数百人，赔偿为N+1且无年终奖 ...",
+    "id": "8fn95175Ktc",
+    "order": 1735798757474,
+    "createdAt": "2025-01-02T06:19:17.000Z",
+    "publishDate": "2025-01-02T06:19:17.474Z",
+    "title": "曝禾赛科技裁员数百人：赔偿N+1、无年终奖",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 14:19:17",
+    "uuid": "035efbbd-b28b-4b89-9f86-a6b9f7764478"
+  },
+  {
+    "newsArray": [
+      { "siteName": "科学网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "东南大学推出了国内首款分布式电驱动飞行汽车“东大·鲲鹏1号”，具备全轮转向和全轮驱动功能，采用四轴八桨设计 ...",
+    "id": "8foAdGl1Tz2",
+    "order": 1735798566223,
+    "createdAt": "2025-01-02T06:16:07.000Z",
+    "publishDate": "2025-01-02T06:16:06.223Z",
+    "title": "国内首辆分布式电驱动飞行汽车亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 14:16:07",
+    "uuid": "8229e69b-cbb2-4d98-8c06-8fccef4ccc84"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微星针对高端MEG Z890 Ace主板发布了一项重要BIOS更新，解决了英特尔Arrow Lake处理器平台的性能瓶颈问题，并带来了性能提升，为用户提供了更加流畅的使用体验 ...",
+    "id": "8foRmTaMm2j",
+    "order": 1735798448976,
+    "createdAt": "2025-01-02T06:14:09.000Z",
+    "publishDate": "2025-01-02T06:14:08.976Z",
+    "title": "微星MEG Z890 Ace主板BIOS更新：提前解决Arrow Lake性能问题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 14:14:09",
+    "uuid": "5fbde3de-4582-4ae4-aa9d-ca1d64b3c4a7"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" }
@@ -663,6 +751,25 @@
     "up": false,
     "date": "2025-01-02 11:05:14",
     "uuid": "d325cc15-0c21-452a-85bd-3eff21348e96"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "芜湖纳晖新能源科技有限公司成立，法定代表人为刘毕成，注册资本500万人民币。该公司经营范围包括软件开发、人工智能应用软件开发、互联网数据服务等，由青岛海尔新能源科技有限公司全资持股。",
+    "id": "8foLcYReX0T",
+    "order": 1735799515038,
+    "createdAt": "2025-01-02T03:04:53.000Z",
+    "publishDate": "2025-01-02T06:31:55.038Z",
+    "title": "海尔在芜湖成立新能源科技公司，含多项AI业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-02 11:04:53",
+    "uuid": "9b0908c6-d25e-4b86-97c6-a67ed2037d08"
   },
   {
     "newsArray": [
