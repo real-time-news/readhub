@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Meta推出“记忆层”研究，提出高效查询机制Product-Key Lookup，通过分解键集合提高大模型参数查询效率，减少算力和时间消耗 ...",
+    "id": "8fpiPEAFFiC",
+    "order": 1735886512927,
+    "createdAt": "2025-01-03T06:41:53.000Z",
+    "publishDate": "2025-01-03T06:41:52.927Z",
+    "title": "Meta开源“记忆层”，重塑Transformer架构大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-03 14:41:53",
+    "uuid": "53f0436e-51fa-4d6f-bb61-900f350591d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "深圳元始智能有限公司宣布完成数千万级人民币的天使轮融资，投资方为天际资本。公司成立于2023年，专注于大模型架构和AI应用研发 ...",
+    "id": "8fqF7GUc0Hp",
+    "order": 1735886245444,
+    "createdAt": "2025-01-03T06:37:27.000Z",
+    "publishDate": "2025-01-03T06:37:25.444Z",
+    "title": "元始智能完成数千万级天使轮融资 加速RWKV新架构演进",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-03 14:37:27",
+    "uuid": "0bbc0bc9-50ff-4c34-8d9a-f4b2e0722dd6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "主力资金尾盘加仓商贸零售等板块，抛售电子等板块，个股永辉超市、建设工业、中百集团获流入超19亿元，贵州茅台等遭抛售超13亿元。",
+    "id": "8foeU7PGxCl",
+    "order": 1735886243329,
+    "createdAt": "2025-01-03T06:37:25.000Z",
+    "publishDate": "2025-01-03T06:37:23.329Z",
+    "title": "主力尾盘持续加仓商贸零售板块 抛售电子股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-03 14:37:25",
+    "uuid": "d9187cd3-6efe-4ec5-a7b5-256a7ca6abfe"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "第一财经" }
