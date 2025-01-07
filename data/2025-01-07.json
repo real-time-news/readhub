@@ -1,6 +1,159 @@
 [
   {
     "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "东方电气风电股份有限公司以9.29亿元向四川川投新能源有限公司转让木垒东新51%股权，预计将增加2024年公司利润总额和现金流。",
+    "id": "8fx4joZsBsG",
+    "order": 1736262183698,
+    "createdAt": "2025-01-07T15:03:04.000Z",
+    "publishDate": "2025-01-07T15:03:03.698Z",
+    "title": "东方电气：子公司9.29亿元转让木垒东新51%股权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 23:03:04",
+    "uuid": "75256922-2534-4dca-8926-ce1a7ec46889"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "西藏日喀则市定日县发生6.8级地震，应急响应级别升至一级。",
+    "id": "8fxPmHbY85j",
+    "order": 1736262160239,
+    "createdAt": "2025-01-07T15:02:42.000Z",
+    "publishDate": "2025-01-07T15:02:40.239Z",
+    "title": "西藏自治区应急指挥部将地震应急响应升级为一级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 23:02:42",
+    "uuid": "995d4804-7080-4a08-9c00-57bf476e0e76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "Odaily" },
+      { "siteName": "第一财经" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "美股开盘上涨，道指、标普 500 和纳指均有小幅增长，英伟达股价创新高。加密板块Microstrategy下跌2.78%，Coinbase下跌0.51%。",
+    "id": "8fxPm6M7hVB",
+    "order": 1736260632416,
+    "createdAt": "2025-01-07T14:37:13.000Z",
+    "publishDate": "2025-01-07T14:37:12.416Z",
+    "title": "美股三大股指高开英伟达股价创新高，Microstrategy下跌2.78%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 22:37:13",
+    "uuid": "f305c93a-358a-41ab-a96d-baaade3abe50"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财新网" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国12月末黄金储备增加33万盎司，连续两月增持。",
+    "id": "8fx2tCzpqzr",
+    "order": 1736259897154,
+    "createdAt": "2025-01-07T14:24:57.000Z",
+    "publishDate": "2025-01-07T14:24:57.154Z",
+    "title": "中国12月末黄金储备增加33万盎司 为连续两个月增持",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 22:24:57",
+    "uuid": "f789ef38-ee1f-4ec8-a575-d3e8f431d041"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "Innoviz Technologies与英伟达合作，在2025年国际消费电子展上展示搭载英伟达DRIVE AGX Orin的先进感知软件，公司股价盘前大涨27%。",
+    "id": "8fxR1IFchBJ",
+    "order": 1736260867032,
+    "createdAt": "2025-01-07T14:22:08.000Z",
+    "publishDate": "2025-01-07T14:41:07.032Z",
+    "title": "与英伟达在感知软件方面合作 Innoviz Technologies盘前大涨超27%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 22:22:08",
+    "uuid": "25cb2591-9659-4b5f-a941-a9f5c6131c8b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "西藏定日县地震致126人遇难188人受伤，倒塌房屋3609户。",
+    "id": "8fxSjRJDRpt",
+    "order": 1736259709489,
+    "createdAt": "2025-01-07T14:21:49.000Z",
+    "publishDate": "2025-01-07T14:21:49.489Z",
+    "title": "西藏定日县地震已致126人遇难、188人受伤",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 22:21:49",
+    "uuid": "1cce8ad0-2e6d-4f13-a764-3844e40805ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "受定日县地震影响的拉日铁路于1月7日14时53分恢复运行。铁路部门采取多种方式排查确保安全，并做好旅客安抚、餐食供应及运输秩序恢复工作，计划加开临时旅客列车。",
+    "id": "8fxCC80YxEC",
+    "order": 1736261466250,
+    "createdAt": "2025-01-07T14:21:26.000Z",
+    "publishDate": "2025-01-07T14:51:06.250Z",
+    "title": "受定日县地震影响的拉日铁路恢复运行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 22:21:26",
+    "uuid": "40b3205e-d460-4b36-b07e-7d7d9f9c78e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "网易公司向西藏日喀则市定日县地震灾区捐赠800万元物资，包括保暖服、棉被等应急物资，支持救灾和受灾群众安置，并承诺持续关注灾后重建需求。",
+    "id": "8fxRA7DnY7P",
+    "order": 1736259353349,
+    "createdAt": "2025-01-07T14:02:12.000Z",
+    "publishDate": "2025-01-07T14:15:53.349Z",
+    "title": "网易捐赠800万元物资 驰援西藏",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 22:02:12",
+    "uuid": "dfae6aea-d81e-4062-a930-02e0474cd0d3"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -119,6 +272,24 @@
     "up": false,
     "date": "2025-01-07 20:43:02",
     "uuid": "0ea08a21-a82e-4cdb-9853-7b6fb03fc50c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "白金分析师赵金厚退休半年后以顾问身份加盟爱建证券研究所，该所正在组建中，已登记3位新分析师。赵金厚有27年职业经历，曾连续7年获得最佳分析师农林牧渔行业第一名。",
+    "id": "8fx7AzuQGtX",
+    "order": 1736259075203,
+    "createdAt": "2025-01-07T12:41:13.000Z",
+    "publishDate": "2025-01-07T14:11:15.203Z",
+    "title": "白金分析师赵金厚加盟爱建证券 公司正组建研究所",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 20:41:13",
+    "uuid": "6153a6dd-1603-4091-89da-1011f60bd3f4"
   },
   {
     "newsArray": [
@@ -561,6 +732,24 @@
     "up": false,
     "date": "2025-01-07 18:33:01",
     "uuid": "17264f04-fd6d-4de1-8e4f-c2b379eda829"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "友邦保险以每股54.15至55.65港元的价格回购112.98万股，耗资约6182万港元。",
+    "id": "8furqGH4zII",
+    "order": 1736259693105,
+    "createdAt": "2025-01-07T10:32:14.000Z",
+    "publishDate": "2025-01-07T14:21:33.105Z",
+    "title": "友邦保险：以约6182万港元回购近113万股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 18:32:14",
+    "uuid": "edd211d8-d8ce-4004-9fbd-c8d882becbd5"
   },
   {
     "newsArray": [
