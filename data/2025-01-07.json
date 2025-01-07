@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "一架载有145名乘客的客机从大马士革国际机场飞往沙迦国际机场，标志着该机场恢复运营国际航线。",
+    "id": "8fxDavLxFvu",
+    "order": 1736246948968,
+    "createdAt": "2025-01-07T10:49:08.000Z",
+    "publishDate": "2025-01-07T10:49:08.968Z",
+    "title": "叙利亚大马士革国际机场恢复运营国际航线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 18:49:08",
+    "uuid": "6fe6e4fe-136c-4b8e-b1d6-6990c7ba72c3"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "澎湃新闻" },
       { "siteName": "新浪科技" },
@@ -2775,6 +2792,30 @@
     "up": false,
     "date": "2025-01-07 10:37:37",
     "uuid": "9b895cd5-4c84-457f-9b66-3c9d654cbaf0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "财新网" }
+    ],
+    "summary": "商汤科技强烈反对美国国防部将其列入“中国军事企业清单”，并表示该决定无事实依据，不会实质影响公司业务。商汤将积极沟通，维护公司和股东利益。",
+    "id": "8fweaSjfRrU",
+    "order": 1736246887225,
+    "createdAt": "2025-01-07T02:35:31.000Z",
+    "publishDate": "2025-01-07T10:48:07.225Z",
+    "title": "商汤回应被列入美国防部名单：毫无事实依据",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 10:35:31",
+    "uuid": "904fb32e-f318-43b0-81b9-792c5292ad7f"
   },
   {
     "newsArray": [
