@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "1月7日CES期间，雷鸟创新发布雷鸟V3 AI拍摄眼镜，售价1799元，搭载猎鹰影像系统、通义千问大模型、骁龙AR1芯片等创新技术 ...",
+    "id": "8fxKlgyNCSD",
+    "order": 1736255479177,
+    "createdAt": "2025-01-07T13:11:20.000Z",
+    "publishDate": "2025-01-07T13:11:19.177Z",
+    "title": "雷鸟V3 AI拍摄眼镜上市，售价1799元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 21:11:20",
+    "uuid": "a4315b71-d954-4d80-8f94-46535d19b498"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "日本长崎县政府宣布，因韩国济州航空一客机失事，该航空公司务安-长崎航线将暂停至3月下旬，该航线使用的是与失事飞机相同的波音737-800机型。失事航班上有179人遇难。",
+    "id": "8fvczwfxtcA",
+    "order": 1736254961954,
+    "createdAt": "2025-01-07T13:02:41.000Z",
+    "publishDate": "2025-01-07T13:02:41.954Z",
+    "title": "韩国济州航空务安往返长崎航班将停飞至3月下旬",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 21:02:41",
+    "uuid": "56260980-1f08-4a17-be00-ab8eb93f8ab5"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -727,6 +763,25 @@
     "up": false,
     "date": "2025-01-07 17:49:52",
     "uuid": "b9fc63e7-e371-403a-8483-6bff500e6fb3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "智通财经" }
+    ],
+    "summary": "优步美股盘前涨2.68%，计划与英伟达合作开发AI自动驾驶技术，今年晚些时候将公布更多细节。双方将结合优步行程数据与英伟达Cosmos平台和DGX云，提升自动驾驶汽车智能模型。",
+    "id": "8fx9IxDMP5b",
+    "order": 1736254866216,
+    "createdAt": "2025-01-07T09:48:35.000Z",
+    "publishDate": "2025-01-07T13:01:06.216Z",
+    "title": "优步盘前涨2.68% 与英伟达合作支持AI自动驾驶技术开发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-07 17:48:35",
+    "uuid": "0c0d5741-8de6-4f7f-82ec-f1fdb142594f"
   },
   {
     "newsArray": [
