@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "首开股份公告，2024年12月签约面积28万平方米，同比增长34.44%，签约金额58.87亿元，同比增长74.44% ...",
+    "id": "8fylPubeknp",
+    "order": 1736327662960,
+    "createdAt": "2025-01-08T09:14:23.000Z",
+    "publishDate": "2025-01-08T09:14:22.960Z",
+    "title": "首开股份：12月签约金额58.87亿元 环比增长74.44%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 17:14:23",
+    "uuid": "39b9c352-6c64-49f5-9045-c58069bf69a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中铜资产经营管理有限公司党委书记、董事长、总经理万多稳涉嫌严重违纪违法，正在接受纪律审查和监察调查。",
+    "id": "8fylQGplHJF",
+    "order": 1736327651169,
+    "createdAt": "2025-01-08T09:14:11.000Z",
+    "publishDate": "2025-01-08T09:14:11.169Z",
+    "title": "中铜资产经营管理有限公司董事长万多稳接受审查调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 17:14:11",
+    "uuid": "a2d959d5-5c23-4cb3-bbd1-60db94e77814"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "上交所和中证指数公司发布上证科创板综合指数，样本数量超560只，市值覆盖近97%，将用于基金产品跟踪和衍生工具开发。",
+    "id": "8fym4Se1oxi",
+    "order": 1736327649212,
+    "createdAt": "2025-01-08T09:14:10.000Z",
+    "publishDate": "2025-01-08T09:14:09.212Z",
+    "title": "上交所新推科创综指 将用于基金产品跟踪、衍生工具开发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 17:14:10",
+    "uuid": "d40287c0-062f-4704-9196-247e42a181fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "艾比森预计2024年净利润下降53.76%-63.26%，营收同比下降约8.33%。",
+    "id": "8fylQAmnATz",
+    "order": 1736327645566,
+    "createdAt": "2025-01-08T09:14:06.000Z",
+    "publishDate": "2025-01-08T09:14:05.566Z",
+    "title": "艾比森：预计2024年归母净利润同比下降53.76%-63.26%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 17:14:06",
+    "uuid": "7349ce42-ed7d-4462-9347-88d4587e1d73"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -15,6 +85,44 @@
     "up": false,
     "date": "2025-01-08 17:07:20",
     "uuid": "f59dadc6-b475-41e7-a48a-d12432fd6e63"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "新集能源2024年净利润同比增长12.39%至23.71亿元，营收微降0.42%至127.91亿元。",
+    "id": "8fyjxpuwXch",
+    "order": 1736327663015,
+    "createdAt": "2025-01-08T09:05:58.000Z",
+    "publishDate": "2025-01-08T09:14:23.015Z",
+    "title": "新集能源：2024年净利润23.71亿元 同比增长12.39%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 17:05:58",
+    "uuid": "bf45cc29-66b9-47e8-a51a-64fe101592c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "德国大众汽车管理层计划在未来五年内减薪3亿欧元，董事会成员减薪幅度更大，以响应公司裁员35000人的决策。",
+    "id": "8fykU121ReU",
+    "order": 1736327642466,
+    "createdAt": "2025-01-08T09:05:20.000Z",
+    "publishDate": "2025-01-08T09:14:02.466Z",
+    "title": "德国大众汽车管理层将在五年内减薪3亿欧元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 17:05:20",
+    "uuid": "1ce863af-e3ef-426f-ab3f-ab35dc1f8ed8"
   },
   {
     "newsArray": [
@@ -223,6 +331,25 @@
     "up": false,
     "date": "2025-01-08 16:35:48",
     "uuid": "2141c9db-fdcb-4e6c-974c-68e045844223"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "胖东来2024年营收近170亿，税收超6亿，利润超8亿，员工平均月收入9000余元。",
+    "id": "8fyhm1Qy87l",
+    "order": 1736328077953,
+    "createdAt": "2025-01-08T08:34:39.000Z",
+    "publishDate": "2025-01-08T09:21:17.953Z",
+    "title": "于东来晒胖东来2024年营收：销售近170亿，利润8亿多",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 16:34:39",
+    "uuid": "10a9d167-3ef6-4fb2-8925-127e6feb527b"
   },
   {
     "newsArray": [
@@ -1155,6 +1282,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "猎云网" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "脑动极光医疗科技有限公司在港交所上市，每股定价 3.22 港元，总市值 41.28 亿。公司专注于认知障碍数字疗法，核心产品已商业化八种适应症 ...",
+    "id": "8fyNmkIA4Zm",
+    "order": 1736327661262,
+    "createdAt": "2025-01-08T05:23:09.000Z",
+    "publishDate": "2025-01-08T09:14:21.262Z",
+    "title": "脑动极光医疗在港交所上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 13:23:09",
+    "uuid": "974987a7-8863-46c5-b5f5-7d4edbc3c999"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "界面" },
       { "siteName": "36Kr" }
@@ -1169,6 +1313,24 @@
     "up": false,
     "date": "2025-01-08 13:22:40",
     "uuid": "0aa4296c-1dd9-453b-a590-4cf7cb21129e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中信出版社墨狸工作室将推出《黑神话：悟空》官方授权的《影神图》实体版，分为平装版和线装版礼盒，分别售价159.2元和342元。画集收录游戏中的角色和背景故事，采用中式手工线装工艺 ...",
+    "id": "8fx4eVPi51N",
+    "order": 1736327625530,
+    "createdAt": "2025-01-08T05:22:06.000Z",
+    "publishDate": "2025-01-08T09:13:45.530Z",
+    "title": "黑神话《影神图》实体版书正式公布：159.2元起 春节后开售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 13:22:06",
+    "uuid": "c5c44b4b-0320-492a-9284-5ec292fcf7a2"
   },
   {
     "newsArray": [
@@ -1819,6 +1981,28 @@
     "up": false,
     "date": "2025-01-08 10:55:44",
     "uuid": "e0030056-7aed-4d41-8e91-4091ae57bcf0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI 首席执行官 Sam Altman 的姐姐 Ann Altman 于周一提起诉讼，指控她的哥哥在 1997 年至 2006 年间经常对她进行性虐待 ...",
+    "id": "8fyElnZE4TD",
+    "order": 1736327748853,
+    "createdAt": "2025-01-08T02:54:30.000Z",
+    "publishDate": "2025-01-08T09:15:48.853Z",
+    "title": "Sam Altman否认其姐姐在诉讼中提出的性虐待指控",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-08 10:54:30",
+    "uuid": "8270b34c-ea77-4da7-ba3a-4cae83575a01"
   },
   {
     "newsArray": [
