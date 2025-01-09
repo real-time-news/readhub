@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "三菱日联银行发生系统故障，影响个人和企业网络银行交易，跨行转账延迟，部分银行卡在其他银行ATM无法取款，故障原因正在调查中，非网络攻击所致。",
+    "id": "8fzzf2RrcDt",
+    "order": 1736423548524,
+    "createdAt": "2025-01-09T11:52:29.000Z",
+    "publishDate": "2025-01-09T11:52:28.524Z",
+    "title": "日本一银行出现系统故障 用户交易受影响",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-09 19:52:29",
+    "uuid": "91ec6bf9-e6e3-4add-a91e-b22d339c5e97"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
