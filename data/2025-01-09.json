@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "中证网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "沪指窄幅震荡跌0.29%，PCB概念股集体爆发，算力、数据中心电源、液冷等多个方向走强，超2900只个股上涨。消费股调整，沪指跌0.29%，深成指涨0.38%，创业板指涨0.3%。",
+    "id": "8g03Om1CYx9",
+    "order": 1736406791772,
+    "createdAt": "2025-01-09T07:13:12.000Z",
+    "publishDate": "2025-01-09T07:13:11.772Z",
+    "title": "午评：沪指窄幅震荡跌0.29% PCB概念股集体爆发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-09 15:13:12",
+    "uuid": "0522f349-2708-460d-9f51-9f1c0f68bcfd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "北京国联同达信息技术有限公司成立，白蕾任法定代表人，注册资本1000万元，主要经营人工智能软件开发。国联股份等共同持股。",
+    "id": "8g0HhQgvdXm",
+    "order": 1736406427882,
+    "createdAt": "2025-01-09T07:07:08.000Z",
+    "publishDate": "2025-01-09T07:07:07.882Z",
+    "title": "国联股份等成立新公司，含多项AI业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-09 15:07:08",
+    "uuid": "9fd993ec-b5d7-46fd-9748-82cce7ec0397"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "跨境ETF持续活跃，沙特ETF两只涨超8%，标普消费ETF盘中涨幅近8%，亚太精选ETF涨超3%。",
+    "id": "8fyN43uIxeY",
+    "order": 1736406393497,
+    "createdAt": "2025-01-09T07:06:34.000Z",
+    "publishDate": "2025-01-09T07:06:33.497Z",
+    "title": "跨境ETF反复活跃 两只沙特ETF双双涨超8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-09 15:06:34",
+    "uuid": "9a730f4a-2096-4b53-bd14-f8241797bdd6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "2025年1月9日早盘，国内期货主力合约表现分化，对二甲苯、PTA等多数合约上涨，而对二甲苯涨幅超3%，PTA涨幅超2% ...",
+    "id": "8fzs3kZzWvK",
+    "order": 1736406350566,
+    "createdAt": "2025-01-09T07:05:51.000Z",
+    "publishDate": "2025-01-09T07:05:50.566Z",
+    "title": "国内期货主力合约涨跌不一，对二甲苯涨超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-09 15:05:51",
+    "uuid": "19f5b9d0-c98e-47bc-a298-bbce9c128b75"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软为Microsoft 365用户推出了PowerPoint字幕支持功能，提高了演示文稿的无障碍性。用户可以导入SRT格式字幕文件，支持多语言字幕轨道，兼容早期版本和主流浏览器 ...",
+    "id": "8g0CJGpsgOr",
+    "order": 1736406333063,
+    "createdAt": "2025-01-09T07:05:34.000Z",
+    "publishDate": "2025-01-09T07:05:33.063Z",
+    "title": "微软PowerPoint新增SRT字幕功能，助力无障碍演示体验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-09 15:05:34",
+    "uuid": "5933bf59-323a-4651-a9dc-7f87edf1b576"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "迅销集团2024年第一财季营业利润同比增长7.4%，母公司拥有人应占溢利同比增长22.4%。",
+    "id": "8g0GHFZGrlu",
+    "order": 1736406226358,
+    "createdAt": "2025-01-09T07:03:46.000Z",
+    "publishDate": "2025-01-09T07:03:46.358Z",
+    "title": "迅销集团第一财季营业利润约1575.56亿日元，同比增长7.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-09 15:03:46",
+    "uuid": "52de8519-70d5-4ea7-9cb0-28282969aa45"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
