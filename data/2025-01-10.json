@@ -1,6 +1,122 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "市场监管总局将围绕构建全国统一大市场，聚焦重点领域强化反垄断执法，推进法治、信用和智慧监管，服务高质量发展。",
+    "id": "8g1ek825aAF",
+    "order": 1736478261490,
+    "createdAt": "2025-01-10T03:04:21.000Z",
+    "publishDate": "2025-01-10T03:04:21.490Z",
+    "title": "市场监管总局：将聚焦平台经济、民生保障、自然垄断等重点领域，强化反垄断执法",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-10 11:04:21",
+    "uuid": "fd1546aa-152d-4587-8c2b-5682c7732e58"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国东部时间 1 月 10 日上午十点，美国最高法院将听取关于「不卖就禁」法是否违反美国《宪法第一修正案》的口头辩论，口头辩论双方为 TikTok 与美国司法部 ...",
+    "id": "8g1fMqEkIAo",
+    "order": 1736478091435,
+    "createdAt": "2025-01-10T02:59:51.000Z",
+    "publishDate": "2025-01-10T03:01:31.435Z",
+    "title": "今晚美国最高法将决定TikTok是否关闭",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-10 10:59:51",
+    "uuid": "782b35ff-f08f-42ff-ae20-9e710092200d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "宁波集度科技服务有限公司因联系不上被列入经营异常名录，该公司主营新能源汽车及汽车用品销售，由集度科技（武汉）有限公司全资控股 ...",
+    "id": "8g1e1Zm4SqH",
+    "order": 1736477923377,
+    "createdAt": "2025-01-10T02:42:38.000Z",
+    "publishDate": "2025-01-10T02:58:43.377Z",
+    "title": "极越CEO夏一平名下公司接连经营异常",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-10 10:42:38",
+    "uuid": "a904e49b-5446-4982-aac8-04e0e0688f8d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "美国二手服装平台Poshmark与Loop退货平台合作，为错过退货期限的商品提供转售服务。商家在Loop账户启用功能后，消费者可一键将不合规退货商品转售至Poshmark。",
+    "id": "8g0Rik2HV6H",
+    "order": 1736476910358,
+    "createdAt": "2025-01-10T02:41:51.000Z",
+    "publishDate": "2025-01-10T02:41:50.358Z",
+    "title": "Poshmark与退货平台Loop达成合作，推出退货商品转售方案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-10 10:41:51",
+    "uuid": "f039e18d-e9c8-4f54-abfb-8555c398b07c"
+  },
+  {
+    "newsArray": [{ "siteName": "AMZ123" }],
+    "summary": "TikTok若在美国被禁，多数用户将感到不安，尤其是Z世代。用户可能转向Facebook、Instagram和YouTube等平台 ...",
+    "id": "8g0Rj3GkMXQ",
+    "order": 1736477957388,
+    "createdAt": "2025-01-10T02:34:01.000Z",
+    "publishDate": "2025-01-10T02:59:17.388Z",
+    "title": "41%美国TikTok用户担忧禁令，或转向Facebook等替代平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-10 10:34:01",
+    "uuid": "990e5bb6-688a-4c9e-92fc-23c6ef0fc4a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "VLC媒体播放器累计下载突破60亿次，VideoLAN在CES 2025展示新功能：基于开源AI的离线字幕生成和翻译。",
+    "id": "8g0sq74t7te",
+    "order": 1736476433430,
+    "createdAt": "2025-01-10T02:33:54.000Z",
+    "publishDate": "2025-01-10T02:33:53.430Z",
+    "title": "开源媒体播放器 VLC 下载破 60 亿次，预览本地 AI 字幕 / 翻译功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-10 10:33:54",
+    "uuid": "edecf962-a1f9-4428-ac9d-9bec72c4cecd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "我国在鄂尔多斯盆地泾川地区发现特大型铀矿，资源储量达特大型，为全球首次在风成砂岩分布区发现此类铀矿，将显著提升我国铀资源安全保障程度。",
+    "id": "8g1cbHXae4I",
+    "order": 1736476453743,
+    "createdAt": "2025-01-10T02:25:14.000Z",
+    "publishDate": "2025-01-10T02:34:13.743Z",
+    "title": "我国新类型铀矿找矿实现重大突破",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-10 10:25:14",
+    "uuid": "176bf489-315a-4d86-b0d7-8cbf5c5ba7b7"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "IT 之家" }
@@ -301,6 +417,23 @@
     "up": false,
     "date": "2025-01-10 09:05:19",
     "uuid": "120c6fe9-3bb2-41e0-93c0-3134b483b1b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "在第38届NeurIPS 2024大会上，麻省理工学院教授提到一位中国学生学术造假被开除，引发网络热议。网友指出该学生为浙江大学毕业生，并曝光其学术不端证据 ...",
+    "id": "8g0Orp5MVKn",
+    "order": 1736478294202,
+    "createdAt": "2025-01-10T01:03:34.000Z",
+    "publishDate": "2025-01-10T03:04:54.202Z",
+    "title": "浙大竺奖得主因 AI 学术造假被麻省理工退学 本人公开致歉",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-10 09:03:34",
+    "uuid": "8589d906-dcd7-497e-ae9a-220fda7885a1"
   },
   {
     "newsArray": [
