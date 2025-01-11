@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "洛杉矶消防局因预算削减1700万美元，导致超过100台消防设备无法使用，机械师职位被取消，严重影响灭火能力。",
+    "id": "8g3L4D0c1nH",
+    "order": 1736565196855,
+    "createdAt": "2025-01-11T03:13:17.000Z",
+    "publishDate": "2025-01-11T03:13:16.855Z",
+    "title": "预算被削减1700万美元 美国洛杉矶消防局长称严重影响灭火能力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-11 11:13:17",
+    "uuid": "6e19d4f1-b972-43cd-bf02-bb5d61fde396"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "随着特朗普即将就职，美国多家大企业开始调整政策以适应新环境，包括重新考虑多元化计划和气候变化措施 ...",
+    "id": "8g3KMlS5aMh",
+    "order": 1736564553015,
+    "createdAt": "2025-01-11T03:02:33.000Z",
+    "publishDate": "2025-01-11T03:02:33.015Z",
+    "title": "Meta、亚马逊、麦当劳等美国大企业终止或缩减多元化项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-11 11:02:33",
+    "uuid": "428cc570-c59a-42b9-91ca-7832776d3d1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "2024年全国数据市场交易规模预计超1600亿元，同比增长30%以上 ...",
+    "id": "8g3B44ysV2E",
+    "order": 1736564521275,
+    "createdAt": "2025-01-11T03:02:02.000Z",
+    "publishDate": "2025-01-11T03:02:01.275Z",
+    "title": "2024年全国数据市场交易规模预计超1600亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-11 11:02:02",
+    "uuid": "95e41c4e-80b1-4f35-a1b5-4eaab7f3f950"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国驻泰使馆提醒中国公民警惕泰国“高薪招聘”陷阱，不要轻信虚假承诺，以免受骗。根据中泰免签协定，从事工作、学习等须事先批准的活动须在入境前办妥相应签证 ...",
+    "id": "8g2h30hyJrs",
+    "order": 1736564497421,
+    "createdAt": "2025-01-11T03:01:38.000Z",
+    "publishDate": "2025-01-11T03:01:37.421Z",
+    "title": "我驻泰使馆提醒中国公民警惕“高薪招聘”陷阱",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-11 11:01:38",
+    "uuid": "6535a7e8-df35-4bf1-9dc3-2801dd1f2016"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
