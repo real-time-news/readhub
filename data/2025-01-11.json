@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软宣布DirectX将支持协作向量，推动下一代神经渲染技术跨平台运行。神经渲染利用AI和ML技术改变图形处理流程，协作向量通过优化矩阵向量运算加速AI工作负载在实时渲染中的应用，提升性能 ...",
+    "id": "8g40VrGdYeE",
+    "order": 1736602335357,
+    "createdAt": "2025-01-11T13:32:16.000Z",
+    "publishDate": "2025-01-11T13:32:15.357Z",
+    "title": "微软宣布 DirectX 将支持协作向量，推动神经渲染技术跨平台发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-11 21:32:16",
+    "uuid": "825062bc-17c7-4dfb-b642-4b4440b2c968"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌正在整合其人工智能服务、平台和工具的开发团队，以加速AI发展 ...",
+    "id": "8g1uXSVJBI1",
+    "order": 1736602331378,
+    "createdAt": "2025-01-11T13:32:12.000Z",
+    "publishDate": "2025-01-11T13:32:11.378Z",
+    "title": "谷歌将多个AI团队并入 Deepmind，加快 AI 发展速度",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-11 21:32:12",
+    "uuid": "2a4e78fd-2b93-49fb-af05-929ebf778d2d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "乌克兰总统泽连斯基在最高统帅部会议上提出，要求到2025年无人机产量创新高，并大幅增加国产导弹、火炮等装备的生产。",
+    "id": "8g42hBdQafA",
+    "order": 1736602280933,
+    "createdAt": "2025-01-11T13:31:21.000Z",
+    "publishDate": "2025-01-11T13:31:20.933Z",
+    "title": "乌总统召开最高统帅部会议，要求增加无人机产量",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-11 21:31:21",
+    "uuid": "80ef4e19-9577-4635-a424-0679d2e9f340"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
