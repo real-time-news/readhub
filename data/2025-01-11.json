@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Adobe将于2025年1月15日起停止提供20GB的Creative Cloud摄影计划，仅保留1TB存储方案 ...",
+    "id": "8g3cw3ESMne",
+    "order": 1736582601749,
+    "createdAt": "2025-01-11T08:03:22.000Z",
+    "publishDate": "2025-01-11T08:03:21.749Z",
+    "title": "Adobe取消20GB摄影计划，仅保留1TB版本，价格上涨近50%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-11 16:03:22",
+    "uuid": "a28e73d9-c60d-4586-8b56-090a7475d92d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "蚂蚁集团与好大夫在线完成收购后首次联合亮相，宣布将合作推进医疗服务AI化，提高医生工作效率，并发布“AI助理”以助力医生科普和病历管理。",
+    "id": "8g3f5RrMUu7",
+    "order": 1736582512075,
+    "createdAt": "2025-01-11T08:01:52.000Z",
+    "publishDate": "2025-01-11T08:01:52.075Z",
+    "title": "蚂蚁集团收购好大夫 推进“AI+医疗”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-11 16:01:52",
+    "uuid": "7881580c-da35-4487-a454-5e83235a67a1"
+  },
+  {
+    "newsArray": [
       { "siteName": "央视新闻" },
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" }
