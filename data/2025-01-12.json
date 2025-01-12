@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "拳头游戏因洛杉矶及周边地区野火蔓延，至少在本周关闭其洛杉矶办公室，仅保留关键功能以维持游戏运作。尽管圣莫尼卡办公室不在撤离警告区域，但太平洋帕利塞兹大火已导致严重损失 ...",
+    "id": "8g4zxEsZOUr",
+    "order": 1736652145640,
+    "createdAt": "2025-01-12T03:22:26.000Z",
+    "publishDate": "2025-01-12T03:22:25.640Z",
+    "title": "拳头游戏因洛杉矶火灾暂时关闭办公室，仅保留基本功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-12 11:22:26",
+    "uuid": "55d0ed33-0d6e-4bb3-8836-bc04dc9c566e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "国产图像传感器制造商思特威推出了物联网系列首款高性能3MP图像传感器SC301HIOT，具备2048Hx1536V分辨率和4:3画幅比例，适合超广角摄像头设备 ...",
+    "id": "8g4x9MuF2YZ",
+    "order": 1736652116763,
+    "createdAt": "2025-01-12T03:21:57.000Z",
+    "publishDate": "2025-01-12T03:21:56.763Z",
+    "title": "思特威发布3MP高性能物联网图像传感器SC301HIOT，助力超广角监控",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-12 11:21:57",
+    "uuid": "f4b88a95-a0e6-4dcb-884b-47e3a020fc59"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "真我官方宣布，1月13日至19日将为真我GT7 Pro、GT Neo5等十款机型提供realme UI更新 ...",
+    "id": "8g4zJoDhdU4",
+    "order": 1736652113988,
+    "createdAt": "2025-01-12T03:21:53.000Z",
+    "publishDate": "2025-01-12T03:21:53.988Z",
+    "title": "真我官方发布 realme UI 更新预告：1 月 13 日至 19 日为十款机型提供更新",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-12 11:21:53",
+    "uuid": "0669689f-ea22-410e-bc06-a434f0568c6c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "英伟达CEO黄仁勋在CES 2025展会上宣布与丰田合作，基于NVIDIA DRIVE AGX Orin平台打造下一代汽车，并运行NVIDIA DriveOS操作系统 ...",
+    "id": "8g4uWnw200e",
+    "order": 1736651791714,
+    "createdAt": "2025-01-12T03:16:32.000Z",
+    "publishDate": "2025-01-12T03:16:31.714Z",
+    "title": "英伟达扩张车企朋友圈 剑指2026智能驾驶50亿美元营收",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-12 11:16:32",
+    "uuid": "c5b0c505-e28f-44a6-b332-fb0d7502c493"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "第一财经" },
       { "siteName": "界面" },
