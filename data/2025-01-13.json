@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "三星电子为应对全球NAND市场供过于求和价格下跌，决定减少中国西安工厂的NAND闪存产量，预计减少10%以上。同时，华城12号线和17号线也在调整供应 ...",
+    "id": "8g6giYE2J3e",
+    "order": 1736743862084,
+    "createdAt": "2025-01-13T04:51:03.000Z",
+    "publishDate": "2025-01-13T04:51:02.084Z",
+    "title": "三星电子决定减少NAND闪存产量，西安工厂减产超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-13 12:51:03",
+    "uuid": "91be5d56-2dec-4e30-875b-573a8851c5a6"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -34,6 +51,24 @@
     "up": false,
     "date": "2025-01-13 12:22:16",
     "uuid": "1853d3b9-1c84-4dcc-b7ba-da07f6bc5e44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "欧洲央行首席经济学家Lane表示，为确保经济增长和履行价格稳定职责，央行可能会进一步降低利率，并可能采取更多货币宽松政策。如果不调整政策立场，实现通胀目标将面临风险。",
+    "id": "8g6jAtEIjNH",
+    "order": 1736743760994,
+    "createdAt": "2025-01-13T04:22:11.000Z",
+    "publishDate": "2025-01-13T04:49:20.994Z",
+    "title": "欧洲央行首席经济学家Lane：可能进一步降息以确保经济增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-13 12:22:11",
+    "uuid": "0a57f0e7-4e59-4551-b20f-c50587ddf922"
   },
   {
     "newsArray": [
