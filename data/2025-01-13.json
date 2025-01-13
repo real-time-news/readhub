@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "欧盟委员会正在调查苹果公司的新收费结构，通过发放新一轮调查问卷关注其“核心技术费”。调查关注点包括新收费结构是否转嫁给消费者、开发者是否需调整商业模式以及苹果关于降低开发者成本的预测是否准确。",
+    "id": "8g7NFB6C2mU",
+    "order": 1736777500131,
+    "createdAt": "2025-01-13T14:11:42.000Z",
+    "publishDate": "2025-01-13T14:11:40.131Z",
+    "title": "苹果公司新收费结构据悉面临欧盟审查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-13 22:11:42",
+    "uuid": "ee539ae2-79e1-43eb-beec-f5f81f78a9bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美团在2024年严厉打击外挂软件，通过线上识别和线下配合警方行动，打击了近30个外挂软件，捣毁了5个涉案团伙。其中一起案件涉及39名嫌疑人，涉案金额达3000余万元 ...",
+    "id": "8g7NEOHkrwI",
+    "order": 1736777051132,
+    "createdAt": "2025-01-13T14:04:13.000Z",
+    "publishDate": "2025-01-13T14:04:11.132Z",
+    "title": "美团：2024年通过线上识别并打击外挂软件近30个",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-13 22:04:13",
+    "uuid": "42461778-dca5-4e5a-8da0-5c18177e8e28"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "Semler Scientific公司在2024年12月16日至2025年1月10日期间购入237枚比特币，总投资2330万美元，平均购入价格为98,267美元。",
+    "id": "8g7MIP5GXxw",
+    "order": 1736777048191,
+    "createdAt": "2025-01-13T14:04:10.000Z",
+    "publishDate": "2025-01-13T14:04:08.191Z",
+    "title": "Semler Scientific公司宣布以2330万美元增持237枚比特币",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-13 22:04:10",
+    "uuid": "6955e884-32c4-46c2-8e49-d3f032da87cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "零跑汽车宣布2024年第四季度实现净利润转正，成为第二家盈利的新势力。该季度月平均交付超4万台，C系列车型销量占比超77%，显著的销量增长和产品结构优化带动营业收入大幅提升 ...",
+    "id": "8g7POa8vfT2",
+    "order": 1736777045639,
+    "createdAt": "2025-01-13T14:04:07.000Z",
+    "publishDate": "2025-01-13T14:04:05.639Z",
+    "title": "零跑汽车成第二家盈利新势力 提前一年达成目标",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-13 22:04:07",
+    "uuid": "32eecc10-49eb-4e47-980a-86f5f45062d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达推出了名为Nemotron-CC的大型英文AI训练数据库，包含6.3万亿个Token，其中1.9万亿为合成数据 ...",
+    "id": "8g7MRRA6yIc",
+    "order": 1736776976233,
+    "createdAt": "2025-01-13T14:02:58.000Z",
+    "publishDate": "2025-01-13T14:02:56.233Z",
+    "title": "英伟达发布 6.3 万亿 Token 大型 AI 训练数据库 Nemotron-CC",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-13 22:02:58",
+    "uuid": "fa8c7d8b-cacb-4e8e-ab21-cfdbec5b435b"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "证券时报网" },
