@@ -1,6 +1,176 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "高通宣布重要人事变动，英特尔前Xeon服务器处理器首席架构师Sailesh Kottapalli加盟，担任高级副总裁。高通正在扩大数据中心团队，并研发高性能服务器解决方案 ...",
+    "id": "8g8oUJiUuAa",
+    "order": 1736912428720,
+    "createdAt": "2025-01-15T03:40:31.000Z",
+    "publishDate": "2025-01-15T03:40:28.720Z",
+    "title": "高通重燃数据中心战火，英特尔Xeon首席架构师强势加盟",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:40:31",
+    "uuid": "c4e6e7f2-fb1b-4c11-948e-ac5e6bf10b56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenZFS 2.3版本更新发布，主要针对Linux和FreeBSD系统，带来内核支持扩展、性能优化和新功能 ...",
+    "id": "8g9uOVkcRE6",
+    "order": 1736912391347,
+    "createdAt": "2025-01-15T03:39:52.000Z",
+    "publishDate": "2025-01-15T03:39:51.347Z",
+    "title": "OpenZFS 2.3 发布：性能提升与多项新功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:39:52",
+    "uuid": "f90dd5e5-ae61-4d95-b1bf-4b9ca32cc103"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "联商网" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "良品铺子独立董事李四海因个人原因辞职，其职责将持续至新任独立董事就任。公司将尽快补选独立董事，确保治理结构完整合规。李四海的辞职不影响公司运营和治理有效性。",
+    "id": "8g8tYpuvQZN",
+    "order": 1736912328270,
+    "createdAt": "2025-01-15T03:38:50.000Z",
+    "publishDate": "2025-01-15T03:38:48.270Z",
+    "title": "良品铺子独立董事李四海因工作原因辞职",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:38:50",
+    "uuid": "8d77699f-e69d-4e57-8451-c4f4d8e648a8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国务院台办发言人陈斌华在新闻发布会上表示，1月7日西藏日喀则市定日县发生6.8级地震后，台湾各界和民众通过多种形式向灾区表达关心慰问并提供捐助 ...",
+    "id": "8g9xGyEyhOX",
+    "order": 1736912249853,
+    "createdAt": "2025-01-15T03:37:31.000Z",
+    "publishDate": "2025-01-15T03:37:29.853Z",
+    "title": "台湾各界和民众向地震灾区表达慰问、提供捐助 国台办：表示感谢",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:37:31",
+    "uuid": "5a930bcd-d36f-4e95-9246-28be766170cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "投资界" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "盛方科技完成数千万元人民币A轮融资，由弘晖基金投资，资金将用于大功率准分子激光器研发和生产规模扩张，加速在显示屏厂的验证和供应 ...",
+    "id": "8g8wj6SfJ6A",
+    "order": 1736912249866,
+    "createdAt": "2025-01-15T03:37:31.000Z",
+    "publishDate": "2025-01-15T03:37:29.866Z",
+    "title": "「盛方科技」完成数千万元A轮融资，弘晖基金独家投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:37:31",
+    "uuid": "f732bdb5-1148-49a5-9dcd-cfb63f042c9f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "奥地利云服务提供商Anexia因VMware许可费用飙升和合作条款变动，决定将12000个虚拟机从VMware迁移至基于KVM的开源系统 ...",
+    "id": "8g9y0BFHmLj",
+    "order": 1736912250180,
+    "createdAt": "2025-01-15T03:37:31.000Z",
+    "publishDate": "2025-01-15T03:37:30.180Z",
+    "title": "Anexia弃VMware转开源，1.2万虚拟机大迁移背后的成本考量",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:37:31",
+    "uuid": "cfb7a671-5cd9-4ce6-9c0b-3c1e0a3c3733"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国第二艘国产大型邮轮“爱达・花城号”在上海外高桥造船有限公司实现全船贯通，进入快速建造阶段，计划2026年交付。该船建造速度较首制船缩短2个多月，与欧洲顶尖大型邮轮建造企业相当 ...",
+    "id": "8g9ygIi2qTg",
+    "order": 1736912245445,
+    "createdAt": "2025-01-15T03:37:27.000Z",
+    "publishDate": "2025-01-15T03:37:25.445Z",
+    "title": "第二艘国产大型邮轮“爱达・花城号”全船贯通，建造速度比肩欧洲顶尖企业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:37:27",
+    "uuid": "36c1684b-a1ff-4557-bef2-c93db852817c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "近期，银行系基金公司如浦银安盛和兴业基金等新入局者在ETF领域取得显著成绩，首发规模均超10亿元，显示出银行系公募发展ETF及指数业务的决心 ...",
+    "id": "8g9elVWVVsl",
+    "order": 1736912211088,
+    "createdAt": "2025-01-15T03:36:52.000Z",
+    "publishDate": "2025-01-15T03:36:51.088Z",
+    "title": "银行系公募试水ETF成效初现",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:36:52",
+    "uuid": "db1a5f2c-a032-4ee3-a5ac-a9fd5bac6bf0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "英洛华涨停，龙磁科技、西磁科技等稀土永磁概念股跟涨。自然资源部表示，去年我国锂、锆铪、氦气、稀土等战略新兴产业矿产取得大突破。",
+    "id": "8g9yorxTAUY",
+    "order": 1736912182223,
+    "createdAt": "2025-01-15T03:36:24.000Z",
+    "publishDate": "2025-01-15T03:36:22.223Z",
+    "title": "稀土永磁概念股震荡反弹 英洛华涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:36:24",
+    "uuid": "3d38b669-1716-4329-be68-fd9ee292ba3d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国司法部对私募股权公司KKR提起民事诉讼，指控其在至少16项交易中违反《哈特-斯科特-罗迪诺法案》的并购披露要求，未提供完整、准确的合并前备案 ...",
+    "id": "8g9GQDubTa8",
+    "order": 1736912182217,
+    "createdAt": "2025-01-15T03:36:23.000Z",
+    "publishDate": "2025-01-15T03:36:22.217Z",
+    "title": "私募股权公司KKR涉嫌逃避反垄断信披，遭美国司法部起诉",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 11:36:23",
+    "uuid": "a29772eb-396f-416f-8c42-2ee978a49bf4"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" }
