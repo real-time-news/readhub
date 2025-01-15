@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "全球基础建设合伙公司（GIP）CEO Adebayo Ogunlesi加入OpenAI董事会，将提供建议以确保公司获得推进AI发展所需的基础设施 ...",
+    "id": "8gA3gTWrKM5",
+    "order": 1736915545804,
+    "createdAt": "2025-01-15T04:32:27.000Z",
+    "publishDate": "2025-01-15T04:32:25.804Z",
+    "title": "全球基础建设合伙公司CEO加入OpenAI董事会",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 12:32:27",
+    "uuid": "75421bd2-f8cd-423b-bd48-247aa3fd1c9b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "随着人工智能领域竞争加剧，AI推理芯片成为降低生成式AI计算成本、满足日常运行需求的关键。这些芯片性能提升和成本降低，有望推动新一轮AI应用创新 ...",
+    "id": "8g9ulIxRUUe",
+    "order": 1736914881838,
+    "createdAt": "2025-01-15T04:21:22.000Z",
+    "publishDate": "2025-01-15T04:21:21.838Z",
+    "title": "AI推理芯片激发新一轮应用创新",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 12:21:22",
+    "uuid": "64cf916f-6e0d-420b-a165-2d0f51dc814d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "爱范儿" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "OpenAI正在测试名为Tasks的虚拟助理功能，旨在与Siri和Alexa竞争。该功能将允许ChatGPT用户设置一次性或定期任务提醒，如音乐会门票销售提醒或每日新闻简报 ...",
+    "id": "8g9sEJ0weMt",
+    "order": 1736914770950,
+    "createdAt": "2025-01-15T04:19:31.000Z",
+    "publishDate": "2025-01-15T04:19:30.950Z",
+    "title": "ChatGPT推出Tasks测试功能 类似Google Assistant或Siri",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 12:19:31",
+    "uuid": "1628d2b7-ae07-4805-ba32-90285ac790c1"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "36Kr" },
       { "siteName": "第一财经" }
@@ -66,6 +117,25 @@
     "up": false,
     "date": "2025-01-15 12:07:17",
     "uuid": "c4568af2-042c-4440-95dd-dbdaf07ef78d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "广西农夫山泉供应链有限公司成立，法定代表人饶明红，注册资本200万，业务涵盖供应链管理、农产品收购销售等，由农夫山泉全资持股。",
+    "id": "8g9yOMBXJd7",
+    "order": 1736915550276,
+    "createdAt": "2025-01-15T04:03:27.000Z",
+    "publishDate": "2025-01-15T04:32:30.276Z",
+    "title": "农夫山泉在广西成立供应链公司，含初级农产品收购业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 12:03:27",
+    "uuid": "4f643543-6406-4f82-90ce-a317de107db5"
   },
   {
     "newsArray": [
@@ -785,6 +855,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "俄罗斯于1月14日发生大规模网络中断，固定和移动网络均受影响，部分服务至17时55分仍未恢复。事故原因正在调查中。",
+    "id": "8g9GOviddDx",
+    "order": 1736914877832,
+    "createdAt": "2025-01-15T02:07:45.000Z",
+    "publishDate": "2025-01-15T04:21:17.832Z",
+    "title": "俄罗斯发生大规模短时间断网事件 原因尚不明确",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 10:07:45",
+    "uuid": "75611bf0-9986-46e6-8180-f85617520798"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
@@ -1145,6 +1234,25 @@
     "up": false,
     "date": "2025-01-15 08:02:44",
     "uuid": "39fbbbc8-bc68-4799-9c2a-cc19101d31df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "金融监管总局在2025年监管工作会议上将中小金融机构改革化险作为首要任务，强调要全力处置高风险机构，促进治理、管理和业务的重塑与重组 ...",
+    "id": "8g929cmRmL3",
+    "order": 1736914876638,
+    "createdAt": "2025-01-14T23:52:43.000Z",
+    "publishDate": "2025-01-15T04:21:16.638Z",
+    "title": "中小金融机构改革化险步入“快车道”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 07:52:43",
+    "uuid": "f7fe16f4-acea-4bcc-bd60-d2d2251abcee"
   },
   {
     "newsArray": [
