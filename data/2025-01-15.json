@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "网易科技" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "抖音视界有限公司近期登记了“小荷AI医生”的美术作品著作权，并申请注册了4枚相同名称的商标，涉及医疗园艺、广告销售、科学仪器和网站服务领域，目前商标状态为待实质审查。",
+    "id": "8gAJjdTIk97",
+    "order": 1736928669952,
+    "createdAt": "2025-01-15T08:11:10.000Z",
+    "publishDate": "2025-01-15T08:11:09.952Z",
+    "title": "抖音登记小荷AI医生作品著作权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 16:11:10",
+    "uuid": "3df15707-1ab2-4cba-a9f4-f2e6faf2c5c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "月之暗面推出Kimi多模态图片理解模型API，新增Vision模型moonshot-v1-Vision-preview，具备图像识别、OCR文字识别和图像理解能力，支持多轮对话和流式输出，按量计费 ...",
+    "id": "8gA57HEpOcr",
+    "order": 1736928281594,
+    "createdAt": "2025-01-15T08:04:42.000Z",
+    "publishDate": "2025-01-15T08:04:41.594Z",
+    "title": "月之暗面发布多模态图片理解模型 API，Vision 模型精准识别图像与文字",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 16:04:42",
+    "uuid": "82e74b78-0afd-418a-97ae-8273f1edc910"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国禁止中国个人智能汽车进入市场，中国外交部发言人郭嘉昆表示反对，认为美方做法违反市场经济和公平竞争原则，中方将采取措施维护合法权益。",
+    "id": "8gAIhxdcUXi",
+    "order": 1736928274977,
+    "createdAt": "2025-01-15T08:04:34.000Z",
+    "publishDate": "2025-01-15T08:04:34.977Z",
+    "title": "白宫称已最终确定打击中俄汽车技术规则 外交部：坚决反对",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 16:04:34",
+    "uuid": "8e9c2389-0511-4d5a-a7a3-e731a734d2d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "育碧针对微软Windows 11 24H2更新发布了多款游戏的兼容性更新，包括《刺客信条：英灵殿》1.70版本和《刺客信条：起源》1.62版本，主要修复兼容性问题 ...",
+    "id": "8gAAoC5rRpW",
+    "order": 1736928188355,
+    "createdAt": "2025-01-15T08:03:09.000Z",
+    "publishDate": "2025-01-15T08:03:08.355Z",
+    "title": "育碧《刺客信条》系列游戏迎来更新，修复 Win11 24H2 兼容性问题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 16:03:09",
+    "uuid": "ea2f0394-79f6-4cd4-b600-7118ffe5228c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "微软计划在美国停止部分咨询业务招聘以削减成本，并要求员工通过远程会议代替差旅费支出。",
+    "id": "8g9qrMxFXk2",
+    "order": 1736928695105,
+    "createdAt": "2025-01-15T07:56:13.000Z",
+    "publishDate": "2025-01-15T08:11:35.105Z",
+    "title": "微软暂停美国咨询业务部分招聘，以削减成本",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-15 15:56:13",
+    "uuid": "b48d3868-7ad8-4786-9633-86e0bf60b771"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
