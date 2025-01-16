@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "科学网" },
+      { "siteName": "中国科技网" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "《国家自然科学基金条例》自2025年1月1日起正式施行，新增第十七条授权基金管理机构对重大原创性、交叉学科创新等项目制定专门的申请与评审规定，以鼓励原创性基础研究 ...",
+    "id": "8g9gqIqYjDm",
+    "order": 1737026188547,
+    "createdAt": "2025-01-16T11:16:29.000Z",
+    "publishDate": "2025-01-16T11:16:28.547Z",
+    "title": "新修订的《国家自然科学基金条例》如何鼓励原创",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-16 19:16:29",
+    "uuid": "3108fd23-f598-403c-bc6c-cb806756ba40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "谷歌CEO皮查伊表示，公司Gemini AI技术已超越竞争对手，目标是到年底全球有5亿人使用基于该技术构建的聊天机器人 ...",
+    "id": "8gCBs9S9NZt",
+    "order": 1737026035060,
+    "createdAt": "2025-01-16T11:13:56.000Z",
+    "publishDate": "2025-01-16T11:13:55.060Z",
+    "title": "谷歌CEO认为Gemini能力“已超竞争对手” 目标到年底使用人数达5亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-16 19:13:56",
+    "uuid": "0fb990ea-e531-40a4-b8ee-6900c92377d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "浦发银行2024年营业收入1707.48亿元，同比下降1.55%。净利润452.57亿元，同比增长23.31%。",
+    "id": "8gCBtUxLCzA",
+    "order": 1737026035820,
+    "createdAt": "2025-01-16T11:13:56.000Z",
+    "publishDate": "2025-01-16T11:13:55.820Z",
+    "title": "浦发银行：2024年净利润同比增长23.31%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-16 19:13:56",
+    "uuid": "ccc66664-e353-4d56-ac04-0271c8b04d6d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "三星在美国推出的Samsung Care+ with Theft and Loss套餐进行了更新，现在购买该套餐的用户可以享受无限次免费屏幕和背部玻璃更换服务，无需额外支付29美元费用 ...",
+    "id": "8gBf2qsHY11",
+    "order": 1737026021686,
+    "createdAt": "2025-01-16T11:13:42.000Z",
+    "publishDate": "2025-01-16T11:13:41.686Z",
+    "title": "美版三星Care+已支持免费无限次数换屏 每月最低8美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-16 19:13:42",
+    "uuid": "8bdce28e-caa3-4a04-9f4a-376c8303ecd3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2025年1月16日18时52分，安徽合肥市肥东县发生3.7级地震，震源深度12千米。",
+    "id": "8gCBAQSQpgx",
+    "order": 1737025916476,
+    "createdAt": "2025-01-16T11:11:58.000Z",
+    "publishDate": "2025-01-16T11:11:56.476Z",
+    "title": "安徽合肥市肥东县发生3.7级地震 震源深度12千米",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-16 19:11:58",
+    "uuid": "604c4cd6-b9a3-45c2-9ca3-3ea3b3b21d4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "银座股份预计2024年净利润同比预降70%至79.92%，预计净利润为4350万元至6500万元 ...",
+    "id": "8gCBAKZOgPx",
+    "order": 1737025637134,
+    "createdAt": "2025-01-16T11:07:18.000Z",
+    "publishDate": "2025-01-16T11:07:17.134Z",
+    "title": "银座股份：2024年净利同比预降70%至79.92%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-16 19:07:18",
+    "uuid": "bd186825-eb9c-4404-8f6c-4108e13399aa"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "财经网" }
@@ -864,6 +968,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "全球第四大汽车制造商斯特兰蒂斯去年第四季度出货量同比下降9%至139.5万辆，其中北美地区下降28%，大欧洲地区下降6%，南美地区增长12% ...",
+    "id": "8gBvV02FJVv",
+    "order": 1737026141257,
+    "createdAt": "2025-01-16T09:05:15.000Z",
+    "publishDate": "2025-01-16T11:15:41.257Z",
+    "title": "Stellantis第四季度全球出货量同比下降9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-16 17:05:15",
+    "uuid": "8ae07e6f-6791-4b49-aa65-e1bc1bd2f999"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "电商报" },
       { "siteName": "金融界" }
@@ -1360,6 +1481,23 @@
     "up": false,
     "date": "2025-01-16 15:05:57",
     "uuid": "e14b8a0a-fe6d-46d5-8725-d9581ca0118c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "三亚酒店协会近日发布声明，否认了关于三亚酒店春节价格上涨的不实信息，强调会员酒店预订率和价格均保持稳定。协会表示将遵循发改委规定，确保房价不超过近两年同期水平 ...",
+    "id": "8gBrCTYkus6",
+    "order": 1737026170715,
+    "createdAt": "2025-01-16T07:05:44.000Z",
+    "publishDate": "2025-01-16T11:16:10.715Z",
+    "title": "三亚酒店协会回应春节涨价：所有酒店同等房型价格均不会超过近两年同期水平",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-16 15:05:44",
+    "uuid": "7a450e65-8d38-4195-9668-5ae5edc14c29"
   },
   {
     "newsArray": [
