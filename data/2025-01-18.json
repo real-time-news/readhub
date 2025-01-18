@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "亚马逊因最新型号无人机在雨天测试中坠毁而暂停所有商业无人机配送服务，主要集中在得克萨斯州和亚利桑那州。事故调查显示软件问题是坠机的根本原因，降雨天气加剧了问题 ...",
+    "id": "8gEby7wCdvW",
+    "order": 1737195379446,
+    "createdAt": "2025-01-18T10:16:20.000Z",
+    "publishDate": "2025-01-18T10:16:19.446Z",
+    "title": "亚马逊暂停商业无人机配送服务以修复软件问题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-18 18:16:20",
+    "uuid": "6014c8ae-c138-4ab5-9527-3102879ce239"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "自选举日后，Ripple、Coinbase等加密公司向特朗普就职基金捐款超1000万美元，用于资助就职典礼活动 ...",
+    "id": "8gEpMWCsI7W",
+    "order": 1737195103390,
+    "createdAt": "2025-01-18T10:11:44.000Z",
+    "publishDate": "2025-01-18T10:11:43.390Z",
+    "title": "加密公司向特朗普就职基金投资逾1000万美元，争夺数字资产咨询委员会席位",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-18 18:11:44",
+    "uuid": "f7de6b6a-2832-4f13-87ae-11c254451504"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "澎湃新闻" },
       { "siteName": "华尔街见闻" }
@@ -406,6 +440,34 @@
     "up": false,
     "date": "2025-01-18 11:11:46",
     "uuid": "d093ee33-215c-4e71-85b2-600cacd89e81"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "财新网" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "特朗普宣布推出个人Meme币TRUMP，用户需访问“gettrumpmemes”网站获取，但存在被盗风险，需谨慎对待。",
+    "id": "8gEu4wluDq7",
+    "order": 1737195178811,
+    "createdAt": "2025-01-18T02:55:05.000Z",
+    "publishDate": "2025-01-18T10:12:58.811Z",
+    "title": "特朗普宣布推出个人Meme币TRUMP，暂未排除账号遭盗用可能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-18 10:55:05",
+    "uuid": "4e91dcb3-f193-4cf7-be59-cb9201aefd8e"
   },
   {
     "newsArray": [
