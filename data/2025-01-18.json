@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "雷克沙公司推出了Lexar PLAY PRO microSDXC Express存储卡，采用PCIe 3.0和NVMe 1.3接口，顺序读取速度最高985MB/s，写入速度最高600MB/s ...",
+    "id": "8gE0QHGMjdZ",
+    "order": 1737177626686,
+    "createdAt": "2025-01-18T05:20:27.000Z",
+    "publishDate": "2025-01-18T05:20:26.686Z",
+    "title": "雷克沙推出 microSDXC Express 存储卡：峰值读取速度可达985MB/s",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-18 13:20:27",
+    "uuid": "b9492a2d-25d2-47a6-8712-763365a5e322"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小鹏汽车宣布其自营充电网络已覆盖420多个城市，拥有2025座站，并计划在2025年新增1000+超充/超快充站 ...",
+    "id": "8gDp0AGJqFc",
+    "order": 1737177597127,
+    "createdAt": "2025-01-18T05:19:58.000Z",
+    "publishDate": "2025-01-18T05:19:57.127Z",
+    "title": "小鹏汽车正式接入BP充电网络：国内已建2025个自营站",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-18 13:19:58",
+    "uuid": "08d9f000-0e7b-43b2-8fa6-d1d961807831"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "站长之家" },
       { "siteName": "界面" }
