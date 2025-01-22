@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国务院新闻办公室将于2025年1月23日上午9时举行新闻发布会，由中国证监会主席吴清等官员介绍推动中长期资金入市、促进资本市场高质量发展的相关情况，并回答记者提问。",
+    "id": "8gLz9ruivFo",
+    "order": 1737535903499,
+    "createdAt": "2025-01-22T08:51:44.000Z",
+    "publishDate": "2025-01-22T08:51:43.499Z",
+    "title": "预告：国新办1月23日举行新闻发布会，介绍大力推动中长期资金入市，促进资本市场高质量发展有关情况",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 16:51:44",
+    "uuid": "e9408cf1-0284-482f-a27c-df970f6fe59c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "DoNews" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "金冠电气（688517.SH）在特高压项目大同-天津南100万伏特高压交流输变电工程中中标避雷器产品，中标金额2236万元，占2023年营业收入的3.46% ...",
+    "id": "8gIbD3TiIsi",
+    "order": 1737535799211,
+    "createdAt": "2025-01-22T08:49:59.000Z",
+    "publishDate": "2025-01-22T08:49:59.211Z",
+    "title": "金冠电气中标特高压项目，中标金额达2236万元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 16:49:59",
+    "uuid": "080dd243-200b-4d0b-932d-c2e8b3847e79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "永杉锂业预计2024年实现归母净利润2400万元至3600万元，实现扭亏为盈。公司通过提高产能利用率和执行“高周转、保交付”战略，降低生产成本和存货跌价风险，实现产销量双增长。",
+    "id": "8gLyctik6qH",
+    "order": 1737535784911,
+    "createdAt": "2025-01-22T08:49:44.000Z",
+    "publishDate": "2025-01-22T08:49:44.911Z",
+    "title": "永杉锂业：预计2024年归母净利润2400万元-3600万元，同比扭亏为盈",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 16:49:44",
+    "uuid": "a10775bb-5f7f-456d-b67f-7d5b992dc16b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "欧洲斯托克600指数股价触及盘中新高。",
+    "id": "8gLxvbSiyZk",
+    "order": 1737535779592,
+    "createdAt": "2025-01-22T08:49:39.000Z",
+    "publishDate": "2025-01-22T08:49:39.592Z",
+    "title": "欧洲斯托克600指数股价触及盘中新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 16:49:39",
+    "uuid": "21a817df-9cf4-4d67-a295-2d3877e6a5ac"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财经网" },
       { "siteName": "财联社" },
@@ -33,6 +103,45 @@
     "up": false,
     "date": "2025-01-22 16:45:24",
     "uuid": "c6942b8d-ca93-4d79-bdb6-d20212fa72bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "扬电科技2024年预计净利润6100万元至8600万元，同比上升801.57%至1171.06%。扣非净利润6000万元至8500万元，同比上升1089.23%至1584.74% ...",
+    "id": "8gLybKC6w1M",
+    "order": 1737535731323,
+    "createdAt": "2025-01-22T08:45:03.000Z",
+    "publishDate": "2025-01-22T08:48:51.323Z",
+    "title": "扬电科技：2024年净利预计同比上升802%-1171%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 16:45:03",
+    "uuid": "df5b41ce-c83e-4f69-be75-81da51013525"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "蔚蓝锂芯预计2024年度净利润为4.2亿-5亿元，同比增长198%-255%，扣除非经常性损益后的净利润为3.6亿-4.4亿元，同比增长222.91%-294.67% ...",
+    "id": "8gLybFy7Axn",
+    "order": 1737535731961,
+    "createdAt": "2025-01-22T08:44:46.000Z",
+    "publishDate": "2025-01-22T08:48:51.961Z",
+    "title": "蔚蓝锂芯：2024年度预计盈利4.2亿-5亿元 同比增长198%-255%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 16:44:46",
+    "uuid": "d05976c2-f4ab-4300-8827-85e42288e32a"
   },
   {
     "newsArray": [
@@ -292,6 +401,24 @@
     "up": false,
     "date": "2025-01-22 16:16:58",
     "uuid": "8226c31b-6323-48aa-8857-b47b77763e07"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "乘联会秘书长崔东树表示，中国汽车进口量自2017年的124万台逐年下降，2023年降至80万台，2024年进一步降至70万台，同比下降12% ...",
+    "id": "8gKR6nUu7wh",
+    "order": 1737535769385,
+    "createdAt": "2025-01-22T08:12:59.000Z",
+    "publishDate": "2025-01-22T08:49:29.385Z",
+    "title": "乘联会崔东树：2024年中国汽车进口70万台，同比下降12%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 16:12:59",
+    "uuid": "abb1dac2-4d28-43e9-ad2a-d406e533ed37"
   },
   {
     "newsArray": [
@@ -2499,6 +2626,35 @@
     "up": false,
     "date": "2025-01-22 07:41:08",
     "uuid": "b3c3f2fe-1fd5-49c3-bec8-8ebc819b7ea9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "DoNews" },
+      { "siteName": "Odaily" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "每经网" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "爱范儿" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "软银、OpenAI和甲骨文联合成立新AI公司Stargate，计划四年内投资5000亿美元，立即投资1000亿美元建设AI基础设施，以确保美国在AI领域的领导地位，创造工作岗位，并带来经济利益 ...",
+    "id": "8gLH2sCcRAK",
+    "order": 1737535795760,
+    "createdAt": "2025-01-21T23:31:54.000Z",
+    "publishDate": "2025-01-22T08:49:55.760Z",
+    "title": "OpenAI、软银等宣布合资成立 Stargate 项目：未来四年投资 5000 亿美元打造 AI 基础设施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 07:31:54",
+    "uuid": "9b1dd602-a93f-4b46-b8dc-0d1ea56865a0"
   },
   {
     "newsArray": [
