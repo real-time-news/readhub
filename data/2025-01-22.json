@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "印度尼西亚反垄断监管机构KPPU对谷歌处以2020亿印尼盾罚款，因其在Play商店支付结算系统中滥用市场主导地位，强制开发者使用其支付系统并收取高达30%的抽成 ...",
+    "id": "8gLMM7Ki3e2",
+    "order": 1737516372795,
+    "createdAt": "2025-01-22T03:26:12.000Z",
+    "publishDate": "2025-01-22T03:26:12.795Z",
+    "title": "印尼反垄断机构对谷歌开出高额罚单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 11:26:12",
+    "uuid": "62516829-1b97-489b-bf1f-ded8d3119511"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "网易科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "有道发布国内首个推理模型“子曰-o1”，该模型轻量级、支持消费级显卡部署，并采用思维链技术提供中文逻辑推理，实现高解题准确性。",
+    "id": "8gLb7kh3JuU",
+    "order": 1737516196882,
+    "createdAt": "2025-01-22T03:23:17.000Z",
+    "publishDate": "2025-01-22T03:23:16.882Z",
+    "title": "有道子曰-o1推理模型正式发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 11:23:17",
+    "uuid": "f7fcf857-914e-4b50-8a98-4689995a27c7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "公募基金2024年四季报密集披露，多数基金在震荡市场中保持高仓位并增配科技成长领域。赵枫管理的睿远均衡价值三年持有期混合权益投资占比提升至87.42% ...",
+    "id": "8gLMjUNFUEv",
+    "order": 1737516184857,
+    "createdAt": "2025-01-22T03:23:06.000Z",
+    "publishDate": "2025-01-22T03:23:04.857Z",
+    "title": "看好权益资产，绩优基金去年四季度增配科技成长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 11:23:06",
+    "uuid": "6bb2d82b-ae6d-4bad-8398-49de46f84306"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "澳洲电商平台Catch因长期亏损将于2025年4月30日停止运营，卖家最后销售日期为2025年1月31日，之后平台将不再支持新商品上架和接受新订单。",
+    "id": "8gKMYjn3pEp",
+    "order": 1737515889452,
+    "createdAt": "2025-01-22T03:18:10.000Z",
+    "publishDate": "2025-01-22T03:18:09.452Z",
+    "title": "澳洲电商巨头Catch因长期亏损宣布关闭",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 11:18:10",
+    "uuid": "e11eea54-ad04-4438-8e54-d059ca178121"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "DeepMind计划今年将部分AI设计药物推进至临床试验阶段，其分拆公司Isomorphic Labs致力于缩短药物发现过程 ...",
+    "id": "8gLZDhtzVX3",
+    "order": 1737515870019,
+    "createdAt": "2025-01-22T03:17:51.000Z",
+    "publishDate": "2025-01-22T03:17:50.019Z",
+    "title": "DeepMind CEO：AI设计药物有望今年进入临床试验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 11:17:51",
+    "uuid": "9f7e7bf4-4c7b-4336-ad0c-56eefa290a1f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "中投公司于1月16日至17日召开2025年经营管理工作会议，回顾2024年工作并规划2025年重点任务 ...",
+    "id": "8gLb09wk5XL",
+    "order": 1737515617563,
+    "createdAt": "2025-01-22T03:13:39.000Z",
+    "publishDate": "2025-01-22T03:13:37.563Z",
+    "title": "中投公司：增强主权财富基金核心功能，积极有为服务国家发展大局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 11:13:39",
+    "uuid": "b0e30aa0-14c0-4cb5-93a1-8cc57385135d"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "DoNews" }
@@ -254,6 +356,25 @@
     "up": false,
     "date": "2025-01-22 10:26:09",
     "uuid": "8465b8c6-76f6-494a-96fc-755ed9bd4ecb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "光山工行澄清客户80万元存款无法取出的不实信息，经核查，该客户通过手机银行自行转账至第三方公司账户进行投资，未在银行网点操作。银行已向公安机关报案，并支持客户依法维权。",
+    "id": "8gKJ22cSWsa",
+    "order": 1737515553170,
+    "createdAt": "2025-01-22T02:14:51.000Z",
+    "publishDate": "2025-01-22T03:12:33.170Z",
+    "title": "工行光山支行：网传信息不实，“80万存款”系客户通过手机银行自行转账至第三方公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-22 10:14:51",
+    "uuid": "0d9d766d-9b3e-4c6b-856b-df78180e001b"
   },
   {
     "newsArray": [
