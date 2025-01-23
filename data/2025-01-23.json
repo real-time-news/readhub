@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国科学家在《自然》杂志发表论文，宣布首次记录到遥远的太空合声波，打破了关于合声波产生和传播机制的传统观点，发现了非线性波粒相互作用的新机制 ...",
+    "id": "8gNFEbzcpcF",
+    "order": 1737604021843,
+    "createdAt": "2025-01-23T03:47:02.000Z",
+    "publishDate": "2025-01-23T03:47:01.843Z",
+    "title": "中国科学家领衔团队首次记录遥远“太空合声”，距离地球超 16 万公里",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 11:47:02",
+    "uuid": "921f7308-8b28-4826-a696-e8bbf96f32c2"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "中证网" },
       { "siteName": "证券时报网" }
@@ -787,6 +804,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "纳斯达克CEO Adena Friedman在达沃斯论坛上表示，特朗普政府有机会重新考虑对上市公司的监管要求，以更好地利用公开市场。她期待与新政府合作，以不同方式思考监管问题。",
+    "id": "8gMRwXRZb0c",
+    "order": 1737603854087,
+    "createdAt": "2025-01-23T00:26:04.000Z",
+    "publishDate": "2025-01-23T03:44:14.087Z",
+    "title": "纳斯达克CEO敦促特朗普政府重塑监管 提升上市吸引力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 08:26:04",
+    "uuid": "29e1c683-e1a6-4b6f-8523-e1e1743a1ac4"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "DoNews" },
@@ -804,6 +839,23 @@
     "up": false,
     "date": "2025-01-23 08:25:59",
     "uuid": "e90e91f9-b798-41fa-974d-b4cf637a4e04"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "微软执行副总裁克里斯托弗·杨决定辞职，他负责业务发展、战略和风险投资。杨将于3月底离职，期间将提供过渡支持。他于2020年被任命为业务发展执行副总裁，曾任迈克菲CEO ...",
+    "id": "8gN2MybUTlv",
+    "order": 1737603870822,
+    "createdAt": "2025-01-23T00:25:52.000Z",
+    "publishDate": "2025-01-23T03:44:30.822Z",
+    "title": "微软业务发展执行副总裁克里斯托弗·杨辞职",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 08:25:52",
+    "uuid": "4e30dc6d-a0b6-4ac1-bad3-6e2896734f44"
   },
   {
     "newsArray": [
@@ -933,6 +985,47 @@
     "up": false,
     "date": "2025-01-23 08:13:45",
     "uuid": "b136fb32-8165-4fc0-b446-c60328f36902"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "贝莱德CEO Fink强调，建设数据中心需大量私营资金支持。贝莱德正与微软等合作，筹集300亿美元基金。",
+    "id": "8gMdLsIckXf",
+    "order": 1737603920279,
+    "createdAt": "2025-01-23T00:12:39.000Z",
+    "publishDate": "2025-01-23T03:45:20.279Z",
+    "title": "贝莱德：正与微软及其他方联手募集一支300亿美元的基金",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 08:12:39",
+    "uuid": "0eb1b464-ef2f-4b9e-b58b-ddd35ff5c396"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" },
+      { "siteName": "中关村在线" },
+      { "siteName": "AMZ123" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "电商巨头亚马逊今日宣布，将退出其在加拿大魁北克省的业务，这也将导致约 1,700 个全职工作岗位的流失，同时另有 250 名临时员工也因此受到影响 ...",
+    "id": "8gN0t7eT1ul",
+    "order": 1737604131094,
+    "createdAt": "2025-01-22T23:53:06.000Z",
+    "publishDate": "2025-01-23T03:48:51.094Z",
+    "title": "亚马逊宣布退出加拿大魁北克业务，并裁员约 1700 人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 07:53:06",
+    "uuid": "7915a197-6a8f-4ebc-a1f7-64d5c53a5f1b"
   },
   {
     "newsArray": [
