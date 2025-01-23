@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "苹果公司因未披露部分Apple Watch表带含有可能引起健康问题的有毒物质PFAS而被提起集体诉讼，诉讼涉及在美国购买过相关表带的消费者。",
+    "id": "8gNlN44BtKx",
+    "order": 1737672078461,
+    "createdAt": "2025-01-23T22:41:19.000Z",
+    "publishDate": "2025-01-23T22:41:18.461Z",
+    "title": "苹果公司因Apple Watch表带含毒物质面临集体诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 06:41:19",
+    "uuid": "45f93829-b84e-43c6-bb03-7391e65f939a"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
