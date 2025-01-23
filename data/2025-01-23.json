@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近期，我国与德国、日本、韩国、英国等国合作，在国际标准化组织（ISO）成功立项了4项智能网联汽车国际标准提案，涉及车门开启预警系统、后方交通穿行提示系统、组合驾驶辅助系统试验方法以及自动驾驶场景自然语言描述方法。",
+    "id": "8gNfLGLvdOH",
+    "order": 1737623640455,
+    "createdAt": "2025-01-23T09:14:01.000Z",
+    "publishDate": "2025-01-23T09:14:00.455Z",
+    "title": "涉及自动驾驶等方面，四项智能网联汽车国际标准成功立项",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 17:14:01",
+    "uuid": "7ccc3b7e-ce74-4758-b859-37685e77d29e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "沪深交所发布关于2025年春节休市安排的通知，1月28日（星期二）至2月4日（星期二）休市，2月5日（星期三）起照常开市。",
+    "id": "8gNfLD3YRjn",
+    "order": 1737623641179,
+    "createdAt": "2025-01-23T09:12:32.000Z",
+    "publishDate": "2025-01-23T09:14:01.179Z",
+    "title": "沪深交所：1月28日至2月4日休市，2月5日起照常开市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 17:12:32",
+    "uuid": "cd727538-7338-42ff-ba6a-4a4d81352004"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华天科技2024年度业绩预告显示，预计净利润为5.5亿元至6.3亿元，同比增长143%至178%。公司表示，订单增加和产能利用率提高导致营业收入显著增长，从而推动业绩大幅提升。",
+    "id": "8gNc4ZkboZi",
+    "order": 1737623017042,
+    "createdAt": "2025-01-23T09:03:37.000Z",
+    "publishDate": "2025-01-23T09:03:37.042Z",
+    "title": "华天科技：2024年度预计盈利5.5亿元-6.3亿元 同比增长143%-178%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 17:03:37",
+    "uuid": "35f060b5-b6ae-4583-8ffe-66977a5dd81d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "捷豹路虎首席商务官Lennard Hoornik透露，电动版路虎卫士预计2030年左右推出。由于现款卫士的车身结构和底盘限制，电气化存在技术挑战，需等待新平台 ...",
+    "id": "8gNbLAnjHUn",
+    "order": 1737622997457,
+    "createdAt": "2025-01-23T09:03:18.000Z",
+    "publishDate": "2025-01-23T09:03:17.457Z",
+    "title": "电动版路虎卫士或需等待至2030年，现有平台难以支持电气化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 17:03:18",
+    "uuid": "e378476e-d5d6-4cd9-860d-16fb46bba3f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "片仔癀2024年年度业绩快报显示，营业总收入为107.69亿元，同比增长7.06%。净利润29.74亿元，同比增长6.32%。",
+    "id": "8gNevcTVhU7",
+    "order": 1737622940665,
+    "createdAt": "2025-01-23T09:02:21.000Z",
+    "publishDate": "2025-01-23T09:02:20.665Z",
+    "title": "片仔癀：2024年净利润30亿元，同比增长6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 17:02:21",
+    "uuid": "affd659f-7958-4e2b-8c0d-9884d58d8263"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -283,6 +375,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "有网友称TikTok美国数据中心已迁移至Meta所在地，但知情人士否认此消息不实。",
+    "id": "8gNbLRnxUaX",
+    "order": 1737622718850,
+    "createdAt": "2025-01-23T08:14:56.000Z",
+    "publishDate": "2025-01-23T08:58:38.850Z",
+    "title": "传 TikTok 在美数据中心地址已迁移到 Meta 所在地，知情人士否认",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 16:14:56",
+    "uuid": "42fe0202-09fd-405a-80b2-a82cbd7dacc6"
+  },
+  {
+    "newsArray": [
       { "siteName": "中证网" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -297,6 +409,27 @@
     "up": false,
     "date": "2025-01-23 16:12:47",
     "uuid": "abcc515b-69c4-4992-be6f-7882c0beab80"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中证网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "近期，有关抖音集团在北京朝阳区建设三级医院的消息被证实为误解。实际上，该医院为美中宜和集团旗下美中爱瑞肿瘤医院的新院区，与抖音集团并列的字节跳动子公司 ...",
+    "id": "8gNS71YAv5i",
+    "order": 1737622781508,
+    "createdAt": "2025-01-23T08:11:28.000Z",
+    "publishDate": "2025-01-23T08:59:41.508Z",
+    "title": "字节跳动回应在北京建设三级医院：系美中宜和集团旗下医院的新院区",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 16:11:28",
+    "uuid": "511596a0-c9d2-48e8-8f10-9c8a5f1c6440"
   },
   {
     "newsArray": [
@@ -1363,6 +1496,43 @@
     "up": false,
     "date": "2025-01-23 12:12:49",
     "uuid": "070f680f-a333-45ea-8ffa-21fc8d5fd1a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "丰田汽车北美公司宣布，执行副总裁兼首席运营官杰克·霍利斯退休，由丰田金融服务公司董事兼集团首席运营官马克·坦普林接任，将于2025年1月27日上任 ...",
+    "id": "8gNBgDImjKH",
+    "order": 1737623480886,
+    "createdAt": "2025-01-23T04:07:20.000Z",
+    "publishDate": "2025-01-23T09:11:20.886Z",
+    "title": "丰田汽车北美公司宣布高层人事变动，马克·坦普林接任首席运营官",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 12:07:20",
+    "uuid": "a4d02960-3f4f-429a-8cf8-560868607c7a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "招商证券资产管理有限公司宣布，自2025年1月21日起，总经理易卫东兼任公司首席信息官。易卫东曾任招商证券多个重要职务，包括托管部总经理、资产管理总部理财产品部总经理和风险控制部总经理等。",
+    "id": "8gN6gIMejO3",
+    "order": 1737623480676,
+    "createdAt": "2025-01-23T04:07:11.000Z",
+    "publishDate": "2025-01-23T09:11:20.676Z",
+    "title": "招商资管总经理易卫东兼任公司首席信息官",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-23 12:07:11",
+    "uuid": "505018d8-e80f-42ae-a372-de303c8429d7"
   },
   {
     "newsArray": [
