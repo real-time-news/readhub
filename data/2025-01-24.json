@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "三家中国电动汽车制造商上汽集团、吉利控股集团和比亚迪因欧盟委员会加征关税，于1月21日向欧盟普通法院提起诉讼 ...",
+    "id": "8gP4spSTNbb",
+    "order": 1737698666239,
+    "createdAt": "2025-01-24T06:04:28.000Z",
+    "publishDate": "2025-01-24T06:04:26.239Z",
+    "title": "被加征关税后，上汽、吉利、比亚迪起诉欧盟委员会",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 14:04:28",
+    "uuid": "9d050e66-a409-4ef0-aeb1-ff92997f280f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华钰矿业预计2024年归母净利润2.75亿元至3.35亿元，同比增长272.19%至353.39%。公司国内项目金属矿产品需求向好，价格高位运行 ...",
+    "id": "8gNexDXnh92",
+    "order": 1737698659293,
+    "createdAt": "2025-01-24T06:04:20.000Z",
+    "publishDate": "2025-01-24T06:04:19.293Z",
+    "title": "华钰矿业：2024年归母净利润同比预增272.19%-353.39%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 14:04:20",
+    "uuid": "ab9e6a16-e50d-4784-b773-f2f9e8a1a4a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "上海集度汽车有限公司发布《极越关于用户关心的问题说明（第七次）》，涉及用户定金退款、售后维保、积分充电权益、充电桩安装、日常沟通渠道、主用车人变更及购车补贴等问题 ...",
+    "id": "8gP0wpsRGMY",
+    "order": 1737698628343,
+    "createdAt": "2025-01-24T06:03:49.000Z",
+    "publishDate": "2025-01-24T06:03:48.343Z",
+    "title": "极越：售后配件陆续恢复供应，全力协调确保售后维保工作能尽快全面恢复正常",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 14:03:49",
+    "uuid": "92a6e9ef-1510-45df-8219-51728591abda"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Anthropic公司推出了名为“Citations”的新API，它能够为AI生成的内容提供引用来源并嵌入原始文件链接，简化了AI输出中嵌入引用的过程 ...",
+    "id": "8gOnhqZanln",
+    "order": 1737698477398,
+    "createdAt": "2025-01-24T06:01:18.000Z",
+    "publishDate": "2025-01-24T06:01:17.398Z",
+    "title": "Anthropic 推出“Citations”API，简化 AI 内容引用流程",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 14:01:18",
+    "uuid": "ef90ec61-e282-463f-aebe-81da0112defd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "存储芯片概念股出现震荡反弹，德明利午后涨停，协创数据和炬光科技涨幅超过5%，江波龙、长电科技、佰维存储、同有科技和万润科技等股票跟涨。",
+    "id": "8gP66LFRcYz",
+    "order": 1737698655711,
+    "createdAt": "2025-01-24T05:52:26.000Z",
+    "publishDate": "2025-01-24T06:04:15.711Z",
+    "title": "存储芯片概念股震荡反弹，德明利午后涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 13:52:26",
+    "uuid": "2c3cbb2e-3ee5-45e7-8d0e-c4394101753a"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -86,6 +172,26 @@
     "up": false,
     "date": "2025-01-24 13:34:01",
     "uuid": "f9972b37-9e83-4c72-835b-20b9e24b24da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "网宿科技和中科创达股价上涨超过15%，其他公司如广和通、瑞芯微等也跟随上涨。豆包大模型在降价后毛利率仍为正，字节跳动推出的豆包大模型1.5在推理成本优化上取得突破，毛利率可达50%。",
+    "id": "8gP4q8yjakj",
+    "order": 1737698654242,
+    "createdAt": "2025-01-24T05:33:57.000Z",
+    "publishDate": "2025-01-24T06:04:14.242Z",
+    "title": "豆包AI概念午后拉升 网宿科技涨超15%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 13:33:57",
+    "uuid": "97178ba5-67ac-4e0c-99ad-0468eaa2d2ae"
   },
   {
     "newsArray": [
