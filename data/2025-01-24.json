@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "非营利组织CAIS与Scale AI联合推出“人类终极考试”基准测试，旨在评估AI系统的综合能力 ...",
+    "id": "8gPHfb7rGM5",
+    "order": 1737709550447,
+    "createdAt": "2025-01-24T09:05:50.000Z",
+    "publishDate": "2025-01-24T09:05:50.447Z",
+    "title": "新型AI基准测试“人类终极考试”揭示技术短板",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 17:05:50",
+    "uuid": "4e8983b0-1181-4a54-98dd-1e0646e1f95c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "康泰生物宣布终止新型冠状病毒灭活疫苗（Vero细胞）的研发，原因是考虑到病毒演变和市场环境变化，继续研发的效益降低。",
+    "id": "8gPJ7kDvBpl",
+    "order": 1737709518582,
+    "createdAt": "2025-01-24T09:05:19.000Z",
+    "publishDate": "2025-01-24T09:05:18.582Z",
+    "title": "康泰生物：终止新型冠状病毒灭活疫苗（Vero细胞）研发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 17:05:19",
+    "uuid": "a68f666b-b8bb-4ce6-a2e5-a3da020b109f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "《使命召唤：黑色行动6》成为美国市场最畅销买断制游戏，连续16年领先。《EA Sports 大学美式足球25》排名第二 ...",
+    "id": "8gPGxdcbtGu",
+    "order": 1737709514210,
+    "createdAt": "2025-01-24T09:05:17.000Z",
+    "publishDate": "2025-01-24T09:05:14.210Z",
+    "title": "《使命召唤》连续16年蝉联美国最畅销游戏，2024年游戏市场支出下降",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 17:05:17",
+    "uuid": "1381e2cb-879c-4025-b236-813ba54bf437"
+  },
+  {
+    "newsArray": [
+      { "siteName": "爱范儿" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Baichuan-M1-preview 模型是国内目前唯一同时具备语言、视觉和搜索三大领域推理能力的模型 ...",
+    "id": "8gOzerjpV4e",
+    "order": 1737709474105,
+    "createdAt": "2025-01-24T09:04:36.000Z",
+    "publishDate": "2025-01-24T09:04:34.105Z",
+    "title": "国内首个全场景深度思考模型发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 17:04:36",
+    "uuid": "d26ea020-dba2-4b22-9e00-da351ef0ecc3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中集集团预计2024年净利润25亿元至35亿元，同比增长493%至731%。业绩增长主要由于集装箱运输行业周期性恢复和红海事件影响，导致集装箱制造业需求旺盛，公司标准干货箱产销量创历史新高。",
+    "id": "8gPJqjsEMMR",
+    "order": 1737709464653,
+    "createdAt": "2025-01-24T09:04:25.000Z",
+    "publishDate": "2025-01-24T09:04:24.653Z",
+    "title": "中集集团：预计2024年净利润同比增长493%至731%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 17:04:25",
+    "uuid": "6f937ae4-51d2-4cc8-a603-3628e398e204"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "“车险好投保”平台将于2025年1月25日上线，首批10家财险公司接入，第二批20家将于2月接入。该平台为新能源汽车提供线上投保服务，保险公司不得拒保。",
+    "id": "8gPIxZz2377",
+    "order": 1737709642586,
+    "createdAt": "2025-01-24T08:53:12.000Z",
+    "publishDate": "2025-01-24T09:07:22.586Z",
+    "title": "“车险好投保”平台将于1月25日上午正式上线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 16:53:12",
+    "uuid": "ac4407ba-bb57-4838-aaca-45c1c61f4f6f"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "DoNews" },
       { "siteName": "健康界" }
@@ -827,6 +932,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "特朗普在达沃斯远程讲话中表示，将要求OPEC降低石油价格，沙特王储MBS投资1万亿美元，并要求美联储继续下调利率 ...",
+    "id": "8gOAOGqzcqm",
+    "order": 1737709157060,
+    "createdAt": "2025-01-24T06:34:31.000Z",
+    "publishDate": "2025-01-24T08:59:17.060Z",
+    "title": "特朗普向沙特王储索要1万亿美元投资，要求FOMC降息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 14:34:31",
+    "uuid": "3477b2e9-934d-497b-aee5-e9b8512dfc71"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "DoNews" },
@@ -1022,6 +1146,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "迪士尼体验宣布，包兆天将被任命为上海迪士尼度假区总裁及总经理，他在上海迪士尼度假区开幕时即为管理层团队成员，参与了度假区的规划、开发和运营 ...",
+    "id": "8gOzEZXWIdo",
+    "order": 1737709185001,
+    "createdAt": "2025-01-24T05:42:22.000Z",
+    "publishDate": "2025-01-24T08:59:45.001Z",
+    "title": "上海迪士尼度假区宣布新总裁及总经理任命",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 13:42:22",
+    "uuid": "5f411e37-b50d-41aa-8db1-674e62721dd3"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -1182,6 +1323,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中关村在线" },
+      { "siteName": "猎云网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "好未来2025财年第三季度财报显示，净营收6.064亿美元，同比增长65.5%，净利润2310万美元，去年同期净亏损2390万美元 ...",
+    "id": "8gOvAqD7ZEv",
+    "order": 1737709200536,
+    "createdAt": "2025-01-24T05:01:44.000Z",
+    "publishDate": "2025-01-24T09:00:00.536Z",
+    "title": "好未来发布三季度财报 营收同比增长65.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 13:01:44",
+    "uuid": "7d29181b-fc61-418b-8d83-74f4ee4c8b81"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "DoNews" },
       { "siteName": "中关村在线" }
@@ -1298,6 +1458,35 @@
     "up": false,
     "date": "2025-01-24 12:04:42",
     "uuid": "5eaba57a-5e05-4bac-b0c3-3eabbe459da6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "手机中国" },
+      { "siteName": "DoNews" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "知名汽车博主“陈震同学”因在微博上晒出OPPO Find N5折叠屏手机真机照片而引发关注。他回应称手机非他所有，未签协议，只是觉得薄便拍照分享，后与品牌方沟通后隐藏微博 ...",
+    "id": "8gNyDygWsMK",
+    "order": 1737709225501,
+    "createdAt": "2025-01-24T03:55:23.000Z",
+    "publishDate": "2025-01-24T09:00:25.501Z",
+    "title": "陈震回应泄密 OPPO Find N5：手机不是自己的，也没签过协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-24 11:55:23",
+    "uuid": "fe2fb6a5-3717-4300-8e73-e1ec5dac374e"
   },
   {
     "newsArray": [
