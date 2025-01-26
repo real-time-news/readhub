@@ -1,6 +1,125 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "手机中国" },
+      { "siteName": "界面" }
+    ],
+    "summary": "上汽集团正在申请“尚界”、“上汽尚界”等商标，涉及机械设备和广告销售等国际分类，目前状态为等待实质审查 ...",
+    "id": "8gSHVY2Za6c",
+    "order": 1737864699434,
+    "createdAt": "2025-01-26T04:11:41.000Z",
+    "publishDate": "2025-01-26T04:11:39.434Z",
+    "title": "上汽申请“尚界”等商标，此前被传与华为密切接触",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-26 12:11:41",
+    "uuid": "92c37bbf-52e3-4ae0-b953-c92f60ba1a22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "财联社" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "最新一期《自然·医学》杂志发表的研究分析了GLP-1RA对健康的影响，发现使用GLP-1RA与42种健康风险下降和19种健康风险上升相关 ...",
+    "id": "8gS8AQPOXXe",
+    "order": 1737864262829,
+    "createdAt": "2025-01-26T04:04:23.000Z",
+    "publishDate": "2025-01-26T04:04:22.829Z",
+    "title": "科学家发现流行减重药获益与风险共存",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-26 12:04:23",
+    "uuid": "8582c957-d7ab-4b27-88f3-fee12bb007ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达在CUDA 12.8发行说明中宣布，Maxwell、Pascal和Volta三代GPU架构将不再获得新功能更新 ...",
+    "id": "8gSFfbxf16g",
+    "order": 1737864243089,
+    "createdAt": "2025-01-26T04:04:05.000Z",
+    "publishDate": "2025-01-26T04:04:03.089Z",
+    "title": "英伟达宣布冻结对Maxwell、Pascal和Volta架构的支持",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-26 12:04:05",
+    "uuid": "c5c05102-f416-4eb3-9fca-7187e2f4db49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "中国科技网" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "人工智能（AI）技术在新药研发领域展现出巨大潜力，能够降低成本、提高效率。AI通过数据分析和模型预测，有望将药物研发时间减半，并节省超过700亿美元资金 ...",
+    "id": "8gQEykOdZ1o",
+    "order": 1737864213385,
+    "createdAt": "2025-01-26T04:03:34.000Z",
+    "publishDate": "2025-01-26T04:03:33.385Z",
+    "title": "AI掀起药物研发新浪潮",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-26 12:03:34",
+    "uuid": "5dfc4f5d-6c62-452c-8ae1-39a65fcf6a3c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "近期，德国企业Badenova、Viebrockhaus和Rossmann因不满特斯拉CEO埃隆·马斯克的言行，决定不再购买特斯拉新车 ...",
+    "id": "8gSGO3rPIk8",
+    "order": 1737864208692,
+    "createdAt": "2025-01-26T04:03:30.000Z",
+    "publishDate": "2025-01-26T04:03:28.692Z",
+    "title": "不满马斯克言行，德国多家企业停购特斯拉汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-26 12:03:30",
+    "uuid": "7893418c-bc33-45a3-bfc2-b0290b694fc1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "创业邦" }
+    ],
+    "summary": "2024年东南亚市场对中国出海企业而言，创投和普通消费遇冷，而基础设施建设和制造业投资火热。东南亚电商开始走向盈利，情绪消费增长明显，特别是潮玩产品在东南亚市场表现出色 ...",
+    "id": "8gS8BsJPamj",
+    "order": 1737864205421,
+    "createdAt": "2025-01-26T04:03:26.000Z",
+    "publishDate": "2025-01-26T04:03:25.421Z",
+    "title": "出海东南亚：从小步快跑 走向持续深耕",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-26 12:03:26",
+    "uuid": "e3cc54e1-3cfd-4520-839e-d7365a3462d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "日本东京都立大学的研究团队合成了一种新型过渡金属锆化物，由铁、镍和锆组成，在特定成分比例下展现出非常规超导性。这种超导体在77K以上的温度下工作，有望使用液氮作为冷却剂，降低成本 ...",
+    "id": "8gQRUYq1DLu",
+    "order": 1737864199055,
+    "createdAt": "2025-01-26T04:03:20.000Z",
+    "publishDate": "2025-01-26T04:03:19.055Z",
+    "title": "新化合物展现非常规超导性",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-26 12:03:20",
+    "uuid": "c5b1f5a5-d6d5-44ed-9b3c-102b6b555539"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -547,6 +666,24 @@
     "up": false,
     "date": "2025-01-26 08:03:32",
     "uuid": "a3fadad4-3267-43c7-aeb6-05c943b49d92"
+  },
+  {
+    "newsArray": [
+      { "siteName": "科学网" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "美国国家标准与技术研究院的科学家们开发了一种新型量子温度计，该温度计基于巨大的里德伯原子，通过监测这些原子与环境热量的相互作用，实现了高精度的温度测量 ...",
+    "id": "8gRyvXXX17V",
+    "order": 1737864237527,
+    "createdAt": "2025-01-26T00:03:21.000Z",
+    "publishDate": "2025-01-26T04:03:57.527Z",
+    "title": "巨型里德伯原子“化身”量子温度计",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-26 08:03:21",
+    "uuid": "ea85431b-e1dc-4389-93ea-c8be1fc9c44c"
   },
   {
     "newsArray": [
