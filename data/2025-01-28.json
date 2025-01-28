@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美股三大指数高开，纳指涨0.41%，道指涨0.03%，标普500指数涨0.24%。芯片股普遍上涨，英伟达涨超2%，台积电、美光科技涨超1% ...",
+    "id": "8gWLkqQZxpW",
+    "order": 1738075883910,
+    "createdAt": "2025-01-28T14:51:25.000Z",
+    "publishDate": "2025-01-28T14:51:23.910Z",
+    "title": "纳指高开0.4%，英伟达涨超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-28 22:51:25",
+    "uuid": "f9935117-9f02-4866-947c-dc317d9afa7f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "OpenAI发布了专为美国政府设计的ChatGPT Gov，提供更高安全级别的服务，允许政府机构在安全托管环境中处理敏感信息 ...",
+    "id": "8gWJaVvCtLF",
+    "order": 1738075886989,
+    "createdAt": "2025-01-28T14:46:13.000Z",
+    "publishDate": "2025-01-28T14:51:26.989Z",
+    "title": "OpenAI 推出 ChatGPT Gov：专为美国政府机构打造的高安全 AI 平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-28 22:46:13",
+    "uuid": "b0febe11-b18e-4e92-a6e5-4a0becb4de29"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
