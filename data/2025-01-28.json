@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "龙年最后一个交易日，小米集团股价突破38港元创新高，市值接近万亿港元。小米成为港交所首家采用不同投票权架构的上市企业，上市首日股价跌破发行价，但2024年第三季度营收和净利润均超预期，同比增长显著 ...",
+    "id": "8gW1lTxw1Fm",
+    "order": 1738076765832,
+    "createdAt": "2025-01-28T15:06:06.000Z",
+    "publishDate": "2025-01-28T15:06:05.832Z",
+    "title": "小米集团股价突破 38 港元再创新高，市值直逼万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-28 23:06:06",
+    "uuid": "c953c926-7204-4ed6-a748-24c6b9460744"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌宣布从2025年初起，Chrome Sync将不再支持旧版浏览器，超过四年的版本可能会收到更新提示。此举旨在鼓励用户升级至最新版本，以获得更好的安全性和功能体验。",
+    "id": "8gWIVdu6fBN",
+    "order": 1738076514850,
+    "createdAt": "2025-01-28T15:01:56.000Z",
+    "publishDate": "2025-01-28T15:01:54.850Z",
+    "title": "谷歌宣布Chrome Sync将停止支持旧版本浏览器",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-28 23:01:56",
+    "uuid": "78016460-91ed-4680-9ccb-0b4d65406bff"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
