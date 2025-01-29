@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "Faraday Future已完成第二轮3000万美元融资，资金将用于支持FF 91 2.0的交付、双品牌战略实施以及FX品牌和产品市场推广。",
+    "id": "8gX7SjRnf5D",
+    "order": 1738122772246,
+    "createdAt": "2025-01-29T03:52:54.000Z",
+    "publishDate": "2025-01-29T03:52:52.246Z",
+    "title": "FF：第二轮3000万美元融资已全部到账",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-29 11:52:54",
+    "uuid": "90bf1a8f-8f95-4dd0-80c0-50f97e58f654"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Boom Supersonic公司的XB-1超音速验证机在加州莫哈韦沙漠上空成功实现超音速飞行，达到1.1倍音速 ...",
+    "id": "8gWjesQcEpv",
+    "order": 1738122573249,
+    "createdAt": "2025-01-29T03:49:35.000Z",
+    "publishDate": "2025-01-29T03:49:33.249Z",
+    "title": "超音速验证机首次突破音障",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-29 11:49:35",
+    "uuid": "d257e2a8-9016-49e9-af5f-1e91513a8c3b"
+  },
+  {
+    "newsArray": [
       { "siteName": "Odaily" },
       { "siteName": "36Kr" },
       { "siteName": "财新网" }
