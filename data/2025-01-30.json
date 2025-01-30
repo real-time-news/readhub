@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国阿贡国家实验室的Aurora超级计算机已全面投入使用并向全球科学界开放。Aurora提供超过1 FP64 ExaFLOPS的模拟计算能力和11.6混合精度ExaFLOPS的人工智能性能 ...",
+    "id": "8gZYQl2RmS6",
+    "order": 1738243938056,
+    "createdAt": "2025-01-30T13:32:21.000Z",
+    "publishDate": "2025-01-30T13:32:18.056Z",
+    "title": "Aurora 超级计算机正式向全球科学界开放，性能突破 Exascale",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-30 21:32:21",
+    "uuid": "f71f618d-ddf4-4f8b-85b0-e7c93c3efb47"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
@@ -620,6 +637,27 @@
     "up": false,
     "date": "2025-01-30 11:46:14",
     "uuid": "d1df8d06-c1ba-4212-aba4-a8647feb1bf3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "1月29日，美国罗纳德·里根华盛顿国家机场附近发生一起军方直升机与小型飞机疑似碰撞事故，小型飞机坠毁于波托马克河，消防人员已到场。美国总统特朗普已得知此事。受此影响，机场暂时关闭。",
+    "id": "8gYsHiwxHrr",
+    "order": 1738243921510,
+    "createdAt": "2025-01-30T03:42:13.000Z",
+    "publishDate": "2025-01-30T13:32:01.510Z",
+    "title": "白宫：美国首都里根机场附近小型飞机坠毁前疑似与军方直升机相撞",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-30 11:42:13",
+    "uuid": "7de60967-6e4f-4456-b45b-83657a143e7c"
   },
   {
     "newsArray": [
