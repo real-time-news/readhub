@@ -1,6 +1,157 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "南开大学与香港城市大学合作，成功研制出薄膜铌酸锂光子毫米波雷达芯片，实现了厘米级探测分辨率和逆合成孔径雷达二维成像的高精度，突破了传统电子雷达的技术限制 ...",
+    "id": "8gaCOe1zfDc",
+    "order": 1738282939557,
+    "createdAt": "2025-01-31T00:22:20.000Z",
+    "publishDate": "2025-01-31T00:22:19.557Z",
+    "title": "我国光子毫米波雷达技术取得突破性进展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-31 08:22:20",
+    "uuid": "73412d4c-3167-430d-86f4-49831b48892e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "三星电子2024年第四季度净利润同比增长22.2%，达到7.75万亿韩元（约合54亿美元）。营业利润同比增长129.9%，至6.49万亿韩元，营收同比增长11.8%，至75.78万亿韩元。",
+    "id": "8gaKIp6EQ16",
+    "order": 1738283090735,
+    "createdAt": "2025-01-31T00:22:13.000Z",
+    "publishDate": "2025-01-31T00:24:50.735Z",
+    "title": "三星电子第四季度营业利润6.49万亿韩元，同比飙升130%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-31 08:22:13",
+    "uuid": "62533f1f-df84-4c19-a356-0126c55c2b3a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "DeepSeek R1 671b作为NIM微服务预览版发布，支持在单个NVIDIA HGX H200系统上每秒处理3872个token，开发者可进行API测试，预计将作为NVIDIA AI Enterprise的一部分推出。",
+    "id": "8gaIryHWiRq",
+    "order": 1738282877661,
+    "createdAt": "2025-01-31T00:21:19.000Z",
+    "publishDate": "2025-01-31T00:21:17.661Z",
+    "title": "英伟达：DeepSeek R1现正式上线英伟达NIM平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-31 08:21:19",
+    "uuid": "9ae20cb3-4ca8-4d77-b3cb-4fbceb1b96ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国上诉法院裁定，禁止21岁以下成年人购买手枪的命令违宪，这是首次认定该禁令违反了美国宪法第二修正案规定的持枪权利。",
+    "id": "8gaG11RezD2",
+    "order": 1738282397402,
+    "createdAt": "2025-01-31T00:13:19.000Z",
+    "publishDate": "2025-01-31T00:13:17.402Z",
+    "title": "美国上诉法院裁定政府禁止向21岁以下成年人出售枪支的命令违宪",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-31 08:13:19",
+    "uuid": "c49ef443-2a72-49f2-9569-af49b281ba22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果公司正在考虑恢复在X平台（原Twitter）的广告投放，此前因品牌安全问题暂停广告支出。亚马逊已增加在该平台的广告预算，显示出策略转变。苹果也在讨论重新测试广告投放 ...",
+    "id": "8ga7RJdA7Im",
+    "order": 1738282281790,
+    "createdAt": "2025-01-31T00:11:22.000Z",
+    "publishDate": "2025-01-31T00:11:21.790Z",
+    "title": "苹果与亚马逊重新考虑在X平台投放广告",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-31 08:11:22",
+    "uuid": "e72474f7-bb4e-467c-aae4-d88c321a08eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "美国边疆航空公司因技术问题暂停所有航班起飞，停飞时间从1月30日17时30分至19时30分。",
+    "id": "8gaHSqIF6HK",
+    "order": 1738281757298,
+    "createdAt": "2025-01-31T00:02:38.000Z",
+    "publishDate": "2025-01-31T00:02:37.298Z",
+    "title": "持续出现技术问题 美国边疆航空宣布所有航班暂停起飞",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-31 08:02:38",
+    "uuid": "19e6143e-2115-4b17-be73-7cc84f535875"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果CEO蒂姆·库克在财报电话会议上表示，iPhone 16系列销量超出预期，主要得益于Apple Intelligence的推动 ...",
+    "id": "8gaHQZsC5oA",
+    "order": 1738281720409,
+    "createdAt": "2025-01-31T00:02:02.000Z",
+    "publishDate": "2025-01-31T00:02:00.409Z",
+    "title": "库克称 Apple 智能推动苹果 iPhone 16 系列热销，4 月将登陆更多市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-31 08:02:02",
+    "uuid": "11240404-3b06-489d-9d23-211879164a7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "苹果公司第一财季总营收增长4%，但iPhone销售未达预期，尤其在中国市场销售额下降11.1%。尽管如此，苹果股价在公布第二财季营收增长预测后上涨逾3% ...",
+    "id": "8gaDC20Qwj5",
+    "order": 1738282271322,
+    "createdAt": "2025-01-30T23:52:22.000Z",
+    "publishDate": "2025-01-31T00:11:11.322Z",
+    "title": "苹果股价盘后涨超3%，库克回应中国销售额下滑",
+    "type": "topic",
+    "up": false,
+    "date": "2025-01-31 07:52:22",
+    "uuid": "03112b0a-520f-4aa3-af89-ad4a78cf4e1e"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" }
