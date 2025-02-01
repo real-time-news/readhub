@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "科技媒体Android Authority发现谷歌翻译最新版APK文件中计划引入“提问”功能，允许用户就翻译结果提问以深入理解内容。该功能有助于排查歧义、理解文化差异、学习语法等 ...",
+    "id": "8gcPGTu3t3i",
+    "order": 1738391644375,
+    "createdAt": "2025-02-01T06:34:04.000Z",
+    "publishDate": "2025-02-01T06:34:04.375Z",
+    "title": "谷歌翻译将推出“提问”功能，助力用户深入理解翻译内容",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-01 14:34:04",
+    "uuid": "d3640420-ad82-46c2-ab12-edddc0497def"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌计划在安卓16系统中允许用户独立设置系统语言和区域，以提供个性化体验。用户可以根据自己的偏好选择界面语言，同时让应用根据地理位置自动调整日期、数字和度量单位的显示格式 ...",
+    "id": "8gcOWpCjEJH",
+    "order": 1738391602295,
+    "createdAt": "2025-02-01T06:33:23.000Z",
+    "publishDate": "2025-02-01T06:33:22.295Z",
+    "title": "安卓16将实现语言与区域设置分离，个性化体验再升级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-01 14:33:23",
+    "uuid": "ca0f7707-ffa2-4d09-b01c-314800a552a3"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
