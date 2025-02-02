@@ -1,6 +1,118 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "我国计算机科学泰斗苏东庄教授因病逝世，享年93岁。他参与研制我国第一台计算机，开创中文全文检索技术研究，获得多项科技进步奖项 ...",
+    "id": "8gdgakyjzqG",
+    "order": 1738458997037,
+    "createdAt": "2025-02-02T01:16:37.000Z",
+    "publishDate": "2025-02-02T01:16:37.037Z",
+    "title": "我国计算机科学泰斗苏东庄逝世，享年 93 岁",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-02 09:16:37",
+    "uuid": "c291aef2-4a30-4d9d-bf56-642a3d6f0e28"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果宣布开源Xcode引擎Swift Build，这是构建技术新篇章的基础性步骤。Swift Build负责将用户输入转换为输出工件，支持App Store数百万应用和苹果操作系统的内部构建 ...",
+    "id": "8gdf8DpbCBZ",
+    "order": 1738458716772,
+    "createdAt": "2025-02-02T01:11:56.000Z",
+    "publishDate": "2025-02-02T01:11:56.772Z",
+    "title": "苹果开源 Xcode 引擎 Swift Build，推动跨平台开发新篇章",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-02 09:11:56",
+    "uuid": "02a9b936-e50d-4fc1-9b61-99ca997976d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "四川资中县水南镇春岚北路发生一起因燃放鞭炮引发的沼气燃爆事件，导致8辆汽车受损，无人员伤亡。受损车辆涉及3家保险公司，预估赔偿金额总计约28.5万元 ...",
+    "id": "8gd7GWn3J0J",
+    "order": 1738458112595,
+    "createdAt": "2025-02-02T01:01:53.000Z",
+    "publishDate": "2025-02-02T01:01:52.595Z",
+    "title": "男孩扔鞭炮引爆沼气炸翻豪车 险企：车损金额约28.5万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-02 09:01:53",
+    "uuid": "6a44c3d1-e164-44a0-a704-3b6ae13480fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "吉利汽车1月销量达26.6万辆，创单月历史新高，新能源销量同比增长84%，突破12.1万辆。",
+    "id": "8gdgEzJE5Ui",
+    "order": 1738457531517,
+    "createdAt": "2025-02-02T00:52:11.000Z",
+    "publishDate": "2025-02-02T00:52:11.517Z",
+    "title": "吉利汽车1月销量突破26.6万辆 新能源销量同比增长约84%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-02 08:52:11",
+    "uuid": "316227eb-58fd-485e-8ae9-27f06ead68b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国国家运输安全委员会在新闻发布会上更新了华盛顿特区撞机事故的调查进展。FBI已从失事客机中回收飞行数据记录器和驾驶舱语音记录器，目前正在分析 ...",
+    "id": "8gdgEybVrSl",
+    "order": 1738457526883,
+    "createdAt": "2025-02-02T00:52:07.000Z",
+    "publishDate": "2025-02-02T00:52:06.883Z",
+    "title": "美撞机事故最新调查进展：两个黑匣子数据已下载，更多遇难者身份确认",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-02 08:52:07",
+    "uuid": "93b33d40-b245-45fc-bab8-5e83a836bd2e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "中国人工智能初创企业深度求索公司发布开源模型R1，打破“越大越好”的AI开发迷思，导致英伟达市值缩水5520亿美元。微软、亚马逊和英伟达均宣布R1模型已接入其平台。",
+    "id": "8gdfXvYjmSR",
+    "order": 1738457344479,
+    "createdAt": "2025-02-02T00:49:05.000Z",
+    "publishDate": "2025-02-02T00:49:04.479Z",
+    "title": "英伟达市值一周缩水超5000亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-02 08:49:05",
+    "uuid": "fe49f2b7-503b-4713-8f05-d8236e889cb0"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "站长之家" },
       { "siteName": "快科技" }
@@ -54,5 +166,23 @@
     "up": false,
     "date": "2025-02-02 07:31:38",
     "uuid": "7f5ce0e6-6c0f-4df4-8ed8-32890d5060a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "Meta首席科学家杨立昆批评硅谷某些圈子存在错误优越感，认为科技进步需要更多有才华的人分享创新成果 ...",
+    "id": "8gd3G2TD3OJ",
+    "order": 1738458959038,
+    "createdAt": "2025-02-01T23:21:14.000Z",
+    "publishDate": "2025-02-02T01:15:59.038Z",
+    "title": "Meta 首席科学家杨立昆痛批硅谷“常见病”：一种错误的优越感",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-02 07:21:14",
+    "uuid": "7811731f-3b98-41b1-b755-a3216aa3daa6"
   }
 ]
