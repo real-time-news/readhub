@@ -1,6 +1,44 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "深圳市腾讯计算机系统有限公司宣布，DeepSeek-R1 大模型已支持一键部署至腾讯云HAI平台，使开发者能在3分钟内快速接入并调用该模型 ...",
+    "id": "8gdpA4OIsHk",
+    "order": 1738470082953,
+    "createdAt": "2025-02-02T04:21:22.000Z",
+    "publishDate": "2025-02-02T04:21:22.953Z",
+    "title": "DeepSeek-R1大模型登陆腾讯云，宣称“一键部署、3分钟调用”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-02 12:21:22",
+    "uuid": "ab89aec1-0f04-4082-a869-3007f6936a8a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "国产动画电影《时间之子》定档5月30日上映，由刘阔、于奥、周铁男联合执导，于奥、周铁男、舒奕橙编剧 ...",
+    "id": "8gds0XUGKqi",
+    "order": 1738469790753,
+    "createdAt": "2025-02-02T04:16:31.000Z",
+    "publishDate": "2025-02-02T04:16:30.753Z",
+    "title": "国产动画电影《时间之子》定档5月30日，预告片同步发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-02 12:16:31",
+    "uuid": "e688daea-b166-4aee-8712-f12b220152cc"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
