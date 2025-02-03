@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "特朗普宣布新关税后，全球市场出现大幅波动，德国DAX指数下跌2%，英国富时100指数下跌1.2%，欧洲斯托克50指数下跌2.1%。",
+    "id": "8gfqe7XNSwH",
+    "order": 1738571208263,
+    "createdAt": "2025-02-03T08:24:44.000Z",
+    "publishDate": "2025-02-03T08:26:48.263Z",
+    "title": "欧股集体低开 欧洲斯托克50指数跌2.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-03 16:24:44",
+    "uuid": "7e4c72a7-fb64-4627-a0da-4fb6cf01fe33"
+  },
+  {
+    "newsArray": [
       { "siteName": "Odaily" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -35,6 +53,25 @@
     "up": false,
     "date": "2025-02-03 15:42:02",
     "uuid": "a2d17127-49ae-4339-a0fa-82c66748d394"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "Odaily" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "2月3日，美国关税令影响下，日本10年期新发国债收益率升至1.260%，创2011年4月以来新高。",
+    "id": "8gfLBIC4EwW",
+    "order": 1738570814930,
+    "createdAt": "2025-02-03T07:41:58.000Z",
+    "publishDate": "2025-02-03T08:20:14.930Z",
+    "title": "受美关税令影响，日本10年期新发国债收益率升至近14年来最高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-03 15:41:58",
+    "uuid": "3d7410cd-2ac8-4969-82ce-af66871e8a6b"
   },
   {
     "newsArray": [
@@ -180,6 +217,25 @@
     "up": false,
     "date": "2025-02-03 12:32:15",
     "uuid": "bbdf8b81-711d-4ddd-8cef-43652fe0b82f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "港股蛇年首个交易日，恒生指数午盘跌0.74%，恒生科技指数跌0.67%。AI概念股表现强劲，金山云涨超34%，第四范式涨超11%，中芯国际涨近8%。",
+    "id": "8gfaAmPlvJY",
+    "order": 1738571208988,
+    "createdAt": "2025-02-03T04:21:49.000Z",
+    "publishDate": "2025-02-03T08:26:48.988Z",
+    "title": "港股午评：恒生科技指数探底回升跌0.67% 金山云涨超34%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-03 12:21:49",
+    "uuid": "6466ab9d-25c2-44b1-8195-3a4f97ae76fb"
   },
   {
     "newsArray": [
