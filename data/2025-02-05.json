@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "国家金融监督管理总局批准刘元章担任中国财产再保险有限责任公司董事及董事长。公司需确保刘元章在2个月内到任并报告情况，否则批复失效 ...",
+    "id": "8giw6IBUkmS",
+    "order": 1738740105623,
+    "createdAt": "2025-02-05T07:21:46.000Z",
+    "publishDate": "2025-02-05T07:21:45.623Z",
+    "title": "中国财产再保险董事、董事长刘元章任职资格获核准",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 15:21:46",
+    "uuid": "60656bb8-74db-41dc-a3e3-1e158b74ae66"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软于2024年4月首次公布Windows 10扩展安全更新（ESU）计划的定价信息，并在同年10月底补充了批量许可定价相关内容 ...",
+    "id": "8gh6SnrR5ES",
+    "order": 1738739911184,
+    "createdAt": "2025-02-05T07:18:31.000Z",
+    "publishDate": "2025-02-05T07:18:31.184Z",
+    "title": "微软公布 Win10 付费扩展支持计划详细信息：定价与许可细节等",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 15:18:31",
+    "uuid": "2b6ba9fc-eaf9-4d5d-8f92-6fae76549df9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软修复了其Azure AI人脸识别服务中的一个高危安全漏洞（CVE-2025-21415），该漏洞允许攻击者远程提升权限，影响系统的机密性和完整性 ...",
+    "id": "8gj3wTUBkRI",
+    "order": 1738739885547,
+    "createdAt": "2025-02-05T07:18:05.000Z",
+    "publishDate": "2025-02-05T07:18:05.547Z",
+    "title": "Azure AI 人脸识别高危漏洞，微软紧急修复，CVSS 评分逼近满分",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 15:18:05",
+    "uuid": "ebd6806d-5347-4cc6-b14b-6e004f06ba72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "华为昇腾社区于2025年2月4日上线了DeepSeek系列新模型，包括DeepSeek-R1、DeepSeek-V3、DeepSeek-V2和Janus-Pro ...",
+    "id": "8gilVdqQF2f",
+    "order": 1738740066545,
+    "createdAt": "2025-02-05T07:12:13.000Z",
+    "publishDate": "2025-02-05T07:21:06.545Z",
+    "title": "DeepSeek系列新模型正式上线华为昇腾社区",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 15:12:13",
+    "uuid": "fccd8a43-afc9-4b06-80a1-c4a2e2ca1c37"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "网易科技" },
       { "siteName": "新浪科技" },
@@ -16,6 +89,29 @@
     "up": false,
     "date": "2025-02-05 15:11:17",
     "uuid": "7872ba5c-c8ee-4e43-b45c-e64c80b0017e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国家广播电视总局发布通知，要求对网络微短剧实施“分类分层审核”制度，分为“重点微短剧”和“普通微短剧”两类，分别进行规划备案和成片审查 ...",
+    "id": "8gj68NDAs5D",
+    "order": 1738740042253,
+    "createdAt": "2025-02-05T07:04:29.000Z",
+    "publishDate": "2025-02-05T07:20:42.253Z",
+    "title": "广电总局：落实微短剧“分类分层审核”制度",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 15:04:29",
+    "uuid": "5a18fbdd-08c5-40f4-9751-2010603ee61e"
   },
   {
     "newsArray": [
@@ -214,6 +310,24 @@
     "up": false,
     "date": "2025-02-05 14:36:47",
     "uuid": "02bdef03-856c-4968-851f-1eedc30919ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "钛媒体" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "优必选（雄安）智能机器人有限公司近日成立，注册资本6000万元，涉及智能机器人研发、人工智能软件开发等业务。公司由北京优必选智能机器人有限公司等三家公司共同持股。",
+    "id": "8gitGgL1m1E",
+    "order": 1738739895138,
+    "createdAt": "2025-02-05T06:36:29.000Z",
+    "publishDate": "2025-02-05T07:18:15.138Z",
+    "title": "优必选等在雄安成立智能机器人公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 14:36:29",
+    "uuid": "92ba0e8b-660d-4d15-bc4a-79fb633fd783"
   },
   {
     "newsArray": [
