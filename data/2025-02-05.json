@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD与谷歌联合宣布了一项关于AMD Zen系列CPU的重要安全发现。该漏洞编号CVE-2024-56161，涉及服务器及企业级平台的EPYC CPU，包括Zen 1至Zen 4系列 ...",
+    "id": "8gioDbNAs1a",
+    "order": 1738733035642,
+    "createdAt": "2025-02-05T05:23:56.000Z",
+    "publishDate": "2025-02-05T05:23:55.642Z",
+    "title": "AMD Zen系列EPYC CPU微码漏洞曝光，已发布修复更新",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 13:23:56",
+    "uuid": "b1fe815e-2715-4f2c-9b18-ab01329d5dc5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国宇航局（NASA）宣布重启VIPER项目，向美国公司征集合作提案 ...",
+    "id": "8gipe6wnnq4",
+    "order": 1738732827436,
+    "createdAt": "2025-02-05T05:20:28.000Z",
+    "publishDate": "2025-02-05T05:20:27.436Z",
+    "title": "NASA VIPER 探测车“复活”在望，将在月球南极附近寻找水冰沉积物",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 13:20:28",
+    "uuid": "b9a97a69-ca69-4916-82c0-a2c12ca165c2"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "36Kr" },
       { "siteName": "新浪科技" },
@@ -784,6 +820,26 @@
     "up": false,
     "date": "2025-02-05 09:21:44",
     "uuid": "88b8f156-8ad3-4769-8df0-8d590329acd3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国内期货市场主力合约表现分化，沪银和豆粕分别上涨超4%和3%，沪金等品种涨超2%，菜粕等涨超1%。集运欧线跌超3%，玻璃跌超2%，纯碱等跌超1%。",
+    "id": "8gigRqiF0z8",
+    "order": 1738733036255,
+    "createdAt": "2025-02-05T01:21:35.000Z",
+    "publishDate": "2025-02-05T05:23:56.255Z",
+    "title": "国内期货主力合约涨跌不一，沪银涨超4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 09:21:35",
+    "uuid": "18d0faa4-430a-46bb-967a-201017e2a3c9"
   },
   {
     "newsArray": [
