@@ -1,6 +1,142 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "上周，Nvidia股价因DeepSeek AI模型可能降低对AI芯片和数据中心需求的猜测而暴跌 ...",
+    "id": "8giUyVYidJq",
+    "order": 1738723158781,
+    "createdAt": "2025-02-05T02:39:18.000Z",
+    "publishDate": "2025-02-05T02:39:18.781Z",
+    "title": "谷歌CEO对DeepSeek大加赞赏，但称效率不如Gemini",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 10:39:18",
+    "uuid": "90fcfacf-1734-4efb-a47b-49e26ed820d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "富时中国A50指数期货下跌1%。",
+    "id": "8gigT9aDUan",
+    "order": 1738723151413,
+    "createdAt": "2025-02-05T02:39:12.000Z",
+    "publishDate": "2025-02-05T02:39:11.413Z",
+    "title": "富时中国A50指数期货跌幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 10:39:12",
+    "uuid": "03633d12-06d2-4881-b0ab-80be0df27fe2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "恒指小幅上涨，科技和零售板块领涨，百度、美团涨幅超2%，阿里巴巴、小米集团、京东健康涨超1%。半导体和医药板块下跌，华虹半导体、中芯国际跌超3%，百济神州跌超2%。",
+    "id": "8giGjUdCk2v",
+    "order": 1738721706185,
+    "createdAt": "2025-02-05T02:15:07.000Z",
+    "publishDate": "2025-02-05T02:15:06.185Z",
+    "title": "恒指开盘涨0.18%，恒生科技指数跌0.03%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 10:15:07",
+    "uuid": "653e7015-cd65-4be3-8743-59571d1a9c23"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软宣布2025年Build开发者大会将于5月19日至22日在西雅图举行，预计AI技术将成为核心议题。开发者将有机会了解微软在AI领域的最新成果和创新应用。",
+    "id": "8gigPTe2Rdz",
+    "order": 1738721690915,
+    "createdAt": "2025-02-05T02:14:51.000Z",
+    "publishDate": "2025-02-05T02:14:50.915Z",
+    "title": "微软Build 2025开发者大会定档5月，聚焦AI技术前沿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 10:14:51",
+    "uuid": "e9b137f3-00b4-4c0d-b0ed-2ddd7eb9e24a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "央行于2025年2月5日开展6970亿元7天期逆回购操作，操作利率1.50%，当日有14135亿元逆回购到期。",
+    "id": "8gihpaNlV4T",
+    "order": 1738721308135,
+    "createdAt": "2025-02-05T02:08:29.000Z",
+    "publishDate": "2025-02-05T02:08:28.135Z",
+    "title": "央行公开市场开展6970亿元7天期逆回购操作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 10:08:29",
+    "uuid": "23ea8473-cfdf-4996-b971-93548d28dacc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "随着中国健康产业市场规模扩大，健康消费成为新型消费市场的重要组成部分。老年人生活方式转变催生新的养老需求，年轻人健康意识提升成为养生保健消费新生力量 ...",
+    "id": "8giaMFTSNLA",
+    "order": 1738721300834,
+    "createdAt": "2025-02-05T02:08:21.000Z",
+    "publishDate": "2025-02-05T02:08:20.834Z",
+    "title": "“健康消费”成新型消费重要趋势",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 10:08:21",
+    "uuid": "e10b7adc-5e94-4fc8-8296-bfd8d51f4574"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "站长之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "科技公司继续扩大AI资本支出，谷歌母公司Alphabet预计今年资本支出将达750亿美元，同比增长43%，与微软的800亿美元接近 ...",
+    "id": "8gigT6M6HtI",
+    "order": 1738721291695,
+    "createdAt": "2025-02-05T02:08:12.000Z",
+    "publishDate": "2025-02-05T02:08:11.695Z",
+    "title": "谷歌母公司预计今年AI资本支出将达750亿美元，较2024年增长43%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 10:08:12",
+    "uuid": "06c3426f-7f07-4191-b9dc-04d6c79d8d8f"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" }
@@ -49,6 +185,28 @@
     "up": false,
     "date": "2025-02-05 09:21:44",
     "uuid": "88b8f156-8ad3-4769-8df0-8d590329acd3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "中证网" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "机器人公司Figure创始人Brett Adcock宣布终止与OpenAI合作，并表示公司在全自主研发的端到端机器人AI方面取得重大突破，计划在未来30天内展示人形机器人领域的创新成果。",
+    "id": "8giexAVUByS",
+    "order": 1738721968432,
+    "createdAt": "2025-02-05T01:07:14.000Z",
+    "publishDate": "2025-02-05T02:19:28.432Z",
+    "title": "Figure终止与OpenAI合作，称在机器人上取得“重大突破”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 09:07:14",
+    "uuid": "75b9657e-9a19-46d8-a006-bb01d69cf68d"
   },
   {
     "newsArray": [
@@ -195,6 +353,25 @@
     "up": false,
     "date": "2025-02-05 08:21:52",
     "uuid": "e3c3b6ef-4824-41bf-8cfd-717ca44173ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "沃尔玛正在调整业务版图，要求新泽西州霍博肯等较小办公室的员工搬到阿肯色州本顿维尔或加利福尼亚州桑尼维尔的总部，同时关闭北卡罗来纳州夏洛特的办公室并削减数百个职位 ...",
+    "id": "8giahRkn0FG",
+    "order": 1738721671236,
+    "createdAt": "2025-02-05T00:21:16.000Z",
+    "publishDate": "2025-02-05T02:14:31.236Z",
+    "title": "沃尔玛将裁员数百人 将员工转移到主要中心",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 08:21:16",
+    "uuid": "57ecc105-67ad-4cb7-b3a2-51b3dc8fe720"
   },
   {
     "newsArray": [
