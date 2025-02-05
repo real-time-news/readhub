@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "法拉利将于10月9日在意大利总部发布首款纯电动车型，标志着其正式进入电动车市场。公司电气化进程加速，去年混动车型占总销量51%，预计2025年EBITDA至少26.8亿欧元 ...",
+    "id": "8gibLzkbgD5",
+    "order": 1738743566655,
+    "createdAt": "2025-02-05T08:19:27.000Z",
+    "publishDate": "2025-02-05T08:19:26.655Z",
+    "title": "法拉利宣布推出首款纯电动车型，加速电气化进程",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 16:19:27",
+    "uuid": "49264b06-9a8a-41c8-aef0-d4ad0a2fe326"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "市场高开回落，黄白二线分化，微盘股指数涨超2%，个股涨多跌少，沪深京三市超3300股飘红，成交额达1.3万亿。沪指跌0.65%，深成指涨0.08%，创业板指跌0.04% ...",
+    "id": "8gj6qb05QaY",
+    "order": 1738742725942,
+    "createdAt": "2025-02-05T08:05:26.000Z",
+    "publishDate": "2025-02-05T08:05:25.942Z",
+    "title": "沪指高开低走收跌0.65%，Deepseek概念股持续爆发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 16:05:26",
+    "uuid": "73242224-f32a-43a6-a4bc-f1f6bdd0dd5d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "华泰股份因股票连续12个月收盘价低于每股净资产，根据监管指引，制定了估值提升计划 ...",
+    "id": "8gjAQV3XKfo",
+    "order": 1738743160670,
+    "createdAt": "2025-02-05T08:05:20.000Z",
+    "publishDate": "2025-02-05T08:12:40.670Z",
+    "title": "华泰股份：股票连续12个月收盘价均低于每股净资产，公司制定估值提升计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 16:05:20",
+    "uuid": "8c0ca53f-7c69-4e6b-87ac-b789897fed9d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "宁德时代考虑未来几周提交香港上市申请，此前有报道称公司计划最快于2025年在香港上市，筹集至少50亿美元。",
+    "id": "8gj9hq5froN",
+    "order": 1738743042001,
+    "createdAt": "2025-02-05T08:05:15.000Z",
+    "publishDate": "2025-02-05T08:10:42.001Z",
+    "title": "传宁德时代考虑提交香港上市申请，官方暂无回应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 16:05:15",
+    "uuid": "13d3b6fe-1923-4a05-83d4-da6a7b4a718f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" }
@@ -176,6 +246,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "国内商品期货多数下跌，集运欧线跌超8%，苹果、氧化铝等跌超3%，尿素等跌超2%。沪银、豆二等涨超4%，燃料油等涨超3%，豆油等涨超2%。",
+    "id": "8gj6oSIKWHo",
+    "order": 1738742746370,
+    "createdAt": "2025-02-05T07:23:39.000Z",
+    "publishDate": "2025-02-05T08:05:46.370Z",
+    "title": "国内商品期货多数收跌 集运欧线跌超8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 15:23:39",
+    "uuid": "c8e151f3-c649-4cf7-b409-37716fa9f769"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "钛媒体" },
       { "siteName": "第一财经" },
@@ -322,6 +410,24 @@
     "up": false,
     "date": "2025-02-05 15:03:32",
     "uuid": "eef91e8b-e079-48c4-a0f2-28478aa08db6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "DeepSeek模型降低AI训练成本，有望扩大应用场景，增加全球数据中心建设。光收发模块作为数据中心关键组件，将受益于高速数据传输需求 ...",
+    "id": "8gj15mzfzET",
+    "order": 1738743359611,
+    "createdAt": "2025-02-05T07:03:09.000Z",
+    "publishDate": "2025-02-05T08:15:59.611Z",
+    "title": "TrendForce：DeepSeek的低成本AI模型将催生光通信需求",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-05 15:03:09",
+    "uuid": "344bfea8-e32c-4c11-84e3-6a62ee65e9d5"
   },
   {
     "newsArray": [
