@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LG新能源将为特斯拉新款Model Y供应2170电池，电芯容量提升6%至5300mAh，这些电池将在南京工厂生产并供应至上海超级工厂 ...",
+    "id": "8gkHgdPbBGH",
+    "order": 1738817372201,
+    "createdAt": "2025-02-06T04:49:32.000Z",
+    "publishDate": "2025-02-06T04:49:32.201Z",
+    "title": "特斯拉Model Y将采用LG新能源的电池 电芯容量为5300mAh",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-06 12:49:32",
+    "uuid": "a23a96da-9a78-4b55-99fe-980c327b20b5"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
@@ -416,6 +433,25 @@
     "up": false,
     "date": "2025-02-06 10:43:25",
     "uuid": "fa741025-d1e7-41ab-9e77-898cf76d54b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "瑞芯微股价涨停创历史新高，端侧AI概念股集体走高。郭明錤认为DeepSeek爆红将加速端侧AI趋势，提升英伟达H100训练需求，并推动本地端部署LLM热潮。",
+    "id": "8gkRjGiU37H",
+    "order": 1738817378492,
+    "createdAt": "2025-02-06T02:42:48.000Z",
+    "publishDate": "2025-02-06T04:49:38.492Z",
+    "title": "端侧AI概念持续走高 瑞芯微涨停创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-06 10:42:48",
+    "uuid": "99f6a66d-cb69-4195-8659-39fe795733f3"
   },
   {
     "newsArray": [
