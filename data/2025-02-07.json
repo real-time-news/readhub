@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国泰君安研报指出，缅甸稀土产量增长迅速，成为中国第一大进口来源国，但政局动乱和资源透支风险可能限制供给 ...",
+    "id": "8gkM8gU653U",
+    "order": 1738885746668,
+    "createdAt": "2025-02-06T23:49:06.000Z",
+    "publishDate": "2025-02-06T23:49:06.668Z",
+    "title": "国泰君安：稀土板块第二阶段反转或逐步开启",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 07:49:06",
+    "uuid": "2279b5fa-b301-4c0c-8e0b-093d82e2eb7f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "OpenAI公司在X平台宣布更新o3-mini和o3-mini-high模型的思维链展示方式，使模型推理步骤更透明详细，帮助用户理解思考过程，增强对答案的信心 ...",
+    "id": "8gltjbdXDaZ",
+    "order": 1738885847830,
+    "createdAt": "2025-02-06T23:42:21.000Z",
+    "publishDate": "2025-02-06T23:50:47.830Z",
+    "title": "OpenAI 升级 o3-mini 模型思维链，提高 AI 推理透明度",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 07:42:21",
+    "uuid": "81ecc89b-7fd9-4772-9ef2-a54c42a48203"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
