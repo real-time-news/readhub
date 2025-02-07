@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国1月季调后非农就业人口14.3万人，低于预期的17万人，失业率维持在4%，符合预期。",
+    "id": "8gmrn6UmPOw",
+    "order": 1738935439693,
+    "createdAt": "2025-02-07T13:37:20.000Z",
+    "publishDate": "2025-02-07T13:37:19.693Z",
+    "title": "美国1月季调后非农就业人口14.3万人，失业率4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 21:37:20",
+    "uuid": "2efd7667-6938-452a-8283-eae215a85421"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "美国将于今晚公布1月非农就业报告，预计新增17万个就业岗位，失业率维持在4.1%。",
+    "id": "8gmVSzI5n9b",
+    "order": 1738935198456,
+    "createdAt": "2025-02-07T13:33:18.000Z",
+    "publishDate": "2025-02-07T13:33:18.456Z",
+    "title": "1月非农就业报告将于今晚21:30公布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 21:33:18",
+    "uuid": "2aa3c539-b694-49ce-9809-7e19acac1b5a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "中证网" },
+      { "siteName": "中证网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "1月27日至2月7日，本所对98起异常交易行为采取监管措施，包括盘中拉抬打压、虚假申报等。对3起重大事项进行核查，上报2起违法违规线索。",
+    "id": "8gmqU20ogOI",
+    "order": 1738935182177,
+    "createdAt": "2025-02-07T13:33:03.000Z",
+    "publishDate": "2025-02-07T13:33:02.177Z",
+    "title": "深交所：近期共对98起证券异常交易行为采取自律监管措施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 21:33:03",
+    "uuid": "17db94ec-ef16-4d7d-bd3b-623364c58ce9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "易点天下已完成深度求索开源推理大模型DeepSeek-R1的私有化部署，旗下KreadoAI、数眼智能、zMaticoo ADX等产品将融合DeepSeek-R1能力，提升广告主需求理解、多语种营销文案及创意素材生成、数据分析与预估、DMP受众分析等能力，为用户带来全新智能营销体验。",
+    "id": "8gmNOC7iktZ",
+    "order": 1738935136171,
+    "createdAt": "2025-02-07T13:32:18.000Z",
+    "publishDate": "2025-02-07T13:32:16.171Z",
+    "title": "易点天下AI技术中台已完成DeepSeek-R1私有化部署",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 21:32:18",
+    "uuid": "93ec95db-9842-410b-975c-04f49ac5537b"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" }
