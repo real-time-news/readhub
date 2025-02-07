@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "荣耀Magic V3折叠屏旗舰手机开始在全球市场推出基于Android 15的MagicOS 9.0升级，版本号为9.0.0.131，软件包大小3.70GB ...",
+    "id": "8gkirCgkMx7",
+    "order": 1738899459359,
+    "createdAt": "2025-02-07T03:37:40.000Z",
+    "publishDate": "2025-02-07T03:37:39.359Z",
+    "title": "荣耀Magic V3全球用户获推MagicOS 9.0 基于Android 15",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 11:37:40",
+    "uuid": "3e6c9187-ebbd-4ef5-b987-463bf352774d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国网络安全和基础设施安全局（CISA）要求联邦机构在2月27日前部署补丁，修复微软Outlook高危远程代码执行漏洞CVE-2024-21413 ...",
+    "id": "8gm4UI2XHhE",
+    "order": 1738899329548,
+    "createdAt": "2025-02-07T03:35:30.000Z",
+    "publishDate": "2025-02-07T03:35:29.548Z",
+    "title": "微软 Outlook 被曝高危漏洞，可绕过保护视图远程执行任意代码",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 11:35:30",
+    "uuid": "c7ba6259-e3ee-47b6-a6b0-3d414b7cb08c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "洛图科技发布的《中国移动智慧屏零售市场月度追踪》报告显示，2024年中国移动智慧屏市场零售量同比增长65.0%，达到25.4万台，零售额同比增长37.3%，达到9.6亿元，但均价同比下降16.8%至3780元 ...",
+    "id": "8gm6e7q6ie7",
+    "order": 1738899173595,
+    "createdAt": "2025-02-07T03:32:53.000Z",
+    "publishDate": "2025-02-07T03:32:53.595Z",
+    "title": "2024中国移动智慧屏销量飙升，海信等品牌强势崛起",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 11:32:53",
+    "uuid": "9a645258-5d9f-4369-97af-b346d56db936"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
@@ -142,6 +193,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "华为技术有限公司公开了一项关于人工智能模型量化的新专利。该专利通过将量化矩阵分割成多个分块量化矩阵，并基于计算单元的处理粒度进行量化处理，以减少AI模型占用的内存 ...",
+    "id": "8gm7K58iHyo",
+    "order": 1738899277417,
+    "createdAt": "2025-02-07T02:45:08.000Z",
+    "publishDate": "2025-02-07T03:34:37.417Z",
+    "title": "华为AI模型量化相关专利公布，可减少模型占用内存",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 10:45:08",
+    "uuid": "19fb1070-89f2-408f-bc62-97087d347a8f"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -209,6 +279,24 @@
     "up": false,
     "date": "2025-02-07 10:36:29",
     "uuid": "4b090914-abc1-419b-86ee-332f6362ba47"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "近年来，中国保险牌照审批趋严，2024年仅5家保险机构获批筹建或开业。这5家机构包括保德信保险资管、法巴天星财险、苏州东吴财险、曼福再保险公司北京分公司和申能财险 ...",
+    "id": "8glsJVrPvVz",
+    "order": 1738899313688,
+    "createdAt": "2025-02-07T02:36:13.000Z",
+    "publishDate": "2025-02-07T03:35:13.688Z",
+    "title": "准入门槛持续收紧 去年仅5家保险机构获批筹建或开业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 10:36:13",
+    "uuid": "c8e22406-696e-4458-a90b-8db00651f9af"
   },
   {
     "newsArray": [
