@@ -1,6 +1,146 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2025年，国家发展改革委主任郑栅洁表示，2024年房地产支持政策实施后市场信心修复，房地产市场止跌回稳。2025年政策目标明确，预计政策将持续发力，进一步提振市场信心 ...",
+    "id": "8glu9bArPrj",
+    "order": 1738888379944,
+    "createdAt": "2025-02-07T00:32:59.000Z",
+    "publishDate": "2025-02-07T00:32:59.944Z",
+    "title": "2025年房地产市场政策目标明确 市场信心持续恢复",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 08:32:59",
+    "uuid": "b86e2b0c-a08c-4ad1-9aac-444473cd96df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "杭州深度求索人工智能基础技术研究有限公司发布声明，澄清DeepSeek官方账号和信息发布渠道。目前DeepSeek官方账号仅存在于微信公众号、小红书和Twitter，其他均为仿冒 ...",
+    "id": "8glHaLJQkgV",
+    "order": 1738888370978,
+    "createdAt": "2025-02-07T00:32:51.000Z",
+    "publishDate": "2025-02-07T00:32:50.978Z",
+    "title": "深度求索DeepSeek回应仿冒：在社交平台仅三个官方账号",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 08:32:51",
+    "uuid": "7812a8a4-2be3-4bd0-98ba-37a63dbdeef9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "波音预测，到2043年印度和南亚的飞机数量将增长四倍。",
+    "id": "8glwjCuiOhe",
+    "order": 1738887882527,
+    "createdAt": "2025-02-07T00:22:45.000Z",
+    "publishDate": "2025-02-07T00:24:42.527Z",
+    "title": "波音：到2043年，印度和南亚飞机数量将增长四倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 08:22:45",
+    "uuid": "0a92127f-5ae7-4784-8b12-c33043a0ac73"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国金证券指出，全球AI数据中心的快速扩张导致电力需求激增，预计2023-2027年全球AI服务器用电量将显著增长 ...",
+    "id": "8glvtz0smgR",
+    "order": 1738887228334,
+    "createdAt": "2025-02-07T00:13:48.000Z",
+    "publishDate": "2025-02-07T00:13:48.334Z",
+    "title": "国金证券：AI催化燃气轮机需求上行，关注国内产业链投资机会",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 08:13:48",
+    "uuid": "d3cc2278-b2fd-4687-945f-67aae3ce3eb6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国金证券预测，2024年全球数据中心投资将超过4000亿美元，AIDC新增装机量将从2024年的7GW增长至2028年的59GW，CAGR达73% ...",
+    "id": "8glvu0Xgo80",
+    "order": 1738887203327,
+    "createdAt": "2025-02-07T00:13:23.000Z",
+    "publishDate": "2025-02-07T00:13:23.327Z",
+    "title": "国金证券：AIDC浪潮下供配电系统价值跃升，建议关注四条主线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 08:13:23",
+    "uuid": "088325a4-75ef-4372-9b19-47dfb2471535"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "优咔科技的“遨云”平台已集成DeepSeek全系列模型，支持一键本地部署和个性化部署需求 ...",
+    "id": "8glvu3pmOeT",
+    "order": 1738887200483,
+    "createdAt": "2025-02-07T00:13:20.000Z",
+    "publishDate": "2025-02-07T00:13:20.483Z",
+    "title": "优咔科技“遨云”全面集成DeepSeek",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 08:13:20",
+    "uuid": "6c3adf53-102d-4776-81e0-943b1b15adbc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "华泰证券研报指出，AI眼镜可能成为大模型落地的首个应用场景，为消费电子产业链带来增长机遇。目前AI眼镜销量良好，但尚未具备显示功能，仍处于AR眼镜的过渡阶段 ...",
+    "id": "8glvu2WJWJu",
+    "order": 1738887141649,
+    "createdAt": "2025-02-07T00:12:21.000Z",
+    "publishDate": "2025-02-07T00:12:21.649Z",
+    "title": "华泰证券：AI眼镜有望率先落地，关注产业链机会",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 08:12:21",
+    "uuid": "27b9c21c-c558-4029-8c8f-4acb41761565"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "2025年，中国将通过科技创新引领新质生产力发展，建设现代化产业体系。各地区各部门正因地制宜发展新质生产力，促进新动能集聚、新业态涌现、新产业壮大 ...",
+    "id": "8glvtEHsh9Y",
+    "order": 1738886589642,
+    "createdAt": "2025-02-07T00:03:09.000Z",
+    "publishDate": "2025-02-07T00:03:09.642Z",
+    "title": "人民日报头版：2025年，以科技创新引领新质生产力发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 08:03:09",
+    "uuid": "1688ce93-1278-4da8-8f51-63a5aff193f6"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "第一财经" }
