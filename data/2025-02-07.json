@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "Mercari将于2025年2月6日推出广告服务Mercari Ads，采用按点击付费模式，支持关键词定制广告 ...",
+    "id": "8gmUGFAJPNc",
+    "order": 1738916182072,
+    "createdAt": "2025-02-07T08:16:23.000Z",
+    "publishDate": "2025-02-07T08:16:22.072Z",
+    "title": "Mercari推出站外和站内广告，助力卖家提升商品曝光",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 16:16:23",
+    "uuid": "0d311aa3-f8ef-4cd7-b7d0-2608ae6cac70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国人民银行与印度尼西亚银行续签了双边本币互换协议，规模为4000亿元人民币/878万亿印尼卢比，有效期五年。此举旨在深化两国货币金融合作，促进贸易和投资便利化，维护金融市场稳定。",
+    "id": "8gmUcRSQl6W",
+    "order": 1738916053498,
+    "createdAt": "2025-02-07T08:14:14.000Z",
+    "publishDate": "2025-02-07T08:14:13.498Z",
+    "title": "中印尼两国央行续签双边本币互换协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 16:14:14",
+    "uuid": "8cb26ffc-6626-4fa0-9e8f-c67e43f0a83c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2025年春节期间，名为DeepSeek的AI技术在全球科技圈引起轰动。东风岚图汽车与DeepSeek合作，其智能座舱系统全面接入DeepSeek技术，计划于2月14日启动全民知识蒸馏训练 ...",
+    "id": "8gmQcFo8i0d",
+    "order": 1738916005189,
+    "createdAt": "2025-02-07T08:13:26.000Z",
+    "publishDate": "2025-02-07T08:13:25.189Z",
+    "title": "曝东风岚图多款车型深度融合DeepSeek 涉及梦想家知音",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 16:13:26",
+    "uuid": "58e12581-a5e9-4bf7-86ec-8aafb872e71c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "万达信息已完成DeepSeek开源版本的本地化部署和算力集成，并正在将其集成到公司产品中，适配行业大模型，并推进在多个行业场景中的应用。",
+    "id": "8gmUEIjqfvo",
+    "order": 1738915992946,
+    "createdAt": "2025-02-07T08:13:13.000Z",
+    "publishDate": "2025-02-07T08:13:12.946Z",
+    "title": "万达信息：已完成DeepSeek本地化部署",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 16:13:13",
+    "uuid": "4370dc49-665e-4f9d-9ecf-1fb6e7dd5382"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2025年1月，34家中国手游发行商在全球收入榜TOP100中合计收入23.3亿美元，占全球TOP100手游发行商收入的39.2% ...",
+    "id": "8gmQcHtICC0",
+    "order": 1738915588755,
+    "createdAt": "2025-02-07T08:06:30.000Z",
+    "publishDate": "2025-02-07T08:06:28.755Z",
+    "title": "SensorTower：34 家中国手游发行商 1 月吸金 23.3 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 16:06:30",
+    "uuid": "5ae02418-8287-4e15-a5b7-aa27df819d05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "民航局发布《民用无人驾驶航空器事件信息管理办法（征求意见稿）》并公开征求意见。",
+    "id": "8gmTTcFsWzl",
+    "order": 1738915400330,
+    "createdAt": "2025-02-07T08:03:22.000Z",
+    "publishDate": "2025-02-07T08:03:20.330Z",
+    "title": "民航局就《民用无人驾驶航空器事件信息管理办法（征求意见稿）》公开征求意见",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 16:03:22",
+    "uuid": "78f3626d-564f-43e4-86d9-f9523d47b6a9"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" }
@@ -69,6 +174,24 @@
     "up": false,
     "date": "2025-02-07 15:16:56",
     "uuid": "cea76db3-2321-411a-83ee-a422c52253b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日本金融厅要求苹果暂停部分加密货币应用。",
+    "id": "8gmPBFku533",
+    "order": 1738915844427,
+    "createdAt": "2025-02-07T07:15:59.000Z",
+    "publishDate": "2025-02-07T08:10:44.427Z",
+    "title": "日本金融厅要求苹果暂停部分加密货币应用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 15:15:59",
+    "uuid": "79ea1556-0042-4dd9-bec1-d07e453dd3c9"
   },
   {
     "newsArray": [
@@ -421,6 +544,25 @@
     "up": false,
     "date": "2025-02-07 14:16:12",
     "uuid": "7abce92e-f5ac-436a-add3-1a870750ca44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "涂鸦智能股价快速上涨229%，达到69.5港元的历史新高。",
+    "id": "8gmLh7rXXzs",
+    "order": 1738915782224,
+    "createdAt": "2025-02-07T06:13:49.000Z",
+    "publishDate": "2025-02-07T08:09:42.224Z",
+    "title": "涂鸦智能飙升229%，创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-07 14:13:49",
+    "uuid": "d8d8b573-e572-4f13-b178-f97a38cc2773"
   },
   {
     "newsArray": [
