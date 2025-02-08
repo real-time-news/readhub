@@ -1,6 +1,135 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "亿万富翁投资者比尔·阿克曼透露，其基金潘兴广场自1月起持有3030万股优步股票，认为优步是管理最好、质量最高的企业之一，且股价低于其内在价值。阿克曼的披露导致优步股价一度涨超9%。",
+    "id": "8gn4hGuUsUw",
+    "order": 1738982551827,
+    "createdAt": "2025-02-08T02:42:33.000Z",
+    "publishDate": "2025-02-08T02:42:31.827Z",
+    "title": "知名对冲基金经理比尔·阿克曼：潘兴广场持有3030万股优步股票",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-08 10:42:33",
+    "uuid": "bd444e26-71bc-4b34-b76e-5912ed0d231b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "自2月5日复工以来，“开工奶茶”搜索量同比增长超10倍，北京、上海、广州、深圳、重庆为搜索量前五城市 ...",
+    "id": "8gn636nLB99",
+    "order": 1738982524549,
+    "createdAt": "2025-02-08T02:42:07.000Z",
+    "publishDate": "2025-02-08T02:42:04.549Z",
+    "title": "美团：2月5日以来“开工奶茶”搜索量增超10倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-08 10:42:07",
+    "uuid": "19fa69f6-7adc-4b35-9507-0997d996f016"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果即将推出iOS 18.4测试版，重点改进Siri，包括全新的应用意图系统，使Siri能根据用户命令提供上下文信息 ...",
+    "id": "8gnbt3vxaZp",
+    "order": 1738982256208,
+    "createdAt": "2025-02-08T02:37:37.000Z",
+    "publishDate": "2025-02-08T02:37:36.208Z",
+    "title": "曝苹果iOS 18.4 Beta 1将于下周发布 Siri将大幅改进",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-08 10:37:37",
+    "uuid": "85fd8b9f-0738-4f57-add6-5b38fbee0815"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "联商网" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "春节年货节期间，休闲零食品牌通过推出限定产品、创新礼盒组合和跨界联名合作等方式，聚焦年轻人的情绪价值和个性化需求，以吸引年轻消费者 ...",
+    "id": "8gnf7attvJt",
+    "order": 1738981155871,
+    "createdAt": "2025-02-08T02:19:16.000Z",
+    "publishDate": "2025-02-08T02:19:15.871Z",
+    "title": "休闲零食“年货战”：卷大包装与IP ，联手量贩零食",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-08 10:19:16",
+    "uuid": "c7273329-b74c-495a-a031-06cb2301456a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财新网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "最高人民检察院对涉嫌受贿的全国政协人口资源环境委员会原副主任李微微作出逮捕决定，案件正在进一步办理中。",
+    "id": "8gnjSx17S1l",
+    "order": 1738981487485,
+    "createdAt": "2025-02-08T02:12:36.000Z",
+    "publishDate": "2025-02-08T02:24:47.485Z",
+    "title": "最高人民检察院依法对李微微决定逮捕",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-08 10:12:36",
+    "uuid": "1e53cb1d-a37b-40f0-bb43-3cb19b38ff78"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "中国移动App新增线上销户和销户重开功能。线上销户仅支持身份证入网用户，每月1-6号及最后一天不可办理，余额转移需为同身移动号码 ...",
+    "id": "8gnf7GLgaPx",
+    "order": 1738981906228,
+    "createdAt": "2025-02-08T02:01:30.000Z",
+    "publishDate": "2025-02-08T02:31:46.228Z",
+    "title": "中国移动 App 上线“线上销户”“销户重开”功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-08 10:01:30",
+    "uuid": "1b71114e-2571-4ec8-bd6a-66af5ec44637"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "法国检察机构对马斯克的X公司展开调查，指控其歪曲算法操纵社交媒体讨论。巴黎检察官办公室收到法国议员报告，批评X公司算法存在偏见，可能扭曲自动化数据处理系统 ...",
+    "id": "8gnhwinggFs",
+    "order": 1738980758618,
+    "createdAt": "2025-02-08T01:51:15.000Z",
+    "publishDate": "2025-02-08T02:12:38.618Z",
+    "title": "法国对马斯克旗下X平台算法操控问题展开调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-08 09:51:15",
+    "uuid": "af82786f-98fe-4e4f-9cd2-e0fd1f072a2c"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "手机中国" }
@@ -195,6 +324,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "雷诺在日产汽车与本田汽车合并谈判失败后，重启与富士康就出售日产股份的谈判，并寻求其他全球科技企业如苹果公司作为潜在投资者，目前正评估所有选项。",
+    "id": "8gnNyqF6Ufn",
+    "order": 1738981136877,
+    "createdAt": "2025-02-08T00:13:55.000Z",
+    "publishDate": "2025-02-08T02:18:56.877Z",
+    "title": "知情人士：雷诺就出售日产股份重启与富士康的谈判",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-08 08:13:55",
+    "uuid": "2f40efe2-bd97-403c-b3dc-1a511a7c99ce"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -261,6 +409,24 @@
     "up": false,
     "date": "2025-02-08 07:32:09",
     "uuid": "5ab7744a-56c3-4d1b-b3fc-f1f56a5db57a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国总统特朗普与日本首相石破茂会面后宣布，美国将与日本密切合作，日本将进口美国液化天然气，日本制铁公司考虑对美国钢铁公司投资。",
+    "id": "8gnIEq6hZ7o",
+    "order": 1738981965791,
+    "createdAt": "2025-02-07T21:51:55.000Z",
+    "publishDate": "2025-02-08T02:32:45.791Z",
+    "title": "美总统特朗普与日本首相石破茂会面 讨论加强双方合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-08 05:51:55",
+    "uuid": "a320af7c-5b78-4761-9868-6df3ba91fbb3"
   },
   {
     "newsArray": [
