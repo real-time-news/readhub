@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "福特汽车CEO吉姆·法利在《纽约时报》采访中表示，为了在全球电动汽车市场与中国竞争，福特需要学习和利用中国的先进技术 ...",
+    "id": "8gpSBC42u3l",
+    "order": 1739074927686,
+    "createdAt": "2025-02-09T04:22:08.000Z",
+    "publishDate": "2025-02-09T04:22:07.686Z",
+    "title": "福特CEO：电车想赢需要先学中国技术",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-09 12:22:08",
+    "uuid": "db4e372f-6338-4764-b841-a0494370a89b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "微软CEO Satya Nadella宣布GitHub Copilot支持代理功能，微软SWE智能体将融入GitHub用户体验 ...",
+    "id": "8gmN5Hof9Z9",
+    "order": 1739074405529,
+    "createdAt": "2025-02-09T04:13:26.000Z",
+    "publishDate": "2025-02-09T04:13:25.529Z",
+    "title": "微软宣布GitHub Copilot全面支持代理功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-09 12:13:26",
+    "uuid": "ee6e53da-a784-4e5e-85b5-e6162c80447d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "小米汽车否认了社交平台上关于小米SU7断轴的谣言，声明经调查不存在此类情况。",
+    "id": "8gpVQYIHoTE",
+    "order": 1739075086800,
+    "createdAt": "2025-02-09T03:52:11.000Z",
+    "publishDate": "2025-02-09T04:24:46.800Z",
+    "title": "小米SU7被曝过坑时发生断轴，官方回应：不实",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-09 11:52:11",
+    "uuid": "3b63444d-8baf-4422-828a-2a8f210bfc24"
+  },
+  {
+    "newsArray": [
       { "siteName": "环球网科技" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
