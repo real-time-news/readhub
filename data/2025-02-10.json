@@ -1,6 +1,150 @@
 [
   {
     "newsArray": [
+      { "siteName": "TechSir" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "俄罗斯国家原子能公司（Rosatom）展示了一种新型等离子体电力火箭发动机，该技术能在一到两个月内将航天器送至火星 ...",
+    "id": "8gqzx96HAOC",
+    "order": 1739155913120,
+    "createdAt": "2025-02-10T02:51:54.000Z",
+    "publishDate": "2025-02-10T02:51:53.120Z",
+    "title": "俄罗斯打造等离子体火箭发动机：火星之旅有望缩短至一个月",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 10:51:54",
+    "uuid": "4b6e1cd1-87a7-44d5-8a05-3f31c3b51874"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "和铂医药-B（02142）股价上涨13.88%，报4.05港元，成交额2237.62万港元 ...",
+    "id": "8gqwlEtIjeD",
+    "order": 1739155869949,
+    "createdAt": "2025-02-10T02:43:12.000Z",
+    "publishDate": "2025-02-10T02:51:09.949Z",
+    "title": "和铂医药-B早盘持续上涨逾14% 公司回购计划进展迅速",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 10:43:12",
+    "uuid": "d5e7abb6-620d-4f2b-848f-ceb91df7f099"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "TechSir" },
+      { "siteName": "界面" }
+    ],
+    "summary": "Alat 埃耐特与联想集团在沙特阿拉伯利雅得举行了新制造基地的奠基仪式，该基地位于沙特综合物流特区（SILZ）的“利雅得综合区”园区内，占地20万平方米，预计年产数百万台“沙特制造”的笔记本电脑、台式机及服务器 ...",
+    "id": "8gqzxCldrZt",
+    "order": 1739155366984,
+    "createdAt": "2025-02-10T02:42:47.000Z",
+    "publishDate": "2025-02-10T02:42:46.984Z",
+    "title": "联想沙特新工厂奠基，生产「沙特制造」笔记本、台式机等",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 10:42:47",
+    "uuid": "3be4ea7b-d494-4c49-9e29-504fdf8a244c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "日本伊藤忠商事正在考虑应柒和伊控股创始家族的请求加入对该公司的收购计划，但具体条款未定且未提交董事会讨论。",
+    "id": "8gr5Jw5pQZk",
+    "order": 1739155985704,
+    "createdAt": "2025-02-10T02:34:09.000Z",
+    "publishDate": "2025-02-10T02:53:05.704Z",
+    "title": "伊藤忠商事回应“有意参与柒和伊控股收购计划”：具体条款尚未确定",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 10:34:09",
+    "uuid": "00122102-d27f-4809-aa36-2ec676a32010"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "网络安全研究人员在HuggingFace平台发现两个恶意机器学习模型，利用损坏的pickle文件技术规避安全检测。这些模型包含典型的平台特定反向shell，连接到硬编码的IP地址 ...",
+    "id": "8gqzE7Tcsn1",
+    "order": 1739154820061,
+    "createdAt": "2025-02-10T02:33:42.000Z",
+    "publishDate": "2025-02-10T02:33:40.061Z",
+    "title": "黑客在 HuggingFace 上传恶意 AI 模型，用“损坏”pickle 文件规避监测",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 10:33:42",
+    "uuid": "aaaba772-922d-4c23-9eb8-2c2d3ac92778"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "喜茶内部邮件宣布2025年将继续执行差异化战略，其中包括停止接受事业合伙申请，以避免门店规模内卷。",
+    "id": "8gr3wp4J1Qw",
+    "order": 1739155004913,
+    "createdAt": "2025-02-10T02:32:18.000Z",
+    "publishDate": "2025-02-10T02:36:44.913Z",
+    "title": "喜茶暂停加盟申请：不参与数字游戏与规模内卷",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 10:32:18",
+    "uuid": "f7819b87-0946-4eef-8885-cf14fecf83df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "36Kr" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "柘飞航空完成数千万元人民币天使轮融资，由光速光合创业投资基金领投，盐城经济技术开发区鑫顺向海数实融合产业基金跟投。公司将利用资金推进产品商业化和市场开拓，加速先进空中交通行业发展 ...",
+    "id": "8gqy1nercOC",
+    "order": 1739154675511,
+    "createdAt": "2025-02-10T02:31:16.000Z",
+    "publishDate": "2025-02-10T02:31:15.511Z",
+    "title": "“柘飞航空”获数千万元人民币天使轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 10:31:16",
+    "uuid": "c7949283-1685-43f4-afc1-4d997cd62a71"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "AI医疗概念股表现强劲，思创医惠涨停，贝瑞基因连续两日涨停，多股涨幅超5%。",
+    "id": "8gr4RoTM5ID",
+    "order": 1739155913500,
+    "createdAt": "2025-02-10T02:23:02.000Z",
+    "publishDate": "2025-02-10T02:51:53.500Z",
+    "title": "AI医疗概念震荡走强，思创医惠触及20cm涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 10:23:02",
+    "uuid": "74a99cc0-3e3e-447a-ba24-bb170259bf77"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" },
       { "siteName": "钛媒体" },
@@ -34,6 +178,24 @@
     "up": false,
     "date": "2025-02-10 10:04:47",
     "uuid": "815cbde7-6e60-4a69-b866-7c00469ab525"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "信测标准宣布接入DeepSeek大模型，以加速检测机器人研发和商业化。结合公司在汽车和电子领域的检测能力和客户资源，信测标准有望在智能化检测领域建立优势，创造新的增长点。",
+    "id": "8gr3ClL9KWt",
+    "order": 1739155965846,
+    "createdAt": "2025-02-10T02:04:35.000Z",
+    "publishDate": "2025-02-10T02:52:45.846Z",
+    "title": "信测标准接入DeepSeek大模型 智能检测机器人有望加速落地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 10:04:35",
+    "uuid": "d92d7dbb-1923-41c4-876c-57774daa645d"
   },
   {
     "newsArray": [
@@ -141,6 +303,24 @@
     "up": false,
     "date": "2025-02-10 09:44:08",
     "uuid": "66b4946b-b20f-4832-a765-dc6e5e836e27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "中国证监会发布的《关于资本市场做好金融“五篇大文章”的实施意见》强调了证券行业在服务实体经济、科技金融、普惠金融、养老金融和绿色金融等方面的重要作用 ...",
+    "id": "8gq0tK2UKDA",
+    "order": 1739155423071,
+    "createdAt": "2025-02-10T01:43:41.000Z",
+    "publishDate": "2025-02-10T02:43:43.071Z",
+    "title": "券商多条业务线发力 提升金融“五篇大文章”服务能力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 09:43:41",
+    "uuid": "0b72fcd7-3c0f-4c08-bd4d-b8da7d108044"
   },
   {
     "newsArray": [
