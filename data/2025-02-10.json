@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "零售板块股价上涨，通程控股和杭州解百触及涨停，供销大集、大商股份、爱婴室等股票也出现拉升。",
+    "id": "8grL2fH2uBh",
+    "order": 1739168102458,
+    "createdAt": "2025-02-10T06:15:02.000Z",
+    "publishDate": "2025-02-10T06:15:02.458Z",
+    "title": "零售板块持续拉升，通程控股、杭州解百触及涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 14:15:02",
+    "uuid": "061aa6ae-732c-4450-9fa9-4e1eed854efd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Lyft与Anthropic合作，引入Claude人工智能助手处理客户服务请求，特别是司机服务咨询，显著缩短解决请求时间。尽管AI助手能处理常见问题，复杂情况仍需转人工 ...",
+    "id": "8grAgLWxUV6",
+    "order": 1739168007286,
+    "createdAt": "2025-02-10T06:13:28.000Z",
+    "publishDate": "2025-02-10T06:13:27.286Z",
+    "title": "Lyft 与 Anthropic 达成合作，利用 Claude 提供服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 14:13:28",
+    "uuid": "28f9c841-0776-47c8-9290-cd135317b96f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "36Kr" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "美国总统特朗普支持加密货币，导致日本市场对比特币需求激增。Metaplanet Inc.模仿MicroStrategy储备比特币，股价12个月内上涨逾4000%，成为全球涨幅最高的股票之一。",
+    "id": "8gr7VJclHIs",
+    "order": 1739167391504,
+    "createdAt": "2025-02-10T06:03:12.000Z",
+    "publishDate": "2025-02-10T06:03:11.504Z",
+    "title": "从经营酒店转向囤比特币，日本Metaplanet股价一年大涨4000%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 14:03:12",
+    "uuid": "a3677943-e3bf-42a0-b7fe-7e143117bbf5"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "C114 通信网" },
       { "siteName": "IT 之家" }
@@ -163,6 +216,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "截至2月7日，南向资金在港股通标的股中持股比例达16.12%，持股市值38582.60亿港元。其中，184只个股南向资金持股比例超20%，主要集中在医疗保健业、工业、金融业等行业 ...",
+    "id": "8gr14TWYFbg",
+    "order": 1739168092214,
+    "createdAt": "2025-02-10T05:11:48.000Z",
+    "publishDate": "2025-02-10T06:14:52.214Z",
+    "title": "184只港股获南向资金大比例持有",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 13:11:48",
+    "uuid": "9681e6f8-e722-41d5-b0b0-38c3b0022fc2"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -300,6 +371,34 @@
     "up": false,
     "date": "2025-02-10 11:43:31",
     "uuid": "e70bbeb0-aacc-4c27-a592-370b4afd5034"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "国家发改委发文显示，春节期间全国汽车、家电家居、手机等数码产品以旧换新销售量达860万台（套），销售额约312亿元 ...",
+    "id": "8grAMf2uxPl",
+    "order": 1739168086644,
+    "createdAt": "2025-02-10T03:42:50.000Z",
+    "publishDate": "2025-02-10T06:14:46.644Z",
+    "title": "春节期间全国家电、手机销售收入同比增长166%、182%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-10 11:42:50",
+    "uuid": "74d47e03-15a7-4548-a134-0ac4634f091d"
   },
   {
     "newsArray": [
