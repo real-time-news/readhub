@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国能源信息署（EIA）短期能源展望报告预计2025年布伦特原油价格为74元/桶，2026年为66元/桶。下一份报告将于3月11日发布。",
+    "id": "8gtl7VKaioH",
+    "order": 1739294497979,
+    "createdAt": "2025-02-11T17:21:42.000Z",
+    "publishDate": "2025-02-11T17:21:37.979Z",
+    "title": "美国EIA维持2025-26年布油价格预期不变",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 01:21:42",
+    "uuid": "fb6c7d3e-e91f-428c-b25f-804d79140d35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "VR陀螺" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司针对Vision Pro头显的重量和佩戴舒适性问题，提交了一项新专利申请，提出将处理器及相关组件外置的轻量化方案 ...",
+    "id": "8gsXhznifCf",
+    "order": 1739294200553,
+    "createdAt": "2025-02-11T17:16:51.000Z",
+    "publishDate": "2025-02-11T17:16:40.553Z",
+    "title": "苹果为解决 Vision Pro 重量难题申请专利：采用处理器外置方案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 01:16:51",
+    "uuid": "ae97f3a4-6714-4178-9b8b-2b3378e06c17"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "AMZ123" }
