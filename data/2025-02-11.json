@@ -1,6 +1,179 @@
 [
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "百度智能搜索助手文小言APP更新至4.9.0版本，新增伴学模式、手抄报、作文等功能，并接入Deepseek-R1模型优化拍照解题功能，提升解决数学问题的准确性和效率，为用户提供更便捷智能的学习体验。",
+    "id": "8grthxN03Uj",
+    "order": 1739239478328,
+    "createdAt": "2025-02-11T02:04:39.000Z",
+    "publishDate": "2025-02-11T02:04:38.328Z",
+    "title": "百度文小言升级：Deepseek模型让拍照解题更智能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 10:04:39",
+    "uuid": "cabddfe2-6af1-4d86-9e84-eec1b43b44e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "ROOST是一个由Roblox、Discord、OpenAI和谷歌联合创建的非营利组织，专注于为AI时代构建一个可扩展且互联互通的安全基础设施，以保护儿童在线安全 ...",
+    "id": "8gsgH39WhbA",
+    "order": 1739239445395,
+    "createdAt": "2025-02-11T02:04:06.000Z",
+    "publishDate": "2025-02-11T02:04:05.395Z",
+    "title": "​Roblox、OpenAI 与谷歌共建儿童安全新组织，推动 AI 时代的在线保护",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 10:04:06",
+    "uuid": "6cd37acb-3c75-41fa-939f-7f51db76b516"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "铜缆高速连接概念股出现震荡反弹，金信诺涨幅超过10%，航锦科技涨停，鑫科材料、神宇股份、博创科技、沃尔核材、太辰光、胜蓝股份等股票跟涨。",
+    "id": "8gshMlOorQh",
+    "order": 1739239373586,
+    "createdAt": "2025-02-11T02:02:55.000Z",
+    "publishDate": "2025-02-11T02:02:53.586Z",
+    "title": "铜缆高速连接概念股震荡反弹，金信诺涨超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 10:02:55",
+    "uuid": "33b4d3ab-80f7-464c-8fc5-1d729a64f3a3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "影视股经历探底后回升，光线传媒涨幅超过10%，创下历史新高，其他影视股如奥飞娱乐、万达电影等也跟随上涨。《哪吒2》预测总票房达到142.5亿元，推动了影视股的上涨。",
+    "id": "8gshDYcbs64",
+    "order": 1739238587299,
+    "createdAt": "2025-02-11T01:49:48.000Z",
+    "publishDate": "2025-02-11T01:49:47.299Z",
+    "title": "影视股探底回升 光线传媒涨超10%创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 09:49:48",
+    "uuid": "ad414d67-593e-49f6-a15a-99cb3bf733e0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2025年2月11日，股市表现不佳，创业板指数下跌超过1%，沪指下跌0.24%，深成指下跌0.54% ...",
+    "id": "8gsgen8jg8A",
+    "order": 1739238176922,
+    "createdAt": "2025-02-11T01:42:57.000Z",
+    "publishDate": "2025-02-11T01:42:56.922Z",
+    "title": "创业板指跌逾1% 下跌个股近4300只",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 09:42:57",
+    "uuid": "56a31576-2093-4f43-9ec4-c73f742c1748"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财新网" }
+    ],
+    "summary": "A股三大指数表现分化，沪指微涨0.05%至3323.67点，深证成指微涨0.09%至10640.84点，创业板指微跌0.04%至2182.91点。",
+    "id": "8gsfyFhObyZ",
+    "order": 1739237811260,
+    "createdAt": "2025-02-11T01:34:46.000Z",
+    "publishDate": "2025-02-11T01:36:51.260Z",
+    "title": "A股三大指数涨跌不一，沪指涨0.05%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 09:34:46",
+    "uuid": "76526b94-d9e2-422e-a666-ec781497e789"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "特斯拉上海储能超级工厂于2月11日投产，该项目从开工到产品下线仅用时9个月，比上海超级工厂快3个月。工厂将于本季度开始产能爬坡。",
+    "id": "8gsfyAK9XGo",
+    "order": 1739237674734,
+    "createdAt": "2025-02-11T01:34:37.000Z",
+    "publishDate": "2025-02-11T01:34:34.734Z",
+    "title": "特斯拉上海储能超级工厂正式投产 本季度开始产能爬坡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 09:34:37",
+    "uuid": "4aff770d-43d2-436b-98d2-9592bb03c0e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "特斯拉CEO埃隆·马斯克在2024年1月的财报电话会议上预测，特斯拉的自动驾驶出租车服务（Robotaxi Fleet）将在今年年底扩展到美国多个城市 ...",
+    "id": "8gsAXK1O00Q",
+    "order": 1739237216132,
+    "createdAt": "2025-02-11T01:26:58.000Z",
+    "publishDate": "2025-02-11T01:26:56.132Z",
+    "title": "马斯克放豪言：6 月在奥斯汀推出特斯拉自动驾驶出租车服务，年底覆盖多城",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 09:26:58",
+    "uuid": "7a32ffa6-f710-4eb6-8c7d-f2608dc8e495"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "2024年全年物流运行数据显示，全国社会物流总额超360万亿元，同比增长5.8%，物流市场规模优势进一步巩固，与产业链协同体系逐步构建，物流需求规模持续扩张，物流运行总体延续稳中有进的发展态势。",
+    "id": "8gseVOAXdAR",
+    "order": 1739237155189,
+    "createdAt": "2025-02-11T01:19:14.000Z",
+    "publishDate": "2025-02-11T01:25:55.189Z",
+    "title": "需求规模持续扩张，2024年全国社会物流总额超360万亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 09:19:14",
+    "uuid": "3342ec4a-e004-4bb7-b08c-cf64c725f94f"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" }
@@ -317,6 +490,24 @@
     "up": false,
     "date": "2025-02-11 04:51:52",
     "uuid": "1a4d5f58-c67e-409c-a6ab-bf6dd8d3d875"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财新网" }
+    ],
+    "summary": "缅甸安全部队在掸邦北部勐耶地区连续开展执法行动，捣毁多个电诈窝点，共抓捕102名涉嫌参与电诈网赌犯罪人员，并缴获大量违法行为所用设备。",
+    "id": "8gs6DNPA7PL",
+    "order": 1739237210587,
+    "createdAt": "2025-02-10T19:32:37.000Z",
+    "publishDate": "2025-02-11T01:26:50.587Z",
+    "title": "缅甸捣毁多个电诈窝点 抓捕上百名犯罪嫌疑人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 03:32:37",
+    "uuid": "c06e248d-0a1a-475a-9a90-985a9bf4f721"
   },
   {
     "newsArray": [
