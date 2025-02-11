@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "长征八号甲运载火箭于2月11日在海南文昌发射场成功发射，是长征八号系列火箭的改进型号，专为中低轨道巨型星座组网发射需求研制 ...",
+    "id": "8gtH5uEkE8K",
+    "order": 1739270961374,
+    "createdAt": "2025-02-11T10:49:21.000Z",
+    "publishDate": "2025-02-11T10:49:21.374Z",
+    "title": "长征八号甲首飞，预计今年将“走量”发射",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 18:49:21",
+    "uuid": "1c4d6745-c945-47fa-9322-3d9e2da4d1b2"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "中关村在线" }
@@ -1871,6 +1888,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "今日有消息称，DeepSeek创始人梁文锋，已赴巴黎参加人工智能峰会。对此，有内部知情人士向新浪科技透露称：假的，梁文锋目前仍在国内。",
+    "id": "8gsn8GDXMD9",
+    "order": 1739271198027,
+    "createdAt": "2025-02-11T05:02:59.000Z",
+    "publishDate": "2025-02-11T10:53:18.027Z",
+    "title": "网传梁文锋已赴巴黎参加AI峰会，知情人士辟谣：假的，目前仍在国内",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 13:02:59",
+    "uuid": "b7fc6e16-cae2-4792-bd2e-663b6d4a0bdb"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -1960,6 +1994,24 @@
     "up": false,
     "date": "2025-02-11 12:42:20",
     "uuid": "47ff6713-2cf2-4e56-a1c6-1601528f428f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "斯坦福大学和华盛顿大学的研究人员基于阿里巴巴的Qwen2.5-32b-Instruct模型开发了S1推理模型，该模型在数学和编程技能上超越了OpenAI的o1-preview模型，且开发成本可能低至14美元 ...",
+    "id": "8gsjXwL9okP",
+    "order": 1739271211374,
+    "createdAt": "2025-02-11T04:22:22.000Z",
+    "publishDate": "2025-02-11T10:53:31.374Z",
+    "title": "阿里巴巴的Qwen AI模型助力斯坦福、伯克利能够开发出低成本推理模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 12:22:22",
+    "uuid": "22e82262-f71a-4f2c-beff-7f8cd4fab841"
   },
   {
     "newsArray": [
