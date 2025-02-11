@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "重庆农村商业银行与腾讯云合作，利用腾讯云大模型知识引擎，在企业微信上线基于DeepSeek模型的智能助手“AI小渝”，成为全国首批接入DeepSeek大模型应用的金融机构，标志着其在数字化转型上的重要进展。",
+    "id": "8gsorJKuIso",
+    "order": 1739249351097,
+    "createdAt": "2025-02-11T04:49:13.000Z",
+    "publishDate": "2025-02-11T04:49:11.097Z",
+    "title": "重庆农商行与腾讯云合作落地DeepSeek大模型联网应用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 12:49:13",
+    "uuid": "473486e1-87b9-402b-ad2e-d968d45f4802"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "IBM宣布DeepSeek-R1蒸馏版Llama 3.1 8B和Llama 3.3 70B已上线其企业级AI开发平台watsonx.AI ...",
+    "id": "8gsspHeBO25",
+    "order": 1739249197513,
+    "createdAt": "2025-02-11T04:46:38.000Z",
+    "publishDate": "2025-02-11T04:46:37.513Z",
+    "title": "IBM 企业级 AI 开发平台 watsonx.ai 上线 DeepSeek R1 蒸馏模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 12:46:38",
+    "uuid": "8c515378-58f3-4e49-ad84-f424fceb8528"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
