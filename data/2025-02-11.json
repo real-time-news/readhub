@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "中证网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中芯国际与大唐控股签订2025年框架协议，合作期限为三年，涉及芯片加工服务，定价将根据市场合理价格协商确定。",
+    "id": "8gtEy7W4gPK",
+    "order": 1739269567935,
+    "createdAt": "2025-02-11T10:26:08.000Z",
+    "publishDate": "2025-02-11T10:26:07.935Z",
+    "title": "中芯国际：与大唐控股签订2025年框架协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 18:26:08",
+    "uuid": "207d3a39-9a50-435a-a68c-5e36478b93f9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中核钛白与立邦投资签订战略合作协议，计划在2025-2027年成为立邦投资最大的钛白粉产品供应商之一。",
+    "id": "8gtH6TzdQ0T",
+    "order": 1739269559358,
+    "createdAt": "2025-02-11T10:26:00.000Z",
+    "publishDate": "2025-02-11T10:25:59.358Z",
+    "title": "中核钛白：与立邦投资签订战略合作协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 18:26:00",
+    "uuid": "431a4846-e79f-4ddf-8c2e-bc806da73195"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "欧盟启动200亿欧元基金以支持人工智能超级工厂的发展。",
+    "id": "8gtHoxHflBg",
+    "order": 1739269536653,
+    "createdAt": "2025-02-11T10:25:36.000Z",
+    "publishDate": "2025-02-11T10:25:36.653Z",
+    "title": "欧盟启动200亿欧元基金支持人工智能超级工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 18:25:36",
+    "uuid": "ca0ce966-6ead-4499-914f-a105c2b8f3e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "欧盟委员会主席冯德莱恩在人工智能行动峰会上宣布，欧洲将投资2000亿欧元以推动人工智能竞赛。",
+    "id": "8gtH7sODjc1",
+    "order": 1739269323498,
+    "createdAt": "2025-02-11T10:22:04.000Z",
+    "publishDate": "2025-02-11T10:22:03.498Z",
+    "title": "冯德莱恩：目标在欧洲调动2000亿欧元人工智能投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 18:22:04",
+    "uuid": "5966022b-2ea2-4ca2-8ca2-ff45972315a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "拓维信息公告称，公司生产经营正常，无重大变化，不存在违反信息披露行为。2024年年度报告将于2025年4月25日披露，具体财务数据以报告为准。",
+    "id": "8gtFfIo4Ki1",
+    "order": 1739269347729,
+    "createdAt": "2025-02-11T10:13:30.000Z",
+    "publishDate": "2025-02-11T10:22:27.729Z",
+    "title": "拓维信息：公司不存在违反公平信息披露的情形",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 18:13:30",
+    "uuid": "58176124-4a09-4aeb-832c-810e17a1bb23"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "携程集团宣布，百度提名的董事何俊杰辞去职务，罗戎接任。罗戎曾任百度首席财务官，拥有丰富管理经验和多个学位。",
+    "id": "8gtGV4GXgQ2",
+    "order": 1739269357889,
+    "createdAt": "2025-02-11T10:13:23.000Z",
+    "publishDate": "2025-02-11T10:22:37.889Z",
+    "title": "携程集团：百度提名董事何俊杰辞职",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 18:13:23",
+    "uuid": "cf731568-de5b-4cee-9e5c-ad111ddbcc47"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "站长之家" },
       { "siteName": "快科技" }
@@ -757,6 +862,24 @@
     "up": false,
     "date": "2025-02-11 15:54:33",
     "uuid": "ab5071b5-24f4-4ed0-bbbd-2ec460a19398"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "印度NIFTY指数下跌1%，跌至23147.65点。",
+    "id": "8gt6NGDDQYC",
+    "order": 1739269349107,
+    "createdAt": "2025-02-11T07:54:23.000Z",
+    "publishDate": "2025-02-11T10:22:29.107Z",
+    "title": "印度NIFTY指数跌幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-11 15:54:23",
+    "uuid": "90eaa524-549e-44d7-8e8f-9b5bca6c008b"
   },
   {
     "newsArray": [
