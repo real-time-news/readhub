@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "KKR北美私募股权基金第14期已筹集约140亿美元，最早本月首次封闭，目标募资200亿美元。首次封闭期间，基金可开始投资并继续筹集资金，向市场展示有限合伙人需求。",
+    "id": "8guXiAvdGzD",
+    "order": 1739334720592,
+    "createdAt": "2025-02-12T04:32:01.000Z",
+    "publishDate": "2025-02-12T04:32:00.592Z",
+    "title": "KKR北美私募股权基金据悉筹集近140亿美元，距创纪录目标已过大半",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 12:32:01",
+    "uuid": "83c346ca-2807-40ee-bdf1-f73f543eeda8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "富士康董事长寻求与日产汽车合作而非收购，并已与雷诺讨论合作事宜。",
+    "id": "8guNiIc54mz",
+    "order": 1739334382147,
+    "createdAt": "2025-02-12T04:26:23.000Z",
+    "publishDate": "2025-02-12T04:26:22.147Z",
+    "title": "富士康董事长：寻求与日产汽车合作，而非收购",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 12:26:23",
+    "uuid": "d3de7906-6fca-4964-b882-bf3c65577d4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "界面" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "ABC品牌近期因发布“比基尼安睡裤”卫生巾新品而引发争议，被指责牺牲舒适度追求“经期性感”，并有偷工减料嫌疑。该产品已在各电商平台下架，且存在“货不对板”的情况 ...",
+    "id": "8guGaUgP4y9",
+    "order": 1739334345487,
+    "createdAt": "2025-02-12T04:25:45.000Z",
+    "publishDate": "2025-02-12T04:25:45.487Z",
+    "title": "ABC新品“比基尼安睡裤”惹争议，现已下架",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 12:25:45",
+    "uuid": "f8f38bfb-bcb5-4f82-a187-950e6df0a1be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "抖音集团副总裁李亮回应视频“摆拍”乱象，表示平台对摆拍治理明确，要求作者标识，未标识的摆拍内容核实后将按违规处理 ...",
+    "id": "8guVzKi9wqa",
+    "order": 1739334086192,
+    "createdAt": "2025-02-12T04:21:26.000Z",
+    "publishDate": "2025-02-12T04:21:26.192Z",
+    "title": "抖音副总裁李亮回应摆拍视频乱象：不做标识的核实后按违规处理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 12:21:26",
+    "uuid": "0b3c9d86-5fe1-4df4-a923-a2d3d9c87bf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "随着国产大模型DeepSeek在金融行业本地化部署的加速，券商对首席信息官（CIO）的需求增加。国元证券和东方证券分别任命了新的CIO，华西证券也在公开招聘CIO ...",
+    "id": "8guTTizB4GQ",
+    "order": 1739334075934,
+    "createdAt": "2025-02-12T04:13:49.000Z",
+    "publishDate": "2025-02-12T04:21:15.934Z",
+    "title": "“拥抱”DeepSeek，多家券商首席信息官人选迎变动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 12:13:49",
+    "uuid": "59a88a2f-3483-4082-b6cf-38bb05e9203a"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国科技网" },
       { "siteName": "央视新闻" },
       { "siteName": "科学网" }
