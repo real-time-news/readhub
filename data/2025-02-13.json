@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Reddit一季度营收预计为3.6亿至3.7亿美元，超出分析师预期的3.587亿美元。",
+    "id": "8gvhAdKGYi1",
+    "order": 1739404501712,
+    "createdAt": "2025-02-12T23:55:02.000Z",
+    "publishDate": "2025-02-12T23:55:01.712Z",
+    "title": "Reddit预计一季度营收3.6亿~3.7亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 07:55:02",
+    "uuid": "dd236767-4acf-4229-ae5c-3d075de7d755"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "纳斯达克中国金龙指数涨幅扩大至2%，富途控股涨近8%，阿里巴巴、理想汽车、小鹏汽车涨超3%。",
+    "id": "8gvHTGiWLIG",
+    "order": 1739404382946,
+    "createdAt": "2025-02-12T23:53:03.000Z",
+    "publishDate": "2025-02-12T23:53:02.946Z",
+    "title": "纳斯达克中国金龙指数日内涨幅扩大至2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 07:53:03",
+    "uuid": "3c3ba9ed-b32a-416f-9d83-13b9674b67f1"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -169,6 +203,25 @@
     "up": false,
     "date": "2025-02-13 07:25:05",
     "uuid": "7428c5ae-a31f-415c-9358-0b8cde410f26"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国1月核心CPI同比增长3.3%，高于预期的3.1%和前值3.2%。环比增长0.4%，同样高于预期的0.3%和前值0.2%。",
+    "id": "8gvAK9L6PPS",
+    "order": 1739404376148,
+    "createdAt": "2025-02-12T23:07:00.000Z",
+    "publishDate": "2025-02-12T23:52:56.148Z",
+    "title": "美国1月核心消费者价格指数同比增长3.3%，预估为3.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 07:07:00",
+    "uuid": "272564d6-5077-4bc2-b6f9-4f6bbf48f777"
   },
   {
     "newsArray": [
