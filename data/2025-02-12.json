@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "英国广播公司（BBC）的研究显示，主流AI助手在回答新闻和时事相关问题时，超过一半的回答存在重大错误，包括事实错误和引用错误。这些问题可能削弱公众对事实的信任 ...",
+    "id": "8gsi9yrFXCc",
+    "order": 1739330717721,
+    "createdAt": "2025-02-12T03:25:18.000Z",
+    "publishDate": "2025-02-12T03:25:17.721Z",
+    "title": "​AI 聊天机器人在时事问题上频频出错，BBC 研究揭示事实扭曲",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 11:25:18",
+    "uuid": "d760a0b6-8410-4c50-ad02-c98eb54db4e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "浪潮信息发布元脑R1推理服务器，单机可部署DeepSeek R1 671B模型，降低部署难度和成本，提升推理性能，加速行业智能发展。",
+    "id": "8gtTyKNuZAV",
+    "order": 1739330485268,
+    "createdAt": "2025-02-12T03:21:26.000Z",
+    "publishDate": "2025-02-12T03:21:25.268Z",
+    "title": "浪潮信息推出元脑R1推理服务器 单机即可释放DeepSeek 671B强大模力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 11:21:26",
+    "uuid": "fd6c85b7-c3a9-4a79-bb9e-5ea06efd16f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "元宵节灯会搜索热度翻倍，主题景区门票量同比增长两成。四川自贡、广东广州、深圳等城市举办赏灯活动，酒店预订量同比增长超一成。",
+    "id": "8guQPLT1GLb",
+    "order": 1739330215024,
+    "createdAt": "2025-02-12T03:16:56.000Z",
+    "publishDate": "2025-02-12T03:16:55.024Z",
+    "title": "去哪儿：灯会主题景区门票量同比去年增两成",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 11:16:56",
+    "uuid": "f05db633-c376-4a3b-8779-363a81ad1b57"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "火山引擎近期上线全尺寸DeepSeek模型，并计划举办研讨会探讨多元模型部署调用等议题。除火山引擎外，阿里云、华为云等云服务商也上线了DeepSeek大模型 ...",
+    "id": "8gszwhb2UMd",
+    "order": 1739329954986,
+    "createdAt": "2025-02-12T03:12:34.000Z",
+    "publishDate": "2025-02-12T03:12:34.986Z",
+    "title": "字节系火山引擎“投诚”DeepSeek",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 11:12:34",
+    "uuid": "cb8b2e31-921a-4a91-bb01-98afbde860bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "赛力斯集团股份有限公司近期申请注册“赛力斯机器猿”、“机器猿”、“机械启猿”商标，涉及科学仪器、运输工具、机械设备等类别，状态目前为等待实质审查 ...",
+    "id": "8guPpwf8LuS",
+    "order": 1739329879627,
+    "createdAt": "2025-02-12T03:06:48.000Z",
+    "publishDate": "2025-02-12T03:11:19.627Z",
+    "title": "赛力斯申请机器猿商标",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 11:06:48",
+    "uuid": "cc696f04-1377-42c1-92c1-519b069f1643"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "亿邦动力网" },
       { "siteName": "金融界" }
@@ -71,6 +158,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "瑞银认为，由DeepSeek人工智能应用程序推动的中国股市上涨可能还未走完一半，预计涨势将持续1-2年，相关股票表现将跑赢50-100个百分点 ...",
+    "id": "8guPrL97308",
+    "order": 1739329931776,
+    "createdAt": "2025-02-12T03:05:11.000Z",
+    "publishDate": "2025-02-12T03:12:11.776Z",
+    "title": "瑞银：DeepSeek驱动的中国股市上涨才完成一小半",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 11:05:11",
+    "uuid": "aa59d9f8-652e-4178-a514-3c6dc6b12c51"
+  },
+  {
+    "newsArray": [
       { "siteName": "联商网" },
       { "siteName": "金融界" },
       { "siteName": "金融界" },
@@ -86,6 +192,40 @@
     "up": false,
     "date": "2025-02-12 10:57:11",
     "uuid": "46c68ec7-80db-4cc1-bddf-a8dee8041b77"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "猎云网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "鲁欧智造（山东）数字科技有限公司近期完成了 A+ 轮数千万融资，由中关村发展集团启航投资领投、源禾资本跟投 ...",
+    "id": "8guLthEgXMZ",
+    "order": 1739329964654,
+    "createdAt": "2025-02-12T02:55:13.000Z",
+    "publishDate": "2025-02-12T03:12:44.654Z",
+    "title": "鲁欧智造完成 A+ 轮融资，打造热数字孪生技术体系",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 10:55:13",
+    "uuid": "a7145e14-e50d-442d-a18f-fc9a400e9f9a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "第二十六届哈尔滨冰雪大世界运营52天，游客接待量超300万人次，刷新纪录。",
+    "id": "8gtC9AfVbfq",
+    "order": 1739329979847,
+    "createdAt": "2025-02-12T02:52:37.000Z",
+    "publishDate": "2025-02-12T03:12:59.847Z",
+    "title": "冰雪大世界接待游客量突破300万人次，创下新纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-12 10:52:37",
+    "uuid": "0252a225-d24d-4a6e-b196-9f8df3365149"
   },
   {
     "newsArray": [
