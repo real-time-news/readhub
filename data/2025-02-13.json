@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "网易科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "OpenAI CEO山姆·奥特曼在2月11日的节目中表示，他每天都担心公司被超越，并计划与DeepSeek领导层会面。",
+    "id": "8gwKkNOk0QE",
+    "order": 1739438040079,
+    "createdAt": "2025-02-13T09:14:00.000Z",
+    "publishDate": "2025-02-13T09:14:00.079Z",
+    "title": "奥特曼：每天都担心被超越，将与DeepSeek领导层会面",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 17:14:00",
+    "uuid": "2b6431f2-0ff8-41c8-b8bd-608528ba2b0f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "恒瑞医药子公司苏州盛迪亚生物医药有限公司获得国家药品监督管理局批准，将开展夫那奇珠单抗注射液的临床试验 ...",
+    "id": "8gwVxExdezi",
+    "order": 1739437990226,
+    "createdAt": "2025-02-13T09:13:11.000Z",
+    "publishDate": "2025-02-13T09:13:10.226Z",
+    "title": "恒瑞医药：获得夫那奇珠单抗注射液药物临床试验批准通知书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 17:13:11",
+    "uuid": "e37d3d22-7318-4a9d-837f-cd053a09a180"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "华虹半导体四季度销售收入5.392亿美元，同比增长18.4%，环比增长2.4%。毛利率11.4%，同比上升7.4个百分点，环比下降0.8个百分点 ...",
+    "id": "8gwUVliYcgQ",
+    "order": 1739437416468,
+    "createdAt": "2025-02-13T09:03:36.000Z",
+    "publishDate": "2025-02-13T09:03:36.468Z",
+    "title": "华虹半导体：四季度销售收入同比增长18.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 17:03:36",
+    "uuid": "dc0df0c6-a1e5-402d-8706-479cb22d320e"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -621,6 +673,24 @@
     "up": false,
     "date": "2025-02-13 14:52:20",
     "uuid": "531bd8c0-966b-4fcd-9819-0972dd8e7a18"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "索尼计划回购不超过500亿日元的股票。",
+    "id": "8gwLFAUnIf6",
+    "order": 1739437540985,
+    "createdAt": "2025-02-13T06:51:33.000Z",
+    "publishDate": "2025-02-13T09:05:40.985Z",
+    "title": "索尼将回购至多500亿日元的股票",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 14:51:33",
+    "uuid": "91e1aab9-cc11-44b7-936f-39931bc09289"
   },
   {
     "newsArray": [
@@ -1358,6 +1428,27 @@
     "up": false,
     "date": "2025-02-13 12:14:25",
     "uuid": "fffa8e4d-58a5-4ce6-9eeb-63adbc3b7b60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "上海自贸试验区五大片区数据跨境服务中心于2月13日成立，旨在提供数据跨境“一站式”服务，联合临港新片区数据跨境服务中心建立网格化政务服务。",
+    "id": "8gwAURDFXqi",
+    "order": 1739437540891,
+    "createdAt": "2025-02-13T04:03:48.000Z",
+    "publishDate": "2025-02-13T09:05:40.891Z",
+    "title": "上海自贸试验区五大片区数据跨境服务中心成立",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 12:03:48",
+    "uuid": "04cace53-ee78-4ec5-8154-3bea2959a662"
   },
   {
     "newsArray": [
