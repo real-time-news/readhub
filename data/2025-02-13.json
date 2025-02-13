@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "西部数据在2025年投资者日活动中公布了其硬盘技术发展路线图，计划在2026年底前推出首批HAMR硬盘，预计2027年实现大规模量产 ...",
+    "id": "8gw5kqApStH",
+    "order": 1739420065957,
+    "createdAt": "2025-02-13T04:14:25.000Z",
+    "publishDate": "2025-02-13T04:14:25.957Z",
+    "title": "西部数据新硬盘技术容量可达36TB 预计明年推出",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 12:14:25",
+    "uuid": "fffa8e4d-58a5-4ce6-9eeb-63adbc3b7b60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "央视新闻" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "干细胞研究在医学领域取得了显著进展，尤其在治疗癌症、糖尿病、癫痫、心力衰竭和眼疾等方面展现出巨大潜力 ...",
+    "id": "8gvxeGfK0sc",
+    "order": 1739419410002,
+    "createdAt": "2025-02-13T04:03:30.000Z",
+    "publishDate": "2025-02-13T04:03:30.002Z",
+    "title": "干细胞疗法或将翻开新篇章",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 12:03:30",
+    "uuid": "16a01223-8611-4579-82ea-17f773a1784e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "奥地利科学技术研究所的物理学家在量子信息领域取得重大突破，成功实现超导量子比特的全光学读取 ...",
+    "id": "8gvru9GjH4X",
+    "order": 1739419399756,
+    "createdAt": "2025-02-13T04:03:19.000Z",
+    "publishDate": "2025-02-13T04:03:19.756Z",
+    "title": "超导量子比特实现全光学读取 为架设量子计算网络奠定基础",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 12:03:19",
+    "uuid": "2464310b-f538-4d95-9e71-5d2337fc0ec2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "财联社" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "这是复旦大学高分子科学系、聚合物分子工程全国重点实验室、纤维材料与器件研究院、高分子科学智能中心彭慧胜/高悦团队完成的最新成果 ...",
+    "id": "8gvjJMffevF",
+    "order": 1739419391139,
+    "createdAt": "2025-02-13T04:03:11.000Z",
+    "publishDate": "2025-02-13T04:03:11.139Z",
+    "title": "“打一针”让锂电池寿命增十倍 复旦新成果登上《自然》",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 12:03:11",
+    "uuid": "02573373-1b5b-4e52-881a-c757b849dda6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "上汽大众否认网传“采购部举报信”内容，称其为谣言，并已向公安机关报案处理。",
+    "id": "8gw9aGgf43y",
+    "order": 1739420501413,
+    "createdAt": "2025-02-13T03:52:51.000Z",
+    "publishDate": "2025-02-13T04:21:41.413Z",
+    "title": "上汽大众回应网传“采购部举报信”：属谣言 已报案处理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 11:52:51",
+    "uuid": "ae6c528b-8276-4793-b426-9f514475f91e"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "DoNews" },
       { "siteName": "36Kr" }
@@ -49,6 +136,24 @@
     "up": false,
     "date": "2025-02-13 11:42:17",
     "uuid": "9ae5cccd-b42a-4564-bfae-4849dcde99af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "离岸人民币兑美元汇率上涨，突破7.30关口，达到7.2975，日内涨幅约130点。",
+    "id": "8gw7ss4BfQW",
+    "order": 1739420497917,
+    "createdAt": "2025-02-13T03:32:52.000Z",
+    "publishDate": "2025-02-13T04:21:37.917Z",
+    "title": "离岸人民币兑美元盘中走高，收复7.30关口",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 11:32:52",
+    "uuid": "2d9e41d0-82af-478f-bda8-ade5e3791427"
   },
   {
     "newsArray": [
@@ -166,6 +271,26 @@
     "up": false,
     "date": "2025-02-13 11:12:52",
     "uuid": "aec85c8e-22d1-4c4c-be4a-ef23294c1771"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "特朗普政府推出“买断计划”以缩减联邦政府规模，提供约8个月薪资补偿给主动辞职的员工。目前已有超过4万人接受计划并辞职。",
+    "id": "8gw6Ckz5Tp6",
+    "order": 1739420070283,
+    "createdAt": "2025-02-13T03:03:42.000Z",
+    "publishDate": "2025-02-13T04:14:30.283Z",
+    "title": "美国已有约75000名联邦员工接受“买断计划”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 11:03:42",
+    "uuid": "4fe93394-98da-4795-932a-ca3be8ab3f8c"
   },
   {
     "newsArray": [
@@ -437,6 +562,24 @@
     "up": false,
     "date": "2025-02-13 10:15:44",
     "uuid": "61c40b1b-c811-4fb4-8f18-b9cbf9d9d6be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "固态电池概念股逆势上涨，瑞泰新材涨停，领湃科技涨超10%，德尔股份等跟涨。现代汽车计划2025年展示全固态电动汽车电池试点生产线，未来十年投入超90亿美元研发电动汽车电池技术 ...",
+    "id": "8gw1BRt8J2t",
+    "order": 1739419292918,
+    "createdAt": "2025-02-13T02:13:05.000Z",
+    "publishDate": "2025-02-13T04:01:32.918Z",
+    "title": "固态电池概念逆势拉升 瑞泰新材20CM涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 10:13:05",
+    "uuid": "fe470d61-6190-4849-ae5e-c5c9cf2e97cb"
   },
   {
     "newsArray": [
