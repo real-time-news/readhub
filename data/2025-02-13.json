@@ -1,6 +1,131 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国泰君安认为DeepSeek-R1开源降低了企业本地部署大模型的成本，符合国内企业IT开支习惯和数据敏感行业安全隐私要求，看好本地国产推理算力和新型基础软件的发展。",
+    "id": "8gvsRk7qYwL",
+    "order": 1739407958810,
+    "createdAt": "2025-02-13T00:52:39.000Z",
+    "publishDate": "2025-02-13T00:52:38.810Z",
+    "title": "国泰君安：重视企业本地部署大模型的投资机会",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 08:52:39",
+    "uuid": "bcd872ed-f4ea-43dd-bf77-09c96c71edcf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中信建投认为，人形机器人作为AI端侧需求空间最大、变化最快的应用，其在To B工业场景到To C通用场景的拓展路径逐步清晰 ...",
+    "id": "8gvu9YhlYof",
+    "order": 1739407944590,
+    "createdAt": "2025-02-13T00:52:25.000Z",
+    "publishDate": "2025-02-13T00:52:24.590Z",
+    "title": "中信建投：看好人形机器人产业链0-1投资机遇",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 08:52:25",
+    "uuid": "3b537d1b-abe7-45ca-a242-02b7c3f00055"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌于2月12日推出了一系列针对儿童和青少年的数字产品，旨在保护他们免受不良内容影响，并帮助家长管理孩子的线上体验 ...",
+    "id": "8gvrVuE99Gl",
+    "order": 1739407782978,
+    "createdAt": "2025-02-13T00:49:43.000Z",
+    "publishDate": "2025-02-13T00:49:42.978Z",
+    "title": "谷歌引入机器学习模型，加强验证机制防止青少年“谎报”年龄",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 08:49:43",
+    "uuid": "a72ad9d0-cdbf-4a6d-9591-f54faabd0116"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "索尼State of Play发布会上，《双人成行》工作室发布了新合作游戏《双影奇境》的故事宣传片 ...",
+    "id": "8guc74UTw3i",
+    "order": 1739407589042,
+    "createdAt": "2025-02-13T00:46:30.000Z",
+    "publishDate": "2025-02-13T00:46:29.042Z",
+    "title": "《双人成行》新作《双影奇境》全新预告发布：3月6日开售 登陆PC、PS5、Xbox",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 08:46:30",
+    "uuid": "e18e3e22-05d3-456f-bbf9-7c117e2dcfe6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2025年2月11日，欧盟委员会对原产中国的生物柴油作出反倾销终裁，决定征收10.0%至35.6%的反倾销税。",
+    "id": "8gvwAvA5DVE",
+    "order": 1739407757726,
+    "createdAt": "2025-02-13T00:43:35.000Z",
+    "publishDate": "2025-02-13T00:49:17.726Z",
+    "title": "欧盟对华生物柴油作出反倾销终裁，征收10.0%~35.6%的反倾销税",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 08:43:35",
+    "uuid": "84575800-68b4-40f4-b135-aa99243e5d57"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日经225指数和韩国KOSPI指数分别开盘上涨0.6%和0.4%。",
+    "id": "8gvu1hgdwR1",
+    "order": 1739407944862,
+    "createdAt": "2025-02-13T00:13:46.000Z",
+    "publishDate": "2025-02-13T00:52:24.862Z",
+    "title": "日经225指数开盘涨0.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 08:13:46",
+    "uuid": "009176c1-8523-4531-8d59-71549bd4cc92"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "科学网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "瑞典林雪平大学研究人员开发出一种环保的钙钛矿太阳能电池回收方法，主要使用水作为溶剂，避免了有害溶剂的使用。该方法能实现电池所有部件的回收再利用，且回收后的电池效率与新电池相当。",
+    "id": "8gvrCdxA9qD",
+    "order": 1739407407637,
+    "createdAt": "2025-02-13T00:03:04.000Z",
+    "publishDate": "2025-02-13T00:43:27.637Z",
+    "title": "新法高效回收钙钛矿太阳能电池",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 08:03:04",
+    "uuid": "e55d32f4-2d1c-4caf-9151-2a8e0ab23788"
+  },
+  {
+    "newsArray": [
       { "siteName": "Odaily" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -32,6 +157,24 @@
     "up": false,
     "date": "2025-02-13 07:53:03",
     "uuid": "3c3ba9ed-b32a-416f-9d83-13b9674b67f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "截至2月12日，超过100家公司在港交所排队上市，今年新递表或更新招股书的公司近40家，远超去年同期 ...",
+    "id": "8gvp5CMl0Zq",
+    "order": 1739407724707,
+    "createdAt": "2025-02-12T23:52:45.000Z",
+    "publishDate": "2025-02-13T00:48:44.707Z",
+    "title": "“磁吸力”持续增强，港股新股市场热度升温",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 07:52:45",
+    "uuid": "25f7da91-d962-43a5-8421-d2ca21c711f4"
   },
   {
     "newsArray": [
@@ -84,6 +227,25 @@
     "up": false,
     "date": "2025-02-13 07:37:48",
     "uuid": "b2743e7c-be5e-46cd-bbf1-b5e585e07a27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2024年楼市回暖，市场对2025年楼市充满期待。春节后，市场进入“小阳春”阶段，但受访者认为市场持续回稳需政策支持 ...",
+    "id": "8guPtZaowPS",
+    "order": 1739407408541,
+    "createdAt": "2025-02-12T23:37:26.000Z",
+    "publishDate": "2025-02-13T00:43:28.541Z",
+    "title": "节后市场迅速回温 楼市小阳春可期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 07:37:26",
+    "uuid": "6e5b4b61-23c7-4212-8469-ebfdc41dfffe"
   },
   {
     "newsArray": [
@@ -203,6 +365,25 @@
     "up": false,
     "date": "2025-02-13 07:25:05",
     "uuid": "7428c5ae-a31f-415c-9358-0b8cde410f26"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "截至2025年1月底，浙江省电源总装机容量达到1.52亿千瓦，其中新能源装机容量占39.4%，风电光伏发电装机合计5596万千瓦，超过煤电成为浙江第一大电源。",
+    "id": "8gvdbeF51Pi",
+    "order": 1739407407373,
+    "createdAt": "2025-02-12T23:12:00.000Z",
+    "publishDate": "2025-02-13T00:43:27.373Z",
+    "title": "浙江：风光发电装机首超煤电成第一大电源",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-13 07:12:00",
+    "uuid": "7f8e45f6-c173-4747-b8b9-8808875e2898"
   },
   {
     "newsArray": [
