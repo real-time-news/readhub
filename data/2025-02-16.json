@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "特朗普媒体科技集团2024年亏损4.009亿美元，年收入下降12%至360万美元。",
+    "id": "8h0rLAlfeXz",
+    "order": 1739666223739,
+    "createdAt": "2025-02-16T00:37:04.000Z",
+    "publishDate": "2025-02-16T00:37:03.739Z",
+    "title": "特朗普社交媒体平台母公司称2024年亏损超4亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-16 08:37:04",
+    "uuid": "26aa6632-6e8a-415c-8940-16ac5304076c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "亚马逊计划对其人工智能助手Alexa进行重大升级，原定于2月26日展示，但因技术挑战推迟至3月31日或更晚 ...",
+    "id": "8h0rI3VOSmB",
+    "order": 1739665920556,
+    "createdAt": "2025-02-16T00:32:00.000Z",
+    "publishDate": "2025-02-16T00:32:00.556Z",
+    "title": "亚马逊Alexa升级版因AI回答不准确推迟发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-16 08:32:00",
+    "uuid": "830695b6-92fd-4e44-a961-d81aa686b31a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国国家航空航天局（NASA）喷气推进实验室近地天体研究中心（CNEOS）表示，小行星“2024 YR4”在2032年撞击地球的概率为2%，其直径估计在40米至90米之间。",
+    "id": "8h0sjONJA8D",
+    "order": 1739664695140,
+    "createdAt": "2025-02-16T00:11:36.000Z",
+    "publishDate": "2025-02-16T00:11:35.140Z",
+    "title": "美航天局：一颗小行星有2%的概率在2032年撞击地球",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-16 08:11:36",
+    "uuid": "5911e89c-67fc-4475-8cdf-6a991f1c7203"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "界面" }
