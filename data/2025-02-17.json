@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌高管在全体员工会议上宣布将逐步淘汰多元化计划，并更新包含“DEI（多样性、公平、包容）内容”的培训计划 ...",
+    "id": "8h2burStQ3W",
+    "order": 1739764957785,
+    "createdAt": "2025-02-17T04:02:38.000Z",
+    "publishDate": "2025-02-17T04:02:37.785Z",
+    "title": "谷歌将放弃多元化计划，称不再禁止 AI 武器化“对社会有好处”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-17 12:02:38",
+    "uuid": "255801cb-b1a4-4aa3-9bd2-f2bbf42e0392"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "DoNews" },
       { "siteName": "ITBear科技资讯" }
@@ -679,6 +696,31 @@
     "up": false,
     "date": "2025-02-17 08:22:06",
     "uuid": "7a0ff29a-788a-40a2-a636-25ae09972900"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "站长之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "微软发布了OmniParser V2.0，这是一个视觉Agent解析框架，能将DeepSeek-R1、GPT-4o等模型转化为AI Agent ...",
+    "id": "8h2VdBZMoNq",
+    "order": 1739764555144,
+    "createdAt": "2025-02-17T00:21:31.000Z",
+    "publishDate": "2025-02-17T03:55:55.144Z",
+    "title": "微软OmniParser最新版本可将DeepSeek等模型变成 AI Agent",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-17 08:21:31",
+    "uuid": "1ff5ce3d-88f8-4579-ad28-991267cd9628"
   },
   {
     "newsArray": [
