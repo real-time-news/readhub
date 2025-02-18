@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "法国AI初创企业Mistral AI推出了首个专业区域语言模型Saba，该模型在中东与南亚数据集上训练，参数规模为32B，支持本地单GPU系统部署 ...",
+    "id": "8h4Ha7pUsVN",
+    "order": 1739848451343,
+    "createdAt": "2025-02-18T03:14:11.000Z",
+    "publishDate": "2025-02-18T03:14:11.343Z",
+    "title": "Mistral 推出其首个专业区域语言模型 Saba ：专精阿拉伯语和印度起源语言",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 11:14:11",
+    "uuid": "04a079a5-60ba-42f7-921d-06e6df9e7257"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "杭州讯飞新零售有限公司成立，法定代表人徐荣盛，注册资本10万元，业务涵盖电子产品、办公设备销售及人工智能硬件销售等，由科大讯飞旗下公司全资持股。",
+    "id": "8h4Oiii818A",
+    "order": 1739848273915,
+    "createdAt": "2025-02-18T03:11:14.000Z",
+    "publishDate": "2025-02-18T03:11:13.915Z",
+    "title": "科大讯飞在杭州成立新零售公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 11:11:14",
+    "uuid": "f5f35a34-97d5-46ca-af75-e7ecd241a7b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "腾讯广告市场副总经理及腾讯智慧零售市场副总裁常越（Eric）离职，市场部将拆分并融入其他部门。这一调整反映了腾讯对市场职能的重新定位，市场部门的地位和影响力可能降低 ...",
+    "id": "8h4KRnmjV10",
+    "order": 1739848167385,
+    "createdAt": "2025-02-18T03:03:00.000Z",
+    "publishDate": "2025-02-18T03:09:27.385Z",
+    "title": "腾讯广告市场部大调整",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 11:03:00",
+    "uuid": "fcc694a3-748c-498a-a833-7741a85a404a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "OpenAI CEO山姆·奥尔特曼询问公众，下一个开源项目应选择开发小型GPU模型还是适合手机运行的最佳模型。",
+    "id": "8h4Ny53INQp",
+    "order": 1739848176220,
+    "createdAt": "2025-02-18T02:55:21.000Z",
+    "publishDate": "2025-02-18T03:09:36.220Z",
+    "title": "OpenAI谋划开源项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 10:55:21",
+    "uuid": "c9aa136b-351e-4d3c-b75a-b678677c9333"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美国食品和药物管理局（FDA）负责审查Neuralink的约20名员工被解雇，这可能影响FDA处理包括Neuralink在内的医疗设备申请的能力 ...",
+    "id": "8h4DJVj1KBr",
+    "order": 1739848227349,
+    "createdAt": "2025-02-18T02:52:20.000Z",
+    "publishDate": "2025-02-18T03:10:27.349Z",
+    "title": "消息称马斯克裁减了审查Neuralink试验的FDA雇员",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 10:52:20",
+    "uuid": "c2093fc2-17ac-4dba-958f-64065987c68b"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "证券时报网" },
       { "siteName": "华尔街见闻" }
@@ -56,6 +144,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "AMZ123" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "马斯克宣布其公司开发的人工智能大模型 Grok 3 将于 18 日中午 12 点发布，自称是「地球上最聪明的人工智能」 ...",
+    "id": "8h3JXBN7cFD",
+    "order": 1739848251407,
+    "createdAt": "2025-02-18T02:34:31.000Z",
+    "publishDate": "2025-02-18T03:10:51.407Z",
+    "title": "马斯克旗下Grok3大模型即将发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 10:34:31",
+    "uuid": "1e2a2316-26d5-4e33-b1f8-251190323977"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "IT 之家" },
       { "siteName": "界面" }
@@ -91,6 +196,58 @@
   },
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "国家发展改革委表示，我国将修订市场准入负面清单，破除市场准入障碍，支持民营企业参与“两重两新”项目，以促进民营经济发展。",
+    "id": "8h4LgAFzxVH",
+    "order": 1739848262271,
+    "createdAt": "2025-02-18T02:22:28.000Z",
+    "publishDate": "2025-02-18T03:11:02.271Z",
+    "title": "国家发展改革委：支持民营企业积极参与“两重两新”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 10:22:28",
+    "uuid": "18019b70-b608-4e7f-bd9f-544f47785683"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "TCL 电子发布盈喜后股价上涨 5.93%，报 6.97 港元，成交额 7715.41 万港元 ...",
+    "id": "8h4HcNdE2Pq",
+    "order": 1739848548267,
+    "createdAt": "2025-02-18T02:22:03.000Z",
+    "publishDate": "2025-02-18T03:15:48.267Z",
+    "title": "TCL电子盈喜后涨近6% 预计去年经调整净利同比增长62%至112%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 10:22:03",
+    "uuid": "382c7a7f-6ad9-47d1-95f2-756652ecf3fe"
+  },
+  {
+    "newsArray": [
       { "siteName": "Odaily" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -105,6 +262,47 @@
     "up": false,
     "date": "2025-02-18 10:18:59",
     "uuid": "2dec0e88-6bb7-4ebb-b539-937b6db9390f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "环球影业发布了克里斯托弗·诺兰执导的史诗电影《奥德赛》首张剧照，该片改编自古希腊史诗，将于2026年7月17日上映 ...",
+    "id": "8h4IIo5yQKV",
+    "order": 1739848558550,
+    "createdAt": "2025-02-18T02:17:22.000Z",
+    "publishDate": "2025-02-18T03:15:58.550Z",
+    "title": "诺兰执导史诗级电影《奥德赛》剧照发布 2026年7月17日上映",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 10:17:22",
+    "uuid": "e9d36fec-a079-4158-bad0-8d6b2ed21b00"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "创业邦" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "昆仑万维发布了中国首个AI短剧创作视频生成模型SkyReels-V1和基于视频基座模型的表情动作可控算法SkyReels-A1，均为开源项目。",
+    "id": "8h4L7zERaI4",
+    "order": 1739848662314,
+    "createdAt": "2025-02-18T02:15:27.000Z",
+    "publishDate": "2025-02-18T03:17:42.314Z",
+    "title": "昆仑万维开源中国首个面向AI短剧创作的视频生成模型SkyReels-V1",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 10:15:27",
+    "uuid": "ad8c1097-46d7-40ef-80c8-9b59fd27fb64"
   },
   {
     "newsArray": [
