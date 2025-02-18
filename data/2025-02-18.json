@@ -1,6 +1,166 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "加拿大多伦多皮尔逊国际机场发生飞机坠毁事件，目前伤亡情况不明。",
+    "id": "8h3vOscKN6r",
+    "order": 1739841193116,
+    "createdAt": "2025-02-18T01:13:14.000Z",
+    "publishDate": "2025-02-18T01:13:13.116Z",
+    "title": "加拿大多伦多机场发生飞机坠毁事件 伤亡暂不明",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 09:13:14",
+    "uuid": "f435ecf3-9e26-46fc-b2ac-8c07d5faa3af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "民生证券副总裁胡又文认为，DeepSeek开源模型将加速AI应用发展，提升算力需求，推动AI普及和创新。",
+    "id": "8h48HbuZCKv",
+    "order": 1739840698166,
+    "createdAt": "2025-02-18T01:04:58.000Z",
+    "publishDate": "2025-02-18T01:04:58.166Z",
+    "title": "民生证券胡又文：中国的算力需求会孕育自己的“英伟达”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 09:04:58",
+    "uuid": "936f66ff-75cb-4344-b857-a7ca30c9e66c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "华泰证券研报指出，2024年造船行业景气度达到周期高点，集装箱船新接订单受红海改道影响大幅增长，油轮、集装箱紧随其后 ...",
+    "id": "8h4DIRlGm66",
+    "order": 1739840693260,
+    "createdAt": "2025-02-18T01:04:54.000Z",
+    "publishDate": "2025-02-18T01:04:53.260Z",
+    "title": "华泰证券：船舶行业2024年量价齐升 2025年聚焦利润和油运复苏",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 09:04:54",
+    "uuid": "04b7550d-d6c9-4ad2-bfe8-d7b75faf2a60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "阶跃星辰与吉利汽车集团宣布开源两款多模态大模型，包括全球参数量最大的视频生成模型阶跃Step-Video-T2V和首款产品级开源语音交互大模型阶跃Step-Audio ...",
+    "id": "8h4EhcKe9vu",
+    "order": 1739841121064,
+    "createdAt": "2025-02-18T01:03:57.000Z",
+    "publishDate": "2025-02-18T01:12:01.064Z",
+    "title": "阶跃星辰与吉利宣布联合开源两款多模态大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 09:03:57",
+    "uuid": "eda755d2-b585-4792-b9e3-f093d1be5dd1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中信建投研报认为，随着DeepSeek开源AI大模型的部署，将增加对算力基础设施的需求，推动IDC行业进入新周期 ...",
+    "id": "8h4BuR1G5ym",
+    "order": 1739840619409,
+    "createdAt": "2025-02-18T01:03:39.000Z",
+    "publishDate": "2025-02-18T01:03:39.409Z",
+    "title": "中信建投：IDC行业拐点将至，有望进入新周期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 09:03:39",
+    "uuid": "f963c30b-77be-4fe6-a041-a945ffbe604c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "科技媒体smartprix在GSMA IMEI数据库中发现了谷歌Pixel 10系列手机的踪迹，包括Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL和Pixel 10 Pro Fold等型号，表明谷歌正在为这些新手机进行监管审批 ...",
+    "id": "8h48yAWZZkQ",
+    "order": 1739840591849,
+    "createdAt": "2025-02-18T01:03:13.000Z",
+    "publishDate": "2025-02-18T01:03:11.849Z",
+    "title": "Pixel 10 系列手机型号确认：谷歌旗舰新征程，台积电代工芯片 + 联发科 5G 基带",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 09:03:13",
+    "uuid": "1efa9d45-7bea-420b-b129-8f2968308ed9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中信证券研报认为，在流动性和通胀背景下，金属牛市尚未结束，预计2025年金属板块股价将创新高 ...",
+    "id": "8h4EhZRorzF",
+    "order": 1739839723620,
+    "createdAt": "2025-02-18T00:42:19.000Z",
+    "publishDate": "2025-02-18T00:48:43.620Z",
+    "title": "中信证券：继续看多金属板块配置价值 重点推荐铜、铝、稀土等",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 08:42:19",
+    "uuid": "7491a48f-e06e-4d6d-b422-3e7bd01a7e0e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国科学家在高温超导领域取得重大突破，发现镍基材料成为第三类在常压下实现超导的材料体系，为高温超导机理研究提供新突破口。该成果已发表在《自然》杂志上。",
+    "id": "8h3ozRgfs3g",
+    "order": 1739840813828,
+    "createdAt": "2025-02-18T00:32:38.000Z",
+    "publishDate": "2025-02-18T01:06:53.828Z",
+    "title": "中国于高温超导领域再取得新突破，使镍基材料成为第三类在常压下实现超导的材料体系",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 08:32:38",
+    "uuid": "3fbe8966-3db5-4aff-afc9-be32959a54d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "中证网" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "全球经济形势复杂多变下，黄金作为避险资产地位凸显，价格持续走强。2024年多家黄金矿产A股上市公司业绩预告显示，经营情况明显好转，归母净利润大幅增长。",
+    "id": "8h490g2U44c",
+    "order": 1739839736975,
+    "createdAt": "2025-02-18T00:22:18.000Z",
+    "publishDate": "2025-02-18T00:48:56.975Z",
+    "title": "黄金价格持续走强，上市企业业绩飘红",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 08:22:18",
+    "uuid": "7ae5f356-b78e-470b-b8df-09573d500696"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -174,6 +334,25 @@
     "up": false,
     "date": "2025-02-18 05:21:47",
     "uuid": "6a2cd3f7-c4dc-43a2-8537-32d37b7eaee9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国政府官员透露，波音公司“空军一号”项目可能因供应链问题和要求变化推迟至2029年或更晚。由于制造商破产，波音在获取零部件上遇到困难 ...",
+    "id": "8h3qSH8NML4",
+    "order": 1739839077467,
+    "createdAt": "2025-02-17T19:11:42.000Z",
+    "publishDate": "2025-02-18T00:37:57.467Z",
+    "title": "美国新版“空军一号”再度延期交付",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 03:11:42",
+    "uuid": "09b538ce-275a-4258-bce3-c3ff7b209eee"
   },
   {
     "newsArray": [
