@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "自DeepSeek发布R1模型以来，恒生科技指数上涨约20%，摩根士丹利（大摩）对中国BAT三巨头的看法有所更新 ...",
+    "id": "8h4eOofi6aS",
+    "order": 1739861192658,
+    "createdAt": "2025-02-18T06:46:33.000Z",
+    "publishDate": "2025-02-18T06:46:32.658Z",
+    "title": "大摩看BAT：“超配”腾讯，“看好”阿里云，“担忧”百度搜索",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 14:46:33",
+    "uuid": "e1ed24c8-42ad-45d2-803f-5f75e6900172"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "OPPO法务部发布声明，指出有厂商仿冒OPPO商标生产山寨手机，侵犯知识产权。OPPO已通过法律手段打击侵权行为，成功获得赔偿并清除恶意攀附商标的品牌 ...",
+    "id": "8h4cQ9ZdDjo",
+    "order": 1739861182600,
+    "createdAt": "2025-02-18T06:46:23.000Z",
+    "publishDate": "2025-02-18T06:46:22.600Z",
+    "title": "OPPO对山寨侵权行为重拳出击 清除UPPO等恶意攀附商标",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 14:46:23",
+    "uuid": "e6fa042c-13a5-497e-b91b-8ed05ad66f21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechSir" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软公司宣布GitHub Copilot AI助手扩展至Xcode，提供聊天视图、斜杠命令、参考上下文、多实例管理和历史记录管理等功能，旨在提高开发者编码效率。",
+    "id": "8h4NxaCPZre",
+    "order": 1739860898885,
+    "createdAt": "2025-02-18T06:41:39.000Z",
+    "publishDate": "2025-02-18T06:41:38.885Z",
+    "title": "AI 开发利器：Xcode 版 GitHub Copilot 公开预览，智能编码、触手可及",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 14:41:39",
+    "uuid": "ffdb6cd3-74fd-49f5-a9df-e0577138a9e8"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "界面" },
