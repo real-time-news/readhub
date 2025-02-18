@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星芯片部门负责人访问英伟达总部，展示改进后的1b DRAM芯片样品，用于高带宽内存（HBM）。此前，三星因良品率和过热问题计划跳过1b DRAM，但在英伟达的要求下重新调整计划 ...",
+    "id": "8h47ZPf1rI3",
+    "order": 1739868940172,
+    "createdAt": "2025-02-18T08:55:42.000Z",
+    "publishDate": "2025-02-18T08:55:40.172Z",
+    "title": "消息称三星芯片部门负责人携 1b DRAM 样品访问英伟达，全力争取 HBM3E 订单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 16:55:42",
+    "uuid": "db6c2d1b-b031-4081-9f88-f72e02686b9f"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "钛媒体" },
@@ -33,6 +50,24 @@
     "up": false,
     "date": "2025-02-18 16:47:06",
     "uuid": "8c539112-c7e8-49b1-aef7-44f74acb652a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "近日，腾讯元宝接入的Deepseek R1在回答中植入广告，引发网友质疑。腾讯张军回应称，已让技术部门调查，原因是AI回答参考了“58到家 家政保洁保姆月嫂搬家”公众号内容，可能因联网搜索导致。",
+    "id": "8h4krAW5dvP",
+    "order": 1739868658700,
+    "createdAt": "2025-02-18T08:43:50.000Z",
+    "publishDate": "2025-02-18T08:50:58.700Z",
+    "title": "腾讯张军否认AI搜索植入广告：已经在查，会尽快优化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-18 16:43:50",
+    "uuid": "c74687ed-cf1f-42ac-9d1c-24581f397eb3"
   },
   {
     "newsArray": [
