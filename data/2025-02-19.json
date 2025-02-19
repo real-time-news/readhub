@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "Opera Developer利用Ollama框架，现已支持DeepSeek R1系列模型部署，这意味着用户可以在本地运行该模型。",
+    "id": "8h6ntprZLTi",
+    "order": 1739973096420,
+    "createdAt": "2025-02-19T13:51:36.000Z",
+    "publishDate": "2025-02-19T13:51:36.420Z",
+    "title": "昆仑万维旗下Opera接入DeepSeek R1模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-19 21:51:36",
+    "uuid": "a2dc4463-d9c4-40c4-a7ba-8bafd025ee8f"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "手机中国" },
       { "siteName": "IT 之家" }
