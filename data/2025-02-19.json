@@ -1,6 +1,122 @@
 [
   {
     "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI发布了SWE-Lancer基准测试，用于评估模型在真实世界自由软件工程工作的性能 ...",
+    "id": "8h4oUeuHZUC",
+    "order": 1739948773576,
+    "createdAt": "2025-02-19T07:06:14.000Z",
+    "publishDate": "2025-02-19T07:06:13.576Z",
+    "title": "OpenAI推出SWE-Lancer基准测试",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-19 15:06:14",
+    "uuid": "9adde13d-53c5-4055-88d8-9d5776dda420"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "北证50指数午后涨幅扩大至4%。",
+    "id": "8h6I9fds7V0",
+    "order": 1739948690457,
+    "createdAt": "2025-02-19T07:04:51.000Z",
+    "publishDate": "2025-02-19T07:04:50.457Z",
+    "title": "北证50指数涨幅扩大至4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-19 15:04:51",
+    "uuid": "3ec3ab30-94ab-49fb-8b5c-fc6bd4152d58"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "联商网" }
+    ],
+    "summary": "雅诗兰黛集团旗下品牌The Ordinary正式进入中国市场，已在丝芙兰亮相，并计划7月扩展至天猫和抖音。品牌针对中国市场推出符合监管要求的产品，如重新配方的果酸爽肤水 ...",
+    "id": "8h4tGj2AjoX",
+    "order": 1739948664436,
+    "createdAt": "2025-02-19T07:04:25.000Z",
+    "publishDate": "2025-02-19T07:04:24.436Z",
+    "title": "雅诗兰黛集团旗下The Ordinary正式进军中国市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-19 15:04:25",
+    "uuid": "544a6a62-ade6-4751-a2bd-5065959bc87a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "丰巢与菜鸟达成深度合作，共同完善末端智慧物流服务体验。用户可通过菜鸟裹裹等多平台入口使用丰巢24小时寄件服务 ...",
+    "id": "8h4u8d9Z0Vb",
+    "order": 1739948554077,
+    "createdAt": "2025-02-19T07:02:35.000Z",
+    "publishDate": "2025-02-19T07:02:34.077Z",
+    "title": "丰巢与菜鸟达成深度合作 菜鸟寄件可选“到柜寄”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-19 15:02:35",
+    "uuid": "485d8fa5-bf6b-4070-84fd-c9deeea7183e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "SK海力士已研发出首款自研CXL控制器，支持CXL 3.0/3.1标准，由台积电制造。公司还推进2.5D和FOWLP技术，并计划商业化相关芯片技术 ...",
+    "id": "8h6J2aDaCNn",
+    "order": 1739948507433,
+    "createdAt": "2025-02-19T07:01:48.000Z",
+    "publishDate": "2025-02-19T07:01:47.433Z",
+    "title": "SK海力士推出首款自研CXL控制器：台积电负责制造",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-19 15:01:48",
+    "uuid": "22c10798-2356-410c-be3b-8981c4c3333a"
+  },
+  {
+    "newsArray": [{ "siteName": "36Kr" }, { "siteName": "钛媒体" }],
+    "summary": "韩国产业通商资源部数据显示，今年1月韩国汽车出口额同比减少19.6%，为49.9亿美元 ...",
+    "id": "8h6KnYFkFZh",
+    "order": 1739948599907,
+    "createdAt": "2025-02-19T07:01:36.000Z",
+    "publishDate": "2025-02-19T07:03:19.907Z",
+    "title": "韩国1月汽车出口额同比减近两成至49.9亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-19 15:01:36",
+    "uuid": "806eda29-85f1-433d-b9ad-09e3ba9371b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "Omdia预测，2023年电信IT软件中AI的价值为18亿美元，预计到2024年底将增至23亿美元 ...",
+    "id": "8h6JJweCDjU",
+    "order": 1739948462958,
+    "createdAt": "2025-02-19T06:55:09.000Z",
+    "publishDate": "2025-02-19T07:01:02.958Z",
+    "title": "Omdia：2029年电信IT人工智能软件市场达50亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-19 14:55:09",
+    "uuid": "cfa77f6e-22f6-4b7a-8a10-e1415261f9e2"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
