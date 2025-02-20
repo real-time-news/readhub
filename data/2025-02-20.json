@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软身份与网络访问项目管理部门副总裁Alex Simons澄清，原计划于2025年2月实施的微软账户自动保持登录状态的策略不会调整，相关支持文档已被删除 ...",
+    "id": "8h7jDP77z6j",
+    "order": 1740022271435,
+    "createdAt": "2025-02-20T03:31:12.000Z",
+    "publishDate": "2025-02-20T03:31:11.435Z",
+    "title": "微软撤回争议通知，澄清不会启用保持微软账户登录状态策略",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 11:31:12",
+    "uuid": "c6eca4a7-27c3-4b81-89ab-e68adfb2f4db"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2025年1月，上海港集装箱吞吐量达到500万标箱以上，创单月历史新高，其中洋山港贡献超过一半。洋山海关辖区注册企业超过8000家，较去年全年增加1000多家。",
+    "id": "8h7jL74n2T9",
+    "order": 1740021918803,
+    "createdAt": "2025-02-20T03:25:18.000Z",
+    "publishDate": "2025-02-20T03:25:18.803Z",
+    "title": "上海港1月集装箱吞吐量突破500万标箱，创单月吞吐量历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 11:25:18",
+    "uuid": "c95d9891-a8c6-46d7-bbd5-19955cf35b93"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "医谷网" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "华东医药全资子公司中美华东申报的创新产品三类医疗器械经皮肾小球滤过率测量设备获得上市批准，该设备与Lumitrace®注射液共同组成的MediBeacon®Transdermal GFR System（TGFR）是全球首个获批用于肾功能正常或受损患者肾功能评估的床旁产品 ...",
+    "id": "8h6WtH9NzD0",
+    "order": 1740021711935,
+    "createdAt": "2025-02-20T03:21:52.000Z",
+    "publishDate": "2025-02-20T03:21:51.935Z",
+    "title": "华东医药经皮肾小球滤过率测量设备获批，有望提供GFR监测新方法",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 11:21:52",
+    "uuid": "f2c3f669-5c5c-436d-b315-ec1580e8ae6b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "鸟哥笔记" },
       { "siteName": "36Kr" }
@@ -88,6 +139,26 @@
     "up": false,
     "date": "2025-02-20 11:03:16",
     "uuid": "b75a1528-49d1-443c-a432-aefdd170041c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财经网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "2023年底，DeepSeek创始人梁文峰询问硅基流动CEO袁进辉是否在SiliconCloud上部署DeepSeek V3，袁进辉因成本高昂（每月五、六百万元英伟达GPU芯片费用）而放弃 ...",
+    "id": "8h7eJXcuh5h",
+    "order": 1740021683609,
+    "createdAt": "2025-02-20T03:02:43.000Z",
+    "publishDate": "2025-02-20T03:21:23.609Z",
+    "title": "硅基流动袁进辉否认曾拒绝梁文峰入股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 11:02:43",
+    "uuid": "6153537b-8504-4666-90db-c6a186199aa8"
   },
   {
     "newsArray": [
@@ -455,6 +526,23 @@
     "up": false,
     "date": "2025-02-20 09:34:32",
     "uuid": "af7196d6-04ab-42b8-b9ef-fd330693efdb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "伯克希尔哈撒韦公司出售了价值1.161亿美元的Davita股票，发布时间为2025年2月20日。",
+    "id": "8h7ZynTgcF6",
+    "order": 1740021942615,
+    "createdAt": "2025-02-20T01:06:06.000Z",
+    "publishDate": "2025-02-20T03:25:42.615Z",
+    "title": "伯克希尔哈撒韦公司出售价值1.161亿美元的Davita股票",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 09:06:06",
+    "uuid": "221d603c-8739-4f77-9ee7-d1997f8e0d5f"
   },
   {
     "newsArray": [
