@@ -1,6 +1,163 @@
 [
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "谷歌开发了名为“联合科学家”的AI实验室助手，旨在加速生物医学研究，帮助科学家发现知识鸿沟并提出新想法。谷歌希望AI技术能赋予研究人员超能力 ...",
+    "id": "8h7WLejGYYB",
+    "order": 1740012557805,
+    "createdAt": "2025-02-20T00:49:18.000Z",
+    "publishDate": "2025-02-20T00:49:17.805Z",
+    "title": "谷歌开发出AI实验室助手 要赋予科学家“超能力”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 08:49:18",
+    "uuid": "41a10bd9-7e2c-4c63-937b-2df0b4c3f9e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中信证券研报指出，《铜产业高质量发展实施方案（2025-2027年）》的发布将推动国内铜冶炼产能优化和结构调整，促进长期TC回升和冶炼企业盈利修复 ...",
+    "id": "8h7XLjTo17G",
+    "order": 1740012126432,
+    "createdAt": "2025-02-20T00:42:07.000Z",
+    "publishDate": "2025-02-20T00:42:06.432Z",
+    "title": "中信证券：高质量发展方案公布，铜产业链优化值得期待",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 08:42:07",
+    "uuid": "268dacbc-154b-4f34-a659-f5283c75dc68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "苹果官网宣布，在发布iPhone 16e后，已停售iPhone 14/14 Plus和iPhone SE，所有在售机型均改为全面屏设计 ...",
+    "id": "8h71hMcHST1",
+    "order": 1740012118767,
+    "createdAt": "2025-02-20T00:41:58.000Z",
+    "publishDate": "2025-02-20T00:41:58.767Z",
+    "title": "苹果iPhone全面放弃实体Home键",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 08:41:58",
+    "uuid": "ebe52b6f-eedb-453a-94a6-bbc3fabea491"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "埃克森美孚计划与智利官员会面探讨锂投资机会，斯伦贝谢已与智利矿业官员会晤。埃克森美孚表示，公司在全球范围内评估能源领域机会。",
+    "id": "8h7Soec57lk",
+    "order": 1740011674949,
+    "createdAt": "2025-02-20T00:34:35.000Z",
+    "publishDate": "2025-02-20T00:34:34.949Z",
+    "title": "埃克森美孚与斯伦贝谢或有意投资智利锂项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 08:34:35",
+    "uuid": "77acc315-ed4d-41f8-a768-f97ce13b5dde"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "海通证券研报指出，人工智能技术的发展为教育和人力资源服务行业带来变革，通过个性化教学、智能答疑等应用提升服务质量和效率 ...",
+    "id": "8h7WUXxhxbA",
+    "order": 1740011667167,
+    "createdAt": "2025-02-20T00:34:27.000Z",
+    "publishDate": "2025-02-20T00:34:27.167Z",
+    "title": "海通证券：AI投资新机遇 关注教育与人力资源服务行业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 08:34:27",
+    "uuid": "da82ddd4-c1df-44ff-b1f4-ca81cbcc7812"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "日本汽车股表现不佳，本田汽车下跌超过3%，日野汽车下跌近3%。",
+    "id": "8h5rZWnaxjh",
+    "order": 1740011662095,
+    "createdAt": "2025-02-20T00:34:23.000Z",
+    "publishDate": "2025-02-20T00:34:22.095Z",
+    "title": "日本汽车股走弱，本田汽车跌超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 08:34:23",
+    "uuid": "7bedaf8b-185b-4707-9c2a-b6e4525a9379"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "苹果正式发布了新款手机iPhone16e，并确认了其内存配置 ... IPhone16e搭载了8GB的运行内存，这一配置与市场预期相符，也满足了Apple Intelligence功能的最低要求 ...",
+    "id": "8h7RNeYHIqZ",
+    "order": 1740011585871,
+    "createdAt": "2025-02-20T00:33:06.000Z",
+    "publishDate": "2025-02-20T00:33:05.871Z",
+    "title": "iPhone 16e配备8GB内存 苹果智能四月将增加中文支持",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 08:33:06",
+    "uuid": "acb8fa5a-6b15-4c38-8cb3-470121e8a301"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "华泰证券研报指出，Grok-3训练集群算力达到20万卡级别，预训练能力在算力提升下有所突破 ...",
+    "id": "8h7WNnqqxgi",
+    "order": 1740010394037,
+    "createdAt": "2025-02-20T00:13:15.000Z",
+    "publishDate": "2025-02-20T00:13:14.037Z",
+    "title": "华泰证券：持续看好全球头部大模型预训练算力需求",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 08:13:15",
+    "uuid": "65d3c7a9-0f8a-4acb-bb10-0c88552eec4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "国泰君安研究认为，xAI发布的Grok3及其SuperGrok订阅服务标志着AI与社交平台融合的新阶段 ...",
+    "id": "8h7VCKAbeZB",
+    "order": 1740009869868,
+    "createdAt": "2025-02-20T00:04:29.000Z",
+    "publishDate": "2025-02-20T00:04:29.868Z",
+    "title": "国泰君安：Grok3发布 算力及平台型应用迎来催化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-20 08:04:29",
+    "uuid": "db411ae7-ca66-400e-87c2-ef407e25d758"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
