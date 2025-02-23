@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "乘联会秘书长崔东树表示，2025年1月乘用车行业数据显示良好表现，预测团队微调了年度预测。2025年乘用车零售预计为2343万台，增长2%，较1月预测增加7万台 ...",
+    "id": "8hE78Ni54R6",
+    "order": 1740353731900,
+    "createdAt": "2025-02-23T23:35:32.000Z",
+    "publishDate": "2025-02-23T23:35:31.900Z",
+    "title": "乘联会崔东树：上调2025年乘用车零售量预测至2343万台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 07:35:32",
+    "uuid": "dc692c22-0ac8-4b81-847b-ad13d9d3c535"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "印度Vanar Robotics研究实验室发布了首款人形机器人原型Vanar一代，旨在成为企业和家庭的生物力学智能体，具备功能性、效率和适应性 ...",
+    "id": "8hCcxsQfvfb",
+    "order": 1740353669098,
+    "createdAt": "2025-02-23T23:34:30.000Z",
+    "publishDate": "2025-02-23T23:34:29.098Z",
+    "title": "印度实验室推出人形机器人原型 目标价格与摩托车相同",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 07:34:30",
+    "uuid": "8388b662-5f66-4d1e-8d9a-c640dfe8913b"
+  },
+  {
+    "newsArray": [
       { "siteName": "每经网" },
       { "siteName": "财经网" },
       { "siteName": "界面" }
