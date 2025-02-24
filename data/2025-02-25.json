@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "赛富时与谷歌达成一项价值25亿美元的长期合作协议，双方将在CRM软件、AI助手和Data Cloud解决方案等领域进行深度集成，并与Google Cloud实现无缝对接 ...",
+    "id": "8hFjA5F9h0q",
+    "order": 1740441148841,
+    "createdAt": "2025-02-24T23:52:30.000Z",
+    "publishDate": "2025-02-24T23:52:28.841Z",
+    "title": "赛富时与谷歌达成数十亿美元合作协议 深化AI与云计算集成",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 07:52:30",
+    "uuid": "f3db465f-5d36-45f1-9e83-1f3bdf7c213d"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" }
@@ -227,6 +245,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "美国达美航空876号航班从亚特兰大飞往南卡罗来纳州哥伦比亚途中因机内烟雾紧急返回亚特兰大机场并安全着陆。该航班机型为波音717，共载有99人。美国联邦航空管理局将对事件进行调查。",
+    "id": "8hFPA5G0gOe",
+    "order": 1740440929969,
+    "createdAt": "2025-02-24T18:32:13.000Z",
+    "publishDate": "2025-02-24T23:48:49.969Z",
+    "title": "美国一架波音客机飞行中机内冒烟，客机被迫返航",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 02:32:13",
+    "uuid": "45826330-2c66-4333-96d8-520e07fda041"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "中国科技网" }
@@ -259,5 +295,23 @@
     "up": false,
     "date": "2025-02-25 00:27:31",
     "uuid": "ba59691d-3f46-4f49-8bcb-fa65a0185d42"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "中国科技网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "法国CEA运营的WEST核聚变装置实现氢等离子体持续1337秒，刷新中国EAST装置1066秒的纪录。",
+    "id": "8hE9JeO5PQP",
+    "order": 1740441210428,
+    "createdAt": "2025-02-24T16:03:13.000Z",
+    "publishDate": "2025-02-24T23:53:30.428Z",
+    "title": "1337秒，法核聚变装置等离子体运行时间创纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 00:03:13",
+    "uuid": "78097800-c1bb-4e42-8700-566f5c1e65f2"
   }
 ]
