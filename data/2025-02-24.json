@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Canalys报告显示，2024年欧洲（不含俄罗斯）智能手机出货量增长5%，结束了连续四年的下滑。三星以6%的增长保持欧洲最大智能手机厂商地位，出货量达4640万部 ...",
+    "id": "8hEnGHo207D",
+    "order": 1740390827234,
+    "createdAt": "2025-02-24T09:53:48.000Z",
+    "publishDate": "2025-02-24T09:53:47.234Z",
+    "title": "Canalys：连续四年下滑后，2024 年欧洲智能手机市场同比增长 5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:53:48",
+    "uuid": "ffa81aba-f2e7-4090-be3b-023273f3056c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "银河证券研究院报告指出，在AI技术加速突破的背景下，证券行业与硬核科技的结合将推动行业深层次变革，促进业务模式和功能创新，重塑竞争力，降低成本并提高效率，助力中小券商实现差异化竞争。",
+    "id": "8hEoh80z3Qa",
+    "order": 1740390801279,
+    "createdAt": "2025-02-24T09:53:22.000Z",
+    "publishDate": "2025-02-24T09:53:21.279Z",
+    "title": "银河证券：DeepSeek有望赋能中小券商形成差异化竞争路径",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:53:22",
+    "uuid": "938cf70e-df7c-461d-a18b-059aa0ef5a4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "皖新传媒在互动平台表示，公司重视人工智能技术在业务中的应用，已接入DeepSeek模型，但目前尚未对经营业绩产生影响。公司将继续探索人工智能技术的应用，提升数字教育服务能力。",
+    "id": "8hEoh6DQhJD",
+    "order": 1740390627439,
+    "createdAt": "2025-02-24T09:50:28.000Z",
+    "publishDate": "2025-02-24T09:50:27.439Z",
+    "title": "皖新传媒：已接入DeepSeek模型 尚未对经营业绩产生影响",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:50:28",
+    "uuid": "24d3b068-d997-4ade-8762-828eabe34d41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "雪龙集团通过深创投中小企业发展基金（新疆）有限合伙企业间接持有杭州宇树科技有限公司1.3546%的股份，雪龙集团对深创投中小企业发展基金（新疆）有限合伙企业的持股比例为0.7239%。",
+    "id": "8hEoh4qqEXy",
+    "order": 1740390610208,
+    "createdAt": "2025-02-24T09:50:10.000Z",
+    "publishDate": "2025-02-24T09:50:10.208Z",
+    "title": "雪龙集团：间接持股杭州宇树科技",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:50:10",
+    "uuid": "ffb7d45d-e558-4c53-87a3-23603b172c89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "国家反诈中心发布安全警示，提醒公众警惕新型NFC诈骗手段。诈骗分子伪装成客服，诱导受害者下载Uni-pay APP并开启NFC功能，通过NFC读取银行卡信息盗取资金 ...",
+    "id": "8hEDcC0XWJW",
+    "order": 1740390490272,
+    "createdAt": "2025-02-24T09:48:11.000Z",
+    "publishDate": "2025-02-24T09:48:10.272Z",
+    "title": "手机NFC成诈骗新目标，谨慎使用保财产安全",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:48:11",
+    "uuid": "e02b6600-75dd-452d-b2d9-b7e4abc60e6f"
+  },
+  {
+    "newsArray": [
       { "siteName": "i黑马" },
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" }
@@ -15,6 +101,25 @@
     "up": false,
     "date": "2025-02-24 17:47:08",
     "uuid": "b47434dd-b93d-4cee-ae72-92fd19de040c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "芯联集成公布2024年业绩，营业总收入65.09亿元，同比增长22.25%。归母净利润亏损9.68亿元，同比减亏50.57%。",
+    "id": "8hEo1opmOut",
+    "order": 1740390591656,
+    "createdAt": "2025-02-24T09:37:16.000Z",
+    "publishDate": "2025-02-24T09:49:51.656Z",
+    "title": "芯联集成：2024年净亏损9.68亿元，同比减亏50.57%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:37:16",
+    "uuid": "8fae731a-6d40-473b-bd85-017c8ca5b637"
   },
   {
     "newsArray": [
@@ -103,6 +208,26 @@
     "up": false,
     "date": "2025-02-24 17:26:02",
     "uuid": "bdc9f959-009a-4e47-b5f3-e7c52288087e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "今日头条平台治理开放日上，平台表示截至2024年底，已拦截超500万条虚假谣言信息，查证知识点101086个，封禁违规账号47705个，并发布8篇治理公告 ...",
+    "id": "8hEfV6kuB4l",
+    "order": 1740390659597,
+    "createdAt": "2025-02-24T09:22:52.000Z",
+    "publishDate": "2025-02-24T09:50:59.597Z",
+    "title": "今日头条披露虚假谣言处理成果：过去一年拦截不实信息超500万条",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:22:52",
+    "uuid": "2f6353b3-0f15-4ef9-b356-efb162929d89"
   },
   {
     "newsArray": [
