@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "SNE Research发布的2024年数据显示，宁德时代在全球储能市场和动力电池出货量方面均位居第一 ...",
+    "id": "8hEnK7gjnaC",
+    "order": 1740389518455,
+    "createdAt": "2025-02-24T09:31:59.000Z",
+    "publishDate": "2025-02-24T09:31:58.455Z",
+    "title": "报告：宁德时代连续四年蝉联全球储能市场冠军",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:31:59",
+    "uuid": "cfa25418-2aa5-4e5e-9f8d-2f7854381d14"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Canalys研究显示，2024年拉美智能手机市场增长15%，出货量达1.37亿部。三星以12%的增长保持市场第一，出货量为4290万部 ...",
+    "id": "8hEmYwJ2s1k",
+    "order": 1740389162140,
+    "createdAt": "2025-02-24T09:26:02.000Z",
+    "publishDate": "2025-02-24T09:26:02.140Z",
+    "title": "机构：2024年拉美智能手机市场增长15%，荣耀成增速最快头部厂商",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:26:02",
+    "uuid": "bdc9f959-009a-4e47-b5f3-e7c52288087e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "澜起科技2024年营业收入36.39亿元，同比增长59.20%，净利润14.12亿元，同比增长213.10% ...",
+    "id": "8hEnHjwoC7q",
+    "order": 1740389128142,
+    "createdAt": "2025-02-24T09:22:38.000Z",
+    "publishDate": "2025-02-24T09:25:28.142Z",
+    "title": "澜起科技：2024年净利润14.12亿元 同比增长213.10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 17:22:38",
+    "uuid": "493a74cf-7809-4f71-a898-68aada04613d"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "金融界" },
       { "siteName": "财联社" }
@@ -165,6 +218,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "中海油石油商业储备（雄安）有限公司近日成立，法定代表人为戴彤，注册资本18亿人民币，业务包括装卸搬运、货物进出口等，由中国海洋石油集团有限公司全资持股。",
+    "id": "8hEgrJt9YIv",
+    "order": 1740389569291,
+    "createdAt": "2025-02-24T08:53:34.000Z",
+    "publishDate": "2025-02-24T09:32:49.291Z",
+    "title": "中海油在雄安成立石油商业储备公司，注册资本18亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 16:53:34",
+    "uuid": "f803da21-fb7c-442b-905a-0adaef832962"
+  },
+  {
+    "newsArray": [
       { "siteName": "投资界" },
       { "siteName": "医药魔方" },
       { "siteName": "投中网" }
@@ -196,6 +268,24 @@
     "up": false,
     "date": "2025-02-24 16:43:53",
     "uuid": "8ca6beb9-a398-44f0-baa6-45ef8031ff39"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "星展集团CEO高博德宣布，未来三年内将减少4000名临时员工，目前共有约9000个临时职位，裁员不涉及正式员工。",
+    "id": "8hEhbiaM4vK",
+    "order": 1740389171316,
+    "createdAt": "2025-02-24T08:43:14.000Z",
+    "publishDate": "2025-02-24T09:26:11.316Z",
+    "title": "星展CEO：将在三年内削减4,000名临时员工",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 16:43:14",
+    "uuid": "f555fa96-17db-449e-a91c-0fa56913f89e"
   },
   {
     "newsArray": [
@@ -1982,6 +2072,24 @@
     "up": false,
     "date": "2025-02-24 09:24:36",
     "uuid": "957ada84-415a-4ee2-bd04-82e7d15ea230"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "九坤投资与微软亚洲研究院合作，成功复现了DeepSeek-R1模型，并在强化学习领域取得技术突破 ...",
+    "id": "8hDUYahqAbJ",
+    "order": 1740389579141,
+    "createdAt": "2025-02-24T01:12:59.000Z",
+    "publishDate": "2025-02-24T09:32:59.141Z",
+    "title": "量化机构九坤投资和微软成功复现DeepSeek-R1",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-24 09:12:59",
+    "uuid": "5228e9db-0968-494f-a206-bd3196304952"
   },
   {
     "newsArray": [
