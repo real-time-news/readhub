@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "在第十一届全国社会保障学术大会上，中国社会保障学会副会长丛树海提出，为实现橄榄型社会，中等收入群体应占总人口的50%-60%，即约3.7亿就业人员月收入需达到6000元 ...",
+    "id": "8hFvMq1qqVS",
+    "order": 1740472538161,
+    "createdAt": "2025-02-25T08:34:45.000Z",
+    "publishDate": "2025-02-25T08:35:38.161Z",
+    "title": "专家建议提高个税免征额至6000元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 16:34:45",
+    "uuid": "92aca3b2-73a7-46cc-a372-4a9c236e8475"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "界面" }
+    ],
+    "summary": "联想百应宣布推出免费PC端侧DeepSeek自适应本地部署服务，智能体能自动检测PC硬件配置，智能选择最优部署尺寸，快速完成模型本地部署，无需用户手动干预。",
+    "id": "8hGGnB5kZpU",
+    "order": 1740472300919,
+    "createdAt": "2025-02-25T08:31:42.000Z",
+    "publishDate": "2025-02-25T08:31:40.919Z",
+    "title": "联想百应智能体推出免费DeepSeek自适应本地部署服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 16:31:42",
+    "uuid": "5aa73a58-11df-49f6-9fb7-1554a9c6136c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "私募公司KKR、方源资本和PAG计划收购星巴克在中国的股份。",
+    "id": "8hGNu2VDmnv",
+    "order": 1740472316163,
+    "createdAt": "2025-02-25T08:23:04.000Z",
+    "publishDate": "2025-02-25T08:31:56.163Z",
+    "title": "私募KKR、方源资本、PAG有意收购星巴克中国股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 16:23:04",
+    "uuid": "6a6a496e-a4de-4168-b79b-cb7c4b5f200a"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "华尔街见闻" },
@@ -16,6 +68,54 @@
     "up": false,
     "date": "2025-02-25 16:12:01",
     "uuid": "fb30d4d7-df5d-4070-9b7c-6540a054ef2f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "电商报" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "开源中国" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "字节跳动AI助手豆包正在小范围测试深度思考模型，但并非DeepSeek模型。目前豆包对话页面未显示“深度思考”功能入口，但灰度用户在提问后，豆包会显示思维链。",
+    "id": "8hGMTwomTI2",
+    "order": 1740472554754,
+    "createdAt": "2025-02-25T08:04:05.000Z",
+    "publishDate": "2025-02-25T08:35:54.754Z",
+    "title": "字节跳动豆包小范围测试深度思考模型 接入的不是DeepSeek",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 16:04:05",
+    "uuid": "4884bd15-dc42-4f06-8824-60c63cbdbf11"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "阿里千问（Qwen）开源大模型衍生模型数量超过10万，领先全球，阿里云开源了全尺寸、全模态、多场景的Qwen系列模型，覆盖0.5B至110B尺寸，包括大语言、多模态、数学和代码等模态，多次登上权威榜单，成为全球开源社区重要模型系列。",
+    "id": "8hGLndQrwUa",
+    "order": 1740472558094,
+    "createdAt": "2025-02-25T08:03:48.000Z",
+    "publishDate": "2025-02-25T08:35:58.094Z",
+    "title": "阿里千问衍生模型数量破10万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 16:03:48",
+    "uuid": "e1764add-0f5f-4fa1-bc40-488a917c41be"
   },
   {
     "newsArray": [
@@ -103,6 +203,24 @@
     "up": false,
     "date": "2025-02-25 15:41:09",
     "uuid": "df898761-b148-4486-ba96-6815256bc6cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "日本东京大学和早稻田大学的研究人员联合开发了一款由人类肌肉驱动的18厘米长的生物混合型机械手，这是目前最大的同类机械手 ...",
+    "id": "8hG8s75qYCB",
+    "order": 1740472331046,
+    "createdAt": "2025-02-25T07:21:18.000Z",
+    "publishDate": "2025-02-25T08:32:11.046Z",
+    "title": "日本研发出全球最大生物混合型机械手，采用人类肌肉组织驱动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 15:21:18",
+    "uuid": "13062776-4267-41a1-8d7d-6fa29c085b04"
   },
   {
     "newsArray": [
@@ -1748,6 +1866,34 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "猎云网" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "波士顿动力创始人Marc Raibert在美国休斯顿参加达索系统3DEXPERIENCE World峰会时表示，他的智能机器人研究所AI Institute购买了中国机器人创业公司宇树科技的机器人进行测试 ...",
+    "id": "8hFsUmfYnK1",
+    "order": 1740471871212,
+    "createdAt": "2025-02-25T01:14:33.000Z",
+    "publishDate": "2025-02-25T08:24:31.212Z",
+    "title": "波士顿动力创始人：已购买宇树机器人，DeepSeek创新只是个开始",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 09:14:33",
+    "uuid": "57ed3051-a375-4b0f-bd05-ef64d2b41354"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
@@ -1783,6 +1929,77 @@
     "up": false,
     "date": "2025-02-25 08:33:20",
     "uuid": "f09dff95-5b9e-4152-bdc4-20a00b352c5d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "证券时报网" },
+      { "siteName": "站长之家" },
+      { "siteName": "站长之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "量子位" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "爱范儿" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "开源中国" },
+      { "siteName": "机器之心" },
+      { "siteName": "站长之家" },
+      { "siteName": "Odaily" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "Solidot" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "品玩" },
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "aibase" },
+      { "siteName": "站长之家" },
+      { "siteName": "智东西" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "中华网" },
+      { "siteName": "快科技" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "人工智能公司Anthropic发布了其最新模型Claude 3.7 Sonnet，这是市场上首款混合推理模型，能够提供即时响应和分步骤的详细思考过程 ...",
+    "id": "8hFj9rMEJV9",
+    "order": 1740471970040,
+    "createdAt": "2025-02-25T00:33:11.000Z",
+    "publishDate": "2025-02-25T08:26:10.040Z",
+    "title": "Anthropic 发布混合推理模型 Claude 3.7 Sonnet，编程能力全面领先",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 08:33:11",
+    "uuid": "8c4a24c7-995f-4df2-ab3a-30a6961fa2c8"
   },
   {
     "newsArray": [
@@ -1924,6 +2141,30 @@
     "up": false,
     "date": "2025-02-25 08:13:55",
     "uuid": "b6faa67f-8c85-48cc-bb6b-21a1416aebab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "电商报" },
+      { "siteName": "投资界" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "安克创新去年奖金分红达8亿元，年收入破百万人数为494人。公司约有5000名员工，中等绩效员工奖金相当于年薪，部分业务好的团队奖金可达20个月以上。",
+    "id": "8hF32YYpOIl",
+    "order": 1740472187590,
+    "createdAt": "2025-02-25T00:13:07.000Z",
+    "publishDate": "2025-02-25T08:29:47.590Z",
+    "title": "安克创新回应公司 494 人年入过百万：属实",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 08:13:07",
+    "uuid": "a98454f5-0ee1-42da-b99e-f695d467308e"
   },
   {
     "newsArray": [
