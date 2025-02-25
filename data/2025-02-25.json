@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧洲主要股指开盘集体下跌，德国DAX30指数跌0.65%，英国富时100指数跌0.3%，法国CAC40指数跌0.2%，欧洲斯托克50指数跌0.58%。",
+    "id": "8hGMXBPDrBb",
+    "order": 1740471195452,
+    "createdAt": "2025-02-25T08:12:01.000Z",
+    "publishDate": "2025-02-25T08:13:15.452Z",
+    "title": "欧洲主要股指开盘集体下跌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 16:12:01",
+    "uuid": "fb30d4d7-df5d-4070-9b7c-6540a054ef2f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "第一财经" }
@@ -763,6 +781,26 @@
     "up": false,
     "date": "2025-02-25 12:42:11",
     "uuid": "46c69f3e-bad8-4be6-9f37-df290123de36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "爱范儿" },
+      { "siteName": "品玩" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "联想宣布旗下AI算力平台联想问天WA7780 G3和WA7785a G3升级，支持部署DeepSeek-R1大模型，降低部署难度和成本，提升性能 ...",
+    "id": "8hF32hZAN9h",
+    "order": 1740470699444,
+    "createdAt": "2025-02-25T04:41:38.000Z",
+    "publishDate": "2025-02-25T08:04:59.444Z",
+    "title": "联想AI服务器单机全面适配DeepSeek-R1满血版大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 12:41:38",
+    "uuid": "144af303-3318-4fb3-9e07-70cc20c23b7a"
   },
   {
     "newsArray": [
