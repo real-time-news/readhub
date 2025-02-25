@@ -1,6 +1,171 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英国石油公司将放弃2030年将可再生能源产能提高20倍的目标，转而聚焦化石燃料产业，以回应投资人对获利的担忧 ...",
+    "id": "8hEwctWclJf",
+    "order": 1740452103016,
+    "createdAt": "2025-02-25T02:55:03.000Z",
+    "publishDate": "2025-02-25T02:55:03.016Z",
+    "title": "英国石油据称将放弃可再生能源目标 重新聚焦于化石燃料",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 10:55:03",
+    "uuid": "ef7c2208-9022-4f4f-b967-d5b822d1d338"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "意大利能源公司埃尼集团与阿联酋科技巨头G42和AI投资公司MGX签署意向书，在意大利开发数据中心，IT容量最高可达1吉瓦，能源来自埃尼的碳捕获与封存技术天然气发电厂 ...",
+    "id": "8hFzimlbkWT",
+    "order": 1740452090944,
+    "createdAt": "2025-02-25T02:54:51.000Z",
+    "publishDate": "2025-02-25T02:54:50.944Z",
+    "title": "埃尼集团将与多家阿联酋企业开展数据中心与关键矿物合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 10:54:51",
+    "uuid": "195bc485-bba7-49ff-8c29-a682f5d5041b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉发布软件更新，新增城市道路Autopilot自动辅助驾驶功能，优化NOA自动辅助导航驾驶。发布时间为2025年2月25日。",
+    "id": "8hG09Cj32RD",
+    "order": 1740452051939,
+    "createdAt": "2025-02-25T02:54:12.000Z",
+    "publishDate": "2025-02-25T02:54:11.939Z",
+    "title": "特斯拉软件更新：推出城市道路Autopilot自动辅助驾驶等",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 10:54:12",
+    "uuid": "e9d6b490-c9d1-434f-97b4-6cc7f370e288"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "长江存储已出货第五代3D TLC NAND闪存，采用Xtacking 4.0架构，实现高密度和垂直栅密度 ...",
+    "id": "8hEnGFpPHvK",
+    "order": 1740451763917,
+    "createdAt": "2025-02-25T02:49:24.000Z",
+    "publishDate": "2025-02-25T02:49:23.917Z",
+    "title": "传三星将采用长江存储专利技术 用于下代V-NAND闪存",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 10:49:24",
+    "uuid": "c537a062-3774-4a1f-9ea8-6b993f3ea253"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI公司于2月25日更新ChatGPT应用，新增Safari扩展功能，允许用户将ChatGPT设置为Safari浏览器地址栏的默认搜索引擎，提供更便捷的AI搜索体验 ...",
+    "id": "8hFvIFa4v42",
+    "order": 1740451609121,
+    "createdAt": "2025-02-25T02:46:49.000Z",
+    "publishDate": "2025-02-25T02:46:49.121Z",
+    "title": "OpenAI 出新招：ChatGPT 变身苹果 Safari 浏览器默认搜索引擎",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 10:46:49",
+    "uuid": "2501e5e9-f3da-4dc0-8089-71cffe9d0af5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "苹果公司计划在2026年于美国休斯顿开设新工厂，生产配备M5高阶处理器的AI服务器 ...",
+    "id": "8hFpapLnnZz",
+    "order": 1740451599351,
+    "createdAt": "2025-02-25T02:46:40.000Z",
+    "publishDate": "2025-02-25T02:46:39.351Z",
+    "title": "郭明錤：苹果休斯顿新厂将生产配备M5高阶处理器的AI服务器",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 10:46:40",
+    "uuid": "15ef5fed-1e5b-4027-95c5-0fb3c4247f15"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "新能源汽车概念股在港股市场表现强劲，理想汽车股价上涨6%，成交额达14亿港元，小米集团和小鹏汽车也跟随上涨。理想汽车当天发布了首款纯电动SUV“理想i8”。",
+    "id": "8hFyvjN5Odr",
+    "order": 1740451587689,
+    "createdAt": "2025-02-25T02:46:28.000Z",
+    "publishDate": "2025-02-25T02:46:27.689Z",
+    "title": "新能源汽车概念港股逆市走强 理想汽车涨6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 10:46:28",
+    "uuid": "84e16d8c-1a5e-48b2-b4af-d61d01a4bf6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "星纪魅族StarV Air2 AR智能眼镜支持提词器功能，已量产并实现销量增长5倍。用户可通过上传发言稿至眼镜并设置自动翻页，或搭配指环StarV Ring2实现流畅演讲。",
+    "id": "8hFzHzf0YvV",
+    "order": 1740451586323,
+    "createdAt": "2025-02-25T02:46:27.000Z",
+    "publishDate": "2025-02-25T02:46:26.323Z",
+    "title": "星纪魅族AR智能眼镜：支持提词器功能，且已量产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 10:46:27",
+    "uuid": "93d03d11-95d3-48d7-9dd1-5f1591a1296c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "AI医疗概念触底回升，贝瑞基因13天6板，安必平涨近10%，卫宁健康、迪安诊断、华大基因、思创医惠等冲高。",
+    "id": "8hFy0ajE7rG",
+    "order": 1740451602723,
+    "createdAt": "2025-02-25T02:24:29.000Z",
+    "publishDate": "2025-02-25T02:46:42.723Z",
+    "title": "AI医疗概念触底回升，贝瑞基因13天6板",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 10:24:29",
+    "uuid": "002ec292-cb92-4aad-933f-1f1067efc1de"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -510,6 +675,26 @@
     "up": false,
     "date": "2025-02-25 07:02:59",
     "uuid": "7d8e1323-2f11-447d-8e61-a10164bab389"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "以太坊日内大跌10%，报价2538美元/枚。比特币跌近4%。美国南达科他州否决投资比特币法案。",
+    "id": "8hFgJtZFwOG",
+    "order": 1740451571728,
+    "createdAt": "2025-02-24T23:02:31.000Z",
+    "publishDate": "2025-02-25T02:46:11.728Z",
+    "title": "以太坊大跌10.00%，比特币跌近4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-25 07:02:31",
+    "uuid": "0ac8991d-ed20-4a6a-8efd-ebe26a9fef15"
   },
   {
     "newsArray": [
