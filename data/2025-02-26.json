@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "中国国际海运集装箱（集团）股份有限公司研发出国内首款RAP主动式温控航空箱，打破了国外技术垄断。RAP航空箱采用循环风均匀送风技术，控温精度高，通过物联网管理平台实现智能化管理 ...",
+    "id": "8hHULr8tNXo",
+    "order": 1740541685842,
+    "createdAt": "2025-02-26T03:48:06.000Z",
+    "publishDate": "2025-02-26T03:48:05.842Z",
+    "title": "国内首款RAP主动式温控航空箱研发成功：可确保复杂环境下精准控温",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-26 11:48:06",
+    "uuid": "03abb575-b09a-4f9a-9854-33dc0dcfbc94"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "Anthropic公司推出了首个混合推理模型Claude 3.7 Sonnet，该模型结合了快速反应和深度思考的能力，允许用户控制模型的思考时间 ...",
+    "id": "8hGXDI8zP7n",
+    "order": 1740541672633,
+    "createdAt": "2025-02-26T03:47:53.000Z",
+    "publishDate": "2025-02-26T03:47:52.633Z",
+    "title": "Anthropic推出混合推理模型，可控制模型思考时间",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-26 11:47:53",
+    "uuid": "eaf277cc-c0b3-460c-90b8-c55da5267aba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小鹏汽车发布了2025款G6，这是基于扶摇架构的首款车型。新款G6定位为纯电轿跑SUV，采用了新设计，包括无断点一体式LED日行灯和移动至前舱盖上的小鹏Logo，并搭载了以视觉为主的高阶智驾方案及智驾“小蓝灯” ...",
+    "id": "8hHbgJWTK4I",
+    "order": 1740541643335,
+    "createdAt": "2025-02-26T03:47:24.000Z",
+    "publishDate": "2025-02-26T03:47:23.335Z",
+    "title": "新款小鹏G6官宣 何小鹏：老款核心产品力至今依旧行业顶尖",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-26 11:47:24",
+    "uuid": "29dbaad5-3cce-452a-9416-02e2140cf0df"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -35,6 +86,24 @@
     "up": false,
     "date": "2025-02-26 11:36:26",
     "uuid": "4c85188f-e2fa-408b-ae5e-d789f47c5c8d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "DeepSeek在开源周活动中发布了DeepGEMM，这是一个专为密集型和混合专家（MoE）通用矩阵乘法（GEMM）运算设计的FP8通用矩阵乘法库，支持V3/R1模型的训练和推理 ...",
+    "id": "8hHdpCbupBc",
+    "order": 1740541430874,
+    "createdAt": "2025-02-26T03:36:04.000Z",
+    "publishDate": "2025-02-26T03:43:50.874Z",
+    "title": "DeepSeek再开源力作：FP8通用矩阵乘法库DeepGEMM助力AI高效运算",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-26 11:36:04",
+    "uuid": "ff5713d0-d0d5-4d8f-aece-e5492473149b"
   },
   {
     "newsArray": [
@@ -309,6 +378,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "电商报" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "2025年阿里云PolarDB开发者大会上，阿里云宣布其PolarDB云原生数据库在TPC-C基准测试中以20.55亿笔交易/分钟的性能和0.8元人民币/交易的性价比，刷新了性能和性价比的世界纪录，成为全球数据库性能及性价比排行榜的第一名 ...",
+    "id": "8hHfGFGwo2q",
+    "order": 1740541445954,
+    "createdAt": "2025-02-26T03:07:52.000Z",
+    "publishDate": "2025-02-26T03:44:05.954Z",
+    "title": "阿里云宣布PolarDB登顶全球数据库性能及性价比排行榜",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-26 11:07:52",
+    "uuid": "8d4b1de3-1a4b-47dd-add0-91236ed3abf7"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "鸟哥笔记" },
       { "siteName": "36Kr" }
@@ -357,6 +443,23 @@
     "up": false,
     "date": "2025-02-26 10:57:08",
     "uuid": "4b174433-49a6-4019-b4e6-784f9b9da7ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "百威亚太宣布程衍俊接替杨克成为新CEO，杨克在担任CEO七年后卸任。公司第四季度净亏损1600万美元，连续第四个季度营收下降 ...",
+    "id": "8hHbjXRTGyP",
+    "order": 1740541469949,
+    "createdAt": "2025-02-26T02:53:20.000Z",
+    "publishDate": "2025-02-26T03:44:29.949Z",
+    "title": "百威亚太任命新CEO 欲扭转中国业务颓势",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-26 10:53:20",
+    "uuid": "4d16366e-8341-4f99-b175-3bbb3d423a26"
   },
   {
     "newsArray": [
@@ -411,6 +514,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "2024年，深圳GDP同比增长5.8%，但一般公共预算收入同比下降4.8%，主要受重点行业调整、结构性减税降费等影响 ...",
+    "id": "8hHdnwroNPV",
+    "order": 1740541549284,
+    "createdAt": "2025-02-26T02:49:57.000Z",
+    "publishDate": "2025-02-26T03:45:49.284Z",
+    "title": "深圳 2024 年 GDP 增长 5.8%，但财政收入却下降 4.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-26 10:49:57",
+    "uuid": "d0c1aeb8-2641-450f-89d9-0f0105ddeaf7"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "AMZ123" },
       { "siteName": "新浪科技" },
@@ -444,6 +564,23 @@
     "up": false,
     "date": "2025-02-26 10:46:17",
     "uuid": "22cecc66-d872-487b-aaca-22caa512b845"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美国总统特朗普宣布启动“金卡”计划，为投资500万美元的投资者提供居留权和入籍途径。该计划可能取代现有的EB-5计划，允许投资者通过向美国企业投资获得绿卡 ...",
+    "id": "8hHXQ57DWxk",
+    "order": 1740541581785,
+    "createdAt": "2025-02-26T02:45:50.000Z",
+    "publishDate": "2025-02-26T03:46:21.785Z",
+    "title": "特朗普将推 500 万美元移民「金卡」",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-26 10:45:50",
+    "uuid": "cd5b0f18-ac35-4ce0-b768-11ae2e64e7a1"
   },
   {
     "newsArray": [
@@ -827,6 +964,23 @@
     "up": false,
     "date": "2025-02-26 08:32:27",
     "uuid": "491bd730-f266-491b-a3f4-65f69f3f09e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "《旅行青蛙・中国之旅》游戏宣布vivo渠道服将于4月19日停止运营，但官服和其他渠道将继续运营。官方表示，尽管面临不可抗力，游戏的中国之旅仍在继续，并将努力让旅程更长久 ...",
+    "id": "8hFtrytp762",
+    "order": 1740541809366,
+    "createdAt": "2025-02-26T00:02:14.000Z",
+    "publishDate": "2025-02-26T03:50:09.366Z",
+    "title": "灵犀互娱《旅行青蛙》：官服和其他渠道仍在正常运营中",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-26 08:02:14",
+    "uuid": "36fa17b4-8637-4319-b47f-70e0adb58487"
   },
   {
     "newsArray": [
