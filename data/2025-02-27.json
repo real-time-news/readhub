@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Anthropic的Claude关系负责人Alex Albert宣布，GitHub集成功能现已对免费、Pro和Teams用户开放，此前该功能仅限于企业版用户 ...",
+    "id": "8hJO2CshSiQ",
+    "order": 1740637594966,
+    "createdAt": "2025-02-27T06:26:34.000Z",
+    "publishDate": "2025-02-27T06:26:34.966Z",
+    "title": "Anthropic 全面开放 Claude AI 的 GitHub 集成，赋能所有开发者",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 14:26:34",
+    "uuid": "595091a1-055e-4325-90f7-cf753c430e4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "皮尤研究中心的调查显示，55%的美国工人很少或从未使用AI工具，29%的人对AI工具一无所知。16%的工人经常使用AI聊天工具，年轻和高学历工人使用率较高 ...",
+    "id": "8hICmrj2AfV",
+    "order": 1740637548495,
+    "createdAt": "2025-02-27T06:25:49.000Z",
+    "publishDate": "2025-02-27T06:25:48.495Z",
+    "title": "皮尤调查发现大部分美国工人避用 AI 聊天机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 14:25:49",
+    "uuid": "2f495385-0892-4a12-9338-511c2c0e9216"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "百度计划于3月中旬发布新一代AI模型Ernie，旨在提升推理等能力。",
+    "id": "8hJYxn06GPD",
+    "order": 1740637316548,
+    "createdAt": "2025-02-27T06:21:57.000Z",
+    "publishDate": "2025-02-27T06:21:56.548Z",
+    "title": "百度将于3月中旬推出下一代人工智能模型Ernie",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 14:21:57",
+    "uuid": "14d690e4-f854-4715-a19e-729f2023ed92"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "日本三菱电机计划调整其在中国的工厂自动化业务供应链，减少从日本出口，转而与中国当地企业合作采购低价产品 ...",
+    "id": "8hJKss8sweg",
+    "order": 1740636211547,
+    "createdAt": "2025-02-27T06:03:32.000Z",
+    "publishDate": "2025-02-27T06:03:31.547Z",
+    "title": "三菱电机拟在华构建工业机器人完整供应链，减少从日本进口",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 14:03:32",
+    "uuid": "b22de22a-8dd4-420b-bb30-37b9b598d493"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "大消费板块午后上涨，食品和零售股领涨，一鸣食品、好想你等多股涨停，熊猫乳品等涨幅超10%。",
+    "id": "8hJWHWMPnig",
+    "order": 1740636154481,
+    "createdAt": "2025-02-27T06:02:35.000Z",
+    "publishDate": "2025-02-27T06:02:34.481Z",
+    "title": "大消费板块持续走强 一鸣食品等十余股涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 14:02:35",
+    "uuid": "7ce0e500-c561-4697-b3fb-20228da3609c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "美国南加州大学伦纳德·戴维斯老龄学院的研究显示，长期暴露在极端高温下可能加速老年人的生物学衰老 ...",
+    "id": "8hJWyGAj1IY",
+    "order": 1740636114373,
+    "createdAt": "2025-02-27T06:01:54.000Z",
+    "publishDate": "2025-02-27T06:01:54.373Z",
+    "title": "新研究：极端高温可能进一步加速老年人衰老",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 14:01:54",
+    "uuid": "25011642-872d-4a5e-a5f8-3fb46aa2f04f"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
@@ -52,6 +158,26 @@
     "up": false,
     "date": "2025-02-27 13:43:36",
     "uuid": "5c2cc71c-9d56-49b7-97e3-f54a4347ba42"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "沪深两市成交额连续第27个交易日突破1万亿，预计全天成交金额近2.1万亿，较昨日放量超1300亿。",
+    "id": "8hJJxxwriNN",
+    "order": 1740636247752,
+    "createdAt": "2025-02-27T05:42:16.000Z",
+    "publishDate": "2025-02-27T06:04:07.752Z",
+    "title": "沪深两市成交额突破1万亿，较昨日此时放量超1300亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 13:42:16",
+    "uuid": "15ff6a55-d91c-44b7-92b7-fd94f520a326"
   },
   {
     "newsArray": [
@@ -271,6 +397,24 @@
     "up": false,
     "date": "2025-02-27 12:42:44",
     "uuid": "33c3a9bb-0f3f-4061-a1bb-60b410e64496"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "近期社交媒体上流传大疆公司要求员工9点上班的消息，大疆对此澄清称该说法为谣言。公司实行弹性上班制度已超过十年，员工上班时间可在9点至10点半间自由选择 ...",
+    "id": "8hJNjrV9ei4",
+    "order": 1740637577851,
+    "createdAt": "2025-02-27T04:37:24.000Z",
+    "publishDate": "2025-02-27T06:26:17.851Z",
+    "title": "大疆辟谣“强制9点上班”：实为弹性制度，无调整计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 12:37:24",
+    "uuid": "cc0089dd-1295-4573-90e3-9237a2bcff4c"
   },
   {
     "newsArray": [
