@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "亚马逊云计算部门AWS发布了新型量子计算芯片“Ocelot”，声称其能将量子纠错成本降低高达90%。",
+    "id": "8hJyUMcQUI2",
+    "order": 1740664450916,
+    "createdAt": "2025-02-27T13:54:11.000Z",
+    "publishDate": "2025-02-27T13:54:10.916Z",
+    "title": "亚马逊云计算部门AWS推出新型量子计算芯片“Ocelot”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 21:54:11",
+    "uuid": "68ab3d87-353d-4fc9-8c32-672cae9f5542"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "奇安信董事长齐向东认为，DeepSeek的出现打破了人工智能行业的市场格局，其开源策略推动行业走向开放合作。他建议国家从政策引导、优化营商环境等方面激发民间创新创业热情 ...",
+    "id": "8hJy8eY1IAJ",
+    "order": 1740664433539,
+    "createdAt": "2025-02-27T13:53:54.000Z",
+    "publishDate": "2025-02-27T13:53:53.539Z",
+    "title": "奇安信董事长齐向东：DeepSeek开源策略让中小公司实现技术平权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 21:53:54",
+    "uuid": "8a705919-5b30-4919-b230-c2f36a4774d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家能源集团正在编制虚拟电厂、零碳智慧园区、绿色算力、增量配电网等负荷侧可调资源的技术路线和标准，旨在提升新型电力系统的调节能力和运行稳定性。",
+    "id": "8hK4ZfNa4uM",
+    "order": 1740664381820,
+    "createdAt": "2025-02-27T13:53:02.000Z",
+    "publishDate": "2025-02-27T13:53:01.820Z",
+    "title": "国家能源集团：正编制虚拟电厂等负荷侧可调资源有关技术路线标准",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 21:53:02",
+    "uuid": "9721edf4-5393-42e6-b8fa-f492c2c3f0f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "长盈精密2024年业绩快报显示，营业总收入169.17亿元，同比增长23.28%。净利润7.69亿元，同比增长796.99%。",
+    "id": "8hK4Ys5ccXV",
+    "order": 1740664359194,
+    "createdAt": "2025-02-27T13:49:42.000Z",
+    "publishDate": "2025-02-27T13:52:39.194Z",
+    "title": "长盈精密：2024年净利润同比增长797%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 21:49:42",
+    "uuid": "a320e98f-ed5c-4168-be51-58c55cc2aefc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "宏景科技在机构调研中指出，算力市场的发展对通用人工智能技术（AGI）至关重要，有助于处理大数据集并推动智慧城市业务的质变 ...",
+    "id": "8hK3rjqODkz",
+    "order": 1740664152906,
+    "createdAt": "2025-02-27T13:49:13.000Z",
+    "publishDate": "2025-02-27T13:49:12.906Z",
+    "title": "宏景科技：未来会做深算力服务业务 实现AGI应用场景突破和发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-02-27 21:49:13",
+    "uuid": "e7347388-776b-427d-86a5-012a7532ebfe"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "新浪科技" },
