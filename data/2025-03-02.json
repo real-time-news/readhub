@@ -1,6 +1,62 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "潞晨科技宣布将停止提供DeepSeek API服务，此前与昇腾合作发布推理API及云镜像服务 ...",
+    "id": "8hOCQlcHk5x",
+    "order": 1740882712867,
+    "createdAt": "2025-03-02T02:31:53.000Z",
+    "publishDate": "2025-03-02T02:31:52.867Z",
+    "title": "潞晨科技CEO发文致歉并删除不当表述",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-02 10:31:53",
+    "uuid": "6c02feaf-b77f-439a-af1f-35c6b28fc55c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "摩尔线程在DeepSeek开源周活动中宣布全面支持DeepSeek系列模型的多个开源项目，包括FlashMLA、DeepEP、DeepGEMM、DualPipe和Fire-Flyer文件系统（3FS） ...",
+    "id": "8hOC2eVKraK",
+    "order": 1740881777496,
+    "createdAt": "2025-03-02T02:16:19.000Z",
+    "publishDate": "2025-03-02T02:16:17.496Z",
+    "title": "摩尔线程全面拥抱DeepSeek开源周，加速AI模型训练与推理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-02 10:16:19",
+    "uuid": "fc3cb0c4-f3f4-41a7-9673-3b5e85ed3f35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "马斯克认为特斯拉在5年内实现1000%的利润增长是可能的，并表示特斯拉长期回报非常高。",
+    "id": "8hOBhyMMigB",
+    "order": 1740878538919,
+    "createdAt": "2025-03-02T01:22:20.000Z",
+    "publishDate": "2025-03-02T01:22:18.919Z",
+    "title": "马斯克：特斯拉未来5年有望实现1000%利润增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-02 09:22:20",
+    "uuid": "c71a7005-1bd5-4267-af58-a9050d1687af"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "界面" }
