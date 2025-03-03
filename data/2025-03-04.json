@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "AI模型企业Anthropic完成35亿美元E轮融资，估值达到615亿美元。本轮融资由Lightspeed Venture Partners领投，思科、Salesforce投资部门参与 ...",
+    "id": "8hQwXGO43gq",
+    "order": 1741046169174,
+    "createdAt": "2025-03-03T23:56:09.000Z",
+    "publishDate": "2025-03-03T23:56:09.174Z",
+    "title": "估值升至 615 亿美元，Anthropic 完成 35 亿美元 E 轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 07:56:09",
+    "uuid": "785c20f8-fb8a-4e43-b884-a4a4f343b914"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -34,6 +51,24 @@
     "up": false,
     "date": "2025-03-04 07:42:17",
     "uuid": "c61e0c89-f80f-496e-968f-58fb1eb19c1c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "日本1月失业率升至2.5%，较上月增加0.1个百分点。",
+    "id": "8hROOfzjG9V",
+    "order": 1741046082694,
+    "createdAt": "2025-03-03T23:41:45.000Z",
+    "publishDate": "2025-03-03T23:54:42.694Z",
+    "title": "日本1月失业率为2.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 07:41:45",
+    "uuid": "f2d26e75-4568-443e-baeb-b01208eed5d9"
   },
   {
     "newsArray": [
