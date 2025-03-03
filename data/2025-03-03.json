@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "智谱AI完成超10亿元战略融资，投资方包括杭州城投产业基金等，资金将用于推动GLM大模型技术创新和生态发展。",
+    "id": "8hPoRuffGKz",
+    "order": 1740962605782,
+    "createdAt": "2025-03-03T00:42:30.000Z",
+    "publishDate": "2025-03-03T00:43:25.782Z",
+    "title": "智谱完成一笔金额超10亿元人民币的战略融资，杭州国资参投",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 08:42:30",
+    "uuid": "d6c28739-5f14-49e7-bc36-f14d724a1050"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "全国政协委员、360集团创始人周鸿祎在参加全国两会时，关注人工智能和安全两大主题。他认为传统网络安全无法应对新挑战，应由懂安全和AI的企业牵头，通过打造安全大模型解决大模型应用的安全问题。",
+    "id": "8hPmIMbAepS",
+    "order": 1740962516359,
+    "createdAt": "2025-03-03T00:41:57.000Z",
+    "publishDate": "2025-03-03T00:41:56.359Z",
+    "title": "全国政协委员、360集团创始人周鸿祎：“以模制模”应对安全挑战",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 08:41:57",
+    "uuid": "d8665e46-852e-49ec-ae75-8827262b879e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中信建投分析认为，DeepSeek模型的高理论成本率表明模型厂商盈利模式闭环，成本降低和能力提升空间大，有望推动AI需求加速释放 ...",
+    "id": "8hPlZy6KKp3",
+    "order": 1740961403654,
+    "createdAt": "2025-03-03T00:23:23.000Z",
+    "publishDate": "2025-03-03T00:23:23.654Z",
+    "title": "中信建投：下游应用AI需求有望加速释放",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 08:23:23",
+    "uuid": "d96cc505-bee0-4422-9c7f-9a4b03613f82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "摩托罗拉在MWC 2025发布了新版Smart Connect app，新增AI搜索功能，支持跨设备查找文件和照片。该应用还引入自然语言搜索和命令，简化操作流程 ...",
+    "id": "8hPj4ThVeBl",
+    "order": 1740960188382,
+    "createdAt": "2025-03-03T00:03:08.000Z",
+    "publishDate": "2025-03-03T00:03:08.382Z",
+    "title": "摩托罗拉发布新版 Smart Connect app ，适用所有安卓设备",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 08:03:08",
+    "uuid": "dc9a049b-ea16-4a78-80d1-ffdea107d04c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "香港新房销量在周末达到近四个月最高，两日成交447宗，较前一周增长38%。",
+    "id": "8hPkrvAiIcF",
+    "order": 1740960058261,
+    "createdAt": "2025-03-02T23:53:14.000Z",
+    "publishDate": "2025-03-03T00:00:58.261Z",
+    "title": "香港周末新房销量创四个月最高同期纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 07:53:14",
+    "uuid": "97796dfb-b3fa-4f89-83d6-12c7e251461f"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "钛媒体" },
       { "siteName": "财联社" },
@@ -34,6 +123,24 @@
     "up": false,
     "date": "2025-03-03 07:33:11",
     "uuid": "b7696edf-814f-4a80-9893-0c2161cf220f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "瑞典哥德堡大学研究团队在《自然·物理学》发表研究成果，展示了室温下低能耗自旋波技术，信息可通过磁波运动传输，有望成为量子计算机低能耗替代方案，推动下一代伊辛机发展。",
+    "id": "8hPijWfySyF",
+    "order": 1740962009335,
+    "createdAt": "2025-03-02T23:33:03.000Z",
+    "publishDate": "2025-03-03T00:33:29.335Z",
+    "title": "低能耗自旋波信息传输技术实现 有助推动下一代计算系统伊辛机发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 07:33:03",
+    "uuid": "47a43aef-4111-4637-96c5-bd31abcc418e"
   },
   {
     "newsArray": [
