@@ -1,6 +1,132 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "美国总统特朗普宣布将对欧盟征收25%关税，德国经济将受影响，尤其是汽车、制药和机械制造业。为应对关税冲击，德企计划加强全球布局和对华合作 ...",
+    "id": "8hOf0iRFWDF",
+    "order": 1740972314510,
+    "createdAt": "2025-03-03T03:25:14.000Z",
+    "publishDate": "2025-03-03T03:25:14.510Z",
+    "title": "应对美关税威胁 德企加强全球布局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:25:14",
+    "uuid": "dc4d7bc4-c1a8-47ed-b5d8-ab84b806ebe2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日本东京正在测试一款名为AIREC的AI驱动护理机器人，以应对日本老龄化社会和护理人员短缺问题。AIREC重约149公斤，能够进行侧转等护理动作 ...",
+    "id": "8hOtcVM5AC4",
+    "order": 1740972275533,
+    "createdAt": "2025-03-03T03:24:36.000Z",
+    "publishDate": "2025-03-03T03:24:35.533Z",
+    "title": "东京测试人形机器人助力养老护理，应对日本老龄化难题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:24:36",
+    "uuid": "d293eb79-d9dd-4bc0-a9bf-6b435da6e400"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "阿里巴巴旗下淘天集团开启2026届实习生招聘，计划发放1000多个offer，其中AI类岗位占比近50%，包括AI算法、工程、产品、运营和设计等领域。",
+    "id": "8hPzIljvr9B",
+    "order": 1740972347497,
+    "createdAt": "2025-03-03T03:23:42.000Z",
+    "publishDate": "2025-03-03T03:25:47.497Z",
+    "title": "淘天集团启动2026届实习生招聘，新增大量AI岗位",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:23:42",
+    "uuid": "6e25c233-2d44-4f3b-beb9-6932db55abba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2025年第97届奥斯卡金像奖颁奖典礼上，《猫猫的奇幻漂流》荣获最佳动画长片奖，该片讲述了一只小猫在洪水中意外登上帆船，与各种动物伙伴共同克服困难的故事 ...",
+    "id": "8hPqCtgr4Dm",
+    "order": 1740971324498,
+    "createdAt": "2025-03-03T03:08:44.000Z",
+    "publishDate": "2025-03-03T03:08:44.498Z",
+    "title": "《猫猫的奇幻漂流》荣获第97届奥斯卡最佳动画长片奖",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:08:44",
+    "uuid": "cd7adbed-a84b-40db-ab25-2bccb6568d65"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美国太空探索技术Space公司X于3月2日发射21颗星链卫星，其中13颗配备Direct to Cell通信技术，实现设备通过卫星直接与地面网络通信。",
+    "id": "8hPyUDokIUG",
+    "order": 1740972239405,
+    "createdAt": "2025-03-03T03:05:00.000Z",
+    "publishDate": "2025-03-03T03:23:59.405Z",
+    "title": "美国“猎鹰9”火箭发射21颗“星链”卫星",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:05:00",
+    "uuid": "3365222b-68dd-41d3-8ab7-b3b4b7c9cf57"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "深圳前海合作区发布《前海建设深港深度融合发展引领区2025年行动方案》，提出23项重点任务，旨在便利香港居民生活就业、促进要素跨境流动、加强产业协同联动，加快建设深港深度融合发展引领区。",
+    "id": "8hPyUBSqTd5",
+    "order": 1740971089651,
+    "createdAt": "2025-03-03T03:04:49.000Z",
+    "publishDate": "2025-03-03T03:04:49.651Z",
+    "title": "深圳前海公布《行动方案》 加快建设深港深度融合发展引领区",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:04:49",
+    "uuid": "b103e6ba-e245-4d66-ad08-0755dc5397b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "钢铁股再度走强，马钢股份涨停，八一钢铁涨超5%，柳钢股份、华菱钢铁、凌钢股份、宝钢股份、首钢股份等跟涨。",
+    "id": "8hPyUWEOxdt",
+    "order": 1740972261720,
+    "createdAt": "2025-03-03T03:04:25.000Z",
+    "publishDate": "2025-03-03T03:24:21.720Z",
+    "title": "钢铁股再度走强，马钢股份涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:04:25",
+    "uuid": "4a8247e2-0bb2-4eea-bbcd-97a9955ccff3"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "DoNews" }
@@ -107,6 +233,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "科大讯飞董事长刘庆峰访问北汽集团，双方签署战略合作框架协议，旨在推动汽车智能化领域的合作，利用人工智能技术和大模型提升智能网联汽车研发及企业数智化创新服务能力，引领未来出行方式变革。",
+    "id": "8hObS4KxbzZ",
+    "order": 1740971074535,
+    "createdAt": "2025-03-03T02:35:04.000Z",
+    "publishDate": "2025-03-03T03:04:34.535Z",
+    "title": "科大讯飞与北汽集团签署战略合作协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 10:35:04",
+    "uuid": "d8939bb6-6b1e-4a66-8939-f3c9aa1f2b9b"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "第一财经" },
       { "siteName": "格隆汇" },
@@ -200,6 +345,28 @@
     "up": false,
     "date": "2025-03-03 10:12:41",
     "uuid": "1d9a4c78-9a16-42d7-a340-157a8c320653"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "3月3日开盘半小时，沪深两市成交额超5500亿，较上一日减少600亿，预计全天成交约1.7万亿。",
+    "id": "8hPuBcVVUiL",
+    "order": 1740971924889,
+    "createdAt": "2025-03-03T02:11:46.000Z",
+    "publishDate": "2025-03-03T03:18:44.889Z",
+    "title": "沪深两市成交额突破5500亿 较上一日此时缩量超600亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 10:11:46",
+    "uuid": "d4d80d1b-b7ea-43c9-9d18-4c4303e28980"
   },
   {
     "newsArray": [
@@ -455,6 +622,26 @@
     "up": false,
     "date": "2025-03-03 07:53:14",
     "uuid": "97796dfb-b3fa-4f89-83d6-12c7e251461f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "3月初，资本市场迎来首批上市ETF，11只新成立的ETF将于3月3日至5日上市，累计规模达170.22亿元 ...",
+    "id": "8hPfByNpSGz",
+    "order": 1740971560885,
+    "createdAt": "2025-03-02T23:42:15.000Z",
+    "publishDate": "2025-03-03T03:12:40.885Z",
+    "title": "规模超170亿元，3月首批上市ETF“定档”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 07:42:15",
+    "uuid": "c66c45c8-6a28-4489-8fed-a89842d338bd"
   },
   {
     "newsArray": [
