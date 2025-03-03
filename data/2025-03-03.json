@@ -1,6 +1,86 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "印度尼西亚股票基准指数增长3%，达到6458.45点。",
+    "id": "8hPsl3S9Q3B",
+    "order": 1740973754618,
+    "createdAt": "2025-03-03T03:49:15.000Z",
+    "publishDate": "2025-03-03T03:49:14.618Z",
+    "title": "印度尼西亚股票基准指数上涨3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:49:15",
+    "uuid": "3d3d6093-0c00-4cc7-b604-2a992fb16ca9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果公司在人工智能领域面临挑战，自研AI进展缓慢，与竞争对手差距加大。Siri数字助手虽然起步早，但发展落后，新版Siri预计要到2027年才能推出具备现代化对话能力 ...",
+    "id": "8hPnlLsaWpi",
+    "order": 1740973654187,
+    "createdAt": "2025-03-03T03:47:35.000Z",
+    "publishDate": "2025-03-03T03:47:34.187Z",
+    "title": "苹果的AI危机：落后五年，逆袭时间所剩无几",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:47:35",
+    "uuid": "308011c7-4c6a-4001-bfa5-7cbb6343d55e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "字节跳动发布了AI编程工具Trae的国内版，搭载doubao-1.5-pro模型，并支持切换至DeepSeek R1&V3 ...",
+    "id": "8hPztyjd80p",
+    "order": 1740973745422,
+    "createdAt": "2025-03-03T03:47:24.000Z",
+    "publishDate": "2025-03-03T03:49:05.422Z",
+    "title": "中国首个AI原生IDE：字节跳动发布AI编程工具Trae国内版",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:47:24",
+    "uuid": "8845af3c-14db-4cd3-9129-1ba147475b64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "雷科技" },
+      { "siteName": "财经网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "华为常务董事余承东宣布，华为将在3月推出首款原生鸿蒙新品，硬件、软件、生态将实现全新突破。腾讯、字节、阿里、美团等生态伙伴正在优化应用体验 ...",
+    "id": "8hPxjE3TJ3X",
+    "order": 1740973664269,
+    "createdAt": "2025-03-03T03:45:32.000Z",
+    "publishDate": "2025-03-03T03:47:44.269Z",
+    "title": "鸿蒙生态伙伴齐聚，为全新生态体验按下“快进键”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 11:45:32",
+    "uuid": "0b1b732c-45bc-4d25-ac6a-7a35ae41d1df"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
@@ -231,6 +311,26 @@
     "up": false,
     "date": "2025-03-03 10:53:41",
     "uuid": "f6dd91e1-02da-456c-bcb3-acff10bc3139"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "电商报" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "上海盒马X会员店高青店、大场店、东虹桥店将于4月1日暂停营业，这是盒马主动进行的业务调整。调整后，上海将仅剩2家X会员门店，北京、南京和苏州各有一家 ...",
+    "id": "8hPxiAImIwo",
+    "order": 1740973613005,
+    "createdAt": "2025-03-03T02:53:34.000Z",
+    "publishDate": "2025-03-03T03:46:53.005Z",
+    "title": "盒马将关闭3家X会员店，全国剩余5家",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-03 10:53:34",
+    "uuid": "331bd25a-78d9-441a-a5f1-6a95e3484b96"
   },
   {
     "newsArray": [
