@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "世界卫生组织宣布猴痘疫情仍构成国际关注的突发公共卫生事件。为防止疫情传入我国，保护人民健康安全，来自猴痘疫情发生国家（地区）的人员，如接触过猴痘病例或出现相关症状，进境时应主动向海关申报 ...",
+    "id": "8hRbz9dQIQ7",
+    "order": 1741059168831,
+    "createdAt": "2025-03-04T03:32:48.000Z",
+    "publishDate": "2025-03-04T03:32:48.831Z",
+    "title": "海关总署发布关于防止猴痘疫情传入我国的公告",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 11:32:48",
+    "uuid": "ebe328f6-92b6-4a46-a3b4-1ad7ac1c3cd2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "通用汽车聘请了前思科人工智能主管Barak Turovsky为公司首位首席人工智能官，他将领导团队将人工智能软件功能集成到通用汽车的汽车阵容中，推动公司在电动汽车、内燃机和自动驾驶技术的发展。",
+    "id": "8hRMCZzAMYX",
+    "order": 1741058706269,
+    "createdAt": "2025-03-04T03:25:07.000Z",
+    "publishDate": "2025-03-04T03:25:06.269Z",
+    "title": "通用汽车任命公司首位首席人工智能官",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 11:25:07",
+    "uuid": "c159ab58-b4e7-41f0-9034-325944daa4fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "墨西哥哈利斯科州州长Pablo Lemus Navarro透露，富士康计划在Guadalajara附近投资约9亿美元建设全球最大的AI服务器超级工厂，预计一年内建成 ...",
+    "id": "8hRelv5bvlG",
+    "order": 1741058729945,
+    "createdAt": "2025-03-04T03:24:28.000Z",
+    "publishDate": "2025-03-04T03:25:29.945Z",
+    "title": "墨西哥官员透露富士康计划在当地建设人工智能服务器超级工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 11:24:28",
+    "uuid": "4127aaf2-12f3-4797-9cf9-986f6b05468d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "特斯拉董事长罗宾·德霍姆出售112,390股特斯拉股票，套现约3370万美元，上个月也出售了相同数量的股票，总收益约为4320万美元 ...",
+    "id": "8hRYLfRR7QU",
+    "order": 1741057936948,
+    "createdAt": "2025-03-04T03:12:17.000Z",
+    "publishDate": "2025-03-04T03:12:16.948Z",
+    "title": "特斯拉董事长再出售逾11万股 套现约3370万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 11:12:17",
+    "uuid": "b79d9ab0-5a0d-4b78-8656-5d6bdbab9a80"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "新浪微博官方账号发布公告，将加强治理蹭热搜等违规行为。近期发现部分用户通过伪造互动数据、恶意编辑话题等方式提升博文热度，干扰正常讨论秩序 ...",
+    "id": "8hQS4lULEDW",
+    "order": 1741058411932,
+    "createdAt": "2025-03-04T03:02:40.000Z",
+    "publishDate": "2025-03-04T03:20:11.932Z",
+    "title": "微博加强蹭热搜等违规行为治理，多次违规账号永久封禁",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 11:02:40",
+    "uuid": "f4fa3608-162b-4a08-a09a-cc7f89cf21a2"
+  },
+  {
+    "newsArray": [
       { "siteName": "医谷网" },
       { "siteName": "医药魔方" },
       { "siteName": "医药魔方" }
