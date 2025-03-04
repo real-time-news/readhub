@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "2024年，科创板集成电路公司营收增长显著，近9成公司实现正增长，特别是第四季度近7成公司营收环比正增长 ...",
+    "id": "8hRyqNuCL9D",
+    "order": 1741081402931,
+    "createdAt": "2025-03-04T09:43:23.000Z",
+    "publishDate": "2025-03-04T09:43:22.931Z",
+    "title": "116家科创板集成电路企业交卷 ，行业复苏趋势不改，细分领域亮点纷呈",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 17:43:23",
+    "uuid": "a010c626-ceb8-48ca-81ec-f122cc873d8f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "浙江省发布碳排放双控工作举措，计划到2030年底风电光伏装机达8000万千瓦，核电装机达1800万千瓦 ...",
+    "id": "8hS5EvnNClk",
+    "order": 1741081389614,
+    "createdAt": "2025-03-04T09:43:09.000Z",
+    "publishDate": "2025-03-04T09:43:09.614Z",
+    "title": "浙江：到2030年底 全省风电光伏、核电装机分别达到8000万千瓦、1800万千瓦",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 17:43:09",
+    "uuid": "85315614-c7d2-45f9-a6ff-33ec5df1c499"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -1634,6 +1670,25 @@
     "up": false,
     "date": "2025-03-04 11:25:07",
     "uuid": "c159ab58-b4e7-41f0-9034-325944daa4fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "雷科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "极客公园" }
+    ],
+    "summary": "联想集团宣布在行业内首次实现单机部署DeepSeek-R1/V3 671B大模型，使用联想问天WA7780 G3服务器，低于行业公认1TB显存（实际768GB）承载多并发用户流畅体验，满足千人企业使用需求 ...",
+    "id": "8hQ111UWAGH",
+    "order": 1741081455921,
+    "createdAt": "2025-03-04T03:24:53.000Z",
+    "publishDate": "2025-03-04T09:44:15.921Z",
+    "title": "联想：AI服务器首次实现低于1TB本地部署DeepSeek满血大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 11:24:53",
+    "uuid": "10c06bef-99f2-424c-aab8-5ad1eacb07b2"
   },
   {
     "newsArray": [
