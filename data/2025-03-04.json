@@ -1,6 +1,116 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OPPO宣布与谷歌合作，利用谷歌的Confidential Computing软件推出隐私保护方案Private Computing Cloud，旨在保护用户敏感信息不被用于AI训练 ...",
+    "id": "8hSKYl9Rnuc",
+    "order": 1741097768316,
+    "createdAt": "2025-03-04T14:16:09.000Z",
+    "publishDate": "2025-03-04T14:16:08.316Z",
+    "title": "OPPO 将与谷歌合作推动隐私云系统，确保用户敏感信息远离 AI",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 22:16:09",
+    "uuid": "169374aa-806d-4202-945f-fd3935d949f7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "《中国的芬太尼类物质管控》白皮书发布，旨在展示中国在芬太尼类物质管控方面的立场、措施和成效 ...",
+    "id": "8hSPFUFvijQ",
+    "order": 1741097632390,
+    "createdAt": "2025-03-04T14:13:53.000Z",
+    "publishDate": "2025-03-04T14:13:52.390Z",
+    "title": "国家禁毒办就《中国的芬太尼类物质管控》白皮书发表谈话",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 22:13:53",
+    "uuid": "219d4d81-b8bd-433b-b694-f10b82adcb3b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "Odaily" },
+      { "siteName": "Odaily" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "Bybit联合创始人Ben Zhou发布黑客资金执行摘要，被盗资金约14亿美元，50万枚ETH，77%可追溯，20%无法追踪，3%被冻结 ...",
+    "id": "8hRqFHvahOw",
+    "order": 1741097592307,
+    "createdAt": "2025-03-04T14:13:13.000Z",
+    "publishDate": "2025-03-04T14:13:12.307Z",
+    "title": "Bybit CEO：被盗资金中77%仍可追踪、3%已被冻结",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 22:13:13",
+    "uuid": "23e4d1cb-67c6-4065-9df8-5a6213692cc5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧洲主要股指下跌，德国DAX30指数跌超3%，法国CAC40指数和欧洲斯托克50指数跌超2%，英国富时100指数跌近1%。",
+    "id": "8hS0FLO2Y7C",
+    "order": 1741097562993,
+    "createdAt": "2025-03-04T14:12:43.000Z",
+    "publishDate": "2025-03-04T14:12:42.993Z",
+    "title": "欧股持续走低，德国DAX30指数跌超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 22:12:43",
+    "uuid": "d1eb4a3b-3375-43ae-a136-c900df446db2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "爱范儿" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "爱范儿" }
+    ],
+    "summary": "苹果公司推出搭载M3芯片的新款iPad Air和Magic Keyboard，性能较M1芯片提升近2倍，较A14芯片提升3.5倍 ...",
+    "id": "8hSPDT4Xl8y",
+    "order": 1741097532082,
+    "createdAt": "2025-03-04T14:12:13.000Z",
+    "publishDate": "2025-03-04T14:12:12.082Z",
+    "title": "苹果公司推出配备M3芯片和新妙控键盘的iPadAir 599美元起售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 22:12:13",
+    "uuid": "1c56e314-3ffe-4d0d-8b5f-cbed4e11f643"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国家金融监管总局官网披露，北京银行股份有限公司获准通过受让方式增持河北蠡州北银农村商业银行股份有限公司股权至74.4072%，成为绝对控股股东 ...",
+    "id": "8hRvyREcF2B",
+    "order": 1741098059664,
+    "createdAt": "2025-03-04T14:05:02.000Z",
+    "publishDate": "2025-03-04T14:20:59.664Z",
+    "title": "收购两家村镇银行后 北京银行又获准增持河北一农商行至74%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 22:05:02",
+    "uuid": "7d2ca4ca-8b09-4ceb-adac-393073ae2410"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
