@@ -1,6 +1,149 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "商务部对美国相关光纤产品发起我国首起反规避调查，以应对美光纤产品涉嫌规避我国反倾销措施。调查结果将决定是否对美采取反规避措施，以确保贸易救济措施的实施效果。",
+    "id": "8hS84FPXTLM",
+    "order": 1741083237059,
+    "createdAt": "2025-03-04T10:13:58.000Z",
+    "publishDate": "2025-03-04T10:13:57.059Z",
+    "title": "中国对美国发起首例反规避调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 18:13:58",
+    "uuid": "e303967d-4f2f-49e6-a6e1-708b501ae57a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国海关总署因在进口美国大豆中检出麦角和种衣剂大豆，为保护消费者健康和进口粮食安全，根据相关法律法规和国际协定，决定暂停CHS Inc.、LOUIS DREYFUS COMPANY GRAINS MERCHANDISING LLC、EGT， LLC三家涉事企业的大豆输华资质。",
+    "id": "8hS87yKmz6J",
+    "order": 1741083217218,
+    "createdAt": "2025-03-04T10:13:38.000Z",
+    "publishDate": "2025-03-04T10:13:37.218Z",
+    "title": "海关总署：暂停CHS Inc.等3家涉事企业大豆输华资质",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 18:13:38",
+    "uuid": "e204462c-3720-41d1-a939-c1c5f5f834bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "商务部发言人回应对美国进口光纤产品发起反规避调查，表示此举旨在确保贸易救济措施效果，符合世贸组织成员实践 ...",
+    "id": "8hS7nFbRTgt",
+    "order": 1741083115537,
+    "createdAt": "2025-03-04T10:11:56.000Z",
+    "publishDate": "2025-03-04T10:11:55.537Z",
+    "title": "商务部：对原产于美国的进口相关光纤产品发起反规避调查，是中国首例反规避调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 18:11:56",
+    "uuid": "631de0d8-48c4-4e26-8e56-1f948dac0955"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "中国科学院深圳先进技术研究院的刘陈立团队在《细胞》杂志上发表的研究揭示了细菌抗肿瘤的关键原理，为利用细菌治疗恶性实体瘤提供了新思路 ...",
+    "id": "8hRxj3rTxjR",
+    "order": 1741082845303,
+    "createdAt": "2025-03-04T10:07:26.000Z",
+    "publishDate": "2025-03-04T10:07:25.303Z",
+    "title": "我国科学家首次揭示细菌治肿瘤关键原理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 18:07:26",
+    "uuid": "49bb7d50-9705-4edf-be0c-be8b9245e14e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "小红书将于3月推出交易卡功能，允许商家在私信中发送卡片链接，用户点击后可跳转至微信小程序、美团或携程进行交易和服务 ...",
+    "id": "8hRxiHnsbM6",
+    "order": 1741082750138,
+    "createdAt": "2025-03-04T10:05:50.000Z",
+    "publishDate": "2025-03-04T10:05:50.138Z",
+    "title": "小红书全新交易卡功能预计3月全量开放",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 18:05:50",
+    "uuid": "f6dee71c-4cb1-46b1-a4cf-e774979d8236"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "腾讯云在2025届MWC上推出SuperApp解决方案，旨在帮助海外企业构建超级应用。该方案具备小游戏集成和即插即用功能 ...",
+    "id": "8hRyMJlrZMJ",
+    "order": 1741082740236,
+    "createdAt": "2025-03-04T10:05:41.000Z",
+    "publishDate": "2025-03-04T10:05:40.236Z",
+    "title": "腾讯云正式推出SuperApp解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 18:05:41",
+    "uuid": "bc48639f-d885-4dea-a3b6-09f3158aee3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "科创50指数午后涨幅超过2%，芯原股份和华大智造涨停，翱捷科技涨幅超过15%。",
+    "id": "8hRqFgOV4Vp",
+    "order": 1741082734805,
+    "createdAt": "2025-03-04T10:05:34.000Z",
+    "publishDate": "2025-03-04T10:05:34.805Z",
+    "title": "科创50指数午后涨超2%，芯原股份、华大智造领涨成分股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 18:05:34",
+    "uuid": "524ea0f1-3f5d-41e0-b2e0-c2890383dd0c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "美国邮政推出“次日优先送达”服务，覆盖54个市场，提供隔夜送达选项，增强快递市场竞争力。该服务适用于距离区域处理和配送中心150英里范围内的地址，单个包裹重量不超过20磅，主要面向电商企业。",
+    "id": "8hRe5mjV5IJ",
+    "order": 1741082674076,
+    "createdAt": "2025-03-04T10:04:35.000Z",
+    "publishDate": "2025-03-04T10:04:34.076Z",
+    "title": "USPS推出次日优先送达服务，已覆盖美国54城",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 18:04:35",
+    "uuid": "6db8f864-afe9-4582-a2b0-5d920d68810d"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "界面" }
@@ -50,6 +193,24 @@
     "up": false,
     "date": "2025-03-04 17:44:03",
     "uuid": "f138b70b-4d51-4beb-ab6e-d94d39ad9054"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "盘江股份全资子公司盘江（普定）发电有限公司拟投资66.7亿元建设贵州能源普定电厂项目，包括2×660MW高效燃煤发电机组及环保设施 ...",
+    "id": "8hS5wWSlP3Y",
+    "order": 1741083238701,
+    "createdAt": "2025-03-04T09:43:43.000Z",
+    "publishDate": "2025-03-04T10:13:58.701Z",
+    "title": "盘江股份：全资子公司投资66.7亿元建设贵州能源普定电厂项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 17:43:43",
+    "uuid": "ca8bd672-f916-4baf-990e-00b9552a1a7d"
   },
   {
     "newsArray": [
@@ -1832,6 +1993,24 @@
     "up": false,
     "date": "2025-03-04 11:23:03",
     "uuid": "132f6c00-f8cf-4205-912e-877144ceb1b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "山东省生态环境厅副厅长王福栋在新闻发布会上表示，截至2024年，山东省300余家电力企业纳入全国碳市场，企业数量和履约量分别占全国的1/7和1/10，履约率100% ...",
+    "id": "8hRe3RX6r1Q",
+    "order": 1741083149740,
+    "createdAt": "2025-03-04T03:22:50.000Z",
+    "publishDate": "2025-03-04T10:12:29.740Z",
+    "title": "山东：截至2024年碳排放交易量占全国四分之一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 11:22:50",
+    "uuid": "befbe5b7-d0b6-4bc5-9e63-b99c67afa0bb"
   },
   {
     "newsArray": [
