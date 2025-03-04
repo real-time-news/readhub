@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "智谱发布2025年首个支持生成汉字的开源文生图模型CogView4，该模型在DPG-Bench基准测试中综合评分排名第一，达到SOTA水平，也是首个遵循Apache 2.0协议的图像生成模型。",
+    "id": "8hRj3VyW6yF",
+    "order": 1741062101968,
+    "createdAt": "2025-03-04T04:21:42.000Z",
+    "publishDate": "2025-03-04T04:21:41.968Z",
+    "title": "智谱发布首个能生成汉字的开源文生图模型CogView4",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 12:21:42",
+    "uuid": "9c9ac4c1-196f-46e7-bbee-9113b51e2577"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "南京市创投集团宣布，自变量机器人（X Square Robot）完成了Pre-A++轮融资，由光速光合和君联资本主导，北京机器人产业基金和神骐资本支持 ...",
+    "id": "8hRgYAUvcma",
+    "order": 1741061819174,
+    "createdAt": "2025-03-04T04:17:00.000Z",
+    "publishDate": "2025-03-04T04:16:59.174Z",
+    "title": "国产机器人新星自变量机器人Pre-A++轮融资成功，加速具身智能通用大模型研发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 12:17:00",
+    "uuid": "48d2e604-7378-4a95-9844-bfeff4cdfa8e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "康泰生物全资子公司民海生物收到吸附破伤风疫苗Ⅰ/Ⅲ期临床试验总结报告，疫苗显示出良好的安全性和免疫原性，具备申报生产条件。若注册成功，将丰富公司产品线，增强竞争力 ...",
+    "id": "8hQUd7ElQHp",
+    "order": 1741061030922,
+    "createdAt": "2025-03-04T04:03:51.000Z",
+    "publishDate": "2025-03-04T04:03:50.922Z",
+    "title": "康泰生物：取得申报吸附破伤风疫苗生产的必备条件",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 12:03:51",
+    "uuid": "c3f5cee8-5f8a-48cd-9562-668053cedcc9"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" }
@@ -361,6 +414,26 @@
     "up": false,
     "date": "2025-03-04 10:15:33",
     "uuid": "647a7758-f37b-4816-abfa-73ac3e42734e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "日本东证指数下跌1%。",
+    "id": "8hRRC8vfNjx",
+    "order": 1741060984580,
+    "createdAt": "2025-03-04T01:24:19.000Z",
+    "publishDate": "2025-03-04T04:03:04.580Z",
+    "title": "日本东证指数跌幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-04 09:24:19",
+    "uuid": "3929dd1e-3f5d-4383-8093-ff539410432f"
   },
   {
     "newsArray": [
