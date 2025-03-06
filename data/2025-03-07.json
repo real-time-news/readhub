@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美股周四收盘，道指收跌0.99%、标普500指数跌1.78%，纳指跌2.6% ...",
+    "id": "8hWD5M1jDRV",
+    "order": 1741299677832,
+    "createdAt": "2025-03-06T22:21:18.000Z",
+    "publishDate": "2025-03-06T22:21:17.832Z",
+    "title": "纳指大跌2.6% 英伟达创6个月新低",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 06:21:18",
+    "uuid": "9c739380-f49b-436c-b86a-3cf446abec95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国“直觉机器”公司研发的月球着陆器“雅典娜”于美东时间3月6日12时30分左右成功登陆月球。该着陆器于2月26日搭乘“猎鹰9”火箭发射升空，预计在月球南极附近的陨石坑着陆 ...",
+    "id": "8hWFDkAtXQ6",
+    "order": 1741299182496,
+    "createdAt": "2025-03-06T22:13:03.000Z",
+    "publishDate": "2025-03-06T22:13:02.496Z",
+    "title": "美国月球着陆器“雅典娜”登陆月球但未直立",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 06:13:03",
+    "uuid": "399fdbeb-717a-4dea-828f-c3a6d6636cf4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI和甲骨文计划在德克萨斯州阿比林的新数据中心安装数万英伟达AI芯片，以推进其Stargate基础设施项目 ...",
+    "id": "8hW1gRgkjLC",
+    "order": 1741299669017,
+    "createdAt": "2025-03-06T22:12:31.000Z",
+    "publishDate": "2025-03-06T22:21:09.017Z",
+    "title": "OpenAI和甲骨文拟为Stargate的一个数据中心配备数十亿美元英伟达芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 06:12:31",
+    "uuid": "2ab4509c-4ccd-4707-9d0e-f69b60fada83"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
