@@ -1,6 +1,168 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "银河证券研报指出，2025年政府工作报告强调稳定房地产市场，提出多项重点工作方向。预计在政策推动下，楼市将逐步止跌回稳，行业估值有望提升 ...",
+    "id": "8hUlzmtpLcr",
+    "order": 1741221453055,
+    "createdAt": "2025-03-06T00:37:34.000Z",
+    "publishDate": "2025-03-06T00:37:33.055Z",
+    "title": "银河证券：楼市止跌回稳的效果或将逐渐显现，行业估值或将抬升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 08:37:34",
+    "uuid": "508f2704-e9bd-447d-a0a6-654e16be1bdf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "中信建投分析认为，2025年政府工作报告中增长和就业目标与去年持平，CPI目标增速下调，显示出稳健、客观、务实的稳增长政策取向 ...",
+    "id": "8hTikyUcETg",
+    "order": 1741221095428,
+    "createdAt": "2025-03-06T00:25:16.000Z",
+    "publishDate": "2025-03-06T00:31:35.428Z",
+    "title": "中信建投解读政府工作报告：2025年政策要求经济发展更加契合长期规律",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 08:25:16",
+    "uuid": "f594332f-47a9-45f0-b108-38a9fee24abf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国金证券研报预测，2025年城中村改造将推进，刺激购房需求，供给端控制增量有助于维持行业供给低位，供需关系持续改善 ...",
+    "id": "8hUkLCFBtmd",
+    "order": 1741220511155,
+    "createdAt": "2025-03-06T00:21:52.000Z",
+    "publishDate": "2025-03-06T00:21:51.155Z",
+    "title": "国金证券：2025年地产实现“止跌回稳”的目标概率较大",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 08:21:52",
+    "uuid": "5e30b4ca-bb77-41f3-9cc1-0f9d94299487"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "狮腾控股与盟拓数字科技达成合作，共同开发推出名为Geene的AI平台，该平台融合了生成式AI、区块链和大数据技术，旨在构建一个安全、高效、可信赖的AI生态系统 ...",
+    "id": "8hUkOlng79c",
+    "order": 1741220702455,
+    "createdAt": "2025-03-06T00:13:41.000Z",
+    "publishDate": "2025-03-06T00:25:02.455Z",
+    "title": "狮腾控股：推出融合DeepSeek等AI模型与区块链技术的开创性AI平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 08:13:41",
+    "uuid": "a2dfad8c-9406-45c2-9b56-a79b70633773"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "OpenAI计划推出三种不同级别的AI智能体服务，包括面向高收入知识工作者的入门级服务、针对软件开发领域的专业级服务，以及具备博士水平研究能力的博士级研究智能体，月费分别为2000美元、1万美元和2万美元 ...",
+    "id": "8hUdwRe2Z0J",
+    "order": 1741220156722,
+    "createdAt": "2025-03-06T00:11:24.000Z",
+    "publishDate": "2025-03-06T00:15:56.722Z",
+    "title": "OpenAI计划推博士级智能体 每月收费2万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 08:11:24",
+    "uuid": "e175925f-e41f-401a-9535-e650e21b4573"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "自动驾驶技术开发商Avride与现代汽车公司签署谅解备忘录，合作开发和运营全自动驾驶车辆 ...",
+    "id": "8hTzrgrcNNf",
+    "order": 1741219630488,
+    "createdAt": "2025-03-06T00:07:11.000Z",
+    "publishDate": "2025-03-06T00:07:10.488Z",
+    "title": "Avride与现代汽车公司就自动驾驶汽车签署合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 08:07:11",
+    "uuid": "017e01f0-abb9-4962-bd72-706d6b195e1f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "全国两会期间，智能网联汽车和新能源汽车成为热议话题。我国在智能网联汽车技术领域取得显著进展，产业布局初步形成，但仍需加强产业链协同创新 ...",
+    "id": "8hT7ZegobUq",
+    "order": 1741219427795,
+    "createdAt": "2025-03-06T00:03:48.000Z",
+    "publishDate": "2025-03-06T00:03:47.795Z",
+    "title": "加速生态融合 助力建设世界级智能网联汽车产业集群",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 08:03:48",
+    "uuid": "27b8e6fc-376e-4811-9324-1c571d253fb9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英特尔在2025年世界移动通信大会上发布了商用AI PC产品，搭载酷睿Ultra系列处理器。其中部分产品将于3月底出货，vPro Fleet Services预览阶段，即将正式启用。",
+    "id": "8hUDTZybShy",
+    "order": 1741218947417,
+    "createdAt": "2025-03-05T23:55:48.000Z",
+    "publishDate": "2025-03-05T23:55:47.417Z",
+    "title": "英特尔发布商用AI PC产品 将于3月底出货",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 07:55:48",
+    "uuid": "aca5bed9-55c5-4b8b-8cd9-e95e0d6f1f81"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "前谷歌CEO埃里克·施密特、Scale AI公司CEO亚历山大·王和人工智能安全中心主任丹·亨德里克斯在一份名为《超级智能战略》的政策文件中警告，美国不应以“曼哈顿计划”的方式推动开发具有“超人”智能的通用人工智能（AGI） ...",
+    "id": "8hUdCbysbjL",
+    "order": 1741218923578,
+    "createdAt": "2025-03-05T23:42:10.000Z",
+    "publishDate": "2025-03-05T23:55:23.578Z",
+    "title": "前谷歌CEO反对开展“通用人工智能曼哈顿计划”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 07:42:10",
+    "uuid": "799e92b9-acb5-4155-8e44-6e84e7d2325b"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -15,6 +177,26 @@
     "up": false,
     "date": "2025-03-06 07:37:59",
     "uuid": "855d21a8-1dda-4cde-ad69-10e96d16ca5e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "截至3月5日，124家险企披露了2024年个人短期健康险综合赔付率，中位数约为38.20%。其中，65家险企赔付率同比上升，占比约52.4%，59家险企赔付率同比下降 ...",
+    "id": "8hUduVGz17w",
+    "order": 1741219908141,
+    "createdAt": "2025-03-05T23:31:27.000Z",
+    "publishDate": "2025-03-06T00:11:48.141Z",
+    "title": "124家险企去年个人短期健康险赔付率中位数约38.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 07:31:27",
+    "uuid": "8f59bff6-d44a-4d47-8a85-198186d20908"
   },
   {
     "newsArray": [
