@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" },
+      { "siteName": "DoNews" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "苹果公司申请注册“视控ID”商标，涉及网站服务和科学仪器类别，目前状态为待实质审查。视控ID是苹果为Vision Pro设备开发的生物识别技术，通过虹膜识别实现安全认证，类似于触控ID和面容ID。",
+    "id": "8hVCA8qDBsG",
+    "order": 1741243785193,
+    "createdAt": "2025-03-06T06:49:46.000Z",
+    "publishDate": "2025-03-06T06:49:45.193Z",
+    "title": "苹果公司申请注册视控ID商标",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 14:49:46",
+    "uuid": "90fd7a41-756c-4637-990f-70a50259d38f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "华为技术有限公司近期公布了一项应用于脑机接口（BCI）技术的专利，该技术涉及获取脑组织信号和反馈信号根据，并反馈信号处理第一信号 ...",
+    "id": "8hVCD4rd9KE",
+    "order": 1741244009751,
+    "createdAt": "2025-03-06T06:41:58.000Z",
+    "publishDate": "2025-03-06T06:53:29.751Z",
+    "title": "华为公布脑机接口信号处理专利",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-06 14:41:58",
+    "uuid": "542b7688-e8eb-4429-a85e-28d17f3a909d"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
       { "siteName": "IT 之家" },
