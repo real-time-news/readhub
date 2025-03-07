@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "欧洲时尚电商Zalando发布2024年财务业绩，营收增长4.2%至106亿欧元，商品交易总额增长4.5%至153亿欧元，净利润同比增长200%至2.5亿欧元。",
+    "id": "8hWfe2Zf4mS",
+    "order": 1741336583804,
+    "createdAt": "2025-03-07T08:36:25.000Z",
+    "publishDate": "2025-03-07T08:36:23.804Z",
+    "title": "Zalando 24年营收106亿欧元，同比增长4.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 16:36:25",
+    "uuid": "c8d8f9eb-4e0b-4198-93e7-04b6bf339d69"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "微信官方近期对微短剧类小程序进行了整治，下架了一批内容违规的剧目并对违规小程序进行了处理。平台强调将加强内容审核，维护网络环境清朗，为用户提供健康积极的内容。",
+    "id": "8hWxvt5x1qu",
+    "order": 1741336492770,
+    "createdAt": "2025-03-07T08:34:53.000Z",
+    "publishDate": "2025-03-07T08:34:52.770Z",
+    "title": "微信严打违规短剧，9部剧目下架，侵权小程序同受惩处",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 16:34:53",
+    "uuid": "96b80516-d4c7-4ada-8736-2e6cf868ae23"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "电商报" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美团启动新一轮健康关怀行动，为在职女骑手免费提供一年期“女性重疾险”，并计划通过标注订单重量、完善夜间配送安全等措施优化产品功能，提供更多便利和安全保障。",
+    "id": "8hWvR8DCKM9",
+    "order": 1741336424118,
+    "createdAt": "2025-03-07T08:33:45.000Z",
+    "publishDate": "2025-03-07T08:33:44.118Z",
+    "title": "美团将为女骑手免费提供“女性重疾险”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 16:33:45",
+    "uuid": "f646402f-053e-4a03-bf2f-a29e2b2dfbd8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "美国风险投资公司安德森·霍洛维茨（a16z）的报告指出，OpenAI的ChatGPT在2024年下半年恢复了强劲增长，用户数从2023年11月的每周1亿增长至2024年8月的2亿，再翻倍至2024年12月的3亿，并在2025年2月达到4亿 ...",
+    "id": "8hWbMnmd3Hb",
+    "order": 1741335909034,
+    "createdAt": "2025-03-07T08:25:10.000Z",
+    "publishDate": "2025-03-07T08:25:09.034Z",
+    "title": "受惠新模型发布，ChatGPT 周活跃用户数不到半年实现翻倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 16:25:10",
+    "uuid": "103197e9-3cfc-4a74-8a05-60e7781b1bf5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Mistral推出的OCR API，Mistral OCR，能够精确提取多种文档中的信息并转化为结构化数据，支持多语言和多模态处理，保留文档格式，提供自托管选项，并与大型语言模型集成，显著提升文档处理的速度和准确性，助力企业数字化转型。",
+    "id": "8hWWNWhiplT",
+    "order": 1741335873509,
+    "createdAt": "2025-03-07T08:24:33.000Z",
+    "publishDate": "2025-03-07T08:24:33.509Z",
+    "title": "Mistral 发布全新 OCR API 全方位解析文档",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 16:24:33",
+    "uuid": "1e468bfc-9578-4896-bd6c-8df9196aa3e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "南网储能2024年业绩快报显示，公司实现营业总收入61.74亿元，同比增长9.67%。净利润11.26亿元，同比增长11.14%，主要得益于调峰水电厂来水增加和发电量提升。",
+    "id": "8hWyDzCYzwF",
+    "order": 1741335999782,
+    "createdAt": "2025-03-07T08:24:02.000Z",
+    "publishDate": "2025-03-07T08:26:39.782Z",
+    "title": "南网储能：2024年归母净利润11.26亿元，同比增加11.14%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 16:24:02",
+    "uuid": "7475d021-6870-41d1-ae14-d54f244e38b5"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "36Kr" },
       { "siteName": "DoNews" }
@@ -32,6 +136,25 @@
     "up": false,
     "date": "2025-03-07 16:16:31",
     "uuid": "35e5f869-5f89-4067-9f1d-fe3ce5e3e716"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国家外汇局数据显示，2025年2月末我国外汇储备规模为32272亿美元，较1月末上升182亿美元，升幅0.57% ...",
+    "id": "8hWyE4JLL6H",
+    "order": 1741336040795,
+    "createdAt": "2025-03-07T08:14:36.000Z",
+    "publishDate": "2025-03-07T08:27:20.795Z",
+    "title": "国家外汇局：汇率折算和资产价格变化等因素综合作用 2月外汇储备规模上升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 16:14:36",
+    "uuid": "e6c7791f-1cd4-4e09-9657-d62731987948"
   },
   {
     "newsArray": [
@@ -206,6 +329,24 @@
     "up": false,
     "date": "2025-03-07 15:43:35",
     "uuid": "5916ece3-39c8-4543-b3c8-bcc72e9de0a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "印度尼西亚工业部发言人宣布，印尼已为苹果产品包括iPhone 16颁发本地含量证书，但苹果需提交行政文件并完成进一步程序后才能销售这些手机 ...",
+    "id": "8hWvO0ppAKR",
+    "order": 1741335999000,
+    "createdAt": "2025-03-07T07:42:31.000Z",
+    "publishDate": "2025-03-07T08:26:39.000Z",
+    "title": "印尼为包括iPhone 16在内的苹果产品颁发本地含量证书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 15:42:31",
+    "uuid": "fea35ed6-2ea6-497f-be46-8e46ba255b2e"
   },
   {
     "newsArray": [
