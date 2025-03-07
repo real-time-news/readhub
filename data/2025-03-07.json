@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "微软正在开发自己的人工智能推理模型，以对抗OpenAI，并考虑向开发者出售。公司已开始测试XAI、Meta和DeepSeek的模型，作为Copilot中OpenAI的潜在替代品。",
+    "id": "8hXNw7Xl3I0",
+    "order": 1741356830543,
+    "createdAt": "2025-03-07T14:13:52.000Z",
+    "publishDate": "2025-03-07T14:13:50.543Z",
+    "title": "微软正在开发内部人工智能推理模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 22:13:52",
+    "uuid": "2324909b-1d78-4208-ab74-591a2cde3b40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "佩蒂股份表示，美国关税政策变化未对客户订单产生明显影响，东南亚工厂已能承接美国客户订单 ...",
+    "id": "8hXNGZgWQ2e",
+    "order": 1741356746671,
+    "createdAt": "2025-03-07T14:12:28.000Z",
+    "publishDate": "2025-03-07T14:12:26.671Z",
+    "title": "佩蒂股份：美国关税政策变化对客户订单没有产生明显影响",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-07 22:12:28",
+    "uuid": "ee234cce-f327-43e5-b4fb-30d7479dadcd"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "新浪科技" },
