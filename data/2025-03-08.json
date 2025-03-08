@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "美光与Astera Labs合作展示了全球首款PCIe 6.0固态硬盘，读取速度达到27.14 GB/s，远超PCIe 5.0硬盘 ...",
+    "id": "8hWace4TdMs",
+    "order": 1741447070252,
+    "createdAt": "2025-03-08T15:17:50.000Z",
+    "publishDate": "2025-03-08T15:17:50.252Z",
+    "title": "美光PCIe 6.0固态硬盘读速破27GB/s，刷新业界纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-08 23:17:50",
+    "uuid": "7e2d35f7-2e63-4181-a258-d75ce5ccdb79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果计划在明年量产支持毫米波技术的升级版C1基带芯片，以补齐通信技术短板。该芯片将注重性能、成本和功耗的平衡，预计2026年首次搭载于iPhone 17e和18系列 ...",
+    "id": "8hWa0hieKt0",
+    "order": 1741447036404,
+    "createdAt": "2025-03-08T15:17:17.000Z",
+    "publishDate": "2025-03-08T15:17:16.404Z",
+    "title": "苹果自研基带升级版将量产：iPhone 17e/18或率先搭载，挑战高通地位",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-08 23:17:17",
+    "uuid": "01fafd80-8fea-409e-93f4-3497e7ff18a5"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "钛媒体" },
       { "siteName": "华尔街见闻" },
