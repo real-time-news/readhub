@@ -1,6 +1,151 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "阿里云通义灵码中标建信金融科技智能编码助手项目，击败京东科技和北京智谱华章科技。这标志着阿里云AI代码工具通过了全球领先金融机构的严格检验。",
+    "id": "8hbXx0IVlOv",
+    "order": 1741574228582,
+    "createdAt": "2025-03-10T02:37:09.000Z",
+    "publishDate": "2025-03-10T02:37:08.582Z",
+    "title": "阿里云独家中标中国建设银行智能编码项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:37:09",
+    "uuid": "f8381961-cb3f-4bcb-81c5-73acd329ca85"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "美国贸易代表办公室计划于3月11日举行听证会，讨论对中国制造的传统芯片加征关税。美国商务部指出，美国产品中有三分之二使用中国传统芯片，而一半的美国公司不了解芯片来源 ...",
+    "id": "8hbQTIPpV8t",
+    "order": 1741574171558,
+    "createdAt": "2025-03-10T02:36:12.000Z",
+    "publishDate": "2025-03-10T02:36:11.558Z",
+    "title": "美国欲对中国成熟制程芯片加征关税引热议：欧美企业感叹自作孽",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:36:12",
+    "uuid": "b652be4d-e721-4ef5-a6e5-6e411ce096df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美的集团实施新的加班控制政策，18要求点20分后员工不得加班，以优化工作生活平衡。此前，集团董事长方洪波已发布文件简化工作方式，减少职场表演式工作，提高效率 ...",
+    "id": "8hbRWFInTRw",
+    "order": 1741574157353,
+    "createdAt": "2025-03-10T02:35:58.000Z",
+    "publishDate": "2025-03-10T02:35:57.353Z",
+    "title": "美的被曝强制18点20下班：禁止员工返回工位继续工作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:35:58",
+    "uuid": "c6d6b1d3-7930-40b6-b2bc-e7000979ebc3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华为沈阳总经理朱新志与国家机器人创新中心总经理孙海涛就具身智能大模型与机器人技术融合、共建具身智能公共服务平台等议题进行了深入交流，双方探讨了合作的可能性 ...",
+    "id": "8hahkcGZOaG",
+    "order": 1741574083701,
+    "createdAt": "2025-03-10T02:34:44.000Z",
+    "publishDate": "2025-03-10T02:34:43.701Z",
+    "title": "国家机器人创新中心与华为开展具身智能领域合作交流",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:34:44",
+    "uuid": "fb528a04-bd90-4253-aca9-72114f767abc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "PingPong宣布与Best Buy加拿大达成合作，成为其官方跨境支付服务商，允许加拿大站点卖家通过PingPong进行跨境收款。",
+    "id": "8hbWX4NoRSb",
+    "order": 1741573932158,
+    "createdAt": "2025-03-10T02:32:13.000Z",
+    "publishDate": "2025-03-10T02:32:12.158Z",
+    "title": "PingPong成为百思买加拿大跨境支付服务商",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:32:13",
+    "uuid": "0989f700-39cc-4559-bf77-ef6374e69fe8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微信正在灰度测试朋友圈视频功能，允许用户直接发布最长5分钟的视频，而不再弹出30秒剪辑框。用户可以选择手机相册中的视频或直接拍摄超过30秒的视频发布 ...",
+    "id": "8haZsonSgCL",
+    "order": 1741573887633,
+    "createdAt": "2025-03-10T02:31:27.000Z",
+    "publishDate": "2025-03-10T02:31:27.633Z",
+    "title": "微信灰度测试：朋友圈可发最长 5 分钟视频",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:31:27",
+    "uuid": "cb3a955a-7a63-41f4-9bc9-c8d675809aea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2025年2月，北京居民消费价格环比下降0.6%，同比下降1.3%。食品价格上涨0.3%，非食品价格下降0.8%。消费品价格上涨0.3%，服务价格下降1.6% ...",
+    "id": "8hbXuIsro0d",
+    "order": 1741573517116,
+    "createdAt": "2025-03-10T02:24:10.000Z",
+    "publishDate": "2025-03-10T02:25:17.116Z",
+    "title": "2月份北京居民消费价格环比下降0.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:24:10",
+    "uuid": "618539be-83af-4262-8adf-ff734291a1f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "游族网络通过授权获得《三体》游戏改编权，对其他改编情况表示不知情。",
+    "id": "8hbWVwjYneI",
+    "order": 1741573403486,
+    "createdAt": "2025-03-10T02:23:23.000Z",
+    "publishDate": "2025-03-10T02:23:23.486Z",
+    "title": "游族网络：公司通过授权获得《三体》游戏的改编权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:23:23",
+    "uuid": "b096bf95-a63d-4e22-addd-0fb493b050dd"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "证券时报网" },
       { "siteName": "证券时报网" }
@@ -32,6 +177,42 @@
     "up": false,
     "date": "2025-03-10 10:07:53",
     "uuid": "b721464d-062d-4c13-8451-85588b41c917"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "茂莱光学股价上涨超10%，美埃科技涨超6%，波长光电、大族激光、永新光学、张江高科等跟涨。中信证券认为，国内对光刻机产业链投资加大，国产高端光刻机发展将获推动，半导体设备产业链有望受益。",
+    "id": "8hbWVFRjSnU",
+    "order": 1741573502253,
+    "createdAt": "2025-03-10T02:06:54.000Z",
+    "publishDate": "2025-03-10T02:25:02.253Z",
+    "title": "光刻机概念股逆势活跃，茂莱光学涨超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:06:54",
+    "uuid": "f38dce15-c71a-438f-8b5c-2bd1e797f995"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "培育钻石概念股大幅上涨，黄河旋风涨停，国机精工涨停，惠丰钻石涨超10%，力量钻石、四方达等跟涨。",
+    "id": "8hbWVIPNvxH",
+    "order": 1741573503105,
+    "createdAt": "2025-03-10T02:06:44.000Z",
+    "publishDate": "2025-03-10T02:25:03.105Z",
+    "title": "培育钻石概念股大幅走高，黄河旋风拉升封板",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 10:06:44",
+    "uuid": "81056b88-efa4-40d8-a590-9be29f0fc30a"
   },
   {
     "newsArray": [
