@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "摩根士丹利分析师Michael Wilson警告，由于关税和财政支出减少可能影响企业收益，美国股市可能再跌5% ...",
+    "id": "8hc1vKnIy2f",
+    "order": 1741598515492,
+    "createdAt": "2025-03-10T09:21:56.000Z",
+    "publishDate": "2025-03-10T09:21:55.492Z",
+    "title": "大摩警告：标普500指数可能会因增长风险而下跌5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 17:21:56",
+    "uuid": "7d36de26-b178-4cff-bd91-0045052c3582"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "鸿海推出首个大语言模型FoxBrain，基于Meta的Llama 3.1架构，优化繁体中文及本土语言风格，具备推理能力。主要用于内部数据分析、决策辅助等场景，性能接近全球顶尖水准。",
+    "id": "8hbwEv6AqBq",
+    "order": 1741598194245,
+    "createdAt": "2025-03-10T09:16:34.000Z",
+    "publishDate": "2025-03-10T09:16:34.245Z",
+    "title": "鸿海首个大语言模型 FoxBrain 发布，具备推理能力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 17:16:34",
+    "uuid": "a33d6034-b303-462c-8f47-f87ddbf1d72e"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "财联社" },
