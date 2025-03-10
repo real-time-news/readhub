@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "特斯拉股价大跌，跌至244.95美元/股，跌幅近7%，较历史最高价减半。",
+    "id": "8hcLz2y04PL",
+    "order": 1741615436764,
+    "createdAt": "2025-03-10T14:03:57.000Z",
+    "publishDate": "2025-03-10T14:03:56.764Z",
+    "title": "特斯拉股价较历史最高价“腰斩”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 22:03:57",
+    "uuid": "589ed2cd-0387-4e24-adfa-e4f378434291"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美股大型科技股盘前普遍下跌，特斯拉和Arm跌幅超过3%，英伟达、亚马逊、谷歌和Meta跌幅超过2%，苹果、微软和奈飞跌幅超过1%。",
+    "id": "8hcGnIed8ke",
+    "order": 1741615405295,
+    "createdAt": "2025-03-10T14:03:26.000Z",
+    "publishDate": "2025-03-10T14:03:25.295Z",
+    "title": "美股大型科技股盘前普跌，特斯拉跌超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-10 22:03:26",
+    "uuid": "8296ebee-0f35-4388-afe1-232e5f514992"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" }
