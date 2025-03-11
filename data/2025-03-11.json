@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "IBM获得了一项4D打印专利，该技术使用智能材料运输微粒。这些材料可以是形状记忆合金或对外部力量如温度、光、磁性或电流做出反应的聚合物 ...",
+    "id": "8he07RLuYSQ",
+    "order": 1741702595960,
+    "createdAt": "2025-03-11T14:16:36.000Z",
+    "publishDate": "2025-03-11T14:16:35.960Z",
+    "title": "IBM 获得 4D 打印专利",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 22:16:36",
+    "uuid": "a899c4db-6bce-4574-8afb-7bb371e398b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日本政府养老金投资基金（GPIF）决定2025财年及以后不增加股票投资比例，将维持国内股票、外国股票、国内债券和外国债券各占25%的投资组合结构。",
+    "id": "8hdvs4HG1fn",
+    "order": 1741701819761,
+    "createdAt": "2025-03-11T14:03:40.000Z",
+    "publishDate": "2025-03-11T14:03:39.761Z",
+    "title": "日本GPIF据悉决定不提高投资组合中的股票比率",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 22:03:40",
+    "uuid": "b4fb8166-efe1-4aba-ab14-0edccc189062"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子宣布其第四代4纳米工艺（SF4X）已开始量产，专注于人工智能等高性能计算领域，有望助力三星代工业务复苏 ...",
+    "id": "8hdsyYSJrBJ",
+    "order": 1741701793792,
+    "createdAt": "2025-03-11T14:03:14.000Z",
+    "publishDate": "2025-03-11T14:03:13.792Z",
+    "title": "三星已于去年底量产第四代 4 纳米芯片，全力追赶台积电",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 22:03:14",
+    "uuid": "48e3a8d9-6f14-4fc6-8b65-3fed233fec6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "巨力索具（002342）沙特分公司与Saudi Binladin Group签订了价值约1.15亿元人民币的沙特法赫德国王体育场分包合同，占公司2023年度营业收入的4.94% ...",
+    "id": "8hdg7pzbsZz",
+    "order": 1741701731417,
+    "createdAt": "2025-03-11T14:02:12.000Z",
+    "publishDate": "2025-03-11T14:02:11.417Z",
+    "title": "巨力索具首获沙特国家级标杆项目 合同金额超亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 22:02:12",
+    "uuid": "3a6518ab-b07a-4385-8314-a65ab06e2de3"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "第一财经" },
       { "siteName": "界面" },
@@ -1181,6 +1249,24 @@
     "up": false,
     "date": "2025-03-11 17:46:34",
     "uuid": "9a4deb72-10c1-43d6-ace1-36f3a06193a8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "中华网" },
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "近期，美的集团和大疆等企业开始推行“反内卷”政策，严格控制加班时间，要求员工按时下班，以减轻员工工作压力并提高工作效率 ...",
+    "id": "8hc0ZayZAff",
+    "order": 1741701760360,
+    "createdAt": "2025-03-11T09:45:43.000Z",
+    "publishDate": "2025-03-11T14:02:40.360Z",
+    "title": "反内卷”浪潮席卷企业 美的、大疆等巨头推行“强制下班",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 17:45:43",
+    "uuid": "a4fbc74a-19b4-4bb1-aa33-e5e27d7c0a80"
   },
   {
     "newsArray": [
@@ -4005,6 +4091,25 @@
     "up": false,
     "date": "2025-03-11 09:49:27",
     "uuid": "1de069a3-3fb9-4ba9-bcb6-47e6967313a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "亚信科技控股有限公司公布2024年全年业绩，净利润约为人民币5.16亿元，净利润率增长至7.8%。营业收入约为人民币66.46亿元，其中三新业务收入占比达39.1% ...",
+    "id": "8hcSQIPu3PA",
+    "order": 1741701778440,
+    "createdAt": "2025-03-11T01:48:34.000Z",
+    "publishDate": "2025-03-11T14:02:58.440Z",
+    "title": "亚信科技公布2024全年业绩：数智运营企稳回升 大模型交付业务起势",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 09:48:34",
+    "uuid": "d7a7ea17-9076-48ee-a950-38bb28d50051"
   },
   {
     "newsArray": [
