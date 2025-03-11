@@ -1,6 +1,165 @@
 [
   {
     "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "阿里巴巴于2025年3月7日以123.49万美元回购7.06万股。",
+    "id": "8hc8M1gP4HG",
+    "order": 1741658868410,
+    "createdAt": "2025-03-11T02:07:49.000Z",
+    "publishDate": "2025-03-11T02:07:48.410Z",
+    "title": "阿里巴巴3月7日斥资123.49万美元回购7.06万股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 10:07:49",
+    "uuid": "7d19aa47-8e48-44d2-94c8-1a1b25aeceed"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "电商报" },
+      { "siteName": "199IT" }
+    ],
+    "summary": "亚马逊云科技宣布DeepSeek-R1作为完全托管的无服务器大语言模型在Amazon Bedrock上正式可用，成为首个推出该模型作为完全托管服务的云服务提供商 ...",
+    "id": "8hdAJhtsoyU",
+    "order": 1741658843558,
+    "createdAt": "2025-03-11T02:07:24.000Z",
+    "publishDate": "2025-03-11T02:07:23.558Z",
+    "title": "亚马逊云科技宣布提供完全托管的DeepSeek-R1模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 10:07:24",
+    "uuid": "f03dceea-3eec-4c33-bcd6-735188b66ad3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "随着AI技术的发展，ASIC芯片因其低成本和高效率在AI推理领域逐渐占据优势，挑战了英伟达在AI算力领域的统治地位 ...",
+    "id": "8hd3WQwcQoW",
+    "order": 1741658831855,
+    "createdAt": "2025-03-11T02:07:13.000Z",
+    "publishDate": "2025-03-11T02:07:11.855Z",
+    "title": "DeepSeek掀起算力革命，英伟达挑战加剧，ASIC芯片悄然崛起",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 10:07:13",
+    "uuid": "4dacdab5-8a46-467b-87ba-2f85a7733a1a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果公司计划推出史上最激进的软件界面革新，代号“Luck”和“Cheer”，旨在统一iPhone、iPad和Mac的操作体验 ...",
+    "id": "8hcwPodIITJ",
+    "order": 1741658748997,
+    "createdAt": "2025-03-11T02:05:48.000Z",
+    "publishDate": "2025-03-11T02:05:48.997Z",
+    "title": "彭博：苹果三端系统酝酿革命性变革，或将在WWDC亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 10:05:48",
+    "uuid": "11d789d1-7d38-4473-98ca-085e4635c930"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "LG电子宣布将于3月18日起在韩国及全球市场推出新款OLED和QNED电视，主打用户友好型AI和更强图质 ...",
+    "id": "8hd9etnBiWY",
+    "order": 1741658728525,
+    "createdAt": "2025-03-11T02:05:29.000Z",
+    "publishDate": "2025-03-11T02:05:28.525Z",
+    "title": "LG 电子发布 2025 款 OLED 及 QNED 电视新品，3 月 18 日起逐步上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 10:05:29",
+    "uuid": "ef9d41aa-7f52-48ef-9094-f03d80a5f23c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "华为组建医疗卫生军团，推动AI辅助诊断和医疗大模型应用，相关医疗股如塞力医疗、东软集团等表现活跃。",
+    "id": "8hdA5RJYL4f",
+    "order": 1741657911858,
+    "createdAt": "2025-03-11T01:51:52.000Z",
+    "publishDate": "2025-03-11T01:51:51.858Z",
+    "title": "AI医疗概念局部回暖 塞力医疗2连板",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 09:51:52",
+    "uuid": "929ebec1-646c-4f72-a0da-113241443c19"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "PCB概念股出现震荡拉升，逸豪新材涨幅超过10%，多家公司如则成电子、胜宏科技等涨幅超过5%，东山精密、兴森科技等跟涨。",
+    "id": "8hdA16jthbj",
+    "order": 1741657766924,
+    "createdAt": "2025-03-11T01:49:27.000Z",
+    "publishDate": "2025-03-11T01:49:26.924Z",
+    "title": "PCB概念股震荡拉升，逸豪新材涨超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 09:49:27",
+    "uuid": "1de069a3-3fb9-4ba9-bcb6-47e6967313a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "抖音电商发布的《萌宠“剁手”清单》显示，2024年宠物商家直播数量和动销直播场次大幅增长，宠物商品货架GMV和搜索GMV也显著提升 ...",
+    "id": "8hbvpi6p5Tm",
+    "order": 1741657536244,
+    "createdAt": "2025-03-11T01:45:36.000Z",
+    "publishDate": "2025-03-11T01:45:36.244Z",
+    "title": "抖音电商：过去一年宠物相关商品货架GMV同比增长78%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 09:45:36",
+    "uuid": "734f7346-6276-4cc8-a38c-7634b4e55e3f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "禾赛科技2024年第四季度营收7.2亿元，全年营收20.8亿元，实现盈利和正现金流。第四季度激光雷达交付量同比增长153.1%，全年交付量同比增长126.0% ...",
+    "id": "8hd5iwnFMK9",
+    "order": 1741657496497,
+    "createdAt": "2025-03-11T01:44:56.000Z",
+    "publishDate": "2025-03-11T01:44:56.497Z",
+    "title": "禾赛科技：2024年实现全年盈利，预计2025年交付量翻2-3倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 09:44:56",
+    "uuid": "998f7d62-79e1-4c0f-b80f-d903d3a9534a"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
