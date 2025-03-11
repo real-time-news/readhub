@@ -2,6 +2,40 @@
   {
     "newsArray": [
       { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "金自天正股票因连续涨停发布异常波动公告，公司澄清目前业务不涉及人形机器人，仅涉及少量工业作业机器人。公司在精炼炉电极调节控制领域使用人工神经网络算法，但暂不能应用于其他领域。",
+    "id": "8hdqrZq8N0Y",
+    "order": 1741693771435,
+    "createdAt": "2025-03-11T11:49:31.000Z",
+    "publishDate": "2025-03-11T11:49:31.435Z",
+    "title": "两连板金自天正：目前业务不涉及人形机器人，仅涉及少量工业作业机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 19:49:31",
+    "uuid": "ed8ac3a6-8236-4f16-8973-d19a67dc56f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "Meta正在测试其首款自主研发的AI训练芯片，旨在减少对外部供应商的依赖。这款专用加速器芯片更节能，已开始小规模部署，并计划在测试成功后扩大生产 ...",
+    "id": "8hdnHMOqqVR",
+    "order": 1741693652874,
+    "createdAt": "2025-03-11T11:47:33.000Z",
+    "publishDate": "2025-03-11T11:47:32.874Z",
+    "title": "Meta开始测试首颗自研AI训练芯片 降低对英伟达依赖",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-11 19:47:33",
+    "uuid": "dc19e854-b242-4389-8eed-6b29c8ee2d35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
     ],
