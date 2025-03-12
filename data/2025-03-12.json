@@ -2,6 +2,112 @@
   {
     "newsArray": [
       { "siteName": "第一财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "鸿蒙智行宣布，智界R7上市5个多月，累计大定订单超过8万台。",
+    "id": "8hfBjf8CMsz",
+    "order": 1741763560768,
+    "createdAt": "2025-03-12T07:12:40.000Z",
+    "publishDate": "2025-03-12T07:12:40.768Z",
+    "title": "鸿蒙智行：智界R7累计大定突破8万台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 15:12:40",
+    "uuid": "faf38ccd-1469-4a08-8358-8b6365503511"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "Dataiku公司的一项调查显示，500多名来自英美等国家的CEO对AI的发展感到担忧。74%的CEO担心若无法通过AI获得商业收益，他们可能失去职位 ...",
+    "id": "8hezZJmAnfK",
+    "order": 1741763333062,
+    "createdAt": "2025-03-12T07:08:53.000Z",
+    "publishDate": "2025-03-12T07:08:53.062Z",
+    "title": "调查：超七成CEO担忧AI发展或影响自身职位安全",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 15:08:53",
+    "uuid": "3cdc6673-a652-4de6-b6fd-cce824621b2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财经网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "湛江腾势汽车销售有限公司成立，法定代表人为杨帆，注册资本100万元，由比亚迪旗下腾势汽车销售服务有限公司全资持股，业务涵盖汽车销售、维修、二手车经纪、充电桩销售等。",
+    "id": "8hegIdwQiC6",
+    "order": 1741763269126,
+    "createdAt": "2025-03-12T07:07:50.000Z",
+    "publishDate": "2025-03-12T07:07:49.126Z",
+    "title": "比亚迪腾势在湛江成立汽车销售公司，含二手车经纪业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 15:07:50",
+    "uuid": "c744c947-e50e-42e4-b1b3-2f3f2e76ca79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Adobe Stock服务新增“自定义”AI功能，允许用户直接在平台内进行图片编辑和AI修改。用户可从网站或Adobe Creative Cloud应用中搜索、预览和授权图片 ...",
+    "id": "8heyAm5qEvp",
+    "order": 1741763256386,
+    "createdAt": "2025-03-12T07:07:36.000Z",
+    "publishDate": "2025-03-12T07:07:36.386Z",
+    "title": "Adobe 发布全新 AI 功能，可随时编辑图片",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 15:07:36",
+    "uuid": "d4b300cd-6f1e-468c-8794-6d3306336ded"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "3月12日，10年期国债收益率上升1.75个基点至1.8825%，30年期国债收益率上升2.25个基点至2.0750%。",
+    "id": "8hejr0GWCQL",
+    "order": 1741763200798,
+    "createdAt": "2025-03-12T07:06:41.000Z",
+    "publishDate": "2025-03-12T07:06:40.798Z",
+    "title": "中国银行间长期国债收益率延续升势",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 15:06:41",
+    "uuid": "6a1f1f26-d4ba-4148-b16d-d4d160e118cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "国债期货涨幅扩大，30年期、10年期、5年期和2年期主力合约分别上涨0.51%、0.4%、0.3%和0.11%。",
+    "id": "8hexTxVkzna",
+    "order": 1741763164312,
+    "createdAt": "2025-03-12T07:06:05.000Z",
+    "publishDate": "2025-03-12T07:06:04.312Z",
+    "title": "国债期货涨幅扩大，30年期主力合约涨0.51%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 15:06:05",
+    "uuid": "1040697d-b4e4-4601-a717-d51ec1fdcb1a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "36Kr" }
@@ -673,6 +779,25 @@
     "up": false,
     "date": "2025-03-12 11:56:23",
     "uuid": "27cb3baf-c6a4-4612-be2c-e5a718f4c8c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "早盘收盘，国内期货主力合约涨跌不一。集运欧线领涨超3%，国际铜、沪铜、合成橡胶涨超1.5%，沪铝、沪银、沥青涨超1%。烧碱、原木、豆粕跌幅超1.5%。",
+    "id": "8hem6OEiqXn",
+    "order": 1741763463178,
+    "createdAt": "2025-03-12T03:52:44.000Z",
+    "publishDate": "2025-03-12T07:11:03.178Z",
+    "title": "国内期货主力合约涨跌互现，集运欧线涨超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 11:52:44",
+    "uuid": "2da01f77-1b11-4eac-9822-f15bc7f29c3a"
   },
   {
     "newsArray": [
