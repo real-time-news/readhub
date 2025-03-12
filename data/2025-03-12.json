@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "欧莱雅检测出La Roche-Posay理肤泉品牌Effaclar Duo清痘净肤双重调理乳含有微量苯，已在美国召回所有批次。此次召回仅限于美国和加拿大市场，不涉及中国市场。",
+    "id": "8hfKLfs0pHO",
+    "order": 1741770392406,
+    "createdAt": "2025-03-12T09:06:34.000Z",
+    "publishDate": "2025-03-12T09:06:32.406Z",
+    "title": "知名品牌陷致癌风波，欧莱雅回应不涉及中国市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 17:06:34",
+    "uuid": "7edfc34c-c0b8-4f48-95bf-cb01cd91e6a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "金融界" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "人福医药控股子公司宜昌人福药业收到国家药品监督管理局签发的HW231019片药物临床试验批准通知书。",
+    "id": "8hdeXQT2aqh",
+    "order": 1741770338883,
+    "createdAt": "2025-03-12T09:05:39.000Z",
+    "publishDate": "2025-03-12T09:05:38.883Z",
+    "title": "人福医药：HW231019片获得药物临床试验批准通知书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 17:05:39",
+    "uuid": "b6f61198-cb4a-4d36-bf07-fb0e0099e2a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "丰巢即将推出驿站柜产品，面向乡镇驿站、社区及工厂等多元化场景，旨在通过合作形式引入设备，依托丰巢的云端管理系统实现标准化运营 ...",
+    "id": "8hfCR0FcnBT",
+    "order": 1741769843305,
+    "createdAt": "2025-03-12T08:57:24.000Z",
+    "publishDate": "2025-03-12T08:57:23.305Z",
+    "title": "丰巢将推出驿站柜产品‌ 助力城乡物流服务升级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 16:57:24",
+    "uuid": "2e3ccaa4-1d59-46a6-903d-bcd4ece10f8e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "德国运动品牌彪马股价大跌近25%，创历史最大单日跌幅。公司预计经汇率调整后的季度销售额增长将保持在低个位数百分比，低于去年同期水平。",
+    "id": "8hfJackfrFN",
+    "order": 1741770276708,
+    "createdAt": "2025-03-12T08:57:06.000Z",
+    "publishDate": "2025-03-12T09:04:36.708Z",
+    "title": "德国运动品牌彪马股价大跌近25% 势创历史最大单日跌幅",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 16:57:06",
+    "uuid": "ccd350e4-6d3c-41fd-88d1-0a54bba571dc"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "电商报" },
       { "siteName": "亿邦动力网" }
@@ -446,6 +518,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Anthropic公司CEO达里奥·阿莫代预测，人工智能将在3到6个月内完成90%的编程工作，未来12个月内可能实现几乎所有代码编写 ...",
+    "id": "8hfB1qwahVv",
+    "order": 1741769784459,
+    "createdAt": "2025-03-12T07:32:27.000Z",
+    "publishDate": "2025-03-12T08:56:24.459Z",
+    "title": "Anthropic CEO：AI将在未来3到6个月内完成90%编程工作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 15:32:27",
+    "uuid": "4e17bf4c-ddc0-4c93-9869-66ce19ceae2d"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
@@ -643,6 +732,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "华商基金于3月12日宣布，基于对资本市场的信心和公司管理能力，已使用2000万元固有资金申购旗下4只主动权益类公募基金 ...",
+    "id": "8hf8vWXlhs1",
+    "order": 1741770381278,
+    "createdAt": "2025-03-12T07:06:19.000Z",
+    "publishDate": "2025-03-12T09:06:21.278Z",
+    "title": "华商基金自购旗下主动权益类公募基金2000万元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 15:06:19",
+    "uuid": "9291308e-9c01-4963-ada9-2fe9c68a717b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "华尔街见闻" },
@@ -763,6 +872,23 @@
     "up": false,
     "date": "2025-03-12 14:19:10",
     "uuid": "5eac9c43-6045-4b3d-bf2e-480daa2229c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Fusion Fund完成1.9亿美元第四期基金募资，总管理资金超5亿美元，将继续投资下一代技术和AI解决方案，满足行业效率和可扩展性需求。",
+    "id": "8hf2iBcaq0r",
+    "order": 1741769815944,
+    "createdAt": "2025-03-12T06:18:06.000Z",
+    "publishDate": "2025-03-12T08:56:55.944Z",
+    "title": "Fusion Fund宣布四期基金超募1.9亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 14:18:06",
+    "uuid": "e448dc8e-f58f-4ada-98fd-ba83408b0c7f"
   },
   {
     "newsArray": [
@@ -990,6 +1116,23 @@
     "up": false,
     "date": "2025-03-12 13:41:56",
     "uuid": "22745e7c-a582-43b9-a7e7-ab5395d4f915"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "骆怡航，原字节跳动AI大将、火山引擎AI应用产品线负责人，已离职并加入生数科技担任CEO。骆怡航毕业于清华大学自动化系，拥有超过十年的云计算及AI领域工作经验 ...",
+    "id": "8hevs1A1ric",
+    "order": 1741769833484,
+    "createdAt": "2025-03-12T05:37:18.000Z",
+    "publishDate": "2025-03-12T08:57:13.484Z",
+    "title": "字节跳动火山引擎AI一号位离职：已加盟一清华系公司担任CEO",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 13:37:18",
+    "uuid": "99a4781d-42e5-4a3c-a2a5-e366d6dc43c4"
   },
   {
     "newsArray": [
@@ -1268,6 +1411,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "北京景烁汽车有限公司成立，法定代表人为霍达，注册资本100万人民币，经营范围包括汽车零部件制造、电车制造、新能源汽车换电设施销售等，由广州文远知行科技有限公司全资持股。",
+    "id": "8hetqjaIbwj",
+    "order": 1741769867891,
+    "createdAt": "2025-03-12T04:21:38.000Z",
+    "publishDate": "2025-03-12T08:57:47.891Z",
+    "title": "文远知行在北京成立景烁汽车公司 含多项AI业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 12:21:38",
+    "uuid": "319f04fe-f264-453a-af09-1e837895092c"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "品玩" },
       { "siteName": "IT 之家" }
@@ -1282,6 +1442,35 @@
     "up": false,
     "date": "2025-03-12 12:16:31",
     "uuid": "d709ab4c-3318-42e0-9ca6-6c360b8b2464"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "记者暗访杨铭宇黄焖鸡米饭加盟店发现食品安全问题，包括使用发酸食材、回收剩菜再加工售卖、隔夜牛肉加色素冒充新鲜牛肉等。多家门店招聘时不要求员工提供健康证，存在大量无证上岗情况 ...",
+    "id": "8hew4HfwufV",
+    "order": 1741769905393,
+    "createdAt": "2025-03-12T04:12:39.000Z",
+    "publishDate": "2025-03-12T08:58:25.393Z",
+    "title": "杨铭宇黄焖鸡回应剩菜回收再卖给顾客：正在积极调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 12:12:39",
+    "uuid": "2e1daa87-8cfb-4a44-b4e6-e1d40bff1480"
   },
   {
     "newsArray": [
