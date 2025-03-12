@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美股三大指数表现分化，道指下跌0.2%，纳指和标普500指数分别上涨1.22%和0.49%。科技股普遍上涨，特斯拉和英伟达涨幅超过7%和6%，而苹果下跌超1% ...",
+    "id": "8hg7f754P1E",
+    "order": 1741819910753,
+    "createdAt": "2025-03-12T22:51:51.000Z",
+    "publishDate": "2025-03-12T22:51:50.753Z",
+    "title": "美股三大指数收盘涨跌不一，特斯拉涨超7%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 06:51:51",
+    "uuid": "00445894-1b58-48f7-b917-2c6cef14098d"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
@@ -15,6 +32,24 @@
     "up": false,
     "date": "2025-03-13 06:41:37",
     "uuid": "1be59281-d9f5-4a5d-b0d0-5ddcc15f08cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "谷歌DeepMind推出了两款新型AI模型Gemini Robotics和Gemini Robotics-ER，旨在帮助机器人完成更多现实世界中的任务 ...",
+    "id": "8hfmVkz2TZn",
+    "order": 1741819862423,
+    "createdAt": "2025-03-12T22:12:00.000Z",
+    "publishDate": "2025-03-12T22:51:02.423Z",
+    "title": "谷歌 DeepMind 推出新 AI 模型，机器人未经训练也能执行现实任务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 06:12:00",
+    "uuid": "166f00f3-984d-49fc-b3a9-ff8272bec3a6"
   },
   {
     "newsArray": [
