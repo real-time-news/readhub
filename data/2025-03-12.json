@@ -1,6 +1,185 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国劳工统计局数据显示，2月美国CPI同比上涨2.8%，核心CPI同比上涨3.1%，均低于市场预期，环比分别上涨0.2%和0.2%，均低于预期 ...",
+    "id": "8hfB02PUQJP",
+    "order": 1741783910573,
+    "createdAt": "2025-03-12T12:51:52.000Z",
+    "publishDate": "2025-03-12T12:51:50.573Z",
+    "title": "美国2月CPI同比涨幅超预期回落至2.8%，此前连续四个月反弹",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:51:52",
+    "uuid": "f6d52099-bf99-4630-8694-73e0d417c5e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "金杯电工计划投资约7亿元人民币在捷克建设电磁线生产基地，旨在提升对欧洲及其他海外市场的服务能力，增强品牌知名度和竞争力，推进全球化战略。",
+    "id": "8hfa2AicNoO",
+    "order": 1741783851956,
+    "createdAt": "2025-03-12T12:50:53.000Z",
+    "publishDate": "2025-03-12T12:50:51.956Z",
+    "title": "金杯电工：拟7亿元在捷克投资建设电磁线生产基地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:50:53",
+    "uuid": "8c689d65-319f-4fe8-b51b-39dce24d5cfc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "鸿博股份全资子公司英博数科与百川智能终止原合同合作，因不可抗力因素导致合同无法继续履行 ...",
+    "id": "8hfa1zyPpWx",
+    "order": 1741784087082,
+    "createdAt": "2025-03-12T12:50:36.000Z",
+    "publishDate": "2025-03-12T12:54:47.082Z",
+    "title": "鸿博股份：全资子公司与百川智能解除云服务协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:50:36",
+    "uuid": "08a9c23c-77b5-44c5-afde-915d06b86046"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "蓝思科技计划发行H股并在香港联交所主板上市，以推动全球化战略、提升品牌形象和增强竞争力。相关议案已通过董事会和监事会审议，但细节待定，需股东大会审议及政府监管机构批准。",
+    "id": "8hfa2Cx8dHt",
+    "order": 1741783779310,
+    "createdAt": "2025-03-12T12:49:41.000Z",
+    "publishDate": "2025-03-12T12:49:39.310Z",
+    "title": "蓝思科技：拟发行H股股票并在香港联交所主板挂牌上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:49:41",
+    "uuid": "ca7934ac-b8cd-4484-9c0e-626b297b5847"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国2月CPI年率降至2.8%，为四个月来最低，月率增长0.2%，均低于预期。",
+    "id": "8hfQnkV6bHe",
+    "order": 1741783327192,
+    "createdAt": "2025-03-12T12:42:09.000Z",
+    "publishDate": "2025-03-12T12:42:07.192Z",
+    "title": "美国2月CPI同比2.8%，低于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:42:09",
+    "uuid": "b46ad6db-7d8e-4691-8978-1e3c6b0edb81"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉美股盘前涨幅超过6%。",
+    "id": "8hfLle7TZZd",
+    "order": 1741783384152,
+    "createdAt": "2025-03-12T12:41:52.000Z",
+    "publishDate": "2025-03-12T12:43:04.152Z",
+    "title": "特斯拉美股盘前涨超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:41:52",
+    "uuid": "65a8dfbc-c881-4cdc-8c8e-4ff96c251906"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美股盘前，三大股指期货小幅上涨，纳斯达克100指数期货涨0.4%。英特尔股价上涨约7%，因台积电提议与英伟达、AMD和博通共同投资英特尔晶圆厂 ...",
+    "id": "8hfG67Euk7g",
+    "order": 1741783066009,
+    "createdAt": "2025-03-12T12:37:48.000Z",
+    "publishDate": "2025-03-12T12:37:46.009Z",
+    "title": "美股盘前：三大股指期货小幅上涨，英特尔涨约7%，中概股普跌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:37:48",
+    "uuid": "fe29ed33-935a-40ed-964d-c8d261cb62cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "Odaily" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "Odaily" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国2月季调后CPI月率为0.2%，低于预期的0.3%和前值0.5%。",
+    "id": "8hfZKi6oCSw",
+    "order": 1741782778843,
+    "createdAt": "2025-03-12T12:32:59.000Z",
+    "publishDate": "2025-03-12T12:32:58.843Z",
+    "title": "美国2月季调后CPI月率0.2%，预期0.30%，前值0.50%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:32:59",
+    "uuid": "d9d69858-aa69-47f6-b0fa-822e3b98736c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "思特威公告，国家集成电路基金二期、Brizan Holdings、共青城思智威和马伟剑拟分别减持不超过0.65%、0.83%、1.06%和0.45%的公司股份，减持期为公告后15个交易日起的3个月内。",
+    "id": "8hfYb7HKacD",
+    "order": 1741782782919,
+    "createdAt": "2025-03-12T12:22:47.000Z",
+    "publishDate": "2025-03-12T12:33:02.919Z",
+    "title": "思特威：国家集成电路基金二期等股东拟合计减持不超过2.99%公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:22:47",
+    "uuid": "0892402e-3430-4095-994d-4d3ecb75c04e"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
@@ -52,6 +231,24 @@
     "up": false,
     "date": "2025-03-12 20:07:24",
     "uuid": "4dd2ebb4-11d3-4071-9143-8329b952c6ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "保时捷预计2025财年销售回报率10%至12%，营收390亿至400亿欧元，并将追加8亿欧元投资于研发、软件服务和电池技术 ...",
+    "id": "8hfVjvhk5aw",
+    "order": 1741782663061,
+    "createdAt": "2025-03-12T12:06:32.000Z",
+    "publishDate": "2025-03-12T12:31:03.061Z",
+    "title": "保时捷：追加投资8亿欧元，继续提供纯电、内燃机与混合动力产品组合",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 20:06:32",
+    "uuid": "abbb5cbb-e50b-4f71-837a-c9ba8105d346"
   },
   {
     "newsArray": [
