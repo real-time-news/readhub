@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "OpenAI发布了Agent工具包，旨在简化智能代理应用程序的开发。该工具包包括新的响应API、内置工具（如网络搜索、文件搜索和电脑使用）、代理SDK以及可观测性工具 ...",
+    "id": "8hefbBGe921",
+    "order": 1741754963776,
+    "createdAt": "2025-03-12T04:49:24.000Z",
+    "publishDate": "2025-03-12T04:49:23.776Z",
+    "title": "OpenAl发布Agent工具包：内置网络搜索、文件搜索和电脑使用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-12 12:49:24",
+    "uuid": "ac36f6fe-f6cb-4099-899e-e4d9875a188b"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
