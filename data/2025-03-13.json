@@ -1,6 +1,151 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国家标准化管理委员会发布《互联网金融 个人网络消费信贷 贷后催收风控指引》，这是我国首个针对贷后催收业务的国家级规范，旨在填补规范空白，加强行业自律，提升合规管理，识别违法违规行为，推动行业规范健康发展。",
+    "id": "8hgnn984a17",
+    "order": 1741847074879,
+    "createdAt": "2025-03-13T06:24:35.000Z",
+    "publishDate": "2025-03-13T06:24:34.879Z",
+    "title": "我国首个聚焦贷后催收业务的国家级规范发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 14:24:35",
+    "uuid": "7a64134c-258f-4ce2-8eb5-3fab764a467d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "广发银行董事长白涛因工作变动辞职，中国人寿集团董事长蔡希良将接任。自中国人寿入主广发银行后，其董事长均兼任广发银行董事长 ...",
+    "id": "8hgn4fC0nUa",
+    "order": 1741847057582,
+    "createdAt": "2025-03-13T06:24:18.000Z",
+    "publishDate": "2025-03-13T06:24:17.582Z",
+    "title": "中国人寿集团董事长蔡希良将出任广发银行董事长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 14:24:18",
+    "uuid": "3eec51ef-60be-4d03-aaa0-7a839ce61973"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "百威亚太计划裁员数千人以降低15%成本。",
+    "id": "8hgn65rxLsM",
+    "order": 1741846991401,
+    "createdAt": "2025-03-13T06:23:12.000Z",
+    "publishDate": "2025-03-13T06:23:11.401Z",
+    "title": "百威亚太将裁员数千人，以减少15%成本",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 14:23:12",
+    "uuid": "24486665-adb5-476c-88cb-f303f9f0017e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "亚马逊在蒙大拿州比林斯投资2300万美元建立新配送站，已于3月10日开业。该配送站占地3.9万平方英尺，每天处理约1万件包裹，目前有约40名配送司机在途 ...",
+    "id": "8hfL2rthtWe",
+    "order": 1741846896344,
+    "createdAt": "2025-03-13T06:21:36.000Z",
+    "publishDate": "2025-03-13T06:21:36.344Z",
+    "title": "亚马逊在美国蒙大拿州比林斯开设新配送站",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 14:21:36",
+    "uuid": "3c8375c2-9e23-4dfe-a376-74e5c86aa599"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "根据TrendForce集邦咨询的研究，固态电池是具有商业化潜力的下一代电池技术，全球厂商正在开发大规模生产技术并加速车用固态电池的性能验证 ...",
+    "id": "8hgi6Hok3RD",
+    "order": 1741846379955,
+    "createdAt": "2025-03-13T06:13:00.000Z",
+    "publishDate": "2025-03-13T06:12:59.955Z",
+    "title": "机构：欧美车用固态电池验证加速 预计最快2026年逐步实现量产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 14:13:00",
+    "uuid": "185b1ad9-eeec-4a2b-92f6-a30fdf0d06de"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "谷歌DeepMind推出了两款新的AI机器人模型Gemini Robotics和Gemini Robotic-ER，这些模型能够利用大型语言模型的推理能力来完成复杂的现实世界任务，并帮助机器人适应复杂环境。",
+    "id": "8hgmPUaSpcI",
+    "order": 1741846332312,
+    "createdAt": "2025-03-13T06:12:13.000Z",
+    "publishDate": "2025-03-13T06:12:12.312Z",
+    "title": "谷歌DeepMind推出用于机器人的AI模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 14:12:13",
+    "uuid": "f562e5f2-6363-4c2e-ae08-e085a6f3367d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "海通证券总经理李军已赴中保投资有限责任公司任党委副书记，待监管批复后可能出任总裁。",
+    "id": "8hgmP1QtDJB",
+    "order": 1741847019120,
+    "createdAt": "2025-03-13T06:04:06.000Z",
+    "publishDate": "2025-03-13T06:23:39.120Z",
+    "title": "海通证券总经理李军赴任中保投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 14:04:06",
+    "uuid": "7facfc73-2c97-4a9b-b3cb-ec51cf392e2f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上海警方侦破一起非法经营证券投资咨询业务案，抓获6名犯罪嫌疑人，涉案金额5600余万元。犯罪团伙以“高成功率荐股+亏损赔偿”为诱饵，收取服务费后致客户股票亏损并失联 ...",
+    "id": "8hgldpnaLMb",
+    "order": 1741845800502,
+    "createdAt": "2025-03-13T06:03:20.000Z",
+    "publishDate": "2025-03-13T06:03:20.502Z",
+    "title": "“名师”非法荐股：投资者四千服务费换万元亏损，6人诈骗五千万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 14:03:20",
+    "uuid": "f0ea36c5-3377-46c6-b232-eab1ff59f713"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "医药魔方" },
