@@ -1,6 +1,62 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英特尔任命陈立武为CEO，股价盘前涨超10%。Adobe第二财季EPS预期低于市场预期，股价跌超4%。",
+    "id": "8hgHbhzbuKJ",
+    "order": 1741853561204,
+    "createdAt": "2025-03-13T08:12:42.000Z",
+    "publishDate": "2025-03-13T08:12:41.204Z",
+    "title": "英特尔美股盘前涨超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 16:12:42",
+    "uuid": "3b8c3750-1d44-4044-b73e-8819ac1e9044"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "铃木汽车因零部件短缺将暂停日本两家工厂部分生产，涉及Swift、Solio、Xbee等车型。",
+    "id": "8hgvL2fSsIE",
+    "order": 1741854246763,
+    "createdAt": "2025-03-13T08:12:25.000Z",
+    "publishDate": "2025-03-13T08:24:06.763Z",
+    "title": "铃木汽车因零部件短缺将暂停日本两家工厂的部分生产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 16:12:25",
+    "uuid": "3613a7b6-e993-4d67-855c-f0695379f77d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "中证网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "东方雨虹（002271）调整2024年度利润分配预案，每10股派发现金红利9.25元，共计22.1亿元。此前方案为每10股派发18.5元，共计44.19亿元 ...",
+    "id": "8hfmaLkOiyk",
+    "order": 1741852963314,
+    "createdAt": "2025-03-13T08:02:44.000Z",
+    "publishDate": "2025-03-13T08:02:43.314Z",
+    "title": "东方雨虹拟调整2024年度利润分配预案 有利于强化公司资金储备",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 16:02:44",
+    "uuid": "13ee2a61-1dcc-422a-8eb1-a679cef61aa2"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
@@ -1558,6 +1614,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "近期，中国多地智算中心项目陆续开工或启动，如合肥、济南、珠海等，旨在推动新兴产业发展。智算中心是基于人工智能理论，提供算力服务、数据服务和算法服务的算力基础设施 ...",
+    "id": "8hgOqzk82Xx",
+    "order": 1741852987152,
+    "createdAt": "2025-03-13T02:23:40.000Z",
+    "publishDate": "2025-03-13T08:03:07.152Z",
+    "title": "智算中心“多地开花” 项目建设持续向县域下沉",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 10:23:40",
+    "uuid": "df58c430-a8b1-46f7-a593-b36f9a749e0d"
+  },
+  {
+    "newsArray": [
       { "siteName": "爱范儿" },
       { "siteName": "虎嗅网" },
       { "siteName": "金融界" }
@@ -1859,6 +1933,24 @@
     "up": false,
     "date": "2025-03-13 08:13:45",
     "uuid": "6385d3c4-fa24-4128-81ba-88edf34a1ec5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Adobe在2025财年第一财季的营收同比增长10%至57.1亿美元，超出预期。数字媒体部门营收增长11%，数字体验部门增长10% ...",
+    "id": "8hg6DF4d4D8",
+    "order": 1741853452684,
+    "createdAt": "2025-03-13T00:13:23.000Z",
+    "publishDate": "2025-03-13T08:10:52.684Z",
+    "title": "Adobe Q1业绩超预期 但Q2指引平淡拖累股价盘后走低",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-13 08:13:23",
+    "uuid": "5ac5a9ca-e792-462c-84ef-27c7e1d793b0"
   },
   {
     "newsArray": [
