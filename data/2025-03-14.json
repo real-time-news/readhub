@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "奥瑞德（600666）宣布，其全资子公司北京智算力将出资1000万美元在香港设立无界智算有限公司，主营算力综合服务 ...",
+    "id": "8himjVU4TxR",
+    "order": 1741958515707,
+    "createdAt": "2025-03-14T13:21:55.000Z",
+    "publishDate": "2025-03-14T13:21:55.707Z",
+    "title": "奥瑞德拟设立香港公司 从事算力综合服务等业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-14 21:21:55",
+    "uuid": "ab36129f-f30e-41d9-b7b0-4d996883e250"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "美国商务部长霍华德·卢特尼克宣布，美国将对来自全球各地的汽车进口征收关税，包括日本、韩国和德国，以实现贸易公平。美国计划在4月2日宣布对贸易伙伴的报复性关税。",
+    "id": "8hitCLdYYEy",
+    "order": 1741957871825,
+    "createdAt": "2025-03-14T13:11:12.000Z",
+    "publishDate": "2025-03-14T13:11:11.825Z",
+    "title": "卢特尼克：汽车关税将涵盖日本、韩国和德国",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-14 21:11:12",
+    "uuid": "940040f7-6fbe-4256-87bf-ce5d2a9c954d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "鸿海董事长刘扬伟在法说会上透露，英伟达GB200 AI服务器经过半年多的数据收集，良率已达到批量生产标准，生产流程经过不断改善后趋于稳定，未来几个季度出货将不是问题。",
+    "id": "8hivIycFlhF",
+    "order": 1741957416140,
+    "createdAt": "2025-03-14T13:03:36.000Z",
+    "publishDate": "2025-03-14T13:03:36.140Z",
+    "title": "鸿海刘扬伟：英伟达GB200良率已达批量生产标准",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-14 21:03:36",
+    "uuid": "ac8be282-1912-41b7-abf6-9fa3bf50b8fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "全球移动通信系统协会（GSMA）宣布，富通信套件（RCS）新版本支持跨平台端到端加密（E2EE），使得iPhone和安卓用户可以发送加密信息，消除平台隔阂 ...",
+    "id": "8hinmWRfSH2",
+    "order": 1741957396556,
+    "createdAt": "2025-03-14T13:03:17.000Z",
+    "publishDate": "2025-03-14T13:03:16.556Z",
+    "title": "iPhone与安卓将实现RCS跨平台加密消息互传",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-14 21:03:17",
+    "uuid": "fe43f83b-5e22-4750-8bec-e88ea621c8ed"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "宝新能源实际控制人叶华能及前董事长宁远喜因涉嫌信息披露违法违规行为被中国证监会立案调查。叶华能将配合调查并履行信息披露义务，调查不影响公司正常经营。投资者需注意投资风险。",
+    "id": "8hivILvPhRm",
+    "order": 1741957383744,
+    "createdAt": "2025-03-14T13:03:03.000Z",
+    "publishDate": "2025-03-14T13:03:03.744Z",
+    "title": "宝新能源：实际控制人收到证监会立案告知书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-14 21:03:03",
+    "uuid": "3dd2af17-0e3b-46a3-801b-8e9bdba5ceb9"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" },
@@ -631,6 +719,24 @@
     "up": false,
     "date": "2025-03-14 18:14:54",
     "uuid": "0b6558f6-6207-44b1-88a1-226d98e8235e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "光伏硅料-组件环节企业调整上半年配额，每个季度上调1%-3%。行业现抢装潮，组件价格连续上涨，有企业超比例生产。",
+    "id": "8hiipatsBcR",
+    "order": 1741958475738,
+    "createdAt": "2025-03-14T10:14:36.000Z",
+    "publishDate": "2025-03-14T13:21:15.738Z",
+    "title": "光伏抢装引发涨价：硅片组件生产配额将上调，幅度最高3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-14 18:14:36",
+    "uuid": "0f8a5675-41fe-436f-b184-81ea104fed45"
   },
   {
     "newsArray": [
