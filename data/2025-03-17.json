@@ -1,6 +1,160 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "无锡时代电服科技有限公司和时代电服（青岛）科技有限公司近日成立，注册资本均为500万元，业务范围包括新能源汽车销售、电附件销售、换电设施销售和充电基础设施运营等 ...",
+    "id": "8hnAZt1Ldpx",
+    "order": 1742180588495,
+    "createdAt": "2025-03-17T03:03:09.000Z",
+    "publishDate": "2025-03-17T03:03:08.495Z",
+    "title": "宁德时代在无锡、青岛成立两家新公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 11:03:09",
+    "uuid": "b2731bab-75ef-4738-85d2-374dced27dc8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国家统计局发言人付凌晖表示，通过促进居民增收、增加优质供给、改善消费条件和推进消费品以旧换新政策，有利于物价逐步改善。",
+    "id": "8hnCNnGqny9",
+    "order": 1742180084984,
+    "createdAt": "2025-03-17T02:54:45.000Z",
+    "publishDate": "2025-03-17T02:54:44.984Z",
+    "title": "统计局：多渠道促进居民增收等将有利于物价逐步改善",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 10:54:45",
+    "uuid": "b0dd1003-3bed-42d3-95a1-c51f7e32824f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "仓颉社区推出了基于仓颉编程语言的LLM Agent开发框架Cangjie Magic，该框架通过独创的Agent DSL架构、原生支持MCP通信协议和智能调度引擎，重构智能体开发范式，降低开发复杂度 ...",
+    "id": "8hnAyV40V8C",
+    "order": 1742180068467,
+    "createdAt": "2025-03-17T02:54:29.000Z",
+    "publishDate": "2025-03-17T02:54:28.467Z",
+    "title": "华为仓颉智能体开发框架 Cangjie Magic 开源",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 10:54:29",
+    "uuid": "9ce05b74-5c8d-4165-8905-40209a85cf4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国家统计局发言人付凌晖表示，70个大中城市中，70.8%的房地产企业和中介机构从业人员预计未来半年新建住宅价格将保持稳定或上涨，比例较上月上升2.8个百分点。",
+    "id": "8hnCNYZ7EAm",
+    "order": 1742180049362,
+    "createdAt": "2025-03-17T02:54:09.000Z",
+    "publishDate": "2025-03-17T02:54:09.362Z",
+    "title": "统计局：70个大中城市相关从业人员看涨未来半年房价的比例上升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 10:54:09",
+    "uuid": "dc5e96bf-fe6e-46dd-be18-beba417958a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2025年世界互联网大会亚太峰会将于4月14日至15日在香港会议展览中心举行，主题为“数智融合引领未来——携手构建网络空间命运共同体” ...",
+    "id": "8hnCNc57A4L",
+    "order": 1742180031401,
+    "createdAt": "2025-03-17T02:53:51.000Z",
+    "publishDate": "2025-03-17T02:53:51.401Z",
+    "title": "世界互联网大会亚太峰会将于4月14日在香港召开",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 10:53:51",
+    "uuid": "65a863ac-e566-4030-afd0-e165261104b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国家统计局发言人付凌晖表示，在科技创新和产业创新加快融合的背景下，信息技术、人工智能等前沿领域技术驱动产业变革增强，成为工业发展的新趋势 ...",
+    "id": "8hnBfRknLdf",
+    "order": 1742180489066,
+    "createdAt": "2025-03-17T02:53:23.000Z",
+    "publishDate": "2025-03-17T03:01:29.066Z",
+    "title": "统计局：1—2月份工业高端化智能化发展态势明显",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 10:53:23",
+    "uuid": "4ebe622b-1602-4384-b777-73274974bcbe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "国家统计局发言人付凌晖表示，1-2月份中国经济运行总体平稳，主要指标增速稳中有升，新动能培育壮大，发展质量稳步提高 ...",
+    "id": "8hnBfNC4s5O",
+    "order": 1742179845778,
+    "createdAt": "2025-03-17T02:50:46.000Z",
+    "publishDate": "2025-03-17T02:50:45.778Z",
+    "title": "统计局：1-2月份经济运行总体平稳 主要指标增速稳中有升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 10:50:46",
+    "uuid": "088030e6-4165-4675-be9d-b41f02cb5549"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国铁集团自4月1日起对60岁以上老年常旅客会员实施积分优惠，积分可兑换火车票，以提升老年旅客出行体验。老年会员乘坐旅客列车将获得票面金额15倍积分，是普通会员的3倍 ...",
+    "id": "8hnBjb2BZEV",
+    "order": 1742180530072,
+    "createdAt": "2025-03-17T02:50:20.000Z",
+    "publishDate": "2025-03-17T03:02:10.072Z",
+    "title": "国铁集团推出老年常旅客会员积分优惠措施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 10:50:20",
+    "uuid": "47de7cbb-63ab-43f1-99ab-de107189c561"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -162,6 +316,25 @@
     "up": false,
     "date": "2025-03-17 09:52:47",
     "uuid": "68644024-4c04-44e3-b9c9-122dfd8b27be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "海工装备板块活跃，巨力索具连续三日涨停，中科海讯涨幅超9%，海兰信、天和防务、亚星锚链高开。",
+    "id": "8hn75vCkE1J",
+    "order": 1742180068660,
+    "createdAt": "2025-03-17T01:44:11.000Z",
+    "publishDate": "2025-03-17T02:54:28.660Z",
+    "title": "海工装备板块继续活跃，巨力索具3连板",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 09:44:11",
+    "uuid": "500a6b0f-b1fb-4f99-a49e-3200ca4badc0"
   },
   {
     "newsArray": [
