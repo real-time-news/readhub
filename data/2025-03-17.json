@@ -1,6 +1,150 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "证券时报网" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "近期，多家上市公司宣布投资新建光伏发电项目，显示出光伏企业对光伏领域的投资信心增强。韶能股份计划投资约5989.50万元建设分布式光伏发电二期第四批项目，装机规模为20.66兆瓦 ...",
+    "id": "8hmzWnY158F",
+    "order": 1742171840041,
+    "createdAt": "2025-03-17T00:37:20.000Z",
+    "publishDate": "2025-03-17T00:37:20.041Z",
+    "title": "光伏行业或迎复苏 多家上市公司拟投建新项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 08:37:20",
+    "uuid": "40b08d25-d19b-4204-aa7f-c85042619e26"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "宁德时代2024年业绩说明会上透露，公司产能利用率提升，正在开发第二代钠电池，预计到2025年神行和麒麟电池出货占比将显著提升 ...",
+    "id": "8hmyr0MRQ8o",
+    "order": 1742171504477,
+    "createdAt": "2025-03-17T00:31:44.000Z",
+    "publishDate": "2025-03-17T00:31:44.477Z",
+    "title": "宁德时代正在开发第二代钠电池 性能指标接近磷酸铁锂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 08:31:44",
+    "uuid": "0b2d7321-cf81-4c4a-8215-6883556f70f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "蔚来第三品牌firefly萤火虫首款车型亮相，预售14.88万元，预计2025年4月上市 ...",
+    "id": "8hlhptSwCba",
+    "order": 1742171169430,
+    "createdAt": "2025-03-17T00:26:09.000Z",
+    "publishDate": "2025-03-17T00:26:09.430Z",
+    "title": "蔚来纯电小车 firefly 萤火虫实拍图公布，全新轮毂设计",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 08:26:09",
+    "uuid": "097ca902-3c06-4684-9a53-4594148ab44e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "加利福尼亚州陪审团裁定星巴克需向一名外卖员赔偿5000万美元，因其热饮杯盖未妥善固定导致外卖员严重烫伤 ...",
+    "id": "8hm8hr3Anqj",
+    "order": 1742171446084,
+    "createdAt": "2025-03-17T00:25:24.000Z",
+    "publishDate": "2025-03-17T00:30:46.084Z",
+    "title": "星巴克被判向被热饮烫伤的外卖员赔偿5000万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 08:25:24",
+    "uuid": "ae3ff588-692d-4464-ae2f-14994dfdb973"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "台湾电子时报报道，由于三星电子和SK海力士减产，以及美光新加坡NAND厂发生跳电事件，导致NAND闪存供应紧张 ...",
+    "id": "8hn1f5u6pNX",
+    "order": 1742170924676,
+    "createdAt": "2025-03-17T00:22:04.000Z",
+    "publishDate": "2025-03-17T00:22:04.676Z",
+    "title": "美光、三星电子、SK海力士等NAND厂商均将从4月起提高报价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 08:22:04",
+    "uuid": "62656201-dc74-41b5-8895-16316e0d0dd3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌推出的Gemini 2.0 Flash模型因能去除图片水印引发争议，包括盖蒂图片社等图库图片的水印 ...",
+    "id": "8hmyRDroPRr",
+    "order": 1742170912942,
+    "createdAt": "2025-03-17T00:21:53.000Z",
+    "publishDate": "2025-03-17T00:21:52.942Z",
+    "title": "谷歌 Gemini 2.0 Flash 模型拥有强大图片去水印功能，或触犯版权红线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 08:21:53",
+    "uuid": "e55d6d7d-d62f-4f54-aea6-bece8a645afe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "嘉麟杰公告称，公司实际控制人李兆廷因信息披露违法违规被中国证监会立案调查。李兆廷将积极配合调查并履行信息披露义务。",
+    "id": "8hn0wXFObkV",
+    "order": 1742170357276,
+    "createdAt": "2025-03-17T00:12:26.000Z",
+    "publishDate": "2025-03-17T00:12:37.276Z",
+    "title": "嘉麟杰：实际控制人收到中国证券监督管理委员会立案告知书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 08:12:26",
+    "uuid": "eafd017d-7a5a-4d2f-b8f8-352e68eebf76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国科学院大连化学物理研究所陈忠伟团队研发的超低温高比能锂电池成功适配六旋翼无人机，在零下36摄氏度的极寒环境下试飞成功 ...",
+    "id": "8hmJhoHlcRc",
+    "order": 1742170055088,
+    "createdAt": "2025-03-17T00:07:35.000Z",
+    "publishDate": "2025-03-17T00:07:35.088Z",
+    "title": "我国高比能锂电池适配六旋翼无人机在漠河试飞成功",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 08:07:35",
+    "uuid": "4910596d-d7fd-4d82-b4fe-8b4ffbef83c3"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" }
@@ -15,6 +159,24 @@
     "up": false,
     "date": "2025-03-17 07:52:41",
     "uuid": "d1e613d4-42b5-49f7-9b0c-3d5cc283d093"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "Odaily" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "欧洲央行管委维勒鲁瓦警告，美国对加密货币和非银行金融的支持可能引发下一场金融危机，认为美国政府在为未来的动荡埋下祸根 ...",
+    "id": "8hlEyVdVX3r",
+    "order": 1742172054031,
+    "createdAt": "2025-03-16T23:49:09.000Z",
+    "publishDate": "2025-03-17T00:40:54.031Z",
+    "title": "欧洲央行管委：美国对加密货币的支持可能引发下一次金融危机",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 07:49:09",
+    "uuid": "dc10bcaf-7fa9-45d5-8230-61b6ebdd1c76"
   },
   {
     "newsArray": [
