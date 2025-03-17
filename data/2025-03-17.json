@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "雷锋网" }
+    ],
+    "summary": "美团闪购与嘉士伯集团加深合作，计划在2025年从全场景生态助力、提升媒体投放效率、餐饮零售场景打通三方面助力嘉士伯获取即时零售生意增量 ...",
+    "id": "8hnk2DvUUND",
+    "order": 1742210066963,
+    "createdAt": "2025-03-17T11:14:27.000Z",
+    "publishDate": "2025-03-17T11:14:26.963Z",
+    "title": "即时零售生态助力生意持续增长，美团闪购与嘉士伯深化战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 19:14:27",
+    "uuid": "5493ea62-33b4-4f41-af0f-c7d423b5ce4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "AMD董事会主席苏姿丰及其团队访问联想集团总部，并计划于2025年3月18日在北京举办AMD AI PC创新峰会，探讨AI技术在PC领域的最新发展与应用。",
+    "id": "8hnkJHsBrbr",
+    "order": 1742209933033,
+    "createdAt": "2025-03-17T11:12:14.000Z",
+    "publishDate": "2025-03-17T11:12:13.033Z",
+    "title": "AMD CEO苏姿丰今日到访联想集团总部",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 19:12:14",
+    "uuid": "a5500651-42e4-4d96-8094-8f0fd07259b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "“阿里通义千问最新开源的推理模型QwQ-32B，在国际权威测评榜LiveBench中，超越OpenAI-GPT-4.5-preview、Google-Gemini2.0、DeepSeek-R1等国内外顶尖模型，冲进全球前五，成为”全球性能No.1的开源模型。",
+    "id": "8hnWPXKuNzZ",
+    "order": 1742209918877,
+    "createdAt": "2025-03-17T11:11:59.000Z",
+    "publishDate": "2025-03-17T11:11:58.877Z",
+    "title": "通义千问：QwQ-32B登顶全球最强开源模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 19:11:59",
+    "uuid": "b1fc7d57-998b-4e71-8a33-6f5a2d27b58e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "海油工程2024年营业收入299.54亿元，同比下降2.59%。净利润21.61亿元，同比增长33.38%。公司拟每10股派发现金红利2.01元，共需派发现金8.89亿元。",
+    "id": "8hnkgvE64eV",
+    "order": 1742210066766,
+    "createdAt": "2025-03-17T11:07:15.000Z",
+    "publishDate": "2025-03-17T11:14:26.766Z",
+    "title": "海油工程：2024年净利润同比增长33.38%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 19:07:15",
+    "uuid": "d113d48b-380f-413a-ab3f-bc07d1cfd5ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "大智慧公告，股东湘财股份终止原计划减持不超过1%股份的计划，因双方签署吸收合并意向协议，湘财股份拟通过换股方式吸收合并大智慧并募集配套资金。截至公告日，湘财股份未减持公司股份。",
+    "id": "8hnlRnmIqC4",
+    "order": 1742209355133,
+    "createdAt": "2025-03-17T11:02:36.000Z",
+    "publishDate": "2025-03-17T11:02:35.133Z",
+    "title": "大智慧：股东湘财股份终止减持计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 19:02:36",
+    "uuid": "9e5c09f0-84d0-41c0-8c14-929244f019c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "复星医药计划使用3亿元至6亿元回购股份，资金来源包括自有资金和专项贷款，回购价格上限为每股30元。这些股份将用于未来发行可转债转股、股权激励计划及员工持股计划。",
+    "id": "8hncsEIz7Tk",
+    "order": 1742209283680,
+    "createdAt": "2025-03-17T11:01:23.000Z",
+    "publishDate": "2025-03-17T11:01:23.680Z",
+    "title": "复星医药：拟3亿元-6亿元回购股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 19:01:23",
+    "uuid": "c2df9b40-ce6f-4c83-bec6-e7fcd385c339"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
@@ -15,6 +123,26 @@
     "up": false,
     "date": "2025-03-17 18:56:13",
     "uuid": "f4fc4576-f984-440c-97e7-8a9b7f3c93a2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "厦门港务（000905.SZ）公告，公司计划向厦门国际港务有限公司发行股份及支付现金购买厦门集装箱码头集团有限公司控股权，并拟向不超过35名特定对象发行股份募集配套资金 ...",
+    "id": "8hnkgtXvHuo",
+    "order": 1742209294917,
+    "createdAt": "2025-03-17T10:52:29.000Z",
+    "publishDate": "2025-03-17T11:01:34.917Z",
+    "title": "厦门港务：拟购买厦门集装箱码头集团有限公司控股权，股票复牌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-17 18:52:29",
+    "uuid": "8f0153ea-1184-441c-a0d7-0a96231066d1"
   },
   {
     "newsArray": [
