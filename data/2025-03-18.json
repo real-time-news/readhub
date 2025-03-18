@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "3月18日金固股份公告收到知名主机厂定点通知，为其新能源轿车开发阿凡达低碳车轮产品，预计二季度量产，将影响本年度收入及利润。",
+    "id": "8hpH1yUFlDK",
+    "order": 1742288858287,
+    "createdAt": "2025-03-18T09:07:38.000Z",
+    "publishDate": "2025-03-18T09:07:38.287Z",
+    "title": "金固股份：收到知名主机厂新能源轿车阿凡达低碳车轮定点通知",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 17:07:38",
+    "uuid": "fdceb898-10ef-4d4f-92f7-f9e3653b4e56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "2025年3月18日消息，Anthropic对Model Context Protocol （MCP）重大更新，推出“Streamable HTTP”传输方式替代HTTP+SSE方案，解决MCP远程传输关键限制并保留优势，为开发者带来实现服务器更简单、部署到部分云平台更易、兼容性提升、扩展性增强等便利 。",
+    "id": "8hovbcuYxVc",
+    "order": 1742288831183,
+    "createdAt": "2025-03-18T09:07:12.000Z",
+    "publishDate": "2025-03-18T09:07:11.183Z",
+    "title": "Anthropic推出全新MCP传输机制",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 17:07:12",
+    "uuid": "957dc302-08aa-4e53-8f93-d9a09e2951e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "建设银行发布公告称，因工作调动，李运提请辞去公司副行长职务，辞任自2025年3月18日起生效。",
+    "id": "8hpHkUGzUHi",
+    "order": 1742288741074,
+    "createdAt": "2025-03-18T09:05:41.000Z",
+    "publishDate": "2025-03-18T09:05:41.074Z",
+    "title": "建设银行：因工作调动，副行长李运辞任",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 17:05:41",
+    "uuid": "fc1e07cf-c23e-49ef-87ce-2f6fb581dd3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "3月18日智微智能(001339.SZ)公告，拟向多家供应商采购不超30亿元服务器用于算力业务，不构成重大资产重组及关联交易，已获董事会和监事会通过，尚需股东大会审议 。",
+    "id": "8hpHifWY3xv",
+    "order": 1742288694867,
+    "createdAt": "2025-03-18T09:04:54.000Z",
+    "publishDate": "2025-03-18T09:04:54.867Z",
+    "title": "智微智能：拟购买不超过30亿元服务器用于算力相关业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 17:04:54",
+    "uuid": "135e7605-8674-4e40-825f-7f11a38ddcf9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "2025 年 3 月 18 日消息，吉林娃哈哈食品有限公司工商注册信息重大调整，创始人宗庆后不再担任法定代表人和董事长，由许思敏接任，宗馥莉出任董事，多位主要人员也有变动 ...",
+    "id": "8hpBztI8ptc",
+    "order": 1742288640744,
+    "createdAt": "2025-03-18T09:04:00.000Z",
+    "publishDate": "2025-03-18T09:04:00.744Z",
+    "title": "宗馥莉掌舵，吉林娃哈哈食品公司迎来新篇章",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 17:04:00",
+    "uuid": "93ebe9f2-6cd8-4c6e-9c73-bd1229b0d988"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -2537,6 +2626,24 @@
     "up": false,
     "date": "2025-03-18 08:36:53",
     "uuid": "47ae1455-7990-485a-b6da-10d156088f2d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "中共中央办公厅、国务院办公厅印发的《提振消费专项行动方案》明确提出促进“人工智能+消费”，推动新技术新产品开发与应用推广，开辟高成长性消费新赛道 ...",
+    "id": "8hoeTrznv6G",
+    "order": 1742288587771,
+    "createdAt": "2025-03-18T00:36:02.000Z",
+    "publishDate": "2025-03-18T09:03:07.771Z",
+    "title": "促进“人工智能+消费” 开辟高成长性消费新赛道",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 08:36:02",
+    "uuid": "d82f8068-6b28-48ca-adb2-b8d032f53125"
   },
   {
     "newsArray": [
