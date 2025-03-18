@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "2025年3月19日消息，英伟达发布被誉为“AI工厂的操作系统”的Dynamo，其核心是“分布式推理服务库”，面向开源社区解决token供需问题，提升AI工厂效率与灵活性 ...",
+    "id": "8hpyf4h83XK",
+    "order": 1742331759229,
+    "createdAt": "2025-03-18T21:02:40.000Z",
+    "publishDate": "2025-03-18T21:02:39.229Z",
+    "title": "英伟达Dynamo横空出世：打造AI工厂新操作系统，性能大幅提升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 05:02:40",
+    "uuid": "5918f176-1d93-4e3f-958d-65937eadd9c8"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
@@ -32,6 +49,25 @@
     "up": false,
     "date": "2025-03-19 03:46:36",
     "uuid": "d0a34657-6755-41b9-a74a-f106f74f9b25"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "在今日凌晨的英伟达 GTC 2025 大会上，英伟达 CEO 黄仁勋公布了新一代 AI 芯片 Rubin，将于 2026 年推出 ...",
+    "id": "8hpyxDAmEzb",
+    "order": 1742331732174,
+    "createdAt": "2025-03-18T19:21:58.000Z",
+    "publishDate": "2025-03-18T21:02:12.174Z",
+    "title": "英伟达下下一代 AI 芯片架构命名 Feynman：取自物理学家费曼，2028 年登场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 03:21:58",
+    "uuid": "d1e7c806-7f29-40aa-80b0-221dcc60a8c0"
   },
   {
     "newsArray": [
