@@ -1,6 +1,126 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "即将召开的英伟达年度开发者大会上，黄仁勋将展示最新 AI 和量子计算芯片，重点介绍 Blackwell 系列 GPU 及新产品 ...",
+    "id": "8hp9E8WBMfi",
+    "order": 1742339198942,
+    "createdAt": "2025-03-18T23:06:39.000Z",
+    "publishDate": "2025-03-18T23:06:38.942Z",
+    "title": "英伟达展示新一代 AI 芯片，重点关注 Blackwell 系列 GPU",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 07:06:39",
+    "uuid": "876c29ab-6cc2-4c2e-a052-5491c8a83c38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "FireFox浏览器数月前宣布支持PWA，FireFox Nightly测试版用户可在设置中通过实验性功能选项开启“任务栏窗口”PWA功能，虽有不完善但距正式发布不远 ...",
+    "id": "8hova8aO6S3",
+    "order": 1742339179337,
+    "createdAt": "2025-03-18T23:06:19.000Z",
+    "publishDate": "2025-03-18T23:06:19.337Z",
+    "title": "FireFox浏览器即将正式支持渐进式网页应用（PWA）",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 07:06:19",
+    "uuid": "fd41f45a-374b-4ffa-9594-d0da5baf47d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "安全团队 Mysk 检查 iPhone 的“App 隐私报告”后发现， 官方独立应用“Passwords”存在 HTTP 协议漏洞，直至 iOS 18.2 修复 ...",
+    "id": "8hqEgfqvJXG",
+    "order": 1742339116324,
+    "createdAt": "2025-03-18T23:05:17.000Z",
+    "publishDate": "2025-03-18T23:05:16.324Z",
+    "title": "苹果密码应用漏洞被披露：黑客可钓鱼窃取凭证，iOS 18.2 已修复",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 07:05:17",
+    "uuid": "21d0ced7-050c-4953-b1a7-73c079e81bd3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "AMD AI PC创新峰会今日在京举办，联想刘军分享全栈AI战略布局新进展，预告5月联想创新科技大会举办，届时将发布“TA们” ...",
+    "id": "8hpnwqhIqe5",
+    "order": 1742339103865,
+    "createdAt": "2025-03-18T23:05:04.000Z",
+    "publishDate": "2025-03-18T23:05:03.865Z",
+    "title": "联想：5月将发布“想见未见”的产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 07:05:04",
+    "uuid": "66fadafe-9491-46fe-896e-a394fc78ac08"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "3 月 18 日极氪千里浩瀚智驾发布会宣布，满血版“车位到车位”功能 2025 年 4 月起推送，覆盖多种复杂场景。还推出泊车代驾充电服务，2025 年三季度先锋测试 ...",
+    "id": "8hpTyoCBuZS",
+    "order": 1742339087947,
+    "createdAt": "2025-03-18T23:04:48.000Z",
+    "publishDate": "2025-03-18T23:04:47.947Z",
+    "title": "极氪宣布2025年实现“车位到车位”全场景自动驾驶",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 07:04:48",
+    "uuid": "e9ddedc4-e818-4a48-a7de-75bc59610917"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2025 年 3 月 19 日消息，中国航发自主研制的百千瓦级混合动力系统原理样机飞行试验在内蒙古镶黄旗新宝拉格机场成功 ...",
+    "id": "8hpcnf60EmL",
+    "order": 1742339077365,
+    "createdAt": "2025-03-18T23:04:38.000Z",
+    "publishDate": "2025-03-18T23:04:37.365Z",
+    "title": "我国百千瓦级混合动力系统原理样机飞行试验圆满成功",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 07:04:38",
+    "uuid": "eea2ce7a-4e39-4618-827f-c7bb0070f392"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "山东青岛地铁长久以来快捷支付受限，仅“琴岛通”虚拟卡或“青岛地铁”App可乘车支付。近日支付宝App新增青岛地铁乘车码，市民能在支付宝“出行”板块领取“地铁码”支付，提升便捷性，但目前无优惠 ...",
+    "id": "8hpUDPN0WPT",
+    "order": 1742339034694,
+    "createdAt": "2025-03-18T23:03:55.000Z",
+    "publishDate": "2025-03-18T23:03:54.694Z",
+    "title": "青岛地铁接入支付宝乘车码，便捷出行但暂无乘车优惠",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 07:03:55",
+    "uuid": "f3c0af45-eec9-4f01-91ad-ef46e89bb4b0"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
