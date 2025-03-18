@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "OpenAI 研究副总裁 Liam Fedus 宣布离开，创立专注材料科学的人工智能初创企业，消息最早由 The Information 报道，他在 X 平台确认并分享计划 ...",
+    "id": "8hojT93I8u0",
+    "order": 1742287607741,
+    "createdAt": "2025-03-18T08:46:48.000Z",
+    "publishDate": "2025-03-18T08:46:47.741Z",
+    "title": "OpenAI 高管离职创立材料科学 AI 初创公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 16:46:48",
+    "uuid": "3ab4b4d3-ccc2-4b2a-8e0b-7d5354c6a0ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "DoNews" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2023 年 10 月安某某发布虚假内容侵害中国石油名誉权，中国石油天然气集团有限公司诉安某某网络侵权责任纠纷案宣判原告胜诉。被告需在指定平台赔礼道歉、消除影响并赔偿经济损失等 ...",
+    "id": "8hohKx7RbsQ",
+    "order": 1742287531737,
+    "createdAt": "2025-03-18T08:45:32.000Z",
+    "publishDate": "2025-03-18T08:45:31.737Z",
+    "title": "连续发布虚假信息 中石油维权：当事人被判道歉7天",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 16:45:32",
+    "uuid": "0c49739c-b89c-40e4-832e-685f9454941a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "3月17日特朗普在社交平台称煤炭行业被极端分子控制，他国借此获经济优势，还表示将授权政府用优质清洁煤炭生产能源。目前不清楚其增加煤炭使用量的措施及对实际政策的影响 ...",
+    "id": "8hoaBAejOtt",
+    "order": 1742287494479,
+    "createdAt": "2025-03-18T08:44:55.000Z",
+    "publishDate": "2025-03-18T08:44:54.479Z",
+    "title": "特朗普宣称将立即授权政府用“优质清洁的”煤炭生产能源",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 16:44:55",
+    "uuid": "e808d912-fba6-4245-ab91-8a84f5e9e891"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2025年3月18日消息，中国联通（香港）称2024年营业收入3896亿元，同比升4.6%，公司权益持有者应占盈利206亿元，同比升10.1% ...",
+    "id": "8hpGIHwFA8m",
+    "order": 1742287375926,
+    "createdAt": "2025-03-18T08:42:55.000Z",
+    "publishDate": "2025-03-18T08:42:55.926Z",
+    "title": "中国联通（香港）：2024年公司权益持有者应占盈利206亿元 同比提升10.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 16:42:55",
+    "uuid": "d61ce960-bc90-42cc-9d61-b9ad3cd24bd7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "法拉利传统核心客户多为人生后半程消费者，如今 40 岁以下新买家占比达 40%，较 18 个月前增长 10 个百分点，首席执行官称是团队努力成果 ...",
+    "id": "8hnV1Krx00r",
+    "order": 1742287532168,
+    "createdAt": "2025-03-18T08:37:44.000Z",
+    "publishDate": "2025-03-18T08:45:32.168Z",
+    "title": "法拉利客户群体年轻化：40% 新买家年龄低于 40 岁",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 16:37:44",
+    "uuid": "d482ad9c-1ba3-4904-96ac-ea6b99fcd30d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "3月18日美国联邦航空管理局（FAA）因初次超声波检查合规时间不足，对波音部分737-800飞机采用新适航指令（AD），4月22日生效 。",
+    "id": "8hpEAPA2JJl",
+    "order": 1742286988571,
+    "createdAt": "2025-03-18T08:36:29.000Z",
+    "publishDate": "2025-03-18T08:36:28.571Z",
+    "title": "美国联邦航空管理局对部分波音737-800飞机发布适航指令",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 16:36:29",
+    "uuid": "cb02e24a-ce8b-4dac-962f-ac6a93524e04"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -119,6 +224,24 @@
     "up": false,
     "date": "2025-03-18 16:16:27",
     "uuid": "b03840da-fd0d-44dd-b7f7-b12d962d88c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "梁建章发文称，人口老龄化与年轻一代育儿压力等问题突出，在此背景下「共享爷爷奶奶」等社区互助模式应运而生 ...",
+    "id": "8hnr7uW02Xu",
+    "order": 1742287560341,
+    "createdAt": "2025-03-18T08:14:26.000Z",
+    "publishDate": "2025-03-18T08:46:00.341Z",
+    "title": "梁建章：建议借鉴杭州“共享爷爷奶奶”模式推广社区互助平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 16:14:26",
+    "uuid": "a8b3ec64-465e-4e42-8a24-4570584e496b"
   },
   {
     "newsArray": [
@@ -329,6 +452,25 @@
     "up": false,
     "date": "2025-03-18 15:11:19",
     "uuid": "80b32aa3-548d-4c4e-bc3d-5d45672df1c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "2025年3月18日作业帮发布反舞弊通报，2024年监察部查处舞弊案18起，21人因一级违纪被处罚，6人因涉嫌犯罪移送公安机关。其中前员工唐某等6人因收受贿赂或好处费被处理 ...",
+    "id": "8hp3UUVMBh9",
+    "order": 1742287701214,
+    "createdAt": "2025-03-18T07:05:51.000Z",
+    "publishDate": "2025-03-18T08:48:21.214Z",
+    "title": "作业帮发布2024年反舞弊行为通报，查处案件18起涉及21人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 15:05:51",
+    "uuid": "7410cfab-a65b-4dd6-a498-65396844ea4e"
   },
   {
     "newsArray": [
@@ -1441,6 +1583,24 @@
     "up": false,
     "date": "2025-03-18 11:37:35",
     "uuid": "7b7583b5-1aab-4fd1-b221-0c94b3a231b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "雷锋网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "雷锋网" }
+    ],
+    "summary": "2025年3月消息，智己汽车携手阿里斑马智行、饿了么等首发“IM AIOS生态座舱”，4月落地，全新智己L6将成业内首款上车“AI外卖”的智能轿车 。",
+    "id": "8ho5llKpNHq",
+    "order": 1742287459527,
+    "createdAt": "2025-03-18T03:36:26.000Z",
+    "publishDate": "2025-03-18T08:44:19.527Z",
+    "title": "智己成为阿里系AI落地汽车首选，IM AIOS生态座舱发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-18 11:36:26",
+    "uuid": "ae8098e2-ead5-466c-ba40-2c91711d2730"
   },
   {
     "newsArray": [
