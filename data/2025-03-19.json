@@ -1,6 +1,62 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "消息人士 @Kepler_L2 北京时间昨晚在 X 平台表示，根据 AMD GPUOpen 驱动程序的 GitHub 存储库， 目前最新的 \"RDNA 4\" 架构将仅限于独立 GPU（dGPU），核显架构将跳过这一代 ...",
+    "id": "8hqYd17xlq9",
+    "order": 1742369750886,
+    "createdAt": "2025-03-19T07:35:50.000Z",
+    "publishDate": "2025-03-19T07:35:50.886Z",
+    "title": "AMD 驱动代码显示 \"RDNA 4\" 仅限独立 GPU，核显架构将跳过本世代",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 15:35:50",
+    "uuid": "64eb0daa-be8e-46e6-9e25-5fe11a258bc2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "3月19日消息，日本政府观光局称2月入境外国游客326万人次，同比增17%创同期新高，其中中国游客722700人次，同比增57%，春节假期及澳美冰雪游提振入境人次 ...",
+    "id": "8hqqDdWYN6A",
+    "order": 1742369715336,
+    "createdAt": "2025-03-19T07:35:16.000Z",
+    "publishDate": "2025-03-19T07:35:15.336Z",
+    "title": "日本2月入境游客数量增17% 其中中国游客增57%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 15:35:16",
+    "uuid": "38412364-bfba-4a59-94fb-a76e7f67c5ed"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "非公开文件显示碧桂园寻求将两只3月分期款项展期至9月支付，称经营与融资承压、现金紧张无法筹集支付资金 ...",
+    "id": "8hqqDUGbS5g",
+    "order": 1742369651810,
+    "createdAt": "2025-03-19T07:34:11.000Z",
+    "publishDate": "2025-03-19T07:34:11.810Z",
+    "title": "碧桂园境内债重组进展：3月分期款项拟展期至9月支付",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 15:34:11",
+    "uuid": "013ed72c-b0cb-4c70-a2cc-8a5df35e5a53"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -83,6 +139,24 @@
     "up": false,
     "date": "2025-03-19 15:21:27",
     "uuid": "33b21817-a469-4fdd-86ba-bc7033fa286c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "土耳其股市将于当地时间10:30恢复交易。",
+    "id": "8hqnOLZi5sL",
+    "order": 1742369816443,
+    "createdAt": "2025-03-19T07:15:52.000Z",
+    "publishDate": "2025-03-19T07:36:56.443Z",
+    "title": "土耳其股市将于当地时间10:30恢复交易",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 15:15:52",
+    "uuid": "7a35be2c-2d6b-47c3-8376-7f061ddc3cde"
   },
   {
     "newsArray": [
@@ -350,6 +424,43 @@
     "up": false,
     "date": "2025-03-19 14:11:50",
     "uuid": "a9e9c24d-c642-47d3-882d-ed6385521dfa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "高通、联发科已发布 3nm 芯片，安卓阵营将迎来谷歌 Tensor G5 这颗 3nm 手机芯片。它基于台积电 3nm 工艺，是谷歌首款自研芯片 ...",
+    "id": "8hqWTO6uO5l",
+    "order": 1742369717688,
+    "createdAt": "2025-03-19T06:05:51.000Z",
+    "publishDate": "2025-03-19T07:35:17.688Z",
+    "title": "安卓第三款3nm芯片来袭：谷歌打造 看齐高通联发科",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 14:05:51",
+    "uuid": "346838d8-fa09-4077-8b1a-406576fc8095"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "2025年3月19日消息，一则指向东方财富证券因拉萨操盘团队内幕交易被罚9593.07万元的文件截图引发诸多讨论，经求证该截图为虚假内容，小作文存在多处错误信息，如公司名称有误，行文逻辑也多处混乱 。",
+    "id": "8hqjpIr93Pf",
+    "order": 1742369752376,
+    "createdAt": "2025-03-19T06:05:37.000Z",
+    "publishDate": "2025-03-19T07:35:52.376Z",
+    "title": "小作文指东方财富拉萨操盘团队内幕交易被罚，求证：假的",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 14:05:37",
+    "uuid": "ff56f5af-4ee9-4f72-b24e-11c6b1d91476"
   },
   {
     "newsArray": [
@@ -1251,6 +1362,24 @@
     "up": false,
     "date": "2025-03-19 10:36:01",
     "uuid": "56de49c5-96ab-4da2-8495-fd5f795df3b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "2025 年 3 月 19 日消息，tcl 科技收购 LGDCA、LGDGZ 100%股权交易已获审批并完成工商备案，2025 年二季度起纳入合并报表 ...",
+    "id": "8hpLIkW7fZr",
+    "order": 1742369706179,
+    "createdAt": "2025-03-19T02:35:36.000Z",
+    "publishDate": "2025-03-19T07:35:06.179Z",
+    "title": "TCL科技收购LGD广州工厂100%股权完成工商变更，将提升公司盈利水平",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 10:35:36",
+    "uuid": "8f78a2e2-a0b4-4deb-af71-15ba7377f1d1"
   },
   {
     "newsArray": [
