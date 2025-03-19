@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美股大型科技股盘前普涨，特斯拉涨超2%，英伟达涨超1%，亚马逊、Meta、苹果、谷歌等均有不同程度上涨。",
+    "id": "8hrCvfDtNKX",
+    "order": 1742391804542,
+    "createdAt": "2025-03-19T13:43:25.000Z",
+    "publishDate": "2025-03-19T13:43:24.542Z",
+    "title": "美股大型科技股盘前普涨，特斯拉涨超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 21:43:25",
+    "uuid": "a3241223-c72d-43ea-af42-25165c5ae762"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国巨石2024年实现营业收入158.56亿元，同比增长6.59%，净利润24.45亿元，同比下降19.70% ...",
+    "id": "8hrFxGKiqsh",
+    "order": 1742391767450,
+    "createdAt": "2025-03-19T13:37:22.000Z",
+    "publishDate": "2025-03-19T13:42:47.450Z",
+    "title": "中国巨石：2024年净利润同比下降19.70%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 21:37:22",
+    "uuid": "324952eb-177b-4c3f-bf37-66cf289c4752"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -15,6 +51,24 @@
     "up": false,
     "date": "2025-03-19 21:25:21",
     "uuid": "d3599f7d-d696-4754-b504-7eb95510d988"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "波音股价盘前上涨4.9%。",
+    "id": "8hrFDxMGqK2",
+    "order": 1742391827646,
+    "createdAt": "2025-03-19T13:22:19.000Z",
+    "publishDate": "2025-03-19T13:43:47.646Z",
+    "title": "波音股价盘前上涨4.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-19 21:22:19",
+    "uuid": "b90e07ae-753c-4a42-8f00-c45c76c4c9ef"
   },
   {
     "newsArray": [
