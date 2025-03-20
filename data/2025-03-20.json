@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "外卖员称在汉堡王门店遭员工辱骂，女店员否认并拒绝道歉。汉堡王官方成立专项调查组进行核查。",
+    "id": "8hqRBWcqrf7",
+    "order": 1742480478003,
+    "createdAt": "2025-03-20T14:21:19.000Z",
+    "publishDate": "2025-03-20T14:21:18.003Z",
+    "title": "客服回应外卖员称遭汉堡王员工辱骂：已成立专项调查组",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 22:21:19",
+    "uuid": "0c5fa4d5-aa18-4ea0-a54f-708f11a95d09"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "xAI近期在API中引入图像生成功能，由“grok-2-image-1212”模型支持，用户可通过文本生成最多10张JPG图像，每次收费0.07美元 ...",
+    "id": "8hsSFPj9qfC",
+    "order": 1742480191610,
+    "createdAt": "2025-03-20T14:16:32.000Z",
+    "publishDate": "2025-03-20T14:16:31.610Z",
+    "title": "马斯克xAI推图像生成API，每张图收费约0.51元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 22:16:32",
+    "uuid": "f78433cc-bd0a-4e68-a25d-aaee0628c4c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "欧洲理事会主席科斯塔与乌总统泽连斯基通话，讨论俄乌停火议题，提到停止袭击能源及民用基础设施是结束冲突的关键第一步。",
+    "id": "8hrkfvuBsBq",
+    "order": 1742480051759,
+    "createdAt": "2025-03-20T14:14:12.000Z",
+    "publishDate": "2025-03-20T14:14:11.759Z",
+    "title": "欧洲理事会主席与乌总统通话 讨论俄乌停火议题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 22:14:12",
+    "uuid": "370d9441-bb02-4c71-b719-ebd6d45d18d8"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "手机中国" },
       { "siteName": "ITBear科技资讯" }
@@ -528,6 +581,24 @@
     "up": false,
     "date": "2025-03-20 19:35:50",
     "uuid": "8ac9c84e-4d59-44b3-8afc-34d236cdd39e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" },
+      { "siteName": "证券时报网" }
+    ],
+    "summary": "华福证券党委副书记、总裁黄德良表示，2025年全国两会强调发展新质生产力和科技创新 ...",
+    "id": "8hs8Ep6uGHV",
+    "order": 1742481084832,
+    "createdAt": "2025-03-20T11:34:47.000Z",
+    "publishDate": "2025-03-20T14:31:24.832Z",
+    "title": "深入贯彻全国两会精神，为科技创新时代贡献华福力量",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 19:34:47",
+    "uuid": "2fc5485c-29d8-4156-9314-296a93785aad"
   },
   {
     "newsArray": [
@@ -2237,6 +2308,25 @@
     "up": false,
     "date": "2025-03-20 15:24:41",
     "uuid": "7b317289-7d08-4dc8-a016-e39e3337534b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "淘宝账号诚信体系升级，新增四项功能：旺旺一键反馈虚假凭证、商家工具智能拦截异常账号、异常订单一键拒退及异常退款投诉，强化商家售后自主处置能力，打击恶意羊毛党 ...",
+    "id": "8hsCtxSy6Qf",
+    "order": 1742479848793,
+    "createdAt": "2025-03-20T07:08:44.000Z",
+    "publishDate": "2025-03-20T14:10:48.793Z",
+    "title": "淘宝账号诚信体系针对异常退款升级四项售后处置能力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 15:08:44",
+    "uuid": "8f77ae0b-ef4b-4695-8dc1-09ae84d2b14b"
   },
   {
     "newsArray": [
