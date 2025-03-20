@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "北京市第二中级人民法院对周茂非贪污、受贿案作出判决，周茂非因贪污罪获刑十二年六个月，罚金一百万元。受贿罪获刑十四年六个月，罚金二百万元，合并执行有期徒刑十七年，并处罚金三百万元 ...",
+    "id": "8hsDG0fvI6a",
+    "order": 1742441605611,
+    "createdAt": "2025-03-20T03:33:26.000Z",
+    "publishDate": "2025-03-20T03:33:25.611Z",
+    "title": "北京文投集团原董事长周茂非一审获刑17年",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 11:33:26",
+    "uuid": "1f545a3d-8b92-4460-accf-388c531e2df8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "腾讯游戏在GDC 2025大会上公布了《王者荣耀世界》的最新实机预告并提供试玩。该游戏是一款基于虚幻5引擎开发的开放世界RPG，支持光线追踪和DLSS 3技术，融合东方幻想美学与英雄故事 ...",
+    "id": "8hs798GBl8g",
+    "order": 1742441081245,
+    "createdAt": "2025-03-20T03:17:35.000Z",
+    "publishDate": "2025-03-20T03:24:41.245Z",
+    "title": "腾讯游戏《王者荣耀世界》GDC 2025 实机预告公开，将登陆 PC 及移动平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 11:17:35",
+    "uuid": "d2bedc39-a1ff-4dac-8d67-e983e8430fdd"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "电商报" },
       { "siteName": "电商报" }
@@ -145,6 +181,32 @@
     "up": false,
     "date": "2025-03-20 10:34:44",
     "uuid": "b2cb9fad-e3dc-4e5c-bed5-e1407004034d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "机器之心" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI推出更强大的o1-pro推理模型，仅对特定开发者开放，支持多种功能并与API兼容 ...",
+    "id": "8hs8wjbfAv3",
+    "order": 1742441147658,
+    "createdAt": "2025-03-20T02:31:52.000Z",
+    "publishDate": "2025-03-20T03:25:47.658Z",
+    "title": "OpenAI 推出最贵 o1-pro API，价格是 DeepSeek 千倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 10:31:52",
+    "uuid": "7f3dcd87-e6a9-4e0c-9a05-15b5fc887ceb"
   },
   {
     "newsArray": [
@@ -310,6 +372,43 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "速途网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "鸿海董事长刘扬伟在2025 GTC大会上表示AI将成为公司重要运营动力，预计两年内服务器营收将超越iPhone业务，最快可能在今年实现。",
+    "id": "8hs4fD7XVgH",
+    "order": 1742441312635,
+    "createdAt": "2025-03-20T01:34:31.000Z",
+    "publishDate": "2025-03-20T03:28:32.635Z",
+    "title": "鸿海董事长刘扬伟：两年内服务器业务有望超过iPhone业务，最快今年有望实现",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 09:34:31",
+    "uuid": "3b4c81da-6afe-424e-9675-73a3dc10a7b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "证券时报网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "北汽新能源与优必选合作，利用优必选工业人形机器人Walker S1在与华为联合打造的享界超级工厂总装车间进行仪表线物料检测，检测准确率达99%，计划推进人形机器人新能源汽车示范产线。",
+    "id": "8hqbGUKSAJr",
+    "order": 1742441345838,
+    "createdAt": "2025-03-20T01:27:03.000Z",
+    "publishDate": "2025-03-20T03:29:05.838Z",
+    "title": "优必选与北汽新能源合作打造人形机器人新能源汽车产线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 09:27:03",
+    "uuid": "82b4cefe-fbf9-4d88-a5af-092f53a735fa"
+  },
+  {
+    "newsArray": [
       { "siteName": "证券时报网" },
       { "siteName": "华尔街见闻" },
       { "siteName": "新浪科技" },
@@ -451,6 +550,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "谷歌同意支付2800万美元，以解决一起集体诉讼。该诉讼指控谷歌偏袒白人和亚裔员工，给予他们更高薪酬和职业发展机会。和解协议已获加州法官初步批准，涉及至少6632名员工 ...",
+    "id": "8hrKywCqPdG",
+    "order": 1742441395445,
+    "createdAt": "2025-03-20T00:35:20.000Z",
+    "publishDate": "2025-03-20T03:29:55.445Z",
+    "title": "谷歌同意支付2800万美元以了结其偏袒白人和亚裔员工的指控",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 08:35:20",
+    "uuid": "a25a4e07-59fd-4d79-be75-6f0d48c308dd"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
@@ -556,6 +672,24 @@
     "up": false,
     "date": "2025-03-20 07:34:02",
     "uuid": "885347f6-40fa-425d-8bf4-e12a3dd49b07"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "波音公司首席财务官布莱恩·韦斯特表示，公司担忧特朗普总统的关税政策对供应商零部件供应的影响，并预计第一季度利润将因一次性冲击减少1.5亿美元。",
+    "id": "8hrKI4hNUOh",
+    "order": 1742441512470,
+    "createdAt": "2025-03-19T23:25:14.000Z",
+    "publishDate": "2025-03-20T03:31:52.470Z",
+    "title": "波音CFO称对特朗普关税影响感到担忧",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 07:25:14",
+    "uuid": "dcfff461-28cf-4fd9-8b4c-969096be0a4e"
   },
   {
     "newsArray": [
@@ -801,6 +935,30 @@
   {
     "newsArray": [
       { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美联储 FOMC 经济预期：2025 年 GDP 增速预期中值为 1.7%，去年 12 月预期为 2.1%。",
+    "id": "8hrZdlOGsi3",
+    "order": 1742441563285,
+    "createdAt": "2025-03-19T22:21:26.000Z",
+    "publishDate": "2025-03-20T03:32:43.285Z",
+    "title": "美联储大幅下调今年经济增长预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 06:21:26",
+    "uuid": "005ac0ca-1cd6-4835-a6dc-21214c522972"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "Odaily" },
@@ -868,6 +1026,24 @@
     "up": false,
     "date": "2025-03-20 00:41:29",
     "uuid": "4b8c3f41-6abb-43ec-8b6b-4622b5956551"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "有网友通过社交平台反映，北京环球影城内一名员工在角色扮演过程中与游客互动时存在肢体越界等不当行为 ...",
+    "id": "8hrN6ufb3wM",
+    "order": 1742441606439,
+    "createdAt": "2025-03-19T16:32:35.000Z",
+    "publishDate": "2025-03-20T03:33:26.439Z",
+    "title": "北京环球影城回应员工行为不当：已启动调查并暂停其工作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 00:32:35",
+    "uuid": "cd7d2e45-800c-43f9-aad9-f779de716328"
   },
   {
     "newsArray": [
