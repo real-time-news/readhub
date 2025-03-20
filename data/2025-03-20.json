@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "美国司法部破获一起针对iPhone等高端电子产品的国际盗窃案，犯罪团伙通过侵入FedEx系统和贿赂AT&T员工获取运输信息，实施跨国盗窃，涉案金额达数百万美元 ...",
+    "id": "8hsIECAsYYq",
+    "order": 1742479652268,
+    "createdAt": "2025-03-20T14:07:33.000Z",
+    "publishDate": "2025-03-20T14:07:32.268Z",
+    "title": "iPhone快递变“盗窃通道”，犯罪团伙跨国盗销被一锅端",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 22:07:33",
+    "uuid": "f5b232e8-9db5-4b77-a7c0-3d91dc9dbf43"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "戴尔人工智能服务器业务两年营收达100亿美元，预计2025年再增50%，占总营收15%。摩根士丹利给予戴尔“增持”评级，目标价128美元。",
+    "id": "8hsvYOat091",
+    "order": 1742479416319,
+    "createdAt": "2025-03-20T13:53:20.000Z",
+    "publishDate": "2025-03-20T14:03:36.319Z",
+    "title": "大摩：预计戴尔2025年人工智能服务器营收增长50%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-20 21:53:20",
+    "uuid": "551c8034-43d8-4b6a-8aab-e89982f72259"
+  },
+  {
+    "newsArray": [
       { "siteName": "每经网" },
       { "siteName": "证券时报网" },
       { "siteName": "第一财经" }
