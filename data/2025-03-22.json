@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "上海交通大学特聘教授洪亮团队发布了蛋白质设计大模型Venus，其核心能力是让蛋白质实现功能的“定向进化”。",
+    "id": "8hvqMyD4NmA",
+    "order": 1742633726929,
+    "createdAt": "2025-03-22T08:55:27.000Z",
+    "publishDate": "2025-03-22T08:55:26.929Z",
+    "title": "我国科研人员发布可让蛋白质“定向进化”的大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-22 16:55:27",
+    "uuid": "d39e0069-dfd1-4a0e-9c3c-abf325f5752a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国因禽流感导致鸡蛋供应紧张，农业部长罗林斯确认正从土耳其和韩国进口鸡蛋以缓解短缺，这一措施是暂时的，待国内供应增加后将停止进口。",
+    "id": "8hvZtObdbgK",
+    "order": 1742633522318,
+    "createdAt": "2025-03-22T08:52:03.000Z",
+    "publishDate": "2025-03-22T08:52:02.318Z",
+    "title": "为缓解“蛋荒” 美国从韩国土耳其进口鸡蛋",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-22 16:52:03",
+    "uuid": "b471f0be-5a60-402d-b39f-5115ace10692"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
