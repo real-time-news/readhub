@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "三星显示计划今年QD-OLED显示器面板出货量增长50%，2024年出货143万台。全球OLED显示器面板出货量近年显著增长，三星显示占2024年市场71.2%份额 ...",
+    "id": "8hz99p5fz6y",
+    "order": 1742809602541,
+    "createdAt": "2025-03-24T09:46:43.000Z",
+    "publishDate": "2025-03-24T09:46:42.541Z",
+    "title": "三星显示：目标今年 QD-OLED 显示器面板出货量同比增长 50%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 17:46:43",
+    "uuid": "e1fabbd2-3670-4a0a-88df-e07109ddcf07"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "爱范儿" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "苹果计划为Apple Watch集成摄像头，提升环境感知与AI功能，其中标准版摄像头位于显示屏内，Ultra版则设于表侧。同时，苹果考虑在AirPods中加入摄像头 ...",
+    "id": "8hyiJkJf0Yx",
+    "order": 1742809421283,
+    "createdAt": "2025-03-24T09:43:42.000Z",
+    "publishDate": "2025-03-24T09:43:41.283Z",
+    "title": "Apple Watch 将引入 AI 功能与摄像头，带来全新体验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 17:43:42",
+    "uuid": "f088667f-0642-4a0a-bfde-9df8f6109ffd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "香港科技大学、小米汽车和华中科技大学研究团队提出Uni-Gaussians架构，通过动态高斯场景图实现静态背景与动态实体的统一表征和分治渲染，结合光栅化图像渲染与高斯光线追踪LiDAR数据处理，提升自动驾驶场景下相机与LiDAR数据仿真的质量和计算效率。",
+    "id": "8hzDjQTBuuv",
+    "order": 1742809393238,
+    "createdAt": "2025-03-24T09:43:14.000Z",
+    "publishDate": "2025-03-24T09:43:13.238Z",
+    "title": "小米汽车首曝自动驾驶研究：相机和LiDAR联合重建框架Uni-Gaussians",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 17:43:14",
+    "uuid": "9635555e-98f0-482d-bcb4-a62a02ac9526"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "雷锋网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "微软全球最大规模的人工智能与物联网实验室位于上海张江，近期因合作合同到期且微软无意续投而传出关闭消息 ...",
+    "id": "8hz9nlNOkgN",
+    "order": 1742809339073,
+    "createdAt": "2025-03-24T09:42:20.000Z",
+    "publishDate": "2025-03-24T09:42:19.073Z",
+    "title": "微软-张江人工智能物联网实验室疑似已关闭，合作终止传言四起",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 17:42:20",
+    "uuid": "03dc7ee8-ab02-4516-b892-e14dfc218f8f"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
