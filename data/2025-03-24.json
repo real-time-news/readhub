@@ -1,6 +1,132 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "央行公告，为保持银行体系流动性充裕，自本月起MLF将采用固定数量、利率招标、多重价位中标方式操作。3月25日，央行将开展4500亿元1年期MLF操作。",
+    "id": "8hzFsftYJfr",
+    "order": 1742807612743,
+    "createdAt": "2025-03-24T09:13:33.000Z",
+    "publishDate": "2025-03-24T09:13:32.743Z",
+    "title": "央行：3月25日将开展4500亿元MLF操作 期限为1年期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 17:13:33",
+    "uuid": "b5a7637b-ca4e-4fa7-9e69-321de19411b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "乌克兰国防部长乌梅罗夫表示，乌克兰与美国代表团在利雅得开始会谈，重点讨论保护能源设施和关键基础设施等问题，乌方代表团包含能源专家及海军空军代表。",
+    "id": "8hyK1ZwcAJa",
+    "order": 1742807101724,
+    "createdAt": "2025-03-24T09:05:02.000Z",
+    "publishDate": "2025-03-24T09:05:01.724Z",
+    "title": "乌克兰国防部长：乌美代表团在利雅得开始会谈",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 17:05:02",
+    "uuid": "43fdb8d2-7f15-425d-b795-0fecf63849fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "比亚迪即将公布业绩，有望在2024年营收突破1000亿美元，超越特斯拉。港股比亚迪股份盘初涨2%，A股比亚迪涨1.75%。",
+    "id": "8hypRBdflr8",
+    "order": 1742807072429,
+    "createdAt": "2025-03-24T09:04:34.000Z",
+    "publishDate": "2025-03-24T09:04:32.429Z",
+    "title": "比亚迪绩前上涨，有望在2024年实现营收突破1000亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 17:04:34",
+    "uuid": "a4f809ad-0d84-417a-9167-491676dbb6ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星正在研发代号为“Haean”的智能眼镜，该产品将搭载安卓系统，主打舒适性和混合现实体验。眼镜设计适应多种脸型，配备多个摄像头和传感器以实现精准动作追踪 ...",
+    "id": "8hz3iD5Pmlg",
+    "order": 1742806800992,
+    "createdAt": "2025-03-24T09:00:01.000Z",
+    "publishDate": "2025-03-24T09:00:00.992Z",
+    "title": "三星“Haean”智能眼镜来袭，主打舒适适配多脸型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 17:00:01",
+    "uuid": "d79348a3-0661-464b-b151-82beabd06912"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "新芽" },
+      { "siteName": "界面" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "本轮融资由国投招商、Center Venture、Hydrogenic联合领投，广州水木氢云股权投资、北京顺源长芯咨询管理、海南易德投资、北京太极华青佩诚等多家投资机构参与投资。",
+    "id": "8hz1c7mjs8t",
+    "order": 1742806747166,
+    "createdAt": "2025-03-24T08:59:08.000Z",
+    "publishDate": "2025-03-24T08:59:07.166Z",
+    "title": "海珀特宣布完成4.5亿元A轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 16:59:08",
+    "uuid": "d268c0b0-c560-4648-a017-5d43a07b0d65"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "两位美国宇航员在国际空间站滞留9个多月后安全返回地球，期间按常规工作周领取工资，无额外加班或节假日报酬 ...",
+    "id": "8hz5qTqRWu9",
+    "order": 1742806735474,
+    "createdAt": "2025-03-24T08:58:56.000Z",
+    "publishDate": "2025-03-24T08:58:55.474Z",
+    "title": "NASA回应：太空滞留宇航员仅领常规工资，无加班费",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 16:58:56",
+    "uuid": "e18a262b-e0c0-4f33-8c44-f668c35442f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "新芽" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "玛斯特新能源完成超亿元天使轮融资，将加速自研“星云”新能源管理系统升级，深化双轮驱动战略。公司成立于2023年，聚焦L4级无人车智慧运营，提供三位一体解决方案，助力城市无人化服务升级。",
+    "id": "8hzAwQ6DA50",
+    "order": 1742806663963,
+    "createdAt": "2025-03-24T08:57:43.000Z",
+    "publishDate": "2025-03-24T08:57:43.963Z",
+    "title": "玛斯特新能源完成超亿元人民币天使轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 16:57:43",
+    "uuid": "3703b113-2267-46c8-8e08-a2a945f7f135"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -304,6 +430,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日本财政大臣加藤胜信表示，日本尚未摆脱通胀紧缩，尽管物价正在上涨，但其他趋势似乎积极。",
+    "id": "8hz1PdHvrxc",
+    "order": 1742807154211,
+    "createdAt": "2025-03-24T07:14:02.000Z",
+    "publishDate": "2025-03-24T09:05:54.211Z",
+    "title": "日本财政大臣加藤胜信：日本尚未摆脱通胀紧缩",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 15:14:02",
+    "uuid": "769b4057-3faf-4e45-ab05-df99f313e52b"
+  },
+  {
+    "newsArray": [
       { "siteName": "中证网" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -469,6 +613,24 @@
     "up": false,
     "date": "2025-03-24 14:12:16",
     "uuid": "e19274ce-4e4a-416e-9216-90ac89349c0b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "猎云网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "Shulex（VOC.AI）完成亿元级融资，由盛大资本领投。公司将加速AI Agent数字员工开发，拓展全球业务，助力电商品牌提升客服体验，释放人类生产力 ...",
+    "id": "8hynKCPARLs",
+    "order": 1742807063533,
+    "createdAt": "2025-03-24T06:07:17.000Z",
+    "publishDate": "2025-03-24T09:04:23.533Z",
+    "title": "跨境AI Agent企业Shulex完成亿元级融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 14:07:17",
+    "uuid": "694a4542-6e0d-40c2-930f-7e26e2a318dd"
   },
   {
     "newsArray": [
@@ -1546,6 +1708,30 @@
     "up": false,
     "date": "2025-03-24 10:25:22",
     "uuid": "7e53f398-c946-4eaf-aa73-2edad9ee465b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "洛阳钼业发布年度财报，营收2130.29亿人民币，同比增长14.4%，纯利135.32亿元，增长64%，创历史新高。每股收益63分，每10股派息2.55元 ...",
+    "id": "8hyfSoHT4ii",
+    "order": 1742807629786,
+    "createdAt": "2025-03-24T02:24:00.000Z",
+    "publishDate": "2025-03-24T09:13:49.786Z",
+    "title": "洛阳钼业绩后涨超7% 公司年度纯利135.32亿元同比增长64%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-24 10:24:00",
+    "uuid": "a5e47092-9a64-4d9a-bf2f-287a9eb483e9"
   },
   {
     "newsArray": [
