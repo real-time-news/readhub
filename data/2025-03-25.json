@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "A股市场中字头个股尾盘走强，中成股份涨停，中毅达、中国一重此前涨停，多股跟涨。",
+    "id": "8i0klHujkVm",
+    "order": 1742885708476,
+    "createdAt": "2025-03-25T06:55:08.000Z",
+    "publishDate": "2025-03-25T06:55:08.476Z",
+    "title": "中字头个股尾盘走强，中成股份直线拉升涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 14:55:08",
+    "uuid": "eea137e4-6ac3-436f-bd5b-5881a3ab23be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "阿里云近期在全球顶尖高校进行大规模AI人才校园招聘，涉及大语言模型、多模态理解与生成等领域 ...",
+    "id": "8i0klBAL0me",
+    "order": 1742885703707,
+    "createdAt": "2025-03-25T06:53:54.000Z",
+    "publishDate": "2025-03-25T06:55:03.707Z",
+    "title": "阿里云开启近年来规模最大的AI人才校园招聘",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 14:53:54",
+    "uuid": "decce697-a608-4360-adbd-4171bcd4612e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "蓝点网" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI 更新了高级语音模式，使 ChatGPT 语音助手更自然、减少打断，免费用户可体验无打断对话，付费用户享受更个性化服务。此举旨在应对激烈市场竞争，提升用户互动体验。",
+    "id": "8i0PLuWrJqU",
+    "order": 1742885714505,
+    "createdAt": "2025-03-25T06:52:52.000Z",
+    "publishDate": "2025-03-25T06:55:14.505Z",
+    "title": "​OpenAI 更新语音助手功能，让对话更自然流畅、减少打断频率",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 14:52:52",
+    "uuid": "422080cd-e5d4-4d45-94b8-17cf996cd805"
+  },
+  {
+    "newsArray": [
       { "siteName": "i黑马" },
       { "siteName": "格隆汇" },
       { "siteName": "界面" }
@@ -15,6 +67,23 @@
     "up": false,
     "date": "2025-03-25 14:52:18",
     "uuid": "3337c553-8a1e-456c-be01-7fa04c395665"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "百度副总裁谢广军被传已提交离职申请，但百度官方尚未确认此消息，其内部系统仍可查询到相关信息 ...",
+    "id": "8i0foPogQme",
+    "order": 1742885742034,
+    "createdAt": "2025-03-25T06:46:41.000Z",
+    "publishDate": "2025-03-25T06:55:42.034Z",
+    "title": "百度副总裁谢广军被传离职，内部系统仍可查，官方未回应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 14:46:41",
+    "uuid": "5cf85520-4860-45af-9b52-595b8b1d46a1"
   },
   {
     "newsArray": [
@@ -164,6 +233,40 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "杭州蛇年第六次土拍共出让4宗宅地，总揽金101.53亿元，整体平均溢价率52% ...",
+    "id": "8i0cCHygTEf",
+    "order": 1742885799003,
+    "createdAt": "2025-03-25T06:04:18.000Z",
+    "publishDate": "2025-03-25T06:56:39.003Z",
+    "title": "杭州又出新地王，楼面单价突破 7.7 万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 14:04:18",
+    "uuid": "6c62e971-de83-4340-b79d-e9c2050dd7bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "哪吒汽车CTO戴大力已离职加入奇瑞，智驾负责人王俊平加入商汤绝影，哪吒汽车确认该消息属实。",
+    "id": "8i0foRT9cjx",
+    "order": 1742885806881,
+    "createdAt": "2025-03-25T06:04:03.000Z",
+    "publishDate": "2025-03-25T06:56:46.881Z",
+    "title": "传哪吒汽车CTO和智驾负责人离职，官方回应：属实",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 14:04:03",
+    "uuid": "d370efc3-0c68-4fdb-ba07-23a2f9d62315"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "新浪科技" },
@@ -284,6 +387,24 @@
     "up": false,
     "date": "2025-03-25 13:44:54",
     "uuid": "4d0a2069-c9fa-49e9-bed2-bf96279dd737"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "蔚来创始人李斌在沟通会上表示，蔚来在智能化和技术上的投入巨大，但传播不足，导致外界对其技术实力认知不够 ...",
+    "id": "8i0RX0iYdtB",
+    "order": 1742885838793,
+    "createdAt": "2025-03-25T05:44:34.000Z",
+    "publishDate": "2025-03-25T06:57:18.793Z",
+    "title": "李斌坦言营销传播没做好：蔚来2016年就跑纽北了，但大家忘记了",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 13:44:34",
+    "uuid": "0e3f3540-9b62-4d28-b301-28098f1fe908"
   },
   {
     "newsArray": [
@@ -988,6 +1109,25 @@
     "up": false,
     "date": "2025-03-25 11:14:10",
     "uuid": "fa9af11d-8b8a-4bf3-9b36-a948c3d741e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "量子位" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "极氪发布首款超级电混车型极氪9X，全系零百加速达3秒级，定位为全球超豪华全尺寸SUV。该车首发搭载极氪超级电混技术和千里浩瀚H9智能方案，预计售价100万起，将于4月上海车展亮相，第三季度上市。",
+    "id": "8hz84ZV1AAz",
+    "order": 1742885732390,
+    "createdAt": "2025-03-25T03:13:54.000Z",
+    "publishDate": "2025-03-25T06:55:32.390Z",
+    "title": "极氪首款百万级超级电混车型极氪9X公布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 11:13:54",
+    "uuid": "9eaafe47-5b09-4b57-b20b-079de7b084c0"
   },
   {
     "newsArray": [
