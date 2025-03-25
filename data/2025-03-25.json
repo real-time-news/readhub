@@ -1,6 +1,64 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "投资界" },
+      { "siteName": "机器之心" }
+    ],
+    "summary": "深势科技联合北京科学智能研究院与北京大学推出全球首个科学大模型Uni-3DAR，通过自回归下一token预测技术统一3D结构生成与理解，解决数据表示割裂和任务建模孤立问题，并创新构建Compressed Spatial Tokens及Masked Next-Token Preiction两大核心技术。",
+    "id": "8i0bpJ7AgZ7",
+    "order": 1742887529742,
+    "createdAt": "2025-03-25T07:25:30.000Z",
+    "publishDate": "2025-03-25T07:25:29.742Z",
+    "title": "深势科技发布跨尺度科学模型Uni-3DAR",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 15:25:30",
+    "uuid": "6c9ae3dc-2852-4689-93c1-74c0c06979e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "商务部将出台离境退税针对性措施，增加退税商店数量，优化退税服务，便利境外旅客在华购物，扩大入境消费。",
+    "id": "8i0mu7dpg8d",
+    "order": 1742887426033,
+    "createdAt": "2025-03-25T07:23:46.000Z",
+    "publishDate": "2025-03-25T07:23:46.033Z",
+    "title": "商务部：将会同有关部门出台离境退税针对性措施 增加退税商店数量",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 15:23:46",
+    "uuid": "4ee2bfd4-62f0-4d87-8c30-cee94caf1911"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "2024年末吉林省总人口为2317.31万人，比上年减少22.10万人，其中自然减少人口11.3万人，省际间净流出人口10.8万人 ...",
+    "id": "8i0IwwiVdmB",
+    "order": 1742887329263,
+    "createdAt": "2025-03-25T07:22:10.000Z",
+    "publishDate": "2025-03-25T07:22:09.263Z",
+    "title": "吉林省去年常住人口减少22万，人口性别比为99.27",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 15:22:10",
+    "uuid": "9b193bac-0607-4601-863e-14f2d295b42f"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
