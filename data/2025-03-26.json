@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "俄美会谈期间，乌克兰被指对俄罗斯多地民用能源基础设施发动无人机袭击，涉及克拉斯诺达尔边疆区、卢甘斯克和克里米亚的电力和天然气设施。俄国防部批评乌方缺乏履约能力，乌方尚未回应。",
+    "id": "8i1DOj9zPQS",
+    "order": 1742944938899,
+    "createdAt": "2025-03-25T23:22:19.000Z",
+    "publishDate": "2025-03-25T23:22:18.899Z",
+    "title": "俄称乌在俄美会谈期间袭击多地民用能源基础设施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-26 07:22:19",
+    "uuid": "5624c082-b5cd-4e1c-84c0-14689de82e84"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "OpenAI推出GPT-4o图像生成功能，集成先进图像生成器，支持文本渲染、指令遵循与上下文调用，可对上传图像二次创作。该功能将逐步向各类用户开放，开发者也可通过API调用。",
+    "id": "8i1svQktkWo",
+    "order": 1742944906769,
+    "createdAt": "2025-03-25T23:21:47.000Z",
+    "publishDate": "2025-03-25T23:21:46.769Z",
+    "title": "OpenAI推出GPT-4o图像生成功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-26 07:21:47",
+    "uuid": "114e6aec-09ad-4d0d-8c6e-18c08a2a0ae0"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "凤凰科技" },
       { "siteName": "华尔街见闻" }
