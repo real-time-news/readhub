@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "三星电子称联席首席执行官韩宗熙（Han Jong-Hee）去世。",
+    "id": "8i0JdyKRH5J",
+    "order": 1742862743477,
+    "createdAt": "2025-03-25T00:32:24.000Z",
+    "publishDate": "2025-03-25T00:32:23.477Z",
+    "title": "三星电子称联席首席执行官韩宗熙去世",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 08:32:24",
+    "uuid": "337f137b-3b39-471f-bc28-aca3f9a84218"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "现代汽车美国佐治亚州电动汽车工厂本周将开业，初始年产能30万辆，目标提升至50万辆。",
+    "id": "8i0ICTaFo7M",
+    "order": 1742862693320,
+    "createdAt": "2025-03-25T00:23:11.000Z",
+    "publishDate": "2025-03-25T00:31:33.320Z",
+    "title": "现代汽车美国佐治亚州工厂预计本周开业 目标年产能50万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 08:23:11",
+    "uuid": "8b35fa0b-b7bc-4dd5-8ef8-07ad43cfaee2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "谷歌计划在安卓16中优化内核模块加载方式，大幅缩短设备启动时间。Pixel 10的内核模块加载时间可减少30%，虽不完全等同于开机速度提升30%，但将有效优化整体启动流程 ...",
+    "id": "8i08utLIiV6",
+    "order": 1742862136936,
+    "createdAt": "2025-03-25T00:22:17.000Z",
+    "publishDate": "2025-03-25T00:22:16.936Z",
+    "title": "安卓16将提升手机开机速度 首发机型Pixel 10或下半年见",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 08:22:17",
+    "uuid": "5f4c3975-e7fd-48c4-94c5-1c9330c5aba5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "浙江三澳核电项目中，南消与中广核合作研发的“华龙一号”三代核电消火栓设备成功交付，实现国产化突破。该设备作为核电站消防系统核心组件，性能达国内先进水平，填补技术空白 ...",
+    "id": "8i0GjkXNXMO",
+    "order": 1742861823472,
+    "createdAt": "2025-03-25T00:17:04.000Z",
+    "publishDate": "2025-03-25T00:17:03.472Z",
+    "title": "填补国内技术空白，华龙一号核电机组核岛消火栓设备实现自主供货",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 08:17:04",
+    "uuid": "e4340445-ccb2-4e47-8667-730aac69c9fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2024年上市钢企业绩分化明显，仅南钢股份净利润增长，其他如方大特钢、中信特钢、华菱钢铁等均下滑，主要受下游需求减弱影响。业绩增长企业多因高端产品产销增加 ...",
+    "id": "8i0Gax8HUuL",
+    "order": 1742861647800,
+    "createdAt": "2025-03-25T00:14:07.000Z",
+    "publishDate": "2025-03-25T00:14:07.800Z",
+    "title": "钢企业绩分化，业内建议建立产能治理新机制",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 08:14:07",
+    "uuid": "1e46bf75-2f62-4092-bc84-26849963bd4d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "华泰证券看好2025年大消费板块基本面改善与龙头重估行情，建议关注四大投资主线：国货崛起、情绪消费、银发经济及AI+消费。",
+    "id": "8i0Gabf0mri",
+    "order": 1742861604941,
+    "createdAt": "2025-03-24T23:52:24.000Z",
+    "publishDate": "2025-03-25T00:13:24.941Z",
+    "title": "华泰证券：消费倾向有望上行，优选四大投资主线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 07:52:24",
+    "uuid": "be31fe07-18fd-481e-84df-4730fe744713"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -121,6 +228,25 @@
     "up": false,
     "date": "2025-03-25 07:33:33",
     "uuid": "92f78a07-fdf3-4112-ad03-9d6c02ef15cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "西子洁能旗下公司成功完成国内首台应用于兰炭尾气发电的小型亚临界机组烘炉点火，为兰炭产业绿色发展树立标杆，推动兰炭尾气高效利用技术进步。",
+    "id": "8hzDjx7d4bH",
+    "order": 1742861758844,
+    "createdAt": "2025-03-24T23:33:17.000Z",
+    "publishDate": "2025-03-25T00:15:58.844Z",
+    "title": "国内首台兰炭尾气小型亚临界发电机组烘炉点火一次成功",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 07:33:17",
+    "uuid": "e2ff25e6-18bf-4c06-bdb0-39ee39388638"
   },
   {
     "newsArray": [
@@ -261,6 +387,44 @@
     "up": false,
     "date": "2025-03-25 06:51:16",
     "uuid": "7ff25cec-72f1-4dd4-ac3a-6ff5ab547531"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "FBI新组建工作组调查针对特斯拉的攻击行为，马斯克为特朗普政府效率部主管，得克萨斯州奥斯汀特斯拉展厅发现若干“启动”装置，FBI协助当地警方调查。",
+    "id": "8hzyEwLrAU9",
+    "order": 1742861607818,
+    "createdAt": "2025-03-24T22:32:06.000Z",
+    "publishDate": "2025-03-25T00:13:27.818Z",
+    "title": "美国FBI针对特斯拉面临的威胁成立工作组",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 06:32:06",
+    "uuid": "85f20659-c453-4701-96dc-fe492ad0c62e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "特斯拉收高11.93%成美股成交额第一，韩国散户投资者今年向其净投入22亿美元。FBI针对特斯拉面临的威胁成立工作组。英伟达收高3.15%，CEO黄仁勋演讲内容未超预期 ...",
+    "id": "8i013bOEdLl",
+    "order": 1742861507208,
+    "createdAt": "2025-03-24T21:22:13.000Z",
+    "publishDate": "2025-03-25T00:11:47.208Z",
+    "title": "3月24日美股成交额前20：特斯拉大涨11.9%创4个月来最佳表现",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-25 05:22:13",
+    "uuid": "3978f9d0-a6f8-42ae-8647-6da60aa18ecd"
   },
   {
     "newsArray": [
