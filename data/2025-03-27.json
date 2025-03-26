@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AI公司Anthropic在与音乐出版商的版权纠纷中取得初步胜利，美国法官拒绝颁布限制其使用受版权保护歌词进行AI训练的禁令 ...",
+    "id": "8i30qpWQvoh",
+    "order": 1743019360096,
+    "createdAt": "2025-03-26T20:02:40.000Z",
+    "publishDate": "2025-03-26T20:02:40.096Z",
+    "title": "Anthropic 取得 AI 版权官司初步胜利，出版商被指要求过于宽泛",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 04:02:40",
+    "uuid": "7e23c8c9-c599-4a7d-b765-777a8033352f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美股三大指数集体收跌，纳指跌2.04%创3月11日以来最大单日跌幅，标普500指数跌1.12%，道指跌0.31%。大型科技股普跌，特斯拉、英伟达均跌超5%。",
+    "id": "8i2opEJgbuv",
+    "order": 1743019329218,
+    "createdAt": "2025-03-26T20:02:10.000Z",
+    "publishDate": "2025-03-26T20:02:09.218Z",
+    "title": "美股收盘：纳指创3月11日以来最大单日跌幅 特斯拉跌超5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 04:02:10",
+    "uuid": "47b88fa3-cd5d-42cb-acf8-45acc494bcd3"
+  },
+  {
+    "newsArray": [
       { "siteName": "太平洋电脑网" },
       { "siteName": "智源社区" },
       { "siteName": "智源社区" }
