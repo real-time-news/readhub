@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "承德远利科技发展有限公司成立，法定代表人宋威，注册资本1000万人民币，经营范围涵盖技术服务与电力业务，由国投电力全资持股。",
+    "id": "8i44QqFFSsX",
+    "order": 1743059782465,
+    "createdAt": "2025-03-27T07:16:23.000Z",
+    "publishDate": "2025-03-27T07:16:22.465Z",
+    "title": "国投电力在承德成立科技发展公司，注册资本1000万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 15:16:23",
+    "uuid": "1308d733-63b0-44c0-80c9-24390a71bc20"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "猎云网" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "SHEIN凭借数字化按需柔性供应链优势，成为2024年全球增长最快的时尚零售商，市场份额达1.53%，超越ZARA、H&amp。M和优衣库，位列全球第三 ...",
+    "id": "8i44YkuJn3K",
+    "order": 1743059617311,
+    "createdAt": "2025-03-27T07:13:38.000Z",
+    "publishDate": "2025-03-27T07:13:37.311Z",
+    "title": "GlobalData：SHEIN成2024年增长最快时尚零售商",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 15:13:38",
+    "uuid": "fbd9e88e-e7cb-4576-82ce-c747999aa378"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国家发展和改革委员会原党组成员、副主任徐宪平涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。",
+    "id": "8i460pL8Swy",
+    "order": 1743059596102,
+    "createdAt": "2025-03-27T07:13:17.000Z",
+    "publishDate": "2025-03-27T07:13:16.102Z",
+    "title": "国家发改委原副主任徐宪平被查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 15:13:17",
+    "uuid": "87d74287-08e5-4ea5-b51e-02229e20b57a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "多只跨境ETF表现活跃，新经济ETF尾盘涨停，成交超25亿元，换手率超820%。受港股医药股大涨影响，恒生医疗、创新药等相关ETF涨幅超5%。",
+    "id": "8i3riBGJF3E",
+    "order": 1743058931862,
+    "createdAt": "2025-03-27T07:02:12.000Z",
+    "publishDate": "2025-03-27T07:02:11.862Z",
+    "title": "多只跨境ETF逆势活跃，新经济ETF尾盘涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 15:02:12",
+    "uuid": "8a11c76c-f035-4763-b989-1d4879afd286"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "南方周末" }
@@ -15,6 +87,25 @@
     "up": false,
     "date": "2025-03-27 14:53:25",
     "uuid": "a932d12c-b16f-4931-87fa-8bea35cd1290"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "我国首个海洋氢氨醇一体化项目在山东烟台完工并进入调试阶段，包含一个高度超50米、重2万多吨的半潜式海上制氢平台 ...",
+    "id": "8i43uZMna5D",
+    "order": 1743058993648,
+    "createdAt": "2025-03-27T06:53:11.000Z",
+    "publishDate": "2025-03-27T07:03:13.648Z",
+    "title": "我国首个海洋氢氨醇一体化项目建设完工",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 14:53:11",
+    "uuid": "d89dff3d-ec1c-4924-8b1c-3de5125dd059"
   },
   {
     "newsArray": [
@@ -1309,6 +1400,24 @@
     "up": false,
     "date": "2025-03-27 09:42:27",
     "uuid": "da857817-594e-425b-ab8a-9a46fcfe40f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美国联邦航空管理局计划今年招聘2000名空中交通管制员培训生，并将对波音公司进行严格监督，包括监控其制造方法、维护程序和软件更新。",
+    "id": "8i3KD5ZPKjS",
+    "order": 1743059001071,
+    "createdAt": "2025-03-27T01:41:40.000Z",
+    "publishDate": "2025-03-27T07:03:21.071Z",
+    "title": "FAA计划招募2000名空中交通管制员 严格监管波音",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 09:41:40",
+    "uuid": "6ad2c8dc-d29c-4cff-8ada-91a1314478b7"
   },
   {
     "newsArray": [
