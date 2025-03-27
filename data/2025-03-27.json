@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "蔚来拟发行不超过118,793,300股A类普通股，资金将用于技术研发、强化资产负债表及企业一般用途。",
+    "id": "8i4GipHX8mV",
+    "order": 1743068621118,
+    "createdAt": "2025-03-27T09:43:42.000Z",
+    "publishDate": "2025-03-27T09:43:41.118Z",
+    "title": "蔚来：拟发行不超过1.1879亿股A类普通股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 17:43:42",
+    "uuid": "1b0c99fb-d1af-44fe-bb88-701deec4ac51"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "金融界" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国芯科技正在与客户探索AI MCU芯片在机器人智能传感器模组中的应用，但尚未实现芯片在机器人领域的实际销售。",
+    "id": "8i4FZpWz6xy",
+    "order": 1743068565764,
+    "createdAt": "2025-03-27T09:42:46.000Z",
+    "publishDate": "2025-03-27T09:42:45.764Z",
+    "title": "国芯科技(688262.SH)：暂未有芯片在机器人领域实现实际销售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 17:42:46",
+    "uuid": "e4c59722-a997-49fb-a2ba-d27ba7a5e0e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果正在加大对人工智能领域的投入，可能计划通过一项数百亿美元的交易收购由OpenAI前CTO创立的Thinking Machines Lab，以提升其在AI领域的竞争力，该实验室专注于多模态AI模型开发，团队成员来自OpenAI、Meta和Google DeepMind等。",
+    "id": "8i48rISnW8b",
+    "order": 1743068546285,
+    "createdAt": "2025-03-27T09:42:27.000Z",
+    "publishDate": "2025-03-27T09:42:26.285Z",
+    "title": "苹果考虑收购OpenAI前CTO创立的新公司 金额达百亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 17:42:27",
+    "uuid": "399d2a95-52f7-4ea5-bc76-95ca8a3ec42b"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "开源中国" },
       { "siteName": "IT 之家" }
@@ -180,6 +233,24 @@
     "up": false,
     "date": "2025-03-27 17:25:42",
     "uuid": "07b1901d-0529-48a7-a7f2-eb80a96fca6d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "蓝点网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "高通向欧盟、美国和韩国的监管机构提起对Arm的秘密诉讼，指控其采取不公平商业行为。Arm曾通过开放许可模式建立生态系统，但现在发展定制芯片业务，并被指限制高通技术使用，改变许可模式以支持自身利益 ...",
+    "id": "8i3lLHeyNjE",
+    "order": 1743068586936,
+    "createdAt": "2025-03-27T09:25:28.000Z",
+    "publishDate": "2025-03-27T09:43:06.936Z",
+    "title": "高通据称在美欧韩三地秘密起诉Arm：存在不公平商业行为",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 17:25:28",
+    "uuid": "eddea11f-b5bc-40bc-bb0b-1e29ebe89ceb"
   },
   {
     "newsArray": [
