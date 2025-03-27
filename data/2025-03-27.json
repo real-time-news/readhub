@@ -1,6 +1,149 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "VMware起诉西门子，指控其在美国业务中使用大量未授权软件副本。纠纷始于2024年9月，西门子提交的软件使用清单被发现与实际部署数量严重不符 ...",
+    "id": "8i4EIhyzamP",
+    "order": 1743070479940,
+    "createdAt": "2025-03-27T10:14:39.000Z",
+    "publishDate": "2025-03-27T10:14:39.940Z",
+    "title": "VMware起诉西门子非法使用数千份未授权软件副本",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 18:14:39",
+    "uuid": "8704edd4-43d2-4ed7-90a7-a55eb8375efe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "高盛集团亚太区总裁施南德在博鳌亚洲论坛上表示，全球通胀预计将持续回落，发达经济体将更快回到通胀目标水平，亚太地区通胀接近或低于央行目标 ...",
+    "id": "8i4IBpzEFyB",
+    "order": 1743070398446,
+    "createdAt": "2025-03-27T10:13:19.000Z",
+    "publishDate": "2025-03-27T10:13:18.446Z",
+    "title": "高盛：预计全球通货膨胀将持续回落",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 18:13:19",
+    "uuid": "18fcf3cc-43d9-43ed-b727-621be2b02100"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "中国移动联合长江航务管理局在武汉发布“5G长江新链”，宣布建成全球首个内河航运5G-A通感一体网络，实现长江干线多省份5G全覆盖及重点区域5G-A覆盖，为长江航运提供全方位感知和通信保障 ...",
+    "id": "8i4BHRzI7Lg",
+    "order": 1743070118906,
+    "createdAt": "2025-03-27T10:08:38.000Z",
+    "publishDate": "2025-03-27T10:08:38.906Z",
+    "title": "全球首个内河航运5G-A通感一体网络正式开通运行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 18:08:38",
+    "uuid": "b7ff4091-6fb8-4739-bbce-5a01e16d3ffd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "太平鸟2024年营收68.02亿元，同比下降12.7%，净利润2.58亿元，同比下降38.75% ...",
+    "id": "8i4IBgmOvOO",
+    "order": 1743070102652,
+    "createdAt": "2025-03-27T10:08:23.000Z",
+    "publishDate": "2025-03-27T10:08:22.652Z",
+    "title": "太平鸟：2024年净利润同比下降38.75%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 18:08:23",
+    "uuid": "ec8742ef-8849-4755-8ffe-c2d9ad2a74a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "阿维塔06正式开启预售，预售价21.59万元起，定位中型车，配备激光雷达与华为乾崑智驾系统，提供纯电和增程两种动力，预计4月内上市。",
+    "id": "8i4HRXqDiUO",
+    "order": 1743070065256,
+    "createdAt": "2025-03-27T10:07:45.000Z",
+    "publishDate": "2025-03-27T10:07:45.256Z",
+    "title": "阿维塔06正式开启预售，将搭载乾崑智驾",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 18:07:45",
+    "uuid": "49cb6e12-f4f8-4d24-8cf1-dc9ba7e277d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "法国奢侈品牌Lanvin近期在中国多地关闭线下门店，涉及多个高端商业项目。品牌方表示这是战略性调整，并否认退出中国市场的传闻，称将继续投入 ...",
+    "id": "8i4IBuqgG6j",
+    "order": 1743070027991,
+    "createdAt": "2025-03-27T10:07:08.000Z",
+    "publishDate": "2025-03-27T10:07:07.991Z",
+    "title": "奢侈品牌Lanvin回应退出中国传闻：关店为战略性调整",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 18:07:08",
+    "uuid": "9ca40a90-08c7-4f9f-b2af-900056723674"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "阿里巴巴开源大模型通义千问QwenQ-32B已在中科院多个科研项目中应用，包括青藏所的全球首个水能粮大模型“洛书”和国家天文台的天文观测助手“星语” ...",
+    "id": "8i4EIniwZtL",
+    "order": 1743069995059,
+    "createdAt": "2025-03-27T10:06:36.000Z",
+    "publishDate": "2025-03-27T10:06:35.059Z",
+    "title": "阿里通义千问 QwenQ-32B 上线 中科院科研项目大规模接入",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 18:06:36",
+    "uuid": "ad97bf28-020a-4125-b8de-8f8ece81b211"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "比亚迪方程豹豹8无人机版将推出“灵鸢”智能车载无人机系统，计划于今年Q2开放静态起降、随动跟拍等功能 ...",
+    "id": "8i489hCn44T",
+    "order": 1743069977401,
+    "createdAt": "2025-03-27T10:06:18.000Z",
+    "publishDate": "2025-03-27T10:06:17.401Z",
+    "title": "比亚迪方程豹豹 8“灵鸢车载无人机系统”二季度开放",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 18:06:18",
+    "uuid": "fad86a13-e459-4d4e-b30e-c39eb62668f1"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "DoNews" },
       { "siteName": "36Kr" }
@@ -123,6 +266,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "中国石化实现30兆帕氢气运输，较传统20兆帕管束车卸氢量提升一倍，单车运氢成本降低约30%。",
+    "id": "8i4AIR6Xd7H",
+    "order": 1743070595830,
+    "createdAt": "2025-03-27T09:34:21.000Z",
+    "publishDate": "2025-03-27T10:16:35.830Z",
+    "title": "中国首台30兆帕氢能管束车投运，卸氢量增倍、运氢成本可降三成",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 17:34:21",
+    "uuid": "119f949e-52bc-4ed0-852f-31544c85784f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -198,6 +359,27 @@
     "up": false,
     "date": "2025-03-27 17:27:40",
     "uuid": "310e1160-f467-44d2-9dd0-d853bd786071"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "每经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "3月30日起，中国民航将执行夏秋季航班计划。南航在上海虹桥、浦东两大机场每周计划执行约1450个客运航班，通航点达31个。新航季中，C919客机将执飞上海虹桥至广州往返航线 ...",
+    "id": "8i3yBwby1Mf",
+    "order": 1743069927592,
+    "createdAt": "2025-03-27T09:27:32.000Z",
+    "publishDate": "2025-03-27T10:05:27.592Z",
+    "title": "夏秋航班换季 南航计划日均在沪投放班次超200班",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-27 17:27:32",
+    "uuid": "92b8412d-4917-41a3-8fdb-416899887000"
   },
   {
     "newsArray": [
