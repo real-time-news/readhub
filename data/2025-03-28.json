@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "南下资金今日净买入港股82.42亿港元，主要买入阿里巴巴、中芯国际、腾讯控股等，连续5日净买入美团和快手。同时净卖出小米集团、新华保险等，连续3日净卖出小米。",
+    "id": "8i5x6fre2GH",
+    "order": 1743173558183,
+    "createdAt": "2025-03-28T14:52:39.000Z",
+    "publishDate": "2025-03-28T14:52:38.183Z",
+    "title": "图解丨南下资金连续3日净卖出小米，共计18.2亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-28 22:52:39",
+    "uuid": "1e885026-c508-427b-9ef3-2c04c4a5f73a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Ubuntu 25.04 Beta 发布，代号“Plucky Puffin”，预计稳定版将于 2025 年 4 月 17 日推出.该版本基于 Linux 6.14 内核，包含 systemd 257.4、Netplan 1.1.2 等更新，工具链升级至 Python 3.13.2、GCC 14.2 等.用户体验改进包括 Subiquity 安装器增强、默认 PDF 阅读器更换为 Papers，以及 GNOME 48、Firefox 136 等应用更新.非 LTS 版本，支持至 2026 年 1 月.",
+    "id": "8i5eT92ERyV",
+    "order": 1743173528587,
+    "createdAt": "2025-03-28T14:52:09.000Z",
+    "publishDate": "2025-03-28T14:52:08.587Z",
+    "title": "Ubuntu 25.04 Beta 发布：采用 GNOME 48、Linux 6.14 内核",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-28 22:52:09",
+    "uuid": "4cc350f0-0daf-4232-b092-871c498fdbe2"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
