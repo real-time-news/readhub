@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "特斯拉Cybercab无人驾驶出租车将于2025年6月在得州奥斯汀投入运营，较原计划提前一年。",
+    "id": "8i5ZuIgAXFj",
+    "order": 1743142964399,
+    "createdAt": "2025-03-28T06:22:44.000Z",
+    "publishDate": "2025-03-28T06:22:44.399Z",
+    "title": "特斯拉Cybercab出租车官宣6月开启运营",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-28 14:22:44",
+    "uuid": "5b10df35-8eb3-4fe7-82ea-91c6ee1397a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "可控核聚变概念走强，雪人股份涨停，顺钠股份、合锻智能触及涨停，多股跟涨。今年以来，聚变新能、中科院等离子体所等项目招标加速，累计超46项。",
+    "id": "8i5NLBaZISi",
+    "order": 1743143691866,
+    "createdAt": "2025-03-28T06:22:07.000Z",
+    "publishDate": "2025-03-28T06:34:51.866Z",
+    "title": "可控核聚变概念震荡回升，雪人股份涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-28 14:22:07",
+    "uuid": "d76e7d04-c5ce-4d05-9b47-2d781b38b3d5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "OpenAI更新了GPT-4O模型，增强语义理解、复杂问题解决及创造力与逻辑推理能力，减少表情符号使用，新功能已对付费用户开放。",
+    "id": "8i5LYAAlpV4",
+    "order": 1743142615199,
+    "createdAt": "2025-03-28T06:16:56.000Z",
+    "publishDate": "2025-03-28T06:16:55.199Z",
+    "title": "GPT-4O再次更新，已向付费用户开放",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-28 14:16:56",
+    "uuid": "d5fce2bf-6925-4ca0-a98d-be830a3b442c"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "36Kr" },
       { "siteName": "36Kr" },
