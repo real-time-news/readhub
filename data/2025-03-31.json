@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "世界卫生组织表示，缅甸中部强烈地震摧毁当地，扰乱卫生服务，数以千计民众面临生命威胁。世卫已向受灾严重的内比都和曼德勒医院提供近3吨医疗物资，并组织全球紧急医疗团队前往救援 ...",
+    "id": "8iAblcl45Bp",
+    "order": 1743403832514,
+    "createdAt": "2025-03-31T06:50:33.000Z",
+    "publishDate": "2025-03-31T06:50:32.514Z",
+    "title": "世卫组织：以最高级别紧急行动响应缅甸地震救援",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 14:50:33",
+    "uuid": "f136953a-0c7f-4c92-a42c-d1c5202c58a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "湖北省医保局发布全国首个脑机接口医疗服务价格，标志着这一前沿科技正式步入民生领域。",
+    "id": "8iAhBR88yts",
+    "order": 1743403388729,
+    "createdAt": "2025-03-31T06:43:09.000Z",
+    "publishDate": "2025-03-31T06:43:08.729Z",
+    "title": "全国首个 湖北为脑机接口医疗服务定价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 14:43:09",
+    "uuid": "21dfd671-245f-4828-b2bf-8edc96ac5f7c"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "手机中国" },
       { "siteName": "新浪科技" },
@@ -226,6 +260,26 @@
     "up": false,
     "date": "2025-03-31 13:55:17",
     "uuid": "463dbd27-c471-4b4c-83e0-ba934d9dcb85"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "众安银行宣布吴忠豪自2025年3月27日起担任行政总裁，他此前为执行董事并主导数字银行牌照申请与业务发展。原行政总裁姚文松卸任 ...",
+    "id": "8iARo5nGsRk",
+    "order": 1743403395113,
+    "createdAt": "2025-03-31T05:53:23.000Z",
+    "publishDate": "2025-03-31T06:43:15.113Z",
+    "title": "众安银行高管换帅：委任吴忠豪为行政总裁，姚文松卸任",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 13:53:23",
+    "uuid": "816ad0c8-baaa-4e6e-b45d-44b5335e8f8c"
   },
   {
     "newsArray": [
@@ -1252,6 +1306,24 @@
     "up": false,
     "date": "2025-03-31 09:49:38",
     "uuid": "ff2da837-3020-4221-a674-b5b3c9067b04"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "XPG推出魔核SP系列电源，提供850W和1000W两种额定功率，支持ATX 3.1标准与PCIe 5.1规范，采用全模组设计，具备80 PLUS金牌认证，转换效率达93% ...",
+    "id": "8i9fjZn4PIu",
+    "order": 1743403553529,
+    "createdAt": "2025-03-31T01:48:53.000Z",
+    "publishDate": "2025-03-31T06:45:53.529Z",
+    "title": "威刚XPG推出魔核SP系列电源：支持ATX 3.1、850/1000W可选",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 09:48:53",
+    "uuid": "26ec4141-bc70-4269-805b-27e0b147564b"
   },
   {
     "newsArray": [
