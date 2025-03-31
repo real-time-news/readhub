@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Firefox桌面端现已全面支持简体中文本地翻译功能，用户可便捷地将非简体中文网页翻译为简体中文或反之。此功能在Firefox 136及135版本中实现，而安卓端仍在适配中 ...",
+    "id": "8iARn3vF0mw",
+    "order": 1743405403252,
+    "createdAt": "2025-03-31T07:16:44.000Z",
+    "publishDate": "2025-03-31T07:16:43.252Z",
+    "title": "火狐浏览器桌面版实现简体中文本地翻译全覆盖",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 15:16:44",
+    "uuid": "6969998e-0d92-40aa-adf9-90c968f1fb32"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Gemini 有望以侧边栏形式集成到 Chrome 浏览器，命名为“Glic”，可调整大小并从浏览器分离为独立窗口运行，设计类似 Edge 的 Copilot ...",
+    "id": "8iASSXbbTgw",
+    "order": 1743405351940,
+    "createdAt": "2025-03-31T07:15:52.000Z",
+    "publishDate": "2025-03-31T07:15:51.940Z",
+    "title": "谷歌计划将Gemini引入Chrome浏览器侧边栏",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 15:15:52",
+    "uuid": "9d7726d4-0574-4666-bf38-a66632d842a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "新宙邦表示，2024年电解液业务销量增长超50%，预计2025年出货量同比增长30%以上，市场竞争激烈态势还将持续1-2年，公司将追求量价平衡提升市场占有率，避免低价竞争和亏损经营。",
+    "id": "8iAixsK6Aiq",
+    "order": 1743405309652,
+    "createdAt": "2025-03-31T07:15:10.000Z",
+    "publishDate": "2025-03-31T07:15:09.652Z",
+    "title": "新宙邦：电解液市场竞争激烈态势预计还将持续1—2年",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 15:15:10",
+    "uuid": "b9e37ddc-b4be-48b1-b92b-78a47d59efe5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2025上海车展将于4月23日至5月2日举行，宝马集团将携超30款车型亮相，覆盖BMW、MINI与BMW Motorrad三大品牌 ...",
+    "id": "8iARnTPRvuI",
+    "order": 1743405144813,
+    "createdAt": "2025-03-31T07:12:25.000Z",
+    "publishDate": "2025-03-31T07:12:24.813Z",
+    "title": "宝马携超30款车型亮相上海车展 新世代驾趣概念车全球首发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 15:12:25",
+    "uuid": "1ef4d7e0-95dd-481e-af72-203c7d9d1221"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "工信部公开征求对4项强制性国家标准（报批稿）的意见，包括《乘用车燃料消耗量评价方法及指标》等标准。",
+    "id": "8iAiwpJ6aoM",
+    "order": 1743404654078,
+    "createdAt": "2025-03-31T07:04:14.000Z",
+    "publishDate": "2025-03-31T07:04:14.078Z",
+    "title": "工信部公开对4项强制性国家标准（报批稿）征求意见",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 15:04:14",
+    "uuid": "63033e03-1949-4462-9588-bd38bbfb2e4e"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" }
@@ -1062,6 +1148,31 @@
     "up": false,
     "date": "2025-03-31 10:38:04",
     "uuid": "f504fd69-d900-4668-8567-829cc2c7b5cd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "早盘开盘，国内期货主力合约涨跌不一，沪锡涨超1%，玻璃、焦炭跌超2%，焦煤、氧化铝等跌超1%。",
+    "id": "8iAJH8wyI5z",
+    "order": 1743405119214,
+    "createdAt": "2025-03-31T02:35:02.000Z",
+    "publishDate": "2025-03-31T07:11:59.214Z",
+    "title": "期市开盘：玻璃、焦炭跌超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 10:35:02",
+    "uuid": "0760124a-64b5-4ffb-9478-3833ae5975ed"
   },
   {
     "newsArray": [
