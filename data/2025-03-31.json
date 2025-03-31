@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "特斯拉位于罗马的经销店发生火灾，导致17辆汽车受损，建筑结构部分被毁。目前无人受伤，意大利警方与消防部门正在联合调查起火原因，但尚未公布具体细节。",
+    "id": "8iAycbfnVOC",
+    "order": 1743432170046,
+    "createdAt": "2025-03-31T14:33:38.000Z",
+    "publishDate": "2025-03-31T14:42:50.046Z",
+    "title": "特斯拉罗马门店起火致17辆汽车受损 警方正在调查原因",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 22:33:38",
+    "uuid": "bfbcf3d8-68db-437a-8c6c-bca13e9e8fb1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉中国推出限时购车政策：4月30日前，Model Y全系可享3年0息或5年超低息，月供约3809元起。Model 3部分版本提供5年0息，月供低至2594元。",
+    "id": "8iBF3Xi1NNB",
+    "order": 1743432137250,
+    "createdAt": "2025-03-31T14:33:26.000Z",
+    "publishDate": "2025-03-31T14:42:17.250Z",
+    "title": "特斯拉焕新Model Y首次全系推出3年0息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-03-31 22:33:26",
+    "uuid": "47d527bb-23b9-4184-a91a-d86c812e6697"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
