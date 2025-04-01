@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "毛戈平涨超10%，小鹏汽车涨超5%，3月交付量同比增268%。小米集团、美的集团、中芯国际下跌，南向资金净买入逾198亿港元。",
+    "id": "8iC8qG6QlSQ",
+    "order": 1743495210369,
+    "createdAt": "2025-04-01T08:13:31.000Z",
+    "publishDate": "2025-04-01T08:13:30.369Z",
+    "title": "港股收盘：恒生指数收涨0.38%，恒生科技指数涨0.23%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 16:13:31",
+    "uuid": "cea0d735-96b0-4006-9e4d-f0d8a6c0c074"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "2025年中国人民银行召开反洗钱工作会议，要求推进第五轮国际评估应对工作，贯彻新修订的反洗钱法，落实风险管理体系，加强受益所有人信息管理及特定非金融行业反洗钱工作，完善调查与监测机制，打击洗钱犯罪，并积极参与国际治理与合作。",
+    "id": "8iCSpCbLVSB",
+    "order": 1743495171383,
+    "createdAt": "2025-04-01T08:12:52.000Z",
+    "publishDate": "2025-04-01T08:12:51.383Z",
+    "title": "中国央行：2025年要进一步完善反洗钱制度体系和协调机制",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 16:12:52",
+    "uuid": "876f8154-4db6-4ec0-92a5-a03604e55b85"
+  },
+  {
+    "newsArray": [
+      { "siteName": "健康界" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "TCR-T细胞疗法在实体瘤治疗中展现出潜力，但也面临靶点限制、TCR分子缺陷、毒性风险及肿瘤微环境抑制等挑战 ...",
+    "id": "8iAAdcgKTYb",
+    "order": 1743494802826,
+    "createdAt": "2025-04-01T08:06:43.000Z",
+    "publishDate": "2025-04-01T08:06:42.826Z",
+    "title": "TCR-T细胞疗法治疗实体瘤：挑战与新兴解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 16:06:43",
+    "uuid": "758813b7-9e95-4086-bd64-9a3e092adc06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "华泰证券表示，3月30日四大行公告定增募资5200亿元以补充一级核心资本，财政部认购5000亿元，发行价格溢价9%至18% ...",
+    "id": "8iBwLcFopXh",
+    "order": 1743494790520,
+    "createdAt": "2025-04-01T08:06:31.000Z",
+    "publishDate": "2025-04-01T08:06:30.520Z",
+    "title": "华泰证券：政策组合拳力度加码，看好银行板块估值修复",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 16:06:31",
+    "uuid": "a5b60cce-8cce-4968-a506-2f6007d74ac9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "起亚正与华为在智能座舱领域密切合作，未来新车可能搭载鸿蒙座舱并进行本土化整改。",
+    "id": "8iCQf2ldP6R",
+    "order": 1743494606493,
+    "createdAt": "2025-04-01T08:03:27.000Z",
+    "publishDate": "2025-04-01T08:03:26.493Z",
+    "title": "起亚计划接入华为智能座舱，未来多款本土化车型将进行激进整改",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 16:03:27",
+    "uuid": "891e2bf8-6d96-45ea-8c6e-2df7a7b86633"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "财联社" },
       { "siteName": "财联社" },
@@ -237,6 +329,45 @@
   },
   {
     "newsArray": [
+      { "siteName": "联商网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "TechSir" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "电商报" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "麦当劳在北京、上海的部分门店上线京东外卖测试后，日均单量突破2万单，与其它平台单量持平 ...",
+    "id": "8iB7DhBjf7P",
+    "order": 1743494541141,
+    "createdAt": "2025-04-01T07:09:18.000Z",
+    "publishDate": "2025-04-01T08:02:21.141Z",
+    "title": "麦当劳北京上海上线京东外卖，不到一周日均单量超2万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 15:09:18",
+    "uuid": "0271331d-395f-4226-99eb-e169053e6caf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "普洛斯推出首个中国数据中心收益基金一期，规模约26亿人民币，聚焦算力基础设施，投资人包括国内外知名机构，普洛斯担任基金管理及资产管理人。",
+    "id": "8iCLhSoYUNF",
+    "order": 1743495193769,
+    "createdAt": "2025-04-01T06:53:10.000Z",
+    "publishDate": "2025-04-01T08:13:13.769Z",
+    "title": "普洛斯中国首支数据中心基金完成募集，投资规模约26亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 14:53:10",
+    "uuid": "813462f1-1a5f-474d-bb7c-db0eda89b3fe"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "财经网" },
       { "siteName": "36Kr" },
@@ -376,6 +507,24 @@
     "up": false,
     "date": "2025-04-01 14:26:28",
     "uuid": "04fde7fd-c3b4-4630-8967-a3b781132122"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "法国汽车协会（PFA）公布数据显示，法国3月份新车注册量同比下降14.54%，至153842辆。",
+    "id": "8iBxNC16yfy",
+    "order": 1743494718633,
+    "createdAt": "2025-04-01T06:23:36.000Z",
+    "publishDate": "2025-04-01T08:05:18.633Z",
+    "title": "法国3月汽车注册量下降14.54%，特斯拉销量下降36.83%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 14:23:36",
+    "uuid": "c6627d09-3e59-49ee-a84a-5d9ad7ca0729"
   },
   {
     "newsArray": [
@@ -831,6 +980,24 @@
     "up": false,
     "date": "2025-04-01 12:25:27",
     "uuid": "39c8aa56-745c-4ea6-8447-0a466bdf317b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "特斯拉柏林超级工厂达成第50万辆Model Y下线里程碑，标志着其在电动汽车生产上的重要进展 ...",
+    "id": "8iC0FUdlfVR",
+    "order": 1743494648271,
+    "createdAt": "2025-04-01T04:23:09.000Z",
+    "publishDate": "2025-04-01T08:04:08.271Z",
+    "title": "特斯拉德国工厂Model Y总产量破50万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 12:23:09",
+    "uuid": "ffddebfa-bc6e-4e02-8fd1-5d94d8d5a758"
   },
   {
     "newsArray": [
