@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧元区2月失业率降至6.1%，前值为6.2%。",
+    "id": "8iCWRFm6DHK",
+    "order": 1743498799812,
+    "createdAt": "2025-04-01T09:13:19.000Z",
+    "publishDate": "2025-04-01T09:13:19.812Z",
+    "title": "欧元区2月失业率为6.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 17:13:19",
+    "uuid": "82a5bf6a-3bbd-4d90-84c6-1aaddecaa957"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "华东医药全资子公司杭州中美华东制药江东有限公司申报的司美格鲁肽注射液上市许可申请获国家药品监督管理局受理 ...",
+    "id": "8iCWRDjV7GX",
+    "order": 1743498704276,
+    "createdAt": "2025-04-01T09:11:45.000Z",
+    "publishDate": "2025-04-01T09:11:44.276Z",
+    "title": "华东医药：司美格鲁肽注射液上市许可申请获受理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 17:11:45",
+    "uuid": "5c474c2b-2f64-4fc9-ac8d-3194a539adf0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中国能建子公司葛洲坝集团与阿斯塔纳市首都供水公司签署96亿元人民币的供水项目合同，内容涵盖泵站、管道和净水厂等设施的设计、采购、施工及调试，工期约36个月。",
+    "id": "8iCWRAqfpJs",
+    "order": 1743498267669,
+    "createdAt": "2025-04-01T09:04:27.000Z",
+    "publishDate": "2025-04-01T09:04:27.669Z",
+    "title": "中国能建：子公司签署96亿元供水项目合同",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 17:04:27",
+    "uuid": "3b25e424-2391-40a3-8b27-bd834e2162bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子宣布移动体验事业部长卢泰文将担任设备体验部门代理负责人，接替上月底去世的原负责人韩宗熙，该部门涵盖多个业务板块包括影像显示、生活家电、移动体验等。",
+    "id": "8iCS5OzLqPo",
+    "order": 1743498228165,
+    "createdAt": "2025-04-01T09:03:49.000Z",
+    "publishDate": "2025-04-01T09:03:48.165Z",
+    "title": "三星电子宣布卢泰文任设备体验部门代理负责人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 17:03:49",
+    "uuid": "f73cbbfc-b040-4124-a2c8-7a5e6d6acde8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "上汽集团3月新能源汽车销量12.57万辆，同比增长48.22%，本年累计销量27.3万辆，同比增长29.89%。",
+    "id": "8iCVh52538M",
+    "order": 1743498215137,
+    "createdAt": "2025-04-01T09:03:36.000Z",
+    "publishDate": "2025-04-01T09:03:35.137Z",
+    "title": "上汽集团：3月新能源汽车销量12.57万辆，同比增长48.22%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 17:03:36",
+    "uuid": "58227c67-e842-43c1-b85d-ce62689d6ee4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "小米集团股价收盘报46.5港元，较历史高点下跌21.7%，当日跌幅达5.49%，创2月18日以来新低。",
+    "id": "8iCOW9KtzV5",
+    "order": 1743498748921,
+    "createdAt": "2025-04-01T09:02:46.000Z",
+    "publishDate": "2025-04-01T09:12:28.921Z",
+    "title": "小米集团股价下跌5.49% 创下2月18日以来的新低",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 17:02:46",
+    "uuid": "0009c998-38ac-4fae-a085-dd284ef532d6"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" }
@@ -1070,6 +1176,24 @@
     "up": false,
     "date": "2025-04-01 13:05:27",
     "uuid": "734062a2-cc7d-4cb2-a01d-8fa9812695e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "达闼机器人陷入经营困境，出现薪资拖欠、裁员及社保停缴等问题，广州分公司与上海总部均显空置迹象。公司创始人黄晓庆称企业仍正常运营，但外界担忧未减 ...",
+    "id": "8iAMoiHGe4z",
+    "order": 1743498968161,
+    "createdAt": "2025-04-01T05:03:06.000Z",
+    "publishDate": "2025-04-01T09:16:08.161Z",
+    "title": "达闼机器人深陷危机：欠薪裁员，黄晓庆称公司仍在正常运营",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 13:03:06",
+    "uuid": "0c4a595e-10fa-41c1-8c97-7acb27f6764d"
   },
   {
     "newsArray": [
