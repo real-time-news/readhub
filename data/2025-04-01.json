@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "抖音电商新增商家自主管控达人券功能，商家可决定店铺商品是否使用达人券，以管控渠道和统一价格 ...",
+    "id": "8iAjWr7PtBX",
+    "order": 1743476711444,
+    "createdAt": "2025-04-01T03:05:12.000Z",
+    "publishDate": "2025-04-01T03:05:11.444Z",
+    "title": "抖音电商新增商家自主管控达人券功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 11:05:12",
+    "uuid": "b4384ee2-063f-4d44-b335-41d135e4d34c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "沪金主力合约收涨1.13%，报732元/克，沪银主力合约收跌0.39%，报8436元/千克，SC原油主力合约收涨3.07%，报554元/桶。",
+    "id": "8iBWHlDtjCh",
+    "order": 1743476529128,
+    "createdAt": "2025-04-01T03:02:10.000Z",
+    "publishDate": "2025-04-01T03:02:09.128Z",
+    "title": "沪金主力合约收涨1.13%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 11:02:10",
+    "uuid": "9424d68c-ab72-4d67-a306-eccf8bd2c693"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "标准普尔将小米集团长期信用评级从BBB-上调至BBB，展望从“正面”调整为“稳定”，反映小米偿债与盈利能力良好，信用状况趋于稳定。",
+    "id": "8iC3nf9nf5D",
+    "order": 1743476484198,
+    "createdAt": "2025-04-01T03:01:26.000Z",
+    "publishDate": "2025-04-01T03:01:24.198Z",
+    "title": "标准上调小米集团信用评级至BBB 并将评级展望调整为“稳定”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 11:01:26",
+    "uuid": "6c5e0095-692b-4c57-9f58-ca9f51a6db2b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星首款三折叠设备内部型号为Q7M，公开型号为SM-F968系列，其中SM-F968N为韩国版，SM-F9680为中国版。该设备将打破三星折叠屏产品的命名传统，不会使用W系列命名 ...",
+    "id": "8iBuUeGtCxG",
+    "order": 1743475824230,
+    "createdAt": "2025-04-01T02:50:25.000Z",
+    "publishDate": "2025-04-01T02:50:24.230Z",
+    "title": "三星首款三折叠手机机型确认：国行 SM-F9680，有望 10 月发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 10:50:25",
+    "uuid": "b657f327-538c-475d-8b58-08462299befc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "第四范式2024年实现总收入52.61亿元，同比增长25.1%，毛利润22.45亿元，毛利率42.7%。全年亏损大幅缩减至2.69亿元，减亏幅度达70.4% ...",
+    "id": "8iB6W50fpvd",
+    "order": 1743475784204,
+    "createdAt": "2025-04-01T02:49:45.000Z",
+    "publishDate": "2025-04-01T02:49:44.204Z",
+    "title": "第四范式2024财报亮点：亏损大幅缩窄，AI业务强劲增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 10:49:45",
+    "uuid": "baeb50fd-c3c0-4e13-8e4e-8613e496b87f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "Intel新任CEO陈立武在2025年Vision大会上阐述重振公司领导地位的战略，强调以客户为中心，推动软件、硬件及代工领域发展 ...",
+    "id": "8iBzMSZ6dH4",
+    "order": 1743475631124,
+    "createdAt": "2025-04-01T02:47:12.000Z",
+    "publishDate": "2025-04-01T02:47:11.124Z",
+    "title": "Intel新任CEO陈立武：以客户为中心，代工业务坚定不移",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 10:47:12",
+    "uuid": "669cf40c-b64a-4c5d-8845-1357865daf9c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "联商网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "3月，百城新建住宅平均价格为16740元/平方米，环比上涨0.17%，同比上涨2.63%。二手住宅平均价格为13988元/平方米，环比下跌0.59%，跌幅较上月扩大0.17个百分点。",
+    "id": "8iBqDnsDyc5",
+    "order": 1743475463967,
+    "createdAt": "2025-04-01T02:44:24.000Z",
+    "publishDate": "2025-04-01T02:44:23.967Z",
+    "title": "3月全国100个城市新建住宅平均价格环比上涨0.17%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 10:44:24",
+    "uuid": "ac1a64c4-cd17-4cf8-93e7-0731d72e443c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "自2025年4月5日起，东方航空调整燃油附加费，800公里以上航线每位成人旅客收取20元，800公里及以下航线收取10元，分别较调整前降低20元和10元。",
+    "id": "8iC5EcWywzJ",
+    "order": 1743475417693,
+    "createdAt": "2025-04-01T02:43:38.000Z",
+    "publishDate": "2025-04-01T02:43:37.693Z",
+    "title": "国内航线燃油附加费4月5日下调",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 10:43:38",
+    "uuid": "b97a6596-ce0b-4163-a4ff-00475a5e7a1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "SpaceX成功发射“猎鹰9”火箭，将“Fram2”私人载人航天任务送入地球极地轨道，这是人类首次载人航天器环绕地球两极飞行 ...",
+    "id": "8i8Uz8PslNa",
+    "order": 1743475327897,
+    "createdAt": "2025-04-01T02:42:08.000Z",
+    "publishDate": "2025-04-01T02:42:07.897Z",
+    "title": "SpaceX 成功发射人类首次极地轨道载人航天任务，将在太空种蘑菇",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 10:42:08",
+    "uuid": "2521ed67-9b2a-4a48-bcf2-4dbf3b824c5b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "转转集团成立转转AI事业部，计划投入20亿打造二手领域AI智能工具，包括ZAIBA、ZAIYA和ZAIMA，解决非标问题提升交易体验，并启动全球AI人才招募计划。",
+    "id": "8iC1UyuMwD2",
+    "order": 1743475261376,
+    "createdAt": "2025-04-01T02:12:20.000Z",
+    "publishDate": "2025-04-01T02:41:01.376Z",
+    "title": "转转集团成立AI事业部，预计3年投入20亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-01 10:12:20",
+    "uuid": "ae1389d2-5bc2-4fde-b839-52d7e75083d6"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
