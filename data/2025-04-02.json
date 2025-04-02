@@ -1,6 +1,131 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "Odaily" },
+      { "siteName": "爱范儿" }
+    ],
+    "summary": "OpenAI因产能不足推迟新产品的发布，CEO Sam Altman表示公司正努力解决容量问题，但服务可能仍会缓慢。近期备受关注的新图像生成功能虽受好评但也引发争议 ...",
+    "id": "8iDoRpwo7XK",
+    "order": 1743575885708,
+    "createdAt": "2025-04-02T06:38:06.000Z",
+    "publishDate": "2025-04-02T06:38:05.708Z",
+    "title": "Sam Altman：OpenAI 新产品将因产能问题延迟推出",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 14:38:06",
+    "uuid": "c2967309-e2bc-4c7d-820f-0ca79c7aeb4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "多元金融概念局部异动，电投产融涨停，新力金融、中粮资本、渤海租赁、建元信托等跟涨。",
+    "id": "8iE0bihbWtn",
+    "order": 1743576059884,
+    "createdAt": "2025-04-02T06:37:52.000Z",
+    "publishDate": "2025-04-02T06:40:59.884Z",
+    "title": "多元金融概念局部异动，电投产融涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 14:37:52",
+    "uuid": "5e6d2ca0-8ba0-4ad3-bc7a-e9aa35131c8a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "德国外长贝尔伯克在基辅表示，欧洲已与乌克兰就稀土金属达成协议，任何美乌矿产新协议应符合欧盟法律，强调这是欧洲大陆的事务。",
+    "id": "8iE0azRig7a",
+    "order": 1743575593965,
+    "createdAt": "2025-04-02T06:33:14.000Z",
+    "publishDate": "2025-04-02T06:33:13.965Z",
+    "title": "德国外长：欧洲此前已与乌方就稀土金属达成协议，美乌矿产协议应符合欧盟法律",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 14:33:14",
+    "uuid": "e62e969a-38b2-448c-8708-f65300b6c4d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "涂鸦智能前CFO刘尧加入深圳激光雕刻机创业公司xTool，负责财务与部分经营工作，2024年xTool营收达20亿至30亿元，但该公司尚未对此消息进行回应。",
+    "id": "8iDx7nUnTHv",
+    "order": 1743575557392,
+    "createdAt": "2025-04-02T06:32:38.000Z",
+    "publishDate": "2025-04-02T06:32:37.392Z",
+    "title": "涂鸦智能前CFO刘尧加入硬件公司xTool",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 14:32:38",
+    "uuid": "327b7c08-cdaa-48a6-b574-51e4a1af4339"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软CTO凯文·斯科特预言，未来一年AI智能体的记忆能力将实现重大突破，与人类的交互模式将显著变化。",
+    "id": "8iDzqmNmtIN",
+    "order": 1743575022420,
+    "createdAt": "2025-04-02T06:23:42.000Z",
+    "publishDate": "2025-04-02T06:23:42.420Z",
+    "title": "微软CTO预判：未来一年AI智能体记忆能力将有重大突破",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 14:23:42",
+    "uuid": "9ddd8cf5-7185-4528-8ce1-6d22b3768391"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "Gartner预测2025年全球生成式人工智能支出将达6440亿美元，同比增长76.4%。尽管初始概念验证失败率高，基础模型提供商仍持续投入以提升技术 ...",
+    "id": "8iDzGXPy1xL",
+    "order": 1743574967554,
+    "createdAt": "2025-04-02T06:22:48.000Z",
+    "publishDate": "2025-04-02T06:22:47.554Z",
+    "title": "Gartner：2025年全球GenAI支出将达到6440亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 14:22:48",
+    "uuid": "890308b7-fdf5-4131-ae19-c8f65b7ec246"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "天猫超市企业购宣布加速布局企业级采购市场，通过开放区域代理合作与深化服务商体系，构建全场景数字化采购生态 ...",
+    "id": "8iDySEv54XY",
+    "order": 1743574891816,
+    "createdAt": "2025-04-02T06:21:32.000Z",
+    "publishDate": "2025-04-02T06:21:31.816Z",
+    "title": "天猫超市加速布局企业采购市场，覆盖积分兑换、员工福利、物资集采等全场景数字化采购",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 14:21:32",
+    "uuid": "bac18799-e202-4fb1-b48b-7fb6d7143641"
+  },
+  {
+    "newsArray": [
       { "siteName": "猎云网" },
       { "siteName": "金融界" },
       { "siteName": "格隆汇" }
