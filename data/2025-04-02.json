@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "微软新版Outlook因采用网络封装与原生版差异较大，用户反馈体验不佳。微软通过推送安装默认新版Outlook，若需经典版则需手动下载 ...",
+    "id": "8iDd25uHZgu",
+    "order": 1743565895104,
+    "createdAt": "2025-04-02T03:51:36.000Z",
+    "publishDate": "2025-04-02T03:51:35.104Z",
+    "title": "IT和系统管理员仍然认为新版Outlook邮箱客户端是个热门垃圾",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 11:51:36",
+    "uuid": "5885ed8d-41fd-48cf-8420-9e6302228e64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "牛透社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "ReliaQuest宣布完成超5亿美元融资，投后估值34亿美元。本轮融资由EQT、KKR和FTV Capital领投，资金将用于加速AI自主化安全平台GreyMatter的开发及全球化布局 ...",
+    "id": "8iBhfrB4cq1",
+    "order": 1743565405971,
+    "createdAt": "2025-04-02T03:43:26.000Z",
+    "publishDate": "2025-04-02T03:43:25.971Z",
+    "title": "ReliaQuest 完成 5 亿美元融资，推进 AI 安全自动化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 11:43:26",
+    "uuid": "5d05f514-17c0-450d-a285-9176924ba7e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "微软旗下ZeniMax Workers United工会因低工资和远程办公问题投票授权罢工，近95%成员支持。该工会代表300多名QA员工，与微软和ZeniMax谈判两年未有进展 ...",
+    "id": "8iDhhuyyUW7",
+    "order": 1743565370440,
+    "createdAt": "2025-04-02T03:42:50.000Z",
+    "publishDate": "2025-04-02T03:42:50.440Z",
+    "title": "工资太低、还不能远程办公：微软首个游戏工会投票罢工",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 11:42:50",
+    "uuid": "69c9a712-996f-492a-ba72-b9365a54ba24"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "亿邦动力网" },
       { "siteName": "亿邦动力网" }
@@ -858,6 +909,27 @@
     "up": false,
     "date": "2025-04-02 05:13:17",
     "uuid": "ca3c3e16-7479-4b2d-9042-6f3ce1ee9dfb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国拟对越南鞋类商品加征最高30%关税，耐克或因此每年增加超4亿美元成本，其全球50%以上产能位于越南。这将加重耐克销售低迷的困境，并可能迫使其提高售价，进一步抑制消费 ...",
+    "id": "8iCtJLrHOq9",
+    "order": 1743565998699,
+    "createdAt": "2025-04-01T19:42:12.000Z",
+    "publishDate": "2025-04-02T03:53:18.699Z",
+    "title": "特朗普关税恐将打击耐克品牌振兴计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 03:42:12",
+    "uuid": "e42c0185-ccc1-4f86-9356-852c606762c0"
   },
   {
     "newsArray": [
