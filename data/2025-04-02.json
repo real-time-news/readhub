@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "速途网" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "哈啰首场公路自行车赛事在浙江淳安圆满落幕，吸引2000多名骑行爱好者参与。赛事全程110公里，途经8个乡镇，融合竞技与观光 ...",
+    "id": "8iAkL1gfbKP",
+    "order": 1743578775091,
+    "createdAt": "2025-04-02T07:26:16.000Z",
+    "publishDate": "2025-04-02T07:26:15.091Z",
+    "title": "哈啰首场公路自行车赛在千岛湖圆满举行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 15:26:16",
+    "uuid": "875a2c0a-3a80-4d6a-a0a5-652432acc48c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "芬兰政府宣布今年春季将全面停止使用煤炭进行能源生产，比法定期限提前4年，未来将采用低碳、清洁、可再生的能源方案替代化石燃料。",
+    "id": "8iE48nKNqsP",
+    "order": 1743578714632,
+    "createdAt": "2025-04-02T07:25:15.000Z",
+    "publishDate": "2025-04-02T07:25:14.632Z",
+    "title": "芬兰宣布今春将全面关停燃煤电厂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 15:25:15",
+    "uuid": "efe5842a-b359-4189-9b20-243e7dded77b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "国债期货全线收涨，30年期主力合约涨0.86%，10年期主力合约涨0.26%，5年期主力合约涨0.15%，2年期主力合约涨0.04%。",
+    "id": "8iDnmEKoPM3",
+    "order": 1743578621407,
+    "createdAt": "2025-04-02T07:23:42.000Z",
+    "publishDate": "2025-04-02T07:23:41.407Z",
+    "title": "国债期货收盘全线上涨 30年期主力合约涨0.86%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 15:23:42",
+    "uuid": "0d9a40e1-ab07-4c94-a314-64e3d81b2c1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软向Windows 11稳定版用户推送Microsoft Store 22502版本更新，优化Spotlight功能设计，采用全新布局展示推荐内容，同时改进下载页面用户体验，新增应用程序分类及两种更新管理方式说明，提升用户操作效率与灵活性。",
+    "id": "8iDVpsZU8Fp",
+    "order": 1743578452916,
+    "createdAt": "2025-04-02T07:20:53.000Z",
+    "publishDate": "2025-04-02T07:20:52.916Z",
+    "title": "微软更新Windows 11应用商店，优化Spotlight功能和下载体验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 15:20:53",
+    "uuid": "ed83eb7e-3509-4fc0-8eef-90a49a6782dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中小经销商因垫资兑现难，影响家电以旧换新政策在三四线市场的落地。经销商面临垫资压力大、申请流程复杂等问题，导致生意难做 ...",
+    "id": "8iE1qj3nMp2",
+    "order": 1743578355171,
+    "createdAt": "2025-04-02T07:19:16.000Z",
+    "publishDate": "2025-04-02T07:19:15.171Z",
+    "title": "以旧换新国补落地，有三四线市场家电经销商面临垫资压力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 15:19:16",
+    "uuid": "1cf632e7-68b7-46d8-8454-f878e9ba9f87"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "航发动力跌停，西部黄金、中航沈飞等下跌，贵金属、航空航天、可控核聚变概念领跌，而工程机械、日用化工、通信设备板块上涨。沪指、深成指、创业板指小幅收涨。",
+    "id": "8iDHbuSl4an",
+    "order": 1743578297955,
+    "createdAt": "2025-04-02T07:18:19.000Z",
+    "publishDate": "2025-04-02T07:18:17.955Z",
+    "title": "A股三大指数收盘集体上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 15:18:19",
+    "uuid": "bee486a5-16a4-41d2-9ab2-a4f36b45f6b6"
+  },
+  {
+    "newsArray": [
       { "siteName": "蓝点网" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
@@ -336,6 +442,27 @@
     "up": false,
     "date": "2025-04-02 14:12:35",
     "uuid": "2c900e94-ac34-440f-b005-d12846580f99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "沪深两市成交额突破5000亿，较昨日同时缩量超700亿，预计全天成交不足1万亿。",
+    "id": "8iDkrZho5L9",
+    "order": 1743578299772,
+    "createdAt": "2025-04-02T06:12:22.000Z",
+    "publishDate": "2025-04-02T07:18:19.772Z",
+    "title": "沪深两市成交额突破5000亿 较昨日此时缩量超700亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 14:12:22",
+    "uuid": "d156706c-e1ce-438e-b261-c88144e298be"
   },
   {
     "newsArray": [
