@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "DHL集团完成对CRYOPDP的100%股权收购，并与Cryoport达成战略合作伙伴关系，强化全球生命科学与医疗保健行业的供应链服务 ...",
+    "id": "8iCcOBYYSH7",
+    "order": 1743567083315,
+    "createdAt": "2025-04-02T04:11:24.000Z",
+    "publishDate": "2025-04-02T04:11:23.315Z",
+    "title": "DHL集团收购Cryoport旗下医药物流企业CRYOPDP",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 12:11:24",
+    "uuid": "d8b0be78-c3da-442f-9dec-5053d2b93559"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英特尔宣布其最先进的Intel 18A逻辑制程已进入风险试产阶段，该制程已技术冻结，客户验证满意 ...",
+    "id": "8iDdgVcKIET",
+    "order": 1743566851212,
+    "createdAt": "2025-04-02T04:07:32.000Z",
+    "publishDate": "2025-04-02T04:07:31.212Z",
+    "title": "英特尔 Intel 18A 先进制程已进入风险试产阶段",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 12:07:32",
+    "uuid": "45e8932e-1320-4880-9980-96ba4ef6a196"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Mozilla发布火狐Firefox 137稳定版，新增标签分组、Linux系统HEVC视频播放支持、PDF签名工具及全新设计的地址栏等功能 ...",
+    "id": "8iDjP7nfzXE",
+    "order": 1743566621438,
+    "createdAt": "2025-04-02T04:03:43.000Z",
+    "publishDate": "2025-04-02T04:03:41.438Z",
+    "title": "Firefox浏览器137稳定版发布：引入多项新功能与改进",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 12:03:43",
+    "uuid": "7ca130da-275d-4093-897d-963f4c771a26"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "二季度服务器DDR5价格预计下降5%至10%，DDR4价格持平或小幅上涨5%，原厂eSSD合约价预计下降约10% ...",
+    "id": "8iDp8REIdnY",
+    "order": 1743567065647,
+    "createdAt": "2025-04-02T03:53:03.000Z",
+    "publishDate": "2025-04-02T04:11:05.647Z",
+    "title": "CFM：Q2服务器eSSD、DDR5价格预计将回落",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 11:53:03",
+    "uuid": "ad51ec22-6092-4e75-8555-00dca1a18997"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
       { "siteName": "蓝点网" }
@@ -309,6 +378,25 @@
     "up": false,
     "date": "2025-04-02 10:34:54",
     "uuid": "44fbbbe7-7ad1-48d9-930a-c09b0fb49598"
+  },
+  {
+    "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "科学网" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "受蜜蜂启发，美国加州大学伯克利分校科学家研制出一款直径不足1厘米、重仅21毫克的飞行机器人，为目前最小可实现可控飞行的无线机器人，可用于人工授粉及探索复杂环境，相关成果发表于《科学进展》。",
+    "id": "8iDWb2dzmrJ",
+    "order": 1743566509351,
+    "createdAt": "2025-04-02T02:34:42.000Z",
+    "publishDate": "2025-04-02T04:01:49.351Z",
+    "title": "可控飞行的最小无线机器人问世",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 10:34:42",
+    "uuid": "1aaecb5a-d4ba-487d-b8ec-287e31f1bf27"
   },
   {
     "newsArray": [
@@ -698,6 +786,27 @@
     "up": false,
     "date": "2025-04-02 07:31:37",
     "uuid": "ef76b4f6-b0ae-438f-8680-c59f71ae4c14"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "奇瑞集团2025年3月销售汽车214,770辆，同比增长18.3%。第一季度销量超62万辆，同比增长17.1%，创历史新高 ...",
+    "id": "8iCvOID5ahS",
+    "order": 1743566470211,
+    "createdAt": "2025-04-01T23:19:09.000Z",
+    "publishDate": "2025-04-02T04:01:10.211Z",
+    "title": "奇瑞集团一季度销售超62万辆，创单季历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-02 07:19:09",
+    "uuid": "2d3a5e4e-7176-4a43-8b90-c12953636879"
   },
   {
     "newsArray": [
