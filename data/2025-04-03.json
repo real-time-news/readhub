@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国核电2025年一季度发电量597.42亿千瓦时，同比增长16.93%。上网电量564.49亿千瓦时，同比增长17.17% ...",
+    "id": "8iFqtUSVA3O",
+    "order": 1743671630546,
+    "createdAt": "2025-04-03T09:13:51.000Z",
+    "publishDate": "2025-04-03T09:13:50.546Z",
+    "title": "中国核电：一季度发电量累计为597.42亿千瓦时，同比增长16.93%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 17:13:51",
+    "uuid": "a020d24e-5446-40c5-af3e-dd2a8c417ef1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "市场监管总局批准发布《家居产品适老化设计指南》国家标准，将于2025年9月1日实施 ...",
+    "id": "8iEMiVRTLW4",
+    "order": 1743671614462,
+    "createdAt": "2025-04-03T09:13:35.000Z",
+    "publishDate": "2025-04-03T09:13:34.462Z",
+    "title": "市场监管总局发布（国家标准委）《家居产品适老化设计指南》",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 17:13:35",
+    "uuid": "0cea1a24-178a-44b9-bae7-f426f456e40f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "东方财富2024年度业绩说明会上，董事长其实回应投资者提问时表示，公司无收购雪球的计划。",
+    "id": "8iFqGBfrSlM",
+    "order": 1743671536558,
+    "createdAt": "2025-04-03T09:12:17.000Z",
+    "publishDate": "2025-04-03T09:12:16.558Z",
+    "title": "东方财富回应收购雪球：无相关计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 17:12:17",
+    "uuid": "dfaf5759-74ba-454d-a4ae-00500c2850b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "界面" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "港股苹果概念股走低，东江集团控股跌超10%，高伟电子、比亚迪电子、丘钛科技、舜宇光学科技等跟跌。",
+    "id": "8iFLSfjNdLF",
+    "order": 1743671049686,
+    "createdAt": "2025-04-03T09:04:10.000Z",
+    "publishDate": "2025-04-03T09:04:09.686Z",
+    "title": "港股苹果概念震荡走低，东江集团控股跌超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 17:04:10",
+    "uuid": "b162257b-fffe-4eb5-aa46-a33e3586de07"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "3月全国期货交易市场成交量7.34亿手，成交额61.59万亿元，同比分别增长17.28%和24% ...",
+    "id": "8iFpTn6Aecl",
+    "order": 1743671127458,
+    "createdAt": "2025-04-03T08:53:31.000Z",
+    "publishDate": "2025-04-03T09:05:27.458Z",
+    "title": "中期协：3月全国期货交易市场成交量和成交额同比分别增长17.28%和24%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 16:53:31",
+    "uuid": "98ad052f-db54-4446-bf0b-a799dec32c9b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "扎克伯格游说美国总统，希望避免Meta Platforms的反垄断审查，并与白宫讨论和解方案，他自1月20日以来已三次访问白宫。",
+    "id": "8iEstiGbweW",
+    "order": 1743670826103,
+    "createdAt": "2025-04-03T08:52:46.000Z",
+    "publishDate": "2025-04-03T09:00:26.103Z",
+    "title": "扎克伯格三次造访特朗普政府，要求不要反垄断审查Meta",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 16:52:46",
+    "uuid": "87f6e581-df18-475b-82c7-15085eaefbb8"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -537,6 +642,26 @@
     "up": false,
     "date": "2025-04-03 15:17:03",
     "uuid": "4975315b-db77-42ed-85a5-288ee3eb6bb9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "新版《燃煤发电机组单位产品能耗限额》国家标准于4月1日起实施，为第三次修订 ...",
+    "id": "8iFiKoJGCoC",
+    "order": 1743670994846,
+    "createdAt": "2025-04-03T07:14:48.000Z",
+    "publishDate": "2025-04-03T09:03:14.846Z",
+    "title": "煤电能耗限额标准本月正式实施，指标更严门槛更高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 15:14:48",
+    "uuid": "a1990f22-8815-483e-818c-d099e6fac292"
   },
   {
     "newsArray": [
