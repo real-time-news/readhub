@@ -1,6 +1,178 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "4月2日16时，河北邯郸永年区佛山动物园一只两岁黑熊从笼舍逃脱。当地部门立即管控周边区域并搜寻。4月3日晚7点多，小黑熊被找到并安全转移回动物园。",
+    "id": "8iFo59amKA3",
+    "order": 1743683604432,
+    "createdAt": "2025-04-03T12:33:25.000Z",
+    "publishDate": "2025-04-03T12:33:24.432Z",
+    "title": "邯郸佛山野生动物园：已找到逃跑的小黑熊",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 20:33:25",
+    "uuid": "81e45548-4bd9-4832-b521-43eee22f6020"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "Odaily" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国上周首次申领失业救济人数为21.9万人，预估为22.5万人，前值为22.4万人。",
+    "id": "8iG5FUpUfVL",
+    "order": 1743683590159,
+    "createdAt": "2025-04-03T12:33:10.000Z",
+    "publishDate": "2025-04-03T12:33:10.159Z",
+    "title": "美国上周首次申领失业救济人数为21.9万人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 20:33:10",
+    "uuid": "db709bf6-f6e8-4ecd-ac82-6476535214ba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "农业农村部召开座谈会，推动实质性派生品种（EDV）制度实施，强化种业知识产权保护 ...",
+    "id": "8iG4ULXo1HB",
+    "order": 1743683605211,
+    "createdAt": "2025-04-03T12:25:40.000Z",
+    "publishDate": "2025-04-03T12:33:25.211Z",
+    "title": "农业农村部召开实质性派生品种制度实施座谈会",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 20:25:40",
+    "uuid": "9264ca24-27d4-4d57-980b-e183837e2fe9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "*ST金科公告，实际控制人黄红云及控股股东金科控股因未披露股票强制过户风险和未及时披露权益变动信息，被证监会立案调查 ...",
+    "id": "8iG0CsZOgvo",
+    "order": 1743683492412,
+    "createdAt": "2025-04-03T12:23:39.000Z",
+    "publishDate": "2025-04-03T12:31:32.412Z",
+    "title": "金科股份：公司实控人黄红云及控股股东金科控股涉信披违规被立案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 20:23:39",
+    "uuid": "e93a1ab0-2727-4ef5-8909-d201f942210c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "三一重工拟发行H股股票并在香港上市，以推动全球化战略和提升公司治理水平，相关议案已通过董事会审议，还需股东大会批准，内容涉及发行细节如股票种类、规模、对象等。",
+    "id": "8iG4KIKukM5",
+    "order": 1743682944852,
+    "createdAt": "2025-04-03T12:22:25.000Z",
+    "publishDate": "2025-04-03T12:22:24.852Z",
+    "title": "三一重工：拟发行H股股票并在香港上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 20:22:25",
+    "uuid": "4a0beb53-ce43-41b0-b453-d820314d2c95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "影驰京东自营旗舰店开业，目前上架10款RTX 50系列显卡且普遍加价，预留RTX 5090D、RTX 5060及5060 Ti位置 ...",
+    "id": "8iEKZIZV7fQ",
+    "order": 1743682297021,
+    "createdAt": "2025-04-03T12:11:38.000Z",
+    "publishDate": "2025-04-03T12:11:37.021Z",
+    "title": "影驰宣布京东自营店开业，目前仅提供部分 RTX 50 显卡销售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 20:11:38",
+    "uuid": "abb84119-42a2-4d01-9ab8-39b4c362b337"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "南方周末" },
+      { "siteName": "科学网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "中国工程院院士、著名血液病学和造血干细胞移植专家陆道培因病逝世，享年93岁。陆道培1931年出生于上海，1955年毕业于中南同济医学院，后任职于北京大学人民医院 ...",
+    "id": "8iFo2gCrJJR",
+    "order": 1743681834507,
+    "createdAt": "2025-04-03T12:03:55.000Z",
+    "publishDate": "2025-04-03T12:03:54.507Z",
+    "title": "著名血液病学专家陆道培院士逝世，曾发起创建中华骨髓库",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 20:03:55",
+    "uuid": "be6c3780-062c-45bc-9dc6-d90ea6f89973"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国人民银行行长潘功胜分别会见了来访的美国桥水投资公司创始人瑞·达利欧和史带集团董事长杰弗里·格林伯格，就全球经济金融形势、中国宏观经济政策等议题进行了交流。",
+    "id": "8iG2M4LoO51",
+    "order": 1743681820412,
+    "createdAt": "2025-04-03T12:03:41.000Z",
+    "publishDate": "2025-04-03T12:03:40.412Z",
+    "title": "中国人民银行行长潘功胜分别会见国际金融机构负责人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 20:03:41",
+    "uuid": "80bf24de-3848-4393-809d-5a41f1fa96cd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "粤传媒2024年实现营收5.97亿元，同比增长6.77%。归母净利润2999.44万元，同比增长258.78%，计划每10股派发红利0.68元（含税）。",
+    "id": "8iG2LRmLtDE",
+    "order": 1743681663343,
+    "createdAt": "2025-04-03T11:55:17.000Z",
+    "publishDate": "2025-04-03T12:01:03.343Z",
+    "title": "粤传媒：2024年净利润同比增长258.78%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 19:55:17",
+    "uuid": "d93dcde7-a923-4d15-ac73-4c708bab0dbf"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "网易科技" }
@@ -1248,6 +1420,24 @@
     "up": false,
     "date": "2025-04-03 16:04:43",
     "uuid": "2133c64f-c19f-44ba-a079-626474e4a59b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "华为启动鸿蒙座舱先行者开发计划，与爱奇艺、高德地图、腾讯音乐等多领域头部企业合作，提升车机用户体验 ...",
+    "id": "8iFML9TQjBR",
+    "order": 1743683466523,
+    "createdAt": "2025-04-03T08:04:02.000Z",
+    "publishDate": "2025-04-03T12:31:06.523Z",
+    "title": "华为鸿蒙座舱启动车机操作系统先行者计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 16:04:02",
+    "uuid": "cd78dcc7-9fba-4b6e-82b3-9d0b5eead57d"
   },
   {
     "newsArray": [
