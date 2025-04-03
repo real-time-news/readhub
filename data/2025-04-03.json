@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "三菱：计划在未来3年进行至少4万亿日元的投资。",
+    "id": "8iFVbDF55kk",
+    "order": 1743657777708,
+    "createdAt": "2025-04-03T05:22:58.000Z",
+    "publishDate": "2025-04-03T05:22:57.708Z",
+    "title": "三菱：计划在未来3年进行至少4万亿日元的投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 13:22:58",
+    "uuid": "20864e4d-e67e-46c8-89f2-5cb8c3f2af0f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "粮食概念板块短线拉升，新赛股份涨停，金河生物封板，康农种业、秋乐种业等跟涨。",
+    "id": "8iFaKKL6Y8p",
+    "order": 1743657753447,
+    "createdAt": "2025-04-03T05:22:34.000Z",
+    "publishDate": "2025-04-03T05:22:33.447Z",
+    "title": "粮食概念板块短线拉升，新赛股份涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 13:22:34",
+    "uuid": "3d1e3279-873d-4de2-8eca-0e86da5e3fe0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "荣耀设立新产业孵化部，包含多个具身智能相关实验室，并在招聘网站发布机器人领域相关岗位招聘信息，涵盖数据生成算法工程师、一体化关节设计师等职位。",
+    "id": "8iFZlxXlTHi",
+    "order": 1743657715266,
+    "createdAt": "2025-04-03T05:21:56.000Z",
+    "publishDate": "2025-04-03T05:21:55.266Z",
+    "title": "荣耀已设立新产业孵化部，招聘具身智能等方向人才",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 13:21:56",
+    "uuid": "bd23ca0b-e012-41b8-b718-e12c5c2eeff7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "指数全线走低，创业板指跌超2%，沪指、深成指分别下跌0.52%和1.57%，消费电子、家电等板块领跌，近4100只个股下跌。",
+    "id": "8iFZlFPzXdc",
+    "order": 1743657222008,
+    "createdAt": "2025-04-03T05:13:43.000Z",
+    "publishDate": "2025-04-03T05:13:42.008Z",
+    "title": "创业板指跌逾2% 下跌个股近4100只",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 13:13:43",
+    "uuid": "07e701ee-6a18-476a-abd1-8abb62555935"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "加拿大皇家银行下调多家科技公司目标价，其中谷歌从235美元降至200美元，Meta Platforms从800美元降至740美元，亚马逊从265美元降至235美元。",
+    "id": "8iFZ4Pefmxx",
+    "order": 1743657163673,
+    "createdAt": "2025-04-03T05:12:43.000Z",
+    "publishDate": "2025-04-03T05:12:43.673Z",
+    "title": "加拿大皇家银行下调谷歌、Meta及亚马逊目标价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 13:12:43",
+    "uuid": "fb559207-ace0-4a7c-9b48-b435f156104d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "智东西" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "复旦大学团队突破二维半导体电子学集成度瓶颈，成功研制出全球首款基于二维半导体材料的32位RISC-V架构微处理器“无极”，集成5900个晶体管，大幅提升国际纪录 ...",
+    "id": "8iEc62e5iwS",
+    "order": 1743657120990,
+    "createdAt": "2025-04-03T05:12:01.000Z",
+    "publishDate": "2025-04-03T05:12:00.990Z",
+    "title": "提升50倍，中国团队突破二维材料晶体管集成度瓶颈",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 13:12:01",
+    "uuid": "f88d7811-9f8c-455e-8931-d669808229ff"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "DoNews" },
       { "siteName": "36Kr" }
@@ -33,6 +141,24 @@
     "up": false,
     "date": "2025-04-03 13:03:48",
     "uuid": "50e6e632-71f6-4f73-9dd8-562a1c1e675c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "保利以42.5亿元竞得杭州未来科技城南部涉宅地块，经过65轮竞价，溢价率17.73%，成交楼面价21426元/㎡，刷新片区楼面价纪录，较相邻地块高出713元/㎡。",
+    "id": "8iFYKAWiuDV",
+    "order": 1743657801306,
+    "createdAt": "2025-04-03T04:52:46.000Z",
+    "publishDate": "2025-04-03T05:23:21.306Z",
+    "title": "保利42.5亿元竞得杭州一宅地 楼面价刷新片区纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-03 12:52:46",
+    "uuid": "e603592e-d9c9-4a60-920d-85c8cd64b4aa"
   },
   {
     "newsArray": [
