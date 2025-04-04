@@ -2,6 +2,40 @@
   {
     "newsArray": [
       { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "新加坡海峡时报指数收报3825.86点，下跌3%。",
+    "id": "8iGxXJaK8yh",
+    "order": 1743759161179,
+    "createdAt": "2025-04-04T09:32:42.000Z",
+    "publishDate": "2025-04-04T09:32:41.179Z",
+    "title": "新加坡海峡时报指数收跌3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-04 17:32:42",
+    "uuid": "e1e65f70-d722-4212-95ee-4cc6d6fcbd93"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Midjourney推出AI图片生成模型V7版本alpha测试，新增“草图模式”，该模式下可实时编辑、语音识别生成图片，并支持中文语音指令 ...",
+    "id": "8iHUNQRkOEL",
+    "order": 1743759116628,
+    "createdAt": "2025-04-04T09:31:58.000Z",
+    "publishDate": "2025-04-04T09:31:56.628Z",
+    "title": "Midjourney 发布 AI 图片生成模型 V7，可“吟唱”生图",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-04 17:31:58",
+    "uuid": "6462769c-3f65-4b2d-836e-96eaeb1ef315"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
