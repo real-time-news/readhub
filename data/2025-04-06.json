@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "过去24小时内，以色列对加沙地带的袭击已造成至少46人死亡。",
+    "id": "8iKh3hm5oH7",
+    "order": 1743924300335,
+    "createdAt": "2025-04-06T07:25:01.000Z",
+    "publishDate": "2025-04-06T07:25:00.335Z",
+    "title": "以色列袭击加沙地带已造成至少46人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-06 15:25:01",
+    "uuid": "02245723-2c46-4133-9219-8882e56e1541"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "界面" }
