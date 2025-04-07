@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软正在测试Windows 11新更新KB5055625，新增“显示更小的任务栏图标”功能，可自动缩小任务栏图标以腾出空间。用户可通过设置选择三种模式：任务栏满时、从不、始终 ...",
+    "id": "8iMEoyiIRQu",
+    "order": 1744007761294,
+    "createdAt": "2025-04-07T06:36:02.000Z",
+    "publishDate": "2025-04-07T06:36:01.294Z",
+    "title": "Windows 11新功能：可缩小任务栏图标提升多任务处理便捷性",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 14:36:02",
+    "uuid": "7d6cd399-5f98-4aa3-bdde-b1d4ad07d14f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "炫景生物成立于2022年，专注小核酸药物研发与产业化。其首发管线RG002C0106是一款针对补体因子C3靶点的siRNA药物，用于治疗补体介导的肾小球疾病 ...",
+    "id": "8iM5m2Oksy9",
+    "order": 1744007728934,
+    "createdAt": "2025-04-07T06:35:29.000Z",
+    "publishDate": "2025-04-07T06:35:28.934Z",
+    "title": "炫景生物完成Pre-A轮融资首关，推进小核酸新药研发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 14:35:29",
+    "uuid": "1daa7fdd-d6d7-448e-a080-6d0d07f4e198"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "阿里巴巴股价在香港市场跌幅扩大至创纪录的18%。",
+    "id": "8iMJ5C5y5bD",
+    "order": 1744007636116,
+    "createdAt": "2025-04-07T06:33:56.000Z",
+    "publishDate": "2025-04-07T06:33:56.116Z",
+    "title": "阿里巴巴股价在香港市场跌幅扩大至创纪录的18%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 14:33:56",
+    "uuid": "a05140bc-ff15-4b47-81ec-b7757fe10177"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "常青科技表示，截至2024年上半年，境外销售收入占营收17.13%，公司将持续关注全球贸易政策变化，加大研发投入，优化供应链布局，提升产品自主可控性与竞争力，稳步推进技术升级和精细化学品全球化战略，实现进口替代，确保稳健经营和可持续发展。",
+    "id": "8iMIdld5Ond",
+    "order": 1744007568126,
+    "createdAt": "2025-04-07T06:32:48.000Z",
+    "publishDate": "2025-04-07T06:32:48.126Z",
+    "title": "常青科技：持续关注全球贸易政策变化 稳步推进技术升级与精细化学品全球化战略",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 14:32:48",
+    "uuid": "d0dedf26-f8b0-4bd8-b8ae-139ef6878259"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "摩根士丹利：将第二季度布伦特原油价格预测下调5美元至65美元/桶。",
+    "id": "8iMIMfljhAs",
+    "order": 1744006992786,
+    "createdAt": "2025-04-07T06:23:13.000Z",
+    "publishDate": "2025-04-07T06:23:12.786Z",
+    "title": "大摩：将Q2布油价格预测下调至65美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 14:23:13",
+    "uuid": "6d35401a-e142-473c-b9e0-e9519c43f242"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "第一财经" }
@@ -15,6 +105,25 @@
     "up": false,
     "date": "2025-04-07 14:15:36",
     "uuid": "0a75bf40-3737-485d-a168-17e38764cfdb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "英国政府宣布放宽汽车制造商逐年销售电动车比例的要求，维持2030年禁售新燃油车目标，允许企业灵活调整电动车销售占比并降低不合规罚款 ...",
+    "id": "8iMH0UMmh8o",
+    "order": 1744006865711,
+    "createdAt": "2025-04-07T06:15:23.000Z",
+    "publishDate": "2025-04-07T06:21:05.711Z",
+    "title": "英国放宽电动汽车转型规定应对美关税冲击",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 14:15:23",
+    "uuid": "dab6e932-6bb0-4021-a2ff-8b72eedbd1a9"
   },
   {
     "newsArray": [
