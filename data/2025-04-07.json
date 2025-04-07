@@ -1,6 +1,101 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国推出的“对等关税”可能使苹果公司在美国销售的产品涨价，成为苹果迄今面临的最大挑战。尽管苹果尝试多元化布局和调整供应链，但若关税实施，苹果仍需承受成本压力并可能上调产品售价 ...",
+    "id": "8iMLeuI3TrR",
+    "order": 1744010066617,
+    "createdAt": "2025-04-07T07:14:27.000Z",
+    "publishDate": "2025-04-07T07:14:26.617Z",
+    "title": "关税战恐令苹果公司面临“人生大考” 在美售产品或涨价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 15:14:27",
+    "uuid": "e8af37d1-4dce-4edf-bd4c-49f694553aa1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "欧洲股市开盘大幅下跌，德国DAX30指数跌幅达10%，莱茵金属大跌27%。",
+    "id": "8iMLvl46tt2",
+    "order": 1744009983750,
+    "createdAt": "2025-04-07T07:13:04.000Z",
+    "publishDate": "2025-04-07T07:13:03.750Z",
+    "title": "德国DAX30指数跌幅扩大至10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 15:13:04",
+    "uuid": "78fba3d1-10b0-4fd4-9cae-8fb0b347e8e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "大和上调小米集团评级至“买入”，认为其智能手机有望在中国市场获取更多高端用户，IoT业务成长空间大，电动车市场将带来协同效益 ...",
+    "id": "8iMKVGVmW5D",
+    "order": 1744009515998,
+    "createdAt": "2025-04-07T07:05:16.000Z",
+    "publishDate": "2025-04-07T07:05:15.998Z",
+    "title": "大和下调小米目标价至60港元 评级升至“买入”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 15:05:16",
+    "uuid": "e0f96eea-4f17-48aa-b2d2-ab9e592f6fa4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "爱彼迎中国发布的《五一出境游趋势报告》显示，今年五一黄金周出境游搜索热度同比增长超两倍，日本、意大利、法国等十国成热门目的地。",
+    "id": "8iMAvTpeDMw",
+    "order": 1744009502858,
+    "createdAt": "2025-04-07T07:05:03.000Z",
+    "publishDate": "2025-04-07T07:05:02.858Z",
+    "title": "Airbnb爱彼迎：五一出境游中国用户搜索热度同比增长两倍以上",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 15:05:03",
+    "uuid": "263d958f-8241-4d89-a06d-807c89c3bcb7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "长三角铁路自4月10日起实施2025年第二季度列车运行图，新增管内旅客列车5对，调整10对列车运行区段及1对列车运行经由，同时优化货运班列产品结构并增加运能。",
+    "id": "8iMJ9P4iCI2",
+    "order": 1744009354998,
+    "createdAt": "2025-04-07T07:02:35.000Z",
+    "publishDate": "2025-04-07T07:02:34.998Z",
+    "title": "长三角铁路4月10日起实施2025年第二季度列车运行图",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 15:02:35",
+    "uuid": "9bc6d92d-d78e-4d2b-bdb8-6a31e910624f"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "财经网" },
       { "siteName": "凤凰科技" }
@@ -231,6 +326,28 @@
     "up": false,
     "date": "2025-04-07 14:04:28",
     "uuid": "98eb7b3d-fa84-4fd3-8926-8723fe8ac26c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "午后多只宽基ETF成交放量，四只沪深300ETF合计成交近300亿，其中华泰柏瑞沪深300ETF成交超150亿，其余三只ETF易方达、华夏、嘉实均成交超35亿。",
+    "id": "8iMFXihpT7C",
+    "order": 1744009534710,
+    "createdAt": "2025-04-07T05:52:47.000Z",
+    "publishDate": "2025-04-07T07:05:34.710Z",
+    "title": "午后多只宽基ETF持续放量 四只沪深300ETF合计成交近300亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 13:52:47",
+    "uuid": "b5058640-25f9-460d-9ddc-4ca4f4d21f8a"
   },
   {
     "newsArray": [
