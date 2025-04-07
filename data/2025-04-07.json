@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "富时中国A50指数期货夜盘拉升，现涨2.3%。",
+    "id": "8iMd8LTwxXE",
+    "order": 1744025009056,
+    "createdAt": "2025-04-07T11:23:30.000Z",
+    "publishDate": "2025-04-07T11:23:29.056Z",
+    "title": "富时中国A50指数期货夜盘涨逾2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 19:23:30",
+    "uuid": "332d7fd7-350e-418b-ac2a-3a1a968f69b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "永和股份预计2025年第一季度净利润为9100万元至10300万元，同比增长144.49%到176.74%，主要因制冷剂和含氟高分子材料市场需求旺盛，推动公司毛利率及利润水平提升。",
+    "id": "8iMd73Gqies",
+    "order": 1744025095651,
+    "createdAt": "2025-04-07T11:23:04.000Z",
+    "publishDate": "2025-04-07T11:24:55.651Z",
+    "title": "永和股份：一季度净利润同比预增144%到177%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 19:23:04",
+    "uuid": "d6682726-8d58-42a0-9c83-596b3fb9a25e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "医谷网" }
+    ],
+    "summary": "诺和诺德与腾讯健康达成战略合作，依托微信平台打造一站式“体重管理知识与服务专区”，助力公众科学管理体重 ...",
+    "id": "8iMY5HFEH47",
+    "order": 1744024998244,
+    "createdAt": "2025-04-07T11:03:13.000Z",
+    "publishDate": "2025-04-07T11:23:18.244Z",
+    "title": "诺和诺德与腾讯健康启动战略合作 构建数字化肥胖防控新生态",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 19:03:13",
+    "uuid": "31754a24-7fc8-4ab6-b63a-fabfbc4ad762"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" }
@@ -215,6 +267,27 @@
   },
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "奥本海默的John Stoltzfus将标普500指数年底目标从7,100点下调至5,950点，摩根士丹利的Michael Wilson警告若特朗普政府在关税问题上强硬，该指数可能再跌7%至8%，多家机构策略师近期也下调了目标，因不确定性令投资者担忧。",
+    "id": "8iMY9Is1BAx",
+    "order": 1744025020253,
+    "createdAt": "2025-04-07T10:11:47.000Z",
+    "publishDate": "2025-04-07T11:23:40.253Z",
+    "title": "关税威胁全球经济，华尔街纷纷下调标普500指数目标",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 18:11:47",
+    "uuid": "97e5f102-6642-4998-a640-e71c69455cc4"
+  },
+  {
+    "newsArray": [
       { "siteName": "投资界" },
       { "siteName": "猎云网" },
       { "siteName": "投中网" }
@@ -265,6 +338,23 @@
     "up": false,
     "date": "2025-04-07 18:04:11",
     "uuid": "362268dd-cf2a-4bdd-8316-010d83d84c09"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "我国网信部门持续打击文娱领域“饭圈”乱象，依法依约关闭或禁言一批违法违规账号，这些账号因低俗炒作明星绯闻丑闻八卦等问题受到惩罚 ...",
+    "id": "8iMRiqJf9Bs",
+    "order": 1744025027187,
+    "createdAt": "2025-04-07T10:04:06.000Z",
+    "publishDate": "2025-04-07T11:23:47.187Z",
+    "title": "网信部门重拳出击，整治低俗炒作娱乐明星账号乱象",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 18:04:06",
+    "uuid": "a00f8c42-199e-4bc1-87e4-f667b46f9c1a"
   },
   {
     "newsArray": [
@@ -802,6 +892,27 @@
   {
     "newsArray": [
       { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "孩子王公告，预计2025年第一季度归属于上市公司股东的净利润2914.71万元至3847.42万元，同比增长150%-230%。",
+    "id": "8iMSO3LeW0r",
+    "order": 1744025061261,
+    "createdAt": "2025-04-07T08:43:36.000Z",
+    "publishDate": "2025-04-07T11:24:21.261Z",
+    "title": "孩子王：预计2025年第一季度净利润同比增长150%-230%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 16:43:36",
+    "uuid": "0933ecac-166c-4ae5-b86a-3174cf08a9e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "界面" }
     ],
@@ -851,6 +962,25 @@
     "up": false,
     "date": "2025-04-07 16:35:31",
     "uuid": "12b22bb9-1ed0-49a4-829f-02d9eddb6705"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "站长之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果在Windows 10/11版本的Apple Music中新增杜比全景声支持，为用户带来沉浸式音乐体验 ...",
+    "id": "8iMPZpHS0Hu",
+    "order": 1744025079062,
+    "createdAt": "2025-04-07T08:34:54.000Z",
+    "publishDate": "2025-04-07T11:24:39.062Z",
+    "title": "Apple Music Windows 版本终于有了杜比全景声，比其它平台晚了几年",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 16:34:54",
+    "uuid": "4a870f50-2627-4dcf-8a04-99467618dacb"
   },
   {
     "newsArray": [
@@ -908,6 +1038,26 @@
     "up": false,
     "date": "2025-04-07 16:23:12",
     "uuid": "408c7033-26cb-4da2-aa29-829784194b6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "港股市场大跌，恒生指数跌13.22%，恒生科技指数跌17.16%。大型科技股普遍重挫，小米集团跌幅超20%，阿里巴巴、网易等跌幅近18% ...",
+    "id": "8iMDMACmilT",
+    "order": 1744025101562,
+    "createdAt": "2025-04-07T08:22:59.000Z",
+    "publishDate": "2025-04-07T11:25:01.562Z",
+    "title": "港股恒生指数跌 13.22%、恒生科技指数跌 17.16% 创史上最大单日跌幅",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 16:22:59",
+    "uuid": "68c57ef9-d4b5-4dd3-b3e5-0ca7a530f127"
   },
   {
     "newsArray": [
@@ -1702,6 +1852,68 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "爱范儿" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "手机中国" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "网传微软将停止中国区运营的消息不实，实际为微软外包公司上海微创软件公司将调整业务，微软中国未受影响 ...",
+    "id": "8iMF9CA4r2m",
+    "order": 1744025201233,
+    "createdAt": "2025-04-07T05:51:18.000Z",
+    "publishDate": "2025-04-07T11:26:41.233Z",
+    "title": "网传微软停止中国区运营，内部人士回应系误传",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 13:51:18",
+    "uuid": "b5708333-2149-4123-aa52-e681c37d9b1c"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "第一财经" },
       { "siteName": "新浪科技" },
@@ -2145,6 +2357,24 @@
     "up": false,
     "date": "2025-04-07 11:42:32",
     "uuid": "700eade3-6075-46be-a640-8c731280a2ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国国立卫生研究院将从2025年起禁止中国等国家的机构访问其关键数据平台，包括人类基因型-表型数据库等。这将增加中国医学研究获取全球核心数据库的难度，对科学发展产生负面影响 ...",
+    "id": "8iLkodK00Lc",
+    "order": 1744025269344,
+    "createdAt": "2025-04-07T03:36:15.000Z",
+    "publishDate": "2025-04-07T11:27:49.344Z",
+    "title": "美国对中国关闭核心生物医学数据库",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-07 11:36:15",
+    "uuid": "841e098d-f96b-4dc6-883b-0212a93fb684"
   },
   {
     "newsArray": [
