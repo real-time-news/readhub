@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "新国标规定智能家电语音交互技术，明确框架结构与技术要求，强调安全性，禁止采集无关数据，标准将于2025年9月1日实施。",
+    "id": "8iNj46EB4IO",
+    "order": 1744095921917,
+    "createdAt": "2025-04-08T07:05:22.000Z",
+    "publishDate": "2025-04-08T07:05:21.917Z",
+    "title": "不应采集无关数据 智能家电语音交互技术新国标发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-08 15:05:22",
+    "uuid": "c6619615-da04-4c0a-ae90-8569aedd04b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "美国南加州大学团队开发出首个能隔离噪声并保留量子纠缠的光学滤波器，基于反奇偶校验时间（APT）对称性理论，该滤波器可有效去除干扰，恢复高保真度的纠缠态 ...",
+    "id": "8iNhvkXLAbH",
+    "order": 1744095873851,
+    "createdAt": "2025-04-08T07:04:34.000Z",
+    "publishDate": "2025-04-08T07:04:33.851Z",
+    "title": "保真度超99%，首款高精度量子纠缠光学滤波器问世",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-08 15:04:34",
+    "uuid": "c6dab268-096a-42a3-bdf4-073fcdf489aa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中电系概念股尾盘拉升，中国长城与中国软件涨停。中国电子信息产业集团宣布将通过多种手段推动上市公司加强市值管理，促进高质量发展，维护投资者利益与信心。",
+    "id": "8iO0AoUMpqL",
+    "order": 1744095858177,
+    "createdAt": "2025-04-08T07:04:19.000Z",
+    "publishDate": "2025-04-08T07:04:18.177Z",
+    "title": "中国长城、中国软件尾盘双双封涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-08 15:04:19",
+    "uuid": "7fac6c0b-c4e3-49d7-8f6b-e6500c7de0c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "银行股震荡拉升，浦发银行涨近7%，厦门银行、兴业银行等涨幅居前。",
+    "id": "8iNzHHAyh8s",
+    "order": 1744095757337,
+    "createdAt": "2025-04-08T07:02:38.000Z",
+    "publishDate": "2025-04-08T07:02:37.337Z",
+    "title": "银行股震荡拉升，浦发银行涨近7%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-08 15:02:38",
+    "uuid": "16cd93a5-ebcc-4613-ad0d-967ceb6ea72a"
+  },
+  {
+    "newsArray": [
       { "siteName": "雷科技" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
