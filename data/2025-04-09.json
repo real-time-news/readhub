@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "市场早盘探底回升，北证50指数大涨6.88%，沪深两市半日成交额1.1万亿。军工股集体爆发，北方长龙等多股涨停。芯片股反弹，国民技术等涨停。地产股拉升，广宇集团涨停 ...",
+    "id": "8iPQkHE7psV",
+    "order": 1744170189666,
+    "createdAt": "2025-04-09T03:43:10.000Z",
+    "publishDate": "2025-04-09T03:43:09.666Z",
+    "title": "午评：北证50指数半日大涨6.88% 军工股集体爆发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 11:43:10",
+    "uuid": "570fa1c4-0041-47f3-ba2f-cf9d8e999160"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Waymo计划使用无人驾驶出租车内与乘客身份相关的摄像头视频数据训练生成式AI模型，可能用于定向广告。根据加州消费者隐私法案，用户可选择退出数据共享 ...",
+    "id": "8iPJaivMwI2",
+    "order": 1744169685877,
+    "createdAt": "2025-04-09T03:34:45.000Z",
+    "publishDate": "2025-04-09T03:34:45.877Z",
+    "title": "Waymo 被曝使用车内摄像头数据训练 AI 模型，官方澄清“并无计划”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 11:34:45",
+    "uuid": "39f58f32-d0b0-49c0-a4b0-2e3db0b3f1c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "中信集团通过中信农业增资隆平高科获证监会审核通过，定增资金不超12亿元，将推动公司育种研发与产业整合。中信集团看好中国资本市场及隆平高科投资价值，坚定支持中国种业发展。",
+    "id": "8iPPKzBmgsS",
+    "order": 1744169645084,
+    "createdAt": "2025-04-09T03:34:06.000Z",
+    "publishDate": "2025-04-09T03:34:05.084Z",
+    "title": "中信集团向隆平高科增资获批：坚定投资中国种业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 11:34:06",
+    "uuid": "2741e455-8ce1-4c9a-a15c-bf6145d4613b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "超擎数智与英迈达成战略合作，英迈将作为超擎数智AI服务器产品在中国的总代理 ...",
+    "id": "8iPMoov8Ju7",
+    "order": 1744169598700,
+    "createdAt": "2025-04-09T03:33:19.000Z",
+    "publishDate": "2025-04-09T03:33:18.700Z",
+    "title": "超擎数智牵手英迈，合力开启AI服务器市场新篇章",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 11:33:19",
+    "uuid": "bfc63b61-b4b4-482a-a1fd-c5e97fbb4591"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "雷军在北京小米总部现身，近期小米经历了一系列事件，包括股价配售、SU7碰撞燃烧事故及贸易摩擦。3月25日，小米公告配售8亿股筹资425亿港元，导致股价下跌超6% ...",
+    "id": "8iObeOfkItj",
+    "order": 1744169130787,
+    "createdAt": "2025-04-09T03:25:31.000Z",
+    "publishDate": "2025-04-09T03:25:30.787Z",
+    "title": "雷军现身小米总部略显消瘦，小米股价近期遭遇三连击",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 11:25:31",
+    "uuid": "a2e6e539-8981-4ec9-a057-115f3fc7d316"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股苹果概念股普遍下跌，瑞声科技跌近5%，富智康集团跌超4%。苹果股价四个交易日暴跌23%，因特朗普关税计划影响，iPhone制造商受创最大 ...",
+    "id": "8iPObRJfx1Z",
+    "order": 1744169043838,
+    "createdAt": "2025-04-09T03:24:04.000Z",
+    "publishDate": "2025-04-09T03:24:03.838Z",
+    "title": "苹果概念股再度下跌 富智康集团跌超4% 苹果股价连续4天大跌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 11:24:04",
+    "uuid": "5a732c9d-f1e3-4417-80d3-f4943b671474"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "36Kr" },
       { "siteName": "金融界" }
@@ -108,6 +215,26 @@
     "up": false,
     "date": "2025-04-09 10:44:19",
     "uuid": "ecdfbda0-8697-45e7-9e1f-2a0c4b6823e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "港股科网股反弹，小米集团涨5.66%，美团、快手小幅上涨。",
+    "id": "8iPLnBMWhva",
+    "order": 1744169031398,
+    "createdAt": "2025-04-09T02:38:19.000Z",
+    "publishDate": "2025-04-09T03:23:51.398Z",
+    "title": "部分港股科网股反弹，小米集团涨近6％",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 10:38:19",
+    "uuid": "7cdb7d26-40d0-47c0-b9c0-fe4a3f019f53"
   },
   {
     "newsArray": [
@@ -273,6 +400,24 @@
     "up": false,
     "date": "2025-04-09 10:15:18",
     "uuid": "a97f1989-0a93-4e31-8cae-f2b506ca0063"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "岚图汽车第20万辆整车全新岚图梦想家正式下线，成为首个达成此目标的央国企高端新能源品牌 ...",
+    "id": "8iPItv7XVHr",
+    "order": 1744169672312,
+    "createdAt": "2025-04-09T02:14:01.000Z",
+    "publishDate": "2025-04-09T03:34:32.312Z",
+    "title": "岚图汽车第20万辆整车下线，梦想家累积销量突破10万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 10:14:01",
+    "uuid": "e524ccba-efda-45ce-aab5-0b76a18084c1"
   },
   {
     "newsArray": [
@@ -580,6 +725,24 @@
     "up": false,
     "date": "2025-04-09 07:31:25",
     "uuid": "1c59f605-12e1-44c4-8d2a-9667d554e6e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "Odaily" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "安德里森・霍洛维茨（Andreessen Horowitz，简称a16z）正寻求筹集200亿美元基金，专注于投资美国人工智能公司，这是该公司历史上规模最大的基金 ...",
+    "id": "8iOWJN4ZUb5",
+    "order": 1744169148373,
+    "createdAt": "2025-04-08T23:26:42.000Z",
+    "publishDate": "2025-04-09T03:25:48.373Z",
+    "title": "a16z科技投资公司寻求筹集200亿美元AI巨额基金",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 07:26:42",
+    "uuid": "8d0eeeee-6835-4d99-8f0a-5402aac4324e"
   },
   {
     "newsArray": [
