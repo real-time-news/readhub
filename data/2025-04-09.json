@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "TechSir" },
+      { "siteName": "财经网" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "以“乘数黔行，智华未来”为主题的可信AI数据空间价值共创（贵州）高峰论坛成功举办。论坛聚焦数据与AI协同发展，探讨可信数据空间趋势与机遇 ...",
+    "id": "8iOkETCRAqc",
+    "order": 1744205693103,
+    "createdAt": "2025-04-09T13:34:53.000Z",
+    "publishDate": "2025-04-09T13:34:53.103Z",
+    "title": "可信AI数据空间创新启动 贵州携华为云打造数模协同治理新范式",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 21:34:53",
+    "uuid": "b60d6bfd-f7a6-41bd-81cd-a3fb1c1cc842"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AMD最新Zen 5处理器受EntrySign漏洞影响，该漏洞源于签名验证中不当使用示例密钥，可能导致未经授权的微码执行，影响从Zen 1到Zen 5架构 ...",
+    "id": "8iPObcI4RoI",
+    "order": 1744205484925,
+    "createdAt": "2025-04-09T13:31:26.000Z",
+    "publishDate": "2025-04-09T13:31:24.925Z",
+    "title": "AMD Zen系列处理器EntrySign漏洞已修复，用户需尽快安装安全补丁",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 21:31:26",
+    "uuid": "2e68c851-9e85-49bb-bc9c-478fe11406ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "一汽富维拟将公司名称变更为富维集团，并将证券简称由一汽富维变更为富维股份，证券代码不变 ...",
+    "id": "8iQ4lkwXeFv",
+    "order": 1744204397182,
+    "createdAt": "2025-04-09T13:13:18.000Z",
+    "publishDate": "2025-04-09T13:13:17.182Z",
+    "title": "一汽富维：证券简称拟变更为“富维股份”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 21:13:18",
+    "uuid": "fac78d4d-5ad2-41cb-bda3-fc0ab9a9e0dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "3月新能源乘用车出口14.3万辆，同比增长6.4%，环比增长21.2%。比亚迪、奇瑞、吉利等车企表现突出，其中比亚迪出口达67,307辆领先。",
+    "id": "8iPk3aZfe1v",
+    "order": 1744204042273,
+    "createdAt": "2025-04-09T13:07:23.000Z",
+    "publishDate": "2025-04-09T13:07:22.273Z",
+    "title": "乘联分会：3月新能源乘用车出口14.3万辆 比亚迪出口67307辆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-09 21:07:23",
+    "uuid": "e649a735-7d18-4a37-a0de-d14cda1a7d7a"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
