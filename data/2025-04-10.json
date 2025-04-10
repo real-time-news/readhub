@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "中关村在线_ZOL企业站" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "HPE计算新品发布会推出全新ProLiant Compute Gen12服务器，该产品在性能、能效和可靠性上实现全面突破，通过智能化管理和可持续设计助力企业在AI、边缘计算及混合云领域加速数字化转型 ...",
+    "id": "8iR79dpilXs",
+    "order": 1744269279819,
+    "createdAt": "2025-04-10T07:14:39.000Z",
+    "publishDate": "2025-04-10T07:14:39.819Z",
+    "title": "HPE ProLiant Gen12发布，为千行百业提供智算动力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 15:14:39",
+    "uuid": "e285758a-bff8-4297-9936-8eb771a6a2c7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "aibase" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "IBM发布新款主机z17，搭载最新Telum II处理器，聚焦AI功能 ...",
+    "id": "8iQzw5mYVEN",
+    "order": 1744269240509,
+    "createdAt": "2025-04-10T07:14:01.000Z",
+    "publishDate": "2025-04-10T07:14:00.509Z",
+    "title": "IBM 推出全新 z17主机，重塑大规模 AI 运算体验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 15:14:01",
+    "uuid": "f6ff7711-85a2-4e05-bb6c-9f54a6041ef9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2024年全国事业单位和规模以上企业广告业务收入达15464.1亿元，首次突破1.5万亿元，比上年增长17.9%，“十四五”以来共增长63.7%，年均增长率13.1%。",
+    "id": "8iRKePvS6FY",
+    "order": 1744269225743,
+    "createdAt": "2025-04-10T07:13:46.000Z",
+    "publishDate": "2025-04-10T07:13:45.743Z",
+    "title": "我国广告产业收入首次突破1.5万亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 15:13:46",
+    "uuid": "421ef4a7-248f-4828-ad03-f59fbcb06181"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国移动董事长杨杰表示，中国移动可调度算力资源占全国六分之一，未来将强化云智算，构建AI全栈服务。计划建设超大规模算力工厂，形成“中心集约、边缘泛在”的智算体系 ...",
+    "id": "8iRIWyXou4s",
+    "order": 1744268551770,
+    "createdAt": "2025-04-10T07:02:32.000Z",
+    "publishDate": "2025-04-10T07:02:31.770Z",
+    "title": "中国移动：计划建设超大规模“算力工厂”，同时开展十万卡智算中心研究",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 15:02:32",
+    "uuid": "e0feb5c7-2b18-4653-af5a-e64e031edb5f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "人民银行北京市分行强调落实适度宽松的货币政策，充分发挥结构性货币政策工具作用，精准投放资金，加大对重点领域和薄弱环节的信贷支持，保持金融总量稳定增长，强化利率政策执行，引导金融机构盘活存量资源，防止资金空转，推动首都经济持续向好。",
+    "id": "8iRJDjPz3qO",
+    "order": 1744269200026,
+    "createdAt": "2025-04-10T06:52:42.000Z",
+    "publishDate": "2025-04-10T07:13:20.026Z",
+    "title": "央行北京市分行：加大对重点战略、重点领域和薄弱环节的信贷支持",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 14:52:42",
+    "uuid": "31f0261f-c0f6-45f3-985a-f724a0e9a742"
+  },
+  {
+    "newsArray": [
       { "siteName": "开源中国" },
       { "siteName": "C114 通信网" },
       { "siteName": "IT 之家" }
@@ -1486,6 +1574,25 @@
     "up": false,
     "date": "2025-04-10 09:23:54",
     "uuid": "875ff7bf-6aba-4c52-80c6-5616e7679ea4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国内商品期货早盘多数上涨，集运欧线主力合约涨停，NR涨超7%，乙二醇和橡胶等涨超5%，燃料油、LU燃油等涨逾3%。菜粕、瓶片等小幅下跌。",
+    "id": "8iQuHDCSwd6",
+    "order": 1744268571926,
+    "createdAt": "2025-04-10T01:15:04.000Z",
+    "publishDate": "2025-04-10T07:02:51.926Z",
+    "title": "国内商品期货早盘开盘，集运欧线主力合约涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 09:15:04",
+    "uuid": "94dd8803-d66c-442d-98c8-6369f3b22b74"
   },
   {
     "newsArray": [
