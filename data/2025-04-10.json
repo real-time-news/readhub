@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "字节跳动豆包大模型团队开源了首个多语言类SWE数据集Multi-SWE-bench，覆盖8种主流编程语言，用于评估大模型的代码修复能力 ...",
+    "id": "8iRH54b1e37",
+    "order": 1744267796963,
+    "createdAt": "2025-04-10T06:49:56.000Z",
+    "publishDate": "2025-04-10T06:49:56.963Z",
+    "title": "豆包团队开源多语言代码修复基准 Multi-SWE-bench",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 14:49:56",
+    "uuid": "3a857675-7a8f-4971-97bc-c7427cf6e335"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "财经网" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "中国太保控股子公司太保寿险与多家机构共同签订上海科创三期基金合伙协议，拟设立总规模80亿元的上海科创三期基金，其中太保寿险认缴8亿元 ...",
+    "id": "8iQxRBw1DFx",
+    "order": 1744267724985,
+    "createdAt": "2025-04-10T06:48:44.000Z",
+    "publishDate": "2025-04-10T06:48:44.985Z",
+    "title": "太保出手8亿，参设上海科创三期基金",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 14:48:44",
+    "uuid": "ddd1decb-cda9-49f1-b7af-3efb2b2dcabf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "杭州西湖区市场监督管理局对多家网络科技公司进行处罚，涉及金额巨大，主要因虚假宣传行为。其中，兑捷科技、变现猫和诺诺网分别被罚没494万、328万和154万余元 ...",
+    "id": "8iR4y02pJv2",
+    "order": 1744267702319,
+    "createdAt": "2025-04-10T06:48:23.000Z",
+    "publishDate": "2025-04-10T06:48:22.319Z",
+    "title": "央视315曝光“手机抽奖”陷阱，涉事公司被重罚数百万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 14:48:23",
+    "uuid": "ac611d73-4778-4eec-8646-0fe8380b29b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "星尘智能完成A轮及A+轮融资数亿元，由锦秋基金、蚂蚁集团领投。公司专注于通过软硬件一体化系统架构打造具备人类级操作能力的AI机器人助理，其全栈自研的Astribot S1机器人以突破性技术引发关注 ...",
+    "id": "8iRBNA2DzvY",
+    "order": 1744267690020,
+    "createdAt": "2025-04-10T06:48:10.000Z",
+    "publishDate": "2025-04-10T06:48:10.020Z",
+    "title": "连续完成A及A+轮融资，星尘智能获锦秋基金、蚂蚁集团等领投",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 14:48:10",
+    "uuid": "23778b42-1421-47ad-bfa6-f6758238361a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "字节跳动豆包大模型团队开源了首个多语言类SWE数据集Multi-SWE-bench，可评估和提升大模型的“自动修Bug”能力，覆盖8种主流编程语言，数据源自GitHub issue，历时近一年构建，旨在提高大模型的高阶编程智能水平。",
+    "id": "8iRIWCe9VFk",
+    "order": 1744267367534,
+    "createdAt": "2025-04-10T06:42:49.000Z",
+    "publishDate": "2025-04-10T06:42:47.534Z",
+    "title": "字节跳动豆包大模型团队正式开源首个多语言类SWE数据集",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 14:42:49",
+    "uuid": "c53980fc-ade4-4f0b-852a-f07cdd660857"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "36Kr" },
       { "siteName": "IT 之家" }
@@ -15,6 +101,24 @@
     "up": false,
     "date": "2025-04-10 14:34:14",
     "uuid": "e2685e97-1f7a-45cf-bf38-de74aa66aede"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "科学家完成迄今最大大脑联接和功能图谱——皮层网络机器智能（MICRONS）项目，聚焦小鼠大脑1立方毫米区域，包含超20万细胞、4公里轴突和5.23亿突触 ...",
+    "id": "8iQyZVeEOVu",
+    "order": 1744267254417,
+    "createdAt": "2025-04-10T06:33:31.000Z",
+    "publishDate": "2025-04-10T06:40:54.417Z",
+    "title": "超20万个细胞，首个小鼠局部大脑联接图谱公布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 14:33:31",
+    "uuid": "36e811e3-ad09-4b7c-92e9-6537c4ed6b21"
   },
   {
     "newsArray": [
