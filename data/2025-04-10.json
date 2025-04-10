@@ -1,6 +1,132 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "越南越捷航空与AV AirFinance签署3亿美元融资协议以扩张机队，计划今年开始接收首批波音737 MAX飞机并洽谈扩大订单。",
+    "id": "8iRQOxbvYwJ",
+    "order": 1744274247729,
+    "createdAt": "2025-04-10T08:34:47.000Z",
+    "publishDate": "2025-04-10T08:37:27.729Z",
+    "title": "越南越捷航空签署3亿美元融资协议 同波音洽谈扩大订单规模",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 16:34:47",
+    "uuid": "58ec4b61-dbbf-4958-950f-f5c6394ec8b6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "大华股份已退出美国市场，目前海外业务布局分散于拉美、中东、东南亚、欧洲等180多个国家和地区，且主要收入来源于发展中国家和地区。",
+    "id": "8iQAlDmqngo",
+    "order": 1744274064915,
+    "createdAt": "2025-04-10T08:34:24.000Z",
+    "publishDate": "2025-04-10T08:34:24.915Z",
+    "title": "大华股份：公司已退出美国市场，海外业务布局分散",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 16:34:24",
+    "uuid": "e0b119be-b1a4-45f4-9695-331a5ffc129b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "百度宣布文心大模型4.5 Turbo将在4月25日的百度Create开发者大会上正式亮相。",
+    "id": "8iR75r79mwY",
+    "order": 1744274051058,
+    "createdAt": "2025-04-10T08:34:11.000Z",
+    "publishDate": "2025-04-10T08:34:11.058Z",
+    "title": "文心大模型4.5 Turbo将于4月25日正式亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 16:34:11",
+    "uuid": "84a5d548-3875-404f-b7ab-6e12d5b1c025"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "aibase" },
+      { "siteName": "智东西" }
+    ],
+    "summary": "阿里云百炼上线首个全生命周期MCP服务，用户5分钟可搭建连接MCP服务的Agent。阿里云希望借此加速AI大模型落地，构建完整MCP服务生态 ...",
+    "id": "8iPv7XedOx7",
+    "order": 1744274039568,
+    "createdAt": "2025-04-10T08:34:01.000Z",
+    "publishDate": "2025-04-10T08:33:59.568Z",
+    "title": "拥抱MCP，阿里云加速AI应用落地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 16:34:01",
+    "uuid": "f6f1fff4-2be9-43db-8feb-b7af31c00e3a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "字节跳动豆包大模型团队推出首个多语言软件工程数据集Multi-SWE-bench，涵盖Python、Java等七种编程语言，包含1632个真实编程实例 ...",
+    "id": "8iRIXO2JQKA",
+    "order": 1744273455273,
+    "createdAt": "2025-04-10T08:24:16.000Z",
+    "publishDate": "2025-04-10T08:24:15.273Z",
+    "title": "字节跳动推出 Multi-SWE-bench，开创多语言代码自动修复新标准",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 16:24:16",
+    "uuid": "84bea2ca-741d-4170-9ae2-0a001151efa7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "印尼巴布亚省发生5.4级地震，震源深度50千米，位于南纬6.05度东经138.70度。",
+    "id": "8iRPe8AApJc",
+    "order": 1744273518606,
+    "createdAt": "2025-04-10T08:23:30.000Z",
+    "publishDate": "2025-04-10T08:25:18.606Z",
+    "title": "印尼巴布亚省发生5.4级地震 震源深度50千米",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 16:23:30",
+    "uuid": "97209eb5-9921-4bfd-ac0d-2cfd351f420b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "第一财经" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "零跑汽车宣布即日起智驾软件全面免费，含高速智能领航辅助功能。已付费用户将在2025年5月31日前获退相关费用。",
+    "id": "8iRODExriJx",
+    "order": 1744273297918,
+    "createdAt": "2025-04-10T08:21:39.000Z",
+    "publishDate": "2025-04-10T08:21:37.918Z",
+    "title": "零跑汽车宣布智驾软件全面免费",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 16:21:39",
+    "uuid": "e5e46fbe-22de-453c-861f-422476038b58"
+  },
+  {
+    "newsArray": [
       { "siteName": "科学网" },
       { "siteName": "科学网" },
       { "siteName": "澎湃新闻" }
@@ -141,6 +267,26 @@
     "up": false,
     "date": "2025-04-10 16:06:12",
     "uuid": "41eab8ff-d2d3-4ac9-9f7b-138bdbd43c14"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "广农集团发起的广西兴桂农业基金完成备案，总规模20亿元，聚焦制糖产业升级、智慧农业及乡村新能源布局，推动城乡融合服务链，助力广西现代设施农业发展与乡村振兴。",
+    "id": "8iRM8HgQx0d",
+    "order": 1744273400246,
+    "createdAt": "2025-04-10T08:05:47.000Z",
+    "publishDate": "2025-04-10T08:23:20.246Z",
+    "title": "20亿元，广西兴桂现代设施农业产业基金完成备案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-10 16:05:47",
+    "uuid": "f8032d29-8d4f-4748-8c61-fee5a28310b3"
   },
   {
     "newsArray": [
