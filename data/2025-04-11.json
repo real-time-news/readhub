@@ -1,6 +1,115 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "中国半导体协会通知会员单位，根据海关总署规定，集成电路原产地按四位税则号改变原则认定，即以流片地为原产地 ...",
+    "id": "8iSlGdsS7aK",
+    "order": 1744355805987,
+    "createdAt": "2025-04-11T07:16:46.000Z",
+    "publishDate": "2025-04-11T07:16:45.987Z",
+    "title": "中国半导体协会：集成电路流片地认定为原产地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 15:16:46",
+    "uuid": "3665b908-0e72-4f70-a208-3ec37ccf2bf8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "中证网" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "澳优2024年实现营收74.02亿元，同比增长0.3%，归母净利润2.36亿元，同比增长35.3% ...",
+    "id": "8iRboIrODXo",
+    "order": 1744355638871,
+    "createdAt": "2025-04-11T07:13:59.000Z",
+    "publishDate": "2025-04-11T07:13:58.871Z",
+    "title": "澳优营收、利润双增长，海外市场发力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 15:13:59",
+    "uuid": "d0626907-eac4-4798-96f9-018be7782717"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧股开盘普遍上涨，欧洲斯托克50指数和德国DAX指数均涨1%，英国富时100指数涨0.8%，法国CAC40指数涨0.5%。",
+    "id": "8iSytZ0YEv7",
+    "order": 1744355651857,
+    "createdAt": "2025-04-11T07:11:42.000Z",
+    "publishDate": "2025-04-11T07:14:11.857Z",
+    "title": "欧股开盘普涨，欧洲斯托克50指数涨1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 15:11:42",
+    "uuid": "fce5baac-acbb-4a72-b61c-e220b5deb987"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "雷锋网" }
+    ],
+    "summary": "京东进行新一轮高层调整：牛英华接任大商超全渠道事业群总裁，姚彦中调回家居家电事业群，李帅转任国际业务负责人。此次调整涉及多位核心高管，反映了京东在不同业务板块的战略布局 ...",
+    "id": "8iSjunNHybB",
+    "order": 1744355176181,
+    "createdAt": "2025-04-11T07:06:16.000Z",
+    "publishDate": "2025-04-11T07:06:16.181Z",
+    "title": "京东高层密集调整：牛英华出任大商超全渠道事业群总裁",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 15:06:16",
+    "uuid": "2f165d78-0ee1-413d-82c4-bb5576e8ae9f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "国家发展改革委和国家能源局发布指导意见，推动虚拟电厂发展，提出完善支持政策，包括资金支持、低息贷款、信用担保及绿色债券等金融措施。",
+    "id": "8iSy8ylkxeV",
+    "order": 1744355030128,
+    "createdAt": "2025-04-11T07:03:50.000Z",
+    "publishDate": "2025-04-11T07:03:50.128Z",
+    "title": "两部门：积极落实“两新”等政策，对符合条件的虚拟电厂项目给予资金支持",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 15:03:50",
+    "uuid": "8944813c-1295-49bb-95fc-b29a8d0dfb44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "格隆汇" },
+      { "siteName": "医药魔方" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国生物上海生物制品研究所与荣灿生物医药联合开发的带状疱疹mRNA疫苗获国家药监局临床试验批准，成为该所首款获批临床的mRNA疫苗 ...",
+    "id": "8iSxyovqWNW",
+    "order": 1744355017296,
+    "createdAt": "2025-04-11T07:03:38.000Z",
+    "publishDate": "2025-04-11T07:03:37.296Z",
+    "title": "中国生物首款带状疱疹mRNA疫苗获批临床",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 15:03:38",
+    "uuid": "eccdffcf-90fe-4da1-b87e-c591a02cdec2"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
@@ -699,6 +808,25 @@
     "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "财经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "为支持资本市场稳定运行，多家银行加大股票回购增持贷款业务力度。截至4月10日，A股超200家上市公司发布相关公告，合计贷款金额超400亿元 ...",
+    "id": "8iSUt9MGr5A",
+    "order": 1744355038333,
+    "createdAt": "2025-04-11T03:23:58.000Z",
+    "publishDate": "2025-04-11T07:03:58.333Z",
+    "title": "商业银行发力股票回购增持贷款业务 支持资本市场稳健发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 11:23:58",
+    "uuid": "0af42b4c-46c8-4965-ac79-2ca8ec7ac0bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "财经网" },
       { "siteName": "财经网" },
       { "siteName": "新浪科技" }
     ],
@@ -1327,6 +1455,31 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2025年以来，A股市场频现股份协议转让案例，国资、产业资本等多方力量在其中交织融汇 ...",
+    "id": "8iSPqOlqWfc",
+    "order": 1744355076181,
+    "createdAt": "2025-04-11T00:02:41.000Z",
+    "publishDate": "2025-04-11T07:04:36.181Z",
+    "title": "注重战略价值重构，A股上市公司股份协议转让频现",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 08:02:41",
+    "uuid": "409df014-235e-4f3b-96c2-af0ee64edead"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "36Kr" },
       { "siteName": "新浪科技" },
@@ -1413,6 +1566,30 @@
     "up": false,
     "date": "2025-04-11 07:38:21",
     "uuid": "199df145-e849-4a54-b633-20c0ab41b89b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "电商报" },
+      { "siteName": "网易科技" },
+      { "siteName": "财经网" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "今日有网传消息称京东内部下发禁令，禁止喜茶外卖产品进入办公区域，京东大厦内的喜茶门店撤出园区 ...",
+    "id": "8iRlrTZGSjF",
+    "order": 1744355243974,
+    "createdAt": "2025-04-10T23:38:00.000Z",
+    "publishDate": "2025-04-11T07:07:23.974Z",
+    "title": "京东回应禁止喜茶外卖产品进入办公区域：假消息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 07:38:00",
+    "uuid": "557cb6a2-a857-4287-bf24-1c99270e55be"
   },
   {
     "newsArray": [
@@ -1658,6 +1835,27 @@
     "up": false,
     "date": "2025-04-11 06:21:29",
     "uuid": "9e2df134-a229-4087-8971-cedd20ac4b29"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "桥水创始人达利欧表示，全球市场巨震使投资者感到创伤和恐惧，影响了对美国可靠性的信心 ...",
+    "id": "8iS0t4YN8F9",
+    "order": 1744355352898,
+    "createdAt": "2025-04-10T21:49:21.000Z",
+    "publishDate": "2025-04-11T07:09:12.898Z",
+    "title": "桥水创始人达利欧：关税风暴损害美国的可靠形象",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-11 05:49:21",
+    "uuid": "b5ea6d46-8b22-485e-8922-5455ead62beb"
   },
   {
     "newsArray": [
