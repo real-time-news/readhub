@@ -1,6 +1,121 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "全球最大“人造太阳”ITER计划磁体馈线采购包项目完成关键节点，由中国科学院合肥物质科学研究院研制的校正场线圈内馈线部件最后一套在合肥竣工并交付起运至法国现场，标志着磁体馈线系统所有超大部件研制顺利完成。",
+    "id": "8iW3gdVarcr",
+    "order": 1744516123171,
+    "createdAt": "2025-04-13T03:42:18.000Z",
+    "publishDate": "2025-04-13T03:48:43.171Z",
+    "title": "中国交付全球最大“人造太阳”重要部件",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-13 11:42:18",
+    "uuid": "23042995-5039-4939-9f1e-9224ca937a62"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "央视新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国商业航天处于快速成长阶段，全产业链发展迅速。低轨卫星星座建设与卫星数据消费市场兴起推动空天信息产业发展，融合人工智能等技术改变生活 ...",
+    "id": "8iW2v9leSEZ",
+    "order": 1744515719620,
+    "createdAt": "2025-04-13T03:42:00.000Z",
+    "publishDate": "2025-04-13T03:41:59.620Z",
+    "title": "太空旅游有望在5-10年内实现商业运营",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-13 11:42:00",
+    "uuid": "cba1d5b0-5200-4449-81bf-25b54649c99f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中国乐凯牵头制定的8项国家标准完成报批，填补了国内影像材料相关标准空白，采用国际先进标准，提升我国影像材料标准与国际的一致性，推动产品质量和市场竞争力增强。",
+    "id": "8iW3fcGARfI",
+    "order": 1744515414905,
+    "createdAt": "2025-04-13T03:33:56.000Z",
+    "publishDate": "2025-04-13T03:36:54.905Z",
+    "title": "我国感光材料领域8项国家标准完成报批 进一步增强有关产品市场竞争力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-13 11:33:56",
+    "uuid": "1e625694-4138-4ed1-9621-1d8830e6c221"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "字节跳动计划推出自家AI智能眼镜，预计提供自研模型豆包的AI功能，目前时间和销售地区未定，正与供应商谈判产品细节。",
+    "id": "8iW0mFBO7fl",
+    "order": 1744512723917,
+    "createdAt": "2025-04-13T02:52:04.000Z",
+    "publishDate": "2025-04-13T02:52:03.917Z",
+    "title": "消息称字节正自研AI眼镜",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-13 10:52:04",
+    "uuid": "fd509cf1-89c7-4aa8-a309-236e0d9941be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌计划将Gemini AI模型与Veo视频生成模型融合，以增强对物理世界的理解能力。DeepMind CEO Demis Hassabis表示，Gemini作为多模态模型旨在构建通用数字助手 ...",
+    "id": "8iVsY8VG9w8",
+    "order": 1744511673804,
+    "createdAt": "2025-04-13T02:34:34.000Z",
+    "publishDate": "2025-04-13T02:34:33.804Z",
+    "title": "谷歌计划融合 Gemini 与 Veo 模型，打造全能 AI 助手",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-13 10:34:34",
+    "uuid": "3abc4a18-c538-405b-86dc-0b3a65c73121"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财经网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "通用汽车将暂停加拿大安大略省CAMI装配厂生产，4月14日开始裁员，5月部分恢复后将再次停产至2025年10月，期间进行设备改造以准备生产2026款商用电动车 ...",
+    "id": "8iVxG2EmZvd",
+    "order": 1744510398582,
+    "createdAt": "2025-04-13T02:13:19.000Z",
+    "publishDate": "2025-04-13T02:13:18.582Z",
+    "title": "通用汽车暂停加拿大一工厂生产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-13 10:13:19",
+    "uuid": "b2f69aa0-a5e7-4516-a768-92b8b6e195f0"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "南方周末" },
       { "siteName": "凤凰科技" }
@@ -53,6 +168,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "美国政府宣布免除智能手机、电脑、芯片等电子产品的“对等关税”，适用于4月5日后进入美国的电子产品，已缴税款可申请退款。此举或缓解消费者涨价压力，惠及苹果、三星等企业 ...",
+    "id": "8iVl6s2izVo",
+    "order": 1744515664854,
+    "createdAt": "2025-04-13T01:41:42.000Z",
+    "publishDate": "2025-04-13T03:41:04.854Z",
+    "title": "美方豁免部分商品“对等关税”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-13 09:41:42",
+    "uuid": "a2829dd8-f585-44de-b372-f8bc9343268b"
+  },
+  {
+    "newsArray": [
       { "siteName": "C114 通信网" },
       { "siteName": "央视新闻" },
       { "siteName": "IT 之家" }
@@ -67,6 +201,32 @@
     "up": false,
     "date": "2025-04-13 09:37:20",
     "uuid": "1b482907-b6d8-42f2-83e0-b1943e231d6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "一季度，中国国家铁路集团通过加快现代物流体系建设和深化货运市场化改革，累计发送货物9.7亿吨，同比增长3.1% ...",
+    "id": "8iVtgBPRstZ",
+    "order": 1744510355618,
+    "createdAt": "2025-04-13T01:34:41.000Z",
+    "publishDate": "2025-04-13T02:12:35.618Z",
+    "title": "一季度国家铁路发送货物9.7亿吨，同比增长3.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-13 09:34:41",
+    "uuid": "c12c75e9-da38-4755-a69f-781dddac2286"
   },
   {
     "newsArray": [
@@ -174,5 +334,23 @@
     "up": false,
     "date": "2025-04-13 08:49:27",
     "uuid": "87852455-307c-45b5-96a0-9bb10ac798e0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "12名OpenAI前员工支持马斯克对OpenAI的诉讼，称公司重组将违背非营利使命。前员工表示非营利模式对其招聘和技术发展至关重要 ...",
+    "id": "8iUySgEyb0I",
+    "order": 1744513319065,
+    "createdAt": "2025-04-12T23:16:14.000Z",
+    "publishDate": "2025-04-13T03:01:59.065Z",
+    "title": "12 名 OpenAI 前员工支持马斯克诉讼，直指公司重组违反非营利使命",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-13 07:16:14",
+    "uuid": "a61d0467-abc1-4655-8ea9-44437e5bbd0d"
   }
 ]
