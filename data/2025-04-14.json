@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国电南瑞计划通过集中竞价交易方式回购A股股份，资金总额5亿至10亿元，回购价不超34.13元/股，股份将用于股权激励计划，未使用部分将在36个月内注销。",
+    "id": "8iY909PaVMx",
+    "order": 1744623809187,
+    "createdAt": "2025-04-14T09:43:29.000Z",
+    "publishDate": "2025-04-14T09:43:29.187Z",
+    "title": "国电南瑞：拟以5亿元至10亿元回购股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 17:43:29",
+    "uuid": "cd86f4ec-e2f9-4355-aff1-8f15513400c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Meta发布的Llama-4-Maverick在LMArena排行榜上从第二名降至第32名，引发开发者对是否存在刷榜行为的质疑 ...",
+    "id": "8iXycnxyNdL",
+    "order": 1744623771829,
+    "createdAt": "2025-04-14T09:42:52.000Z",
+    "publishDate": "2025-04-14T09:42:51.829Z",
+    "title": "Meta 新模型 Llama-4-Maverick 排名骤降，引发刷榜质疑",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 17:42:52",
+    "uuid": "8ee5050d-7434-4650-98b0-bf24ffaae5ee"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
