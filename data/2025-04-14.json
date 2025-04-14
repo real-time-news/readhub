@@ -1,6 +1,151 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果2025年第一季度全球智能手机销量排名第一，市场份额达19%，为该品牌首次在第一季度登顶。",
+    "id": "8iYLTpaB8p3",
+    "order": 1744635110678,
+    "createdAt": "2025-04-14T12:51:51.000Z",
+    "publishDate": "2025-04-14T12:51:50.678Z",
+    "title": "机构：苹果首次在第一季度占据全球智能手机出货量第一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 20:51:51",
+    "uuid": "6993a142-462f-4c03-8924-de775de906ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中航产融公告，公司主动终止股票上市交易已通过股东大会审议，控股股东中航工业将向符合条件的A股股东提供3.54元/股的现金选择权，股权登记日为2025年4月22日。",
+    "id": "8iYLrwBcXdH",
+    "order": 1744634937498,
+    "createdAt": "2025-04-14T12:43:28.000Z",
+    "publishDate": "2025-04-14T12:48:57.498Z",
+    "title": "中航产融：公司将申请股票终止上市交易 控股股东提供现金选择权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 20:43:28",
+    "uuid": "7521a67c-cf0e-44d1-8109-5ff83d7334ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "花旗集团将高通目标价从185美元降至145美元。",
+    "id": "8iY8Iknrjgk",
+    "order": 1744634089757,
+    "createdAt": "2025-04-14T12:34:49.000Z",
+    "publishDate": "2025-04-14T12:34:49.757Z",
+    "title": "花旗：将高通目标价降至145美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 20:34:49",
+    "uuid": "aeaa78b2-5ceb-492c-8675-a9fa5b7bb604"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小鹏汽车在香港举办AI技术分享会，披露正研发720亿参数的自动驾驶大模型“小鹏世界基座模型”。",
+    "id": "8iYB94d1ThN",
+    "order": 1744633997341,
+    "createdAt": "2025-04-14T12:33:18.000Z",
+    "publishDate": "2025-04-14T12:33:17.341Z",
+    "title": "小鹏汽车启动720亿参数自驾基模研发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 20:33:18",
+    "uuid": "a25067fe-dc59-40de-b99f-aca799606865"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "Ilya Sutskever创立的Safe Superintelligence（SSI）在人工智能领域筹集20亿美元，估值达320亿美元，本轮融资由Greenoaks领投，多家知名投资机构参与 ...",
+    "id": "8iXa1qWvLbM",
+    "order": 1744633519570,
+    "createdAt": "2025-04-14T12:25:20.000Z",
+    "publishDate": "2025-04-14T12:25:19.570Z",
+    "title": "前OpenAI首席科学家新公司估值达320亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 20:25:20",
+    "uuid": "ae8b8364-99c6-4dd6-9c55-a99a9f30d1a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "法拉第未来将在洛杉矶总部启动FXAIEV开发者共创活动，下周开始Faraday X外部开发者共创计划，首款FX车型计划2025年底下线，FX Super One车型预计2025年6月举办首次产品发布会。",
+    "id": "8iYJi9vkdRK",
+    "order": 1744633366086,
+    "createdAt": "2025-04-14T12:19:34.000Z",
+    "publishDate": "2025-04-14T12:22:46.086Z",
+    "title": "法拉第未来首款FX车型预计年底下线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 20:19:34",
+    "uuid": "f5a6211b-09cb-43c2-98cd-75f5c212f344"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "芭田股份预计2025年第一季度净利润为1.6亿元至2.3亿元，同比增长203.27%至335.94%，主要得益于磷矿石及其加工产品毛利增加以及肥料产品销售增长。",
+    "id": "8iYJ2CyQyrR",
+    "order": 1744635186474,
+    "createdAt": "2025-04-14T12:14:40.000Z",
+    "publishDate": "2025-04-14T12:53:06.474Z",
+    "title": "芭田股份：预计第一季度净利润同比增长203%至336%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 20:14:40",
+    "uuid": "feee3db5-598a-4a80-b2d2-5712ecd7b1eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "领益智造拟回购2至4亿元股份，价格不超13.18元/股，将用于股权激励或员工持股计划，工行广东省分行承诺提供不超过3.6亿元回购贷款。",
+    "id": "8iYJiZV4Ktx",
+    "order": 1744635257168,
+    "createdAt": "2025-04-14T12:14:26.000Z",
+    "publishDate": "2025-04-14T12:54:17.168Z",
+    "title": "领益智造：拟2亿元-4亿元回购公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 20:14:26",
+    "uuid": "61b0ee43-a072-4cf0-a6db-42e0eb6ec056"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
@@ -17,6 +162,24 @@
     "up": false,
     "date": "2025-04-14 20:13:51",
     "uuid": "b8b9315d-65eb-4e43-8f3c-669092e303d7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "欧佩克月报下调2025年欧元区经济增长预测至0.8%，此前为0.9%，同时维持2025年欧元区经济增长预测在1.1%。",
+    "id": "8iYJiBOaH3z",
+    "order": 1744633520889,
+    "createdAt": "2025-04-14T12:13:29.000Z",
+    "publishDate": "2025-04-14T12:25:20.889Z",
+    "title": "欧佩克下调今年欧元区经济增长预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 20:13:29",
+    "uuid": "462ec312-9477-402c-a773-3272bc628686"
   },
   {
     "newsArray": [
@@ -1147,6 +1310,26 @@
     "up": false,
     "date": "2025-04-14 17:04:09",
     "uuid": "ab5f9054-f5e9-4c77-836b-df267d05e28f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "医药魔方" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2025年3月，国家药监局批准注册医疗器械产品共308个，包括境内第三类248个、进口第三类34个、进口第二类19个及港澳台产品7个。",
+    "id": "8iY4P2lQLRD",
+    "order": 1744633311544,
+    "createdAt": "2025-04-14T08:57:33.000Z",
+    "publishDate": "2025-04-14T12:21:51.544Z",
+    "title": "国家药监局：3月共批准注册医疗器械产品308个",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-14 16:57:33",
+    "uuid": "b32adc85-76a9-4abc-854b-4ae0d7693234"
   },
   {
     "newsArray": [
