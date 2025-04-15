@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "博通在 VMware ESXi 8.0 Update 3e 中重新推出免费版 VMware vSphere Hypervisor，自带许可证可永久免费使用，但功能受限，如单虚拟机 vCPU 数量限制为 8 个，支持 VMFS 和 NFS 存储 ...",
+    "id": "8iXx74fgONZ",
+    "order": 1744719401373,
+    "createdAt": "2025-04-15T12:16:42.000Z",
+    "publishDate": "2025-04-15T12:16:41.373Z",
+    "title": "博通重新开放 VMware ESXi 免费版：默认自带许可证，无需付费订阅或认证",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-15 20:16:42",
+    "uuid": "46ba3799-2cec-4eaa-83f0-8df76480e5b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中集集团预计2025年一季度净利润为4.5亿至65亿元，同比增长438%至677%。增长主要得益于集装箱制造业务订单延续及低基数效应，以及更灵活的套期保值策略减少外汇损失。",
+    "id": "8iZyc7eBkiZ",
+    "order": 1744719251771,
+    "createdAt": "2025-04-15T12:14:11.000Z",
+    "publishDate": "2025-04-15T12:14:11.771Z",
+    "title": "中集集团：预计一季度净利润同比增长438%至677%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-15 20:14:11",
+    "uuid": "8ce0782e-c384-46df-bd9d-c106bad17183"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "花旗集团第一季度每股收益1.96美元，FICC销售和交易收入44.8亿美元，股票销售和交易收入15.1亿美元，净利息收入140.1亿美元，投资银行业务收入10.4亿美元，均超出预期。",
+    "id": "8iZycDmYF12",
+    "order": 1744719148665,
+    "createdAt": "2025-04-15T12:12:29.000Z",
+    "publishDate": "2025-04-15T12:12:28.665Z",
+    "title": "花旗集团第一季度营收216亿美元，高于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-15 20:12:29",
+    "uuid": "2c350852-5137-49da-bfe3-314dce7ed241"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "截至2024年年底，全国31个省（自治区、直辖市）、新疆生产建设兵团和中央单位职业年金基金投资运营规模3.11万亿元 ...",
+    "id": "8iZycFlSYKz",
+    "order": 1744719131912,
+    "createdAt": "2025-04-15T12:12:12.000Z",
+    "publishDate": "2025-04-15T12:12:11.912Z",
+    "title": "人社部公布2024年全国职业年金基金市场化投资运营情况",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-15 20:12:12",
+    "uuid": "a6727ab1-a7ef-4059-9899-80adc7ea7c3a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "和达科技计划回购2000万至4000万元股份，价格不超过19.68元/股，用于员工持股计划或股权激励，回购期限为12个月，已通过董事会审议无需股东大会审议。",
+    "id": "8iZxBKE6PdP",
+    "order": 1744718781576,
+    "createdAt": "2025-04-15T12:06:22.000Z",
+    "publishDate": "2025-04-15T12:06:21.576Z",
+    "title": "和达科技：拟以2000万元-4000万元回购公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-15 20:06:22",
+    "uuid": "330d4d0e-0eee-4b16-8bf0-c4d277a5c0f7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "金融界" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "网易云音乐发布声明，称网上出现的将账号截图与伪造不当内容拼接的图片为谣言，已严重影响品牌声誉，公司将保留法律追究权利。",
+    "id": "8iZg2HMzSuI",
+    "order": 1744718717457,
+    "createdAt": "2025-04-15T12:05:18.000Z",
+    "publishDate": "2025-04-15T12:05:17.457Z",
+    "title": "网易云音乐：网传账号截图系伪造，已固定证据",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-15 20:05:18",
+    "uuid": "8fc48fc9-9696-40c6-b1d2-b4e31232fa3a"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
@@ -111,6 +216,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中孚实业2025年第一季度实现营收50.21亿元，同比下降3.10%。归母净利润2.30亿元，同比增长426.79% ...",
+    "id": "8iZvnBpm1Aq",
+    "order": 1744718832431,
+    "createdAt": "2025-04-15T11:37:18.000Z",
+    "publishDate": "2025-04-15T12:07:12.431Z",
+    "title": "中孚实业：第一季度净利润同比增长427%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-15 19:37:18",
+    "uuid": "544e50d0-a9b5-40e2-b651-90431ce9a7cc"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "澎湃新闻" },
       { "siteName": "格隆汇" },
@@ -126,6 +249,24 @@
     "up": false,
     "date": "2025-04-15 19:34:09",
     "uuid": "70934414-9c3f-4d4a-ad90-6cf47b86e355"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "京东方精电发布公告，董事会根据薪酬委员会建议，向5名董事及其他集团雇员授予共计333.9万股奖励股份。",
+    "id": "8iYSHDKgGAH",
+    "order": 1744718754585,
+    "createdAt": "2025-04-15T11:31:30.000Z",
+    "publishDate": "2025-04-15T12:05:54.585Z",
+    "title": "京东方精电拟授出合共333.9万股奖励股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-15 19:31:30",
+    "uuid": "fa7dc4e1-e305-442f-865c-f67f9d15dd90"
   },
   {
     "newsArray": [
@@ -703,6 +844,25 @@
     "up": false,
     "date": "2025-04-15 17:38:36",
     "uuid": "1502b89f-2633-418e-84ed-777aa96247c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "中国跨境电商应用敦煌网在美国因关税政策影响而爆火，其苹果应用排名从352位飙升至免费iPhone应用排行榜第2位，仅次于ChatGPT ...",
+    "id": "8iZkNCJG5Iu",
+    "order": 1744718754350,
+    "createdAt": "2025-04-15T09:36:48.000Z",
+    "publishDate": "2025-04-15T12:05:54.350Z",
+    "title": "中国跨境电商应用敦煌网在美国下载量飙升至第二位",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-15 17:36:48",
+    "uuid": "1d6e50a0-c3b0-467b-bee6-22965aafd7ab"
   },
   {
     "newsArray": [
