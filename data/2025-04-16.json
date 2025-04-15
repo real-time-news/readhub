@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "据欧洲与地中海地震中心测定，4月16日5时42分，菲律宾棉兰老岛附近海域发生5.6级地震，震源深度10公里，震中位于北纬5.7983度，东经124.2278度。",
+    "id": "8ialFiAWX0H",
+    "order": 1744760285718,
+    "createdAt": "2025-04-15T23:38:06.000Z",
+    "publishDate": "2025-04-15T23:38:05.718Z",
+    "title": "菲律宾棉兰老岛附近海域发生5.6级地震",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 07:38:06",
+    "uuid": "162ab47f-9e5d-4c7c-adf7-de0b52bdfd60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "三星电机获批向比亚迪供应MLCC，同时也在向特斯拉供应该产品。",
+    "id": "8iaiNaILzOn",
+    "order": 1744759929365,
+    "createdAt": "2025-04-15T23:32:10.000Z",
+    "publishDate": "2025-04-15T23:32:09.365Z",
+    "title": "三星电机据悉将向比亚迪供应多层陶瓷电容器",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 07:32:10",
+    "uuid": "ebfd54c6-71de-401a-a1e1-5a6af0fd763f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "央视新闻" },
       { "siteName": "快科技" },
