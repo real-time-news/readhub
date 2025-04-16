@@ -1,6 +1,180 @@
 [
   {
     "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "网易科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "DeepSeek宣布开源其自研推理引擎，但不会直接开放内部完整代码库，而是通过与现有开源项目如vLLM合作，分享核心优化成果 ...",
+    "id": "8iZFdrFW5Hn",
+    "order": 1744773899804,
+    "createdAt": "2025-04-16T03:25:00.000Z",
+    "publishDate": "2025-04-16T03:24:59.804Z",
+    "title": "DeepSeek公布推理引擎开源路径，承诺将核心优化注入vLLM生态",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:25:00",
+    "uuid": "a5ad8ec1-dca4-451f-90f6-1e0759eecfaa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "联商网" }
+    ],
+    "summary": "义乌国际商贸城与阿里巴巴达成合作，借助阿里云AI技术升级Chinagoods平台，为7.5万家实体商铺和210万家中小微企业提供智能服务 ...",
+    "id": "8iZr1J2zG8H",
+    "order": 1744773856040,
+    "createdAt": "2025-04-16T03:24:17.000Z",
+    "publishDate": "2025-04-16T03:24:16.040Z",
+    "title": "义乌国际商贸城牵手阿里，共绘全球贸易AI时代新蓝图",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:24:17",
+    "uuid": "998994b6-0cb5-4ba5-8ec1-7a2a7b923bbc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Notion推出电子邮件服务Notion Mail，率先登陆macOS平台，iOS和安卓版即将上线 ...",
+    "id": "8iawGdGD04c",
+    "order": 1744773535693,
+    "createdAt": "2025-04-16T03:18:56.000Z",
+    "publishDate": "2025-04-16T03:18:55.693Z",
+    "title": "Notion Mail 发布：AI 驱动邮箱新体验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:18:56",
+    "uuid": "f5591032-345b-4e0c-b00c-3c71b01dce8d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "小米正逐步推送HyperOS 2.1系统更新，但REDMI、POCO等45款已升级至2.0的设备暂未列入名单，涵盖旗舰、中端、折叠屏和平板多类产品 ...",
+    "id": "8iZJDGtKg41",
+    "order": 1744773515387,
+    "createdAt": "2025-04-16T03:18:36.000Z",
+    "publishDate": "2025-04-16T03:18:35.387Z",
+    "title": "澎湃OS 2.1更新推送进度放缓 45款小米机型仍在等待",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:18:36",
+    "uuid": "e8b8ff12-e16d-4573-ab03-6df48ddd9de4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "世界不锈钢协会数据显示，2024年全球不锈钢粗钢产量为6260万吨，同比提高7%。",
+    "id": "8ib0w0dajye",
+    "order": 1744773376110,
+    "createdAt": "2025-04-16T03:16:17.000Z",
+    "publishDate": "2025-04-16T03:16:16.110Z",
+    "title": "世界不锈钢协会：2024年全球不锈钢粗钢产量同比提高7%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:16:17",
+    "uuid": "be74924f-f36d-46c1-82cd-c39c01425d4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "威蓝动力科技（安徽）有限公司成立，法定代表人张春辉，注册资本5亿人民币，经营范围涵盖汽车零部件研发与制造等，由滁州威全项目投资合伙企业及全柴动力共同持股。",
+    "id": "8iayum7Bvha",
+    "order": 1744773315820,
+    "createdAt": "2025-04-16T03:15:16.000Z",
+    "publishDate": "2025-04-16T03:15:15.820Z",
+    "title": "全柴动力等成立威蓝动力科技公司，注册资本5亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:15:16",
+    "uuid": "76cff748-53cb-427f-bdfb-c83836115f63"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "银行板块逆势走强，多只银行股盘中创新高，其中农业银行、建设银行、上海银行表现突出，重庆银行、江苏银行、沪农商行、光大银行等涨幅居前。",
+    "id": "8ib0wEV67q3",
+    "order": 1744773273882,
+    "createdAt": "2025-04-16T03:14:34.000Z",
+    "publishDate": "2025-04-16T03:14:33.882Z",
+    "title": "银行板块逆势走强，农业银行等多股创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:14:34",
+    "uuid": "1842458e-d3fa-4d3a-ae7b-2cf5979ce25c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家超算互联网平台上线MiniMax国产AI大模型，包含MiniMax-Text-01和MiniMax-VL-01，已入驻超算互联网AI开源社区，同时ChatBot对话服务也同步接入。",
+    "id": "8ib0EO0Qcsi",
+    "order": 1744773225413,
+    "createdAt": "2025-04-16T03:13:47.000Z",
+    "publishDate": "2025-04-16T03:13:45.413Z",
+    "title": "MiniMax-01系列模型上线超算互联网",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:13:47",
+    "uuid": "399daf9e-8f8e-45de-aa12-f14c2b648e25"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "长安汽车计划未来五年推出50款全新数智产品，覆盖多个细分市场，打造5款以上30万台级全球化大单品 ...",
+    "id": "8iZwTL0yf29",
+    "order": 1744772894546,
+    "createdAt": "2025-04-16T03:08:15.000Z",
+    "publishDate": "2025-04-16T03:08:14.546Z",
+    "title": "长安汽车：2025年上市阿维塔06等12款全新新能源产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:08:15",
+    "uuid": "49d39a1a-25a0-4862-b94b-dabedbdbc18d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "电商报" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "三态股份公告，公司股票连续两日涨幅偏离值累计超30%，属异常波动。近期敦煌网在苹果应用商店下载量大增，但截至目前，公司与敦煌网暂无合作。",
+    "id": "8iatoH9XFNc",
+    "order": 1744772876837,
+    "createdAt": "2025-04-16T03:07:57.000Z",
+    "publishDate": "2025-04-16T03:07:56.837Z",
+    "title": "三态股份：公司与敦煌网暂无合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 11:07:57",
+    "uuid": "92f30937-e8e4-4092-bd27-64c0ab81afef"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
