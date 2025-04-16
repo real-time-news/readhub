@@ -1,6 +1,172 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "KKR将以每股54欧元的价格收购在法兰克福上市的IT服务提供商Datagroup，该交易对Datagroup估值约为4.5亿欧元，溢价33% ...",
+    "id": "8iaFmIAgjgk",
+    "order": 1744770902507,
+    "createdAt": "2025-04-16T02:35:02.000Z",
+    "publishDate": "2025-04-16T02:35:02.507Z",
+    "title": "KKR将以约4.5亿欧元收购IT服务提供商Datagroup",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 10:35:02",
+    "uuid": "d2af3667-866b-49b7-b119-e19063820add"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2024年微软产品共发现1360个漏洞，较此前最高纪录增长11%，其中权限提升漏洞占比达40%。微软Edge浏览器漏洞增至292个，关键级别漏洞从2022年的零增加到9个 ...",
+    "id": "8iatPwJ1kdq",
+    "order": 1744770885361,
+    "createdAt": "2025-04-16T02:34:46.000Z",
+    "publishDate": "2025-04-16T02:34:45.361Z",
+    "title": "微软2024年产品漏洞报告：总数达1360个，Edge浏览器成重灾区",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 10:34:46",
+    "uuid": "39ca49a4-11e3-43bd-9947-66687fba4b8d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软提醒用户，经典版 Outlook 存在 Bug，可能导致打字时 CPU 占用率显著上升，最早于 2024 年 11 月被发现。即使关闭拼写检查和插件，问题仍存在 ...",
+    "id": "8iaqZHm0JJW",
+    "order": 1744770848904,
+    "createdAt": "2025-04-16T02:34:09.000Z",
+    "publishDate": "2025-04-16T02:34:08.904Z",
+    "title": "微软确认经典版Outlook Bug致CPU占用飙升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 10:34:09",
+    "uuid": "6d97b0a5-48f5-49c6-8a16-aea5d16c9c51"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "第五届中国国际消费品博览会在海南举行，三场供需对接活动签约交易额达290亿元。",
+    "id": "8iaxMQTCLAD",
+    "order": 1744770184798,
+    "createdAt": "2025-04-16T02:23:04.000Z",
+    "publishDate": "2025-04-16T02:23:04.798Z",
+    "title": "消博会三场供需对接活动交易额达290亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 10:23:04",
+    "uuid": "5484e05b-e123-44e4-bd58-a87eae3f67c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "商务部等9部门印发《服务消费提质惠民行动2025年工作方案》，提出48条举措，涵盖餐饮、住宿、健康、文化娱乐、旅游休闲、体育赛事等领域及新业态新场景，从政策支持、促进活动、平台搭建、对外开放、标准引领和消费环境优化六方面推动服务消费发展。",
+    "id": "8iaweex4oaA",
+    "order": 1744769718685,
+    "createdAt": "2025-04-16T02:15:19.000Z",
+    "publishDate": "2025-04-16T02:15:18.685Z",
+    "title": "商务部等9部门联合印发《服务消费提质惠民行动2025年工作方案》",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 10:15:19",
+    "uuid": "7f68711c-e7b6-4144-8385-66ad425e52ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "教育部等九部门发布意见，推进教育数字化，布局人工智能教育大模型建设，完善多模态语料库，推动大模型与教学深度融合，探索“人工智能+教育”应用场景，并促进思政、科学教育等领域的专题大模型应用。",
+    "id": "8iawfowwg7Y",
+    "order": 1744769702935,
+    "createdAt": "2025-04-16T02:15:02.000Z",
+    "publishDate": "2025-04-16T02:15:02.935Z",
+    "title": "教育部等九部门：加快建设人工智能教育大模型 完善教育领域多模态语料库",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 10:15:02",
+    "uuid": "73d649bf-222c-4a2e-b941-13d6e9538c49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "极石汽车创始人昌敬清空抖音与微博内容，其账号曾是外界了解公司的重要渠道。极石汽车公关负责人称不知清空原因，但表示公司运行平稳，产品销量上涨。",
+    "id": "8iZvK2ULeoa",
+    "order": 1744769640945,
+    "createdAt": "2025-04-16T02:14:01.000Z",
+    "publishDate": "2025-04-16T02:14:00.945Z",
+    "title": "极石汽车回应创始人清空社媒账号：原因不清，公司平稳运行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 10:14:01",
+    "uuid": "1b273806-4eb9-4514-9ed7-b747fa1f5bdf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "中国3月规模以上工业增加值同比增长7.7%，市场有风险，投资需谨慎。",
+    "id": "8iavziMyC7e",
+    "order": 1744769654907,
+    "createdAt": "2025-04-16T02:07:03.000Z",
+    "publishDate": "2025-04-16T02:14:14.907Z",
+    "title": "中国3月规模以上工业增加值同比增长7.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 10:07:03",
+    "uuid": "cf2dcc16-58a5-4672-b68d-58d1e6d0ef9a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "财经网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "中国旅游研究院联合马蜂窝发布的报告显示，超九成消费者对赏花游感兴趣，31至40岁人群为赏花主力 ...",
+    "id": "8iZMkaEyy60",
+    "order": 1744769746286,
+    "createdAt": "2025-04-16T01:56:54.000Z",
+    "publishDate": "2025-04-16T02:15:46.286Z",
+    "title": "报告：十大赏花旅游目的地出炉，年轻人成消费主力军",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 09:56:54",
+    "uuid": "9be04ca4-e977-427f-b6d9-660ed78875c4"
+  },
+  {
+    "newsArray": [
       { "siteName": "站长之家" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
@@ -319,6 +485,27 @@
     "up": false,
     "date": "2025-04-16 07:02:01",
     "uuid": "dc5763dc-6d6f-4490-9e4f-770aee799803"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "创业邦" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "长沙举办以“AI赋能，智创未来”为主题的高等院校数智工科人才培养大会，探讨人工智能驱动下新工科教育转型。专家建议加速人才培养模式改革，深化产教融合 ...",
+    "id": "8iZKR4kffRX",
+    "order": 1744769936279,
+    "createdAt": "2025-04-15T22:33:58.000Z",
+    "publishDate": "2025-04-16T02:18:56.279Z",
+    "title": "数智工科人才培养新纪元：长沙产教融合发展大会共绘未来蓝图",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 06:33:58",
+    "uuid": "e813605d-397c-44c9-8553-865fc38fd75a"
   },
   {
     "newsArray": [
