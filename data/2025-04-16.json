@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌已终止对安卓12和12L系统的安全补丁支持，这两版系统于2025年3月31日达到生命周期终点。用户若继续使用相关设备，需注意安全风险并建议尽快升级系统 ...",
+    "id": "8iZS5PGPfwq",
+    "order": 1744765556633,
+    "createdAt": "2025-04-16T01:05:57.000Z",
+    "publishDate": "2025-04-16T01:05:56.633Z",
+    "title": "谷歌挥别安卓 12/12L，后续不再向其推送安全补丁",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 09:05:57",
+    "uuid": "981eb531-f9a8-4124-af37-c7e413416390"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "OpenAI宣布任命Dolores Huerta、Monica Lozano、Robert K.",
+    "id": "8iamUaGMP8T",
+    "order": 1744765524509,
+    "createdAt": "2025-04-16T01:05:24.000Z",
+    "publishDate": "2025-04-16T01:05:24.509Z",
+    "title": "OpenAI宣布非营利委员会顾问人事任命",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 09:05:24",
+    "uuid": "981d9af9-8e8f-45c5-8604-20e8da5c0702"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果发布了iOS 18.5、iPadOS 18.5、macOS Sequoia 15.5等更新的首个公开测试版，新增功能包括邮件应用关闭联系人照片显示和按发件人分组选项 ...",
+    "id": "8iajPIIa6dB",
+    "order": 1744765476517,
+    "createdAt": "2025-04-16T01:04:37.000Z",
+    "publishDate": "2025-04-16T01:04:36.517Z",
+    "title": "苹果为手机、电脑推送公测版系统更新 优化多项功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 09:04:37",
+    "uuid": "8c571572-1460-44c8-b4e4-341f144eb964"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星获批新专利，提出Galaxy Ring智能戒指联动Android XR头显，通过内置磁性传感器识别手部动作，提升VR和AR交互体验 ...",
+    "id": "8iamHWsazoK",
+    "order": 1744765439738,
+    "createdAt": "2025-04-16T01:04:00.000Z",
+    "publishDate": "2025-04-16T01:03:59.738Z",
+    "title": "三星专利亮剑：Galaxy Ring 智能戒指革新 AR / VR 头显交互体验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 09:04:00",
+    "uuid": "d989014b-845d-4f6c-bde6-6dfe26ce7f44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "张家界旅游集团股份有限公司因连续三年归母净利润为负，将自4月17日起被实施其他风险警示，股票简称变更为“ST张家界”。2024年公司净亏损5.82亿元，已连续五年亏损 ...",
+    "id": "8ia3ev2tmmE",
+    "order": 1744765524651,
+    "createdAt": "2025-04-16T00:43:55.000Z",
+    "publishDate": "2025-04-16T01:05:24.651Z",
+    "title": "张家界将“戴帽”：连续5年亏损，预重整期延长三个月",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 08:43:55",
+    "uuid": "cc2dc912-d9f4-4efd-97ee-00141801217c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "台积电美国芯片厂因订单增多加快扩产，计划上调代工报价30%。",
+    "id": "8iaqCgxr027",
+    "order": 1744764210920,
+    "createdAt": "2025-04-16T00:42:22.000Z",
+    "publishDate": "2025-04-16T00:43:30.920Z",
+    "title": "台积电美国芯片厂正加快扩产，预计将调涨30%代工报价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 08:42:22",
+    "uuid": "0c4cc0fb-2c01-4527-9a09-918ee84a14df"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -16,6 +120,24 @@
     "up": false,
     "date": "2025-04-16 07:53:01",
     "uuid": "255a33d1-bc34-47f8-8eec-5b3e35f25bc4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "Odaily" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "多只债券ETF成交放量，30年国债ETF成交额达108.22亿元，换手率68.45%。0-4地债ETF换手率148.94%居首 ...",
+    "id": "8iZJC4zNgQ2",
+    "order": 1744764534852,
+    "createdAt": "2025-04-15T23:52:48.000Z",
+    "publishDate": "2025-04-16T00:48:54.852Z",
+    "title": "多只债券ETF成交放量，换手率显著提升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 07:52:48",
+    "uuid": "e17a41b5-1086-4646-a063-0fa4f3d20982"
   },
   {
     "newsArray": [
@@ -120,6 +242,44 @@
     "up": false,
     "date": "2025-04-16 07:32:10",
     "uuid": "ebfd54c6-71de-401a-a1e1-5a6af0fd763f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "A股市场进入一季报披露期，267家上市公司中243家业绩向好。宁德时代、国泰海通等5家公司净利润超100亿元，宁德时代以139.63亿元居首 ...",
+    "id": "8iaREoqAMEl",
+    "order": 1744764660959,
+    "createdAt": "2025-04-15T23:14:23.000Z",
+    "publishDate": "2025-04-16T00:51:00.959Z",
+    "title": "近270家公司一季度成绩抢先看 超九成业绩向好 多家行业龙头“开门红”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 07:14:23",
+    "uuid": "04e14809-99ce-4cbb-8380-062f151c36e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "A股公司赴港上市步伐加快，目前有37家A股公司已递表或宣布拟在香港上市计划，涵盖食品饮料、医药生物、电子元件及设备等领域。龙头企业如宁德时代、恒瑞医药等纷纷加入 ...",
+    "id": "8iaj7Va5MPf",
+    "order": 1744764659254,
+    "createdAt": "2025-04-15T23:14:09.000Z",
+    "publishDate": "2025-04-16T00:50:59.254Z",
+    "title": "A股公司加速赴港上市 全球化布局正当时",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-16 07:14:09",
+    "uuid": "f6a8804d-43f2-4ec1-b491-c93ac829769b"
   },
   {
     "newsArray": [
