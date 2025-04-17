@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "ABB计划于2026年二季度将机器人部门分拆并单独上市。",
+    "id": "8icmpzlbvH3",
+    "order": 1744865492471,
+    "createdAt": "2025-04-17T04:51:33.000Z",
+    "publishDate": "2025-04-17T04:51:32.471Z",
+    "title": "ABB计划将其机器人部门分拆为单独上市的公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 12:51:33",
+    "uuid": "058c86b8-7bfa-4cb1-b1e0-5ed308490a1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "上海人工智能实验室开源升级版多模态大模型书生·万象3.0，该模型在多模态预训练和后训练方法下全面提升基础能力，在多项测试中性能领先，并增强GUI智能体、建筑图纸理解及空间推理等能力。",
+    "id": "8ick6v9nugb",
+    "order": 1744865195361,
+    "createdAt": "2025-04-17T04:46:36.000Z",
+    "publishDate": "2025-04-17T04:46:35.361Z",
+    "title": "上海人工智能实验室开源多模态大模型书生·万象3.0",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 12:46:36",
+    "uuid": "36159be5-a8b9-4d1d-8269-5acf81c9a690"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
