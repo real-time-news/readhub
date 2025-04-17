@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "恒生科技指数涨幅扩大至2%，其中金山软件、网易涨超4%，理想汽车、中芯国际等多股涨超3%。",
+    "id": "8ichHh8VSoN",
+    "order": 1744861028283,
+    "createdAt": "2025-04-17T03:37:09.000Z",
+    "publishDate": "2025-04-17T03:37:08.283Z",
+    "title": "恒生科技指数涨幅扩大至2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 11:37:09",
+    "uuid": "54bc72a6-ece9-42f6-b57b-8e4c70be1a3b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "快手高级副总裁笑古表示，2024年快手本地生活GMV同比增长200%，新线城市GMV增长超220%，日均支付用户数量同比增长100%，新线城市用户占比超62% ...",
+    "id": "8icfXuakVoH",
+    "order": 1744860393625,
+    "createdAt": "2025-04-17T03:26:33.000Z",
+    "publishDate": "2025-04-17T03:26:33.625Z",
+    "title": "快手：本地生活2024年GMV同比增长200%，日均支付用户数增长100%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 11:26:33",
+    "uuid": "324269ea-9d61-4a66-bf57-f30b69312377"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "开源中国" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "MITRE通知美国政府对CVE/CWE项目的资助将于4月16日到期，可能影响CVE更新及下游漏洞库如NVD ...",
+    "id": "8iccGS6c5YG",
+    "order": 1744860301488,
+    "createdAt": "2025-04-17T03:25:01.000Z",
+    "publishDate": "2025-04-17T03:25:01.488Z",
+    "title": "美国政府不再为 CVE/CWE 项目提供资金支持",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 11:25:01",
+    "uuid": "8024c765-57dd-428c-9b7c-37c5265001eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "江苏计划到2027年数字经济核心产业增加值达1.8万亿元，将通过关键核心技术攻关、打造数字技术创新平台、实施“人工智能+”行动、推进产业数字化转型等措施，培育数字经济企业，做强特色产业园区，构建国际竞争力的数字产业集群 ...",
+    "id": "8icY27FHL3t",
+    "order": 1744860309850,
+    "createdAt": "2025-04-17T03:23:40.000Z",
+    "publishDate": "2025-04-17T03:25:09.850Z",
+    "title": "江苏出台数字经济高质量发展三年行动计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 11:23:40",
+    "uuid": "5c86be41-8f57-45aa-94fe-c25a06868a60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "4chan遭黑客入侵，部分版主身份信息或被泄露，网站页面出现“U GOT HACKED”字样。相关截图显示的内容具有说服力，一名4chan版主也未怀疑截图真实性 ...",
+    "id": "8iatPq9oSx9",
+    "order": 1744860203200,
+    "createdAt": "2025-04-17T03:23:23.000Z",
+    "publishDate": "2025-04-17T03:23:23.200Z",
+    "title": "美国著名论坛 4chan 遭入侵，消息称黑客已获取后台系统和部分版主信息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 11:23:23",
+    "uuid": "e833e9e3-ec14-49dd-bab2-21a2aeaffc6b"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -77,6 +169,25 @@
     "up": false,
     "date": "2025-04-17 10:45:51",
     "uuid": "7e913b5c-7d87-4258-a331-3130c09bccf0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "今年一季度，广东外贸进出口2.14万亿元，同比增长4.2%，高于全国增速。其中出口1.34万亿元，增长1.4%。进口7981.5亿元，增长9.3% ...",
+    "id": "8icdgrrBGAy",
+    "order": 1744860811565,
+    "createdAt": "2025-04-17T02:44:47.000Z",
+    "publishDate": "2025-04-17T03:33:31.565Z",
+    "title": "一季度广东外贸进出口同比增长4.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 10:44:47",
+    "uuid": "59929ead-ea9f-4737-9f07-5569e6f0731d"
   },
   {
     "newsArray": [
