@@ -1,6 +1,104 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "工信部批复中国国家铁路集团使用5G-R系统试验频率，支持在部分线路进行技术试验，推动铁路数字化与智能化发展。",
+    "id": "8icTyCQPRBA",
+    "order": 1744850501485,
+    "createdAt": "2025-04-17T00:41:42.000Z",
+    "publishDate": "2025-04-17T00:41:41.485Z",
+    "title": "工信部批复铁路新一代移动通信系统现场试验频率",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 08:41:42",
+    "uuid": "78658226-6404-4984-bfb9-cb87b494bd84"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "苹果计划将“清洁能源充电”功能扩展至全美Apple Stores的展示设备，该功能可让设备在电网碳排放较低时充电，以减少碳足迹 ...",
+    "id": "8icMtjaoQKW",
+    "order": 1744850141873,
+    "createdAt": "2025-04-17T00:35:42.000Z",
+    "publishDate": "2025-04-17T00:35:41.873Z",
+    "title": "苹果环保新举措：美国门店iPhone/iPad展示机将默认使用清洁能源充电",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 08:35:42",
+    "uuid": "04cb8982-5185-4bc5-8f29-5f49007fb21d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "医药魔方" },
+      { "siteName": "铅笔道" }
+    ],
+    "summary": "美柏生物完成数千万元A++轮融资，由可孚医疗领投，中关村科技租赁提供资金支持。本轮融资将用于推进人源细胞外基质（ECM）再生材料的研发与产业化，加速三类医疗器械的临床注册及商业化 ...",
+    "id": "8icSJb4uYhx",
+    "order": 1744850082252,
+    "createdAt": "2025-04-17T00:34:43.000Z",
+    "publishDate": "2025-04-17T00:34:42.252Z",
+    "title": "美柏生物完成数千万元A++轮融资，凯乘资本担任独家财务顾问",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 08:34:43",
+    "uuid": "5e5bc83e-c221-472f-bcd9-2a83105d3405"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "市场监管总局决定在全国开展广告市场秩序整治工作，以落实党中央、国务院提振消费的部署，清理广告市场乱象。",
+    "id": "8icSfqqTSAB",
+    "order": 1744848747293,
+    "createdAt": "2025-04-17T00:12:28.000Z",
+    "publishDate": "2025-04-17T00:12:27.293Z",
+    "title": "市场监管总局：开展广告市场秩序整治",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 08:12:28",
+    "uuid": "51740390-005f-46dd-9b34-7138fe052d8e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI开源了可在终端运行的轻量级编程智能体Codex CLI，兼容o3、o4-mini大模型，公司联合创始人Greg Brockman称这是未来几个月将发布的一系列工具中的首个，展示编程的未来方向。",
+    "id": "8ic29Sq68eE",
+    "order": 1744848695987,
+    "createdAt": "2025-04-17T00:11:35.000Z",
+    "publishDate": "2025-04-17T00:11:35.987Z",
+    "title": "OpenAI开源编程智能体Codex CLI，可在终端运行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 08:11:35",
+    "uuid": "303f284f-c880-4287-9575-a26336bd96cf"
+  },
+  {
+    "newsArray": [
       { "siteName": "aibase" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
