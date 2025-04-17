@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "JEDEC正式发布HBM4内存规范，采用2048-bit接口宽度和8Gb/s传输速率，总带宽达2TB/s ...",
+    "id": "8iccaz5atCi",
+    "order": 1744875554579,
+    "createdAt": "2025-04-17T07:39:14.000Z",
+    "publishDate": "2025-04-17T07:39:14.579Z",
+    "title": "HBM4内存规范正式发布，带宽性能大幅提升，助力AI高效计算",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 15:39:14",
+    "uuid": "b838e399-b58e-4ee1-abea-6ee286d84f67"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国家药监局在广州召开药品网络销售平台企业合规指导会议，强调平台企业需落实责任、严控风险，确保药品安全，并与监管部门合力提升合规治理能力 ...",
+    "id": "8icyRXz0Uvl",
+    "order": 1744875505016,
+    "createdAt": "2025-04-17T07:38:26.000Z",
+    "publishDate": "2025-04-17T07:38:25.016Z",
+    "title": "国家药监局召开药品网络销售平台企业合规指导工作会",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 15:38:26",
+    "uuid": "3643a74d-62fb-41df-963c-efa6d2a03eb0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "Zoom视频会议平台发生故障，导致用户无法加入会议和访问网站，中断情况在美国东部时间周三下午3点达到高峰，约两小时后服务基本恢复 ...",
+    "id": "8ickSnIP1qB",
+    "order": 1744875521608,
+    "createdAt": "2025-04-17T07:33:52.000Z",
+    "publishDate": "2025-04-17T07:38:41.608Z",
+    "title": "视频会议平台Zoom遭遇服务中断 用户却褒贬不一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 15:33:52",
+    "uuid": "a0777d44-d4e9-4c65-8dbd-b23fc0f73a68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "Solidot" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "英伟达因美国政府限制对华出口H20 AI芯片，预计损失55亿美元，美国商务部也表示AMD的MI308等性能相近芯片在管控范围内，此前中国多家科技公司大量采购H20芯片，而新的出口管控限制将无限期实施。",
+    "id": "8icXG1V4hA1",
+    "order": 1744875179697,
+    "createdAt": "2025-04-17T07:33:00.000Z",
+    "publishDate": "2025-04-17T07:32:59.697Z",
+    "title": "美国限制英伟达对华出口 H20 芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 15:33:00",
+    "uuid": "1c4ba659-47fe-4448-9eaf-5dd906966a4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "财经网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "商务部回应美国提高小额包裹关税，表示跨境电商是国际贸易创新发展的重要趋势，美国政策调整将影响消费者利益 ...",
+    "id": "8iceOxs6w5h",
+    "order": 1744875165224,
+    "createdAt": "2025-04-17T07:32:45.000Z",
+    "publishDate": "2025-04-17T07:32:45.224Z",
+    "title": "商务部回应美提高小额包裹关税 中方对本国跨境电商有何措施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 15:32:45",
+    "uuid": "10c383d6-149a-4273-b526-91d734181c6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "东杰智能因应收款项减值损失计提不充分，导致财务信息披露不准确，违反创业板上市规则。深交所向公司及相关责任人发出监管函，要求重视问题并及时整改。",
+    "id": "8icxil2fnTV",
+    "order": 1744875129714,
+    "createdAt": "2025-04-17T07:32:10.000Z",
+    "publishDate": "2025-04-17T07:32:09.714Z",
+    "title": "东杰智能：因财务信息披露不准确收监管函",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 15:32:10",
+    "uuid": "b18660d8-7b7e-4fd8-a58f-f7cf489d5aa5"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "第一财经" },
@@ -297,6 +403,27 @@
     "up": false,
     "date": "2025-04-17 14:03:03",
     "uuid": "97847d83-b88c-4f2f-940b-d2b6674bac4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股消费股午后走强，蜜雪集团涨超7%创新高，古茗涨超8%，农夫山泉、茶百道等跟涨。",
+    "id": "8icjU9d4QFq",
+    "order": 1744875155944,
+    "createdAt": "2025-04-17T05:53:00.000Z",
+    "publishDate": "2025-04-17T07:32:35.944Z",
+    "title": "港股消费股午后走强，蜜雪集团涨超7%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-17 13:53:00",
+    "uuid": "adf3339d-5f0c-479f-beda-52d763617096"
   },
   {
     "newsArray": [
