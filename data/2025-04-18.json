@@ -1,6 +1,117 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "网信部门发现部分账号假借未成年人名义发布不良内容以牟利，将指导平台从严处置违规内容和账号，并配合公安机关打击相关违法犯罪行为。",
+    "id": "8iexJWhAWIo",
+    "order": 1744978328385,
+    "createdAt": "2025-04-18T12:12:08.000Z",
+    "publishDate": "2025-04-18T12:12:08.385Z",
+    "title": "网信部门持续整治利用未成年人形象不当牟利问题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 20:12:08",
+    "uuid": "c485d0e5-c24c-4023-84ba-3a56dc0459ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "腾讯云大模型知识引擎已接入MCP，用户可调用精选插件或自定义插件搭建应用，平台上线多款MCP Server，涵盖信息获取、网页部署等场景。",
+    "id": "8ief1JXVkAN",
+    "order": 1744977960254,
+    "createdAt": "2025-04-18T12:06:01.000Z",
+    "publishDate": "2025-04-18T12:06:00.254Z",
+    "title": "腾讯云大模型知识引擎已率先接入MCP",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 20:06:01",
+    "uuid": "ab0a6fd5-bc00-4f69-ba33-566a7fd0073b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "数字尾巴" },
+      { "siteName": "爱范儿" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "特斯拉Optimus发布全新概念图，配文“MR.Roboto”，其设计与第二代机器人有所不同。",
+    "id": "8iegtHhjFPF",
+    "order": 1744977945698,
+    "createdAt": "2025-04-18T12:05:46.000Z",
+    "publishDate": "2025-04-18T12:05:45.698Z",
+    "title": "特斯拉全新人形机器人亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 20:05:46",
+    "uuid": "54fa98d7-8c33-4960-8b2e-2eac09bdddf7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "金晶科技拟1亿至2亿元回购股份，价格不超8.06元/股，回购股份将用于股权激励或员工持股。",
+    "id": "8ievuXNVACt",
+    "order": 1744978334543,
+    "createdAt": "2025-04-18T12:05:25.000Z",
+    "publishDate": "2025-04-18T12:12:14.543Z",
+    "title": "金晶科技：拟1亿元-2亿元回购股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 20:05:25",
+    "uuid": "6c02681e-3ca9-4b64-aafb-abc9eabc173c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "今年以来，多起智驾事故促使工信部加强行业监管，禁止夸大宣传智驾功能。岚图汽车发布全球首个L3级智能架构“天元智架”，强调安全冗余设计，将驾驶责任从用户转向主机厂 ...",
+    "id": "8ieNS5MR6WO",
+    "order": 1744977825801,
+    "createdAt": "2025-04-18T12:03:46.000Z",
+    "publishDate": "2025-04-18T12:03:45.801Z",
+    "title": "对话岚图CTO汪俊君：实现L3辅助驾驶需要足够安全冗余",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 20:03:46",
+    "uuid": "f7a52170-62b6-4f03-8f6e-1da8ca454c8e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "华友钴业发布一季报，一季度净利润12.52亿元，同比增长139.68%。",
+    "id": "8iewbbhkvdI",
+    "order": 1744977746395,
+    "createdAt": "2025-04-18T12:02:26.000Z",
+    "publishDate": "2025-04-18T12:02:26.395Z",
+    "title": "华友钴业：一季度净利润同比增长139.68%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 20:02:26",
+    "uuid": "2508886c-a3ad-49ef-8c78-5b67ed75c351"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -49,6 +160,24 @@
     "up": false,
     "date": "2025-04-18 19:42:22",
     "uuid": "953e726d-ab18-4e6e-8c7f-627bfae6ebe0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "广东省委财经委员会会议分析一季度经济运行，强调二季度经济工作关键，需扩大有效投资，加强招商引资，推进低空经济、人工智能等项目落地，做好重大项目谋划储备。",
+    "id": "8ieuURKdXiK",
+    "order": 1744978357677,
+    "createdAt": "2025-04-18T11:36:07.000Z",
+    "publishDate": "2025-04-18T12:12:37.677Z",
+    "title": "广东：要加力扩大有效投资 尽快推动低空经济、人工智能、新型基础设施等领域项目落地建设",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 19:36:07",
+    "uuid": "bd3bc386-49ca-4271-8910-edac7f56ba0f"
   },
   {
     "newsArray": [
