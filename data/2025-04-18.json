@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中国移动宣布自5月1日起下调全国亲情网（全国版）资费，基本功能费为5元/月，包含1位群主和3位以内成员，超出后每位成员1元/月，群组最多19人 ...",
+    "id": "8iecefCzdur",
+    "order": 1744961704261,
+    "createdAt": "2025-04-18T07:35:05.000Z",
+    "publishDate": "2025-04-18T07:35:04.261Z",
+    "title": "中国移动将于5月1日起下调全国亲情网资费",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 15:35:05",
+    "uuid": "ff2cefe4-ed4f-4977-ae71-78ab3345723b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "宝马（中国）召回部分进口X4M40i和X3M40i汽车，共计3736辆，因车载诊断软件中颗粒捕集器监测项启用条件标定过高，可能造成排放危害。公司将免费为召回车辆升级软件以消除隐患。",
+    "id": "8iedJ0EwJVl",
+    "order": 1744961644672,
+    "createdAt": "2025-04-18T07:34:05.000Z",
+    "publishDate": "2025-04-18T07:34:04.672Z",
+    "title": "宝马中国召回部分进口X3 M40i、X4 M40i汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 15:34:05",
+    "uuid": "69ee610f-5b2d-4a35-87ae-8ebbcaf3860e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "北京互联网法院向任某某公告送达杨紫网络侵权责任纠纷案的起诉状副本及开庭传票，30日后视为送达，案件将于6月9日公开审理。如涉及作品内容、版权等问题，请联系删除 ...",
+    "id": "8icfAICjfDW",
+    "order": 1744961577692,
+    "createdAt": "2025-04-18T07:32:58.000Z",
+    "publishDate": "2025-04-18T07:32:57.692Z",
+    "title": "杨紫告黑案6月开庭  杨紫新增维权案件",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 15:32:58",
+    "uuid": "5aace7bf-c547-432e-a79f-2ac3233f507f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股通相关ETF出现批量涨停，其中港股通50ETF溢价率超10%，其他3只溢价率均在8%以上。因港股通非交易日及境外市场节假日，多只港股通ETF暂停申购、赎回等业务，将于4月22日恢复。",
+    "id": "8ieNb7n8dsB",
+    "order": 1744961546735,
+    "createdAt": "2025-04-18T07:32:27.000Z",
+    "publishDate": "2025-04-18T07:32:26.735Z",
+    "title": "港股通相关ETF批量涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 15:32:27",
+    "uuid": "cdab758d-7a79-44ce-820f-d324afedadff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "开源中国" },
+      { "siteName": "界面" }
+    ],
+    "summary": "字节跳动技术团队开源Godel-Rescheduler，这是一个云原生系统的全局最优重调度框架，包含Policy Manager和Movement Manager两个核心模块，分别负责重调度决策的输出与执行，旨在推动集群达到全局最优状态。",
+    "id": "8ieaj9xZJJO",
+    "order": 1744961488622,
+    "createdAt": "2025-04-18T07:31:29.000Z",
+    "publishDate": "2025-04-18T07:31:28.622Z",
+    "title": "字节跳动开源云原生调度框架Godel-Rescheduler",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 15:31:29",
+    "uuid": "b53f671c-6218-42bf-9b57-15810f7c8b4d"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "DoNews" },
       { "siteName": "36Kr" }
@@ -32,6 +122,24 @@
     "up": false,
     "date": "2025-04-18 15:15:01",
     "uuid": "cb4693a1-ce05-4c05-be53-9f3603566c92"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "国内商品期货多数收跌，SC原油涨超2%，沪铅、燃料油涨超1%。多晶硅跌超6%，玻璃跌超4%。",
+    "id": "8iebFpcnUKq",
+    "order": 1744961612654,
+    "createdAt": "2025-04-18T07:12:41.000Z",
+    "publishDate": "2025-04-18T07:33:32.654Z",
+    "title": "国内商品期货多数收跌，SC原油涨超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 15:12:41",
+    "uuid": "ce555cac-e768-4098-9933-86c5d956d890"
   },
   {
     "newsArray": [
@@ -573,6 +681,27 @@
     "up": false,
     "date": "2025-04-18 13:03:32",
     "uuid": "0a77688e-e428-452c-b75c-d1ea7cbbcbad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "每经网" },
+      { "siteName": "网易科技" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "菜鸟App首次进入美国生活应用类榜单，排名迅速上升25位。菜鸟在美、新、港等地推出跨境集运服务，满足海外华人通过淘宝等平台购物的需求 ...",
+    "id": "8iePmWotK7W",
+    "order": 1744961885577,
+    "createdAt": "2025-04-18T05:01:34.000Z",
+    "publishDate": "2025-04-18T07:38:05.577Z",
+    "title": "菜鸟App首次冲入美国App生活应用类榜单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-18 13:01:34",
+    "uuid": "75ccbff2-a4ae-4a8b-9057-f7e0323d6c84"
   },
   {
     "newsArray": [
