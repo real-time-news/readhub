@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "天工机器人CEO熊友军在亦庄人形机器人半程马拉松赛后表示，此次完赛具有里程碑意义，未来将展示更多创新技术和应用。",
+    "id": "8ifyw0M07Qe",
+    "order": 1745031784312,
+    "createdAt": "2025-04-19T03:03:05.000Z",
+    "publishDate": "2025-04-19T03:03:04.312Z",
+    "title": "天工机器人CEO回应完赛：里程碑意义",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-19 11:03:05",
+    "uuid": "14886728-94dc-4b6b-8362-cf8d1998ea89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LG电子宣布2025年6月30日起停止手机软件升级及相关服务，标志着其手机业务全面退出。此前，LG于2021年7月停止手机生产和销售，将资源转向电动车零部件、智能家居等领域 ...",
+    "id": "8iekSDEvemW",
+    "order": 1745030844754,
+    "createdAt": "2025-04-19T02:47:25.000Z",
+    "publishDate": "2025-04-19T02:47:24.754Z",
+    "title": "LG终止手机所有服务 不再提供任何软件升级支持",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-19 10:47:25",
+    "uuid": "1dd046bb-8305-49c6-bde8-1e84fe7c6362"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软推出基于 MCP 的两个服务器预览版，Azure MCP Server 支持多种 Azure 服务访问，PostgreSQL Flexible Server 专注数据库操作 ...",
+    "id": "8ifrlRiIymC",
+    "order": 1745030620977,
+    "createdAt": "2025-04-19T02:43:42.000Z",
+    "publishDate": "2025-04-19T02:43:40.977Z",
+    "title": "微软推动 AI 互操作性，发布两大 MCP 服务器",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-19 10:43:42",
+    "uuid": "b47e9ae6-8843-4a57-8305-032109bc287e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "站长之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "全球首个人形机器人半程马拉松今日开跑，天工机器人夺冠。",
+    "id": "8ifw5PQ5OA6",
+    "order": 1745029522168,
+    "createdAt": "2025-04-19T02:25:22.000Z",
+    "publishDate": "2025-04-19T02:25:22.168Z",
+    "title": "天工机器人获首个人形机器人半马冠军",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-19 10:25:22",
+    "uuid": "4bf46b82-e008-4e49-9377-c037ac40fda3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "3月财政政策进一步加码，广义财政支出同比增速从1-2月的2.9%回升至10.1%，基建相关支出明显提速。3月广义财政赤字达1.7万亿元，较去年同期增加3661亿元 ...",
+    "id": "8ifvLek2bX9",
+    "order": 1745029168520,
+    "createdAt": "2025-04-19T02:19:29.000Z",
+    "publishDate": "2025-04-19T02:19:28.520Z",
+    "title": "华泰证券：3月财政宽松再加码",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-19 10:19:29",
+    "uuid": "2d8aa173-37fa-4e57-9ff6-b72d4b1575b3"
+  },
+  {
+    "newsArray": [
       { "siteName": "站长之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
@@ -67,6 +154,24 @@
     "up": false,
     "date": "2025-04-19 09:32:15",
     "uuid": "3416791a-da09-40bb-a366-9d9c5b1f480d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "全球首个人形机器人半程马拉松赛事在北京亦庄举行，小米SU7担任计时车。赛事规则明确机器人从起点到终点的时间加上充电时间作为最终成绩 ...",
+    "id": "8ifgPc83V2J",
+    "order": 1745029841598,
+    "createdAt": "2025-04-19T01:22:46.000Z",
+    "publishDate": "2025-04-19T02:30:41.598Z",
+    "title": "机器人马拉松开跑 小米SU7化身酷炫计时车登场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-19 09:22:46",
+    "uuid": "ed9d1f29-26d5-4fb6-9e1f-effa28932f9b"
   },
   {
     "newsArray": [
