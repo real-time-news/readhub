@@ -38,6 +38,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "香港特区政府财政司司长陈茂波发表网志指出，近期国际资本加速配置到香港和内地市场，内地企业上市时获得外资认购比例显著上升，同时有外国金融机构在香港扩张并增聘人手。",
+    "id": "8iiWtHuNaan",
+    "order": 1745193084004,
+    "createdAt": "2025-04-20T23:32:01.000Z",
+    "publishDate": "2025-04-20T23:51:24.004Z",
+    "title": "陈茂波：国际资本正加速配置香港和内地市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 07:32:01",
+    "uuid": "1c451824-c115-4e90-a852-1ee0bc7764c3"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
@@ -52,6 +71,24 @@
     "up": false,
     "date": "2025-04-21 07:26:34",
     "uuid": "a5ac57c0-cac5-4ef1-9565-ec7a34459969"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "多地推进土地储备专项债发行，金额超1800亿元，北京、广东、湖南等地率先启动 ...",
+    "id": "8iinK67UzJm",
+    "order": 1745192924809,
+    "createdAt": "2025-04-20T23:26:13.000Z",
+    "publishDate": "2025-04-20T23:48:44.809Z",
+    "title": "多地推进土储专项债发行 执行效果仍需政策优化与配套保障",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 07:26:13",
+    "uuid": "0ec6250f-6fc9-4554-8676-609a6cd0a967"
   },
   {
     "newsArray": [
@@ -196,5 +233,23 @@
     "up": false,
     "date": "2025-04-21 07:07:39",
     "uuid": "ad99aed5-c8ac-450a-8a08-60c0ca73dc86"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国电建承建的沙特国王港项目4号干船坞完工移交，助力沙特经济转型和中沙合作。",
+    "id": "8iiTL8LxMGK",
+    "order": 1745193084930,
+    "createdAt": "2025-04-20T17:22:13.000Z",
+    "publishDate": "2025-04-20T23:51:24.930Z",
+    "title": "中国电建承建的中东地区最大干船坞完工移交",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 01:22:13",
+    "uuid": "67db1c96-8adb-49ed-8e34-e7c8959c43c8"
   }
 ]
