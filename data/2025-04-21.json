@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "RoboSense速腾聚创发布真192线车载高性能数字化激光雷达EMX，具备288万点/秒点云、0.08°×0.1°角分辨率，最远300米探测距离，最高20Hz帧率，体积小巧，已获多家整车厂定点，年内量产。",
+    "id": "8ijFrrPZLo8",
+    "order": 1745208811636,
+    "createdAt": "2025-04-21T04:13:31.000Z",
+    "publishDate": "2025-04-21T04:13:31.636Z",
+    "title": "RoboSense发布真192线车载数字化激光雷达EMX",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 12:13:31",
+    "uuid": "7e4651ed-a17a-4948-90d1-2d61a786bf3d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "我国首批1000kW功率等级电池动力机车在中车大连公司下线，共10台，将用于钢铁企业替代传统内燃机车 ...",
+    "id": "8ijN3M56CKX",
+    "order": 1745208689044,
+    "createdAt": "2025-04-21T04:11:29.000Z",
+    "publishDate": "2025-04-21T04:11:29.044Z",
+    "title": "我国首批1000kW电池动力机车在大连下线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 12:11:29",
+    "uuid": "025cd31e-e5d6-489c-9643-413492d8b1c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "艾瑞网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特朗普政府计划削减NASA预算20%，引发对国际空间站未来担忧。NASA官员表示空间站存在裂缝和空气泄漏等安全问题，运营风险增加 ...",
+    "id": "8ijFrpruWyN",
+    "order": 1745208476654,
+    "createdAt": "2025-04-21T04:07:57.000Z",
+    "publishDate": "2025-04-21T04:07:56.654Z",
+    "title": "NASA 警告国际空间站进入最危险时期：裂缝、漏气与预算危机并存",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 12:07:57",
+    "uuid": "add86b60-190c-40d1-8832-ab6223caccca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "IDC预测，2028年全球大数据IT支出将达6441亿美元，中国占比10%达621.7亿美元，五年复合增长率24.9%，增速全球第一。",
+    "id": "8ijN0gVqaM7",
+    "order": 1745208239341,
+    "createdAt": "2025-04-21T04:03:59.000Z",
+    "publishDate": "2025-04-21T04:03:59.341Z",
+    "title": "IDC：预计2028年中国大数据IT支出规模为621.7亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 12:03:59",
+    "uuid": "9661e803-57be-411e-8374-21ea782133f5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "巴哈马暂停SpaceX猎鹰9号火箭未来着陆计划，以待完成全面环境评估。此前，猎鹰9号曾在巴哈马附近成功着陆，用于星链卫星发射任务 ...",
+    "id": "8ihcOkKlZuZ",
+    "order": 1745208118029,
+    "createdAt": "2025-04-21T04:01:59.000Z",
+    "publishDate": "2025-04-21T04:01:58.029Z",
+    "title": "巴哈马因环境考虑，暂停SpaceX猎鹰9号火箭未来着陆计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 12:01:59",
+    "uuid": "5b8a8e49-f951-4e2e-bdfc-602c4945bc20"
+  },
+  {
+    "newsArray": [
       { "siteName": "aibase" },
       { "siteName": "投资界" },
       { "siteName": "猎云网" }
@@ -86,6 +172,24 @@
     "up": false,
     "date": "2025-04-21 11:41:44",
     "uuid": "2d0b17e8-ed92-4679-b12d-104c1be2b44b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "广西气象干旱严重，面积达97.5%，特旱区域占68.7%，影响人畜饮水与农业生产，森林火险等级高 ...",
+    "id": "8ijKrw2tlCU",
+    "order": 1745208207245,
+    "createdAt": "2025-04-21T03:32:31.000Z",
+    "publishDate": "2025-04-21T04:03:27.245Z",
+    "title": "广西气象干旱面积97.5% 影响人畜饮水、农业生产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 11:32:31",
+    "uuid": "a6e47a5c-71d8-4b20-a56a-14613d9743aa"
   },
   {
     "newsArray": [
