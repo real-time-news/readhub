@@ -1,6 +1,137 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "上交所与10余家头部私募机构座谈，探讨稳住楼市股市及防范风险。与会者认为，尽管美国关税政策带来短期冲击，但中国资本市场长期向好趋势不变，具备估值修复潜力 ...",
+    "id": "8ijykUKuJWM",
+    "order": 1745239948490,
+    "createdAt": "2025-04-21T12:52:28.000Z",
+    "publishDate": "2025-04-21T12:52:28.490Z",
+    "title": "上交所召开私募机构座谈会：坚定持有中国优质资产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 20:52:28",
+    "uuid": "46642cf0-3515-4c72-850f-109843da1c7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "花旗预计美联储6月降息，此前预测为5月，维持2025年降息125个基点预期不变。美联储古尔斯比称需关注全年局势，关税仅为其中一因素。",
+    "id": "8ijyIqWJJR5",
+    "order": 1745239928202,
+    "createdAt": "2025-04-21T12:52:08.000Z",
+    "publishDate": "2025-04-21T12:52:08.202Z",
+    "title": "花旗预计美联储将在6月实施下一次降息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 20:52:08",
+    "uuid": "4d11f78b-fdb6-4fd6-bbfc-a23d8bd59879"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "富士莱一季度营业收入1.13亿元，同比增长17.44%，净利润2393.68万元，同比增长313.65%，主要因投资收益和公允价值变动收益增加。",
+    "id": "8ijxscTSHxy",
+    "order": 1745239333157,
+    "createdAt": "2025-04-21T12:42:14.000Z",
+    "publishDate": "2025-04-21T12:42:13.157Z",
+    "title": "富士莱：一季度净利润同比增长314%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 20:42:14",
+    "uuid": "5731aba8-0adb-4168-945a-7494342e1f75"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "鞍钢股份控股股东鞍山钢铁计划6个月内增持公司A股流通股份，总金额1亿至2亿元，旨在增强投资者信心、维护公司价值及资本市场稳定。",
+    "id": "8ijxUM8G5EE",
+    "order": 1745239054159,
+    "createdAt": "2025-04-21T12:33:26.000Z",
+    "publishDate": "2025-04-21T12:37:34.159Z",
+    "title": "鞍钢股份：控股股东拟增持1亿元-2亿元公司A股股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 20:33:26",
+    "uuid": "8bcda67e-1f9a-4458-9d3d-fd51c854edfb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "199IT" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国加州大学旧金山分校研究发现，CT扫描引发的辐射每年可能造成约10.3万例癌症，占全美癌症病例5% ...",
+    "id": "8ihwPRAm1vV",
+    "order": 1745238181274,
+    "createdAt": "2025-04-21T12:23:01.000Z",
+    "publishDate": "2025-04-21T12:23:01.274Z",
+    "title": "新研究：5%新发癌症或与CT扫描有关 警惕过度检查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 20:23:01",
+    "uuid": "0a5e4085-16c6-4785-8701-6109e8ba1924"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "科大讯飞2025年第一季度实现营业收入46.58亿元，同比增长27.74%，归属于上市公司股东的净利润为-1.93亿元。",
+    "id": "8ijwlHAgDoi",
+    "order": 1745238347462,
+    "createdAt": "2025-04-21T12:22:42.000Z",
+    "publishDate": "2025-04-21T12:25:47.462Z",
+    "title": "科大讯飞：一季度净亏损1.93亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 20:22:42",
+    "uuid": "e30a1e6a-7509-493e-b226-1acc166c67ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "吉祥航空2024年营业收入220.95亿元，同比增长9.95%。净利润9.14亿元，同比增长17.52%。",
+    "id": "8ijw4h1rowo",
+    "order": 1745237649335,
+    "createdAt": "2025-04-21T12:14:09.000Z",
+    "publishDate": "2025-04-21T12:14:09.335Z",
+    "title": "吉祥航空：2024年归母净利润9.14亿元，同比增长17.52%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 20:14:09",
+    "uuid": "a9395165-35bc-43a3-bef8-c9abb53d3d77"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
@@ -17,6 +148,24 @@
     "up": false,
     "date": "2025-04-21 20:12:49",
     "uuid": "665074a2-3111-49b8-bae2-d3867dd57866"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "华阳集团公告，股东中山中科股权投资和珠海横琴中科白云计划15个交易日后的三个月内减持不超过7,873,605股，占总股本1.5%，减持原因为自身经营需求，股份来源于IPO前持有。",
+    "id": "8ijvOCwaj9v",
+    "order": 1745239321217,
+    "createdAt": "2025-04-21T12:11:52.000Z",
+    "publishDate": "2025-04-21T12:42:01.217Z",
+    "title": "华阳集团：股东拟减持不超过1.5%股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-21 20:11:52",
+    "uuid": "3d1978e2-aa9d-4aae-948c-814a56aced04"
   },
   {
     "newsArray": [
