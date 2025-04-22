@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "Intel成功跻身台积电2nm制程首批客户名单，双方合作或涉及Intel明年推出的Nova Lake系列处理器。台积电预计下半年启动2nm量产，AMD此前也已宣布下单 ...",
+    "id": "8iktnLFGecw",
+    "order": 1745293104187,
+    "createdAt": "2025-04-22T03:38:24.000Z",
+    "publishDate": "2025-04-22T03:38:24.187Z",
+    "title": "Intel携手台积电2nm制程，下代PC处理器或将迎来新飞跃",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-22 11:38:24",
+    "uuid": "c8fa3460-8919-4b32-84bb-834ec092fa5a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子正加速DRAM内存制程工艺升级，逐步停产基于旧版1y nm工艺的DDR4内存模组，包括8GB及16GB容量的SODIMM/UDIMM产品，最后订购和交付时间分别截至今年6月上旬和2025年12月10日 ...",
+    "id": "8iksd4O1iG9",
+    "order": 1745292375644,
+    "createdAt": "2025-04-22T03:26:16.000Z",
+    "publishDate": "2025-04-22T03:26:15.644Z",
+    "title": "三星DRAM制程升级，多款1y nm DDR4内存条将告别市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-22 11:26:16",
+    "uuid": "0b0ac7c2-a0aa-47f2-a197-ddb2706ec0b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "DoNews" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "湖南云储斯蔚普新能源技术有限公司成立，法定代表人为熊伟，注册资本1亿人民币，经营范围涵盖新能源汽车废旧动力蓄电池回收及梯次利用、电池销售、储能技术服务等 ...",
+    "id": "8ikz3ybQ8Bb",
+    "order": 1745292354743,
+    "createdAt": "2025-04-22T03:24:30.000Z",
+    "publishDate": "2025-04-22T03:25:54.743Z",
+    "title": "中国五矿、丰田中国等成立新能源技术公司  注册资本1亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-22 11:24:30",
+    "uuid": "05d81baa-dfde-4ee7-9e0b-c12fb9c0de8e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "菜鸟海外仓推出跨境“绿通”服务，借助全球40多个海外仓助力商家布局海外市场，提供无忧转仓、一键调度和智能预测等功能 ...",
+    "id": "8ikxhaSVT8h",
+    "order": 1745291935410,
+    "createdAt": "2025-04-22T03:16:26.000Z",
+    "publishDate": "2025-04-22T03:18:55.410Z",
+    "title": "菜鸟海外仓开通跨境“绿通”，多项举措助力外贸商家拓展海外市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-22 11:16:26",
+    "uuid": "1c8942c8-d46c-47d0-b990-f5beebc18c46"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "快科技" },
@@ -20,6 +93,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美股市场重挫，科技股普遍下跌，“科技七姐妹”集体走低，其中英伟达跌4.51%。特斯拉因财报发布前夕股价大跌5.75%，市值蒸发约450亿美元，今年以来累计跌幅达44% ...",
+    "id": "8ikZO9DoSK2",
+    "order": 1745292183493,
+    "createdAt": "2025-04-22T03:03:39.000Z",
+    "publishDate": "2025-04-22T03:23:03.493Z",
+    "title": "特斯拉财报前夕股价重挫近6% 市值蒸发超3000亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-22 11:03:39",
+    "uuid": "0658c3ac-00d2-47fe-839e-5391a5d70e54"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "金融界" },
       { "siteName": "医药魔方" }
@@ -34,6 +125,24 @@
     "up": false,
     "date": "2025-04-22 11:03:00",
     "uuid": "2b95b8ee-969d-4b01-85a3-88873f8c69bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "上海合源医疗完成超亿元新一轮融资，由龙磐投资和道彤投资联合领投，专注于开发创新型三类有源植入产品，为全球心衰患者提供高性价比的“闭环”心衰管理解决方案 ...",
+    "id": "8iklcqkYewJ",
+    "order": 1745291774105,
+    "createdAt": "2025-04-22T03:02:34.000Z",
+    "publishDate": "2025-04-22T03:16:14.105Z",
+    "title": "合源医疗完成超亿元新一轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-22 11:02:34",
+    "uuid": "3c8780cf-9aac-4d83-bf42-e10e8a070031"
   },
   {
     "newsArray": [
@@ -71,6 +180,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "极氪公布了全新超豪华SUV——极氪9X的官图，外观硬朗豪华，沿用极氪009家族风格 ...",
+    "id": "8ii4GfXrnTb",
+    "order": 1745292102055,
+    "createdAt": "2025-04-22T02:43:36.000Z",
+    "publishDate": "2025-04-22T03:21:42.055Z",
+    "title": "极氪 9X 全尺寸旗舰 SUV 官图发布，定位“全球超豪华”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-22 10:43:36",
+    "uuid": "a0c25f05-369c-4eb4-8072-69422fa7717b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "澎湃新闻" },
       { "siteName": "澎湃新闻" }
@@ -102,6 +229,24 @@
     "up": false,
     "date": "2025-04-22 10:42:17",
     "uuid": "282f3cad-12a9-4a68-9743-3120a49a2e7d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "北京亦庄千帆企航股权投资基金合伙企业成立，执行事务合伙人为北京亦庄国际产业投资管理有限公司和农银资本管理有限公司，出资额10亿人民币，经营范围涵盖私募基金的股权投资、投资管理及资产管理等活动，由四家公司共同出资。",
+    "id": "8ikumMAZX0c",
+    "order": 1745292740567,
+    "createdAt": "2025-04-22T02:40:58.000Z",
+    "publishDate": "2025-04-22T03:32:20.567Z",
+    "title": "亦庄国投、农银投资成立千帆企航投资基金，出资额10亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-22 10:40:58",
+    "uuid": "b793e362-bb25-48b3-8a79-b18aea7912f1"
   },
   {
     "newsArray": [
@@ -323,6 +468,24 @@
     "up": false,
     "date": "2025-04-22 09:47:06",
     "uuid": "f38a4a40-a518-4a3f-8b6c-d2700c483434"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "英特尔前CEO基辛格表示，苹果难以迅速在美国生产iPhone，因为建立完整的供应链需要数十年时间。美国调整关税政策，暂停部分国家的对等关税90天，同时对中国商品加征更严厉关税 ...",
+    "id": "8ik5OPGrav6",
+    "order": 1745293059309,
+    "createdAt": "2025-04-22T01:18:29.000Z",
+    "publishDate": "2025-04-22T03:37:39.309Z",
+    "title": "前英特尔CEO：苹果不可能将制造业带回美国 需要几十年沉淀",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-22 09:18:29",
+    "uuid": "314fe7bc-9693-47f4-ab9e-be5df1ee47b1"
   },
   {
     "newsArray": [
