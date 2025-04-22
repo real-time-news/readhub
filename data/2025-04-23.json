@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "谷歌宣布终止备受争议的“隐私沙盒”项目，决定维持现有第三方cookie使用方式并允许用户自行选择 ...",
+    "id": "8iltevuSYhw",
+    "order": 1745363793220,
+    "createdAt": "2025-04-22T23:16:35.000Z",
+    "publishDate": "2025-04-22T23:16:33.220Z",
+    "title": "谷歌隐私沙盒项目终止：第三方Cookie命运逆转",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 07:16:35",
+    "uuid": "119c3e58-61f6-418f-85b3-2cdb3b0a3f36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "公募基金一季报显示，主动权益类基金实现盈利1246.71亿元，为近五年同期最佳，较去年同期增长2376.4亿元 ...",
+    "id": "8imIa6h2pE4",
+    "order": 1745363013658,
+    "createdAt": "2025-04-22T23:03:34.000Z",
+    "publishDate": "2025-04-22T23:03:33.658Z",
+    "title": "公募基金一季报收官：主动权益类基金盈利近五年同期最优",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 07:03:34",
+    "uuid": "a7cf5a19-c965-4d51-b448-95c6972c3cc9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "富士通与日本理化学研究所共同研发出256量子比特超导量子计算机，较上一代64量子比特系统提升四倍。本财季起将提供混合量子计算服务，助力解决复杂问题 ...",
+    "id": "8ilTmvitd2m",
+    "order": 1745362996576,
+    "createdAt": "2025-04-22T23:03:19.000Z",
+    "publishDate": "2025-04-22T23:03:16.576Z",
+    "title": "富士通与理研推出256量子比特超导量子计算机服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 07:03:19",
+    "uuid": "f784ea3e-5706-4190-a9a9-b95e7b46d5ae"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "C114 通信网" },
       { "siteName": "IT 之家" }
