@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "日本政府正探讨在日美关税谈判中扩大进口美国大米，计划在现有约77万吨的零关税配额内为美国设定实质性配额，预计约为6万吨。",
+    "id": "8imnzGBHmeU",
+    "order": 1745387721230,
+    "createdAt": "2025-04-23T05:55:22.000Z",
+    "publishDate": "2025-04-23T05:55:21.230Z",
+    "title": "日本拟在最低准入量中为美国大米设6万吨配额",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 13:55:22",
+    "uuid": "55ee9600-397d-4b10-9095-19745419fc37"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "极氪科技集团在上海车展全球首发V4极充兆瓦桩，单枪峰值功率1.3兆瓦，首个V4极充兆瓦站已落地杭州，总功率达1440kW，后续将在深圳等城市试点 ...",
+    "id": "8imiG5QHOuz",
+    "order": 1745387559119,
+    "createdAt": "2025-04-23T05:52:41.000Z",
+    "publishDate": "2025-04-23T05:52:39.119Z",
+    "title": "极氪科技集团首发1.3兆瓦全液冷充电桩",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 13:52:41",
+    "uuid": "3633f959-18ef-4185-ab48-d1ae278b01a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "喀山和乌里扬诺夫斯克机场临时限制起降，俄国防部称23日晨击落11架乌军无人机，覆盖多个州。",
+    "id": "8imnzymZzpG",
+    "order": 1745387362768,
+    "createdAt": "2025-04-23T05:49:23.000Z",
+    "publishDate": "2025-04-23T05:49:22.768Z",
+    "title": "俄罗斯两座机场临时限制航班起降",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 13:49:23",
+    "uuid": "79454f24-8414-4952-9a57-d93d92340011"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "香港金管局发布新闻稿称，中国财政部在香港发行15亿元人民币15年期债券的申请额约为59.5亿元人民币。",
+    "id": "8imkPGjAoGx",
+    "order": 1745387443093,
+    "createdAt": "2025-04-23T05:43:36.000Z",
+    "publishDate": "2025-04-23T05:50:43.093Z",
+    "title": "财政部在香港发行15亿元人民币15年期债券",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 13:43:36",
+    "uuid": "34a59cea-7089-43db-b835-5cb52c8d643f"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -359,6 +431,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "东风汽车集团发布“天元智能”技术品牌，构建“一核双基双元”智能化体系，涵盖企业级太极大模型、天元电子电气架构与天元OS等核心技术 ...",
+    "id": "8imcaxZG0Sy",
+    "order": 1745387508279,
+    "createdAt": "2025-04-23T04:02:38.000Z",
+    "publishDate": "2025-04-23T05:51:48.279Z",
+    "title": "东风“天元智能”技术品牌发布：千亿参数大模型+开源OS",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 12:02:38",
+    "uuid": "cf400c11-ce10-4c25-9aa1-ae1a600c4916"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国科技网" },
       { "siteName": "科学网" },
       { "siteName": "财联社" }
@@ -496,6 +586,25 @@
     "up": false,
     "date": "2025-04-23 11:37:26",
     "uuid": "85b352ee-cd70-4467-aa57-394c6b04f0ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "白鲸出海" }
+    ],
+    "summary": "由于美国总统特朗普对中国征收的严厉关税，Meta的核心在线广告业务可能遭受70亿美元损失。Temu和Shien等中国零售商削减Facebook和Instagram广告预算将影响Meta业绩 ...",
+    "id": "8imaOPfBBFY",
+    "order": 1745387537010,
+    "createdAt": "2025-04-23T03:36:51.000Z",
+    "publishDate": "2025-04-23T05:52:17.010Z",
+    "title": "特朗普关税“重锤”Meta 广告营收恐缩水70亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 11:36:51",
+    "uuid": "efd1ee14-ce38-4635-b526-9b2b34e57940"
   },
   {
     "newsArray": [
