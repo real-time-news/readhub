@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "极氪9X在上海车展亮相，作为全球超豪华SUV旗舰，首发搭载浩瀚超级电混，采用全栈900V高压架构，配备6C骁遥电池，CLTC纯电续航380公里，SoC 20-80%充电仅需9分钟，全系加速进入3秒俱乐部，极速240公里/小时 ...",
+    "id": "8imgr9QgpDy",
+    "order": 1745382714023,
+    "createdAt": "2025-04-23T04:31:56.000Z",
+    "publishDate": "2025-04-23T04:31:54.023Z",
+    "title": "极氪9X正式亮相，首发搭载浩瀚超级电混",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 12:31:56",
+    "uuid": "a59cf40d-2464-4571-89de-ae815d571d61"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "欧航局与IBM欧洲研究院合作推出地球观测AI模型TerraMind，该模型在基准测试中表现出色，能够显著节省算力，将在监测甲烷泄漏、追踪森林和土地利用变化等方面发挥重要作用。",
+    "id": "8imaOSgWR6E",
+    "order": 1745382202300,
+    "createdAt": "2025-04-23T04:23:23.000Z",
+    "publishDate": "2025-04-23T04:23:22.300Z",
+    "title": "欧航局与IBM合作推出地球观测AI模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 12:23:23",
+    "uuid": "a6c7b02f-3d2e-4442-8c3d-b486f77ed4e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国泰航空3月旅客周转量同比增长19.8%，货物运载量增长10.6%，香港快运载客人次增长25.4%。",
+    "id": "8imhaRzaw6a",
+    "order": 1745382165986,
+    "createdAt": "2025-04-23T04:22:46.000Z",
+    "publishDate": "2025-04-23T04:22:45.986Z",
+    "title": "国泰航空3月旅客周转量同比增长19.8％",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 12:22:46",
+    "uuid": "525b25d7-3315-4fd2-8da4-f9ec807507b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "研究人员发现“Cookie-Bite”攻击方式，可通过恶意 Chrome 扩展窃取微软云服务的会话 Cookie，绕过多重身份验证（MFA） ...",
+    "id": "8imcWmQce3g",
+    "order": 1745381840706,
+    "createdAt": "2025-04-23T04:17:22.000Z",
+    "publishDate": "2025-04-23T04:17:20.706Z",
+    "title": "微软云服务漏洞曝光：Chrome 扩展成攻击利器，劫持账号窃取敏感数据",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-23 12:17:22",
+    "uuid": "ce73531a-46fb-43a9-8b46-9d28e0da55a9"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
