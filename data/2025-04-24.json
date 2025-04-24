@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "挪威主权财富基金第一季度亏损0.6%，约400亿美元，股权投资受科技行业影响出现负收益，但收益率仍高出基准指数0.16个百分点。",
+    "id": "8iobSU3Sywu",
+    "order": 1745484552839,
+    "createdAt": "2025-04-24T08:49:12.000Z",
+    "publishDate": "2025-04-24T08:49:12.839Z",
+    "title": "挪威主权财富基金首季亏损0.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-24 16:49:12",
+    "uuid": "00241ffe-7dc7-49c8-9df2-ab73091d8079"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "日本乐天移动与AST SpaceMobile利用近地卫星在日本成功进行卫星直连手机视频通话试验，采用普通智能手机 ...",
+    "id": "8ioW1JJGT3u",
+    "order": 1745484497881,
+    "createdAt": "2025-04-24T08:48:18.000Z",
+    "publishDate": "2025-04-24T08:48:17.881Z",
+    "title": "日本乐天移动计划2026年推出卫星直连手机宽带服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-24 16:48:18",
+    "uuid": "42c9013d-772c-42de-93b4-000af20db2b6"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
