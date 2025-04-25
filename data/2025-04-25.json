@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "商务部表示汽车流通消费改革试点正加速推进，各地申报积极性高。年初商务部等8部门部署试点，支持地方在破除购车限制、发展汽车改装和房车露营等方面进行创新，延伸汽车消费链条。",
+    "id": "8iqFD6OibEx",
+    "order": 1745566626040,
+    "createdAt": "2025-04-25T07:37:06.000Z",
+    "publishDate": "2025-04-25T07:37:06.040Z",
+    "title": "商务部：汽车流通消费改革试点正在加快推进，各地试点申报积极性很高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-25 15:37:06",
+    "uuid": "198879b3-c6d8-4ee9-801d-687cf3a37f76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "上海车展汇聚近千家车企，高通携手汽车生态展示多项创新成果。搭载骁龙座舱平台和Snapdragon Ride平台的新车亮相，推动驾驶辅助普及与座舱体验升级 ...",
+    "id": "8iooJtEWREK",
+    "order": 1745566600630,
+    "createdAt": "2025-04-25T07:36:41.000Z",
+    "publishDate": "2025-04-25T07:36:40.630Z",
+    "title": "2025上海车展：高通汽车解决方案凭借独特优势",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-25 15:36:41",
+    "uuid": "13f7575e-d10d-4277-9c33-d0c63d415bf3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "西班牙纳瓦拉公立大学研究团队开发出全球首款支持人手直接交互的空中3D全息投影系统，通过“振动扩散器”设计实现隔空操控和真实触感反馈 ...",
+    "id": "8ippwAqFnt7",
+    "order": 1745566497773,
+    "createdAt": "2025-04-25T07:34:58.000Z",
+    "publishDate": "2025-04-25T07:34:57.773Z",
+    "title": "全球首款可触控空中3D全息系统问世",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-25 15:34:58",
+    "uuid": "80c48ca8-9e27-4b56-82c3-87907aba93ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Fedora项目团队计划在Fedora 43版本中全面移除GNOME X11相关软件包，用户将默认使用GNOME Wayland会话 ...",
+    "id": "8ioIsA3UolS",
+    "order": 1745566429131,
+    "createdAt": "2025-04-25T07:33:50.000Z",
+    "publishDate": "2025-04-25T07:33:49.131Z",
+    "title": "Fedora 43或将告别GNOME X11，全面启用Wayland引关注",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-25 15:33:50",
+    "uuid": "1e86e4df-1441-4222-a4be-5a07b89cb058"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英特尔取消了原定于今年1月实施的Intel Capital拆分计划，决定通过货币化现有投资组合并审慎选择新项目来调整投资策略 ...",
+    "id": "8ipyVWG8zMq",
+    "order": 1745566381725,
+    "createdAt": "2025-04-25T07:33:01.000Z",
+    "publishDate": "2025-04-25T07:33:01.725Z",
+    "title": "英特尔逆转决定：不放弃拆分Intel Capital，转而优化投资组合",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-25 15:33:01",
+    "uuid": "a3fe6b5b-9306-4298-9f33-aa6262e66b00"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "联商网" },
       { "siteName": "36Kr" }
@@ -15,6 +105,24 @@
     "up": false,
     "date": "2025-04-25 15:27:23",
     "uuid": "e75ae275-5dc9-4d2c-9824-c52b7e886395"
+  },
+  {
+    "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "神舟十九号航天员乘组计划于29日返回东风着陆场，着陆场区今日组织搜救力量进行最后一次全系统综合演练，迎接航天员回家。",
+    "id": "8iqDZluIgrM",
+    "order": 1745566610942,
+    "createdAt": "2025-04-25T07:21:51.000Z",
+    "publishDate": "2025-04-25T07:36:50.942Z",
+    "title": "迎接神十九乘组回家 东风着陆场各项工作已准备就绪",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-25 15:21:51",
+    "uuid": "9d769ee8-2689-444d-a481-6b0491a37157"
   },
   {
     "newsArray": [
