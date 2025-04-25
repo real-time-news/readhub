@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧洲央行管委霍尔茨曼表示，降息必须等待有更多关税确定性后才能实施。",
+    "id": "8ip5B4ThRZW",
+    "order": 1745567056664,
+    "createdAt": "2025-04-25T07:44:16.000Z",
+    "publishDate": "2025-04-25T07:44:16.664Z",
+    "title": "欧洲央行管委霍尔茨曼：降息必须等待更多关税确定性",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-25 15:44:16",
+    "uuid": "a4c55785-f2cb-4c3b-89ed-7a8539677aee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "三星电子HBM3E未能通过英伟达认证，被移出台积电CoWoS封装产线，导致谷歌自研AI服务器芯片改用美光产品 ...",
+    "id": "8iqEDwGIn9Q",
+    "order": 1745567028154,
+    "createdAt": "2025-04-25T07:43:48.000Z",
+    "publishDate": "2025-04-25T07:43:48.154Z",
+    "title": "消息称三星 HBM3E 认证遇阻，谷歌 AI 芯片已通知撤换供应商",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-25 15:43:48",
+    "uuid": "8e93bf05-58a5-497a-b898-150666a749b2"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
@@ -384,6 +418,25 @@
     "up": false,
     "date": "2025-04-25 14:22:40",
     "uuid": "a2e6d4d2-5ee0-4083-8b2e-254de5bb8a05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "中国科技网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "南方周末" }
+    ],
+    "summary": "2025年两院院士增选工作启动，中科院院士增选名额不超过100名，工程院院士增选总名额同样不超过100名 ...",
+    "id": "8ipzGVcRHcY",
+    "order": 1745567036849,
+    "createdAt": "2025-04-25T06:21:38.000Z",
+    "publishDate": "2025-04-25T07:43:56.849Z",
+    "title": "两院院士增选启动，工程院8个名额支持民企候选人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-25 14:21:38",
+    "uuid": "a7d40862-8747-45ae-adae-a99485ce816f"
   },
   {
     "newsArray": [
