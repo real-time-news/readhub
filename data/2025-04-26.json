@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Dataiku推出全新AI代理功能，助力企业更流畅地构建与管理AI代理，加速AI应用落地 ...",
+    "id": "8ipvfEx6cdb",
+    "order": 1745636606630,
+    "createdAt": "2025-04-26T03:03:27.000Z",
+    "publishDate": "2025-04-26T03:03:26.630Z",
+    "title": "Dataiku新推AI代理管理功能，重塑企业AI应用治理格局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-26 11:03:27",
+    "uuid": "b0ddb7bc-9ff2-40f1-9f9a-8def641f1b77"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "巴西今年登革热确诊病例达1072964例，死亡742例，圣保罗州、米纳斯吉拉斯州和巴拉那州疫情最严重。",
+    "id": "8irZohZVzaP",
+    "order": 1745636569795,
+    "createdAt": "2025-04-26T03:02:49.000Z",
+    "publishDate": "2025-04-26T03:02:49.795Z",
+    "title": "巴西2025年登革热疑似及确诊病例超107万例",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-26 11:02:49",
+    "uuid": "b08da31e-f765-4745-bb30-c967047de74e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软已弃用Windows中的UWP地图控件和地图平台API，Windows地图应用将于2025年7月从Microsoft Store下架 ...",
+    "id": "8iqnxPZcJOH",
+    "order": 1745636540710,
+    "createdAt": "2025-04-26T03:02:21.000Z",
+    "publishDate": "2025-04-26T03:02:20.710Z",
+    "title": "Windows 地图应用遭弃用，计划于 7 月从微软商店下架并终止服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-26 11:02:21",
+    "uuid": "09f4a29a-bfed-43f6-9d43-d20bac71bada"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "全国千兆城市超200个，覆盖近三分之二地级市，工信部将推进千兆光网向乡镇农村延伸并深化行业应用，同时开展万兆光网试点 ...",
+    "id": "8irPoHTPih8",
+    "order": 1745635593778,
+    "createdAt": "2025-04-26T02:46:34.000Z",
+    "publishDate": "2025-04-26T02:46:33.778Z",
+    "title": "工信部：全国千兆网络城市已超 200 个，覆盖近三分之二地级市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-26 10:46:34",
+    "uuid": "f9f25c81-2503-4ffc-a455-9e5fb68143f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "爱泼斯坦性侵案关键证人弗吉尼亚·朱弗雷在澳大利亚自杀身亡，终年41岁。她是该案中最早发声的受害者之一，曾推动对爱泼斯坦及其共犯的刑事指控，鼓舞了众多受害者公开经历 ...",
+    "id": "8irXh7LCAlH",
+    "order": 1745634094789,
+    "createdAt": "2025-04-26T02:21:35.000Z",
+    "publishDate": "2025-04-26T02:21:34.789Z",
+    "title": "“爱泼斯坦案”关键证人弗吉尼亚·朱弗雷自杀身亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-26 10:21:35",
+    "uuid": "26b4f64e-3f3c-4276-951a-f2e0fa4ca452"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国资源循环集团在粤港澳大湾区展业推进会上成立电子电器公司，并与转转集团等企业达成战略合作，将在手机高质量回收等领域开展合作，推动废旧电子电器设备回收的高质量发展。",
+    "id": "8iq0D3FV7Ui",
+    "order": 1745633778303,
+    "createdAt": "2025-04-26T02:16:19.000Z",
+    "publishDate": "2025-04-26T02:16:18.303Z",
+    "title": "转转集团与中国资源循环集团电子电器公司签署战略合作协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-26 10:16:19",
+    "uuid": "c7981850-563d-44b8-8c9e-6911d323015a"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -86,6 +188,27 @@
     "up": false,
     "date": "2025-04-26 09:44:42",
     "uuid": "4eb9eb58-1009-4f09-a8d6-da89779a24fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Odaily" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "埃隆·马斯克旗下的xAI正与投资者洽谈，计划为其人工智能和社交媒体业务融资约200亿美元，公司估值将超1200亿美元，资金或用于偿还推特私有化债务，融资可能在未来几个月内完成且金额有望超过200亿美元。",
+    "id": "8irVXmwZOpA",
+    "order": 1745634069686,
+    "createdAt": "2025-04-26T01:43:52.000Z",
+    "publishDate": "2025-04-26T02:21:09.686Z",
+    "title": "埃隆·马斯克旗下XAI公司正与投资者洽谈 计划融资约200亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-26 09:43:52",
+    "uuid": "7aa2b731-0fb5-4506-bf8d-e70332693d12"
   },
   {
     "newsArray": [
