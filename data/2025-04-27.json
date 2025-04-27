@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Meta的Llama将与多家公司合作推出Space Llama项目，助力国际太空站国家实验室的宇航员研究，旨在降低成本、减少计算需求并快速响应问题，无需依赖地球互联网。",
+    "id": "8it90D8WXJl",
+    "order": 1745739485516,
+    "createdAt": "2025-04-27T07:38:06.000Z",
+    "publishDate": "2025-04-27T07:38:05.516Z",
+    "title": "Meta、英伟达和惠普合作推出Space Llama人工智能项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 15:38:06",
+    "uuid": "be016041-1cdc-48c3-9c52-6ca60b0132c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "用户在全球访问量最大的20个网站上的平均访问时长数据显示，YouTube以20分47秒的平均访问时长居首，谷歌访问时长约为其一半 ...",
+    "id": "8itVrztYspm",
+    "order": 1745739283869,
+    "createdAt": "2025-04-27T07:34:44.000Z",
+    "publishDate": "2025-04-27T07:34:43.869Z",
+    "title": "全球访问量最大网站TOP20：谷歌位居榜首，YouTube访问时长最长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 15:34:44",
+    "uuid": "181b04fd-d25d-4a15-9f36-e122d0f0078c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌更新Music AI Sandbox，加入最新音乐生成模型Lyria 2，支持用户创作、调整和扩展音乐片段，同时扩展Lyria RealTime模型实现音乐实时创作与调整。",
+    "id": "8irZ5pAXpyE",
+    "order": 1745739222167,
+    "createdAt": "2025-04-27T07:33:43.000Z",
+    "publishDate": "2025-04-27T07:33:42.167Z",
+    "title": "谷歌升级音乐生成产品Music AI Sandbox，增加多项功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 15:33:43",
+    "uuid": "c22e5e5a-e88d-4ee1-9884-677a00699355"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中证协启动2024年度券商文化建设实践评估，明确在评估期间若券商发生重大声誉事件可能被扣分或降级，涉及奢靡炫富、薪酬及管理缺陷等问题将从重扣分，被合并券商不纳入参评范围。",
+    "id": "8itZTwP1dUe",
+    "order": 1745739207137,
+    "createdAt": "2025-04-27T07:33:27.000Z",
+    "publishDate": "2025-04-27T07:33:27.137Z",
+    "title": "2024年度券商文化建设实践评估启动，发生重大声誉事件的从重扣分",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 15:33:27",
+    "uuid": "c9cc6dff-412f-449d-8ddb-d2d471ed9d3d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "受特朗普关税影响，IDC预计2025年全球IT支出增长率将从10%降至5%，此前预计2025年IT支出规模为4.1万亿美元，同比增长10%，若税率上升转嫁到价格，多种产品需求将下降。",
+    "id": "8itY3VHInsY",
+    "order": 1745739436641,
+    "createdAt": "2025-04-27T07:21:40.000Z",
+    "publishDate": "2025-04-27T07:37:16.641Z",
+    "title": "受特朗普关税影响 IDC预计2025年全球IT支出增长率将从10％降至5％",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 15:21:40",
+    "uuid": "aa5b9735-b87a-4ec4-8344-8f9d1b0dc297"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "快科技" },
       { "siteName": "格隆汇" }
