@@ -1,6 +1,83 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "我国持续加强人工智能基础研究，新技术向具体应用场景纵深渗透，已形成完整的人工智能产业体系 ...",
+    "id": "8itvbhgqX56",
+    "order": 1745757743826,
+    "createdAt": "2025-04-27T12:42:23.000Z",
+    "publishDate": "2025-04-27T12:42:23.826Z",
+    "title": "我国已形成完整人工智能产业体系 专利申请量位居全球首位",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 20:42:23",
+    "uuid": "7e5622ae-30c0-4ff5-99ca-9e9dddeeed77"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "ST摩登公告，因2024年度营业收入低于3亿元且净利润为负，公司将被实施退市风险警示。",
+    "id": "8ittUKsDPdG",
+    "order": 1745756693399,
+    "createdAt": "2025-04-27T12:23:24.000Z",
+    "publishDate": "2025-04-27T12:24:53.399Z",
+    "title": "ST摩登：公司股票将被实施退市风险警示",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 20:23:24",
+    "uuid": "d4969143-7e4f-4cdf-ba7c-3e11fbeece7c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "*ST开元已向深交所提交撤销退市风险警示申请，但公司股票在2024年年报披露后仍将被实施其他风险警示。",
+    "id": "8ittUJOoZkT",
+    "order": 1745756532747,
+    "createdAt": "2025-04-27T12:22:13.000Z",
+    "publishDate": "2025-04-27T12:22:12.747Z",
+    "title": "*ST开元：申请撤销公司股票退市风险警示，继续被实施其他风险警示",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 20:22:13",
+    "uuid": "f5d17748-ea66-44dc-9315-94dc17df9c57"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "川大智胜公告，2024年利润总额等为负，营收低于3亿元，触及退市风险警示情形。股票2025年4月28日停牌一天，29日起简称变更为*ST智胜，涨跌幅限制为5%。",
+    "id": "8iteRq5VgpB",
+    "order": 1745756486803,
+    "createdAt": "2025-04-27T12:21:27.000Z",
+    "publishDate": "2025-04-27T12:21:26.803Z",
+    "title": "川大智胜：公司股票被实施退市风险警示",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 20:21:27",
+    "uuid": "0d490756-f4fb-46e1-8e1f-bf230f3b0e19"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -33,6 +110,24 @@
     "up": false,
     "date": "2025-04-27 20:12:28",
     "uuid": "09343e70-60bb-48b9-914c-21d4ee36c49f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "海源复材公告，公司股票2025年4月28日停牌一天，自4月29日起被实施退市风险警示，简称变更为*ST海源，涨跌幅限制为5%。原因是2024年度利润总额等为负且营收低于3亿元。",
+    "id": "8its1E9XNIS",
+    "order": 1745756607447,
+    "createdAt": "2025-04-27T11:54:30.000Z",
+    "publishDate": "2025-04-27T12:23:27.447Z",
+    "title": "海源复材：公司股票将被实行退市风险警示 停牌一日",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 19:54:30",
+    "uuid": "11d7175d-51f1-49d0-af9b-5f025f3ae22a"
   },
   {
     "newsArray": [
@@ -101,6 +196,27 @@
     "up": false,
     "date": "2025-04-27 19:41:48",
     "uuid": "4de62af2-c8e7-4fb9-b93a-8902a5e1b9a8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "网易科技" },
+      { "siteName": "猎云网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "京东计划三个月内在全国130多个城市新增10万名全职骑手，提供五险一金及多种福利保障，前三个月保底工资5000元。表现优秀的骑手可晋升为副站长或站长 ...",
+    "id": "8itpsuZ5WnY",
+    "order": 1745757119581,
+    "createdAt": "2025-04-27T11:36:27.000Z",
+    "publishDate": "2025-04-27T12:31:59.581Z",
+    "title": "京东大力度招聘全职骑手，130城保底5000元+全额五险一金",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 19:36:27",
+    "uuid": "1803073d-69a5-42e4-8677-1256dc207378"
   },
   {
     "newsArray": [
@@ -261,6 +377,24 @@
     "up": false,
     "date": "2025-04-27 19:13:29",
     "uuid": "9392ef71-a984-4b76-9f5a-7da1f472a692"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "证监会核准国都期货实际控制人变更为浙江省交通投资集团有限公司。",
+    "id": "8itn2vSvsS2",
+    "order": 1745756463797,
+    "createdAt": "2025-04-27T10:51:51.000Z",
+    "publishDate": "2025-04-27T12:21:03.797Z",
+    "title": "证监会核准国都期货实控人变更为浙江省交通投资集团有限公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-27 18:51:51",
+    "uuid": "7eb18172-dadd-4f56-858f-74b2e926f838"
   },
   {
     "newsArray": [
