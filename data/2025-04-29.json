@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "零售板块人气股步步高午后上演“地天板”，成交金额超23亿。",
+    "id": "8iwmshClLoB",
+    "order": 1745907291299,
+    "createdAt": "2025-04-29T06:14:52.000Z",
+    "publishDate": "2025-04-29T06:14:51.299Z",
+    "title": "步步高午后上演“地天板”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 14:14:52",
+    "uuid": "5ec5e489-965d-415b-b92d-396c1423df8d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英国石油第一季度调整后净利润13.8亿美元，同比减少49%，计划回购7.5亿美元股票。",
+    "id": "8iwnYrgITUo",
+    "order": 1745907266453,
+    "createdAt": "2025-04-29T06:14:27.000Z",
+    "publishDate": "2025-04-29T06:14:26.453Z",
+    "title": "英国石油：第一季度调整后净利润13.8亿美元 同比减少49%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 14:14:27",
+    "uuid": "fa9b163c-24d5-4367-8029-eca016984903"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "众捷汽车表示，公司从国内直接出口美国的金额较小，2025年将进一步下降，目前相关关税由客户承担，美国对中国加征关税对公司影响较小。",
+    "id": "8iweJwK1AFn",
+    "order": 1745906651776,
+    "createdAt": "2025-04-29T06:04:12.000Z",
+    "publishDate": "2025-04-29T06:04:11.776Z",
+    "title": "众捷汽车：美国关税政策对公司影响较小",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 14:04:12",
+    "uuid": "e010060b-22f4-443d-a3c9-1fc959b247dc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "海南发布方案促进医药产业高质量发展，包括加快首仿药注册上市、加强委托生产监管及支持仿制药一致性评价，并对符合条件的品种提供资金支持。",
+    "id": "8iwms6Q0PfC",
+    "order": 1745906542983,
+    "createdAt": "2025-04-29T06:02:22.000Z",
+    "publishDate": "2025-04-29T06:02:22.983Z",
+    "title": "海南：促进仿制药质量提升 支持首仿品种加快注册上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 14:02:22",
+    "uuid": "5befd206-30d7-4d03-97d7-3eb3c649a99d"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
@@ -146,6 +216,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "摩根大通任命杜峯为亚太区副主席，汇报给亚太区CEO李盛德，显示其对亚太区特别是中国市场投资银行业务的持续加强与投入。",
+    "id": "8iwgQclJ82k",
+    "order": 1745906658171,
+    "createdAt": "2025-04-29T05:03:38.000Z",
+    "publishDate": "2025-04-29T06:04:18.171Z",
+    "title": "摩根大通任命杜峯为亚太区副主席",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 13:03:38",
+    "uuid": "aec5cdf4-5c65-43a3-a242-9dbd3ea7f750"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
@@ -196,6 +285,24 @@
     "up": false,
     "date": "2025-04-29 12:54:25",
     "uuid": "e5cd4f05-b089-443d-8539-afd61654bba2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "新浪科技" },
+      { "siteName": "医药魔方" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "百图生科在上海举办AI生命科学基础大模型驱动的生成式发现系统发布会，推出全球首个相关系统，展示全链路创新体系。活动吸引近两百位嘉宾现场参与，线上超8100人观看 ...",
+    "id": "8iwYEEdZJQk",
+    "order": 1745907213737,
+    "createdAt": "2025-04-29T04:54:11.000Z",
+    "publishDate": "2025-04-29T06:13:33.737Z",
+    "title": "百图生科发布全球首个AI生命科学基础大模型驱动的生成式发现系统",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 12:54:11",
+    "uuid": "8f248785-cd4a-47b4-8ae9-a868c76aac26"
   },
   {
     "newsArray": [
