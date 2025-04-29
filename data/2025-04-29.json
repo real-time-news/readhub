@@ -1,6 +1,152 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "东方证券2025年第一季度营业收入53.82亿元，同比增长49.06%。净利润14.36亿元，同比增长62.00%，主要受益于金融工具投资收益、经纪业务手续费收入和子公司大宗商品销售收入增长。",
+    "id": "8iwxa4tr2x9",
+    "order": 1745916005105,
+    "createdAt": "2025-04-29T08:40:06.000Z",
+    "publishDate": "2025-04-29T08:40:05.105Z",
+    "title": "东方证券：一季度净利润同比增长62%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 16:40:06",
+    "uuid": "74c4a3ca-e233-4aa6-a46e-e1b6292a1911"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "TechSir" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "鸿雁鸿米系列全屋智能产品正式接入米家App平台，用户可通过米家App、超级小爱同学语音控制等方式管理家中智能设备，支持远程操作、场景设置及个性化定制 ...",
+    "id": "8iwuJve7Prk",
+    "order": 1745915862195,
+    "createdAt": "2025-04-29T08:37:43.000Z",
+    "publishDate": "2025-04-29T08:37:42.195Z",
+    "title": "鸿雁鸿米全屋智能产品入驻米家App，小米澎湃智联再添新成员",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 16:37:43",
+    "uuid": "c2f8f3b1-c251-4f67-a345-07498e07db45"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "CrowdStrike 发布全新 AI 平台 Charlotte AI，通过智能自动化与人类专家经验结合，提升安全运营中心的威胁检测与响应效率 ...",
+    "id": "8ivMz1REreI",
+    "order": 1745915817218,
+    "createdAt": "2025-04-29T08:36:57.000Z",
+    "publishDate": "2025-04-29T08:36:57.218Z",
+    "title": "CrowdStrike 推出 Charlotte AI，开启安全运营新纪元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 16:36:57",
+    "uuid": "52481988-7c17-409e-946a-dbc385e1fdd4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "安徽建工控股股东计划6个月内增持公司股份，数量不低于总股本1%，不超2%，金额不超2亿元，存在因市场变化等因素导致无法达预期的风险。",
+    "id": "8iwwFEHWqsT",
+    "order": 1745915750624,
+    "createdAt": "2025-04-29T08:35:51.000Z",
+    "publishDate": "2025-04-29T08:35:50.624Z",
+    "title": "安徽建工：控股股东计划增持1%-2%公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 16:35:51",
+    "uuid": "eb124e4a-e75e-4c75-baeb-cc9d6c87f72f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "央视新闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "神舟十九号载人飞船返回任务因气象条件不满足要求而推迟，将择机实施，以确保航天员安全和任务成功。",
+    "id": "8iwcXkD4ecJ",
+    "order": 1745915738018,
+    "createdAt": "2025-04-29T08:35:39.000Z",
+    "publishDate": "2025-04-29T08:35:38.018Z",
+    "title": "神舟十九号载人飞船因东风着陆场气象原因推迟返回",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 16:35:39",
+    "uuid": "025b6d7d-5cc1-46f5-9f6f-d10cc1d3e433"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "*ST旭蓝因股票连续二十个交易日收盘价低于1元，被深交所决定终止上市，将于2025年4月30日摘牌，公司已聘请长城国瑞证券提供股份转让服务。",
+    "id": "8iwwrJ1esnH",
+    "order": 1745916024707,
+    "createdAt": "2025-04-29T08:34:52.000Z",
+    "publishDate": "2025-04-29T08:40:24.707Z",
+    "title": "*ST旭蓝：股票已被深交所决定终止上市 并将于4月30日被摘牌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 16:34:52",
+    "uuid": "872edcb8-57b6-490f-bf90-dd926c78e7df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "携程发布的《五一旅游出行预测报告》显示，今年假期旅游消费呈现“长线爆发、跨境双向升温、县域逆袭”三大特征 ...",
+    "id": "8iwwpntoDyE",
+    "order": 1745915597143,
+    "createdAt": "2025-04-29T08:33:18.000Z",
+    "publishDate": "2025-04-29T08:33:17.143Z",
+    "title": "携程网盘前涨超1% 五一假期出行预订火爆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 16:33:18",
+    "uuid": "3a7d1402-d36c-4e70-b5cc-08cdd1bf40cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "由于设备和人员问题，纽瓦克自由国际机场出现大量航班延误，问题源于费城的电信雷达设备故障及后续人员问题。",
+    "id": "8iwp2FPUK5S",
+    "order": 1745915529297,
+    "createdAt": "2025-04-29T08:32:09.000Z",
+    "publishDate": "2025-04-29T08:32:09.297Z",
+    "title": "设备人员均出问题，美国纽瓦克机场航班大量延误",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 16:32:09",
+    "uuid": "820ec7b3-d2f2-4214-b8f5-068d2ab2b306"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
@@ -1250,6 +1396,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "以色列初创公司Lightrun获得7000万美元B轮融资，累计融资达1.1亿美元。该公司开发的可观测性平台利用人工智能技术，在代码进入生产环境前识别并修复潜在问题，有效降低系统故障风险 ...",
+    "id": "8ivh04FSIth",
+    "order": 1745915612392,
+    "createdAt": "2025-04-29T03:49:37.000Z",
+    "publishDate": "2025-04-29T08:33:32.392Z",
+    "title": "以色列初创公司Lightrun获7000万美元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 11:49:37",
+    "uuid": "b353ba4b-ea83-4beb-84d0-e8e10321a259"
+  },
+  {
+    "newsArray": [
       { "siteName": "医药魔方" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -1595,6 +1758,26 @@
     "up": false,
     "date": "2025-04-29 10:42:27",
     "uuid": "bc1fc3b1-6d27-4526-a1f6-47bfddba868d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中金公司下调长城汽车H股目标价18%至15.5港元，A股目标价下调14%，维持“跑赢行业”评级 ...",
+    "id": "8iutcl8EDzf",
+    "order": 1745915567678,
+    "createdAt": "2025-04-29T02:36:21.000Z",
+    "publishDate": "2025-04-29T08:32:47.678Z",
+    "title": "中金：下调长城汽车目标价至15.5港元 维持“跑赢行业”评级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-29 10:36:21",
+    "uuid": "faceebf8-1d85-46c5-bee3-566eb0b64c06"
   },
   {
     "newsArray": [
