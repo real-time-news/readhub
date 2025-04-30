@@ -1,6 +1,133 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "恒指涨0.22%，恒生科技指数涨1.06%，国企指数跌0.37%。内银股下挫，盛京银行跌超6%。AI概念股走强，金山云涨超15%，小米开源大模型“Xiaomi MiMo” ...",
+    "id": "8iyJrtvHlI1",
+    "order": 1746000920450,
+    "createdAt": "2025-04-30T08:15:21.000Z",
+    "publishDate": "2025-04-30T08:15:20.450Z",
+    "title": "港股午评：AI股强势，恒生科技指数涨超1%，金山云飙升15%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 16:15:21",
+    "uuid": "5aa82fcc-fc61-46bb-a0fc-0be61515f6c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2025年第一季度中国游戏市场收入857.04亿元，环比下降1.21%，同比增长17.99%。其中，移动游戏收入636.26亿元，环比下降2.18%，同比增长20.29% ...",
+    "id": "8iyb1RpUG81",
+    "order": 1746000821192,
+    "createdAt": "2025-04-30T08:13:41.000Z",
+    "publishDate": "2025-04-30T08:13:41.192Z",
+    "title": "中国音数协游戏工委：一季度中国游戏市场收入857.04亿元 同比增长17.99%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 16:13:41",
+    "uuid": "fc7d9f5a-ad4e-433f-9117-1340250b7ea5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "A股电子及通信行业受益于AI浪潮，2024年及2025年一季度业绩向好。全球智能手机出货量回升，生成式AI手机市场潜力巨大 ...",
+    "id": "8ixzBThruZz",
+    "order": 1746000703045,
+    "createdAt": "2025-04-30T08:11:43.000Z",
+    "publishDate": "2025-04-30T08:11:43.045Z",
+    "title": "电子通信行业全面拥抱AI，开启新一轮增长周期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 16:11:43",
+    "uuid": "6f342805-6c3c-49ba-b306-5788fdfb7d67"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "美团宣布自2025年5月1日起免除骑手使用外卖智能柜的费用，系统将自动兑换入柜权益，覆盖所有美团外卖柜点位及专送和众包骑手配送服务。",
+    "id": "8iyUIs4OX5r",
+    "order": 1746000416553,
+    "createdAt": "2025-04-30T08:06:57.000Z",
+    "publishDate": "2025-04-30T08:06:56.553Z",
+    "title": "美团升级骑手权益 5月起免除外卖柜使用费",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 16:06:57",
+    "uuid": "32125df5-5504-42b6-95a0-9d099608c31c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "微软宣布自2025年7月1日起终止对旧版Teams Classic 1.0的支持，用户需升级至新版Teams 2.0以避免服务中断 ...",
+    "id": "8iyI7f4kaAx",
+    "order": 1746000202012,
+    "createdAt": "2025-04-30T08:03:23.000Z",
+    "publishDate": "2025-04-30T08:03:22.012Z",
+    "title": "微软终止Teams旧版支持",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 16:03:23",
+    "uuid": "2a856f64-dda0-4ced-8fc3-bc6f3982a6c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Mozilla 在火狐 Firefox 137 稳定版中推出标签组功能，用户可通过拖放操作管理多个标签，并为每个群组命名或设置颜色 ...",
+    "id": "8iy0D91l5aw",
+    "order": 1745999758902,
+    "createdAt": "2025-04-30T07:55:58.000Z",
+    "publishDate": "2025-04-30T07:55:58.902Z",
+    "title": "Firefox 标签组 (Tab Groups) 功能 5 月 6 日前覆盖所有用户",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 15:55:58",
+    "uuid": "55400a53-b276-4498-803f-1998ab27fd41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "南方周末" },
+      { "siteName": "界面" }
+    ],
+    "summary": "太原市小店区北营街道丰景佳园小区发生爆炸事故，已致17人受伤，其中4人重伤，3人自行离院。消防救援人员正在楼内逐户搜救，事故救援仍在进行中。",
+    "id": "8iyW63W7830",
+    "order": 1746000136336,
+    "createdAt": "2025-04-30T07:55:34.000Z",
+    "publishDate": "2025-04-30T08:02:16.336Z",
+    "title": "山西太原小区爆炸事故已造成17人受伤",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 15:55:34",
+    "uuid": "12d44f17-e750-46f1-ac29-57ece5c8ccdf"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "手机中国" },
       { "siteName": "手机中国" }
