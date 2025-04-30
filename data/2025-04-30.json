@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英镑兑美元GBP/USD跌破1.34，现跌0.32%。",
+    "id": "8iwiWfu0NFb",
+    "order": 1746020048845,
+    "createdAt": "2025-04-30T13:34:08.000Z",
+    "publishDate": "2025-04-30T13:34:08.845Z",
+    "title": "英镑兑美元GBP/USD跌破1.34",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 21:34:08",
+    "uuid": "f4a37091-35de-4f23-ad3e-ef21b855b345"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "江天化学公告，持股15.02%的股东江山股份计划减持不超过3%公司股份，即不超过4,330,800股，减持期间为2025年5月27日至8月26日，价格不低于公司IPO发行价。",
+    "id": "8iyxCHtjl7g",
+    "order": 1746019983142,
+    "createdAt": "2025-04-30T13:33:04.000Z",
+    "publishDate": "2025-04-30T13:33:03.142Z",
+    "title": "江天化学：股东江山股份计划减持不超过3%公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 21:33:04",
+    "uuid": "36aaddc0-951d-4305-ab46-f8b70f382692"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "DeepSeek在Hugging Face平台上开源了最新数学定理证明专用模型DeepSeek-Prover-V2-671B，该模型专注于形式化数学证明，基于DeepSeek-V3架构，参数量达671亿，采用混合专家设计，最大上下文长度为163,840个token ...",
+    "id": "8iygm8r1QCz",
+    "order": 1746019893533,
+    "createdAt": "2025-04-30T13:31:34.000Z",
+    "publishDate": "2025-04-30T13:31:33.533Z",
+    "title": "DeepSeek开源数学模型Prover-V2-671B ，较上代参数量提高近百倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 21:31:34",
+    "uuid": "476843c6-6645-4c29-ae66-ed44d445d768"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "ST九芝公告，公司股票于2025年5月6日停牌一天，5月7日起复牌并撤销其他风险警示，证券简称变更为九芝堂，涨跌幅限制由5%变更为10%。",
+    "id": "8iyxAswnz2L",
+    "order": 1746019510406,
+    "createdAt": "2025-04-30T13:25:10.000Z",
+    "publishDate": "2025-04-30T13:25:10.406Z",
+    "title": "ST九芝：自5月7日开市起撤销其他风险警示 证券简称变更为“九芝堂”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 21:25:10",
+    "uuid": "1870abf0-288b-498e-b233-802e77c718e9"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
       { "siteName": "界面" }
@@ -33,6 +103,28 @@
     "up": false,
     "date": "2025-04-30 21:02:58",
     "uuid": "60f2182e-10a8-4c47-84be-a22e53e110f5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "多家银行宣布取消监事会，其职能由董事会审计委员会承接，标志着运行近30年的监事会制度逐步退出公司治理舞台。新公司法及金融监管部门政策推动金融机构治理体系改革，提升内部监督效能 ...",
+    "id": "8iyOvKzIQYB",
+    "order": 1746018737064,
+    "createdAt": "2025-04-30T12:54:05.000Z",
+    "publishDate": "2025-04-30T13:12:17.064Z",
+    "title": "7家银行公告取消，近30年监事会制度退出公司治理舞台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-04-30 20:54:05",
+    "uuid": "a033aff2-6e3d-4d29-a84b-2ab48ccc8a55"
   },
   {
     "newsArray": [
