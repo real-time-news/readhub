@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "阿维塔公布数据显示，4月销量11681台，同比增长122.6%，创历史新高。",
+    "id": "8iyjjvxF2XQ",
+    "order": 1746074485726,
+    "createdAt": "2025-05-01T04:41:25.000Z",
+    "publishDate": "2025-05-01T04:41:25.726Z",
+    "title": "阿维塔：4月销量11681台 同比增长122.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 12:41:25",
+    "uuid": "41eccb9d-3b0d-430c-bd69-596c8b801a4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "乌克兰总理什梅加尔称，根据与美国起草的资源协议草案，乌克兰将保留对所有资源的控制权，矿产、基础设施和自然资源不在协议管辖范围内。",
+    "id": "8izzVf9TMtq",
+    "order": 1746073869354,
+    "createdAt": "2025-05-01T04:31:10.000Z",
+    "publishDate": "2025-05-01T04:31:09.354Z",
+    "title": "乌克兰总理：乌将保留对所有资源的控制权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 12:31:10",
+    "uuid": "3d55285a-33a9-4bc9-8ced-5fbb637e00cb"
+  },
+  {
+    "newsArray": [
       { "siteName": "财经网" },
       { "siteName": "界面" },
       { "siteName": "IT 之家" }
