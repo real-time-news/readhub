@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Meta AI推出ReasonIR-8B模型，专为解决推理密集型检索问题设计。该模型基于LLaMA3.1-8B训练，采用双编码器架构，支持长上下文和复杂任务，计算成本低且效率高 ...",
+    "id": "8j0DmWzgwqe",
+    "order": 1746090131827,
+    "createdAt": "2025-05-01T09:02:11.000Z",
+    "publishDate": "2025-05-01T09:02:11.827Z",
+    "title": "Meta推出ReasonIR-8B模型，高效破解复杂推理检索挑战",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 17:02:11",
+    "uuid": "7beece30-a833-4e15-9db1-e212a0f9c4cb"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "钛媒体" },
