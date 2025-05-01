@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "吉利汽车4月汽车销量234112辆，同比增长53%。",
+    "id": "8j0OWoIKOgl",
+    "order": 1746096169361,
+    "createdAt": "2025-05-01T10:42:50.000Z",
+    "publishDate": "2025-05-01T10:42:49.361Z",
+    "title": "吉利汽车：4月汽车销量同比增长53%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 18:42:50",
+    "uuid": "51074e60-76fd-47c7-b13e-cbf49f538d4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "保时捷宣布中国研发中心完成架构升级，上海新办公址将于下半年投入运营。",
+    "id": "8j0JugdUxiV",
+    "order": 1746096132243,
+    "createdAt": "2025-05-01T10:42:12.000Z",
+    "publishDate": "2025-05-01T10:42:12.243Z",
+    "title": "保时捷中国研发中心落地嘉定 下半年投用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 18:42:12",
+    "uuid": "117ed94c-8ef1-4a81-b006-2012cdc04b5c"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "36Kr" }
