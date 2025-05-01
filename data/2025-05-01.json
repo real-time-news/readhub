@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "麦当劳(MCD.US)盘前下跌1.7% ... 第一季度营收59.6亿美元，市场预期61.2亿美元。",
+    "id": "8j0SmIsDTqe",
+    "order": 1746097974749,
+    "createdAt": "2025-05-01T11:12:55.000Z",
+    "publishDate": "2025-05-01T11:12:54.749Z",
+    "title": "麦当劳盘前下跌1.7%，Q1营收低于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 19:12:55",
+    "uuid": "328435ab-dc96-4d2a-b9b5-c78da2c69a76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "美国伊利诺伊州一辆运钞车后门意外打开，约30万美元现金散落，至少50名路人捡走钞票。警方已介入调查，但追回金额有限 ...",
+    "id": "8iznNIg3WyV",
+    "order": 1746097435755,
+    "createdAt": "2025-05-01T11:03:55.000Z",
+    "publishDate": "2025-05-01T11:03:55.755Z",
+    "title": "美国一运钞车掉落30万现金：50多名路人现场捡钱瓜分",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 19:03:55",
+    "uuid": "7f4f613c-16c0-48bd-9288-91b6f9e609ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "比亚迪4月乘用车销量372615辆，同比增长19.4%，全年累计销量138万辆，增长47% ...",
+    "id": "8j0QfyZ4Ssk",
+    "order": 1746097420109,
+    "createdAt": "2025-05-01T11:03:41.000Z",
+    "publishDate": "2025-05-01T11:03:40.109Z",
+    "title": "比亚迪 4 月乘用车销量 372615 辆，同比增长 19.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 19:03:41",
+    "uuid": "0083d025-743e-4a19-86a0-bdce9a256a38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "中国成为欧盟成熟芯片最大进口来源，欧盟对华依赖达“高风险”水平。美国的出口管制促使中国转向成熟芯片市场 ...",
+    "id": "8j0IdNTehjZ",
+    "order": 1746097399136,
+    "createdAt": "2025-05-01T11:03:20.000Z",
+    "publishDate": "2025-05-01T11:03:19.136Z",
+    "title": "欧盟警示“高风险”依赖：进口成熟芯片1/3来自中国",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 19:03:20",
+    "uuid": "211ce4bb-238c-4a39-bceb-27a397b53818"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
