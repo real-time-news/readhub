@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉CEO马斯克批评《华尔街日报》发布虚假文章并损害新闻业声誉，指其未包含特斯拉董事会的否认声明 ...",
+    "id": "8j09dRasosZ",
+    "order": 1746095520060,
+    "createdAt": "2025-05-01T10:32:00.000Z",
+    "publishDate": "2025-05-01T10:32:00.060Z",
+    "title": "马斯克怒怼《华尔街日报》：有损新闻业声誉",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 18:32:00",
+    "uuid": "5fccbb0d-23f1-4bc7-ab57-1cd84aaf6e08"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "长城汽车4月销量100061辆，同比增长5.55%，其中新能源车销量28813辆。",
+    "id": "8j0OUNsd3Gc",
+    "order": 1746094966427,
+    "createdAt": "2025-05-01T10:22:47.000Z",
+    "publishDate": "2025-05-01T10:22:46.427Z",
+    "title": "长城汽车：4月销量100061辆，同比增5.55%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 18:22:47",
+    "uuid": "376fe920-2bb9-412d-9116-a17039eff1f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Oppenheimer将卡特彼勒评级上调至跑赢大盘，目标价395美元。",
+    "id": "8j0OWpPs7Ya",
+    "order": 1746094930086,
+    "createdAt": "2025-05-01T10:22:10.000Z",
+    "publishDate": "2025-05-01T10:22:10.086Z",
+    "title": "Oppenheimer：将卡特彼勒评级上调至跑赢大盘",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 18:22:10",
+    "uuid": "17225758-f755-4639-b49f-8211c5a3926c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "多家新势力车企公布4月交付数据，其中小鹏汽车同比增长最高达273%，交付35,045台。蔚来交付23,900台，同比增长53%。理想汽车交付33,939辆，同比增长31.6% ...",
+    "id": "8j0D5iWQ4rl",
+    "order": 1746094591981,
+    "createdAt": "2025-05-01T10:16:32.000Z",
+    "publishDate": "2025-05-01T10:16:31.981Z",
+    "title": "新势力车企4月“成绩单”出炉 最高同比增长超270%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 18:16:32",
+    "uuid": "e738a300-33d8-4021-bfa3-653b693977b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国科学院长春应用化学研究所自主研发的高比能深海锂离子电池组在南海完成4200米级试验，能量密度达400Wh/kg，实现深海能源系统轻量化、高可靠、长续航 ...",
+    "id": "8j0JXVjAXpU",
+    "order": 1746094294346,
+    "createdAt": "2025-05-01T10:11:35.000Z",
+    "publishDate": "2025-05-01T10:11:34.346Z",
+    "title": "全球首次：我国 400Wh/kg 锂电池完成 4200 米级深海试验验证",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-01 18:11:35",
+    "uuid": "a20a42cc-703b-4b7f-af5d-cbf336bd129a"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
