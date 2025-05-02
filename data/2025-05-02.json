@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "日美在华盛顿举行第二轮关税谈判，日本经济再生担当相赤泽亮正表示讨论非常深入。",
+    "id": "8j1Q6sm6LLO",
+    "order": 1746169924383,
+    "createdAt": "2025-05-02T07:12:05.000Z",
+    "publishDate": "2025-05-02T07:12:04.383Z",
+    "title": "日美结束第二轮关税谈判",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 15:12:05",
+    "uuid": "b93af208-e366-4c11-8ee6-b2caf35dec95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果CEO库克在财报电话会议上表示个性化Siri项目已取得重要进展，将在未来一年内推出，包含个人上下文理解、应用内操作和屏幕感知等功能 ...",
+    "id": "8j1HW1tdmbM",
+    "order": 1746169903791,
+    "createdAt": "2025-05-02T07:11:44.000Z",
+    "publishDate": "2025-05-02T07:11:43.791Z",
+    "title": "库克回应个性化 Siri 功能延迟：专注打造高品质，尚需时间打磨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 15:11:44",
+    "uuid": "df0cd8ed-9ee3-417e-980c-1b96143a9851"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "亚马逊云业务AWS第一季度收入增长17%，达292.7亿美元，低于分析师预期的294.2亿美元，增速连续第三个季度放缓。微软Azure云业务增长超预期，而谷歌云营收略低于预期 ...",
+    "id": "8j1BwW8nQxq",
+    "order": 1746169333033,
+    "createdAt": "2025-05-02T07:02:14.000Z",
+    "publishDate": "2025-05-02T07:02:13.033Z",
+    "title": "亚马逊的云业务收入连续第三个季度不及预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 15:02:14",
+    "uuid": "60fca5ad-12ec-4898-81d4-870a91744845"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
