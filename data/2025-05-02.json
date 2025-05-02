@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中央广播电视总台亚太总站澄清，关于邀请韩国K-pop偶像团体联合演出的报道不实，目前没有此类计划安排。",
+    "id": "8j1a8F2Ggij",
+    "order": 1746156319445,
+    "createdAt": "2025-05-02T03:25:21.000Z",
+    "publishDate": "2025-05-02T03:25:19.445Z",
+    "title": "CMG亚太总站：没有邀请韩国偶像团体举办巡回演出",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 11:25:21",
+    "uuid": "9eafbd13-fc3f-4405-b8ee-a109002666fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果第二财季业绩超出预期，但受特朗普关税政策影响，未来增长存在不确定性。苹果CEO库克宣布大部分销往美国的设备将从印度和越南生产以应对关税压力，并预估第三财季关税将增加9亿美元成本 ...",
+    "id": "8j1K5iGTE7n",
+    "order": 1746156165643,
+    "createdAt": "2025-05-02T03:22:47.000Z",
+    "publishDate": "2025-05-02T03:22:45.643Z",
+    "title": "苹果电话会：美国设备“大多数”将来自印度、越南，关税或致Q3成本增加9亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 11:22:47",
+    "uuid": "64e946ef-3ae7-48a0-902b-4972a2ce3a38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "强降雨和雷暴袭击印度德里及周边地区，导致内涝、航班延误或改道，树木倒伏及电线建筑物受损，气象部门建议民众留在室内避险。",
+    "id": "8j1ZP86dJNn",
+    "order": 1746156092744,
+    "createdAt": "2025-05-02T03:21:33.000Z",
+    "publishDate": "2025-05-02T03:21:32.744Z",
+    "title": "印度德里地区突发暴雨 上百架次航班延误",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 11:21:33",
+    "uuid": "95068739-ea59-4114-a3d8-d211be98688b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司获得一项关于iPhone和iPad阳极氧化外壳的创新专利，旨在解决设备易留指纹和污迹的问题 ...",
+    "id": "8j1QoBno5Rw",
+    "order": 1746155258591,
+    "createdAt": "2025-05-02T03:07:39.000Z",
+    "publishDate": "2025-05-02T03:07:38.591Z",
+    "title": "苹果新专利：iPhone防指纹涂层技术大升级，耐磨防污更贴心",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 11:07:39",
+    "uuid": "ee2abe29-891a-419b-a9b0-f1c9f32e438a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软宣布自2025年5月2日起，新注册账户默认采用无密码模式，支持Passkey、推送通知等登录方式 ...",
+    "id": "8j1V6YCXMPl",
+    "order": 1746154944076,
+    "createdAt": "2025-05-02T03:02:25.000Z",
+    "publishDate": "2025-05-02T03:02:24.076Z",
+    "title": "微软力推 Passkey，今日起新账户默认无密码",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 11:02:25",
+    "uuid": "9a0a016e-d0d2-43de-a305-0ac7f25530b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2024年沪深上市公司分红金额达2.39万亿元创新高，同比增长7.2%，沪深300股息率3.59% ...",
+    "id": "8j1WbXrfODk",
+    "order": 1746154133971,
+    "createdAt": "2025-05-02T02:42:21.000Z",
+    "publishDate": "2025-05-02T02:48:53.971Z",
+    "title": "2024年A股上市公司分红回购再创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 10:42:21",
+    "uuid": "f58c2b8b-d7a5-4a3d-8575-e75e8b46d2b6"
+  },
+  {
+    "newsArray": [
       { "siteName": "央视新闻" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
@@ -32,6 +138,24 @@
     "up": false,
     "date": "2025-05-02 10:16:49",
     "uuid": "1e5ef9d1-8775-45ae-8f0a-192258823473"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "苹果公司首席执行官蒂姆·库克在季度财报电话会议上表示，若现有关税政策不变，第3财季苹果将承担约9亿美元额外成本，具体金额可能因美国政府关税政策调整而变化。",
+    "id": "8j1NzRBhC5c",
+    "order": 1746154349808,
+    "createdAt": "2025-05-02T02:12:01.000Z",
+    "publishDate": "2025-05-02T02:52:29.808Z",
+    "title": "库克：美国关税政策导致苹果额外增加约9亿美元成本",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-02 10:12:01",
+    "uuid": "54b262a1-bb63-4da0-a3aa-d1147424cbae"
   },
   {
     "newsArray": [
