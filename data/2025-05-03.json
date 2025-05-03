@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "乐鑫信息科技宣布ESP32-C5芯片全面量产，这是首款支持2.4GHz和5GHz双频Wi-Fi 6的RISC-V SoC ...",
+    "id": "8j21xpYU9Fz",
+    "order": 1746243472371,
+    "createdAt": "2025-05-03T03:37:53.000Z",
+    "publishDate": "2025-05-03T03:37:52.371Z",
+    "title": "乐鑫ESP32-C5量产：首款双频Wi-Fi 6 RISC-V SoC引领物联网新风尚",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-03 11:37:53",
+    "uuid": "0d734a5d-da0a-427a-94a5-588919d4fc9a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国今年已报告超900例麻疹确诊病例，30个州和地区出现疫情，其中得克萨斯州病例最多达680例，935例确诊病例中121例住院，3例死亡，多数患者未接种疫苗，5岁至19岁群体占比最高为38%。",
+    "id": "8j3CAqFqOVg",
+    "order": 1746243058439,
+    "createdAt": "2025-05-03T03:11:35.000Z",
+    "publishDate": "2025-05-03T03:30:58.439Z",
+    "title": "美国今年以来麻疹感染病例超900例",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-03 11:11:35",
+    "uuid": "c9b8795b-73ab-467a-9424-5f98a38d50aa"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" },
