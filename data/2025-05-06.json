@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "艾瑞网" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌推出专为13岁以下儿童设计的Gemini AI聊天机器人，通过“家庭链接”服务由家长管理 ...",
+    "id": "8j8FtdHeKjj",
+    "order": 1746506000110,
+    "createdAt": "2025-05-06T04:33:21.000Z",
+    "publishDate": "2025-05-06T04:33:20.110Z",
+    "title": "​谷歌推出儿童专用 AI 聊天机器人，引发安全隐忧",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-06 12:33:21",
+    "uuid": "960c3ada-caa4-405e-a99d-5b5583024a3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小鹏汽车推出智能辅助驾驶安心服务，售价239元，提供NGP退出后5秒内权益保障，最高补偿100万元。该服务覆盖智能行车与泊车场景，需在商业险出单后72小时内购买 ...",
+    "id": "8j8Emnjg2kQ",
+    "order": 1746505972798,
+    "createdAt": "2025-05-06T04:32:53.000Z",
+    "publishDate": "2025-05-06T04:32:52.798Z",
+    "title": "小鹏：智能辅助驾驶安心服务是对车险赔付不足的补偿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-06 12:32:53",
+    "uuid": "c91efbfa-4959-4256-bf1c-70f61da77d85"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "南天信息子公司海捷科技与新华三集团合作，推出基于LinSeer Cube大模型一体机及AI解决方案。",
+    "id": "8j8AYjIo2yb",
+    "order": 1746505925929,
+    "createdAt": "2025-05-06T04:32:06.000Z",
+    "publishDate": "2025-05-06T04:32:05.929Z",
+    "title": "南天信息子公司海捷科技携手新华三联合推出行业大模型一体机",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-06 12:32:06",
+    "uuid": "2d59031b-8a97-4634-9513-04991b184e64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "朗玛信息2025年第一季度研发费用同比下降32.55%，主要因公司集中资源于医学人工智能研发，优化了原有业务及人员结构。",
+    "id": "8j8Gbgnsciz",
+    "order": 1746505388789,
+    "createdAt": "2025-05-06T04:23:09.000Z",
+    "publishDate": "2025-05-06T04:23:08.789Z",
+    "title": "朗玛信息：2025年第一季度研发费用同比下降32.55%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-06 12:23:09",
+    "uuid": "2c82aea4-1335-4a5f-9624-0c46e4fae105"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "商汤与中移动香港及港中文大学法律学院签署合作备忘录，将在视觉AI、大模型等领域展开深入合作。",
+    "id": "8j8FiYdPUOE",
+    "order": 1746505913925,
+    "createdAt": "2025-05-06T04:22:42.000Z",
+    "publishDate": "2025-05-06T04:31:53.925Z",
+    "title": "商汤与中国移动香港、香港中文大学法律学院就视觉AI、大模型等领域达成合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-06 12:22:42",
+    "uuid": "92989f99-fa38-4301-8238-c586411679e3"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" },
@@ -282,6 +367,23 @@
     "up": false,
     "date": "2025-05-06 11:22:22",
     "uuid": "0980bba9-110b-4ad8-ba4c-2be23ecf5e68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "OpenAI宣布取消转为营利性企业的计划，将继续由非营利组织监督控制，同时推进营利部门融资以应对AI竞争 ...",
+    "id": "8j7zlpC56Va",
+    "order": 1746505941488,
+    "createdAt": "2025-05-06T03:19:31.000Z",
+    "publishDate": "2025-05-06T04:32:21.488Z",
+    "title": "OpenAI放弃商业架构计划，软银投资或减50%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-06 11:19:31",
+    "uuid": "1213f9e8-46ce-4cb7-97db-4a24681ebd57"
   },
   {
     "newsArray": [
