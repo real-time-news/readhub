@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "京东今日宣布，将于5月31日晚8点正式开启京东618。",
+    "id": "8jA8OsUN0Xk",
+    "order": 1746601684937,
+    "createdAt": "2025-05-07T07:08:04.000Z",
+    "publishDate": "2025-05-07T07:08:04.937Z",
+    "title": "京东618将于5月31日正式开启",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 15:08:04",
+    "uuid": "ec56340a-8a58-4944-a986-08128228d569"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果获得一项新专利，展示了一款可检测鼠标附近空间手势的妙控鼠标。该鼠标通过传感器阵列实现三维手势识别，可能使用光学或电容传感器，甚至结合摄像头和投影仪功能，提供虚拟按键交互 ...",
+    "id": "8j93Vv0je2p",
+    "order": 1746601483025,
+    "createdAt": "2025-05-07T07:04:43.000Z",
+    "publishDate": "2025-05-07T07:04:43.025Z",
+    "title": "苹果新专利曝光：妙控鼠标有望支持空中手势识别",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 15:04:43",
+    "uuid": "eb6233e5-3b31-4ca4-869d-9286b7f5868c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "分析师Stephen Jen指出，亚洲国家可能因贸易战加剧而抛售持有的大量美元，这或将使美元面临2.5万亿美元的卖压 ...",
+    "id": "8jA4lY6715D",
+    "order": 1746601467683,
+    "createdAt": "2025-05-07T07:04:27.000Z",
+    "publishDate": "2025-05-07T07:04:27.683Z",
+    "title": "亚洲潜在的美元卖压几何 分析师称或引爆高达2.5万亿美元的“雪崩”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 15:04:27",
+    "uuid": "32c0d8aa-9f1a-434b-a13b-7326da9109c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "京东推出AI写诗服务迎接母亲节，用户可通过APP生成专属藏头诗，表达对母亲的祝福。该功能基于自然语言处理技术，生成符合诗词韵味的作品，并配套抽奖活动提供节日惊喜 ...",
+    "id": "8jA5L0oyYqR",
+    "order": 1746601444297,
+    "createdAt": "2025-05-07T07:04:04.000Z",
+    "publishDate": "2025-05-07T07:04:04.297Z",
+    "title": "京东母亲节新玩法：AI定制藏头诗，传递深情祝福",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 15:04:04",
+    "uuid": "87e91282-63ac-41cd-9107-9a6f8e4a865c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "世卫组织回应称，正制定关于使用GLP-1 RA和GLP-1 RA/GIP双受体激动剂治疗成年肥胖患者的指南，预计2025年8月或9月出台最终方案，将明确药物的临床适应症及应用考量。",
+    "id": "8jA7f1O50P5",
+    "order": 1746601500629,
+    "createdAt": "2025-05-07T06:55:20.000Z",
+    "publishDate": "2025-05-07T07:05:00.629Z",
+    "title": "世卫组织回应首次将减肥药纳入基本药物目录：相关方案正在制定，预计最早 8 月份出台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 14:55:20",
+    "uuid": "e7990557-6fe7-48bc-a092-579f8a4dea6e"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
@@ -35,6 +122,23 @@
     "up": false,
     "date": "2025-05-07 14:50:03",
     "uuid": "01f435ec-a7e8-4b5a-b38f-dc0a9ef63a10"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国多所高校因流动性压力和特朗普政策影响，正考虑出售私募股权份额以筹集现金。普林斯顿、德克萨斯理工、哈佛和耶鲁等大学捐赠基金面临挑战，部分计划减少私募股权敞口或探索二级市场交易 ...",
+    "id": "8j9n1u7KfWq",
+    "order": 1746601555668,
+    "createdAt": "2025-05-07T06:43:30.000Z",
+    "publishDate": "2025-05-07T07:05:55.668Z",
+    "title": "哈佛、耶鲁带头，美国大学捐赠基金出售私募股权以募集现金",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 14:43:30",
+    "uuid": "d35ec87f-b8e8-46e4-b0b3-21a271063320"
   },
   {
     "newsArray": [
@@ -90,6 +194,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "Odaily" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "OpenAI 计划未来几年显著降低与微软的收入分成比例，到 2030 年至少下降 50%。此举可能源于其技术自信增强及对更高利润空间的追求，同时也意在减少对微软的依赖并拓展多元化收入来源 ...",
+    "id": "8j9upati82b",
+    "order": 1746601574618,
+    "createdAt": "2025-05-07T06:12:34.000Z",
+    "publishDate": "2025-05-07T07:06:14.618Z",
+    "title": "OpenAI计划大幅降低与微软的收入分成比例",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 14:12:34",
+    "uuid": "4e963d8d-06d7-4545-bdd7-d79ff26a6d0e"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" },
       { "siteName": "钛媒体" },
@@ -124,6 +246,24 @@
     "up": false,
     "date": "2025-05-07 14:04:17",
     "uuid": "a72c289f-991d-4bf9-920d-30f2f73b29d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "诺和诺德一季度销售额780.9亿丹麦克朗，EBIT为387.9亿丹麦克朗，净利润290.3亿丹麦克朗，减肥药Wegovy销售额173.6亿丹麦克朗，Ozempic销售额327.2亿丹麦克朗 ...",
+    "id": "8jA2fXPqMhE",
+    "order": 1746601597320,
+    "createdAt": "2025-05-07T06:03:32.000Z",
+    "publishDate": "2025-05-07T07:06:37.320Z",
+    "title": "诺和诺德：Q1销售额780.9亿丹麦克朗，低于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 14:03:32",
+    "uuid": "0566e704-4400-420e-8465-1a301927b19e"
   },
   {
     "newsArray": [
@@ -1658,6 +1798,44 @@
     "up": false,
     "date": "2025-05-07 06:11:59",
     "uuid": "39916eba-14e5-48c2-b29d-a5db518b8d36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中国科技网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "南方周末" }
+    ],
+    "summary": "北京市公务员局发布2025年度补充录用公务员公告，计划补录684人。报考人员需达到原笔试最低合格分数线且未被原职位拟录用 ...",
+    "id": "8j9HX5cNmcG",
+    "order": 1746601405604,
+    "createdAt": "2025-05-06T21:12:38.000Z",
+    "publishDate": "2025-05-07T07:03:25.604Z",
+    "title": "京考补录684人 今明两日报名",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 05:12:38",
+    "uuid": "39b1670c-5292-4aac-88d2-77a307563cbc"
   },
   {
     "newsArray": [
