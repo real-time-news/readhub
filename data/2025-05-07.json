@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "恒生科技指数由涨转跌，地平线机器人领跌成分股，小米集团亦下跌，恒生指数涨幅收窄至0.5%。",
+    "id": "8j9koxY8icG",
+    "order": 1746588141419,
+    "createdAt": "2025-05-07T03:22:22.000Z",
+    "publishDate": "2025-05-07T03:22:21.419Z",
+    "title": "恒生科技指数转跌，盘初一度涨约3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 11:22:22",
+    "uuid": "b999ac16-1fd2-4e61-a938-6d60fe81a444"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "易方达基金公告，5月12日起调低两只债券基金的管理费率，中债新综合债券指数基金管理费由0.30%降至0.15%，投资级信用债债券基金管理费由0.35%降至0.30%。",
+    "id": "8j9rF5NmFwh",
+    "order": 1746588301121,
+    "createdAt": "2025-05-07T03:14:18.000Z",
+    "publishDate": "2025-05-07T03:25:01.121Z",
+    "title": "易方达下调两只基金管理费率",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 11:14:18",
+    "uuid": "d1f3b387-23b7-4255-99cd-a5662b95c484"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "军工板块盘中涨势扩大，内蒙一机、利君股份、华伍股份、晨曦航空等十余股涨停，爱乐达、中航成飞、中无人机、长城军工、安达维尔等多股涨逾5%。",
+    "id": "8j9qklgLJuc",
+    "order": 1746588205188,
+    "createdAt": "2025-05-07T03:04:14.000Z",
+    "publishDate": "2025-05-07T03:23:25.188Z",
+    "title": "军工板块持续拉升，十余只成分股涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 11:04:14",
+    "uuid": "fe4661a7-0fa0-4c34-b437-f02f86463803"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2025年第一季度，中国智能音箱市场销量为369.9万台，同比下降5.6%，销售额下降至10.3亿元，降幅为5.9%。线上市场呈现复苏趋势，销量和销售额分别增长4.0%和4.4% ...",
+    "id": "8j9j3V9SwzH",
+    "order": 1746587022191,
+    "createdAt": "2025-05-07T03:03:43.000Z",
+    "publishDate": "2025-05-07T03:03:42.191Z",
+    "title": "中国智能音箱市场一季度下滑，小米却独占鳌头份额达45%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 11:03:43",
+    "uuid": "12188dd4-339a-4819-8b28-39834cba4f3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "瑞银集团与泛大西洋投资集团宣布合作拓展私人信贷市场业务，为高风险借款人或大型收购交易提供快速审批的贷款资金来源，但未披露具体投资金额。",
+    "id": "8j8tvgRwDJD",
+    "order": 1746586427582,
+    "createdAt": "2025-05-07T02:46:50.000Z",
+    "publishDate": "2025-05-07T02:53:47.582Z",
+    "title": "瑞银携手泛大西洋投资集团拓展私人信贷业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 10:46:50",
+    "uuid": "7bc19a5e-f712-4674-8976-cea7fd356631"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "联商网" },
       { "siteName": "新浪科技" },
@@ -170,6 +262,40 @@
     "up": false,
     "date": "2025-05-07 10:14:51",
     "uuid": "562615c2-d425-4725-8c86-3fa0baf400d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "人民银行行长潘功胜表示将降低存款准备金率0.5个百分点，释放约1万亿元流动性，同时下调政策利率0.1个百分点至1.4%，预计带动LPR下降0.1个百分点。",
+    "id": "8j9jtWr36C4",
+    "order": 1746586356363,
+    "createdAt": "2025-05-07T01:32:46.000Z",
+    "publishDate": "2025-05-07T02:52:36.363Z",
+    "title": "潘功胜：降低政策利率0.1百分点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 09:32:46",
+    "uuid": "e66de7d1-1e9a-474b-9b21-1554a65ebd32"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "xAI与Palantir科技公司及TWG Global合作，瞄准金融服务领域的人工智能需求。TWG将主导实施人工智能解决方案，整合xAI的“格罗克”系列模型和“巨人”超级计算机 ...",
+    "id": "8j8xYzss2n5",
+    "order": 1746586374180,
+    "createdAt": "2025-05-07T01:27:29.000Z",
+    "publishDate": "2025-05-07T02:52:54.180Z",
+    "title": "马斯克的xAI公司携手TWG Global和Palantir，推动人工智能在金融领域的应用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 09:27:29",
+    "uuid": "3326cb20-3bba-4936-839f-2ca6c0812a65"
   },
   {
     "newsArray": [
@@ -459,6 +585,29 @@
     "up": false,
     "date": "2025-05-07 07:19:26",
     "uuid": "6125f7b2-32ce-4203-b47f-d66a73d85e62"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "南方周末" },
+      { "siteName": "AMZ123" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "中方同意与美方进行接触，何立峰副总理将在访问瑞士期间与美国财长贝森特举行会谈，此次接触基于全球期待、中方利益及美国业界和消费者呼吁等因素考虑。",
+    "id": "8j9YKGHCpLf",
+    "order": 1746586495047,
+    "createdAt": "2025-05-06T23:12:47.000Z",
+    "publishDate": "2025-05-07T02:54:55.047Z",
+    "title": "商务部：中方决定同意与美方进行接触",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 07:12:47",
+    "uuid": "dd09a4ba-97bf-4859-8c2b-6e3b85ee7cb4"
   },
   {
     "newsArray": [
