@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "蔚来能源发布2025五一假期用户加电报告显示，期间用户行驶总里程超2.6亿公里，完成换电服务超63.4万次，单日换电量峰值突破13.4万次，超4.7万用户累计行驶里程超1,000公里，超5.1万用户单日行驶超500公里。",
+    "id": "8j9ucnUsNmT",
+    "order": 1746592377952,
+    "createdAt": "2025-05-07T04:32:58.000Z",
+    "publishDate": "2025-05-07T04:32:57.952Z",
+    "title": "蔚来能源：五一假期期间累计完成换电服务超63.4万次，单日换电量连续超12万次",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 12:32:58",
+    "uuid": "f5aba3dc-36df-4000-a780-fe725065f551"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "其中一项重要内容是使用由 Rust 编写的 Coreutils 工具集“uutils”来替代传统的 GNU Coreutils ...",
+    "id": "8j9qpeRF8VD",
+    "order": 1746591101274,
+    "createdAt": "2025-05-07T04:11:42.000Z",
+    "publishDate": "2025-05-07T04:11:41.274Z",
+    "title": "Ubuntu 25.10 将引入 Rust 核心组件",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 12:11:42",
+    "uuid": "8239bc45-57a8-4471-9467-c951e9e26f75"
+  },
+  {
+    "newsArray": [
       { "siteName": "智慧芽_新药情报库" },
       { "siteName": "医药魔方" },
       { "siteName": "医药魔方" }
