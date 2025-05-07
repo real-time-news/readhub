@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "萃华珠宝表示国际金价上涨影响终端黄金首饰价格，公司通过品牌溢价和工艺附加值保持销售稳健，并通过供应链管理和产品创新应对成本变化，部分品类需求增长。",
+    "id": "8jAUCa4AIPg",
+    "order": 1746620060544,
+    "createdAt": "2025-05-07T12:14:20.000Z",
+    "publishDate": "2025-05-07T12:14:20.544Z",
+    "title": "萃华珠宝：持续关注金价波动，通过灵活供应链管理及产品创新平衡成本与市场竞争力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 20:14:20",
+    "uuid": "9a22bff4-70f7-498f-a60e-0df33313163b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "华特迪士尼公司计划在阿联酋阿布扎比建设第七个地标性主题公园，并与Miral体验公司达成合作。",
+    "id": "8jATuBfqQpB",
+    "order": 1746619894279,
+    "createdAt": "2025-05-07T12:11:34.000Z",
+    "publishDate": "2025-05-07T12:11:34.279Z",
+    "title": "迪士尼将在阿布扎比设立首个中东主题乐园",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 20:11:34",
+    "uuid": "f24f3905-4ab0-42ca-a8fd-7bda19c080b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "谷歌与Elementl达成协议，将投资推动三个至少600兆瓦发电容量的先进核项目。",
+    "id": "8jATq1hamax",
+    "order": 1746619459489,
+    "createdAt": "2025-05-07T12:04:20.000Z",
+    "publishDate": "2025-05-07T12:04:19.489Z",
+    "title": "谷歌与Elementl签署先进核项目协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 20:04:20",
+    "uuid": "7e2d4a7a-aaee-416d-8325-19c06321635c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "汇丰推出特朗普关税贷款以帮助应对客户的进口成本。",
+    "id": "8jATpyD0qLi",
+    "order": 1746619401268,
+    "createdAt": "2025-05-07T12:03:22.000Z",
+    "publishDate": "2025-05-07T12:03:21.268Z",
+    "title": "消息称汇丰推出特朗普关税贷款以帮助应对客户的进口成本",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 20:03:22",
+    "uuid": "3e4ef3b6-132f-4ce8-bdf5-ed9a6b29f3c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "雷锋网" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "腾讯技术团队优化了DeepSeek开源的DeepEP通信框架，在RoCE网络环境下性能提升100%，IB网络环境下提升30% ...",
+    "id": "8jAOpzXXlYE",
+    "order": 1746619317211,
+    "createdAt": "2025-05-07T11:53:52.000Z",
+    "publishDate": "2025-05-07T12:01:57.211Z",
+    "title": "DeepSeek致谢腾讯大模型网络提速技术方案贡献，助力大模型通信性能提升30%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-07 19:53:52",
+    "uuid": "28b988f6-0b55-447d-a935-eea146046a1e"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
