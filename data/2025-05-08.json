@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "iVentoy 1.0.2版本在Windows安装过程中被发现存在安全漏洞，会安装不安全的内核驱动程序和自签名证书，引发用户担忧 ...",
+    "id": "8jBXsyeJJIH",
+    "order": 1746688064331,
+    "createdAt": "2025-05-08T07:07:45.000Z",
+    "publishDate": "2025-05-08T07:07:44.331Z",
+    "title": "iVentoy陷安全隐患风波，开发者已火速修复新版本",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 15:07:45",
+    "uuid": "612643cd-1c06-4d2e-b442-23135a7d7d8a"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -32,6 +49,24 @@
     "up": false,
     "date": "2025-05-08 14:51:38",
     "uuid": "c6b6af95-c71b-4e05-a56d-96db206a3704"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "任天堂发布财报，第四财季净利润416.2亿日元。",
+    "id": "8jBlr7A9NqY",
+    "order": 1746687778003,
+    "createdAt": "2025-05-08T06:49:52.000Z",
+    "publishDate": "2025-05-08T07:02:58.003Z",
+    "title": "任天堂第四财季净利润416.2亿日元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:49:52",
+    "uuid": "43dad872-26ce-4a3f-a7f4-92bf64c291a7"
   },
   {
     "newsArray": [
@@ -136,6 +171,24 @@
     "up": false,
     "date": "2025-05-08 14:25:54",
     "uuid": "0ce9bafc-9226-42c4-9031-7a906c8ad127"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "OpenAI宣布Instacart首席执行官Fidji Simo将加入并担任应用主管，奥特曼继续担任CEO并监督所有业务，Simo将在今年晚些时候正式加入OpenAI，同时继续担任Instacart董事会主席，新任Instacart CEO将很快公布。",
+    "id": "8jBhZxPvJW9",
+    "order": 1746687696086,
+    "createdAt": "2025-05-08T06:16:22.000Z",
+    "publishDate": "2025-05-08T07:01:36.086Z",
+    "title": "OpenAI聘Instacart首席执行官担任应用主管",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:16:22",
+    "uuid": "eb4db2b2-f0ea-4491-8453-8394c24e5217"
   },
   {
     "newsArray": [
@@ -752,6 +805,23 @@
     "up": false,
     "date": "2025-05-08 11:41:53",
     "uuid": "9ecc80ad-0d55-4fb1-82aa-bad3a06f49ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "苹果要求美国第九巡回上诉法院暂停执行一项裁决的关键条款，该裁决要求苹果向更多竞争对手开放应用商店 ...",
+    "id": "8jBW8lEcZd5",
+    "order": 1746687860497,
+    "createdAt": "2025-05-08T03:33:53.000Z",
+    "publishDate": "2025-05-08T07:04:20.497Z",
+    "title": "苹果要求美国上诉法院暂停执行Epic Games案裁决",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 11:33:53",
+    "uuid": "fc1c91f7-fb39-41d9-adb9-d4b9510f82c5"
   },
   {
     "newsArray": [
