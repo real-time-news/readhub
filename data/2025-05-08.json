@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OLED显示器出货量持续增长，2025年第一季度达50.7万台，同比增长175%，第二季度预计达65万台，全年出货量有望达到258万台，年增长率81%，渗透率提升至2%。",
+    "id": "8jBl8NhGE7B",
+    "order": 1746686791468,
+    "createdAt": "2025-05-08T06:46:33.000Z",
+    "publishDate": "2025-05-08T06:46:31.468Z",
+    "title": "TrendForce：2025年第一季OLED显示器出货量增长175%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:46:33",
+    "uuid": "d86ea38d-3e7b-41e3-ab07-90ae5ed52e01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Ubuntu 25.10 每日构建版已开放下载，代号为“Questing Quokka”，目前处于早期开发阶段。Canonical 邀请开发者和测试人员参与测试，协助完善系统 ...",
+    "id": "8jBN96qjZoQ",
+    "order": 1746686262635,
+    "createdAt": "2025-05-08T06:37:43.000Z",
+    "publishDate": "2025-05-08T06:37:42.635Z",
+    "title": "Ubuntu 25.10每日构建版开放下载",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:37:43",
+    "uuid": "6fb0bfc1-cd6d-450b-a989-783800297283"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "电商报" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "闲鱼在QuestMobile发布的《2025中国移动互联网春季报告》中表现亮眼，荣登“高线城市人群媒介偏好APP TOP榜”榜首，成为最受一二线城市人群喜爱的APP ...",
+    "id": "8jBkNmnahr1",
+    "order": 1746685924087,
+    "createdAt": "2025-05-08T06:32:05.000Z",
+    "publishDate": "2025-05-08T06:32:04.087Z",
+    "title": "闲鱼月活用户规模破2亿，增速位列电商类APP第一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:32:05",
+    "uuid": "bb97ec76-1929-42df-9d64-714c6fffc268"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "微软宣布全面支持谷歌推出的A2A协议，推动AI代理间的无缝协作。Azure AI Foundry和Copilot Studio将引入对A2A的支持，助力构建复杂高效的多代理工作流程 ...",
+    "id": "8jBNaLP20Av",
+    "order": 1746685631276,
+    "createdAt": "2025-05-08T06:27:12.000Z",
+    "publishDate": "2025-05-08T06:27:11.276Z",
+    "title": "微软携手谷歌A2A标准，共筑AI代理互操作新生态",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:27:12",
+    "uuid": "37e30262-9830-4e10-b74e-1ea82afa63dc"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" }
