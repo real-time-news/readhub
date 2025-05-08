@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "量子科技概念股拉升，海能达涨停，光韵达、亚光科技、佳缘科技、富士达跟涨。",
+    "id": "8jBkEiR6Rc1",
+    "order": 1746685554150,
+    "createdAt": "2025-05-08T06:25:54.000Z",
+    "publishDate": "2025-05-08T06:25:54.150Z",
+    "title": "量子科技概念股拉升，海能达午后涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:25:54",
+    "uuid": "0ce9bafc-9226-42c4-9031-7a906c8ad127"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英国4月Halifax季调后房价指数年率3.2%，高于预期2.6%，前值修正为2.9%。月率0.3%，好于预期的-0.1%，前值为-0.5%。",
+    "id": "8jBF2WcwhRg",
+    "order": 1746684948229,
+    "createdAt": "2025-05-08T06:15:49.000Z",
+    "publishDate": "2025-05-08T06:15:48.229Z",
+    "title": "英国4月Halifax季调后房价指数同比3.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:15:49",
+    "uuid": "5dd6a29d-6c56-44d2-9540-0433cc8c6440"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "摩根大通将优步目标股价从80美元上调至92美元。",
+    "id": "8jBj133SZ9H",
+    "order": 1746685249750,
+    "createdAt": "2025-05-08T06:15:28.000Z",
+    "publishDate": "2025-05-08T06:20:49.750Z",
+    "title": "小摩：将优步目标价上调至92美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:15:28",
+    "uuid": "3f823a8e-5c06-4cd2-8df7-bb214d89dc72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财经网" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "胖东来发布和田玉、翡翠退货说明，顾客如对商品价格品质有质疑，可到第三方权威机构评估，持购物凭证等即可办理无手续费退货，商品需无人为损坏。",
+    "id": "8jBg9kCGFwI",
+    "order": 1746685257354,
+    "createdAt": "2025-05-08T06:14:45.000Z",
+    "publishDate": "2025-05-08T06:20:57.354Z",
+    "title": "玉石风波后胖东来最新发声：顾客如需退货，不扣任何费用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:14:45",
+    "uuid": "d40b6802-e7ae-4327-b0da-7d9e7f3e7682"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "零跑汽车创始人朱江明回应网传年薪811.9万元不实，表示自己实际年薪仅8万元，主要用于缴纳社保。自2015年创立零跑至今，其累计领取薪酬不足200万元，年均收入约10万元 ...",
+    "id": "8jBf5zbDjKL",
+    "order": 1746684797150,
+    "createdAt": "2025-05-08T06:13:18.000Z",
+    "publishDate": "2025-05-08T06:13:17.150Z",
+    "title": "零跑朱江明称自己当前年薪8万：仅用于每月缴纳社保",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:13:18",
+    "uuid": "f0d7ce4a-f448-491a-b2aa-5adb093c434d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌推出专为 iPadOS 设计的 Gemini 应用，支持分屏多任务处理和多种强大功能，包括多语言对话、快速报告生成、音频概述扩展以及图像和视频创作等，大幅提升用户的工作与创作效率 ...",
+    "id": "8jBaUh3K6SA",
+    "order": 1746684323513,
+    "createdAt": "2025-05-08T06:05:23.000Z",
+    "publishDate": "2025-05-08T06:05:23.513Z",
+    "title": "谷歌发布专为 iPad 设计的 Gemini 应用，提升多任务处理体验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 14:05:23",
+    "uuid": "34cea906-3283-425c-a655-23d67e2bda7c"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
