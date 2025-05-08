@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" },
+      { "siteName": "雷锋网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "今年天猫618规则简化，仅设“官方立减”一种玩法，基础优惠85折起，最高立减50%。活动提前进行，第一波预售于5月13日晚8点开始，尾款支付和现货抢购时间为5月16日晚8点至5月26日晚12点。",
+    "id": "8jBYHGDrc1f",
+    "order": 1746675748734,
+    "createdAt": "2025-05-08T03:42:28.000Z",
+    "publishDate": "2025-05-08T03:42:28.734Z",
+    "title": "天猫618将于5月13日晚8点开启预售，官方立减最高减50%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 11:42:28",
+    "uuid": "05e7867b-1dc1-468e-ac6b-94c5d5e76e40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股手游股普遍上涨，游莱互动涨近8%，博雅互动涨超6%，腾讯等涨超2% ...",
+    "id": "8jBYHUGix5g",
+    "order": 1746675712878,
+    "createdAt": "2025-05-08T03:41:53.000Z",
+    "publishDate": "2025-05-08T03:41:52.878Z",
+    "title": "手游股普遍上涨 腾讯、创梦天地、友谊时光涨超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 11:41:53",
+    "uuid": "9ecc80ad-0d55-4fb1-82aa-bad3a06f49ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "医疗大模型在技术突破和政策推动下进入高速发展期，但商业化价值仍需进一步验证 ...",
+    "id": "8jBK4el0VH6",
+    "order": 1746675211400,
+    "createdAt": "2025-05-08T03:33:32.000Z",
+    "publishDate": "2025-05-08T03:33:31.400Z",
+    "title": "2025医疗大模型研究报告：近300个医疗大模型在院内外场景的赋能实践",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 11:33:32",
+    "uuid": "d722ab15-ca76-4594-baef-a5a8f5087945"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "复旦大学在建校120周年之际设立新文科发展基金，首期获校友曹国伟、王长田捐赠1亿元，将用于推动人文学科与社会科学创新，并通过开放管理汇聚更多社会资源。",
+    "id": "8jBWAhoATEm",
+    "order": 1746674585057,
+    "createdAt": "2025-05-08T03:23:05.000Z",
+    "publishDate": "2025-05-08T03:23:05.057Z",
+    "title": "复旦大学设立新文科发展基金，曹国伟、王长田联合捐赠1亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 11:23:05",
+    "uuid": "07d7b969-7a05-4c89-8cd5-0844fa42070a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "亚马逊宣布，在澳大利亚西部城市珀斯推出Prime会员免费当日达服务，继悉尼之后，珀斯成为全国第二个开通该服务的城市。",
+    "id": "8jAKWoLBOvx",
+    "order": 1746674528238,
+    "createdAt": "2025-05-08T03:22:09.000Z",
+    "publishDate": "2025-05-08T03:22:08.238Z",
+    "title": "亚马逊在澳洲珀斯上线Prime免费当日达服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 11:22:09",
+    "uuid": "b0f730ae-6c05-4219-a182-d11d4ec643c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "联想AIPC销量破百万台，服务器收入同比增长172%重回第一阵营。",
+    "id": "8jBRujElB2Y",
+    "order": 1746674363124,
+    "createdAt": "2025-05-08T03:19:23.000Z",
+    "publishDate": "2025-05-08T03:19:23.124Z",
+    "title": "联想刘军：联想AIPC累计销量已突破100万台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 11:19:23",
+    "uuid": "0929ccea-473b-4bc9-910a-c53578795dff"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "猎云网" },
       { "siteName": "电商报" },
@@ -156,6 +263,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "站长之家" },
+      { "siteName": "金融界" },
+      { "siteName": "电商报" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "小米SU7 Ultra量产版正挑战纽北赛道，该版本选配竞速套装并加装80KG全笼式防滚架。此前原型车创下6分46秒874的圈速纪录，成为纽北最速四门车。",
+    "id": "8jBPhH2zoxz",
+    "order": 1746674261415,
+    "createdAt": "2025-05-08T02:23:49.000Z",
+    "publishDate": "2025-05-08T03:17:41.415Z",
+    "title": "雷军：小米SU7Ultra量产版正挑战纽北赛道",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 10:23:49",
+    "uuid": "419adaac-1422-4475-8404-4db341680632"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "钛媒体" },
@@ -175,6 +302,23 @@
     "up": false,
     "date": "2025-05-08 10:09:10",
     "uuid": "9e88146b-43de-4ffe-af38-6907a469fbff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "万达电影公告显示，杭州臻希计划减持不超过2941万股，占总股本1.3927%，基于自身商业安排。杭州臻希为阿里巴巴关联企业，曾以每股51.96元参与万达电影战略投资 ...",
+    "id": "8jBQkTcj82u",
+    "order": 1746674283483,
+    "createdAt": "2025-05-08T02:07:59.000Z",
+    "publishDate": "2025-05-08T03:18:03.483Z",
+    "title": "阿里拟减持万达电影不超2941万股 套现或超3亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 10:07:59",
+    "uuid": "68aff3ea-2dc6-45cd-a054-34bb80f4e8f1"
   },
   {
     "newsArray": [
@@ -439,6 +583,25 @@
     "up": false,
     "date": "2025-05-08 05:51:35",
     "uuid": "83717639-f7ee-40ed-bd8d-0e559ef2f799"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "央行宣布降准0.5个百分点和降息0.1个百分点，以支持稳就业、稳企业、稳市场、稳预期 ...",
+    "id": "8jAZmizwC05",
+    "order": 1746675249796,
+    "createdAt": "2025-05-07T21:42:37.000Z",
+    "publishDate": "2025-05-08T03:34:09.796Z",
+    "title": "不光有降准降息，一揽子金融政策助力稳经济",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 05:42:37",
+    "uuid": "7b6c2fa1-ef27-481a-9036-e42829578a27"
   },
   {
     "newsArray": [
