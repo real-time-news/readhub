@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "阿里巴巴开源的ZeroSearch是一种强化学习框架，可激励大模型搜索能力，无需与真实搜索引擎交互。它利用大模型预训练知识生成相关内容，并能动态控制质量 ...",
+    "id": "8jCtCeLDY1Q",
+    "order": 1746746788306,
+    "createdAt": "2025-05-08T23:26:28.000Z",
+    "publishDate": "2025-05-08T23:26:28.306Z",
+    "title": "阿里巴巴开源创新大模型搜索引擎ZeroSearch，成本猛降80%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 07:26:28",
+    "uuid": "2d5a64da-8045-4660-b5af-270fd4e0bacd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "AI药物研发公司英矽智能再次向港交所提交上市申请，联席保荐人为摩根士丹利、中金公司和广发证券（香港）。",
+    "id": "8jCSlTd6aWK",
+    "order": 1746746722931,
+    "createdAt": "2025-05-08T23:25:23.000Z",
+    "publishDate": "2025-05-08T23:25:22.931Z",
+    "title": "英矽智能再次向港交所提交上市申请",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 07:25:23",
+    "uuid": "5bafff0e-de22-49cb-bed0-bb238ad26493"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" }
