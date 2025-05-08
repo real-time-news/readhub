@@ -1,6 +1,125 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "数字尾巴" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为在深圳举办鸿蒙电脑技术与生态沟通会，正式推出搭载HarmonyOS 5的鸿蒙电脑，完善了“1+8+N”全场景生态 ...",
+    "id": "8jBSsyeo9m5",
+    "order": 1746678217322,
+    "createdAt": "2025-05-08T04:23:37.000Z",
+    "publishDate": "2025-05-08T04:23:37.322Z",
+    "title": "HarmonyOS 5重构电脑体验，鸿蒙操作系统在电脑端首次亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 12:23:37",
+    "uuid": "d239f072-adde-4be4-b014-0b65e725eb9d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英特尔发布 0x12F 新微码以改善 13/14 代酷睿处理器在特定条件下的稳定性问题，建议用户更新 BIOS 并使用默认配置文件 ...",
+    "id": "8jBQkO5pgux",
+    "order": 1746677246701,
+    "createdAt": "2025-05-08T04:07:27.000Z",
+    "publishDate": "2025-05-08T04:07:26.701Z",
+    "title": "英特尔再发0x12F微码，进一步改善第13/14代酷睿不稳定问题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 12:07:27",
+    "uuid": "606b6a54-681d-4b53-be25-fc19c80689a3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "站长之家" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "Anthropic推出新API，使AI模型Claude可进行网络搜索，提供最新信息。开发者能构建基于Claude的应用，无需自行管理搜索基础设施 ...",
+    "id": "8jBXMj71tbE",
+    "order": 1746677178765,
+    "createdAt": "2025-05-08T04:06:19.000Z",
+    "publishDate": "2025-05-08T04:06:18.765Z",
+    "title": "Anthropic 推出 AI 驱动的网络搜索 API",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 12:06:19",
+    "uuid": "36838212-55f0-40d6-9289-f6832a3b428d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新芽" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "广州瑞臻再生医学科技有限公司完成近亿元Pre-A轮融资，由科金控股、万联天泽、金诚投资及原有股东共同投资 ...",
+    "id": "8jBK4cys8o3",
+    "order": 1746677163838,
+    "createdAt": "2025-05-08T04:06:04.000Z",
+    "publishDate": "2025-05-08T04:06:03.838Z",
+    "title": "专注iPSC 生物制造，瑞臻再生医学完成近亿元Pre-A轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 12:06:04",
+    "uuid": "8b7b02b9-7a6c-45af-89e4-303f4d3f98e0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "智慧芽_新药情报库" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "远大医药的全球创新药物STC3141在中国开展的脓毒症II期临床研究成功达到主要终点，该研究为多中心、随机、双盲、安慰剂对照试验，主要评估STC314注射液在脓毒症患者中的疗效、安全性和药代动力学特征，主要终点为第7天SOFA评分较基线的变化值。",
+    "id": "8j8jjDO7Yco",
+    "order": 1746677139952,
+    "createdAt": "2025-05-08T04:05:39.000Z",
+    "publishDate": "2025-05-08T04:05:39.952Z",
+    "title": "远大医药脓毒症新药 II 期成功，重构免疫稳态",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 12:05:39",
+    "uuid": "ffa14abe-e31f-412b-bcff-29ab616675d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "宏英智能部分产品可应用于工业机器人领域，公司正加大开发力度拓展相关部件。",
+    "id": "8jBOF8TZlTo",
+    "order": 1746677120806,
+    "createdAt": "2025-05-08T04:05:21.000Z",
+    "publishDate": "2025-05-08T04:05:20.806Z",
+    "title": "宏英智能：部分产品可适用于工业机器人领域",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 12:05:21",
+    "uuid": "ce7d30d5-b9fa-4e20-8cae-62632cdd1c9f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智慧芽_新药情报库" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "礼来与Alchemab Therapeutics达成授权协议，获取其早期渐冻症疗法，展现礼来在该治疗领域的深耕决心，并为疾病研究带来新希望。",
+    "id": "8j9dT5QEn7v",
+    "order": 1746677023475,
+    "createdAt": "2025-05-08T04:03:43.000Z",
+    "publishDate": "2025-05-08T04:03:43.475Z",
+    "title": "礼来 4.15 亿美元布局渐冻症疗法，强化研发管线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-08 12:03:43",
+    "uuid": "2f0fb4a3-d26d-4773-9f3f-743f7baa00ae"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "网易科技" },
       { "siteName": "电商报" }
