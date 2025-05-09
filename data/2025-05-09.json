@@ -1,6 +1,187 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "比尔·盖茨宣布将在未来二十年内通过盖茨基金会捐出几乎全部个人财产，专注于全球健康、教育和减贫事业，并计划于2045年底关闭基金会 ...",
+    "id": "8jCzCeNk7Md",
+    "order": 1746753530192,
+    "createdAt": "2025-05-09T01:18:51.000Z",
+    "publishDate": "2025-05-09T01:18:50.192Z",
+    "title": "比尔·盖茨：誓20年内捐出全部财富，称财富应回馈社会",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:18:51",
+    "uuid": "f769b21e-f96d-4e3e-98b4-1b4f7286f1ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "马斯克的人工智能公司xAI正洽谈新一轮融资，估值或达1200亿美元。",
+    "id": "8jD2WCsA6rL",
+    "order": 1746753512726,
+    "createdAt": "2025-05-09T01:18:33.000Z",
+    "publishDate": "2025-05-09T01:18:32.726Z",
+    "title": "xAI据悉正洽谈筹集新一轮融资 估值或高达1200亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:18:33",
+    "uuid": "fb3e2f6a-1e15-410f-bbd2-573e292b61e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "证监会发布《推动公募基金高质量发展行动方案》，强调务实与灵活，重点包括普及浮动费率、降低综合费率、建立收益挂钩薪酬机制、鼓励科技子公司创新等 ...",
+    "id": "8jD1498UT0L",
+    "order": 1746753461602,
+    "createdAt": "2025-05-09T01:17:41.000Z",
+    "publishDate": "2025-05-09T01:17:41.602Z",
+    "title": "中信证券：公募基金新规扶优限劣 聚焦长期主义",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:17:41",
+    "uuid": "1f4e24f7-3d16-4a4c-864e-b063e5c3caab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "渝厦高铁重庆东至黔江段联调联试结束，进入运行试验阶段。",
+    "id": "8jD39qWJrtm",
+    "order": 1746753382879,
+    "createdAt": "2025-05-09T01:16:23.000Z",
+    "publishDate": "2025-05-09T01:16:22.879Z",
+    "title": "渝厦高铁重庆段进入运行试验阶段",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:16:23",
+    "uuid": "7a970707-92ba-4973-9cb2-c01dc13857c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "中芯国际联合CEO赵海军表示，因工厂生产波动，一季度后半期平均销售单价下降，收入未达预期，影响将延续至二季度。",
+    "id": "8jD39B4255A",
+    "order": 1746753215990,
+    "createdAt": "2025-05-09T01:13:35.000Z",
+    "publishDate": "2025-05-09T01:13:35.990Z",
+    "title": "中芯国际赵海军：生产性波动致Q1收入未达预期，影响将延续至Q2",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:13:35",
+    "uuid": "9bbb1219-d594-487f-8577-488cdd8956d7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "欧盟公布对美关税反制清单，若欧美贸易谈判失败，将对美国输欧产品加征报复性关税，涉及民用飞机、汽车、医疗器械、农产品等，总值950亿欧元 ...",
+    "id": "8jCAp2KbH7z",
+    "order": 1746753191132,
+    "createdAt": "2025-05-09T01:13:12.000Z",
+    "publishDate": "2025-05-09T01:13:11.132Z",
+    "title": "欧盟公布对美关税反制清单，瞄准美国飞机等产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:13:12",
+    "uuid": "ab08e2bb-d226-497f-a6bf-84d39b178f2d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "4月份中国电商物流指数为111.1点，较上月回升1.1点，主要分项指数均实现环比回升，显示线上消费增长势头良好。",
+    "id": "8jD2r81Jl1A",
+    "order": 1746753124241,
+    "createdAt": "2025-05-09T01:12:05.000Z",
+    "publishDate": "2025-05-09T01:12:04.241Z",
+    "title": "4月份我国电商物流指数继续上升，势头良好",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:12:05",
+    "uuid": "c7dc648c-9413-431a-8a48-8560b1bb1c15"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "上汽集团移动出行战略品牌享道出行今日宣布完成超13亿元C轮融资，由产业基金与地方政府加持 ...",
+    "id": "8jD2TNiWSVw",
+    "order": 1746753535406,
+    "createdAt": "2025-05-09T01:07:34.000Z",
+    "publishDate": "2025-05-09T01:18:55.406Z",
+    "title": "上汽享道出行完成超13亿元C轮融资，拟赴港IPO",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:07:34",
+    "uuid": "a8cfb75b-371d-494e-8c16-1128496ecddf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "多晶硅、氧化铝涨超4%，集运欧线、低硫燃料油、PX等上涨。沪金跌近2%，螺纹、焦煤、热卷跌超1%。",
+    "id": "8jD2TwWegSV",
+    "order": 1746752609707,
+    "createdAt": "2025-05-09T01:03:30.000Z",
+    "publishDate": "2025-05-09T01:03:29.707Z",
+    "title": "国内期货主力合约早盘开盘普涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:03:30",
+    "uuid": "91d9d6e5-7ed0-4da1-b543-698e7d03b0f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "一季度，中央汇金通过增持多只沪深300ETF间接为银行股带来增量资金，重仓的8只银行股持仓数量有所变化。社保基金重仓5只银行股，合计持仓数量增加 ...",
+    "id": "8jCw3SyzISz",
+    "order": 1746753156715,
+    "createdAt": "2025-05-08T23:44:47.000Z",
+    "publishDate": "2025-05-09T01:12:36.715Z",
+    "title": "一季度银行板块资金动向浮出水面 多路中长期资金涌入",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 07:44:47",
+    "uuid": "67b54f17-587a-4f51-9242-5cda9f28cf85"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" }
