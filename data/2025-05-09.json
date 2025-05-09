@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "沪深两市成交额突破5000亿，较昨日此时放量超200亿，预计全天成交金额约1.25万亿。",
+    "id": "8jD8CmORPq4",
+    "order": 1746758210710,
+    "createdAt": "2025-05-09T02:36:51.000Z",
+    "publishDate": "2025-05-09T02:36:50.710Z",
+    "title": "沪深两市成交额突破5000亿 预计全天成交超1.2万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 10:36:51",
+    "uuid": "d7c98447-4cb1-4c81-a35d-c849a4356e0b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "马斯克旗下xAI正洽谈新一轮融资，估值或达1200亿美元，投资者拟注资200亿美元。目前谈判处于早期阶段，估值可能波动 ...",
+    "id": "8jD4ul6SN37",
+    "order": 1746758026468,
+    "createdAt": "2025-05-09T02:33:47.000Z",
+    "publishDate": "2025-05-09T02:33:46.468Z",
+    "title": "马斯克XAI被曝正洽谈新一轮融资 估值可达1200亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 10:33:47",
+    "uuid": "d5db4b3e-47e0-4c37-9875-22f39486f64e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI为ChatGPT深度研究工具新增GitHub连接器功能，允许用户关联GitHub账户并分析私有或公开代码库 ...",
+    "id": "8jD3AwFvBKn",
+    "order": 1746757988374,
+    "createdAt": "2025-05-09T02:33:09.000Z",
+    "publishDate": "2025-05-09T02:33:08.374Z",
+    "title": "OpenAI新升级：ChatGPT可直连GitHub，智能解析代码问题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 10:33:09",
+    "uuid": "24275d69-ba7e-4678-933a-e991a8fd7fb9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "电力板块活跃，晋控电力涨停，淮河能源曾涨停，九洲集团、华电辽能、京运通跟涨。",
+    "id": "8jD7zTbECft",
+    "order": 1746758349497,
+    "createdAt": "2025-05-09T02:24:16.000Z",
+    "publishDate": "2025-05-09T02:39:09.497Z",
+    "title": "电力板块反复活跃，晋控电力涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 10:24:16",
+    "uuid": "31300b8b-2029-4a4f-8eae-40b59e68244b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" }
+    ],
+    "summary": "苏州市吴中人工智能产业园和低空经济产业园运营管理公司成立，法定代表人分别为胡勇和毛银山，注册资本均为1亿人民币，经营范围涵盖园区管理、房地产租赁、物业管理等 ...",
+    "id": "8jBvxBOkCWV",
+    "order": 1746758231739,
+    "createdAt": "2025-05-09T02:23:42.000Z",
+    "publishDate": "2025-05-09T02:37:11.739Z",
+    "title": "苏州吴中成立人工智能及低空经济产业园运管公司 注册资本共2亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 10:23:42",
+    "uuid": "0641c34c-7e30-4599-a06f-456570d37b69"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "联商网" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "沪上阿姨在港交所上市首日大涨40.03%，成为年内第四家上市的新茶饮企业。新茶饮赛道竞争激烈，蜜雪集团、古茗等表现突出，而奈雪的茶和茶百道股价表现不佳 ...",
+    "id": "8jD5IK0AsWV",
+    "order": 1746757388257,
+    "createdAt": "2025-05-09T02:23:08.000Z",
+    "publishDate": "2025-05-09T02:23:08.257Z",
+    "title": "新茶饮企业掀起上市热 沪上阿姨登陆港股市场首日大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 10:23:08",
+    "uuid": "428de08d-ffbf-4c30-9a74-01a5fae60a57"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "马斯克旗下的星链卫星互联网设备因便携性和广泛覆盖能力，被东南亚电诈园区非法利用，增加了多国执法部门反诈工作的难度 ...",
+    "id": "8jD2WQyQdU6",
+    "order": 1746757165435,
+    "createdAt": "2025-05-09T02:19:26.000Z",
+    "publishDate": "2025-05-09T02:19:25.435Z",
+    "title": "马斯克星链被质疑成电诈帮凶：相关设备被广泛使用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 10:19:26",
+    "uuid": "7a9865ed-bde4-45e5-961a-69540ab36f94"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LinkedIn推出新AI生成工具，用户可通过自然语言描述理想职位进行搜索，如“时尚行业入门级品牌经理”或“热爱可持续发展的分析师职位” ...",
+    "id": "8jBzknmAcmq",
+    "order": 1746756894895,
+    "createdAt": "2025-05-09T02:14:55.000Z",
+    "publishDate": "2025-05-09T02:14:54.895Z",
+    "title": "领英推出全新 AI 工具，帮助用户搜索心仪工作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 10:14:55",
+    "uuid": "70c5dbdd-8973-4bbe-bc23-7acfaffa30dc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财经网" }
+    ],
+    "summary": "证监会发布公募基金高质量发展方案，强调以投资者为本，推动行业从重规模向重回报转型 ...",
+    "id": "8jD4gHVPtTs",
+    "order": 1746758079133,
+    "createdAt": "2025-05-09T01:53:25.000Z",
+    "publishDate": "2025-05-09T02:34:39.133Z",
+    "title": "华夏基金发声：完善“关键少数”考核，强化与投资者利益绑定",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:53:25",
+    "uuid": "b00deaef-3463-4d9e-baa8-a2beaf247c35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "纺织服饰板块盘初走强，华纺股份、飞亚达涨停，戎美股份、万里马、众望布艺、华斯股份跟涨。",
+    "id": "8jD4zb5LGoo",
+    "order": 1746756816045,
+    "createdAt": "2025-05-09T01:43:27.000Z",
+    "publishDate": "2025-05-09T02:13:36.045Z",
+    "title": "纺织服饰板块盘初走强，华纺股份、飞亚达涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-09 09:43:27",
+    "uuid": "2ca244a1-d869-479f-9b7d-6fd40fb5c2bb"
+  },
+  {
+    "newsArray": [
       { "siteName": "i黑马" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "站长之家" }
