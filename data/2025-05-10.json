@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "谷歌在Gemini API中推出隐式缓存新功能，帮助第三方开发者使用最新AI模型时最多节省75%成本，尤其在处理重复性上下文时效果显著 ...",
+    "id": "8jDSLo3jkRS",
+    "order": 1746850646220,
+    "createdAt": "2025-05-10T04:17:26.000Z",
+    "publishDate": "2025-05-10T04:17:26.220Z",
+    "title": "谷歌Gemini API推出隐式缓存新功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-10 12:17:26",
+    "uuid": "41420a73-4c69-476b-95e6-e0643a0f15f0"
+  },
+  {
+    "newsArray": [
       { "siteName": "智慧芽_新药情报库" },
       { "siteName": "医药魔方" },
       { "siteName": "医药魔方" }
