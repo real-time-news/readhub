@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "阿里巴巴Qwen于5月12日发布Qwen3量化模型，支持多平台部署，提供多种格式，便于本地使用。用户可通过Hugging Face和ModelScope获取相关模型 ...",
+    "id": "8jJW7Rey3lW",
+    "order": 1747093308614,
+    "createdAt": "2025-05-12T23:41:49.000Z",
+    "publishDate": "2025-05-12T23:41:48.614Z",
+    "title": "阿里巴巴Qwen发布Qwen3量化模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 07:41:49",
+    "uuid": "039ec5fb-d02c-4a9c-abc4-499e03a80ffb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日本电信电话株式会社将于7月1日正式更名为NTT，同时计划完全吸收合并子公司NTT DATA，以优化决策结构、减少利益冲突并增强国际业务协同效应。",
+    "id": "8jIRDjn3KQD",
+    "order": 1747093127799,
+    "createdAt": "2025-05-12T23:38:48.000Z",
+    "publishDate": "2025-05-12T23:38:47.799Z",
+    "title": "日本电信电话株式会社将正式成为 NTT，商号变更 7 月 1 日生效",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 07:38:48",
+    "uuid": "0c79034a-23fb-4825-84ba-c4de8750a9a9"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "第一财经" }
@@ -189,6 +223,24 @@
     "up": false,
     "date": "2025-05-13 05:49:29",
     "uuid": "5db87827-d07d-421b-9ae2-d4f1ae4f87f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "谷歌宣布启动新基金“人工智能未来基金”，投资人工智能初创企业。符合条件的公司将获得资金支持、提前使用AI模型的机会及谷歌专家的实际帮助，还有谷歌云使用积分 ...",
+    "id": "8jJ8VEYFzq3",
+    "order": 1747093335920,
+    "createdAt": "2025-05-12T21:43:13.000Z",
+    "publishDate": "2025-05-12T23:42:15.920Z",
+    "title": "谷歌推出人工智能初创企业基金，提供新模型和工具使用权限",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 05:43:13",
+    "uuid": "c5fe1d69-e35f-4ce9-8a2a-e43523807e75"
   },
   {
     "newsArray": [
