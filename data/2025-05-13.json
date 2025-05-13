@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "软银集团愿景基金2024全年亏损1150.2亿日元。",
+    "id": "8jK4taejKvr",
+    "order": 1747119252211,
+    "createdAt": "2025-05-13T06:54:12.000Z",
+    "publishDate": "2025-05-13T06:54:12.211Z",
+    "title": "软银集团愿景基金2024全年亏损1150.2亿日元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 14:54:12",
+    "uuid": "dc97e0a3-7a62-4732-bb82-ba9945ae35ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2024年全球芯片市场收入达6830亿美元，同比增长25%，主要由AI相关芯片和内存需求推动，其中英伟达跃居首位，三星、SK海力士和美光进入前七名 ...",
+    "id": "8jJnl4uRQkN",
+    "order": 1747119100422,
+    "createdAt": "2025-05-13T06:51:40.000Z",
+    "publishDate": "2025-05-13T06:51:40.422Z",
+    "title": "全球芯片TOP 10：英伟达称霸，ST和英飞凌落榜",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 14:51:40",
+    "uuid": "78a5e3d7-4106-45c7-a567-7c5d6670282f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "为规范行政处罚裁量权，保护合法权益，国家发改委办公厅制定《国家发展改革委行政处罚裁量规则》，适用于对违反法律法规规章行为的处罚，以及国家能源局、国家数据局以国家发改委名义实施的行政处罚。",
+    "id": "8jK3jGiAkvi",
+    "order": 1747119047676,
+    "createdAt": "2025-05-13T06:50:48.000Z",
+    "publishDate": "2025-05-13T06:50:47.676Z",
+    "title": "国家发改委印发《国家发展改革委行政处罚裁量规则》",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 14:50:48",
+    "uuid": "99ee7ee9-f0fd-4a0e-a139-58efe5b4808e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "开阳实验室与新加坡南洋理工大学在芜湖签约，建立奇瑞全球开源计划首个海外协同创新中心，聚焦新能源智能网联汽车关键技术及人才培养合作。",
+    "id": "8jJbqdN10o3",
+    "order": 1747118998177,
+    "createdAt": "2025-05-13T06:49:59.000Z",
+    "publishDate": "2025-05-13T06:49:58.177Z",
+    "title": "奇瑞全球开源计划首个海外协同创新中心落地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 14:49:59",
+    "uuid": "1847b120-4180-4235-a6a5-0ba5e00fb912"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "微软取消了此前的升级限制，允许使用 Safe Exam Browser 3.8 或更高版本的用户升级至 Windows 11 24H2 ...",
+    "id": "8jJruHWJmRB",
+    "order": 1747118874908,
+    "createdAt": "2025-05-13T06:47:54.000Z",
+    "publishDate": "2025-05-13T06:47:54.908Z",
+    "title": "微软解除 Safe Exam Browser 升级限制",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 14:47:54",
+    "uuid": "bc36a2ba-3ac9-425c-be29-336110341d57"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" },
       { "siteName": "第一财经" }
@@ -35,6 +122,24 @@
     "up": false,
     "date": "2025-05-13 14:43:13",
     "uuid": "b9b8149d-761f-4c08-904f-29b602260128"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "月之暗面正在布局AI医疗产品，以优化其旗下产品Kimi在专业领域的搜索质量，尤其是财经、法律和医学领域，旨在提供更可信的高质量回答 ...",
+    "id": "8jK3CEa4ueF",
+    "order": 1747118804083,
+    "createdAt": "2025-05-13T06:34:16.000Z",
+    "publishDate": "2025-05-13T06:46:44.083Z",
+    "title": "Kimi布局AI+医疗",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 14:34:16",
+    "uuid": "4846f5a4-f6a3-42b7-9e7f-862bea9b860b"
   },
   {
     "newsArray": [
