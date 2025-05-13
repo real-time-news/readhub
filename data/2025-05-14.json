@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI考虑在阿联酋建设数据中心，可能扩大中东业务布局，最早或于特朗普中东访问期间宣布。成败关键在于能否成功获取英伟达尖端芯片，美国正计划放宽对阿联酋的芯片销售限制。",
+    "id": "8jKvHVxH5vJ",
+    "order": 1747172961130,
+    "createdAt": "2025-05-13T21:49:22.000Z",
+    "publishDate": "2025-05-13T21:49:21.130Z",
+    "title": "OpenAI考虑在阿联酋建设数据中心 特朗普中东之行期间或官宣",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-14 05:49:22",
+    "uuid": "11ebd5f1-9e3b-4d99-b20a-ad0b4900a3f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "macOS将新增实时监测功能，防止应用未经授权读取剪贴板内容，检测到违规行为时会弹出安全警示。此更新使macOS在剪贴板管理上与iOS看齐，强化用户隐私保护 ...",
+    "id": "8jJbpgToig6",
+    "order": 1747172821811,
+    "createdAt": "2025-05-13T21:47:02.000Z",
+    "publishDate": "2025-05-13T21:47:01.811Z",
+    "title": "苹果macOS 16将严管应用剪贴板访问，保障用户隐私安全",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-14 05:47:02",
+    "uuid": "606eced8-2843-4b3b-820a-9be9cfe18985"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果发布了watchOS 11.5正式版，带来全新“彩虹和谐”表盘及配套彩虹版运动型表带，售价379元 ...",
+    "id": "8jJVOi6gWan",
+    "order": 1747172808187,
+    "createdAt": "2025-05-13T21:46:50.000Z",
+    "publishDate": "2025-05-13T21:46:48.187Z",
+    "title": "苹果 watchOS 11.5 正式版发布，带来全新“彩虹和谐”表盘",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-14 05:46:50",
+    "uuid": "dfcd0add-7e13-4ba4-9ceb-c28ec8490eae"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "手机中国" },
       { "siteName": "凤凰科技" }
