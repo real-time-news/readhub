@@ -1,6 +1,132 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "星纪魅族宣布智能座舱系统Flyme Auto合作车型累计销量突破100万辆，用户总量达1033666 ...",
+    "id": "8jK6BgAuTfG",
+    "order": 1747132538157,
+    "createdAt": "2025-05-13T10:35:38.000Z",
+    "publishDate": "2025-05-13T10:35:38.157Z",
+    "title": "星纪魅族 Flyme Auto 合作车型销量破百万 开启无界智行新时代",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:35:38",
+    "uuid": "dd09ed4e-7421-4a36-85e8-0a6e1aa325bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "DeepSeek今日登上微博热搜第二，不少网友反馈一直在转圈、无法使用。",
+    "id": "8jKK8n3CEOA",
+    "order": 1747132434764,
+    "createdAt": "2025-05-13T10:33:54.000Z",
+    "publishDate": "2025-05-13T10:33:54.764Z",
+    "title": "DeepSeek崩上热搜 内部人员回应：正在处理中，请稍后尝试",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:33:54",
+    "uuid": "d9d4b652-3815-4695-9a24-d0bcde515d94"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "联邦快递与亚马逊签署新合作协议，将负责部分包裹递送，其股价盘后上涨0.9%。此前双方曾中断合作，此次再度联手将影响物流行业格局。",
+    "id": "8jJQbe9MasD",
+    "order": 1747132387595,
+    "createdAt": "2025-05-13T10:33:07.000Z",
+    "publishDate": "2025-05-13T10:33:07.595Z",
+    "title": "联邦快递与亚马逊重启合作 股价应声上涨0.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:33:07",
+    "uuid": "f0b42a89-dfe9-4fdf-8f48-f90be82769e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "虎牙2025年第一季度总收入15.1亿元，净利润2400万元，游戏相关服务、广告和其他业务收入同比增长52.1%至3.7亿元。移动端MAU达8340万，付费用户440万。",
+    "id": "8jKJTu14jjT",
+    "order": 1747131977668,
+    "createdAt": "2025-05-13T10:26:18.000Z",
+    "publishDate": "2025-05-13T10:26:17.668Z",
+    "title": "虎牙：2025年第一季度总收入15.1亿元，净利润为2400万元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:26:18",
+    "uuid": "5d89c701-b4eb-4f73-9973-c7d69e10b876"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "丹麦能源公司European Energy宣布全球首个商业级规模电子甲醇工厂Kassø电子甲醇工厂正式落成，准备向马士基、乐高和诺和诺德等合作伙伴交付，工厂年产能4.2万吨，完全使用可再生能源，与三井物产合作运营。",
+    "id": "8jKK5I2Zgva",
+    "order": 1747132606469,
+    "createdAt": "2025-05-13T10:23:58.000Z",
+    "publishDate": "2025-05-13T10:36:46.469Z",
+    "title": "全球首个商业级规模电子甲醇工厂落成 将向马士基、诺和诺德等公司供货",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:23:58",
+    "uuid": "bd4f6b35-7f30-45e7-8724-b295249330f9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "巨人网络与火山引擎合作，将豆包大模型接入游戏《太空杀》，提升AI原生游戏玩法。火山引擎还为巨人网络提供大模型训练和算力支持，助力自研大模型优化 ...",
+    "id": "8jKDu9TO1x2",
+    "order": 1747131820092,
+    "createdAt": "2025-05-13T10:21:55.000Z",
+    "publishDate": "2025-05-13T10:23:40.092Z",
+    "title": "巨人网络与字节跳动旗下火山引擎开展AI合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:21:55",
+    "uuid": "285302d8-cf26-4335-9ab7-50aa7d4647bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "西藏拉萨南亚跨境电商产业园正式运营，总面积1.6万平方米，配有1800平方米尼泊尔海外仓。园区集商品展示、仓储物流、通关服务等功能于一体，重点发展面向南亚的跨境电商业务 ...",
+    "id": "8jKEhQpwXfc",
+    "order": 1747131274394,
+    "createdAt": "2025-05-13T10:14:34.000Z",
+    "publishDate": "2025-05-13T10:14:34.394Z",
+    "title": "西藏拉萨南亚跨境电商产业园正式揭牌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:14:34",
+    "uuid": "e1e608cd-8f30-44af-b802-9113ef8db225"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "电商报" },
       { "siteName": "电商报" }
@@ -36,6 +162,41 @@
   {
     "newsArray": [
       { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "威胜信息公告，股东邹启明计划减持不超过600万股，占总股本1.2203%，减持时间为2025年6月5日至9月4日。",
+    "id": "8jKJLV5SGdj",
+    "order": 1747132604395,
+    "createdAt": "2025-05-13T10:12:14.000Z",
+    "publishDate": "2025-05-13T10:36:44.395Z",
+    "title": "威胜信息：股东邹启明拟减持不超总股本的1.22%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:12:14",
+    "uuid": "788e17ce-9767-4f95-a96a-35392407aae2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "环球音乐集团宣布任命马特·埃利斯为首席财务官，他将于6月9日上任，此前他曾担任威瑞森通信执行副总裁兼首席财务官。",
+    "id": "8jKHFw0ooYB",
+    "order": 1747131832431,
+    "createdAt": "2025-05-13T10:10:03.000Z",
+    "publishDate": "2025-05-13T10:23:52.431Z",
+    "title": "环球音乐集团任命马特·埃利斯为首席财务官",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:10:03",
+    "uuid": "c9866bbd-665e-4a7e-9346-95cd3fd3850d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
       { "siteName": "第一财经" },
       { "siteName": "格隆汇" }
     ],
@@ -49,6 +210,24 @@
     "up": false,
     "date": "2025-05-13 18:08:31",
     "uuid": "f5796aa4-4dc6-4940-94e2-044adeae1ff8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "海南华铁计划以自有资金及贷款通过集中竞价交易方式回购2至3亿元的A股股票，回购价不超15.95元/股，股份将用于员工持股计划或股权激励。",
+    "id": "8jKId3FgMnv",
+    "order": 1747131979925,
+    "createdAt": "2025-05-13T10:08:09.000Z",
+    "publishDate": "2025-05-13T10:26:19.925Z",
+    "title": "海南华铁：拟2亿元-3亿元回购公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 18:08:09",
+    "uuid": "c5f0a293-bb08-4417-8210-31a329838d10"
   },
   {
     "newsArray": [
