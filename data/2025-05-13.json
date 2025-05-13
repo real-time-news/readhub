@@ -1,6 +1,65 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "自2025年5月14日12时01分起，我国调整对原产于美国的进口商品加征关税措施，将加征税率由34%降至10%，暂停实施24%的加征税率90天，并停止执行此前相关公告中的加征关税措施。",
+    "id": "8jKZsDkQzFu",
+    "order": 1747144997635,
+    "createdAt": "2025-05-13T14:03:17.000Z",
+    "publishDate": "2025-05-13T14:03:17.635Z",
+    "title": "国务院关税税则委员会：调整对原产于美国的进口商品加征关税措施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 22:03:17",
+    "uuid": "cf05c432-bdf2-4aa0-a1f7-270b92bf50fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "松下集团否认将放弃马达产品业务的报道，表示对该业务充满信心并将加大投入。同时，集团计划在2025至2026年度实施人员优化措施，而非此前传闻的时间节点 ...",
+    "id": "8jKFnVe3wUT",
+    "order": 1747144942564,
+    "createdAt": "2025-05-13T14:02:23.000Z",
+    "publishDate": "2025-05-13T14:02:22.564Z",
+    "title": "松下回应：马达业务前景佳，2025年无退出或出售计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 22:02:23",
+    "uuid": "e2583a6e-fcfd-4267-9092-7859327b8470"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "今日吉利银河App出现崩溃，导致车控功能无法使用，车主无法开车或进入车辆。官方称因运营服务商网络波动造成，已紧急处理并修复问题，请用户耐心等待。",
+    "id": "8jKWE0Re7lq",
+    "order": 1747145051586,
+    "createdAt": "2025-05-13T13:54:34.000Z",
+    "publishDate": "2025-05-13T14:04:11.586Z",
+    "title": "吉利银河 App 出现服务问题，官方回应称运营服务商网络波动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-13 21:54:34",
+    "uuid": "fa8025f9-e3a8-4d48-a7b6-ac35c18a3937"
+  },
+  {
+    "newsArray": [
       { "siteName": "199IT" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "aibase" }
