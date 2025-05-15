@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Stability AI 推出可在手机端运行的音频生成模型 Stable Audio Open Small，该模型与 Arm 公司合作开发，基于免版税音频库训练，含 3.41 亿参数，专为快速生成短音频采样和音效设计，能在 8 秒内生成 11 秒长的音频。",
+    "id": "8jN1yxnnnRo",
+    "order": 1747297157670,
+    "createdAt": "2025-05-15T08:19:19.000Z",
+    "publishDate": "2025-05-15T08:19:17.670Z",
+    "title": "Stability AI 发布全新音频生成模型，可在端侧运行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-15 16:19:19",
+    "uuid": "cfef3fd9-934a-4621-919e-d3c2215be33b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "国金证券2024年度第三期短期融资券完成兑付，本息共计10.14亿元，发行金额10亿元，票面利率2.03%，期限245天。",
+    "id": "8jNTDTQAn8X",
+    "order": 1747297105967,
+    "createdAt": "2025-05-15T08:18:27.000Z",
+    "publishDate": "2025-05-15T08:18:25.967Z",
+    "title": "国金证券：兑付短期融资券本息10.14亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-15 16:18:27",
+    "uuid": "89de1151-805b-4e6a-8ffc-99b15c5aa2a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "开源中国" },
+      { "siteName": "快科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "腾讯元宝浏览器插件上线Chrome应用商店，用户可下载使用。插件支持划词提问、内容总结、网页翻译及一键收藏等功能，并同步所有收藏内容 ...",
+    "id": "8jNS4oDq6D5",
+    "order": 1747297026951,
+    "createdAt": "2025-05-15T08:17:08.000Z",
+    "publishDate": "2025-05-15T08:17:06.951Z",
+    "title": "腾讯元宝浏览器插件上线Chrome：支持划词提问 外文网页翻译",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-15 16:17:08",
+    "uuid": "9eff0601-1867-4216-9d2f-eb701dc40f92"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "IEA月报预计2025年全球石油供应将大幅超过需求增长，库存日增72万桶，供应增长预期上调至160万桶/日，主要因沙特产量前景乐观。",
+    "id": "8jNTzW7tmuZ",
+    "order": 1747296744547,
+    "createdAt": "2025-05-15T08:12:25.000Z",
+    "publishDate": "2025-05-15T08:12:24.547Z",
+    "title": "IEA：2025年全球原油供应预计将大幅超过需求增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-15 16:12:25",
+    "uuid": "f12abf5c-4688-4b33-bd55-f1f11fec99c0"
+  },
+  {
+    "newsArray": [
       { "siteName": "亿邦动力网" },
       { "siteName": "电商报" },
       { "siteName": "电商报" }
@@ -15,6 +87,24 @@
     "up": false,
     "date": "2025-05-15 15:55:53",
     "uuid": "a5929ee8-75dd-44d3-ba36-98113f18c873"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "北京乐华圆娱文化传播有限公司与杭州网易云音乐科技有限公司因著作权许可使用合同纠纷将于5月21日在杭州市萧山区人民法院开庭审理。",
+    "id": "8jNSXdugVAv",
+    "order": 1747296409514,
+    "createdAt": "2025-05-15T07:54:25.000Z",
+    "publishDate": "2025-05-15T08:06:49.514Z",
+    "title": "网易云音乐因著作权纠纷起诉乐华",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-15 15:54:25",
+    "uuid": "cef1f50a-e873-4284-8981-c36cc2f6e82b"
   },
   {
     "newsArray": [
@@ -276,6 +366,25 @@
     "up": false,
     "date": "2025-05-15 15:22:18",
     "uuid": "ce3f5808-ceb0-4d07-bfbc-b2382eed606e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "国内期货主力合约收盘涨跌不一，集运欧线涨超8%，氧化铝涨超3%，烧碱涨超2%。SC原油跌近5%，沪金跌超3%，沪银、液化石油气、燃料油跌超2%。",
+    "id": "8jNQSzef3Gl",
+    "order": 1747296659483,
+    "createdAt": "2025-05-15T07:18:24.000Z",
+    "publishDate": "2025-05-15T08:10:59.483Z",
+    "title": "国内期货主力合约收盘涨跌不一，集运欧线涨超8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-15 15:18:24",
+    "uuid": "cd18870b-35b0-4234-8bf5-4cf0b54983ab"
   },
   {
     "newsArray": [
