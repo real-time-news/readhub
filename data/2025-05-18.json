@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "微软副总裁杰夫·赫尔斯告知团队，未来代码的一半将由基于OpenAI的人工智能模型生成，人工智能代码占比将从20%提升至30%，随后其团队中有十几名工程师被裁，属于公司6000人裁员计划的一部分，微软正推动利用人工智能提高各岗位生产率并减少员工支出。",
+    "id": "8jSDYwO8Bsv",
+    "order": 1747572746232,
+    "createdAt": "2025-05-18T12:52:26.000Z",
+    "publishDate": "2025-05-18T12:52:26.232Z",
+    "title": "微软裁员的背后，是利用人工智能大幅推动自动化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-18 20:52:26",
+    "uuid": "f8239649-b28d-4872-af67-03370bb3de98"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "安达维尔在低空经济领域取得成果，与多家eVTOL主机单位签订座椅、内饰等产品的研制合同或合作意向书，相关工作进展顺利。",
+    "id": "8jSkTdVgo7u",
+    "order": 1747572556649,
+    "createdAt": "2025-05-18T12:49:17.000Z",
+    "publishDate": "2025-05-18T12:49:16.649Z",
+    "title": "安达维尔：与多家eVTOL主机单位在部分产品上签订研制合同或合作意向书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-18 20:49:17",
+    "uuid": "10aefffb-f7f7-43df-ac5f-4a8ea514d069"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国电建完成全球海拔最高光热电站——西藏扎布耶源网荷储一体化综合能源项目，实现全面投产 ...",
+    "id": "8jSRUQ4zGtZ",
+    "order": 1747572212220,
+    "createdAt": "2025-05-18T12:43:32.000Z",
+    "publishDate": "2025-05-18T12:43:32.220Z",
+    "title": "世界最高海拔光热电站西藏投产，24小时稳定供能展新篇",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-18 20:43:32",
+    "uuid": "9b5ec499-86ef-42a6-b59e-20c1f68c0ab8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2024年我国以北斗为核心的卫星导航与位置服务产业总体产值达5758亿元，同比增长7.39%。我国卫星导航专利申请累计总量突破12.9万件，智能手机支持北斗定位功能的数量约2.88亿部 ...",
+    "id": "8jS1YPUhvrN",
+    "order": 1747571590667,
+    "createdAt": "2025-05-18T12:33:11.000Z",
+    "publishDate": "2025-05-18T12:33:10.667Z",
+    "title": "我国约2.88亿部手机支持北斗定位 专利申请全球领先",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-18 20:33:11",
+    "uuid": "02d666cf-ff18-4266-8abc-e3fd4fe1fbf4"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" },
       { "siteName": "快科技" }
