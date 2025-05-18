@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "火狐浏览器发布 Firefox 138.0.4 紧急更新，修复两个安全漏洞 CVE-2025-4920 和 CVE-2025-4921，防止攻击者对 JavaScript 对象进行越界读取或写入操作，用户应尽快更新以保障安全与稳定。",
+    "id": "8jRzfWGGUKA",
+    "order": 1747611326162,
+    "createdAt": "2025-05-18T23:35:26.000Z",
+    "publishDate": "2025-05-18T23:35:26.162Z",
+    "title": "火狐浏览器发布紧急更新修复安全漏洞",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 07:35:26",
+    "uuid": "6cf9a043-ec52-4f81-ae04-b8e9f1f09630"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "我国自主研发的“海卫”系统顺利完成深水海管铺设智能监测海上试验，核心装备包括国内首艘18米级无人船“守护者”和1500米级深水自主遥控水下机器人“领航者” ...",
+    "id": "8jS8vNbXW59",
+    "order": 1747611280683,
+    "createdAt": "2025-05-18T23:34:41.000Z",
+    "publishDate": "2025-05-18T23:34:40.683Z",
+    "title": "“海卫”系统完成海上试验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 07:34:41",
+    "uuid": "e420625a-c29b-4013-879f-ec5db67d22b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "布伦特原油期货和WTI原油期货跌幅均扩大至1%，分别报64.71美元/桶和61.30美元/桶。",
+    "id": "8jTS2sYfDjg",
+    "order": 1747611257754,
+    "createdAt": "2025-05-18T23:34:18.000Z",
+    "publishDate": "2025-05-18T23:34:17.754Z",
+    "title": "美油、布油期货均跌超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 07:34:18",
+    "uuid": "d7a3540a-25b1-4388-88d0-f700399e5dd7"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "手机中国" },
       { "siteName": "IT 之家" }
