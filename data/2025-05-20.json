@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软开源了专为Windows Terminal设计的命令行文本编辑器Edit，采用Rust语言编写，遵循MIT许可证 ...",
+    "id": "8jUjhqjM2O2",
+    "order": 1747698431104,
+    "createdAt": "2025-05-19T23:47:12.000Z",
+    "publishDate": "2025-05-19T23:47:11.104Z",
+    "title": "微软开源 Edit 命令行编辑器：Rust 编写、不到 250kB，未来将入驻 Win11",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 07:47:12",
+    "uuid": "73aed762-367f-4b64-9795-0cd0358d00d3"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "第一财经" },
       { "siteName": "金融界" },
