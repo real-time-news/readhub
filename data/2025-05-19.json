@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "沃尔沃全新S90旗舰轿车将于5月29日在国内上市，采用全新车身配色与北欧绅士造型格栅。新车配备11.2英寸中控屏、12.3英寸液晶仪表盘，支持多项智能驾驶辅助功能 ...",
+    "id": "8jTeZcNHwNY",
+    "order": 1747629154041,
+    "createdAt": "2025-05-19T04:32:35.000Z",
+    "publishDate": "2025-05-19T04:32:34.041Z",
+    "title": "沃尔沃全新 S90 旗舰轿车 5 月 29 日上市，采用全新车身配色",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 12:32:35",
+    "uuid": "ccc40b34-4571-4c9a-bb9a-a6cd71460f3b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英伟达CEO黄仁勋宣布个人AI计算机DGX Spark已全面投产，数周内将就绪，并与全球电脑制造商合作推出“AI优先”的DGX个人计算系统 ...",
+    "id": "8jTqTD3dNhH",
+    "order": 1747628418147,
+    "createdAt": "2025-05-19T04:20:18.000Z",
+    "publishDate": "2025-05-19T04:20:18.147Z",
+    "title": "黄仁勋：个人AI计算机DGX Spark已全面投产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 12:20:18",
+    "uuid": "01058e92-7cc9-405b-8644-fb30d1d0101d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英伟达人工智能服务器将向其他厂商的芯片开放。",
+    "id": "8jTqP2iODuv",
+    "order": 1747628039306,
+    "createdAt": "2025-05-19T04:14:00.000Z",
+    "publishDate": "2025-05-19T04:13:59.306Z",
+    "title": "英伟达人工智能服务器将向其他厂商的芯片开放",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 12:14:00",
+    "uuid": "3cf84521-c6ac-438d-a816-909b324432f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股三大指数集体下跌，恒生科技指数跌幅最大，大型科技股多数下滑，汽车股、苹果概念股普跌，而物流股、半导体股逆势上涨，部分电信、航空、家电及军工股亦有升幅。",
+    "id": "8jTfhO915Ft",
+    "order": 1747627950540,
+    "createdAt": "2025-05-19T04:12:30.000Z",
+    "publishDate": "2025-05-19T04:12:30.540Z",
+    "title": "港股午评：三大指数齐跌 汽车股、消费股普跌 半导体股逆势上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 12:12:30",
+    "uuid": "9e901ee6-22c2-4944-bb14-07d765569c64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智慧芽_新药情报库" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "Incyte公司的PD-1抑制剂Zynyz（retifanlimab）获美国FDA批准，与铂类化疗联合用于晚期肛管鳞状细胞癌一线治疗，或作为单药用于铂类化疗后进展的患者 ...",
+    "id": "8jSaHp3e9A8",
+    "order": 1747627496914,
+    "createdAt": "2025-05-19T04:04:57.000Z",
+    "publishDate": "2025-05-19T04:04:56.914Z",
+    "title": "首个单抗药物获FDA批准用于晚期癌症一线治疗，“划时代”疗法申请获美国FDA受理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 12:04:57",
+    "uuid": "13ecd083-fbd0-4e0d-bca1-6596c6842edf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "英伟达CEO黄仁勋在Computex2025宣布，将与台积电、富士康合作在中国台湾建立AI超级计算机。",
+    "id": "8jTpgNQwR5e",
+    "order": 1747627364373,
+    "createdAt": "2025-05-19T04:02:45.000Z",
+    "publishDate": "2025-05-19T04:02:44.373Z",
+    "title": "黄仁勋：英伟达将联合台积电、富士康在中国台湾建立AI超级计算机",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 12:02:45",
+    "uuid": "b5e9e919-8171-4973-aa59-c44520ae547b"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "aibase" }
@@ -574,6 +682,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "茅台2024年度股东大会前夜的晚宴改为自助餐，现场未摆放飞天茅台酒，伴餐为茅台生态农业开发的蓝莓复合果汁。茅台集团党委书记、董事长张德芹与投资人林园出席并与股东交流 ...",
+    "id": "8jShhVHpuVD",
+    "order": 1747628469178,
+    "createdAt": "2025-05-19T00:44:58.000Z",
+    "publishDate": "2025-05-19T04:21:09.178Z",
+    "title": "茅台股东大会前夜晚宴改为自助餐，飞天茅台变蓝莓果汁",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 08:44:58",
+    "uuid": "de317972-20bb-4384-8bea-e2586cce1b9d"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
@@ -828,5 +956,23 @@
     "up": false,
     "date": "2025-05-19 07:22:21",
     "uuid": "87bacc29-e6b2-4167-bd55-c107275365f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "美国得克萨斯大学奥斯汀分校研究团队在《化学》期刊发表创新研究，开发出利用合成聚合物分子进行数据存储并用电信号读取的新方法，首次实现将信息写入塑料基本单元并在日常材料中存储信息。",
+    "id": "8jTS2m0kpjO",
+    "order": 1747627466375,
+    "createdAt": "2025-05-18T23:03:41.000Z",
+    "publishDate": "2025-05-19T04:04:26.375Z",
+    "title": "数据第一次写入聚合物分子，信息编码解码有新法",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 07:03:41",
+    "uuid": "78a829c8-6ef3-463c-9005-1f8c46c0b404"
   }
 ]
