@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软在 Build 2025 大会上宣布，Edge 浏览器将支持设备端 AI 技术，开发者可通过新 API 集成 Phi-4-mini 模型，提供文本生成、总结和编辑等功能，未来还将推出文本翻译 API ...",
+    "id": "8jUHAOB5rDO",
+    "order": 1747672245390,
+    "createdAt": "2025-05-19T16:30:54.000Z",
+    "publishDate": "2025-05-19T16:30:45.390Z",
+    "title": "微软 Edge 浏览器将开放设备端 AI 功能，助力 Web 开发者提升应用体验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 00:30:54",
+    "uuid": "a63b352c-27bd-4b2e-880d-063bffcb256c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "微软公司宣布，正在将马斯克的xAI模型添加到其人工智能市场，其中包括对方于2025年早些时候推出的Grok 3 ...",
+    "id": "8jUgqEwQONq",
+    "order": 1747672007604,
+    "createdAt": "2025-05-19T16:26:58.000Z",
+    "publishDate": "2025-05-19T16:26:47.604Z",
+    "title": "微软将马斯克的Grok 3等AI模型引入其云端",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 00:26:58",
+    "uuid": "2a71281f-3f55-451f-83ab-7310f05e3be0"
+  }
+]
