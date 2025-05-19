@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "神奇制药公告，股东张娅计划减持不超过10,304,700股，占公司总股本1.93%，以满足个人资金需求。减持将通过集中竞价和大宗交易方式进行，于公告15个交易日后3个月内完成。",
+    "id": "8jUKTnetGxF",
+    "order": 1747653214091,
+    "createdAt": "2025-05-19T11:13:35.000Z",
+    "publishDate": "2025-05-19T11:13:34.091Z",
+    "title": "神奇制药：控股股东一致行动人拟减持不超过1%股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 19:13:35",
+    "uuid": "56bf7670-5302-4493-a8f6-f948344227bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "利弗莫尔证券显示，富卫集团有限公司向港交所提交上市申请书，联席保荐人为摩根士丹利和高盛集团。",
+    "id": "8jUJunVGgqQ",
+    "order": 1747653233629,
+    "createdAt": "2025-05-19T11:06:38.000Z",
+    "publishDate": "2025-05-19T11:13:53.629Z",
+    "title": "富卫集团有限公司向港交所提交上市申请书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 19:06:38",
+    "uuid": "8dad8fb0-2c6e-4450-af3a-bfc12eda9f2d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达推出NVLink Fusion高速互联技术，允许企业结合第三方芯片与英伟达平台构建定制AI系统 ...",
+    "id": "8jUC8BcGLg1",
+    "order": 1747652766384,
+    "createdAt": "2025-05-19T11:06:07.000Z",
+    "publishDate": "2025-05-19T11:06:06.384Z",
+    "title": "富士通2nm芯片FUJITSU-MONAKA牵手英伟达NVLink Fusion",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 19:06:07",
+    "uuid": "ea37790b-e9ef-47d1-9762-da22a70b6ce5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "瑞穗将超微电脑目标价从32美元上调至40美元。",
+    "id": "8jUJgC6XjdM",
+    "order": 1747652576870,
+    "createdAt": "2025-05-19T11:02:56.000Z",
+    "publishDate": "2025-05-19T11:02:56.870Z",
+    "title": "瑞穗：将超微电脑目标价上调至40美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 19:02:56",
+    "uuid": "74350f5b-a8ff-4f6f-b1e6-9241c3769426"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "圆通速递2025年4月快递收入57.55亿元，同比增长16.32%。业务量26.93亿票，增长25.27%。单票收入2.14元，下降7.14%。",
+    "id": "8jUJft0aq69",
+    "order": 1747652829859,
+    "createdAt": "2025-05-19T11:02:39.000Z",
+    "publishDate": "2025-05-19T11:07:09.859Z",
+    "title": "圆通速递：4月快递产品收入57.55亿元，同比增16.32%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 19:02:39",
+    "uuid": "3799c600-955c-41e3-8777-adc809f2d9b3"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "钛媒体" },
@@ -495,6 +584,24 @@
     "up": false,
     "date": "2025-05-19 17:08:25",
     "uuid": "6d819689-8821-4cc3-a1a6-a36182b891dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "英国金融公司Revolut计划未来三年向法国投资10亿欧元，申请法国银行牌照，开设巴黎新办事处，并在法国创造至少200个新就业岗位，使员工总数增至约500人。",
+    "id": "8jU4eDGYwYO",
+    "order": 1747652559364,
+    "createdAt": "2025-05-19T09:08:04.000Z",
+    "publishDate": "2025-05-19T11:02:39.364Z",
+    "title": "Revolut将在法国投资10亿欧元并寻求银行牌照",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 17:08:04",
+    "uuid": "03270cf0-e051-4e18-bc3e-75ba5134e41e"
   },
   {
     "newsArray": [
