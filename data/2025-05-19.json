@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达在COMPUTEX2025上推出NVIDIA DGX Cloud Lepton，这是一个连接全球开发者与数万颗GPU的AI平台，可通过云服务提供商网络构建代理和物理AI应用。",
+    "id": "8jTs7PHLeZo",
+    "order": 1747633314322,
+    "createdAt": "2025-05-19T05:41:54.000Z",
+    "publishDate": "2025-05-19T05:41:54.322Z",
+    "title": "英伟达推出Lepton云平台，打造全球规模AI工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 13:41:54",
+    "uuid": "40cfcd45-4f45-4ae4-b105-85ae3173c710"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "瑞安航空5月19日公布2025财年财报显示，营收139.5亿欧元，同比增长4%，税后利润16.1亿欧元，同比减少16%。",
+    "id": "8jTvMzErZqR",
+    "order": 1747633493484,
+    "createdAt": "2025-05-19T05:22:24.000Z",
+    "publishDate": "2025-05-19T05:44:53.484Z",
+    "title": "瑞安航空宣布7.5亿欧元股票回购",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 13:22:24",
+    "uuid": "b7279fdb-2f67-4afe-8d96-7db01fa40184"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
