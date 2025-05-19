@@ -1,6 +1,119 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "宁德时代港股暗盘初涨近8%，报283.6港元，发售价为263港元，每手100股，将于5月20日上市交易。",
+    "id": "8jU8wjqri3i",
+    "order": 1747643033214,
+    "createdAt": "2025-05-19T08:23:53.000Z",
+    "publishDate": "2025-05-19T08:23:53.214Z",
+    "title": "宁德时代(3750.HK)暗盘一度涨近8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 16:23:53",
+    "uuid": "fa2dd9df-97f2-4384-af2b-9aca4950a375"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "乐山电力公告，四川省发改委调整分时电价机制，自2025年5月1日起执行。因全年增加低谷时长、减少平段时长及高峰时段调整，预计2025年公司电力业务收益将减少850万元左右。",
+    "id": "8jU8FHL16RN",
+    "order": 1747642932378,
+    "createdAt": "2025-05-19T08:22:13.000Z",
+    "publishDate": "2025-05-19T08:22:12.378Z",
+    "title": "乐山电力：分时电价机制调整 预计减少公司2025年电力业务收益850万元左右",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 16:22:13",
+    "uuid": "ad9007c3-8153-465c-990c-ee0c9518cae8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "珀莱雅考虑通过巴黎分公司进行并购，拓展婴童、香水、男士护肤等业务，并将新品牌引入国内。",
+    "id": "8jU7ugHPJ1v",
+    "order": 1747642976905,
+    "createdAt": "2025-05-19T08:12:14.000Z",
+    "publishDate": "2025-05-19T08:22:56.905Z",
+    "title": "珀莱雅：考虑通过海外并购布局婴童、香水等赛道",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 16:12:14",
+    "uuid": "3bd49560-96fc-4fe7-b1e7-a24b671983d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "特斯拉将在奥斯汀启动邀请制的无人出租车项目，初期车队规模约10至20辆，运行于公共道路并仅对受邀用户开放。项目将配备大量远程操作员以保障安全，但具体介入程度尚未明确 ...",
+    "id": "8jTcbWKO1LW",
+    "order": 1747642090539,
+    "createdAt": "2025-05-19T08:08:11.000Z",
+    "publishDate": "2025-05-19T08:08:10.539Z",
+    "title": "特斯拉自动驾驶出租车将采取邀请制，同时部署大量远程操作员",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 16:08:11",
+    "uuid": "a065ebb8-e5f6-4461-8084-44c16cf0c900"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "搭载鸿蒙操作系统的首台个人电脑在成都发布，标志着国产操作系统在PC领域取得重要进展。",
+    "id": "8jU73DaZsan",
+    "order": 1747641794415,
+    "createdAt": "2025-05-19T08:03:15.000Z",
+    "publishDate": "2025-05-19T08:03:14.415Z",
+    "title": "鸿蒙电脑正式发布，国产操作系统在个人电脑领域实现重要突破",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 16:03:15",
+    "uuid": "7e4ae668-8a3c-4ec6-a87d-1c5e4fea0726"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "微软将两项关键语言设置从控制面板迁移到Windows设置应用，包括“非Unicode程序的语言设置”和“复制用户设置”功能，用户可在“时间与语言”下的“语言与地区”中找到 ...",
+    "id": "8jTtkxRLn2n",
+    "order": 1747641699067,
+    "createdAt": "2025-05-19T08:01:40.000Z",
+    "publishDate": "2025-05-19T08:01:39.067Z",
+    "title": "微软控制面板再瘦身：两项语言设置已迁“新家”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 16:01:40",
+    "uuid": "b6654928-37c3-4b36-94bf-97e342b9abb9"
+  },
+  {
+    "newsArray": [
       { "siteName": "爱范儿" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" },
@@ -137,6 +250,30 @@
     "up": false,
     "date": "2025-05-19 15:23:58",
     "uuid": "15ffbecb-b18c-4b8d-887a-9e6650f07770"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "交银国际预计阿里巴巴2026/27财年收入增速分别为5%和9%，利润增速为4%和14%，维持目标价159港元及“买入”评级 ...",
+    "id": "8jTpe7MBLMz",
+    "order": 1747641677926,
+    "createdAt": "2025-05-19T07:22:52.000Z",
+    "publishDate": "2025-05-19T08:01:17.926Z",
+    "title": "交银国际：料阿里巴巴-W云收入逐季加速 维持目标价159港元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-19 15:22:52",
+    "uuid": "06b24d89-b8f5-44e5-88e5-fa9aeacbfae8"
   },
   {
     "newsArray": [
