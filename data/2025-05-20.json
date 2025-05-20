@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "比亚迪王朝网全新大型SUV或为DYNASTY-D概念车量产版，预计年内上市，售价约40万元，提供6座和7座布局。外观采用贯穿饰条与灯带设计，配备半隐藏式门把手和悬浮式外后视镜 ...",
+    "id": "8jUNXdOmarc",
+    "order": 1747712469593,
+    "createdAt": "2025-05-20T03:41:10.000Z",
+    "publishDate": "2025-05-20T03:41:09.593Z",
+    "title": "比亚迪王朝网全新大型 SUV 曝光：有望今年内上市、售价达 40 万元级别",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 11:41:10",
+    "uuid": "f2fa2a54-bfc8-433b-9974-6b079df040cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "xAI推出的Grok3已在GitHub Models上发布公开预览版，适用于数据提取、代码编写等任务，具备实时更新和强大推理性能 ...",
+    "id": "8jVMlwBFmNP",
+    "order": 1747712440330,
+    "createdAt": "2025-05-20T03:40:41.000Z",
+    "publishDate": "2025-05-20T03:40:40.330Z",
+    "title": "Grok3 在 GitHub Models 推出公开预览版",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 11:40:41",
+    "uuid": "21a09b93-751a-43a0-acf4-784a1e86b952"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "花旗报告指出，携程首季收入138亿元同比增长16%，符合预期，毛利率80.4%环比上升，Non-GAAP经营溢利率29.2%高于预期，纯利41.9亿元超市场预测9% ...",
+    "id": "8jVRgTahwTz",
+    "order": 1747712390120,
+    "createdAt": "2025-05-20T03:39:51.000Z",
+    "publishDate": "2025-05-20T03:39:50.120Z",
+    "title": "花旗：携程季绩符合预期，予其“买入”评级及目标价75美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 11:39:51",
+    "uuid": "ad075e2c-91d7-4763-80ec-909c08aa60d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国—上海合作组织人工智能合作论坛将于5月29日在天津举办，主题为“智汇中国 智惠上合” ...",
+    "id": "8jVT55muzkD",
+    "order": 1747712325950,
+    "createdAt": "2025-05-20T03:38:46.000Z",
+    "publishDate": "2025-05-20T03:38:45.950Z",
+    "title": "中国—上海合作组织人工智能合作论坛将于5月29日在天津举办",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 11:38:46",
+    "uuid": "ee1b122b-f8a0-43b9-99c2-a940d0de8d4e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "亚马逊计划在美国弗吉尼亚州建设第四座机器人配送中心，以扩展智能物流设施。",
+    "id": "8jVOu19vcaC",
+    "order": 1747712249002,
+    "createdAt": "2025-05-20T03:37:29.000Z",
+    "publishDate": "2025-05-20T03:37:29.002Z",
+    "title": "亚马逊将在弗吉尼亚州设立第四个机器人配送中心",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 11:37:29",
+    "uuid": "32b711d8-46ec-49b3-bb0a-b5ae72cf751b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新芽" },
+      { "siteName": "投资界" },
+      { "siteName": "投中网" }
+    ],
+    "summary": "奇宏科技完成数千万元A轮融资，资金将用于纳米纤维素量产基地扩建、高端应用场景研发及全球化市场布局 ...",
+    "id": "8jTn7ArzeV1",
+    "order": 1747712228147,
+    "createdAt": "2025-05-20T03:37:08.000Z",
+    "publishDate": "2025-05-20T03:37:08.147Z",
+    "title": "奇宏科技完成A轮数千万元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 11:37:08",
+    "uuid": "4d3ae372-db3f-430b-a78d-80960fb46d76"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "网易科技" },
       { "siteName": "金融界" }
@@ -33,6 +136,43 @@
     "up": false,
     "date": "2025-05-20 11:31:37",
     "uuid": "0990634d-b074-4ff3-ae6f-ccd1cd9c9557"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "京东健康早盘股价上涨3.30%，高盛报告指出其首季收入和利润超预期，重申对其领先地位的信心 ...",
+    "id": "8jU12SmUpPh",
+    "order": 1747713073127,
+    "createdAt": "2025-05-20T03:24:03.000Z",
+    "publishDate": "2025-05-20T03:51:13.127Z",
+    "title": "京东健康早盘涨超3% 高盛将目标价上调至42.50港元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 11:24:03",
+    "uuid": "b6d22dd7-99d1-4b65-a81e-cd5c95989193"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "小米集团早盘股价上涨3.92%，雷军宣布5月22日将举行新品发布会，推出包括采用第二代3nm工艺的小米玄戒o1芯片、小米15S Pro、小米平板7 Ultra及首款SUV小米YU7等多款产品 ...",
+    "id": "8jV1xvGMggS",
+    "order": 1747712390401,
+    "createdAt": "2025-05-20T03:21:59.000Z",
+    "publishDate": "2025-05-20T03:39:50.401Z",
+    "title": "小米集团-W早盘涨逾4% 本周将发布多款新品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 11:21:59",
+    "uuid": "6562e8e5-bdb7-4263-aa1e-22db141f6f43"
   },
   {
     "newsArray": [
