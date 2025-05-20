@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达发布Isaac GR00T N1.5人形机器人基础模型，通过GR00T-Dreams工具将数据采集时间从三个月缩短至36小时，大幅提升开发效率 ...",
+    "id": "8jVdSCuMFI6",
+    "order": 1747734247224,
+    "createdAt": "2025-05-20T09:44:08.000Z",
+    "publishDate": "2025-05-20T09:44:07.224Z",
+    "title": "​英伟达推出人形机器人新模型，助力工业革命新篇章",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 17:44:08",
+    "uuid": "10d33a82-d8f5-4dd4-a8d5-3cf5ae3c837e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "小马智行2025年第一季度财报显示，总营收1.02亿元，同比增长12%，净亏损2.71亿元，去年同期为2080万美元。每股净亏损0.87元，去年同期为0.23美元。",
+    "id": "8jVs9vUGurZ",
+    "order": 1747734157926,
+    "createdAt": "2025-05-20T09:42:37.000Z",
+    "publishDate": "2025-05-20T09:42:37.926Z",
+    "title": "小马智行第一季度财报：总营收1.02亿元 净亏损2.71亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 17:42:37",
+    "uuid": "74faff27-bb47-4d31-8106-ea8a844fb3e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "小马智行2025年Q1总营收1.02亿元，同比增长12%，其中Robotaxi业务收入达1230万元，同比增长200%，乘客车费收入增长800% ...",
+    "id": "8jVrxbpd2h9",
+    "order": 1747734046078,
+    "createdAt": "2025-05-20T09:38:38.000Z",
+    "publishDate": "2025-05-20T09:40:46.078Z",
+    "title": "小马智行：一季度Robotaxi收入同比增200%，车队规模年底达千台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 17:38:38",
+    "uuid": "a86261f9-3e14-42c7-b475-d826a6472f36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "富途控股盘前续涨0.94%报110.63美元，瑞银维持“买入”评级并将目标价上调至141美元，因其付费客户增长和客户资产净流入表现强劲且预期美国加息放缓。",
+    "id": "8jUva7sqlVr",
+    "order": 1747733867449,
+    "createdAt": "2025-05-20T09:37:47.000Z",
+    "publishDate": "2025-05-20T09:37:47.449Z",
+    "title": "美股异动丨富途控股盘前涨约1% 获瑞银上调目标价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 17:37:47",
+    "uuid": "4dcd2431-9c8a-4be1-ac1d-590324250e84"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "品玩" },
+      { "siteName": "C114 通信网" }
+    ],
+    "summary": "新华三集团推出基于NVIDIA AI数据平台参考设计的技术集成方案，打造智能、灵活、安全的大模型数据处理能力 ...",
+    "id": "8jVTVOyFwu2",
+    "order": 1747733731510,
+    "createdAt": "2025-05-20T09:35:32.000Z",
+    "publishDate": "2025-05-20T09:35:31.510Z",
+    "title": "新华三推出AI数据平台解决方案，加速推理驱动智算时代",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 17:35:32",
+    "uuid": "a97c3dff-fd34-484b-b4c5-9caef5c29538"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -660,6 +750,24 @@
     "up": false,
     "date": "2025-05-20 15:34:13",
     "uuid": "5376f23b-76d0-403d-a368-be32eee63b7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "法国参议院调查委员会发布报告，指出雀巢公司旗下“巴黎水”存在消费者欺诈行为，包括非法处理受污染水源，产品不符合天然矿泉水标准且有健康风险。报告还批评法国政府监管不力甚至包庇企业 ...",
+    "id": "8jVfJBUBila",
+    "order": 1747733794335,
+    "createdAt": "2025-05-20T07:25:43.000Z",
+    "publishDate": "2025-05-20T09:36:34.335Z",
+    "title": "法国参议院公布雀巢“巴黎水”丑闻调查结果：存在消费者欺诈行为",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 15:25:43",
+    "uuid": "12407731-144b-4cd1-ab7e-40350d068cdd"
   },
   {
     "newsArray": [
