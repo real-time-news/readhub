@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "微软计划将VS Code打造成开源AI编辑器，GitHub Copilot Chat扩展代码将以MIT许可证开源并重构至VS Code核心 ...",
+    "id": "8jVIVid4yb4",
+    "order": 1747724196388,
+    "createdAt": "2025-05-20T06:56:36.000Z",
+    "publishDate": "2025-05-20T06:56:36.388Z",
+    "title": "微软要将 VS Code 打造成开源 AI 编辑器",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 14:56:36",
+    "uuid": "752bcc21-1132-419c-a91e-5c6764ef7d45"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "浙江省出台支持人工智能创新发展措施，目标到2027年，人工智能核心产业营收超1万亿元，培育若干全球竞争力企业。到2030年，产业营收超1.2万亿元，技术和应用全球领先。",
+    "id": "8jVhPLwlYkR",
+    "order": 1747724151920,
+    "createdAt": "2025-05-20T06:53:48.000Z",
+    "publishDate": "2025-05-20T06:55:51.920Z",
+    "title": "浙江：到2027年全省规模以上人工智能核心产业营业收入超1万亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 14:53:48",
+    "uuid": "3556139f-d61a-40e2-baf8-275c025b525c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "亚马逊计划在法国追加超3亿欧元投资，建设新配送中心与站点，升级物流网络，并在未来几年新增超1500个长期岗位。",
+    "id": "8jVR5AiG7U3",
+    "order": 1747723992210,
+    "createdAt": "2025-05-20T06:53:13.000Z",
+    "publishDate": "2025-05-20T06:53:12.210Z",
+    "title": "亚马逊宣布在法国追加投资超3亿欧元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 14:53:13",
+    "uuid": "09969894-145e-4a1c-9b60-aaa1077c63b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "华熙生物回应“点名券商”事件，表示作为行业龙头希望纠正对透明质酸的不科学抹黑，此次发声已获两大行业协会支持，行业内多数企业认同回归科学与商业初心的观点。",
+    "id": "8jUT05WQLtZ",
+    "order": 1747723697064,
+    "createdAt": "2025-05-20T06:48:18.000Z",
+    "publishDate": "2025-05-20T06:48:17.064Z",
+    "title": "华熙生物回应“点名券商”事件：透明质酸遭踩踏和抹黑，两大协会力挺“科学正名”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 14:48:18",
+    "uuid": "c5bf2b13-a2d5-4fcb-90c9-956e42f72d89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "新浪科技" },
+      { "siteName": "电商报" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "支付宝（杭州）信息技术有限公司申请注册多枚“碰友圈”商标，涵盖网站、通讯及金融服务等类别，目前处于等待实质审查阶段 ...",
+    "id": "8jVeYqy8xuH",
+    "order": 1747724159075,
+    "createdAt": "2025-05-20T06:47:57.000Z",
+    "publishDate": "2025-05-20T06:55:59.075Z",
+    "title": "支付宝申请注册“碰友圈”商标",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 14:47:57",
+    "uuid": "002b0482-d258-4479-850f-aa8ea66efb5e"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "金融界" },
       { "siteName": "格隆汇" }
@@ -68,6 +154,27 @@
     "up": false,
     "date": "2025-05-20 14:34:00",
     "uuid": "7c1a5d34-8da7-4430-bc53-9069ca6abaab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "aibase" },
+      { "siteName": "电商报" },
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美团即将正式上线AI编程工具NoCode，定位为Vibe Coding方向，由美团基础研发平台下的团队研发 ...",
+    "id": "8jVd8ZIrP1a",
+    "order": 1747724203855,
+    "createdAt": "2025-05-20T06:28:38.000Z",
+    "publishDate": "2025-05-20T06:56:43.855Z",
+    "title": "美团推出AI编程工具NoCode",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-20 14:28:38",
+    "uuid": "996c799b-deb0-403f-b62b-2efa9ab1a5f4"
   },
   {
     "newsArray": [
