@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "劳氏第一季度同店销售下降1.7%，好于市场预估的下降2.04%。销售净额209.3亿美元，同比增长2%。营业利益率11.9%，较上年同期的12.4%有所下降。",
+    "id": "8jXaaeRN88s",
+    "order": 1747822359987,
+    "createdAt": "2025-05-21T10:12:40.000Z",
+    "publishDate": "2025-05-21T10:12:39.987Z",
+    "title": "劳氏第一季度销售净额209.3亿美元，同比增加2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 18:12:40",
+    "uuid": "1f3c5b5f-e1ea-4e5b-a2f8-20306415dfd1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英维克计划投资不低于10亿元，在深圳市龙华区建设精密温控节能设备研发中心及生产基地，项目需通过政府备案与环评审批，存在土地竞拍及资金投入风险。",
+    "id": "8jXYUr5xzuO",
+    "order": 1747822035054,
+    "createdAt": "2025-05-21T10:07:16.000Z",
+    "publishDate": "2025-05-21T10:07:15.054Z",
+    "title": "英维克：拟投资不低于10亿元建设精密温控节能设备研发中心及生产基地项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 18:07:16",
+    "uuid": "76985df0-934c-49af-b110-fbb89a87a515"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "科兴制药全资子公司深圳科兴自主研发的创新药GB18注射液药品临床试验申请获得FDA批准，可在美开展针对治疗肿瘤恶病质的临床试验。",
+    "id": "8jXXqpqGSCf",
+    "order": 1747821907157,
+    "createdAt": "2025-05-21T10:05:08.000Z",
+    "publishDate": "2025-05-21T10:05:07.157Z",
+    "title": "科兴制药：GB18注射液获美国FDA新药临床试验许可",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 18:05:08",
+    "uuid": "7b438185-2fbc-40a1-9323-b783eb270ac6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "文远知行发布2025年一季度财报，总收入7244万元，毛利率35.0%，Robotaxi收入占比提升至22.3% ...",
+    "id": "8jXYpwNHweK",
+    "order": 1747821885320,
+    "createdAt": "2025-05-21T10:04:46.000Z",
+    "publishDate": "2025-05-21T10:04:45.320Z",
+    "title": "文远知行2025年一季度财报：总收入7244万元，毛利率35.0%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 18:04:46",
+    "uuid": "9da64687-78cb-47e4-ae8b-26995fe9497f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "京东物流与成都超有爱科技合作升级，共建的京东物流超有爱总仓在成都天府京东亚洲一号物流园二期正式运营 ...",
+    "id": "8jXSPBmYMRW",
+    "order": 1747821494084,
+    "createdAt": "2025-05-21T09:58:15.000Z",
+    "publishDate": "2025-05-21T09:58:14.084Z",
+    "title": "京东物流超有爱总仓正式开仓运营",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 17:58:15",
+    "uuid": "42b4020f-e5d2-4d75-a94a-e50df0380126"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "日本乐天市场推出针对20多岁用户的美容专页“Beauty Buzz”，通过折扣活动推广热门美妆商品，涵盖护肤品、化妆品、营养补充剂和彩色隐形眼镜等，并提供商品排名信息，吸引年轻用户关注与购买。",
+    "id": "8jXKCg3KolR",
+    "order": 1747821468797,
+    "createdAt": "2025-05-21T09:57:49.000Z",
+    "publishDate": "2025-05-21T09:57:48.797Z",
+    "title": "日本乐天上线“Beauty Buzz”美妆专页",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 17:57:49",
+    "uuid": "b5ecff4a-83f2-4d2e-a024-f5e0f85614ea"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
@@ -35,6 +140,24 @@
     "up": false,
     "date": "2025-05-21 17:49:34",
     "uuid": "bebbd1f7-b6bf-465f-a0be-b035fb3bfe6c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI最大数据中心获116亿美元融资，计划每栋建筑使用5万颗英伟达Blackwell芯片。",
+    "id": "8jXYUHtzT2G",
+    "order": 1747822265660,
+    "createdAt": "2025-05-21T09:44:06.000Z",
+    "publishDate": "2025-05-21T10:11:05.660Z",
+    "title": "OpenAI最大的数据中心获得了116亿美元的融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 17:44:06",
+    "uuid": "fd45ecc8-5a49-4aaf-abe0-722b2276b8d4"
   },
   {
     "newsArray": [
@@ -153,6 +276,41 @@
     "up": false,
     "date": "2025-05-21 17:22:04",
     "uuid": "b1483575-69e0-4995-ad53-709cc29cf5ed"
+  },
+  {
+    "newsArray": [
+      { "siteName": "联商网" },
+      { "siteName": "电商报" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "蜜雪冰城上线“支付宝碰一下”服务，全国超3万家门店支持，消费者解锁手机碰小蓝环即可完成支付，无需打开App，还可享随机优惠。",
+    "id": "8jXPuTA1VBl",
+    "order": 1747822292445,
+    "createdAt": "2025-05-21T09:19:22.000Z",
+    "publishDate": "2025-05-21T10:11:32.445Z",
+    "title": "蜜雪冰城宣布上线“支付宝碰一下”服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 17:19:22",
+    "uuid": "68f040e3-0b7b-4fde-ade5-228e09db4e04"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "英国最大零售商玛莎百货遭受复杂网络攻击，预计营业利润损失约3亿英镑，线上服装业务中断，食品货架受影响。尽管业务受阻，公司计划通过成本压缩和保险赔付减少盈利损失，并加速技术转型 ...",
+    "id": "8jXKEisLAum",
+    "order": 1747822044958,
+    "createdAt": "2025-05-21T09:18:48.000Z",
+    "publishDate": "2025-05-21T10:07:24.958Z",
+    "title": "英国最大零售商玛莎百货遭受网络攻击，预计造成 3 亿英镑损失",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 17:18:48",
+    "uuid": "4f3b3956-0226-49d5-92d8-b1c9c11dbba3"
   },
   {
     "newsArray": [
@@ -327,6 +485,25 @@
     "up": false,
     "date": "2025-05-21 17:06:05",
     "uuid": "347c2896-84a7-4bb8-9cde-d1cc8a576c63"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "宇树科技人G1机器人与另一款人形机器人进行“拳击对决”的视频走红，仅19秒宇树G1便获胜 ...",
+    "id": "8jXPxT2jJHn",
+    "order": 1747822423550,
+    "createdAt": "2025-05-21T09:05:16.000Z",
+    "publishDate": "2025-05-21T10:13:43.550Z",
+    "title": "宇树机器人「挥拳打架」视频流出：把对方干倒用时仅 19 秒",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-21 17:05:16",
+    "uuid": "78cd330f-d730-4c00-b1b7-ea7a3799e667"
   },
   {
     "newsArray": [
