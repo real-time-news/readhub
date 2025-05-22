@@ -1,6 +1,133 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "微软研究院正式开源Magentic-UI，这是一个以人为核心的AI智能体研究原型，基于Magentic-One架构与AutoGen框架开发，包含四大智能体和三大核心机制，通过MIT许可证开源并集成到Azure AI Foundry Labs平台，支持人机协作与复杂任务处理。",
+    "id": "8jYz7HBB1jv",
+    "order": 1747905005425,
+    "createdAt": "2025-05-22T09:10:06.000Z",
+    "publishDate": "2025-05-22T09:10:05.425Z",
+    "title": "微软研究院开源 Magentic-UI 智能体平台，集成多智能体协同系统",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-22 17:10:06",
+    "uuid": "a37e431f-0d29-43e2-a777-11080e574e44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "阿尔及利亚正式成为金砖国家新开发银行成员国，该银行由巴西、俄罗斯、印度、中国、南非于2015年成立，旨在为新兴市场和发展中国家的基础设施与可持续发展项目提供资金支持 ...",
+    "id": "8jZAZqCq4Ix",
+    "order": 1747904961726,
+    "createdAt": "2025-05-22T09:09:21.000Z",
+    "publishDate": "2025-05-22T09:09:21.726Z",
+    "title": "阿尔及利亚正式成为金砖国家新开发银行成员国",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-22 17:09:21",
+    "uuid": "f2c80e88-6a14-443f-a5e6-be1222400279"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "新华制药取得布洛芬混悬滴剂药品注册证书，该产品适用于儿童退热及缓解轻至中度疼痛。2023年中国公立医疗机构布洛芬销售额约50.9亿元 ...",
+    "id": "8jZAZYcHCYz",
+    "order": 1747904836853,
+    "createdAt": "2025-05-22T09:07:17.000Z",
+    "publishDate": "2025-05-22T09:07:16.853Z",
+    "title": "新华制药：取得布洛芬混悬滴剂药品注册证书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-22 17:07:17",
+    "uuid": "606cc8f7-e6dc-4254-bff3-7fc1b1097b52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "恒瑞医药1类新药瑞格列汀二甲双胍片获批上市，用于2型糖尿病成人患者的血糖控制。该药物是磷酸瑞格列汀与盐酸二甲双胍的固定剂量复方制剂，通过两种不同机制降糖并提高治疗依存性 ...",
+    "id": "8jZ6IzDqBE3",
+    "order": 1747904735120,
+    "createdAt": "2025-05-22T09:05:35.000Z",
+    "publishDate": "2025-05-22T09:05:35.120Z",
+    "title": "恒瑞糖尿病复方制剂「​瑞格列汀二甲双胍片」获批上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-22 17:05:35",
+    "uuid": "99564a63-76f9-495c-ba6f-839f9e943bc9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "新华保险与国丰兴华及广发银行北京分行签署基金合同，参与设立规模200亿元的私募证券投资基金，其中新华人寿出资100亿元认购基金份额。",
+    "id": "8jZAYorS4c0",
+    "order": 1747904698734,
+    "createdAt": "2025-05-22T09:04:58.000Z",
+    "publishDate": "2025-05-22T09:04:58.734Z",
+    "title": "新华保险：出资100亿元认购私募基金份额",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-22 17:04:58",
+    "uuid": "16557d5d-900c-46ce-98d4-07a86aaa054e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美年健康集团与阿里巴巴达摩院达成战略合作，将利用“一扫多查”医疗AI技术探索癌症和慢性病等疾病的筛查，并在智能体检服务领域展开合作。",
+    "id": "8jZ9cAfueCI",
+    "order": 1747904240546,
+    "createdAt": "2025-05-22T08:57:21.000Z",
+    "publishDate": "2025-05-22T08:57:20.546Z",
+    "title": "美年健康与阿里达摩院达成战略合作，率先推动多癌筛查AI进体检",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-22 16:57:21",
+    "uuid": "5f46cf59-794b-4d11-b9a4-4958cbb55a76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "央视新闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "神舟二十号航天员乘组自4月25日进驻中国空间站以来，顺利完成与神舟十九号乘组轮换、空间站维护、设备检查、舱外航天服巡检测试等多项任务，并圆满完成第一次出舱活动 ...",
+    "id": "8jXErO8E1w0",
+    "order": 1747904216850,
+    "createdAt": "2025-05-22T08:56:57.000Z",
+    "publishDate": "2025-05-22T08:56:56.850Z",
+    "title": "神舟二十号航天员乘组圆满完成第一次出舱活动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-22 16:56:57",
+    "uuid": "596f5e66-6b3e-45bc-b8bb-aa6b294acac8"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
