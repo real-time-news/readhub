@@ -1,6 +1,97 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "CentOS 官方宣布系统开始支持 RISC-V 架构，CentOS 10 Stream、RHEL 10 和 Fedora 42 成为首批支持该架构的发行版，主要支持 SiFive HiFive Premier P550 开发板 ...",
+    "id": "8jaOZbyj4OT",
+    "order": 1747982292161,
+    "createdAt": "2025-05-23T06:38:12.000Z",
+    "publishDate": "2025-05-23T06:38:12.161Z",
+    "title": "CentOS 发行版宣布初步支持 RISC-V 架构",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-23 14:38:12",
+    "uuid": "905bca8e-2957-4805-b219-3989885c39ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "A股跌幅扩大，沪指跌0.79%，创业板指跌近1%，深证成指跌0.6%。近3900股下跌，不足1400股上涨。",
+    "id": "8jadz7wrCqe",
+    "order": 1747982267184,
+    "createdAt": "2025-05-23T06:37:48.000Z",
+    "publishDate": "2025-05-23T06:37:47.184Z",
+    "title": "创业板指跌近1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-23 14:37:48",
+    "uuid": "f58632ac-393d-4485-a6c7-b66e100e48e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "深圳联合产权交易所发布国新证券增资项目公告，拟增资不超过24亿股，募集资金金额择优确定。",
+    "id": "8jacf5yVjff",
+    "order": 1747982058376,
+    "createdAt": "2025-05-23T06:34:19.000Z",
+    "publishDate": "2025-05-23T06:34:18.376Z",
+    "title": "国新证券股份有限公司增资项目挂牌，拟增加股份数不超24亿股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-23 14:34:19",
+    "uuid": "8f731a82-00f0-4046-b45e-7921ccb0126b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "法拉第未来在阿联酋拉斯海马举行工厂及运营中心接收仪式，标志着其中东“第三极”战略取得关键进展 ...",
+    "id": "8jaejaq4Ibj",
+    "order": 1747982025187,
+    "createdAt": "2025-05-23T06:33:46.000Z",
+    "publishDate": "2025-05-23T06:33:45.187Z",
+    "title": "法拉第未来宣布接收阿联酋工厂 计划进军欧洲和北非",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-23 14:33:46",
+    "uuid": "1108c2b7-b72a-4040-84a4-8152c8903a27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国国会众议院通过特朗普政府提出的大规模税收与支出法案《HR1》，其中包含禁止各州在未来十年内监管AI的条款，引发争议 ...",
+    "id": "8ja7AR7vGw6",
+    "order": 1747981348107,
+    "createdAt": "2025-05-23T06:22:29.000Z",
+    "publishDate": "2025-05-23T06:22:28.107Z",
+    "title": "美国众议院通过减税方案，或禁止各州未来十年执行AI监管",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-23 14:22:29",
+    "uuid": "534da15e-30ea-4897-9b5a-ec2adc77d658"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "界面" }
@@ -463,6 +554,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中银国际下调中国石化评级至“持有”，目标价降至4.32港元，同时将中国石油行业评级调至“中性” ...",
+    "id": "8jX6aNWOn4H",
+    "order": 1747981283240,
+    "createdAt": "2025-05-23T03:54:02.000Z",
+    "publishDate": "2025-05-23T06:21:23.240Z",
+    "title": "中银国际：下调油价预测 降中国石油化工股份评级至“持有”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-23 11:54:02",
+    "uuid": "005e6ef4-8e8a-4c8b-8931-21645fbe39a7"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "钛媒体" },
@@ -512,6 +621,24 @@
     "up": false,
     "date": "2025-05-23 11:49:11",
     "uuid": "9e33381c-d280-47fe-b39f-fe649eaab37a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "投资界" },
+      { "siteName": "投资界" },
+      { "siteName": "新芽" }
+    ],
+    "summary": "费曼科技（青岛）有限公司完成千万元天使轮融资，由梅花创投投资。资金将用于扩大生产规模、加强产品开发和市场拓展。公司专注于新型结构非充气轮胎技术，产品已应用于无人车、电动汽车等领域 ...",
+    "id": "8jYzqNEb1Fc",
+    "order": 1747981265519,
+    "createdAt": "2025-05-23T03:47:51.000Z",
+    "publishDate": "2025-05-23T06:21:05.519Z",
+    "title": "费曼科技获千万元天使轮融资，梅花创投独家投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-23 11:47:51",
+    "uuid": "2048c71b-8add-4dfb-995e-bfe3ff55e523"
   },
   {
     "newsArray": [
