@@ -1,6 +1,61 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "电力股午后拉升，乐山电力、江苏新能涨停，多股跟涨。",
+    "id": "8jhDKjNCXZp",
+    "order": 1748323411028,
+    "createdAt": "2025-05-27T05:23:31.000Z",
+    "publishDate": "2025-05-27T05:23:31.028Z",
+    "title": "电力股午后异动拉升，乐山电力涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 13:23:31",
+    "uuid": "4426c4c5-85ce-4b82-8e08-b60e884e5f69"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "固态电池概念股午后反弹，鹏辉能源涨超15%，金龙羽6天4板，领湃科技、南都电源等跟涨。",
+    "id": "8jhChZfRPEM",
+    "order": 1748323348507,
+    "createdAt": "2025-05-27T05:22:29.000Z",
+    "publishDate": "2025-05-27T05:22:28.507Z",
+    "title": "固态电池概念午后回升，鹏辉能源涨超15%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 13:22:29",
+    "uuid": "0f43eb2c-8d4a-4b21-bd1a-af34589df57c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "蓝点网" },
+      { "siteName": "牛透社" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "OpenAI与阿联酋政府达成战略合作，计划在阿布扎比建设总功率1吉瓦的“星际之门阿联酋”AI数据中心，首期200兆瓦工程预计2026年运营 ...",
+    "id": "8jh4jUxAZqK",
+    "order": 1748322821865,
+    "createdAt": "2025-05-27T05:13:42.000Z",
+    "publishDate": "2025-05-27T05:13:41.865Z",
+    "title": "OpenAI 与阿联酋政府合作免费开放ChatGPT Plus，打造中东 AI 枢纽",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 13:13:42",
+    "uuid": "90bd14b1-6f00-4f43-8b49-8356ebc3758b"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "36Kr" },
       { "siteName": "界面" }
