@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌发布LMEval开源框架，支持全模态评估、灵活扩展与智能识别，基于LiteLLM构建，具备增量评估、多线程并行及可视化功能，推动多模态模型评测标准化与研发效率提升。",
+    "id": "8jgwCdcudBN",
+    "order": 1748326799475,
+    "createdAt": "2025-05-27T06:20:00.000Z",
+    "publishDate": "2025-05-27T06:19:59.475Z",
+    "title": "谷歌发布LMEval开源框架 推动多模态模型标准化评测与研发效率升级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 14:20:00",
+    "uuid": "f775318c-ef95-4487-b934-800c78225fc7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI在韩国成立法律实体并计划于首尔开设办公室，以深化与当地企业及政策制定者合作。韩国作为全球第二大ChatGPT付费用户市场，用户活跃度在过去一年增长4.5倍 ...",
+    "id": "8jh1wvPZDD4",
+    "order": 1748326463221,
+    "createdAt": "2025-05-27T06:14:23.000Z",
+    "publishDate": "2025-05-27T06:14:23.221Z",
+    "title": "OpenAI 在韩国设立分公司，掀起 AI 热潮",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 14:14:23",
+    "uuid": "7d70af8e-2ebd-403c-ab58-dfcb16efd3b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "进出口银行已投放科技贷款超1500亿元，贷款余额约1.4万亿元，服务2200余家重点科技企业，推动科技创新与产业创新融合，发展新质生产力。",
+    "id": "8jhGHo8afze",
+    "order": 1748326752277,
+    "createdAt": "2025-05-27T06:12:11.000Z",
+    "publishDate": "2025-05-27T06:19:12.277Z",
+    "title": "进出口银行今年已投放科技贷款超1500亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 14:12:11",
+    "uuid": "d96ed990-15fd-408a-b958-f58eb5aaf7d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "金融界" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "美团和京东因争夺中国外卖市场份额，自去年底市值总计减少约1000亿美元，股票较去年高点下跌超30% ...",
+    "id": "8jhCb26LJiS",
+    "order": 1748326026907,
+    "createdAt": "2025-05-27T06:07:07.000Z",
+    "publishDate": "2025-05-27T06:07:06.907Z",
+    "title": "外卖大战代价昂贵，美团、京东市值总计已蒸发1000亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 14:07:07",
+    "uuid": "445e76b1-fbd7-43de-8bf0-4345e71f4856"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "市场监管总局发布《餐饮服务连锁企业落实食品安全主体责任监督管理规定（征求意见稿）》，向社会公开征求意见 ...",
+    "id": "8jhEPQ81XmX",
+    "order": 1748325968224,
+    "createdAt": "2025-05-27T06:06:08.000Z",
+    "publishDate": "2025-05-27T06:06:08.224Z",
+    "title": "强化餐饮连锁企业落实食品安全主体责任 市场监管总局公开征求意见",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 14:06:08",
+    "uuid": "62312c9e-858e-452c-b357-d8ec8b5dcd29"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "电商报" },
       { "siteName": "电商报" }
