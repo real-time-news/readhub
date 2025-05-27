@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "光线传媒宣布《哪吒之魔童闹海》英文配音版将于暑期在北美上映，日文配音版正在筹备并将在日本长线放映。",
+    "id": "8jhdHkIhid1",
+    "order": 1748345677437,
+    "createdAt": "2025-05-27T11:34:38.000Z",
+    "publishDate": "2025-05-27T11:34:37.437Z",
+    "title": "光线传媒：《哪吒之魔童闹海》英文配音版预计暑期登陆北美市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 19:34:38",
+    "uuid": "8d232f0b-5772-4317-96b9-ec7e0b94c348"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "瑞幸咖啡推出首个AI智能体1.0版，由火山引擎提供技术支持，通过豆包大模型实现语音下单、个性化推荐等功能，化身“智能咖啡管家” ...",
+    "id": "8jhO3u6I5Eh",
+    "order": 1748345500187,
+    "createdAt": "2025-05-27T11:31:42.000Z",
+    "publishDate": "2025-05-27T11:31:40.187Z",
+    "title": "瑞幸咖啡接入豆包大模型 支持语音下单等功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 19:31:42",
+    "uuid": "bbc62392-3d01-475b-9ea4-1be94ec2c99d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "金龙羽公告表示，固态电池业务虽有进展并获得小额订单，但尚未形成稳定收入，对整体业绩影响有限，且存在产业化和商用化不及预期的风险。",
+    "id": "8jhbdk6fgRT",
+    "order": 1748345184893,
+    "createdAt": "2025-05-27T11:26:24.000Z",
+    "publishDate": "2025-05-27T11:26:24.893Z",
+    "title": "金龙羽：固态电池业务暂未形成长期稳定收入",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-27 19:26:24",
+    "uuid": "c7bf584f-c21d-4c3e-816c-8bf1a03ba0b8"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "手机中国" },
       { "siteName": "IT 之家" }
