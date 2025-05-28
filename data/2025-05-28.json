@@ -1,6 +1,171 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "第78届世界卫生大会在瑞士日内瓦闭幕，审议通过《世界卫生组织大流行协定》，并批准2026年至2027年42亿美元的基本规划预算。",
+    "id": "8jizWd74v96",
+    "order": 1748420765749,
+    "createdAt": "2025-05-28T08:26:05.000Z",
+    "publishDate": "2025-05-28T08:26:05.749Z",
+    "title": "第78届世卫大会闭幕 通过具有历史意义的《世界卫生组织大流行协定》",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:26:05",
+    "uuid": "ada60c5c-255b-41f2-a5d1-72a0dd698053"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "美国得克萨斯州休斯敦因雷暴导致超16万人断电，风速达每小时113公里并伴有冰雹和闪电。目前部分电力已恢复。风暴将继续向东移动，影响路易斯安那州和密西西比州，可能带来更多恶劣天气。",
+    "id": "8jj4SvZ3QBX",
+    "order": 1748420662118,
+    "createdAt": "2025-05-28T08:24:22.000Z",
+    "publishDate": "2025-05-28T08:24:22.118Z",
+    "title": "美国雷暴致休斯敦地区超16万人断电",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:24:22",
+    "uuid": "caefc27c-0149-4ad7-a0be-dda6209ea450"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "字节跳动因防范数据泄露风险，自6月30日起内部分批次禁用第三方AI开发软件，如Cursor、Windsurf等，改用自家编程助手Trae ...",
+    "id": "8jiwohymVRq",
+    "order": 1748420391460,
+    "createdAt": "2025-05-28T08:19:52.000Z",
+    "publishDate": "2025-05-28T08:19:51.460Z",
+    "title": "字节跳动内部禁用Cursor等AI编程工具",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:19:52",
+    "uuid": "c3153b25-30e0-4955-b6ff-769c501708bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "海南省卫生健康委员会原副主任陈少仕因严重违纪违法被立案审查调查。经查，他违反中央八项规定精神、组织原则、廉洁纪律、工作纪律和生活纪律，利用职务便利为他人谋取利益并收受巨额财物 ...",
+    "id": "8jj3kA4zA4s",
+    "order": 1748420275896,
+    "createdAt": "2025-05-28T08:17:56.000Z",
+    "publishDate": "2025-05-28T08:17:55.896Z",
+    "title": "海南省卫生健康委员会原副主任陈少仕被开除党籍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:17:56",
+    "uuid": "493d0bfd-54c6-4861-8d57-17684a9726fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "广期所通知，2025年端午节休市期间各品种期货合约涨跌停板幅度和交易保证金标准不变。",
+    "id": "8jj4N67jGIw",
+    "order": 1748420172700,
+    "createdAt": "2025-05-28T08:16:13.000Z",
+    "publishDate": "2025-05-28T08:16:12.700Z",
+    "title": "广期所：端午节休市期间各品种期货合约涨跌停板幅度和交易保证金标准保持不变",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:16:13",
+    "uuid": "36655356-23e2-4add-8356-4a25f0520adb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "小马智行与广州公交集团达成战略合作，将在自动驾驶汽车、出行平台、后服务市场及物流运营服务等领域展开合作。",
+    "id": "8jj43726ub3",
+    "order": 1748420146298,
+    "createdAt": "2025-05-28T08:15:47.000Z",
+    "publishDate": "2025-05-28T08:15:46.298Z",
+    "title": "小马智行与广州公交集团达成战略合作，共同推动自动驾驶商业化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:15:47",
+    "uuid": "4c873533-6318-4727-9130-a8dc20ca62ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "港股午间收盘，恒生指数跌0.55%，恒生科技指数跌0.38% ... 快手涨超5%，泡泡玛特跌超6%，蜜雪集团跌超5%。",
+    "id": "8jimfFvmZm5",
+    "order": 1748420084700,
+    "createdAt": "2025-05-28T08:14:44.000Z",
+    "publishDate": "2025-05-28T08:14:44.700Z",
+    "title": "港股午评：恒生指数跌0.55% 泡泡玛特跌超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:14:44",
+    "uuid": "cbf7bcf8-0454-464c-a123-b1a558b017db"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "电商报" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "淘宝计划在香港开设第二家家具店，此前于今年2月与Papabo合作开设了首家“PapaHome淘宝家具实体店”。",
+    "id": "8jj3hdj84wB",
+    "order": 1748419997621,
+    "createdAt": "2025-05-28T08:13:18.000Z",
+    "publishDate": "2025-05-28T08:13:17.621Z",
+    "title": "消息称淘宝将在香港开设第二家家具店",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:13:18",
+    "uuid": "61253806-1013-41b8-ab56-71bffaa01f7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "投资界" },
+      { "siteName": "猎云网" },
+      { "siteName": "i黑马" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "凯辉创新基金三期完成10亿美元募资，成为欧盟最大AI专项基金，专注人工智能在数字医疗、金融科技、消费及出行与能源领域的深度应用 ...",
+    "id": "8jizPMwgcS7",
+    "order": 1748419589557,
+    "createdAt": "2025-05-28T08:06:29.000Z",
+    "publishDate": "2025-05-28T08:06:29.557Z",
+    "title": "凯辉创新基金三期完成10亿美元终关",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:06:29",
+    "uuid": "aa45e726-bace-4a21-85fb-abc306035ee2"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
@@ -83,6 +248,25 @@
     "up": false,
     "date": "2025-05-28 15:32:11",
     "uuid": "3e40d03c-d4a2-487c-81e9-fe8b94fb6c0d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "美图影像、盈米且慢、小冰数字人等40多个MCP服务已在阿里云百炼MCP广场上线，助力用户快速搭建图像编辑、金融分析和数字人等领域的AI智能体应用 ...",
+    "id": "8jj090fH7Oy",
+    "order": 1748420735581,
+    "createdAt": "2025-05-28T07:24:43.000Z",
+    "publishDate": "2025-05-28T08:25:35.581Z",
+    "title": "美图影像、盈米且慢等40多款应用首发上线阿里云百炼MCP广场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 15:24:43",
+    "uuid": "487e4d40-979a-453a-8e20-ab2d1ae326dd"
   },
   {
     "newsArray": [
