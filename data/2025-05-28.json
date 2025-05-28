@@ -1,6 +1,153 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "腾讯混元发布开源的语音数字人模型HunyuanVideo-Avatar，由混元视频大模型与天琴实验室MuseV技术联合研发 ...",
+    "id": "8jiogSKBuWM",
+    "order": 1748407100102,
+    "createdAt": "2025-05-28T04:38:20.000Z",
+    "publishDate": "2025-05-28T04:38:20.102Z",
+    "title": "腾讯发布并开源混元语音数字人模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:38:20",
+    "uuid": "20a547e7-0cc4-491d-a841-2b0a4f4db049"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公布了一项关于Apple Pencil的创新专利，未来该设备将内置颜色传感器系统，可从现实物体中捕捉颜色并传输至绘图应用 ...",
+    "id": "8jiaLKdFjJm",
+    "order": 1748406903084,
+    "createdAt": "2025-05-28T04:35:04.000Z",
+    "publishDate": "2025-05-28T04:35:03.084Z",
+    "title": "苹果Apple Pencil新专利：内置传感器，精准拾取现实色彩",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:35:04",
+    "uuid": "4f7f7958-141a-492b-bacf-cd3015f38ff1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小米YU7作为小米汽车的第二款车型已正式亮相，目前仅公开外观。5月29日起，北京13家门店将开启静态品鉴，6月起覆盖全国92城。因功能尚未完全发布，展示采取不开门方式 ...",
+    "id": "8jig6bs3yJa",
+    "order": 1748406861576,
+    "createdAt": "2025-05-28T04:34:22.000Z",
+    "publishDate": "2025-05-28T04:34:21.576Z",
+    "title": "小米YU7即将开启静态品鉴 6月起展车覆盖全国92城",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:34:22",
+    "uuid": "ff80bf4c-aa96-4878-9e7e-68e3c6dc9616"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "大润发调整组织架构，将原五大营运区整合为四大营运区，分别为华东区、华南区、华北区与东北区。其中，华中区的湖北、江西16家门店并入华东区，川渝25家门店并入华南区，陕甘宁青6家门店并入华北区。",
+    "id": "8jiofrVRmTF",
+    "order": 1748406799003,
+    "createdAt": "2025-05-28T04:33:20.000Z",
+    "publishDate": "2025-05-28T04:33:19.003Z",
+    "title": "裁撤华中大区，大润发五大营运区变更为四大营运区",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:33:20",
+    "uuid": "fbf46dce-e102-4e1f-940a-3c41c2ac783b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "地平线旗下的地瓜机器人完成1亿美元A轮融资，由多家投资机构参投。地瓜机器人已构建完整产品体系，覆盖芯片、算法到软件，满足多种机器人场景需求 ...",
+    "id": "8jio0XQtLc4",
+    "order": 1748406755351,
+    "createdAt": "2025-05-28T04:25:38.000Z",
+    "publishDate": "2025-05-28T04:32:35.351Z",
+    "title": "地瓜机器人宣布获1亿美元A轮融资，高瓴资本参投",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:25:38",
+    "uuid": "9e6bb8fd-4b06-4daf-81ef-96ab3fcd2de5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "上海期货交易所副总经理陆丰表示，我国虽为航运大国，但航运金融服务有待提升。上期所将从三方面开展工作：一是以风险防控为首要任务，维护航运指数期货市场稳定 ...",
+    "id": "8jinw9sAFKd",
+    "order": 1748406220398,
+    "createdAt": "2025-05-28T04:23:41.000Z",
+    "publishDate": "2025-05-28T04:23:40.398Z",
+    "title": "上期所副总经理陆丰：持续丰富航运衍生品体系 提升航运金融服务能级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:23:41",
+    "uuid": "19a4f70f-fa11-4e63-9e1e-f5f7cbb94139"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "山西全省已实现生育津贴直接发放至参保女职工个人账户，旨在优化生育保险服务，减轻家庭负担，提升参保职工的获得感与幸福感。",
+    "id": "8jinvyKHtHs",
+    "order": 1748406206076,
+    "createdAt": "2025-05-28T04:23:26.000Z",
+    "publishDate": "2025-05-28T04:23:26.076Z",
+    "title": "山西省全面实现生育津贴直接发放至个人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:23:26",
+    "uuid": "da20cdee-b9e8-44fc-9e44-410e29b435bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "上海乐高乐园度假区将于5月28日晚8点开启门票及酒店销售，成人首日票价549元，儿童与老人票439元，可通过官方APP、微信小程序、飞猪、抖音旗舰店及携程、美团等平台购买。",
+    "id": "8jigqEYDWT7",
+    "order": 1748406131982,
+    "createdAt": "2025-05-28T04:22:12.000Z",
+    "publishDate": "2025-05-28T04:22:11.982Z",
+    "title": "上海乐高乐园门票今日开售：开园首日成人标准票549元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:22:12",
+    "uuid": "dae3d673-ae67-4423-ab44-fbff610b3f6a"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -70,6 +217,24 @@
     "up": false,
     "date": "2025-05-28 12:05:06",
     "uuid": "c1ce8526-f29d-4854-bbb7-aba878a15ca2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "电商报" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "十风智能科技（北京）有限公司发生工商变更，新增小米智造为股东，注册资本从53万增至63万人民币，公司由王渝厅、任锐等共同持股，经营范围涵盖软件开发与集成电路相关业务。",
+    "id": "8jilsG5FLiT",
+    "order": 1748406723553,
+    "createdAt": "2025-05-28T04:04:22.000Z",
+    "publishDate": "2025-05-28T04:32:03.553Z",
+    "title": "小米智造基金入股十风智能科技公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:04:22",
+    "uuid": "4d03ba54-3beb-4d24-95f1-0c50207c9c2f"
   },
   {
     "newsArray": [
@@ -334,6 +499,27 @@
     "up": false,
     "date": "2025-05-28 10:36:56",
     "uuid": "81eedb72-bd33-4261-84e5-42aac93732e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中证网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "今年以来，江苏聚焦关键领域扩大有效投资，基础设施投资增速加快，1—4月同比增长10.9%。重大项目带动显著，电力热力生产和供应业投资增长64.9% ...",
+    "id": "8jiW8tHqpc2",
+    "order": 1748406754355,
+    "createdAt": "2025-05-28T02:36:31.000Z",
+    "publishDate": "2025-05-28T04:32:34.355Z",
+    "title": "前4月江苏10亿元以上基础设施项目投资增长9.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 10:36:31",
+    "uuid": "098298b8-3c97-4d36-be5a-c135c9801152"
   },
   {
     "newsArray": [
