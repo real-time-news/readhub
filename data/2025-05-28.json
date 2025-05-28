@@ -1,6 +1,84 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "美元兑日元短线下挫超30点，现报144.18。",
+    "id": "8jib4TfSaWD",
+    "order": 1748417085336,
+    "createdAt": "2025-05-28T07:24:01.000Z",
+    "publishDate": "2025-05-28T07:24:45.336Z",
+    "title": "美元兑日元短线下挫超30点，现报144.18",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 15:24:01",
+    "uuid": "7f234e24-da12-447a-879e-ee79ebea33a1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "大疆扫地机器人产品已开始量产，预计6月发布。",
+    "id": "8jj0lcTxOwt",
+    "order": 1748417092263,
+    "createdAt": "2025-05-28T07:22:25.000Z",
+    "publishDate": "2025-05-28T07:24:52.263Z",
+    "title": "大疆进入扫地机器人市场，首款产品即将发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 15:22:25",
+    "uuid": "aaa82d11-f0cb-460e-b13a-ffe3210bd09b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "A股三大指数今日集体调整，均录得5连跌，上证指数跌0.02%，深成指跌0.26%，创业板指跌0.31%，北证50指数跌1.39% ...",
+    "id": "8jj057QDkSY",
+    "order": 1748417119035,
+    "createdAt": "2025-05-28T07:17:40.000Z",
+    "publishDate": "2025-05-28T07:25:19.035Z",
+    "title": "A股收评：三大指数均录得5连跌，电商、化学原料等板块跌幅居前",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 15:17:40",
+    "uuid": "8fe7efb4-692d-49fe-a7fd-2e12da3bdc5b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "到2030年，重点突破50项以上计量关键核心技术，新建20项以上国际一流的新一代计量基准，核心装置自主可控率60%以上，新增国际计量比对主导率20% ...",
+    "id": "8jj05A9gH75",
+    "order": 1748416549584,
+    "createdAt": "2025-05-28T07:15:50.000Z",
+    "publishDate": "2025-05-28T07:15:49.584Z",
+    "title": "市场监管总局印发《计量测试关键技术创新攻关行动方案》",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 15:15:50",
+    "uuid": "3980253b-ac16-4c7a-b1ae-73b7a00cfc16"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "站长之家" },
       { "siteName": "快科技" }
@@ -49,6 +127,23 @@
     "up": false,
     "date": "2025-05-28 15:05:32",
     "uuid": "04b63b29-1bf5-4272-a452-a9124f9fc8e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "长城汽车董事长魏建军提及的“零公里二手车”现象引发关注。商务部消费促进司召集车企及相关机构讨论该问题及促进二手车流通消费 ...",
+    "id": "8jhTD1ifUip",
+    "order": 1748417160716,
+    "createdAt": "2025-05-28T07:02:40.000Z",
+    "publishDate": "2025-05-28T07:26:00.716Z",
+    "title": "长城魏建军炮轰“零公里二手车”乱象，消息称部分车企接通知参会研讨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 15:02:40",
+    "uuid": "7e01fffc-e466-43f9-b083-89efffccd76c"
   },
   {
     "newsArray": [
@@ -137,6 +232,23 @@
     "up": false,
     "date": "2025-05-28 14:45:39",
     "uuid": "6479daec-a428-48f5-8b5f-f7e7edea747f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "摩托罗拉解决方案将以44亿美元收购Silvus Technologies，包括43.8亿美元现金和2000万美元股票，核心员工股东将获额外股权激励 ...",
+    "id": "8jiVNfCyAAT",
+    "order": 1748417199330,
+    "createdAt": "2025-05-28T06:45:19.000Z",
+    "publishDate": "2025-05-28T07:26:39.330Z",
+    "title": "摩托罗拉44亿美元收购Silvus，创历史第二大并购",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 14:45:19",
+    "uuid": "c0f58f02-9e7b-45bc-90fa-a0f6c6c846f6"
   },
   {
     "newsArray": [
@@ -457,6 +569,23 @@
     "up": false,
     "date": "2025-05-28 13:53:14",
     "uuid": "9fab0b9d-1f1b-47ad-ab79-63229323232d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "吉利董事长李书福表示，要坚持开放式良性竞争，不打价格战，而是打价值战、技术战、品质战、服务战、品牌战和企业道德战，反对内卷式恶性竞争，坚持长期主义，为用户提供高质量的智能精品汽车 ...",
+    "id": "8jiXYHOrfw1",
+    "order": 1748417214681,
+    "createdAt": "2025-05-28T05:44:32.000Z",
+    "publishDate": "2025-05-28T07:26:54.681Z",
+    "title": "吉利李书福：反对无底线商业行为 坚持不打价格战",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 13:44:32",
+    "uuid": "5edaf307-fc2e-47da-ad7e-834b550420d8"
   },
   {
     "newsArray": [
@@ -1174,6 +1303,25 @@
     "up": false,
     "date": "2025-05-28 11:23:40",
     "uuid": "4853cf12-778a-4568-abf1-9b9e006da633"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "日本长期国债收益率从低点攀升，市场关注40年期国债标售以观察需求复苏迹象。日本财务省可能减少超长期国债发行量应对收益率飙升，日本央行将监测其对短期收益率的影响 ...",
+    "id": "8jiaP8b1bHt",
+    "order": 1748416661955,
+    "createdAt": "2025-05-28T03:22:32.000Z",
+    "publishDate": "2025-05-28T07:17:41.955Z",
+    "title": "日本超长期国债收益率回升 市场密切关注40年期国债标售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 11:22:32",
+    "uuid": "d40c03de-2df9-44d4-a5f3-d79406cc2bcb"
   },
   {
     "newsArray": [
