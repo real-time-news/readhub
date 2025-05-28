@@ -1,6 +1,135 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中旗股份公告，公司股票连续两日涨幅偏离值累计超30%，属交易异常。近期媒体关注高密市友道化学爆炸事故及公司氯虫苯甲酰胺项目，目前该项目仅处于审批阶段，未投产，事故影响有限 ...",
+    "id": "8jjHBVERM72",
+    "order": 1748430756708,
+    "createdAt": "2025-05-28T11:12:37.000Z",
+    "publishDate": "2025-05-28T11:12:36.708Z",
+    "title": "中旗股份：公司目前有氯虫苯甲酰胺的项目审批手续，但目前并未正式投产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 19:12:37",
+    "uuid": "bc22b5c6-8b3c-4792-b598-0d0729111366"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "南下资金今日净买入港股35.78亿港元，主要买入美团、中国移动、中国海洋石油等地平线机器人等，同时净卖出小米集团、恒生中国企业、快手、阿里巴巴、中芯国际等 ...",
+    "id": "8jjBVxdJVJQ",
+    "order": 1748430639140,
+    "createdAt": "2025-05-28T11:10:40.000Z",
+    "publishDate": "2025-05-28T11:10:39.140Z",
+    "title": "图解丨南下资金加仓美团、移动，减仓小米",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 19:10:40",
+    "uuid": "d36a595d-5a24-4c38-a01d-a34b411bea36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "北约提议将网络安全纳入新支出目标。",
+    "id": "8jjGXb9oqNB",
+    "order": 1748430518464,
+    "createdAt": "2025-05-28T11:08:39.000Z",
+    "publishDate": "2025-05-28T11:08:38.464Z",
+    "title": "北约提议将网络安全纳入新支出目标",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 19:08:39",
+    "uuid": "392d5444-3719-47cb-9b3b-cbcb57a810d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "游戏驿站宣布购买4710枚比特币，按近期11万美元单价计算，总耗资超5亿美元。",
+    "id": "8jjG272y97T",
+    "order": 1748430436228,
+    "createdAt": "2025-05-28T11:07:17.000Z",
+    "publishDate": "2025-05-28T11:07:16.228Z",
+    "title": "游戏驿站斥资超5亿美元购买4710枚比特币",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 19:07:17",
+    "uuid": "1441ca25-f956-438f-85b7-b7afc36aa0b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "合合信息计划发行H股并在香港联交所主板上市，以推动全球化布局、提升资本运作能力和品牌影响力。该计划需经股东大会审议及相关部门批准，具体细节尚未确定。",
+    "id": "8jjCHv1Cbvl",
+    "order": 1748430351074,
+    "createdAt": "2025-05-28T11:05:52.000Z",
+    "publishDate": "2025-05-28T11:05:51.074Z",
+    "title": "合合信息：拟筹划发行H股股票并在香港联交所上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 19:05:52",
+    "uuid": "c722dbf8-1b9b-4cf8-8dd7-83a4342ad3fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "智东西" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "谷歌推出开源框架 LMEval，为大语言模型和多模态模型提供标准化评测工具，简化跨平台模型比较，支持文本、图像、代码等领域评估，并能识别模型的规避策略。",
+    "id": "8jj6CAIH6jp",
+    "order": 1748430307221,
+    "createdAt": "2025-05-28T11:05:08.000Z",
+    "publishDate": "2025-05-28T11:05:07.221Z",
+    "title": "谷歌开源 LMEval 框架，面向 AI 大模型的评测工具",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 19:05:08",
+    "uuid": "7ef4fda9-e5f8-4f43-9203-dea26c01f080"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "蓝点网" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "The Browser Company 停止开发浏览器 Arc，转向 AI 驱动的浏览器 Dia，目前处于 Alpha 阶段 ...",
+    "id": "8ji1NbwjG4V",
+    "order": 1748430118151,
+    "createdAt": "2025-05-28T11:01:59.000Z",
+    "publishDate": "2025-05-28T11:01:58.151Z",
+    "title": "The Browser Company 停止开发 Arc 转向 AI 驱动浏览器 Dia",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 19:01:59",
+    "uuid": "845d9c3c-e2db-451d-ad52-d5aec7a50d4b"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -1287,6 +1416,31 @@
     "up": false,
     "date": "2025-05-28 15:46:42",
     "uuid": "ffd58b03-54bb-4341-b0f5-2a0810425ee3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "广州民营科技园核心区的陶瓷城安置房项目珑璟华庭于5月27日交付，该项目共有18栋楼2490套安置房，户型多样，去化率超90% ...",
+    "id": "8jj1TUA90aH",
+    "order": 1748430696099,
+    "createdAt": "2025-05-28T07:44:45.000Z",
+    "publishDate": "2025-05-28T11:11:36.099Z",
+    "title": "广东省首单保障房定购项目陶瓷城2490套安置房交付",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 15:44:45",
+    "uuid": "fb96bbe9-1fef-4ef7-8f56-a8edc494dc73"
   },
   {
     "newsArray": [
