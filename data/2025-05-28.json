@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英国工业联合会表示，5月份英国零售商信心快速下滑，零售量同比下降27%，预计6月继续下滑。需求低迷下，零售商计划减少投资和裁员。",
+    "id": "8jj7DlOjiyU",
+    "order": 1748422409582,
+    "createdAt": "2025-05-28T08:53:29.000Z",
+    "publishDate": "2025-05-28T08:53:29.582Z",
+    "title": "调查显示5月英国零售商信心以五年来最快速度下滑",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:53:29",
+    "uuid": "eb0f9e82-0437-4471-b0a8-e8ae47960832"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "5月1-25日，全国乘用车市场零售135.8万辆，同比增长16%，新能源车零售72.6万辆，同比增长31%，渗透率达53.5% ...",
+    "id": "8jj52veLwmd",
+    "order": 1748422194184,
+    "createdAt": "2025-05-28T08:49:54.000Z",
+    "publishDate": "2025-05-28T08:49:54.184Z",
+    "title": "乘联分会：5月1-25日全国乘用车市场零售135.8万辆，同比增长16%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:49:54",
+    "uuid": "dbad23e6-40bf-4ed6-866a-ead552d91bbc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "牛透社" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "字节跳动加强数据安全管理，自6月30日起分阶段停用Cursor、Windsurf等第三方AI开发工具，全面转向自研产品Trae ...",
+    "id": "8jixG64LNkK",
+    "order": 1748422002521,
+    "createdAt": "2025-05-28T08:46:42.000Z",
+    "publishDate": "2025-05-28T08:46:42.521Z",
+    "title": "字节跳动全面弃用第三方AI工具，自研Trae成新宠",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:46:42",
+    "uuid": "452b8125-5a9d-429e-b9da-e521648dc8f9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "金山软件第一季度营收23.4亿元人民币，同比增长9%，低于预估的24.9亿元人民币 ...",
+    "id": "8jj5u7M5Yey",
+    "order": 1748422165538,
+    "createdAt": "2025-05-28T08:44:10.000Z",
+    "publishDate": "2025-05-28T08:49:25.538Z",
+    "title": "金山软件：第一季度营收23.4亿元，同比增长9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 16:44:10",
+    "uuid": "5a14db3c-684e-45e6-9e93-25821b40b56e"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
