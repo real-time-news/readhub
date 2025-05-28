@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "金融界" },
+      { "siteName": "联商网" }
+    ],
+    "summary": "美团在最新财报电话会议中表示将采取必要措施参与竞争，但迅速澄清并非指价格战，而是反对“低价低质”的恶性竞争。公司强调核心任务是加强骑手保障和商家支持，推动行业健康发展 ...",
+    "id": "8jgwxpGmhPZ",
+    "order": 1748407774167,
+    "createdAt": "2025-05-28T04:49:34.000Z",
+    "publishDate": "2025-05-28T04:49:34.167Z",
+    "title": "美团回应“不惜代价竞争”言论",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:49:34",
+    "uuid": "93020bf8-f9ee-40ea-a356-8ce784421c36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "字节跳动因防范数据泄露风险，将自6月30日起在内部分批次禁用第三方AI开发软件，如Cursor、Windsurf等，改用自家编程助手Trae作为替代 ...",
+    "id": "8jipNa2UqCu",
+    "order": 1748407421576,
+    "createdAt": "2025-05-28T04:43:42.000Z",
+    "publishDate": "2025-05-28T04:43:41.576Z",
+    "title": "字节发最新内部邮件：将禁用Cursor等第三方AI开发软件 推自研Trae作为替代",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-28 12:43:42",
+    "uuid": "5adf2123-8383-43e9-b164-4d54389928d2"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
