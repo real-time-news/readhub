@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软 OneDrive 文件选择器存在严重安全漏洞，问题源于权限范围过于宽泛且缺乏精细化 OAuth 控制。用户上传单个文件时需授权整个云存储读取权限，授权提示模糊，增加风险 ...",
+    "id": "8jlilGgqe9H",
+    "order": 1748562462380,
+    "createdAt": "2025-05-29T23:47:43.000Z",
+    "publishDate": "2025-05-29T23:47:42.380Z",
+    "title": "微软 OneDrive 被曝安全漏洞：文件选择器权限过宽恐致数据泄露",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-30 07:47:43",
+    "uuid": "760d5998-1a56-4d65-be33-799aded949b5"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" }
