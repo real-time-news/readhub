@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "特朗普政府的贸易战导致企业销售额下降和成本上升，全球企业已损失超340亿美元，多家大型公司因关税不确定性陷入决策困境，苹果、福特等公司下调利润预期，称贸易政策反复无常难以估算成本。",
+    "id": "8jljUpYGk3q",
+    "order": 1748561119059,
+    "createdAt": "2025-05-29T23:25:20.000Z",
+    "publishDate": "2025-05-29T23:25:19.059Z",
+    "title": "媒体分析称：美贸易战已致全球企业损失超340亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-30 07:25:20",
+    "uuid": "b4b52eea-cdab-4e5f-b0a1-0c93a5baac27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "阿里巴巴在Github上开源了自主搜索AI Agent——WebAgent，包含WebDancer和WebWalker两个部分 ...",
+    "id": "8jliqEb5C4a",
+    "order": 1748560927130,
+    "createdAt": "2025-05-29T23:22:08.000Z",
+    "publishDate": "2025-05-29T23:22:07.130Z",
+    "title": "阿里巴巴开源自主搜索 AI 智能体 WebAgent",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-30 07:22:08",
+    "uuid": "dbfb6939-7216-440f-8130-0bd302a113a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "前一汽南京研究院CTO陈光已加入小米汽车，担任辅助驾驶感知方向负责人，直接向叶航军汇报。此前该岗位负责人蔡锐已调任小米机器人业务部门 ...",
+    "id": "8jktzN68hDm",
+    "order": 1748560580003,
+    "createdAt": "2025-05-29T23:16:21.000Z",
+    "publishDate": "2025-05-29T23:16:20.003Z",
+    "title": "小米汽车迎前一汽首席技术官陈光，发力辅助驾驶感知",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-30 07:16:21",
+    "uuid": "df114997-475c-442d-9989-f199cb11a689"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "阿根廷多批次医用芬太尼遭细菌污染，已致34人死亡、69人感染。卫生部门怀疑实际感染人数更多，已确认至少三个批次药品受污染并采取紧急措施停用和查封 ...",
+    "id": "8jlUSHtIvlh",
+    "order": 1748560560293,
+    "createdAt": "2025-05-29T23:16:00.000Z",
+    "publishDate": "2025-05-29T23:16:00.293Z",
+    "title": "阿根廷多批次医用芬太尼遭细菌污染 已致34人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-30 07:16:00",
+    "uuid": "fada7cb0-db86-47bc-a007-4bc46f8ebc58"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "法庭文件显示：美国证券交易委员会（SEC）决定，撤销针对加密数字货币交易所币安的诉讼。",
+    "id": "8jld4EgRA90",
+    "order": 1748560940476,
+    "createdAt": "2025-05-29T23:15:22.000Z",
+    "publishDate": "2025-05-29T23:22:20.476Z",
+    "title": "美国证监会决定对币安撤诉",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-30 07:15:22",
+    "uuid": "8e15c8d6-083a-4870-b317-b19e027fa51e"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "36Kr" }
