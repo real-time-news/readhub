@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "开源中国" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "云从科技自主研发的从容大模型在OpenCompass全球多模态榜单中以80.7分登顶，该模型在视觉感知、认知理解及跨领域应用等多个专业领域表现优异。",
+    "id": "8jkf5jF6917",
+    "order": 1748506808936,
+    "createdAt": "2025-05-29T08:20:08.000Z",
+    "publishDate": "2025-05-29T08:20:08.936Z",
+    "title": "云从科技多模态大模型登顶OpenCompass全球多模态榜单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-29 16:20:08",
+    "uuid": "da2e7a4b-d50b-47d2-a6ce-55fcf50e77d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "恒生指数午后涨幅扩大至1%，恒生科技指数涨超2%。",
+    "id": "8jkMOsDo9qP",
+    "order": 1748506532098,
+    "createdAt": "2025-05-29T08:15:32.000Z",
+    "publishDate": "2025-05-29T08:15:32.098Z",
+    "title": "恒生指数午后涨幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-29 16:15:32",
+    "uuid": "ca15f9eb-4c46-4019-af75-9b23ab31b3ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中概股盘前多数上涨，京东涨超6%，文远知行涨超5%，百度涨近4%，拼多多和小马智行涨超3%。",
+    "id": "8jkjG4fbqhX",
+    "order": 1748506411872,
+    "createdAt": "2025-05-29T08:13:32.000Z",
+    "publishDate": "2025-05-29T08:13:31.872Z",
+    "title": "中概股美股盘前多数上涨，京东涨超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-29 16:13:32",
+    "uuid": "258423ed-e33b-47f9-9737-771c216b0bd5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "西北农林科技大学刘斌教授团队在《IEEE Transactions on Computers》发表研究论文，提出混合并行训练方法GroPipe，解决深度卷积神经网络大模型训练中负载不均衡和高通信开销问题 ...",
+    "id": "8jkHipfjlC9",
+    "order": 1748506051734,
+    "createdAt": "2025-05-29T08:07:31.000Z",
+    "publishDate": "2025-05-29T08:07:31.734Z",
+    "title": "我国科学家发明混合并行新算法，让 AI 训练速度翻倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-29 16:07:31",
+    "uuid": "986bca5a-0ada-4a25-9258-5078df5bb7dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日本贸易谈判代表赤泽亮正将赴华盛顿进行第四轮贸易谈判，尽管美国法院裁定相关关税违法，但谈判仍将继续。赤泽表示会仔细研究裁决影响并做出适当回应，同时寻求对美关税审议及双赢协议 ...",
+    "id": "8jkFJIlG3HX",
+    "order": 1748505846532,
+    "createdAt": "2025-05-29T07:56:26.000Z",
+    "publishDate": "2025-05-29T08:04:06.532Z",
+    "title": "日本首席贸易谈判代表启程赴美 参加新一轮日美关税谈判",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-29 15:56:26",
+    "uuid": "01948c35-749a-4af6-978c-7086d8b4feea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "AI初创公司Anthropic宣布奈飞主席哈斯廷斯加入其董事会，哈斯廷斯对Anthropic的AI发展方向表示认同。",
+    "id": "8jkFFUaQdKL",
+    "order": 1748506028484,
+    "createdAt": "2025-05-29T07:54:46.000Z",
+    "publishDate": "2025-05-29T08:07:08.484Z",
+    "title": "AI初创公司Anthropic委任奈飞主席出任董事",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-29 15:54:46",
+    "uuid": "924662d0-40a9-46bb-b9e2-480038e9c87e"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -141,6 +247,48 @@
     "up": false,
     "date": "2025-05-29 15:28:50",
     "uuid": "8c3fe477-7a1d-4dcd-ac13-cb6697679edd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中美在经贸领域保持多层级沟通，中方敦促美方纠正错误做法，停止对华歧视性限制措施，共同维护经贸会谈共识。",
+    "id": "8jkfhUn26We",
+    "order": 1748505776600,
+    "createdAt": "2025-05-29T07:22:49.000Z",
+    "publishDate": "2025-05-29T08:02:56.600Z",
+    "title": "商务部：再次敦促美方停止对华歧视性限制措施，共同维护日内瓦高层会谈共识",
+    "type": "topic",
+    "up": false,
+    "date": "2025-05-29 15:22:49",
+    "uuid": "634c57a9-3ce6-4c4a-b6d5-9ea543335b49"
   },
   {
     "newsArray": [
