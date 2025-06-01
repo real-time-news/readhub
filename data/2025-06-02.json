@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "马斯克推出全新XChat，具备加密、消息自毁、文件发送及音视频通话功能，基于Rust语言构建，采用比特币式加密和新架构。",
+    "id": "8jqQLCPLe1c",
+    "order": 1748820150303,
+    "createdAt": "2025-06-01T23:16:59.000Z",
+    "publishDate": "2025-06-01T23:22:30.303Z",
+    "title": "马斯克推出全新XChat：具备加密功能，支持音/视频通话",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-02 07:16:59",
+    "uuid": "c14ed388-731d-4bac-b02e-9c4ba3d9b8a3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "乌克兰国家安全局宣布对俄罗斯西伯利亚地区的轰炸机基地实施代号为“蛛网”的特别行动，称约34%的俄战略轰炸机遭到攻击，造成俄方70亿美元损失 ...",
+    "id": "8jqZctpfMlw",
+    "order": 1748819522957,
+    "createdAt": "2025-06-01T23:12:03.000Z",
+    "publishDate": "2025-06-01T23:12:02.957Z",
+    "title": "乌称“蛛网”行动造成俄方70亿美元损失，俄方暂未回应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-02 07:12:03",
+    "uuid": "3422458a-a6b4-4515-a825-81db222445c4"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
