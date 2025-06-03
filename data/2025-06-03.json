@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌向部分安卓用户推送新版 Messages 应用测试版，引入 Material 3 Expressive 风格，优化表情菜单交互体验，调整 Photomoji 功能位置至最后一个。",
+    "id": "8jss61Im4yU",
+    "order": 1748934544160,
+    "createdAt": "2025-06-03T07:09:29.000Z",
+    "publishDate": "2025-06-03T07:09:04.160Z",
+    "title": "谷歌推送新版 Messages 应用测试版，采用 Material 3 风格",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-03 15:09:29",
+    "uuid": "e8cc2db8-022f-4b37-bfc1-d392637cdeb3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Salesforce 发言人澄清，公司并非收购 AI 招聘初创企业 Moonhub，而是部分团队成员将加入 Salesforce ...",
+    "id": "8jsX9LMWU0g",
+    "order": 1748934533064,
+    "createdAt": "2025-06-03T07:09:18.000Z",
+    "publishDate": "2025-06-03T07:08:53.064Z",
+    "title": "AI 招聘初创 Moonhub 关停:Salesforce 吸纳部分人才",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-03 15:09:18",
+    "uuid": "196491e8-4a69-4869-a522-a8c0e2bf1907"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "智元机器人旗下的远征A2人形机器人获得中国CR、欧盟CE-MD与CE-RED以及美国FCC四项权威认证，成为全球首个同时拥有中、美、欧认证的人形机器人 ...",
+    "id": "8jsbPlzwrXV",
+    "order": 1748934533189,
+    "createdAt": "2025-06-03T07:09:18.000Z",
+    "publishDate": "2025-06-03T07:08:53.189Z",
+    "title": "智元远征A2人形机器人：全球首获中欧美三大区域认证，实力领跑",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-03 15:09:18",
+    "uuid": "979be32a-b5f7-42db-b605-9c6b2b23a1e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果即将举行的WWDC上，虽承诺发布一系列更新，但投资人期待值不高。市场瞩目的Siri AI更新预计不会亮相，可能延至下一个系统更新周期 ...",
+    "id": "8jsvNKH42rf",
+    "order": 1748934213716,
+    "createdAt": "2025-06-03T07:03:40.000Z",
+    "publishDate": "2025-06-03T07:03:33.716Z",
+    "title": "花旗：Siri AI更新将缺席苹果开发者大会 投资人对此次活动期待值偏低",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-03 15:03:40",
+    "uuid": "0de275ca-ead0-4cc8-8c9e-05593e18da21"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
