@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "沃尔玛更新物流政策，允许卖家使用亚马逊多渠道配送服务履行订单，但禁止通过低买高卖方式进行转运或套利发货。",
+    "id": "8jsgiI2enEc",
+    "order": 1748932946998,
+    "createdAt": "2025-06-03T06:42:27.000Z",
+    "publishDate": "2025-06-03T06:42:26.998Z",
+    "title": "沃尔玛更新物流政策 卖家可使用亚马逊MCF配送",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-03 14:42:27",
+    "uuid": "7886044e-2b67-4497-9fa2-bc04769c4850"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "华为终端将于6月11日发布首款搭载鸿蒙操作系统5的鸿蒙AI智能手表WATCH 5，同期还将举行华为Pura 80系列及全场景新品发布会。",
+    "id": "8jstwcDMz5c",
+    "order": 1748933154288,
+    "createdAt": "2025-06-03T06:38:30.000Z",
+    "publishDate": "2025-06-03T06:45:54.288Z",
+    "title": "华为首款鸿蒙AI智能手表官宣",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-03 14:38:30",
+    "uuid": "cf60f6dd-03a8-4d82-bb29-4924c77df80c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "瑞士5月CPI年率-0.1%，与预期持平，前值为0.0%。月率为0.1%，符合预期，前值为0.0%。",
+    "id": "8jsugmsqZ9j",
+    "order": 1748932550878,
+    "createdAt": "2025-06-03T06:35:50.000Z",
+    "publishDate": "2025-06-03T06:35:50.878Z",
+    "title": "瑞士5月CPI同比-0.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-03 14:35:50",
+    "uuid": "5fc49828-0ffb-4a34-96c9-45ecd6c5aceb"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -49,6 +103,24 @@
     "up": false,
     "date": "2025-06-03 14:17:34",
     "uuid": "58f192c8-753d-4b41-9388-c9e61ff5d3e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "央视新闻" },
+      { "siteName": "界面" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "水利部国科司组织中国水科院发布“水利标准AI大模型”，基于多源语料和先进技术架构，实现水利标准全生命周期智能化管理，集成1800余项标准及多类资源，查重比对准确率超96.7%，显著提升标准管理效能，未来将持续优化并扩充知识库。",
+    "id": "8jsbTAkXkCW",
+    "order": 1748932421840,
+    "createdAt": "2025-06-03T06:15:42.000Z",
+    "publishDate": "2025-06-03T06:33:41.840Z",
+    "title": "水利部：水利标准AI大模型正式发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-03 14:15:42",
+    "uuid": "ded7439b-43c1-4d99-8332-55608814724a"
   },
   {
     "newsArray": [
@@ -888,6 +960,30 @@
     "up": false,
     "date": "2025-06-03 10:33:07",
     "uuid": "ec681f65-5a2d-42bf-aa32-a268e72ddf27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "沪深两市成交额突破5000亿，预计全天成交超1.2万亿，较上一日同时段缩量超70亿。",
+    "id": "8jscnV77stV",
+    "order": 1748932334251,
+    "createdAt": "2025-06-03T02:24:37.000Z",
+    "publishDate": "2025-06-03T06:32:14.251Z",
+    "title": "沪深两市成交额突破5000亿 预计全天成交超1.2万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-03 10:24:37",
+    "uuid": "3763a7e0-7610-48c7-9c40-908e3de6766a"
   },
   {
     "newsArray": [
