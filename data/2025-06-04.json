@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "比亚迪腾势销售事业部总经理赵长江透露，腾势正在开发挥手开关门功能，预计腾势Z9GT、腾势Z9和腾势N9三款车型将首批搭载 ...",
+    "id": "8juI0Jj9RU3",
+    "order": 1749006384006,
+    "createdAt": "2025-06-04T03:06:25.000Z",
+    "publishDate": "2025-06-04T03:06:24.006Z",
+    "title": "比亚迪赵长江：腾势汽车挥手开关车门功能已在开发中",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 11:06:25",
+    "uuid": "2553639d-c85a-4207-8b62-4afb936c7485"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "深圳市工业和信息化局发布2025年智能终端产业发展扶持计划项目申报指南，涵盖六大资助项目类别，最高资助2000万元 ...",
+    "id": "8juKZGVeuxX",
+    "order": 1749006289206,
+    "createdAt": "2025-06-04T03:04:50.000Z",
+    "publishDate": "2025-06-04T03:04:49.206Z",
+    "title": "深圳：人工智能终端技术攻关最高可资助2000万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 11:04:50",
+    "uuid": "52038197-e60a-4eb4-9264-1bc5abe32ca7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "稀土永磁板块震荡走强，广晟有色两连板，九菱科技涨超10%，大地熊、中科磁业等多股涨幅靠前。",
+    "id": "8juKa6GcARA",
+    "order": 1749006238268,
+    "createdAt": "2025-06-04T03:03:59.000Z",
+    "publishDate": "2025-06-04T03:03:58.268Z",
+    "title": "稀土永磁板块震荡走强，广晟有色2连板",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 11:03:59",
+    "uuid": "439429b0-13a5-46af-9eec-f83eae93aa7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "阿里速卖通向波兰本地商家全面开放，过去一年已吸引一批波兰知名企业入驻，旨在扩大本地业务发展。",
+    "id": "8juJp4KnJ6K",
+    "order": 1749006077243,
+    "createdAt": "2025-06-04T03:01:18.000Z",
+    "publishDate": "2025-06-04T03:01:17.243Z",
+    "title": "速卖通向波兰本地商家全面开放",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 11:01:18",
+    "uuid": "0b330994-c121-4eac-b64c-fd4a0e6ee397"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "利弗莫尔证券显示，深圳西普尼精密科技股份有限公司向港交所提交上市申请书，独家保荐人平安证券（香港）。",
+    "id": "8juJpIpTKuf",
+    "order": 1749005729709,
+    "createdAt": "2025-06-04T02:55:30.000Z",
+    "publishDate": "2025-06-04T02:55:29.709Z",
+    "title": "深圳西普尼精密科技股份有限公司向港交所提交上市申请书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 10:55:30",
+    "uuid": "03074bf3-a892-45c1-a615-f69b07b853f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "美国最大的核电运营商Constellation Energy将向Meta出售伊利诺伊州克林顿核电站的电力，双方签署20年合约，自2027年起提供1121兆瓦电力 ...",
+    "id": "8jtT3P0UB7m",
+    "order": 1749006132726,
+    "createdAt": "2025-06-04T01:57:12.000Z",
+    "publishDate": "2025-06-04T03:02:12.726Z",
+    "title": "Meta与美国最大核电运营商达成协议 将采购核电发展人工智能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 09:57:12",
+    "uuid": "24f238d3-c052-4f44-9bbe-e979c52c4114"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -161,6 +269,70 @@
     "up": false,
     "date": "2025-06-04 09:27:34",
     "uuid": "00a73634-879a-487d-8e12-65bfafc66a33"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "网友曝光入住杭州亚朵酒店时发现枕套印有医院Logo，酒店致歉称系洗涤供应商工作失误，已终止合作并对布草进行全面排查。",
+    "id": "8ju58w8JCUn",
+    "order": 1749005760551,
+    "createdAt": "2025-06-04T00:32:50.000Z",
+    "publishDate": "2025-06-04T02:56:00.551Z",
+    "title": "网友称入住杭州一亚朵酒店发现“医院枕套”，涉事酒店致歉",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 08:32:50",
+    "uuid": "674e04b4-c782-4faf-84ee-54fcf3b3daee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "小红书发布治理公告，针对“拉踩测评”类商业营销行为进行专项治理，禁止竞对抹黑攻击、误导性对比和非真实舆论引导等形式，平台将严格处置相关内容、账号及品牌。",
+    "id": "8jtGTRYkF4t",
+    "order": 1749005803048,
+    "createdAt": "2025-06-04T00:05:52.000Z",
+    "publishDate": "2025-06-04T02:56:43.048Z",
+    "title": "小红书严查「拉踩测评」 涉事品牌方恐遭连坐",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 08:05:52",
+    "uuid": "b4b90aa9-0034-4d5c-a6fb-d61e9a4096cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "爱范儿" },
+      { "siteName": "新浪科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "苹果公布本年度苹果设计大奖得主及入围作品，表彰12款在创新、技术和设计上表现卓越的App与游戏 ...",
+    "id": "8ju3hkJ0H08",
+    "order": 1749005826687,
+    "createdAt": "2025-06-04T00:05:08.000Z",
+    "publishDate": "2025-06-04T02:57:06.687Z",
+    "title": "2025 苹果设计大奖揭晓：12 款 App 与游戏树立行业标杆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 08:05:08",
+    "uuid": "79f9f1ab-d972-4533-aa6a-7b6fc6dc1d76"
   },
   {
     "newsArray": [
@@ -406,6 +578,27 @@
     "up": false,
     "date": "2025-06-04 06:33:30",
     "uuid": "c12b827f-12eb-4f9b-b20a-7e798e0581ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "马斯克批评特朗普税改法案，称其为破坏预算的“可憎之物”，共和党内部对此也有分歧 ...",
+    "id": "8jtjQDSd0wy",
+    "order": 1749006161342,
+    "createdAt": "2025-06-03T20:52:41.000Z",
+    "publishDate": "2025-06-04T03:02:41.342Z",
+    "title": "马斯克炮轰特朗普税改法案 称其大而荒谬、令人作呕",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 04:52:41",
+    "uuid": "7f7d7f66-26be-49c2-bada-cb7cb9d17762"
   },
   {
     "newsArray": [
