@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "旭辉控股股价高开9.5%，报0.265港元，涨超7%。公司宣布已获法定大多数计划债权人支持债务重组计划，参与会议的79.33亿美元债权人中约92.66%赞成 ...",
+    "id": "8juE5Ak1AOf",
+    "order": 1749021158496,
+    "createdAt": "2025-06-04T07:12:38.000Z",
+    "publishDate": "2025-06-04T07:12:38.496Z",
+    "title": "旭辉控股境外债务重组获债权人支持 股价一度涨逾9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 15:12:38",
+    "uuid": "02bf51bb-4b12-44a8-9d5f-432cc3f0c56d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "浙江三花智能控制股份有限公司通过港交所上市聆讯，联席保荐人为中金公司、华泰国际。",
+    "id": "8jubiQ3lPkB",
+    "order": 1749020792844,
+    "createdAt": "2025-06-04T07:06:33.000Z",
+    "publishDate": "2025-06-04T07:06:32.844Z",
+    "title": "三花智控通过港交所上市聆讯",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 15:06:33",
+    "uuid": "df18542d-ab38-4cc4-87e9-1a9f98b5bf45"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌计划在Android16中推出“增强型HDR亮度”设置，允许用户控制Pixel手机HDR内容的亮度提升程度。该功能包括开关和滑块，可调节HDR效果强度或完全禁用HDR支持 ...",
+    "id": "8juZrvZPj5T",
+    "order": 1749020759966,
+    "createdAt": "2025-06-04T07:06:01.000Z",
+    "publishDate": "2025-06-04T07:05:59.966Z",
+    "title": "谷歌 Android 16 将推新功能：HDR 内容亮度可调，避免夜间刺眼",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 15:06:01",
+    "uuid": "6a2c7a04-a636-4c7c-b6af-ff4e63241bab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小鹏汽车与华为乾崑达成合作，将采用华为AR-HUD抬头显示技术。预热海报透露，双方合作的首款车型或为小鹏G7，其AR-HUD功能可显示剩余续航、车道级导航、道路信息及剩余里程时间等，为驾驶者提供便捷信息支持。",
+    "id": "8juGa8FLxZD",
+    "order": 1749020543270,
+    "createdAt": "2025-06-04T07:02:24.000Z",
+    "publishDate": "2025-06-04T07:02:23.270Z",
+    "title": "小鹏汽车与华为达成合作 XHUD相关新技术将发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 15:02:24",
+    "uuid": "39959945-2bb6-4bf2-a7dc-9161db4722b2"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "钛媒体" },
       { "siteName": "36Kr" },
@@ -16,6 +86,24 @@
     "up": false,
     "date": "2025-06-04 14:52:57",
     "uuid": "6073f13c-cf3e-49b0-940a-e3e78279f425"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "杭州南熏信息技术有限公司成立，法定代表人为胡水清，注册资本1000万人民币，经营范围涵盖市场营销策划、信息咨询、数字技术、网络技术等服务，由蚂蚁集团旗下公司全资持股。",
+    "id": "8juYmpIOc74",
+    "order": 1749020684485,
+    "createdAt": "2025-06-04T06:52:36.000Z",
+    "publishDate": "2025-06-04T07:04:44.485Z",
+    "title": "蚂蚁集团成立信息技术新公司 注册资本1000万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 14:52:36",
+    "uuid": "62009771-5036-4147-aa7a-a4364a45de3d"
   },
   {
     "newsArray": [
@@ -105,6 +193,24 @@
     "up": false,
     "date": "2025-06-04 14:32:01",
     "uuid": "f6747410-3008-4d58-bfa8-2e2f533f1ef6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "浙江杭绍具身智能科技创新有限公司成立，法定代表人为周军，注册资本2000万元，业务涉及人工智能软件开发、智能机器人研发等，由绍兴市上虞江科数智产业发展有限公司和上海智元新创技术有限公司等共同持股。",
+    "id": "8juJeM7iXFV",
+    "order": 1749020544149,
+    "createdAt": "2025-06-04T06:23:13.000Z",
+    "publishDate": "2025-06-04T07:02:24.149Z",
+    "title": "智元机器人等成立具身智能新公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 14:23:13",
+    "uuid": "770c8bf0-378a-48b6-beaf-497c72656f57"
   },
   {
     "newsArray": [
