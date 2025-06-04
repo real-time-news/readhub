@@ -1,6 +1,141 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "沪深两市成交额连续第5个交易日突破1万亿，较昨日此时放量近7亿元，预计全天成交金额约1.14万亿。",
+    "id": "8juIQja3xQ0",
+    "order": 1749018753324,
+    "createdAt": "2025-06-04T06:32:34.000Z",
+    "publishDate": "2025-06-04T06:32:33.324Z",
+    "title": "沪深两市成交额连续第5个交易日突破1万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 14:32:34",
+    "uuid": "a8e10369-ce9e-4841-b4f2-93b5b5f26b82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "199IT" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "弘晖基金完成对江苏富兴电机的战略投资，本轮投资方还包括中国国新基金、广汽资本等，老股东中信里昂、顺融资本继续参与。",
+    "id": "8juW1MQ1874",
+    "order": 1749018720998,
+    "createdAt": "2025-06-04T06:32:01.000Z",
+    "publishDate": "2025-06-04T06:32:00.998Z",
+    "title": "弘晖基金完成对富兴电机战略投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 14:32:01",
+    "uuid": "f6747410-3008-4d58-bfa8-2e2f533f1ef6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "花旗报告指出，中国端午节假期旅游量和行业收入分别增长5.7%和5.9%，国内客运量上升2.5%，跨境交通量增长2.7%，免签入境量增59.4% ...",
+    "id": "8juUUo3dK2G",
+    "order": 1749018110313,
+    "createdAt": "2025-06-04T06:21:51.000Z",
+    "publishDate": "2025-06-04T06:21:50.313Z",
+    "title": "花旗：内地端午旅游表现较弱 维持同程和携程“买入”评级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 14:21:51",
+    "uuid": "945900be-4504-416e-8ca2-581fca3bd0c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "腾讯开源平台推出跨平台框架 ovCompose 和 KuiklyBase，解决 JetBrains Compose Multiplatform 不支持鸿蒙系统及 iOS 布局受限问题，提升 Kotlin Multiplatform 开发者在鸿蒙平台的效率 ...",
+    "id": "8jtZwcwrfox",
+    "order": 1749017784622,
+    "createdAt": "2025-06-04T06:16:26.000Z",
+    "publishDate": "2025-06-04T06:16:24.622Z",
+    "title": "腾讯开源跨平台框架ovCompose，助力全端应用开发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 14:16:26",
+    "uuid": "60e9fa6a-e034-4a40-bb31-b5330ff8a8a3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "四川拟延长婚假至20天，参加婚检再增5天。生育假递增，一孩90天、二孩120天、三孩150天。男方护理假延长至30天。",
+    "id": "8juY6vY3lhs",
+    "order": 1749018136584,
+    "createdAt": "2025-06-04T06:14:42.000Z",
+    "publishDate": "2025-06-04T06:22:16.584Z",
+    "title": "四川：拟将婚假最长延至25天，生育假最高延长至150天",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 14:14:42",
+    "uuid": "e4e775fc-f5ee-46ac-b2d5-3d9247418283"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "越南国会通过《人口法令》第十条修正案，取消原先生育一至两个孩子的限制，允许夫妻及个人根据多种因素自主决定生育计划 ...",
+    "id": "8juY9QlEjRd",
+    "order": 1749017659436,
+    "createdAt": "2025-06-04T06:14:20.000Z",
+    "publishDate": "2025-06-04T06:14:19.436Z",
+    "title": "越南国会通过法律修正案，取消生育限制",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 14:14:20",
+    "uuid": "c954e31f-f2cf-49c3-997b-2e97d51abcc4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "四部门将组织开展人力资源服务业与制造业融合发展试点工作，计划在30个左右城市先行先试，通过3年努力，培育专业服务机构、打造融合平台、创新技术模式，并形成政策体系，推动人力资源与实体经济、科技创新协同。",
+    "id": "8juWhkuzbCP",
+    "order": 1749017757239,
+    "createdAt": "2025-06-04T06:02:50.000Z",
+    "publishDate": "2025-06-04T06:15:57.239Z",
+    "title": "四部门组织开展人力资源服务业与制造业融合发展试点工作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 14:02:50",
+    "uuid": "463cd1c5-e082-4872-a1ce-e7888fd011c0"
+  },
+  {
+    "newsArray": [
       { "siteName": "199IT" },
       { "siteName": "投资界" },
       { "siteName": "新芽" }
@@ -1352,6 +1487,26 @@
     "up": false,
     "date": "2025-06-04 06:52:28",
     "uuid": "ab0ace1f-a1c2-4388-bb06-709ca686b3cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "到2030年，市场监管总局计划突破30项以上数字计量关键核心技术，研制10项自主知识产权的数字计量装置，培育80家国家计量数据建设应用中心，建立国家计量数据中心和智慧计量实验室，建成多个标准参考数据库，推广200个计量数据应用优秀案例，完善计量数字化技术规范与管理机制，初步建立数字化智慧计量监管模式。",
+    "id": "8jtdhWTnh6N",
+    "order": 1749018740132,
+    "createdAt": "2025-06-03T22:34:17.000Z",
+    "publishDate": "2025-06-04T06:32:20.132Z",
+    "title": "市场监管总局：到2030年 重点突破30项以上数字计量关键核心技术",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-04 06:34:17",
+    "uuid": "43731562-2806-4cf1-98f8-29f2513048a6"
   },
   {
     "newsArray": [
