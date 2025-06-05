@@ -1,6 +1,47 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "字节跳动ByteBrain团队联合UC Merced和UC Berkeley提出VMR²L系统，基于深度强化学习优化虚拟机重调度，将推理时间压缩至1.1秒，实现性能与工业部署的平衡，相关成果发表于EuroSys25。",
+    "id": "8jwFsi48WUQ",
+    "order": 1749106435238,
+    "createdAt": "2025-06-05T06:53:55.000Z",
+    "publishDate": "2025-06-05T06:53:55.238Z",
+    "title": "字节跳动ByteBrain团队提出秒级推理强化学习VMR系统",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 14:53:55",
+    "uuid": "b37b3437-acf7-4213-99c5-6952af0e727c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "券商股异动拉升，华鑫股份尾盘涨停，东吴证券、锦龙股份、中国银河、光大证券、华林证券等跟涨。",
+    "id": "8jwFgn23NrH",
+    "order": 1749106397472,
+    "createdAt": "2025-06-05T06:53:18.000Z",
+    "publishDate": "2025-06-05T06:53:17.472Z",
+    "title": "券商股异动拉升，华鑫股份尾盘涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 14:53:18",
+    "uuid": "50674c9f-8673-4a9d-8aa7-34c6435643ac"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
