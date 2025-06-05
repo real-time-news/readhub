@@ -1,6 +1,115 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股午盘，恒生指数涨0.42%，恒生科技指数涨0.92%。阿里巴巴、美团涨超2%，老铺黄金、蜜雪集团跌近8%，泡泡玛特跌超2%。",
+    "id": "8jw3ulyTS35",
+    "order": 1749096780547,
+    "createdAt": "2025-06-05T04:13:00.000Z",
+    "publishDate": "2025-06-05T04:13:00.547Z",
+    "title": "港股午评：恒生指数涨0.42% 老铺黄金跌近8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 12:13:00",
+    "uuid": "f4c4c4c1-a3ec-4b1b-a905-cf3c3dbcfce5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "AMD宣布收购开源软件公司Brium，以增强其人工智能实力。此次收购是继Silo AI、Nod.ai和Mipsology之后的又一战略投资，旨在提升支持开源软件生态系统及优化AMD硬件性能的能力，交易条款未披露。",
+    "id": "8jw36VAc4kE",
+    "order": 1749096731928,
+    "createdAt": "2025-06-05T04:08:26.000Z",
+    "publishDate": "2025-06-05T04:12:11.928Z",
+    "title": "AMD收购开源软件公司Brium，加码布局AI",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 12:08:26",
+    "uuid": "68838135-5854-42a8-97af-7254e611b422"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "京东科技与农夫铺子发展集团达成全面合作，将在云计算、人工智能、支付服务及门店数字化等领域共同推动零售行业数智化升级，助力中小微企业及实体商家转型 ...",
+    "id": "8jw0A4dipLk",
+    "order": 1749096473442,
+    "createdAt": "2025-06-05T04:07:53.000Z",
+    "publishDate": "2025-06-05T04:07:53.442Z",
+    "title": "京东科技与农夫铺子合作签约，4大领域助力产业数智升级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 12:07:53",
+    "uuid": "a5b51c30-e8a0-436c-8f16-797260f36ce4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "意法半导体推出Wi-Fi 6和低功耗蓝牙5.4二合一模块ST67W611M1，正式量产。这是与高通合作的首款产品，旨在简化基于STM32微控制器应用系统的无线连接实现难度。",
+    "id": "8jw336s7TyW",
+    "order": 1749096305160,
+    "createdAt": "2025-06-05T04:05:06.000Z",
+    "publishDate": "2025-06-05T04:05:05.160Z",
+    "title": "意法半导体与高通合作开发的Wi-Fi/蓝牙二合一无线模块正式量产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 12:05:06",
+    "uuid": "5b4a8dfe-3905-444c-bf27-26ad0a65cced"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "投资界" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "公司早期获长春高新及百克生物投资，其PCV24疫苗已取得全人群适应症临床批准，成人适应症完成II期试验即将开展III期，婴幼儿适应症获得I期初步数据 ...",
+    "id": "8jvnOrV5ZDe",
+    "order": 1749096194917,
+    "createdAt": "2025-06-05T04:03:15.000Z",
+    "publishDate": "2025-06-05T04:03:14.917Z",
+    "title": "瑞宙生物完成数千万元A+轮融资，推进肺炎疫苗PCV24临床研发及上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 12:03:15",
+    "uuid": "4ea817b3-5689-4d17-9ec7-f8840a856160"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "淘宝天猫在天猫618期间推出物流服务品牌“极速上门”，首期与顺丰合作并邀请部分商家公测，未来将向所有商家和符合条件的快递合作伙伴开放，扩大次日达和送货上门服务覆盖范围。",
+    "id": "8jw2ObfjiSz",
+    "order": 1749096698789,
+    "createdAt": "2025-06-05T03:52:39.000Z",
+    "publishDate": "2025-06-05T04:11:38.789Z",
+    "title": "淘宝天猫联合顺丰推出“极速上门”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 11:52:39",
+    "uuid": "17399ef6-3ea6-4b43-a8f1-b84de6494883"
+  },
+  {
+    "newsArray": [
       { "siteName": "电商报" },
       { "siteName": "电商报" },
       { "siteName": "36Kr" }
@@ -87,6 +196,27 @@
   {
     "newsArray": [
       { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "国家版权局公布2025年度第六批重点作品版权保护预警名单，要求相关网络服务商采取措施保护名单内作品版权，禁止未经授权的传播、上传或链接 ...",
+    "id": "8jw1jjEng6J",
+    "order": 1749096305493,
+    "createdAt": "2025-06-05T03:38:01.000Z",
+    "publishDate": "2025-06-05T04:05:05.493Z",
+    "title": "广电总局：18部电视剧网络剧列入重点作品版权保护预警名单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 11:38:01",
+    "uuid": "9704bcc7-23fe-4d4c-b726-1563c7418994"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
       { "siteName": "电商报" },
       { "siteName": "第一财经" },
       { "siteName": "网易科技" },
@@ -123,6 +253,25 @@
     "up": false,
     "date": "2025-06-05 11:16:12",
     "uuid": "5354fee6-00b5-4174-8de4-789e59fcf1f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "界面" }
+    ],
+    "summary": "黄子韬新增成为浙江朵薇护理用品有限公司股东，持股15%，该公司主营卫生用品生产，其主理的卫生巾品牌“朵薇”已正式上线，且在抖音直播带货中取得超4000万元GMV的成绩。",
+    "id": "8jvy5FedDhk",
+    "order": 1749096755707,
+    "createdAt": "2025-06-05T03:11:30.000Z",
+    "publishDate": "2025-06-05T04:12:35.707Z",
+    "title": "黄子韬增持卫生巾公司朵薇股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 11:11:30",
+    "uuid": "f7b58716-4863-4d2f-bcc0-cf1a4b3fe282"
   },
   {
     "newsArray": [
@@ -315,6 +464,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "吉祥航空旗下吉祥汽车首款车型吉祥AIR上市，定价14.78万至15.98万元，但产品力和技术水平逊于同价位竞争对手，且仅在上海提供试驾服务 ...",
+    "id": "8jvpWjYjOKp",
+    "order": 1749096084438,
+    "createdAt": "2025-06-05T01:48:03.000Z",
+    "publishDate": "2025-06-05T04:01:24.438Z",
+    "title": "机票当“诱饵” 吉祥航空陷造车之困：难破跨界魔咒",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 09:48:03",
+    "uuid": "ed30e1ab-52b1-47be-af36-d50695afae98"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -462,6 +629,24 @@
     "up": false,
     "date": "2025-06-05 09:15:54",
     "uuid": "2824abcf-8cbe-45e0-a26d-724da6665186"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "美国莱斯大学科学家团队通过在二硫化钽中掺入铟，制备出“克莱默节点线”金属，为新一代高性能电子器件开发提供新途径。",
+    "id": "8jvekAtZZKw",
+    "order": 1749096120745,
+    "createdAt": "2025-06-05T01:12:26.000Z",
+    "publishDate": "2025-06-05T04:02:00.745Z",
+    "title": "新材料兼具超导性和拓扑电子结构",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 09:12:26",
+    "uuid": "7b878dc1-ec21-47ae-abe2-026b7f31ecb7"
   },
   {
     "newsArray": [
