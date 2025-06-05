@@ -1,6 +1,133 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "科学网" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国白宫4日发布公告，宣布将对哈佛大学国际学生实行签证限制。",
+    "id": "8jvoFfqbjAy",
+    "order": 1749108436943,
+    "createdAt": "2025-06-05T07:27:17.000Z",
+    "publishDate": "2025-06-05T07:27:16.943Z",
+    "title": "美国宣布将对哈佛大学国际学生实行签证限制",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:27:17",
+    "uuid": "b9f5209c-71ef-4669-8870-9dde7e191e07"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "未来几天，华北黄淮等地将出现高温天气，局地气温可达39℃以上。江汉、江淮、江南等地有中到大雨，部分地区暴雨或大暴雨，并伴有强对流天气。东北地区多阵雨，青藏高原以小雨雪为主。",
+    "id": "8jvltTxNovs",
+    "order": 1749108419377,
+    "createdAt": "2025-06-05T07:26:59.000Z",
+    "publishDate": "2025-06-05T07:26:59.377Z",
+    "title": "中央气象台：华北黄淮等地有高温天气 局地可达39℃以上",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:26:59",
+    "uuid": "25416bb6-2ede-4f68-b0a3-32042c670858"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "商务部发言人何咏前针对美国提高钢铝及其衍生品关税至50%的措施表示，美方行为属单边主义和保护主义，违反世贸规则，损人害己且扰乱全球产业链供应链稳定 ...",
+    "id": "8jwI46N2aSI",
+    "order": 1749108403251,
+    "createdAt": "2025-06-05T07:26:44.000Z",
+    "publishDate": "2025-06-05T07:26:43.251Z",
+    "title": "商务部回应美上调钢铝关税：敦促美方停止泛化和滥用国家安全概念",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:26:44",
+    "uuid": "e61f3608-2b21-4ee3-9fff-4c0305a0703e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "亚马逊南非站扩展产品种类，新增非易腐食品杂货、宠物食品及维生素和营养补充剂三大类日常必需品，涵盖数千种新品，满足当地家庭多样化需求，逐步打造一站式购物平台。",
+    "id": "8jvxMrFkThQ",
+    "order": 1749108303965,
+    "createdAt": "2025-06-05T07:25:03.000Z",
+    "publishDate": "2025-06-05T07:25:03.965Z",
+    "title": "亚马逊南非站拓展宠物食品等新品类，满足消费者需求",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:25:03",
+    "uuid": "7555a620-110f-4923-9ea6-985b638fd75f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "DoNews" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "挚文集团第一季度净营收25.2亿元人民币，同比下降1.5%，预估24.3亿元人民币。",
+    "id": "8jwHJB2otnm",
+    "order": 1749108280414,
+    "createdAt": "2025-06-05T07:24:40.000Z",
+    "publishDate": "2025-06-05T07:24:40.414Z",
+    "title": "挚文集团第一季度净营收25.2亿元，同比下降1.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:24:40",
+    "uuid": "fb005860-5768-45e0-aea6-718685a854a8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "蚂蚁国际推出Alipay+ GenAI Cockpit平台，为金融科技公司提供AIaaS服务，支持构建AI代理及金融服务 ...",
+    "id": "8jvtmjcxW2x",
+    "order": 1749108226435,
+    "createdAt": "2025-06-05T07:23:47.000Z",
+    "publishDate": "2025-06-05T07:23:46.435Z",
+    "title": "蚂蚁国际新推AI金融平台Cockpit，智能代理引领金融科技新篇章",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:23:47",
+    "uuid": "056509c0-dba1-4676-a9ca-4f0e9a4702e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "哈啰正式发布《2024年度可持续发展暨ESG报告》，同时，哈啰宣布截至目前累计注册用户已突破8亿。",
+    "id": "8jwHJdJbw0K",
+    "order": 1749108076533,
+    "createdAt": "2025-06-05T07:21:17.000Z",
+    "publishDate": "2025-06-05T07:21:16.533Z",
+    "title": "哈啰发布年度ESG报告，累计注册用户已超8亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:21:17",
+    "uuid": "023fe33f-18d4-4ae6-b345-326cb8227830"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -15,6 +142,25 @@
     "up": false,
     "date": "2025-06-05 15:18:47",
     "uuid": "6f0a56f1-cf47-4b0f-8f5a-e95e87aaa5ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "甘肃新能源装机达7062.46万千瓦，同比增长25.25%，占全省电力总装机超65%。前5个月新能源发电量超395亿千瓦时，占全省发电量近40%。",
+    "id": "8jwHJ0SGhwL",
+    "order": 1749108176424,
+    "createdAt": "2025-06-05T07:17:52.000Z",
+    "publishDate": "2025-06-05T07:22:56.424Z",
+    "title": "甘肃新能源装机突破7000万千瓦",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:17:52",
+    "uuid": "6485ea90-9652-4949-a964-3cfb04fb0555"
   },
   {
     "newsArray": [
@@ -70,6 +216,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "小鹏汽车与华为乾崑联合研发的“追光全景”抬头显示技术正式发布，该技术将在小鹏G7上首发。",
+    "id": "8jvvEasHRM0",
+    "order": 1749108186819,
+    "createdAt": "2025-06-05T07:06:00.000Z",
+    "publishDate": "2025-06-05T07:23:06.819Z",
+    "title": "小鹏汽车发布“追光全景”抬头显示技术，与华为乾崑联合研发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:06:00",
+    "uuid": "624a8887-d5de-4a7d-86c1-8d7f0e3be56b"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "IT 之家" },
       { "siteName": "快科技" }
@@ -84,6 +249,24 @@
     "up": false,
     "date": "2025-06-05 15:05:37",
     "uuid": "717d9b55-de82-4745-922c-b36e4834adb8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "湖北省人形机器人产业投资基金成立，出资50亿元，聚焦创业投资及私募基金相关的股权投资、管理活动，由武汉光谷产业投资有限公司等共同出资。",
+    "id": "8jvzYeVvzS5",
+    "order": 1749108076120,
+    "createdAt": "2025-06-05T07:05:01.000Z",
+    "publishDate": "2025-06-05T07:21:16.120Z",
+    "title": "湖北省人形机器人产投基金登记成立",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-05 15:05:01",
+    "uuid": "9a47d217-3407-434e-809c-93bd54a1bcde"
   },
   {
     "newsArray": [
