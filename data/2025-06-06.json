@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "智源社区" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "OpenAI对ChatGPT进行了重大更新，新增会议记录模式，可转录会议并提取要点生成新内容，同时正式支持MCP协议，实现与Github、SharePoint等工具的跨平台数据整合与搜索，旨在将ChatGPT打造为智能协作平台，提升多源数据分析和工作效率 ...",
+    "id": "8jwKu0Xlqdp",
+    "order": 1749192175608,
+    "createdAt": "2025-06-06T06:42:56.000Z",
+    "publishDate": "2025-06-06T06:42:55.608Z",
+    "title": "Open AI 更新：ChatGPT 推出会议记录功能，正式支持 MCP 协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-06 14:42:56",
+    "uuid": "9243d05d-0486-4edb-833e-4f6602f7c03d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "人社部在长沙召开座谈会，强调加快人社数字化改革向智能化升级，推进就业、社保、技能培训等平台建设，深化社保卡“一卡通”应用，强化大数据助力业务治理，确保网络和数据安全。",
+    "id": "8jxtQfQYioQ",
+    "order": 1749191844771,
+    "createdAt": "2025-06-06T06:37:25.000Z",
+    "publishDate": "2025-06-06T06:37:24.771Z",
+    "title": "人社部：要加快人社数字化改革向智能化升级迈进",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-06 14:37:25",
+    "uuid": "9e4d4430-9a06-49ae-bcc7-d24e74cfaae6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "猎云网" },
+      { "siteName": "金融界" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "广东荔枝大丰收，产量超150万吨，京东助销行动使广东荔枝成交额同比增长超560%。",
+    "id": "8jxsbVwe13L",
+    "order": 1749191600609,
+    "createdAt": "2025-06-06T06:33:21.000Z",
+    "publishDate": "2025-06-06T06:33:20.609Z",
+    "title": "京东发起广东荔枝助销行动 成交额同比增超560%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-06 14:33:21",
+    "uuid": "b4a16e6a-f926-4e39-8071-63f950023ae6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "集运欧线期货主力合约日内跌幅扩大至4%，报2067点。",
+    "id": "8jxsey7Yr0Q",
+    "order": 1749191057562,
+    "createdAt": "2025-06-06T06:24:18.000Z",
+    "publishDate": "2025-06-06T06:24:17.562Z",
+    "title": "集运欧线期货主力合约日内跌幅扩大至4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-06 14:24:18",
+    "uuid": "8ce42417-bdf2-4861-bcf6-8aded23c10b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "德国4月工业产值环比下降1.4%，同比减少1.8%，均超出预期降幅。",
+    "id": "8jxrHsNnjQZ",
+    "order": 1749190454528,
+    "createdAt": "2025-06-06T06:14:15.000Z",
+    "publishDate": "2025-06-06T06:14:14.528Z",
+    "title": "德国4月工业产值环比下降1.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-06 14:14:15",
+    "uuid": "5943d2ea-96c8-434b-b215-d2f852b761c6"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "站长之家" },
       { "siteName": "IT 之家" }
