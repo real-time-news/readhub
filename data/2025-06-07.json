@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "澳门地区自6月5日起正式停止3G通信服务，未来将集中资源发展4G和5G网络。运营商建议用户检查设备是否支持4G/5G并开启VoLTE功能 ...",
+    "id": "8jxwC0BfOxl",
+    "order": 1749252761709,
+    "createdAt": "2025-06-06T23:32:41.000Z",
+    "publishDate": "2025-06-06T23:32:41.709Z",
+    "title": "澳门3G服务终止，用户需升级4G/5G网络",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 07:32:41",
+    "uuid": "d00970c0-3bf1-4a3b-8031-c6f84b39bad5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "特斯拉Optimus人形机器人项目工程主管米兰・科瓦奇宣布离职，自动驾驶负责人阿肖克・埃卢斯瓦米将接手该项目。科瓦奇表示这是为了更多陪伴家人，并对团队充满信心 ...",
+    "id": "8jypJ6zmfgH",
+    "order": 1749252725661,
+    "createdAt": "2025-06-06T23:32:07.000Z",
+    "publishDate": "2025-06-06T23:32:05.661Z",
+    "title": "特斯拉 Optimus 人形机器人项目主管被曝离职，希望更多陪伴家人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 07:32:07",
+    "uuid": "de87c419-4917-4b78-abf5-159fb98162a0"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "界面" }
