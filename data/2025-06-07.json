@@ -1,6 +1,130 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "苹果即将举行的WWDC大会重点仍围绕操作系统产品线的升级，包括为多设备重新设计的软件界面及Vision Pro头显的小幅调整 ...",
+    "id": "8jyqheNwuIl",
+    "order": 1749258724750,
+    "createdAt": "2025-06-07T01:12:05.000Z",
+    "publishDate": "2025-06-07T01:12:04.750Z",
+    "title": "苹果WWDC前瞻：系统界面更新成最大看点 AI小幅升级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 09:12:05",
+    "uuid": "5b2ed3de-d800-4f05-8967-00a745718472"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2025年5月中国电视市场品牌整机出货量为283万台，同比下降2.1%。自去年10月国补政策见效后，连续六个月出货量同比增长，但4月起连续两个月同比下降 ...",
+    "id": "8jz9yggYf3D",
+    "order": 1749258153128,
+    "createdAt": "2025-06-07T01:02:33.000Z",
+    "publishDate": "2025-06-07T01:02:33.128Z",
+    "title": "机构：5月中国电视市场品牌整机出货量为283万台 同比下降2.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 09:02:33",
+    "uuid": "d8af402c-83a5-4cee-ac67-6c1acec429e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "ChatGPT、Google Gemini、DeepSeek、豆包与PixVerse位列TOP 5，占据了全球市场双端AI应用下载量的51% ...",
+    "id": "8jz9v58JKiX",
+    "order": 1749257566862,
+    "createdAt": "2025-06-07T00:52:47.000Z",
+    "publishDate": "2025-06-07T00:52:46.862Z",
+    "title": "机构：5月全球AI APP预估下载总量达2.8亿次 环比下滑16.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 08:52:47",
+    "uuid": "2cf84ed4-2f7e-4162-b95f-166cc359efeb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中国出口集装箱运输市场总体向好，多数远洋航线市场运价继续上行，带动综合指数上涨。5月份综合PMI指数为50.4，好于前值及市场预期 ...",
+    "id": "8jz9EuglPDs",
+    "order": 1749256967663,
+    "createdAt": "2025-06-07T00:42:48.000Z",
+    "publishDate": "2025-06-07T00:42:47.663Z",
+    "title": "上海航交所：本周出口集装箱运输市场总体向好，综合指数继续上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 08:42:48",
+    "uuid": "3a441219-2b52-4db4-9162-b7cd5d1f900e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "宁德时代21C创新实验室团队在《自然・纳米技术》发表锂金属电池研究成果，揭示了电池失效机制并提出创新电解液设计原则，实现高能量密度与长循环寿命 ...",
+    "id": "8jyNKwthlgR",
+    "order": 1749256670831,
+    "createdAt": "2025-06-07T00:37:52.000Z",
+    "publishDate": "2025-06-07T00:37:50.831Z",
+    "title": "宁德时代锂电池研究新成果：循环寿命较前代翻倍，发表于国际顶级期刊《自然・纳米技术》",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 08:37:52",
+    "uuid": "37f54a39-274a-4a54-8304-98fe7e0bad4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "watchOS 26的兼容设备名单提前曝光，新系统将继续支持Apple Watch Series 6及之后的所有型号，与当前watchOS 11的兼容范围一致 ...",
+    "id": "8jyToByU62N",
+    "order": 1749254573693,
+    "createdAt": "2025-06-07T00:02:54.000Z",
+    "publishDate": "2025-06-07T00:02:53.693Z",
+    "title": "苹果watchOS 26支持手表名单曝光 与上代保持一致",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 08:02:54",
+    "uuid": "740f2f3e-e304-4ab6-a4e1-5c2ebb17e28f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "微软发布白皮书，分类解析AI Agent系统故障，助开发者和用户理解与解决新型及既有故障及其原因。",
+    "id": "8jyxvJvUvZe",
+    "order": 1749254554062,
+    "createdAt": "2025-06-07T00:02:35.000Z",
+    "publishDate": "2025-06-07T00:02:34.062Z",
+    "title": "微软发布AI Agent故障白皮书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 08:02:35",
+    "uuid": "7280b069-d753-4556-a706-811aada3348d"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
@@ -15,6 +139,24 @@
     "up": false,
     "date": "2025-06-07 07:52:37",
     "uuid": "a71f33df-c04f-4402-b18b-6bfb3ae83f35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中国证监会发布的“科创板八条”推动了科创板改革，明确“轻资产、高研发投入”认定标准后，寒武纪、迪哲医药等9家科创板公司按此标准申请再融资，合计拟融资近250亿元，主要用于芯片和创新药研发 ...",
+    "id": "8jz3ZHtSpf9",
+    "order": 1749256698282,
+    "createdAt": "2025-06-06T23:42:39.000Z",
+    "publishDate": "2025-06-07T00:38:18.282Z",
+    "title": "“轻资产、高研发投入”再融资案例渐次落地 科创板精准激活上市公司创新活力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-07 07:42:39",
+    "uuid": "44478dbe-474f-4a4c-b3a3-2408bed99016"
   },
   {
     "newsArray": [
