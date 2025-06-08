@@ -89,6 +89,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "量子位" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果发表论文指出当前推理模型并未真正思考，仅是模式匹配，批评现有评估忽视思考过程质量。苹果设计了四种谜题环境测试模型推理能力，发现模型在问题变难时思考深度下降，超临界点后性能崩溃 ...",
+    "id": "8k12bhuianZ",
+    "order": 1749397975344,
+    "createdAt": "2025-06-08T13:31:35.000Z",
+    "publishDate": "2025-06-08T15:52:55.344Z",
+    "title": "苹果发表论文质疑 AI 推理模型：更像是在记忆，而非真正的推理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-08 21:31:35",
+    "uuid": "2b0c345b-bf32-4a82-bdde-9f9a91c258ca"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
