@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "理想汽车成立空间机器人和穿戴机器人两个新部门，隶属产品部，分别由帅一帆和张文博负责，标志着公司正式进军机器人领域 ...",
+    "id": "8k4LWuppltJ",
+    "order": 1749536584141,
+    "createdAt": "2025-06-10T06:23:04.000Z",
+    "publishDate": "2025-06-10T06:23:04.141Z",
+    "title": "理想汽车组织架构调整:两大机器人部门成立，瞄准车载智能生态",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 14:23:04",
+    "uuid": "82f4b345-b694-41c5-ba4f-ea5b1a24bdc8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "赛富乐斯发布T3系列0.13英寸单片全彩MicroLED微显示屏，采用自研纳米孔量子点技术实现RGB像素集成 ...",
+    "id": "8k4P9W3263S",
+    "order": 1749536207607,
+    "createdAt": "2025-06-10T06:16:48.000Z",
+    "publishDate": "2025-06-10T06:16:47.607Z",
+    "title": "赛富乐斯发布T3系列全彩MicroLED微显示屏",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 14:16:48",
+    "uuid": "eee1df6e-5d65-4b1f-89d1-46ab7b2d5bd0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "英镑兑美元短线跌逾10点，现报1.3528。",
+    "id": "8k4V6roLw8e",
+    "order": 1749536094783,
+    "createdAt": "2025-06-10T06:14:55.000Z",
+    "publishDate": "2025-06-10T06:14:54.783Z",
+    "title": "英镑兑美元短线跌逾10点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 14:14:55",
+    "uuid": "d60bbd66-5d6e-47d7-97a7-a3ab0bed1dcf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "经用户投诉和站方核实，微博账号@韦东奕本人和@韦东奕1991为假冒仿冒账号，侵犯个人权益、扰乱传播秩序，已按社区公约被关闭。",
+    "id": "8k4MFIz6a04",
+    "order": 1749535997535,
+    "createdAt": "2025-06-10T06:13:18.000Z",
+    "publishDate": "2025-06-10T06:13:17.535Z",
+    "title": "微博：假冒仿冒韦东奕账号被关闭",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 14:13:18",
+    "uuid": "b7742696-46a7-4dfb-9806-d76c1588e63e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英国5月失业率 4.52%，前值4.50%。",
+    "id": "8k4UvGXf82b",
+    "order": 1749535574566,
+    "createdAt": "2025-06-10T06:06:15.000Z",
+    "publishDate": "2025-06-10T06:06:14.566Z",
+    "title": "英国5月失业率 4.52%，前值4.50%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 14:06:15",
+    "uuid": "e0b0b1af-778a-4f10-b684-32a7e340d6be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "全球首个基于人工智能技术的处理器芯片软硬件全自动设计系统“启蒙”发布，可实现芯片硬件到基础软件的全流程自动化设计，其多项关键指标达人类专家手工设计水平，相关成果已发布于arXiv。",
+    "id": "8k4U63gGSJT",
+    "order": 1749536331440,
+    "createdAt": "2025-06-10T06:04:22.000Z",
+    "publishDate": "2025-06-10T06:18:51.440Z",
+    "title": "全球首个AI芯片设计系统发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 14:04:22",
+    "uuid": "a80c8a3a-c30f-4869-8841-e6f8d95f0aab"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -71,6 +178,45 @@
     "up": false,
     "date": "2025-06-10 13:43:50",
     "uuid": "b5184b67-74f8-42e2-b735-5a529b38933a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "沪深两市成交额连续第8个交易日突破1万亿元。",
+    "id": "8k4F9d7jFez",
+    "order": 1749535891932,
+    "createdAt": "2025-06-10T05:42:36.000Z",
+    "publishDate": "2025-06-10T06:11:31.932Z",
+    "title": "沪深两市成交额连续第8个交易日突破1万亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 13:42:36",
+    "uuid": "37814203-0698-47ab-92f9-8feac3937c1a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "浙江三澳核电1号机组完成热态性能试验，为后续装料及商业运行奠定基础。作为长三角首个“华龙一号”项目，三澳核电规划建设6台机组，全部投运后每年将提供超540亿千瓦时清洁能源，减少大量碳排放。",
+    "id": "8k4S0VCFG2g",
+    "order": 1749535362705,
+    "createdAt": "2025-06-10T05:37:22.000Z",
+    "publishDate": "2025-06-10T06:02:42.705Z",
+    "title": "长三角首个“华龙一号”项目1号机组完成热试",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 13:37:22",
+    "uuid": "bcff59ce-a70f-405c-8fe0-7b4331b210c1"
   },
   {
     "newsArray": [
