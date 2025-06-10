@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日野汽车与三菱扶桑达成合并协议，计划2026年4月前成立新控股公司，丰田和戴姆勒各持股25%。",
+    "id": "8k4ZWryS6G4",
+    "order": 1749551924927,
+    "createdAt": "2025-06-10T10:38:46.000Z",
+    "publishDate": "2025-06-10T10:38:44.927Z",
+    "title": "日野汽车与三菱扶桑达成合并协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 18:38:46",
+    "uuid": "ff1d6137-8fc5-445e-9d82-963f0769448b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "IBM当地时间6月10日发布容错量子计算机建设路线图称，计划在2029年前研制出大规模容错量子计算机。",
+    "id": "8k4mh3Zltpq",
+    "order": 1749551914799,
+    "createdAt": "2025-06-10T10:38:34.000Z",
+    "publishDate": "2025-06-10T10:38:34.799Z",
+    "title": "IBM计划2029年前推出大规模容错量子计算机",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 18:38:34",
+    "uuid": "366df4a6-7d9f-43cc-9132-e17a1513b0aa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "腾讯音乐美股盘前拉升，现涨逾10%。",
+    "id": "8k4nfGmickZ",
+    "order": 1749551789593,
+    "createdAt": "2025-06-10T10:36:30.000Z",
+    "publishDate": "2025-06-10T10:36:29.593Z",
+    "title": "腾讯音乐美股盘前涨逾10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 18:36:30",
+    "uuid": "d768e9c9-a9c8-4bef-82e6-5b09a4de7810"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智源社区" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "斯坦福大学等机构的研究团队开发了通用生物医学AI智能体Biomni，该系统能够自主完成多个生物医学分支领域的复杂研究任务 ...",
+    "id": "8k3OAyd5HMG",
+    "order": 1749551739325,
+    "createdAt": "2025-06-10T10:35:40.000Z",
+    "publishDate": "2025-06-10T10:35:39.325Z",
+    "title": "Biomni：首个通用生物医学AI智能体重新定义科学研究范式",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 18:35:40",
+    "uuid": "1d19afa6-0e78-4c4b-b868-422ccd1b09b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "百度在澳门推出以慧播星数字人直播为核心的电商解决方案，提供流量扶持、平台补贴等权益助力商家获客，并通过免费开播名额和数字化补贴减轻中小企业负担 ...",
+    "id": "8k4fanhtRDr",
+    "order": 1749551644766,
+    "createdAt": "2025-06-10T10:34:05.000Z",
+    "publishDate": "2025-06-10T10:34:04.766Z",
+    "title": "百度电商发布澳门专属电商解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 18:34:05",
+    "uuid": "0ddd6c1f-8602-4eb0-ab50-66238dbc4bbc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中微公司全资子公司拟出资不超过7.35亿元参与设立上海智微攀峰创业投资合伙企业，聚焦半导体等领域，基金管理人为中微公司关联方，该投资需股东大会审议。",
+    "id": "8k4nOz3GyIM",
+    "order": 1749551858041,
+    "createdAt": "2025-06-10T10:24:36.000Z",
+    "publishDate": "2025-06-10T10:37:38.041Z",
+    "title": "中微公司：拟参与设立私募投资基金 投资金额不超过7.35亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 18:24:36",
+    "uuid": "1edf39f2-5986-4842-acdc-5e718e3e8020"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
@@ -516,6 +620,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "埃森哲CEO表示，埃森哲培训了50万名员工使用生成式人工智能。",
+    "id": "8k4gyczzL2S",
+    "order": 1749551729326,
+    "createdAt": "2025-06-10T08:54:34.000Z",
+    "publishDate": "2025-06-10T10:35:29.326Z",
+    "title": "埃森哲CEO：培训了50万名员工使用生成式人工智能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 16:54:34",
+    "uuid": "53bf74f2-42d6-43bd-abb1-dc974a090fed"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -679,6 +800,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "美团宣布 AI 编程 Agent 工具 NoCode 全量上线。",
+    "id": "8k4fZGjMpqx",
+    "order": 1749551743639,
+    "createdAt": "2025-06-10T08:42:06.000Z",
+    "publishDate": "2025-06-10T10:35:43.639Z",
+    "title": "美团AI编程Agent工具NoCode上线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 16:42:06",
+    "uuid": "11f379c8-5dcd-4a10-8dab-9b4db9a08b21"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" }
@@ -839,6 +979,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "韩国时尚电商Musinsa计划未来几个月在中国和日本开设线下门店，作为全球扩张战略的一部分。该公司目前在在线平台上提供约8000个韩国品牌产品，并在韩国运营多家线下门店 ...",
+    "id": "8k4bMpbagNu",
+    "order": 1749551774975,
+    "createdAt": "2025-06-10T08:20:07.000Z",
+    "publishDate": "2025-06-10T10:36:14.975Z",
+    "title": "韩国时尚电商Musinsa拟进军中国和日本市场，开设线下门店",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 16:20:07",
+    "uuid": "faa143f6-aa0b-4366-8989-54fc402e0580"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -983,6 +1140,23 @@
     "up": false,
     "date": "2025-06-10 15:52:48",
     "uuid": "489bc8de-5ac2-437d-9a44-42d91540072b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "微软近期裁员约 6000 人，占员工总数 3%，其中三人因裁员自杀，一人受上司虐待。这是微软自 2023 年以来最大规模裁员。",
+    "id": "8k3JXjCuEIQ",
+    "order": 1749551825468,
+    "createdAt": "2025-06-10T07:50:42.000Z",
+    "publishDate": "2025-06-10T10:37:05.468Z",
+    "title": "微软3名员工被曝因全球大裁员自杀",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-10 15:50:42",
+    "uuid": "8e3718fe-4b27-487a-b525-48acaf7b1db8"
   },
   {
     "newsArray": [
