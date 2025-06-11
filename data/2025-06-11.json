@@ -1,6 +1,132 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "澳航集团宣布关闭旗下低成本子公司捷星亚洲，其航班将逐步减少并于7月31日结束营业。集团计划将捷星亚洲的13架A320飞机调配至澳大利亚和新西兰航线，以增加当地低票价和就业机会 ...",
+    "id": "8k5mqt421iV",
+    "order": 1749602574697,
+    "createdAt": "2025-06-11T00:42:54.000Z",
+    "publishDate": "2025-06-11T00:42:54.697Z",
+    "title": "捷星亚洲将于7月31日结束营业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 08:42:54",
+    "uuid": "18a1bdb7-b8e0-46e5-8b7c-d46a95a42b02"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌面向Pixel 6及后续机型发布安卓16稳定版更新，较往年提前3个月，以确保新设备可直接搭载最新系统 ...",
+    "id": "8k5eeWHSgIU",
+    "order": 1749601605833,
+    "createdAt": "2025-06-11T00:26:46.000Z",
+    "publishDate": "2025-06-11T00:26:45.833Z",
+    "title": "谷歌正式发布安卓 16：增强安全、引入 Live Updates 动态通知等",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 08:26:46",
+    "uuid": "a082f421-289a-469a-b9be-b4e96061686a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "奇瑞集团决定自6月10日起将供应商支付账期统一至60天内，以加速产业链资金周转效率，保障产业链供应链稳定，积极响应国家部委关于汽车产业高质量发展的部署要求。",
+    "id": "8k5kijUeVoL",
+    "order": 1749600945529,
+    "createdAt": "2025-06-11T00:15:45.000Z",
+    "publishDate": "2025-06-11T00:15:45.529Z",
+    "title": "奇瑞集团：将供应商支付账期统一至60天内",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 08:15:45",
+    "uuid": "e5aadcb1-eef5-4c6d-9702-66570cc8d487"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "华泰证券看好CPO产业发展，博通和英伟达在该领域加速推进，相关光无源器件、光芯片、光引擎厂商将迎来机遇。",
+    "id": "8k5iFzzUWlI",
+    "order": 1749600781327,
+    "createdAt": "2025-06-11T00:13:01.000Z",
+    "publishDate": "2025-06-11T00:13:01.327Z",
+    "title": "华泰证券：看好CPO产业发展前景，相关光无源器件、光芯片、光引擎厂商有望迎接机遇",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 08:13:01",
+    "uuid": "1f14135e-9109-4fa4-a136-809ccc42c904"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌公司今天（6 月 11 日）发布博文，在正式发布安卓 16 更新的同时，还面向 Pixel 设备推送了 6 月 Pixel Drop ...",
+    "id": "8k5fkF0H7rJ",
+    "order": 1749600414998,
+    "createdAt": "2025-06-11T00:06:55.000Z",
+    "publishDate": "2025-06-11T00:06:54.998Z",
+    "title": "谷歌推送 Pixel 六月功能更新：VIP 联系人、AI 贴纸、升级无障碍体验等",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 08:06:55",
+    "uuid": "5ebd0536-1094-4a0f-ae69-e929d51d9127"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果在WWDC25上推出涵盖多个操作系统的软件更新，新版本号为“26”，并发布Xcode 26测试版 ...",
+    "id": "8k5fIvzmzxS",
+    "order": 1749600360734,
+    "createdAt": "2025-06-11T00:06:01.000Z",
+    "publishDate": "2025-06-11T00:06:00.734Z",
+    "title": "苹果 Xcode 26 引入“Vision Pro 4K”模拟器，支持 4K 输出",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 08:06:01",
+    "uuid": "b06ecbc0-7ad7-4e50-92de-2bb39f2a8bec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "中金公司研报指出，短期内钨价已进入牛市通道，有望持续突破历史高位，因供需趋紧及海外下游钨制品溢价刺激 ...",
+    "id": "8k5jy9QdzDC",
+    "order": 1749600228208,
+    "createdAt": "2025-06-11T00:03:49.000Z",
+    "publishDate": "2025-06-11T00:03:48.208Z",
+    "title": "中金：钨价中枢有望持续提升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 08:03:49",
+    "uuid": "309d2369-2f75-47a8-b140-bb73dc85d7da"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -32,6 +158,24 @@
     "up": false,
     "date": "2025-06-11 07:51:36",
     "uuid": "266727eb-5f38-47c1-b094-25901929ad9f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国和瑞士就共享客户投资信息达成协议，结束多年僵局，使美国能更清晰掌握在欧洲的资产情况。此协议是在美国证券交易委员会检查多家瑞士公司后达成，涉及公司包括Vontobel等 ...",
+    "id": "8k5c8ZqKV7f",
+    "order": 1749600911322,
+    "createdAt": "2025-06-10T23:42:07.000Z",
+    "publishDate": "2025-06-11T00:15:11.322Z",
+    "title": "美国和瑞士就客户投资信息共享达成协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 07:42:07",
+    "uuid": "b8ade382-c95c-4db0-a89b-e1a07107179f"
   },
   {
     "newsArray": [
@@ -139,6 +283,25 @@
     "up": false,
     "date": "2025-06-11 06:51:50",
     "uuid": "7e18e085-3d49-427a-af9a-96676b964382"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特朗普政府计划废除拜登政府的气候规定，包括全国发电厂温室气体排放限制和汞污染控制措施。此举旨在推动国内能源开发，但可能对公众健康和环境造成负面影响 ...",
+    "id": "8k5PIjpTuRH",
+    "order": 1749601998402,
+    "createdAt": "2025-06-10T22:43:23.000Z",
+    "publishDate": "2025-06-11T00:33:18.402Z",
+    "title": "特朗普政府拟挥刀砍环保 拜登发电限排令恐成废纸",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 06:43:23",
+    "uuid": "b335fc0e-de7e-422a-ae8a-da04028bac33"
   },
   {
     "newsArray": [
@@ -329,6 +492,25 @@
     "up": false,
     "date": "2025-06-11 04:47:08",
     "uuid": "69bc6853-3c1a-4a19-a632-bda73196f194"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "星巴克计划将与微软Azure OpenAI合作开发的生成式人工智能助手“绿点助手”推广至35家门店，旨在简化咖啡师工作并提升服务速度 ...",
+    "id": "8k5RQwmLOFr",
+    "order": 1749600146171,
+    "createdAt": "2025-06-10T20:33:07.000Z",
+    "publishDate": "2025-06-11T00:02:26.171Z",
+    "title": "星巴克与科技巨头合作开发AI助手 拟将每份订单缩短至四分钟",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 04:33:07",
+    "uuid": "7f972cc6-0458-4ff8-8be2-a9eef2690ec5"
   },
   {
     "newsArray": [
