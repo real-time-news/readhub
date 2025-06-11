@@ -1,6 +1,63 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "每经网" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小鹏汽车即将发布的小鹏G7将搭载三颗自研的AI图灵芯片，该芯片算力高达750TOPS，远超三颗英伟达Orin X。然而，展会上一颗图灵芯片被盗，引发网友对可能动机的猜测 ...",
+    "id": "8k5uG5QvwkJ",
+    "order": 1749642857954,
+    "createdAt": "2025-06-11T11:54:17.000Z",
+    "publishDate": "2025-06-11T11:54:17.954Z",
+    "title": "小鹏自研图灵芯片展出时被偷 负责人：正在查监控",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 19:54:17",
+    "uuid": "1c4af2de-ac21-4324-9641-caefe6f3737c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "欧盟委员会批准SES收购国际通信卫星公司交易，认为不会引发欧洲经济区竞争担忧。",
+    "id": "8k6YZQ1aHd7",
+    "order": 1749642785853,
+    "createdAt": "2025-06-11T11:53:06.000Z",
+    "publishDate": "2025-06-11T11:53:05.853Z",
+    "title": "欧盟无条件批准SES斥资31亿美元收购国际通信卫星公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 19:53:06",
+    "uuid": "9c258edd-770f-4c43-812c-e953ebe462a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "水利部召开会议审议河湖库一体化监测感知体系建设方案，强调运用现代化技术装备提升河湖库监管的数字化、网络化、智能化水平，并研究推动水库运行管理矩阵建设工作。",
+    "id": "8k6Y1jrlV7q",
+    "order": 1749642863526,
+    "createdAt": "2025-06-11T11:50:22.000Z",
+    "publishDate": "2025-06-11T11:54:23.526Z",
+    "title": "水利部召开部务会议 审议河湖库一体化监测感知体系建设方案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-11 19:50:22",
+    "uuid": "042caa0b-3663-492c-9476-4ec16bb1987b"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
