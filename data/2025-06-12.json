@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "A股市场创新药板块活跃，睿智医药涨11%，博瑞医药涨近11%，奥赛康涨停，星昊医药涨超8%，海思科、舒泰神、长春高新涨超6%，吉贝尔、微芯生物、亿帆医药、润都股份涨超5%。",
+    "id": "8k7laWmP0of",
+    "order": 1749706447842,
+    "createdAt": "2025-06-12T05:34:08.000Z",
+    "publishDate": "2025-06-12T05:34:07.842Z",
+    "title": "A股创新药板块继续活跃，奥赛康涨停，长春高新涨超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 13:34:08",
+    "uuid": "7b1b91f3-d934-4adf-b80f-5f9305b44d88"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "上海市静安区推出促进民营经济高质量发展实施方案，鼓励民企进行高质量并购重组，推动“区块链+金融”创新，提升民企创新能级，构建国有民营协同发展格局，打造民营企业出海服务高地，建设“苏河湾民营经济会客厅”和市北高新“民营企业总部集聚区”，旨在发挥区域优势，培育未来新动能。",
+    "id": "8k7mX7UmUck",
+    "order": 1749706421183,
+    "createdAt": "2025-06-12T05:33:42.000Z",
+    "publishDate": "2025-06-12T05:33:41.183Z",
+    "title": "上海静安：鼓励民营企业开展高质量并购重组，加快“区块链+金融”创新应用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 13:33:42",
+    "uuid": "28fc0740-dc8e-4b97-ba3d-0116f052431e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "Canonical宣布自Ubuntu 25.10起将彻底移除基于Xorg的GNOME会话，全面转向Wayland ...",
+    "id": "8k6kChFktX9",
+    "order": 1749706360397,
+    "createdAt": "2025-06-12T05:32:41.000Z",
+    "publishDate": "2025-06-12T05:32:40.397Z",
+    "title": "X11 退场，Ubuntu 25.10 发行版全面拥抱 Wayland",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 13:32:41",
+    "uuid": "36269c61-2140-4f50-9c60-b93dfcb488d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "黄金股震荡走高，恒邦股份午后涨停，湖南白银、四川黄金、西部黄金、晓程科技、赤峰黄金等跟涨。",
+    "id": "8k7loFLhsHz",
+    "order": 1749705964706,
+    "createdAt": "2025-06-12T05:26:04.000Z",
+    "publishDate": "2025-06-12T05:26:04.706Z",
+    "title": "黄金股震荡走高，恒邦股份午后涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 13:26:04",
+    "uuid": "aa5b7919-164e-493d-bca3-542334562a0e"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" }
