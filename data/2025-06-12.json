@@ -1,6 +1,133 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "抖音发布公告称将治理网络“黑话烂梗”，针对少数账号以谐音、缩写等方式传播低俗不良信息的行为进行持续处理，维护平台内容健康。",
+    "id": "8k7q3109Drr",
+    "order": 1749710812288,
+    "createdAt": "2025-06-12T06:46:19.000Z",
+    "publishDate": "2025-06-12T06:46:52.288Z",
+    "title": "抖音公告：明确治理网络“黑话烂梗”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 14:46:19",
+    "uuid": "57b02fbe-6164-4e07-aa43-eeb193d6ebd7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "广汽集团宣布，其首款量产飞行汽车高域AirCab在香港全球首发，并正式开启预订，官方指导价不超过168万元。",
+    "id": "8k7owHYGd9s",
+    "order": 1749710356613,
+    "createdAt": "2025-06-12T06:39:17.000Z",
+    "publishDate": "2025-06-12T06:39:16.613Z",
+    "title": "广汽首款量产飞行汽车开启预订，售价不超168万元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 14:39:17",
+    "uuid": "600e304f-309c-4ae5-a61b-49bde18a0080"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "火山引擎的AI IDE产品TRAE迎来升级，新增多项实用功能如代码补全、生成与重构等，并逐步迈向支持AI开发全流程 ...",
+    "id": "8k6KWHg0XGV",
+    "order": 1749710186542,
+    "createdAt": "2025-06-12T06:36:27.000Z",
+    "publishDate": "2025-06-12T06:36:26.542Z",
+    "title": "字节跳动 AI IDE 产品 TRAE 升级，月活用户已超 100 万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 14:36:27",
+    "uuid": "bcfe8957-aa93-4498-9edd-7dafd675d7e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "广汽集团A股午后拉升接近涨停，报价8.44元。消息显示，广汽丰田与华为深化合作2.0上线，从车机点到点合作升级为全域面到面合作。",
+    "id": "8k7q5eZdj7q",
+    "order": 1749710158727,
+    "createdAt": "2025-06-12T06:35:58.000Z",
+    "publishDate": "2025-06-12T06:35:58.727Z",
+    "title": "广汽集团快速拉升触及涨停，与华为深化合作2.0上线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 14:35:58",
+    "uuid": "8dfce0db-ebec-4111-abf2-75a0d256d6e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "长江存储起诉美光，指控其资助负面宣传以获取竞争优势，造成经济损失。长江存储要求美光广告澄清、经济赔偿并交出非法利益。这是双方继2023年专利权纠纷后的再次法律交锋 ...",
+    "id": "8k7at7vDCiZ",
+    "order": 1749710022210,
+    "createdAt": "2025-06-12T06:33:43.000Z",
+    "publishDate": "2025-06-12T06:33:42.210Z",
+    "title": "长江存储再度起诉美光：指控其不正当竞争与虚假宣传",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 14:33:43",
+    "uuid": "6729f598-fdac-47df-85ce-30510aa06f90"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "SNEC 2025展会上，TCL光伏科技将展示创新商业模式与能源解决方案，并全球首发电碳业务，重构电碳资产价值链 ...",
+    "id": "8k5segBB3zn",
+    "order": 1749709914921,
+    "createdAt": "2025-06-12T06:31:55.000Z",
+    "publishDate": "2025-06-12T06:31:54.921Z",
+    "title": "TCL光伏科技将携创新的商业模式与能源解决方案亮相SNEC 2025",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 14:31:55",
+    "uuid": "0d803ade-87fe-4462-bcb6-d39cbc1fdf27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "汇丰经济学家认为，日本央行可能于10月再次加息，若消费复苏停滞或美国关税风险延长，加息或将推迟至2026年第一季度，同时计划从2026年4月起放缓削减购债步伐。",
+    "id": "8k7q3LqWt5d",
+    "order": 1749710965345,
+    "createdAt": "2025-06-12T06:22:42.000Z",
+    "publishDate": "2025-06-12T06:49:25.345Z",
+    "title": "汇丰：日本央行可能在10月份加息，并从2026年4月起放缓削减购债步伐",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 14:22:42",
+    "uuid": "949642fb-8c34-4e98-9b65-2a97c2f8431c"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" }
@@ -687,6 +814,24 @@
     "up": false,
     "date": "2025-06-12 11:38:36",
     "uuid": "b68e5a47-9c76-4147-bdbd-0c1f273b2d56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "新华制药获得沙库巴曲缬沙坦钠化学原料药上市申请批准通知书，该产品用于治疗慢性心力衰竭和原发性高血压，2024年在中国公立医疗机构销售额约49亿元，属于国家医保乙类品种 ...",
+    "id": "8k6Lu62CGYt",
+    "order": 1749710410447,
+    "createdAt": "2025-06-12T03:37:22.000Z",
+    "publishDate": "2025-06-12T06:40:10.447Z",
+    "title": "新华制药：获得沙库巴曲缬沙坦钠化学原料药上市申请批准通知书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 11:37:22",
+    "uuid": "5822a9a3-9ca3-4f6a-8d4d-b16ddccfc995"
   },
   {
     "newsArray": [
