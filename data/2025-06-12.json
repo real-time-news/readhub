@@ -1,6 +1,97 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2025年第一季度全球智能手机生产总数为2.89亿部，同比下降3%。三星以6400万部的产量位居第一，季增21%。苹果因新机铺货结束，产量降至4800万部，季减40%，排名第二 ...",
+    "id": "8k81tAVSNnI",
+    "order": 1749721300551,
+    "createdAt": "2025-06-12T09:41:41.000Z",
+    "publishDate": "2025-06-12T09:41:40.551Z",
+    "title": "集邦：小米手机产量即将反超苹果，iPhone一季度全球减产40%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 17:41:41",
+    "uuid": "8fe1fdf5-2c62-4eb2-94d7-d500fe0c27f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "印度航空一架11.5年机龄的波音787-8飞机起飞后失事，这是波音787机型首次发生空难。",
+    "id": "8k83h5n6tIP",
+    "order": 1749721321562,
+    "createdAt": "2025-06-12T09:35:34.000Z",
+    "publishDate": "2025-06-12T09:42:01.562Z",
+    "title": "印度航空失事飞机为波音787机型首起空难",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 17:35:34",
+    "uuid": "f40122fd-3b59-4ad2-9113-29dd0c31ffa5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "新北洋公告，公司股票连续2个交易日收盘涨幅偏离值累计超20%，属交易异常。经核实，公司经营正常，无重大事项或筹划，前期披露信息无需更正，未发现影响股价的未公开重大信息。",
+    "id": "8k82wyeCRNH",
+    "order": 1749721013223,
+    "createdAt": "2025-06-12T09:34:37.000Z",
+    "publishDate": "2025-06-12T09:36:53.223Z",
+    "title": "新北洋：目前经营情况正常，内外部经营环境未发生重大变化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 17:34:37",
+    "uuid": "0a9c3082-3373-4410-9c76-9d59280f6e1d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "字节跳动开发的AI原生IDE Trae于2025年1月推出，凭借AI驱动的编程功能广受开发者欢迎。截至5月，其月活跃用户突破100万，累计助力交付超60亿行代码 ...",
+    "id": "8k7q4zzZK9u",
+    "order": 1749720853064,
+    "createdAt": "2025-06-12T09:34:14.000Z",
+    "publishDate": "2025-06-12T09:34:13.064Z",
+    "title": "字节跳动宣布Trae月活跃用户突破100万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 17:34:14",
+    "uuid": "347ff990-37ac-436d-a198-7085c36377b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软宣布Clipchamp新增功能，用户可通过删除AI转录的文字记录部分来剪切视频中不需要的内容，适用于会议录音、网络研讨会、播客等语音内容的编辑 ...",
+    "id": "8k7sVveUSwu",
+    "order": 1749720744339,
+    "createdAt": "2025-06-12T09:32:24.000Z",
+    "publishDate": "2025-06-12T09:32:24.339Z",
+    "title": "微软Clipchamp上线新功能：删文本即剪视频，无需手动调整时间轴",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 17:32:24",
+    "uuid": "723a3643-1ef4-438d-8326-e2cbd1cf0adf"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
