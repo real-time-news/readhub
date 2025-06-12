@@ -1,6 +1,45 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国至6月6日当周EIA天然气库存增加1090亿立方英尺，前值增加1220亿立方英尺。",
+    "id": "8k8P9hj9urJ",
+    "order": 1749739032788,
+    "createdAt": "2025-06-12T14:37:13.000Z",
+    "publishDate": "2025-06-12T14:37:12.788Z",
+    "title": "美国至6月6日当周EIA天然气库存增加1090亿立方英尺",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 22:37:13",
+    "uuid": "05ce6ed0-1b06-4e50-a787-c6ea274136c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "今年前5个月，江苏省货物贸易进出口总值2.33万亿元，同比增长5.3%，高于全国平均水平，占全国进出口总值13%。其中出口1.55万亿元，增长9.6% ...",
+    "id": "8k8CwKOzSJL",
+    "order": 1749738150847,
+    "createdAt": "2025-06-12T14:22:31.000Z",
+    "publishDate": "2025-06-12T14:22:30.847Z",
+    "title": "前5个月江苏外贸进出口总值超2万亿元，同比增长5.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 22:22:31",
+    "uuid": "80c2c045-7c3c-49f0-b065-635ceb35ff8a"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" }
@@ -69,6 +108,27 @@
   },
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "甲骨文美股盘前涨超8%，2025财年Q4营收159亿美元同比增长11%，云基础设施营收30亿美元飙升52%，CEO预计2026财年云基础设施营收增长超70%。",
+    "id": "8k7ydmo6EmP",
+    "order": 1749738745276,
+    "createdAt": "2025-06-12T13:43:31.000Z",
+    "publishDate": "2025-06-12T14:32:25.276Z",
+    "title": "甲骨文美股盘前涨超8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 21:43:31",
+    "uuid": "7019dcc2-a317-40d1-b315-34115eb40992"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -84,6 +144,24 @@
     "up": false,
     "date": "2025-06-12 21:37:31",
     "uuid": "e4f942da-0e15-4c55-9fff-fc9be76a3b94"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "B站服务器出现异常，App端内容无法加载，客服表示正在紧急处理。",
+    "id": "8k8Iy2EVAHO",
+    "order": 1749738064513,
+    "createdAt": "2025-06-12T13:34:54.000Z",
+    "publishDate": "2025-06-12T14:21:04.513Z",
+    "title": "B站回应服务异常：已在紧急处理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 21:34:54",
+    "uuid": "5163eafd-1623-4b47-bc9e-ae072365196e"
   },
   {
     "newsArray": [
@@ -943,6 +1021,24 @@
     "up": false,
     "date": "2025-06-12 18:15:37",
     "uuid": "4860bd6b-dc71-4ca7-b0b2-402f88dcce5c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "雷科技" }
+    ],
+    "summary": "科大讯飞升级AIUI开放平台为全链路交互开发平台，以星火大模型为核心，提供智能交互基础设施。平台推出“即插即用”语音背包，赋能机器人语音交互，并针对智能玩具场景发布儿童专属方案 ...",
+    "id": "8k82kXOMRHl",
+    "order": 1749739035052,
+    "createdAt": "2025-06-12T10:14:21.000Z",
+    "publishDate": "2025-06-12T14:37:15.052Z",
+    "title": "科大讯飞旗下AIUI开放平台宣布升级，布局智能交互",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 18:14:21",
+    "uuid": "2f90e11a-32ac-4ea3-974c-5b0a6902c770"
   },
   {
     "newsArray": [
