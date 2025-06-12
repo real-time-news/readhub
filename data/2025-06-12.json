@@ -1,6 +1,26 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "港股恒生指数日内跌超1%，恒生科技指数跌1.78%，小鹏汽车跌近6%，快手、百威亚太均跌超5%。",
+    "id": "8k7njor79pc",
+    "order": 1749707541396,
+    "createdAt": "2025-06-12T05:52:22.000Z",
+    "publishDate": "2025-06-12T05:52:21.396Z",
+    "title": "港股恒生指数日内跌超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 13:52:22",
+    "uuid": "0155361e-80bf-4099-a1cf-e96527788fef"
+  },
+  {
+    "newsArray": [
       { "siteName": "科学网" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
@@ -15,6 +35,24 @@
     "up": false,
     "date": "2025-06-12 13:47:16",
     "uuid": "71b98c11-60d6-4f27-b7e5-7a820c13b11e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "长安汽车计划未来十年在新兴领域投入超2000亿元，新增超1万人的科技创新团队，将打造智能汽车机器人和海陆空立体出行方案，目标2025年底完成飞行汽车试飞，2028年实现人形机器人下线应用。",
+    "id": "8k7nEZtX7zW",
+    "order": 1749707604676,
+    "createdAt": "2025-06-12T05:44:11.000Z",
+    "publishDate": "2025-06-12T05:53:24.676Z",
+    "title": "长安汽车：将在2025年年底完成飞行汽车试飞，2028年实现人形机器人下线应用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-12 13:44:11",
+    "uuid": "1d791ddb-eb91-44b4-84ff-ea43109d8388"
   },
   {
     "newsArray": [
