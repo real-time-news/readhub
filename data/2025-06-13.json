@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "迪士尼和NBC环球起诉AI公司Midjourney，指控其未经授权使用版权作品训练模型生成包含知名角色的图像，称其行为为盗版和公然侵权，这是好莱坞首次对生成式AI公司提起诉讼，或意在先确立法律先例再针对更大科技公司。",
+    "id": "8k9CSk5BDQB",
+    "order": 1749797243073,
+    "createdAt": "2025-06-13T06:47:24.000Z",
+    "publishDate": "2025-06-13T06:47:23.073Z",
+    "title": "迪士尼和 NBC 起诉 Midjourney 侵犯版权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:47:24",
+    "uuid": "ff50cf54-6583-4514-af9b-6a234e90dd86"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "伊朗能源部确认水电基础设施与石油炼制储存设施未受损，水电及石油设施运营正常，燃料供应稳定无中断。",
+    "id": "8k9W3kMzzSQ",
+    "order": 1749797052009,
+    "createdAt": "2025-06-13T06:44:12.000Z",
+    "publishDate": "2025-06-13T06:44:12.009Z",
+    "title": "伊朗能源部：水电基础设施及石油炼制储存设施未受破坏",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:44:12",
+    "uuid": "17fdf0e1-026b-40ac-bf8c-eaafd30d0e7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "美光科技宣布将从2026年第一季度开始逐步减产或停产DDR4/LPDDR4内存，主要影响消费类、PC及数据中心领域 ...",
+    "id": "8k9PdkXoslu",
+    "order": 1749796958635,
+    "createdAt": "2025-06-13T06:42:39.000Z",
+    "publishDate": "2025-06-13T06:42:38.635Z",
+    "title": "美光宣布DDR4内存减产计划，聚焦车用等领域供应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:42:39",
+    "uuid": "76f344bf-5f79-48c2-9b30-efa125e7e115"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "医药魔方" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "赛诺菲中国的四价流感病毒裂解疫苗恢复在华销售，已获国家药品监督管理局批签发放行，适用于2025-2026年流感季。",
+    "id": "8k9VCjznaX8",
+    "order": 1749796696756,
+    "createdAt": "2025-06-13T06:38:17.000Z",
+    "publishDate": "2025-06-13T06:38:16.756Z",
+    "title": "赛诺菲四价流感疫苗恢复在华销售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:38:17",
+    "uuid": "9e5c08a9-0749-4496-957c-7c20413669b3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "中国科技网" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "贵州花江峡谷大桥猫道拆除完毕，这座在建的世界最高桥完成重要施工节点，为9月底具备通车条件奠定基础。大桥全长2890米，主桥跨径1420米，建成后将成为新的世界第一高桥 ...",
+    "id": "8k9AwVbZJDv",
+    "order": 1749796673068,
+    "createdAt": "2025-06-13T06:37:54.000Z",
+    "publishDate": "2025-06-13T06:37:53.068Z",
+    "title": "在建世界最高桥成功拆除猫道 通车进入倒计时",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:37:54",
+    "uuid": "92a6c118-36a8-4280-b57a-85a2fe001f32"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "界面" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "华熙生物与巨子生物之间的竞争升级为公开战争，起因是华熙生物批评券商研报“透明质酸过时”观点，并点名巨子生物 ...",
+    "id": "8k7kj6O4Dhh",
+    "order": 1749796378491,
+    "createdAt": "2025-06-13T06:32:59.000Z",
+    "publishDate": "2025-06-13T06:32:58.491Z",
+    "title": "医美C位战，“陕西王”已失250亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:32:59",
+    "uuid": "9d461433-9c0f-4b28-aca2-c1b5f4fabddf"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
