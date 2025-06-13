@@ -1,6 +1,119 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "黄仁勋认为无需担心AI导致失业，尽管Anthropic首席执行官警告AI可能使一半初级白领岗位消失 ...",
+    "id": "8k9J8DyZPOY",
+    "order": 1749795804659,
+    "createdAt": "2025-06-13T06:23:26.000Z",
+    "publishDate": "2025-06-13T06:23:24.659Z",
+    "title": "黄仁勋反驳AI威胁就业：程序员将被淘汰 就业不必恐慌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:23:26",
+    "uuid": "5618b482-ffeb-45c6-a658-2b98dc9c276d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "腾讯音乐宣布收购喜马拉雅，交易总成本约28.6亿美元。交割后，喜马拉雅将成为腾讯音乐全资附属公司，但仍保持品牌、产品、团队和战略独立 ...",
+    "id": "8k93qwPlXNw",
+    "order": 1749795760018,
+    "createdAt": "2025-06-13T06:22:41.000Z",
+    "publishDate": "2025-06-13T06:22:40.018Z",
+    "title": "200亿卖身腾讯音乐，喜马拉雅声称将保持“自主”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:22:41",
+    "uuid": "6f999968-3ecc-4ecd-85df-1e1bdee9a9dc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "世界银行发布中国经济简报指出，2025年一季度中国GDP增长5.4%，消费和住房销售回暖。报告强调提振居民消费对经济增长的重要性，建议加强农民工和零工群体保障以减少预防性储蓄 ...",
+    "id": "8k9TbiOQU1L",
+    "order": 1749795811098,
+    "createdAt": "2025-06-13T06:19:32.000Z",
+    "publishDate": "2025-06-13T06:23:31.098Z",
+    "title": "世界银行：释放消费潜力助力中国经济持续增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:19:32",
+    "uuid": "b6af7576-a4f2-4490-8ad1-674a214b199f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "德国5月CPI月率终值为0.1%，预期0.1%，前值0.10%。",
+    "id": "8k9Tbn4EvpQ",
+    "order": 1749794737950,
+    "createdAt": "2025-06-13T06:05:37.000Z",
+    "publishDate": "2025-06-13T06:05:37.950Z",
+    "title": "德国5月CPI月率终值为0.1%，预期0.1%，前值0.10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:05:37",
+    "uuid": "6f22b83f-ca38-4571-8eae-448cb6c5c6be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "蚂蚁集团法定代表人变更为韩歆毅，井贤栋继续担任董事长。韩歆毅接任CEO后全面负责日常经营，法人变更不影响公司运营 ...",
+    "id": "8k9IqV9utyt",
+    "order": 1749794635340,
+    "createdAt": "2025-06-13T06:03:55.000Z",
+    "publishDate": "2025-06-13T06:03:55.340Z",
+    "title": "蚂蚁集团CEO韩歆毅接任法人代表，系公司治理正常安排",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:03:55",
+    "uuid": "21da5d49-5684-47eb-9d15-8db68c4cdd48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "丰田在中国市场与广汽、比亚迪及一汽红旗展开合作，推出新研发体制RCE，将产品决策权转移至国内，加速新产品上市 ...",
+    "id": "8k99AWixXlY",
+    "order": 1749794603451,
+    "createdAt": "2025-06-13T06:03:23.000Z",
+    "publishDate": "2025-06-13T06:03:23.451Z",
+    "title": "继比亚迪、广汽后 传红旗也将加入丰田的中国研发联盟",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 14:03:23",
+    "uuid": "602e8286-a009-4f51-a3ab-19d15ad887a5"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -283,6 +396,24 @@
     "up": false,
     "date": "2025-06-13 12:43:47",
     "uuid": "1cc295a8-a5f5-47e5-b555-80e00965e429"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "猎云网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "哪吒汽车母公司合众新能源进入重整程序，由政府主导并在法院监督下进行，旨在化解债务、引入投资及优化管理。新任CEO将具备跨国车企管理经验，管理团队也将重组 ...",
+    "id": "8k9GnkhQR7x",
+    "order": 1749794565294,
+    "createdAt": "2025-06-13T04:43:36.000Z",
+    "publishDate": "2025-06-13T06:02:45.294Z",
+    "title": "哪吒汽车重整开启：原管理团队将优化重组，将引入外企背景新CEO",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 12:43:36",
+    "uuid": "e0c732a8-d0e7-4650-ba8f-34c096e1f726"
   },
   {
     "newsArray": [
@@ -890,6 +1021,24 @@
     "up": false,
     "date": "2025-06-13 10:54:42",
     "uuid": "beddb321-9b41-4297-8018-d6d2b78ace0d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "Coinbase对今年下半年加密市场持正面展望，因美国经济增长、企业采用增加及监管改善。预计比特币将保持上升趋势，年底前或创新高 ...",
+    "id": "8k8REFzu2H9",
+    "order": 1749794497612,
+    "createdAt": "2025-06-13T02:32:07.000Z",
+    "publishDate": "2025-06-13T06:01:37.612Z",
+    "title": "Coinbase：预计今年底前比特币将创下新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 10:32:07",
+    "uuid": "fdc3516e-dced-4d28-81ab-f16cd602c64b"
   },
   {
     "newsArray": [
