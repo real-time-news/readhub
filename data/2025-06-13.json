@@ -1,6 +1,150 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "以色列对伊朗发动袭击，美股股指期货下跌，其中纳指期货跌1.5%，标普500指数期货跌1.3%，道指期货跌1.1%。",
+    "id": "8k95wxBQZ0p",
+    "order": 1749775172016,
+    "createdAt": "2025-06-13T00:39:33.000Z",
+    "publishDate": "2025-06-13T00:39:32.016Z",
+    "title": "以色列对伊朗发动袭击 美股股指期货跳水",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 08:39:33",
+    "uuid": "3b75187e-ddef-47e1-ac58-2cea1dbeb7a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "医药魔方" },
+      { "siteName": "创业邦" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "景嘉航完成数千万元天使轮融资，由杭实资管领投，正景资本和滨江伍零伍零跟投，资金将用于现有管线的临床前和早期临床开发。",
+    "id": "8k94WOtTUob",
+    "order": 1749774891617,
+    "createdAt": "2025-06-13T00:34:51.000Z",
+    "publishDate": "2025-06-13T00:34:51.617Z",
+    "title": "景嘉航完成数千万元天使轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 08:34:51",
+    "uuid": "be7f485a-5734-4c0c-a6c7-ca77a0fea5d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "华泰证券研报指出，比亚迪、吉利、上汽、长城等车企承诺将供应商支付账期缩短至60天内，缓解市场对车企还款能力的担忧，有助于行业健康发展 ...",
+    "id": "8k93vi86HwA",
+    "order": 1749774517135,
+    "createdAt": "2025-06-13T00:28:38.000Z",
+    "publishDate": "2025-06-13T00:28:37.135Z",
+    "title": "华泰证券：看好国内具备强全球竞争力的车企，以及零部件头部企业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 08:28:38",
+    "uuid": "0737f0c2-9660-477c-b852-5dd1b35e71de"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "市场监管总局发布，今年对3605批次冷冻饮品进行抽检，合格率超99.5%，不合格项目主要为大肠菌群和菌落总数，整体食品安全状况稳定向好。",
+    "id": "8k94dXe1cmp",
+    "order": 1749774496471,
+    "createdAt": "2025-06-13T00:28:17.000Z",
+    "publishDate": "2025-06-13T00:28:16.471Z",
+    "title": "市场监管总局：3605批次冷冻饮品抽检合格率超99.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 08:28:17",
+    "uuid": "acf72582-5ea2-4de5-b8d3-4ef61b37f1c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "宁德时代宣布587Ah储能专用电芯正式量产交付，该电芯单体能量密度达434Wh/L，系统能量密度提升25%，初始能量转换效率达96.5% ...",
+    "id": "8k8GuR4a5Cd",
+    "order": 1749774373460,
+    "createdAt": "2025-06-13T00:26:13.000Z",
+    "publishDate": "2025-06-13T00:26:13.460Z",
+    "title": "宁德时代587Ah储能专用电芯正式量产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 08:26:13",
+    "uuid": "548ae307-46d0-4b77-8f55-0f25bda8ce71"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "iPadOS 26带来了革命性的多任务界面，苹果软件主管Craig Federighi透露其延迟推出的原因是早期处理器性能不足及触控响应要求高 ...",
+    "id": "8k8z48vSkAD",
+    "order": 1749773864770,
+    "createdAt": "2025-06-13T00:17:46.000Z",
+    "publishDate": "2025-06-13T00:17:44.770Z",
+    "title": "iPad多任务处理为何直到现在才出现 苹果高管解释原因",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 08:17:46",
+    "uuid": "b7407f43-eced-425a-8542-964a40426eff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "布伦特原油和WTI原油期货涨近3%，纳指期货跌超1%，现货黄金突破3400美元/盎司，10年期美债收益率下降至4.32%。以色列 reportedly 对伊朗实施空袭。",
+    "id": "8k94VfHAKlC",
+    "order": 1749773743561,
+    "createdAt": "2025-06-13T00:15:44.000Z",
+    "publishDate": "2025-06-13T00:15:43.561Z",
+    "title": "原油短线拉升，美股期货走低，报道称以色列对伊朗实施空袭",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 08:15:44",
+    "uuid": "11c91123-d8df-43ea-8247-cddfc747912e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "WTI原油期货涨幅扩大至4%，报70.80美元/桶。",
+    "id": "8k8gHClET5u",
+    "order": 1749773587018,
+    "createdAt": "2025-06-13T00:13:07.000Z",
+    "publishDate": "2025-06-13T00:13:07.018Z",
+    "title": "WTI原油期货涨幅扩大至4%，报70.80美元/桶",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 08:13:07",
+    "uuid": "5b903c9f-df15-4b67-9748-2c4440c0fa7d"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -51,6 +195,24 @@
     "up": false,
     "date": "2025-06-13 07:33:30",
     "uuid": "72874dee-6de4-470c-815a-d5dda899a4da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "英伟达CEO黄仁勋在接受CNN采访时候表示，将在营收和利润预测中，该公司将不再纳入中国市场的表现。",
+    "id": "8k8gyRWO3ww",
+    "order": 1749775214577,
+    "createdAt": "2025-06-12T23:32:25.000Z",
+    "publishDate": "2025-06-13T00:40:14.577Z",
+    "title": "黄仁勋：英伟达将在业绩预测中剔除中国市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-13 07:32:25",
+    "uuid": "9de0aa3c-ab7c-459e-8ee1-228b4a9ea1d9"
   },
   {
     "newsArray": [
