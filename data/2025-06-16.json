@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "亿纬锂能计划减持思摩尔国际3.5%的股份，约21657.85万股，以加强市值管理和加大研发投入，此次减持将通过大宗交易或集中竞价方式进行，不构成关联交易和重大资产重组。",
+    "id": "8kEmmNirhn6",
+    "order": 1750071414750,
+    "createdAt": "2025-06-16T10:56:55.000Z",
+    "publishDate": "2025-06-16T10:56:54.750Z",
+    "title": "亿纬锂能：拟续期减持思摩尔国际3.5%的股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-16 18:56:55",
+    "uuid": "f2d061d1-f094-41a6-85cd-bc913a590f8a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "德赛西威与奇瑞汽车合作开发舱驾一体中央计算平台，采用单芯片多域融合方案，实现业内首款可量产舱驾一体SOC产品 ...",
+    "id": "8kEmF8IB8f9",
+    "order": 1750071390570,
+    "createdAt": "2025-06-16T10:56:31.000Z",
+    "publishDate": "2025-06-16T10:56:30.570Z",
+    "title": "德赛西威：与奇瑞汽车、昊铂达成合作 推动智能驾驶技术落地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-16 18:56:31",
+    "uuid": "b7acb97e-ab26-4b2c-a5f9-fddb60579293"
+  },
+  {
+    "newsArray": [
+      { "siteName": "AMZ123" },
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌推出音频概览功能，利用Gemini模型生成对话式播客风格的音频总结，用户可通过搜索获得详细语音回答，并调整播放速度和音量 ...",
+    "id": "8kCp5NHij6B",
+    "order": 1750071277683,
+    "createdAt": "2025-06-16T10:54:37.000Z",
+    "publishDate": "2025-06-16T10:54:37.683Z",
+    "title": "谷歌搜索推出音频概览功能：AI 生成播客式总结",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-16 18:54:37",
+    "uuid": "915d8ace-ee5a-4274-9521-30accd4f37d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苏超作为业余联赛，第一轮仅有6家赞助商，目前增至20家，是开赛时的3倍多，赞助费飙升至300万元且一席难求 ...",
+    "id": "8kEkvXH9pby",
+    "order": 1750071513936,
+    "createdAt": "2025-06-16T10:53:42.000Z",
+    "publishDate": "2025-06-16T10:58:33.936Z",
+    "title": "苏超赞助商激增至20家，赞助费达300万元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-16 18:53:42",
+    "uuid": "aa9db48e-8ecf-43d4-a44b-22a731e171e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "伊朗证券交易所宣布将暂停交易，开市直至另行通知。",
+    "id": "8kEmwcvAQMl",
+    "order": 1750071203600,
+    "createdAt": "2025-06-16T10:53:24.000Z",
+    "publishDate": "2025-06-16T10:53:23.600Z",
+    "title": "伊朗证券交易所宣布将暂停交易",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-16 18:53:24",
+    "uuid": "a05fb904-202b-48c3-8b15-26d14d4d3463"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
