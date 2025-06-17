@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "众泰汽车发布公告称，受公司缺乏运营资金影响，截至目前公司整车业务未能复工复产，今年以来无整车生产。",
+    "id": "8kEmwXWVM0e",
+    "order": 1750150552114,
+    "createdAt": "2025-06-17T08:55:53.000Z",
+    "publishDate": "2025-06-17T08:55:52.114Z",
+    "title": "众泰汽车：缺少运营资金，整车业务未能复工复产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-17 16:55:53",
+    "uuid": "5e3ff9bf-da16-4638-875a-7cc82e2a620e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "龙蟠科技成为苏超联赛战略合作伙伴，将在赛事推广、品牌联动和球迷互动等方面进行深度合作。",
+    "id": "8kGGRYSfn4K",
+    "order": 1750150528964,
+    "createdAt": "2025-06-17T08:55:30.000Z",
+    "publishDate": "2025-06-17T08:55:28.964Z",
+    "title": "龙蟠科技：目前是苏超联赛的战略合作伙伴",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-17 16:55:30",
+    "uuid": "b7b31673-8b41-4738-9cec-95b340255c4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Meta和TikTok相继推出AI生成广告工具，帮助广告商降低制作成本和复杂性。Meta升级图像转视频广告功能，支持将产品图片转化为多场景视频广告，并已将AI作为广告业务重点 ...",
+    "id": "8kGEcypi1NG",
+    "order": 1750150343583,
+    "createdAt": "2025-06-17T08:52:25.000Z",
+    "publishDate": "2025-06-17T08:52:23.583Z",
+    "title": "Meta 开始测试 AI 自动生成视频广告功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-17 16:52:25",
+    "uuid": "c06b9838-6893-4cef-85b0-383fc6c30000"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
