@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "爱范儿" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "邓紫棋重制版专辑《I AM GLORIA》上线后陷入版权争议。蜂鸟音乐发布声明称，该专辑未获授权传播重制录音版，涉嫌侵犯其信息网络传播权，要求音乐平台下架并限邓紫棋团队48小时内删除所有侵权内容 ...",
+    "id": "8kHqONJaWBQ",
+    "order": 1750232640698,
+    "createdAt": "2025-06-18T07:44:01.000Z",
+    "publishDate": "2025-06-18T07:44:00.698Z",
+    "title": "邓紫棋重制版歌曲被指侵权，蜂鸟音乐要求全网下架",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-18 15:44:01",
+    "uuid": "ceebd295-04d6-42a5-9c4a-998aac8b9409"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI 发布了基于 AI 的自动化前端测试工具演示版，结合内部 CUA 技术与开源框架 Playwright，可依据书面描述自动生成、运行和评估测试用例，旨在提升软件测试效率与可靠性，展现了人工智能在前端测试自动化领域的潜力，目前项目仍处于早期研究阶段。",
+    "id": "8kHUD28qHQv",
+    "order": 1750232282227,
+    "createdAt": "2025-06-18T07:38:03.000Z",
+    "publishDate": "2025-06-18T07:38:02.227Z",
+    "title": "OpenAI 发布 AI 前端自动化测试工具演示版",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-18 15:38:03",
+    "uuid": "a649159d-b19e-450f-aa7f-a4e1acfde67b"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
