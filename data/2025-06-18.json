@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "京东物流在沙特推出自营B2C快递品牌“JoyExpress”，提供送货上门、货到付款及当日达等服务，并拥有完整的物流网络。目前覆盖沙特多数地区，未来将拓展至中东其他区域 ...",
+    "id": "8kI11v0JFNM",
+    "order": 1750240076824,
+    "createdAt": "2025-06-18T09:47:56.000Z",
+    "publishDate": "2025-06-18T09:47:56.824Z",
+    "title": "京东物流在沙特推出全新快递品牌 JoyExpress",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-18 17:47:56",
+    "uuid": "32349c9d-7b08-4dda-9a4c-f2946baba6a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "滴滴出行公告表示，为应对夏季夜间消费需求增长及天气变化带来的安全风险，滴滴顺风车在部分城市试点在线真人安全员功能 ...",
+    "id": "8kI1T6sGjWP",
+    "order": 1750240032973,
+    "createdAt": "2025-06-18T09:47:13.000Z",
+    "publishDate": "2025-06-18T09:47:12.973Z",
+    "title": "滴滴顺风车推出在线真人安全员",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-18 17:47:13",
+    "uuid": "77721ca8-bec8-4166-ab73-f77134fc7d80"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "自2025年6月20日起，大连商品交易所将扩大合格境外投资者可交易品种范围，新增乙二醇、液化石油气的期货与期权合约。",
+    "id": "8kI17imscB3",
+    "order": 1750239846486,
+    "createdAt": "2025-06-18T09:44:08.000Z",
+    "publishDate": "2025-06-18T09:44:06.486Z",
+    "title": "大商所扩大合格境外投资者参与商品期货、期权交易范围",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-18 17:44:08",
+    "uuid": "42a28494-2647-4ea4-b2f1-d9af8f32441f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "炬芯科技发布基于存内计算技术的端侧AI音频芯片新品，包括ATS323X、ATS286X、ATS362X系列。其中ATS323X系列芯片在客户终端产品中快速起量，取得阶段性成果 ...",
+    "id": "8kI15Qa82yp",
+    "order": 1750239512326,
+    "createdAt": "2025-06-18T09:38:33.000Z",
+    "publishDate": "2025-06-18T09:38:32.326Z",
+    "title": "炬芯科技：端侧AI新品推广取得阶段性成果",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-18 17:38:33",
+    "uuid": "6d12ec26-b4bf-4d69-8ff1-8fe2184747bf"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "IT 之家" },
       { "siteName": "36Kr" },
@@ -198,6 +271,23 @@
     "up": false,
     "date": "2025-06-18 16:56:19",
     "uuid": "cc50d72f-8f45-42fd-9e5a-dfb3cda39c3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "黑石集团旗下的西班牙博彩运营商Cirsa计划在西班牙进行IPO，目标筹集4亿欧元以推动增长战略。此次发行还包括黑石出售6000万欧元的现有股票 ...",
+    "id": "8kHtx8gLphb",
+    "order": 1750239552318,
+    "createdAt": "2025-06-18T08:55:23.000Z",
+    "publishDate": "2025-06-18T09:39:12.318Z",
+    "title": "黑石旗下西班牙博彩公司Cirsa拟IPO融资4亿欧元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-18 16:55:23",
+    "uuid": "2da4b477-e0ba-4cbe-b645-753d6271d9c1"
   },
   {
     "newsArray": [
@@ -756,6 +846,24 @@
     "up": false,
     "date": "2025-06-18 15:23:26",
     "uuid": "c61d952d-271d-4bfd-88b2-112deb2a58cd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "京东618期间，北京市购买力最强，深圳市消费最活跃，广州市首次购用户最多，玉林市以旧换新渗透率最高，海口市客单价最高 ...",
+    "id": "8kHpehtgpzO",
+    "order": 1750239479706,
+    "createdAt": "2025-06-18T07:21:40.000Z",
+    "publishDate": "2025-06-18T09:37:59.706Z",
+    "title": "京东公布618成绩 县域农村地区订单量同比增130%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-18 15:21:40",
+    "uuid": "81cbb264-aa9d-4a00-8190-32451dc81ed8"
   },
   {
     "newsArray": [
