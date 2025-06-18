@@ -37,6 +37,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "马斯克旗下人工智能初创公司 xAI 正试图通过债务和股权融资 93 亿美元，因其每月烧钱 10 亿美元，对此马斯克予以否认并称该报道是「无稽之谈」。",
+    "id": "8kHNjRjsP1K",
+    "order": 1750272940264,
+    "createdAt": "2025-06-18T16:55:12.000Z",
+    "publishDate": "2025-06-18T18:55:40.264Z",
+    "title": "马斯克：彭博社关于xAI月烧10亿美元报道不实",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 00:55:12",
+    "uuid": "25d983d0-6451-4031-9033-8db6e83747c0"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "联商网" },
       { "siteName": "华尔街见闻" },
@@ -88,5 +105,22 @@
     "up": false,
     "date": "2025-06-19 00:24:58",
     "uuid": "cd4eabab-fb48-46b1-ab5c-7cf2dc02f748"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Waymo计划将其自动驾驶出租车引入纽约市。",
+    "id": "8kITnZpVm1C",
+    "order": 1750272957364,
+    "createdAt": "2025-06-18T16:18:22.000Z",
+    "publishDate": "2025-06-18T18:55:57.364Z",
+    "title": "Waymo 计划将其自动驾驶出租车引入纽约市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 00:18:22",
+    "uuid": "d64e47ac-4349-4e43-ae66-9c41fbf15392"
   }
 ]
