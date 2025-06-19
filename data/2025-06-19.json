@@ -1,6 +1,150 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "红枣期货主力合约涨超3%，报9285元/吨。",
+    "id": "8kJ7dV7Vg9u",
+    "order": 1750301515254,
+    "createdAt": "2025-06-19T02:51:56.000Z",
+    "publishDate": "2025-06-19T02:51:55.254Z",
+    "title": "红枣期货主力合约涨超3%，报9285元/吨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 10:51:56",
+    "uuid": "5e20acbf-75a0-4b69-97e2-13db2ec41e63"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI正式开源客户服务代理框架，提供SDK工具包和预训练模型，包含对话管理引擎、知识检索模块和意图识别器三大核心组件 ...",
+    "id": "8kJ6wvixtUB",
+    "order": 1750301295545,
+    "createdAt": "2025-06-19T02:48:16.000Z",
+    "publishDate": "2025-06-19T02:48:15.545Z",
+    "title": "OpenAI开源客户服务代理框架 加速企业级AI应用落地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 10:48:16",
+    "uuid": "70c0ebc6-beee-42c9-b291-0914187c046b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "丰田通商与LG能源解决方案将在美国北卡罗来纳州成立汽车电池回收合资企业，计划2026年开始运营，通过粉碎和分类电池废料提取镍、钴和锂等金属，建立回收材料循环利用到新电池生产的供应链。",
+    "id": "8kJBF4yBbtB",
+    "order": 1750301031157,
+    "createdAt": "2025-06-19T02:43:52.000Z",
+    "publishDate": "2025-06-19T02:43:51.157Z",
+    "title": "丰田通商与LG能源解决方案拟在北美成立汽车电池回收合资企业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 10:43:52",
+    "uuid": "d02beb1e-357f-41ff-b700-55dbdd68c172"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "MSCI亚太指数下跌1%至197.61点。",
+    "id": "8kJCdP2cjC5",
+    "order": 1750301012658,
+    "createdAt": "2025-06-19T02:43:32.000Z",
+    "publishDate": "2025-06-19T02:43:32.658Z",
+    "title": "MSCI亚太指数下跌1%至197.61点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 10:43:32",
+    "uuid": "26f7ff9d-d1ab-49de-a85a-2fd028357bf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "池级碳酸锂(早盘)价格与上日持平，均价报60350元/吨。",
+    "id": "8kHX5qARdRA",
+    "order": 1750300968093,
+    "createdAt": "2025-06-19T02:42:48.000Z",
+    "publishDate": "2025-06-19T02:42:48.093Z",
+    "title": "电池级碳酸锂早盘价格与上日持平",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 10:42:48",
+    "uuid": "04d3fe37-21ff-4d68-8b93-4bc625ca36cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "开盘半小时沪深两市成交额突破3800亿，较昨日放量130亿，预计全天成交超1.2万亿。",
+    "id": "8kJ9u01Owg9",
+    "order": 1750300659542,
+    "createdAt": "2025-06-19T02:27:45.000Z",
+    "publishDate": "2025-06-19T02:37:39.542Z",
+    "title": "开盘半小时两市放量130亿 预计全天成交超1.2万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 10:27:45",
+    "uuid": "5cdf8280-9219-4e9e-a028-2ba8c86297d7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股海天味业破发，盘初一度涨近5%。",
+    "id": "8kJB3x4ylRr",
+    "order": 1750300047499,
+    "createdAt": "2025-06-19T02:27:28.000Z",
+    "publishDate": "2025-06-19T02:27:27.499Z",
+    "title": "港股海天味业破发，盘初一度涨近5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 10:27:28",
+    "uuid": "b888d3f3-371d-476a-89f2-bc866ed2c46b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "爱范儿" },
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "奥迪取消了2033年停止研发和销售内燃机汽车的计划，不再设定明确终止时间，以保持灵活性 ...",
+    "id": "8kJ2ypcZWvq",
+    "order": 1750299960308,
+    "createdAt": "2025-06-19T02:26:01.000Z",
+    "publishDate": "2025-06-19T02:26:00.308Z",
+    "title": "传奥迪已撤回 2033 年全面电动化目标 官方回应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 10:26:01",
+    "uuid": "5b4f98e8-e1ae-499b-a7f2-ca526bd0a8cd"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
@@ -73,6 +217,25 @@
     "up": false,
     "date": "2025-06-19 09:03:37",
     "uuid": "8871b0f4-b459-4fe9-b78e-e3e25d2c31fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "联商网" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "东方甄选发布声明称，主播顿顿将不再担任直播工作，未来将以荣誉产品推荐官身份继续合作。顿顿感谢俞敏洪及公司的支持与包容，并表示将在合约到期后追求新的挑战，尝试更多未知领域 ...",
+    "id": "8kIIw9tzMiB",
+    "order": 1750301319034,
+    "createdAt": "2025-06-19T01:02:11.000Z",
+    "publishDate": "2025-06-19T02:48:39.034Z",
+    "title": "顿顿宣布不再担任东方甄选主播 未来以产品推荐官身份继续合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-19 09:02:11",
+    "uuid": "33b750cf-41ad-4cf8-8894-c3a053ec4e13"
   },
   {
     "newsArray": [
