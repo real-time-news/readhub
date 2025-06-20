@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "蓝箭航天朱雀三号可重复使用运载火箭一级动力系统试车成功，此次试验为我国规模最大、自动化水平最高的九机并联地面热试车。",
+    "id": "8kKyhoDOM24",
+    "order": 1750394002506,
+    "createdAt": "2025-06-20T04:33:23.000Z",
+    "publishDate": "2025-06-20T04:33:22.506Z",
+    "title": "朱雀三号一级动力系统试车试验成功",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-20 12:33:23",
+    "uuid": "45d67d9d-b101-4368-ae2f-c709db3b9e41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新芽" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "宇树科技完成超100亿人民币投前估值的C轮融资，由移动、腾讯、锦秋、阿里、蚂蚁、吉利资本共同领投 ...",
+    "id": "8kK1OzzlfhH",
+    "order": 1750393174698,
+    "createdAt": "2025-06-20T04:19:35.000Z",
+    "publishDate": "2025-06-20T04:19:34.698Z",
+    "title": "宇树科技完成C轮融资交割，估值超100亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-20 12:19:35",
+    "uuid": "3bf26704-72a8-4ebc-95eb-2d91686a6c2e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "快手推出全新推荐系统OneRec，通过大模型技术优化传统架构，计算量提升10倍，算力利用率提高，运营成本大幅降低 ...",
+    "id": "8kKtNxU1C6u",
+    "order": 1750392628246,
+    "createdAt": "2025-06-20T04:10:29.000Z",
+    "publishDate": "2025-06-20T04:10:28.246Z",
+    "title": "快手(01024)上线端到端生成式推荐系统OneRec 大模型技术重构传统推荐架构",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-20 12:10:29",
+    "uuid": "d5242900-0337-40a2-a6a1-1a5acd2f75ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国人形机器人行业在政策引导下加速发展，吸引多元厂商入局，推动产业生态建设。预计2024年商用出货量达2000台，2030年近6万台，复合增长率95.3%。",
+    "id": "8kKxMb9u5VQ",
+    "order": 1750392483231,
+    "createdAt": "2025-06-20T04:08:03.000Z",
+    "publishDate": "2025-06-20T04:08:03.231Z",
+    "title": "IDC：预计到2030年中国人形机器人商用销售出货量近6万台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-20 12:08:03",
+    "uuid": "9eb39a31-ecc4-470f-a8e2-24dcb883d2f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "伊拉克什叶派武装组织“真主旅”威胁称，若美国介入以色列与伊朗冲突，将封锁霍尔木兹海峡和曼德海峡，红海石油港口将停运，且中东上空的美国飞机可能遭遇意外。",
+    "id": "8kKwX9Lj6JF",
+    "order": 1750392457502,
+    "createdAt": "2025-06-20T04:07:38.000Z",
+    "publishDate": "2025-06-20T04:07:37.502Z",
+    "title": "伊拉克武装组织：若美国介入伊以冲突 将封锁霍尔木兹海峡和曼德海峡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-20 12:07:38",
+    "uuid": "b3d77afb-b795-4e75-927f-55ac6a0c9453"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Mozilla将于6月26日停运AI内容检测扩展“Deep Fake Detector”及另一AI助手Orbit，因活跃用户仅约3300人未达预期 ...",
+    "id": "8kKq7BUJuJx",
+    "order": 1750392389847,
+    "createdAt": "2025-06-20T04:06:30.000Z",
+    "publishDate": "2025-06-20T04:06:29.847Z",
+    "title": "​Mozilla 宣布停运 AI 内容检测工具 “Deep Fake Detector”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-20 12:06:30",
+    "uuid": "b51aaae1-4ebf-4e6d-9ba4-cc7a17d1c13b"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "快科技" },
       { "siteName": "华尔街见闻" }
@@ -159,6 +264,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "百度自动驾驶出租车子公司萝卜快跑计划2025年底进军东南亚，重点布局新加坡和马来西亚市场。",
+    "id": "8kKpSaltV5Z",
+    "order": 1750393248805,
+    "createdAt": "2025-06-20T03:34:43.000Z",
+    "publishDate": "2025-06-20T04:20:48.805Z",
+    "title": "百度自动驾驶出租车子公司萝卜快跑计划最快于2025年底进军东南亚市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-20 11:34:43",
+    "uuid": "788a9e26-5ffe-4b63-a7ad-168b4fb1e7cf"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -266,6 +389,24 @@
     "up": false,
     "date": "2025-06-20 11:05:14",
     "uuid": "c3cb2624-65a9-480e-be73-b20928323e96"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "白鲸出海" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "亚马逊宣布到2025年将在印度投资2.33亿美元，用于扩展和升级运营基础设施、开发物流新技术及提升配送安全 ...",
+    "id": "8kKgoVAlBfq",
+    "order": 1750392265264,
+    "createdAt": "2025-06-20T02:55:42.000Z",
+    "publishDate": "2025-06-20T04:04:25.264Z",
+    "title": "亚马逊在印追加2.33亿美元投资，夯实物流基建与技术升级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-20 10:55:42",
+    "uuid": "4b8a86ac-54b6-42d3-a3a4-8d9e79024fd8"
   },
   {
     "newsArray": [
@@ -467,6 +608,24 @@
     "up": false,
     "date": "2025-06-20 10:25:19",
     "uuid": "2129727b-be44-49e7-afa6-039c20909652"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "酿酒板块震荡反弹，皇台酒业涨停，金种子酒、迎驾贡酒、燕京啤酒涨超5%，古井贡酒、珠江啤酒、山西汾酒等跟涨。",
+    "id": "8kKpxQoSrwV",
+    "order": 1750392437147,
+    "createdAt": "2025-06-20T02:24:57.000Z",
+    "publishDate": "2025-06-20T04:07:17.147Z",
+    "title": "酿酒板块震荡反弹，皇台酒业涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-20 10:24:57",
+    "uuid": "95bbf5da-575d-42d0-b305-f1e74b848277"
   },
   {
     "newsArray": [
