@@ -1,6 +1,63 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "市场监管总局在经营者集中反垄断业务系统互联网端新增两项查询功能，企业可查询无条件批准案件列表和简易案件公示表，为申报经营者集中提供参考。",
+    "id": "8kQ8tnVguj5",
+    "order": 1750663287077,
+    "createdAt": "2025-06-23T07:21:28.000Z",
+    "publishDate": "2025-06-23T07:21:27.077Z",
+    "title": "经营者集中反垄断业务系统新上线两项查询功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 15:21:28",
+    "uuid": "c4947d4f-39fc-4d09-b938-0dda16c8a815"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "新芽" },
+      { "siteName": "199IT" }
+    ],
+    "summary": "埃克斯控股（北京）有限公司近日完成数亿元人民币C+轮融资，由北京信息产业基金及北京经济开发区产业升级基金共同注资。资金将用于加大研发投入、拓展市场渠道和引进高端人才 ...",
+    "id": "8kPvxjNpqKf",
+    "order": 1750663048845,
+    "createdAt": "2025-06-23T07:17:29.000Z",
+    "publishDate": "2025-06-23T07:17:28.845Z",
+    "title": "半导体智能制造软件服务提供商「埃克斯」完成数亿元人民币C+轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 15:17:29",
+    "uuid": "00892c91-1da5-4653-9701-3b2625b09187"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "据知情人士透露，自动驾驶科技公司文远知行已秘密提交香港上市申请。",
+    "id": "8kQ8OXwdpyO",
+    "order": 1750662154549,
+    "createdAt": "2025-06-23T07:02:35.000Z",
+    "publishDate": "2025-06-23T07:02:34.549Z",
+    "title": "文远知行已秘密提交香港上市申请",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 15:02:35",
+    "uuid": "75c5c89e-9b1c-4d53-9521-75cedfdd0fd2"
+  },
+  {
+    "newsArray": [
       { "siteName": "i黑马" },
       { "siteName": "开源中国" },
       { "siteName": "品玩" }
@@ -15,6 +72,27 @@
     "up": false,
     "date": "2025-06-23 14:56:18",
     "uuid": "054cff5a-8578-491a-ad27-fcac38875133"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "财政部、公安部、市场监管总局联合开展2025年政府采购领域专项整治工作，重点针对采购人设置差别歧视条款、代理机构乱收费、供应商提供虚假材料和围标串标等“四类”违法违规行为 ...",
+    "id": "8kQ5Jsrcl9Y",
+    "order": 1750662210059,
+    "createdAt": "2025-06-23T06:52:30.000Z",
+    "publishDate": "2025-06-23T07:03:30.059Z",
+    "title": "政府采购专项整治6月启动，大型代理机构全部纳入检查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 14:52:30",
+    "uuid": "b5272616-2cbc-400a-b161-284224e17717"
   },
   {
     "newsArray": [
@@ -1293,6 +1371,27 @@
     "up": false,
     "date": "2025-06-23 08:47:58",
     "uuid": "42e1470a-6d23-4030-9742-a4edf10e3077"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧洲主要股指期货普遍下跌，其中斯托克50期货跌0.6%，德国DAX期货跌0.5%，英国富时指数期货跌0.4%。",
+    "id": "8kPgFw2Wuq6",
+    "order": 1750662676479,
+    "createdAt": "2025-06-23T00:25:38.000Z",
+    "publishDate": "2025-06-23T07:11:16.479Z",
+    "title": "欧股股指期货集体下跌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 08:25:38",
+    "uuid": "13a98e07-a6e1-4afd-a438-d24ef1b9a2c5"
   },
   {
     "newsArray": [
