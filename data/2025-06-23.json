@@ -1,6 +1,131 @@
 [
   {
     "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "北京气象台升级发布高温橙色预警，预计23日至24日平原大部分地区12时至18时气温达38℃左右，请注意防范。",
+    "id": "8kPaaaZc4lm",
+    "order": 1750648526310,
+    "createdAt": "2025-06-23T03:15:27.000Z",
+    "publishDate": "2025-06-23T03:15:26.310Z",
+    "title": "北京发布高温橙色预警 最高气温将达38℃",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 11:15:27",
+    "uuid": "c72c8d44-b5d2-481a-bb63-c72e3ad2adca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "哈啰联合蚂蚁集团、宁德时代成立上海造父智能科技有限公司，进军Robotaxi领域，专注L4级自动驾驶技术的研发与商业化，公司注册资金12.88亿元，三方首期合计出资超30亿元。",
+    "id": "8kPrla3OVSr",
+    "order": 1750648390899,
+    "createdAt": "2025-06-23T03:13:10.000Z",
+    "publishDate": "2025-06-23T03:13:10.899Z",
+    "title": "哈啰Robotaxi业务完成超30亿元融资，引入蚂蚁集团、宁德时代战略投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 11:13:10",
+    "uuid": "56976cfc-8133-402e-9890-d5060a733d1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "杭州住房公积金管理中心推出公积金直付购房首付款业务，支持线上办理新建商品房首付款支付，二手房功能即将推出。",
+    "id": "8kPrjYhmzBu",
+    "order": 1750648295004,
+    "createdAt": "2025-06-23T03:11:35.000Z",
+    "publishDate": "2025-06-23T03:11:35.004Z",
+    "title": "杭州：住房公积金可以直付购房首付款",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 11:11:35",
+    "uuid": "16b63180-72cb-4070-9109-6d14a9769a96"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "MSCI中国医疗指数2025年初至今上涨31.7%，优于MSCI中国指数。招银国际研报指出，短期因出海交易预期高，内地医药行业或承压回调 ...",
+    "id": "8kPop7PeB7g",
+    "order": 1750648010834,
+    "createdAt": "2025-06-23T03:06:50.000Z",
+    "publishDate": "2025-06-23T03:06:50.834Z",
+    "title": "招银国际：内地医药行业短期面临回调压力 估值处于合理区间",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 11:06:50",
+    "uuid": "2a060845-4c1c-4718-820f-85da87216557"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "晶泰科技与哈佛大学教授Gregory Verdine创立的DoveTree LLC达成合作意向，将利用AI+机器人平台为多个肿瘤、自身免疫及神经疾病靶点开发小分子和抗体药物，潜在收益达数十亿美元。",
+    "id": "8kPknUwtbUM",
+    "order": 1750648494180,
+    "createdAt": "2025-06-23T03:04:06.000Z",
+    "publishDate": "2025-06-23T03:14:54.180Z",
+    "title": "晶泰科技与新药公司DoveTree签署数十亿美元管线授权意向",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 11:04:06",
+    "uuid": "6e72fd91-97e9-4b7c-884c-991f1a20354d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "当地时间当天10时13分左右，日本鹿儿岛县吐噶喇列岛近海附近发生4.5级地震，最大震感为震度3，震源深度20公里。",
+    "id": "8kPlIZPbQ5f",
+    "order": 1750648511263,
+    "createdAt": "2025-06-23T02:55:44.000Z",
+    "publishDate": "2025-06-23T03:15:11.263Z",
+    "title": "日本鹿儿岛县附近海域发生4.5级地震，无海啸风险",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 10:55:44",
+    "uuid": "a23ccd2e-0761-43ed-a24d-7926586499c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英国AI初创公司PhysicsX估值据悉接近10亿美元。",
+    "id": "8kOIV04EDZx",
+    "order": 1750648523785,
+    "createdAt": "2025-06-23T02:34:00.000Z",
+    "publishDate": "2025-06-23T03:15:23.785Z",
+    "title": "英国AI初创公司PhysicsX估值据悉接近10亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 10:34:00",
+    "uuid": "2c6e134e-4c37-4bd6-8475-64d3cf2a6523"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "第一财经" },
@@ -91,6 +216,45 @@
     "up": false,
     "date": "2025-06-23 09:42:53",
     "uuid": "8d838e54-4ea1-4774-bce3-c8007d16608f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "爱范儿" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "金融界" },
+      { "siteName": "速途网" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "联商网" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "阿里巴巴集团宣布饿了么与飞猪合并进入中国电商事业群，继续保持公司化管理并统一作战，这是阿里从电商平台向大消费平台的战略升级，旨在构建更完整的大消费服务体系。",
+    "id": "8kPlJpzMrXK",
+    "order": 1750648574072,
+    "createdAt": "2025-06-23T01:37:43.000Z",
+    "publishDate": "2025-06-23T03:16:14.072Z",
+    "title": "饿了么、飞猪加入阿里中国电商事业群",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 09:37:43",
+    "uuid": "1a317d7d-c124-42c3-b19b-c03cf44aeeef"
   },
   {
     "newsArray": [
@@ -396,6 +560,40 @@
     "up": false,
     "date": "2025-06-23 06:51:59",
     "uuid": "1a9f1522-d7cc-4a34-8326-52366dc4ff88"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "爱范儿" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "aibase" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "艾瑞网" }
+    ],
+    "summary": "特斯拉在得克萨斯州奥斯汀推出自动驾驶出租车RoboTaxi服务，首批用户支付4.20美元固定费用体验，试驾活动仅限少量车辆在小范围内进行，普通公众尚需等待。",
+    "id": "8kPPquDx7cW",
+    "order": 1750648674693,
+    "createdAt": "2025-06-22T22:33:03.000Z",
+    "publishDate": "2025-06-23T03:17:54.693Z",
+    "title": "特斯拉无人出租车服务 RoboTaxi 在得州启动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-23 06:33:03",
+    "uuid": "22ed4b49-deaa-4189-aea6-d156872e5cc8"
   },
   {
     "newsArray": [
