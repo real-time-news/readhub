@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英国政府计划未来4年在量子计算及相关技术领域投资超5亿英镑，以提升全球竞争力。此前英国两家量子科技企业被美企收购，引发对关键技术资产控制能力的担忧。",
+    "id": "8kPxOFqFMVO",
+    "order": 1750762434552,
+    "createdAt": "2025-06-24T10:53:55.000Z",
+    "publishDate": "2025-06-24T10:53:54.552Z",
+    "title": "英国拟4年投5亿英镑发展量子计算",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 18:53:55",
+    "uuid": "30cfced1-ac43-443d-8c1f-31094dbb772a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "盖茨基金会宣布未来五年将向全球疫苗免疫联盟捐赠16亿美元，自2000年以来已累计投入超306亿美元用于疫苗相关工作。",
+    "id": "8kS3UN5JSvf",
+    "order": 1750762395182,
+    "createdAt": "2025-06-24T10:53:16.000Z",
+    "publishDate": "2025-06-24T10:53:15.182Z",
+    "title": "盖茨基金会：未来五年将向全球疫苗免疫联盟捐赠16亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 18:53:16",
+    "uuid": "26b9d597-c0c0-4783-81e1-1b41884752ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "花旗集团将谷歌目标价由200美元上调至203美元。",
+    "id": "8kS3T2DZsbm",
+    "order": 1750762297090,
+    "createdAt": "2025-06-24T10:51:38.000Z",
+    "publishDate": "2025-06-24T10:51:37.090Z",
+    "title": "花旗将谷歌目标价上调至203美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 18:51:38",
+    "uuid": "e322fb56-ad14-41f2-ad5a-81bc06178427"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
