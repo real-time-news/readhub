@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "AMZ123" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国发布新规，自6月23日起对多种家用电器产品征收额外钢材衍生品关税。涉及产品包括冰箱冷冻柜、洗衣机、洗碗机、烹饪炉具等，进口关税为钢材含量价值的50%，英国产品关税为25% ...",
+    "id": "8kQB135Gciy",
+    "order": 1750750291864,
+    "createdAt": "2025-06-24T07:31:32.000Z",
+    "publishDate": "2025-06-24T07:31:31.864Z",
+    "title": "美国关税再加码，八类家电被加入清单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 15:31:32",
+    "uuid": "f960c4ea-cea8-48af-8b16-09165f30e11c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "国债期货全线下跌，30年期主力合约跌幅最大，达0.27%。",
+    "id": "8kRQu7p8KZD",
+    "order": 1750749933614,
+    "createdAt": "2025-06-24T07:25:34.000Z",
+    "publishDate": "2025-06-24T07:25:33.614Z",
+    "title": "国债期货集体收跌，30年期主力合约跌0.27%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 15:25:34",
+    "uuid": "e9526e21-9e49-480e-b84c-27a0d474ff1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "蓝点网" },
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌推出A2A协议后，目前已将其捐赠给Linux基金会管理。此举使A2A协议摆脱了谷歌的直接控制，增强了行业对其使用的信心 ...",
+    "id": "8kRVVhREYBQ",
+    "order": 1750749813784,
+    "createdAt": "2025-06-24T07:23:33.000Z",
+    "publishDate": "2025-06-24T07:23:33.784Z",
+    "title": "谷歌将AI代理协议A2A捐赠给Linux基金会 消除潜在的垄断和竞争担忧",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 15:23:33",
+    "uuid": "cb551ede-fc5f-4efd-b8da-78fd63b6dff3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "大和发布报告，重申对小米集团的“买入”评级，并将12个月目标价由70港元上调至78港元。报告认为，小米IoT业务的高端化策略、产品线多元化及海外扩展将推动其长期增长 ...",
+    "id": "8kRavD35Guk",
+    "order": 1750749735347,
+    "createdAt": "2025-06-24T07:22:15.000Z",
+    "publishDate": "2025-06-24T07:22:15.347Z",
+    "title": "大和上调小米2025至2027年每股盈利预测1%至13%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 15:22:15",
+    "uuid": "0ba19ae9-a1e3-438b-9641-cea54125ed80"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
