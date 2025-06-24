@@ -1,6 +1,61 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "郑州市发布《郑州市场景驱动人工智能创新发展行动方案（2025—2027年）》，提出深化与DeepSeek等人工智能头部企业合作，引入高质量通用型大模型，支持企业在智慧医疗、智能工厂、智慧交通、智慧文旅等重点场景开发垂直大模型。",
+    "id": "8kS9HWQuhZ9",
+    "order": 1750767951962,
+    "createdAt": "2025-06-24T12:24:05.000Z",
+    "publishDate": "2025-06-24T12:25:51.962Z",
+    "title": "郑州：深化与DeepSeek等人工智能头部企业的合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 20:24:05",
+    "uuid": "2407f56d-eaa3-4ada-8ea9-fba005929a09"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "易控智驾完成超4亿元D轮融资，由宁德时代领投，多家产业方和投资机构联合参与。资金将用于技术研发、市场拓展及海外布局 ...",
+    "id": "8kS0ACccQcI",
+    "order": 1750767460854,
+    "createdAt": "2025-06-24T12:17:40.000Z",
+    "publishDate": "2025-06-24T12:17:40.854Z",
+    "title": "易控智驾完成超4亿元D轮融资，加速矿山无人驾驶全球化布局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 20:17:40",
+    "uuid": "cf42b061-553b-448b-af04-eceb65604bdf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "工业和信息化部副部长熊继军6月24日在北京会见匈牙利国民经济部部长纳吉·马顿，双方就加强两国汽车产业合作、自动驾驶技术发展及充电基础设施建设等议题进行交流，并签署成立中匈汽车产业合作工作组的意向书。",
+    "id": "8kS9E9iuuvc",
+    "order": 1750766627510,
+    "createdAt": "2025-06-24T12:03:48.000Z",
+    "publishDate": "2025-06-24T12:03:47.510Z",
+    "title": "熊继军会见匈牙利国民经济部部长纳吉·马顿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 20:03:48",
+    "uuid": "af31e359-cfce-4464-a8a1-c2c240a2c9d3"
+  },
+  {
+    "newsArray": [
       { "siteName": "开源中国" },
       { "siteName": "aibase" },
       { "siteName": "IT 之家" }
@@ -15,6 +70,25 @@
     "up": false,
     "date": "2025-06-24 19:55:39",
     "uuid": "6469e212-04ce-4c3a-92e6-af4b70ca5548"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "首批民营创投机构成功发行科技创新债券，合计规模13.5亿元，利率最低达1.85%。此次发行的科创债期限大幅延长，最长可达10年，并显著降低了融资成本，标志着债券市场“科技板”发行主体进一步拓宽 ...",
+    "id": "8kS6afTzZzp",
+    "order": 1750766687131,
+    "createdAt": "2025-06-24T11:54:37.000Z",
+    "publishDate": "2025-06-24T12:04:47.131Z",
+    "title": "央行创设风险分担工具助力，首批民营创投科创债落地，利率最低1.85%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 19:54:37",
+    "uuid": "88c88c9a-504c-4a26-ba2b-0db1735daaca"
   },
   {
     "newsArray": [
@@ -316,6 +390,24 @@
     "up": false,
     "date": "2025-06-24 19:05:46",
     "uuid": "f7e67ccf-5c5f-4a12-921c-0252d5608c7f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "45款移动应用因违法违规收集使用个人信息被通报，其中包括《哈啰》《红果免费短剧》《探探》《一点资讯》《掌阅》《蘑菇街》《汽车之家》等。",
+    "id": "8kRuVeQoFPL",
+    "order": 1750766490300,
+    "createdAt": "2025-06-24T11:05:14.000Z",
+    "publishDate": "2025-06-24T12:01:30.300Z",
+    "title": "45款移动应用违法违规收集使用个人信息被通报",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 19:05:14",
+    "uuid": "3714fd11-0f13-4f26-9b16-da54e69753f9"
   },
   {
     "newsArray": [
@@ -689,6 +781,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "融创中国公布境外债务重组进展，截至2025年6月20日，约75%现有债务未偿还本金的持有人已加入重组支持协议。",
+    "id": "8kRzt758e6T",
+    "order": 1750767821724,
+    "createdAt": "2025-06-24T10:13:41.000Z",
+    "publishDate": "2025-06-24T12:23:41.724Z",
+    "title": "融创中国：现有债务未偿还本金总额约75%的持有人已加入重组支持协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 18:13:41",
+    "uuid": "ef29efe1-a3a0-4ecd-9853-ea08573e0d9a"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" }
@@ -790,6 +900,24 @@
     "up": false,
     "date": "2025-06-24 18:04:16",
     "uuid": "db94233a-6695-474f-99d2-30d74651d238"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "品玩" },
+      { "siteName": "新浪科技" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "OceanBase推出云数据库OB Cloud，集成AI能力并服务于零售、金融、物流等多个行业的头部企业 ...",
+    "id": "8kRtWETxw3m",
+    "order": 1750766438104,
+    "createdAt": "2025-06-24T09:59:10.000Z",
+    "publishDate": "2025-06-24T12:00:38.104Z",
+    "title": "OceanBase公布AI新进展：OB Cloud首批落地数十家企业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 17:59:10",
+    "uuid": "d0bf2c15-faeb-4775-8c3a-12ba31782ce4"
   },
   {
     "newsArray": [
@@ -1474,6 +1602,24 @@
     "up": false,
     "date": "2025-06-24 16:14:31",
     "uuid": "ecf4067b-3abb-4413-a62d-4b260f91a661"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "罗博特科全资子公司与美国某头部公司签订日常经营合同，合同金额约1,710万欧元，占公司2024年度经审计营业收入的12.82%以上 ...",
+    "id": "8kRrarptsqZ",
+    "order": 1750768245677,
+    "createdAt": "2025-06-24T08:12:37.000Z",
+    "publishDate": "2025-06-24T12:30:45.677Z",
+    "title": "罗博特科：子公司ficonTEC与美国某头部公司签订超1亿元光电子封测设备合同",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-24 16:12:37",
+    "uuid": "556a3f0c-90bb-49b8-8cb9-24755f035e46"
   },
   {
     "newsArray": [
