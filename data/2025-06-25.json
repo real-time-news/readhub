@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国家数据局局长刘烈宏赴中国国际工程咨询有限公司调研，双方就深化数字经济领域重大工程研究论证、提升项目咨询评估质效等进行了交流。",
+    "id": "8kU2ORnTSsH",
+    "order": 1750865804866,
+    "createdAt": "2025-06-25T15:32:38.000Z",
+    "publishDate": "2025-06-25T15:36:44.866Z",
+    "title": "国家数据局局长刘烈宏赴中国国际工程咨询有限公司调研",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 23:32:38",
+    "uuid": "282df28d-d0fb-4467-9956-ee03483f3d0c"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "界面" },
       { "siteName": "第一财经" }
@@ -66,6 +84,42 @@
     "up": false,
     "date": "2025-06-25 22:46:45",
     "uuid": "84eeb3f9-a576-4ac5-8293-76f5c9e0caab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌推出人工智能编码助手Gemini CLI，简化开发流程，支持自然语言交互，可协助编程及生成视频、建网站等多任务应用。",
+    "id": "8kTwjOyPEEl",
+    "order": 1750865150767,
+    "createdAt": "2025-06-25T14:43:03.000Z",
+    "publishDate": "2025-06-25T15:25:50.767Z",
+    "title": "谷歌推出Gemini AI编码工具 简化开发流程",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 22:43:03",
+    "uuid": "5a2c512d-c0dc-48f7-ad0b-d2f6e592054e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "通用磨坊2025财年第四季度销售额同比下降3%至45.6亿美元，低于预期。调整后每股收益为74美分，高于预期但同比下滑 ...",
+    "id": "8kTtnDb4FSJ",
+    "order": 1750864846826,
+    "createdAt": "2025-06-25T14:42:33.000Z",
+    "publishDate": "2025-06-25T15:20:46.826Z",
+    "title": "通用磨坊第四财季销售额同比下降3% 低于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 22:42:33",
+    "uuid": "61d89bac-f8d8-4462-bbae-c18ce5c0f2eb"
   },
   {
     "newsArray": [
