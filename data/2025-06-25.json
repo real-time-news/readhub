@@ -1,6 +1,127 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "特斯拉5月在欧盟的新车注册量同比下降了40.5%。",
+    "id": "8kTGURHEtlO",
+    "order": 1750824818428,
+    "createdAt": "2025-06-25T04:13:39.000Z",
+    "publishDate": "2025-06-25T04:13:38.428Z",
+    "title": "特斯拉5月欧盟新车注册量下降40.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 12:13:39",
+    "uuid": "3de8a12d-0aa3-4c5c-858d-a1ff51377b87"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "欧洲5月汽车注册量同比增长1.6%，销量增长1.9%。",
+    "id": "8kTFt7eWSZ9",
+    "order": 1750824431577,
+    "createdAt": "2025-06-25T04:07:11.000Z",
+    "publishDate": "2025-06-25T04:07:11.577Z",
+    "title": "欧洲5月份汽车销量增长1.9%至111万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 12:07:11",
+    "uuid": "555561c4-7625-4870-ae8a-a9e710d11929"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "福特坚持在密歇根州建设耗资30亿美元的电池工厂，尽管美国国会和特朗普可能使项目无法获得税收优惠。该工厂将采用宁德时代授权的技术，计划明年投产，创造1700个就业岗位 ...",
+    "id": "8kRQt6dxtYj",
+    "order": 1750824321583,
+    "createdAt": "2025-06-25T04:05:22.000Z",
+    "publishDate": "2025-06-25T04:05:21.583Z",
+    "title": "不惧美国阻力，福特坚持建电池厂：采用宁德时代技术",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 12:05:22",
+    "uuid": "6411e500-06fa-4d15-a273-fd474af5110c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "鲁宾天文台发布了其宇宙摄影的“首作”，这些图像由数百张独立图像组合而成，揭示了三叶星云和礁湖星云中此前不可见的气体尘埃云等细节 ...",
+    "id": "8kSsukHcm4I",
+    "order": 1750824184707,
+    "createdAt": "2025-06-25T04:03:05.000Z",
+    "publishDate": "2025-06-25T04:03:04.707Z",
+    "title": "鲁宾天文台发布宇宙摄影“首作”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 12:03:05",
+    "uuid": "9cde5cd9-e809-4365-a6fd-4add589cd3d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "万祥科技目前生产的微型锂离子电池主要应用于无线耳机等穿戴设备，尚未布局微机器人、微无人机和AI眼镜领域，但公司仍将微型锂离子电池作为未来发展方向之一，并积极拓展相关业务。",
+    "id": "8kTF4eP9Lj3",
+    "order": 1750824172117,
+    "createdAt": "2025-06-25T04:02:53.000Z",
+    "publishDate": "2025-06-25T04:02:52.117Z",
+    "title": "万祥科技：尚未在微机器人、微无人机和AI眼镜方向进行布局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 12:02:53",
+    "uuid": "43b48a3d-e984-4764-b621-e7ad6914eb38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智慧芽_新药情报库" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "摘要：研究显示，靶向BCMA的CAR-T细胞疗法伊基奥仑赛注射液在治疗进展型多发性硬化症中表现出良好耐受性和显著疗效 ...",
+    "id": "8kRViudrXW4",
+    "order": 1750824096069,
+    "createdAt": "2025-06-25T04:01:37.000Z",
+    "publishDate": "2025-06-25T04:01:36.069Z",
+    "title": "驯鹿生物：CAR-T疗法治疗多发性硬化积极临床结果公布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 12:01:37",
+    "uuid": "ae08057f-cfba-46ff-9d4a-23521134e9c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2025年第一季度全球智能摄像头市场出货量为3386.6万台，同比增长4.6%，增速持续放缓。",
+    "id": "8kTF4HaQZhr",
+    "order": 1750823723690,
+    "createdAt": "2025-06-25T03:55:24.000Z",
+    "publishDate": "2025-06-25T03:55:23.690Z",
+    "title": "IDC：一季度全球智能摄像头增速放缓至4.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 11:55:24",
+    "uuid": "99fcf04b-26bd-425f-8505-cf0f41097269"
+  },
+  {
+    "newsArray": [
       { "siteName": "中华网" },
       { "siteName": "第一财经" },
       { "siteName": "界面" }
@@ -32,6 +153,24 @@
     "up": false,
     "date": "2025-06-25 11:33:23",
     "uuid": "3ae83d3b-54bc-458e-8c04-73d2a954c84e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "日本便利店巨头罗森于当地时间6月23日在东京都开设了一家应用人工智能和机器人技术的新概念门店。顾客在店内拿起商品时，电子屏会显示相关推荐信息，同时店内还引入了负责烹饪和陈列商品的机器人。",
+    "id": "8kRwP5KQCAs",
+    "order": 1750823642254,
+    "createdAt": "2025-06-25T03:28:05.000Z",
+    "publishDate": "2025-06-25T03:54:02.254Z",
+    "title": "罗森在日本东京开设运用AI和机器人技术的新型门店",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 11:28:05",
+    "uuid": "2754d6ed-1c36-46bf-891a-ba144a6592a0"
   },
   {
     "newsArray": [
@@ -367,6 +506,24 @@
     "up": false,
     "date": "2025-06-25 09:55:25",
     "uuid": "656a8dce-bcdc-468a-b561-2ca9e74ac4d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "麦当劳与 Krispy Kreme 宣布将于 7 月前终止在美国的合作关系，因双方难以管控合作项目的相关成本 ...",
+    "id": "8kSIVz5R5IC",
+    "order": 1750823735073,
+    "createdAt": "2025-06-25T01:47:47.000Z",
+    "publishDate": "2025-06-25T03:55:35.073Z",
+    "title": "麦当劳和甜甜圈制造商Krispy Kreme将终止在美国的合作关系",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 09:47:47",
+    "uuid": "db565702-9450-416f-93b8-e25ecef75064"
   },
   {
     "newsArray": [
