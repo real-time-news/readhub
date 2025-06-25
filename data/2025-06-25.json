@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "智东西" }
+    ],
+    "summary": "临汾市人民医院计划于2025年9月采购基于DeepSeek AI大模型的智慧医疗应用系统，预算金额为1569.264万元 ...",
+    "id": "8kRbwnYMR6L",
+    "order": 1750841831525,
+    "createdAt": "2025-06-25T08:57:12.000Z",
+    "publishDate": "2025-06-25T08:57:11.525Z",
+    "title": "DeepSeek 罕见千万级大单：山西临汾将打造“AI 医院”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:57:12",
+    "uuid": "bdbae502-74ff-49e7-ac5a-2af38644907a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "稳定币的发展和监管成为全球关注的焦点。IMF副总裁李波指出，稳定币作为高效的支付和价值储存手段，其发展面临机遇与挑战，关键在于适度使用和有效监管 ...",
+    "id": "8kTQ4CBEpxr",
+    "order": 1750841773593,
+    "createdAt": "2025-06-25T08:56:13.000Z",
+    "publishDate": "2025-06-25T08:56:13.593Z",
+    "title": "IMF副总裁李波：稳定币有效监管的关键是明确属性",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:56:13",
+    "uuid": "08cdabe9-4fca-4c3f-83d5-e1b510175511"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "Odaily" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "极光宣布董事会批准一项投资计划，将不超过公司当前现金及现金等价物余额20%的资金用于加密货币及其他数字资产投资，旨在实现资产保值增值并支持其市场扩展战略。",
+    "id": "8kS4vUXXTCp",
+    "order": 1750841666302,
+    "createdAt": "2025-06-25T08:54:26.000Z",
+    "publishDate": "2025-06-25T08:54:26.302Z",
+    "title": "极光董事会批准其投资比特币和其他数字资产的计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:54:26",
+    "uuid": "4488841d-4791-4e95-8482-e23378cc2fe9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "搭载来自美国、印度、波兰和匈牙利乘员的SpaceX火箭飞船已成功发射，前往国际空间站。",
+    "id": "8kTRCYJ2cyy",
+    "order": 1750841646643,
+    "createdAt": "2025-06-25T08:54:06.000Z",
+    "publishDate": "2025-06-25T08:54:06.643Z",
+    "title": "SpaceX火箭飞船已发射，前往国际空间站",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:54:06",
+    "uuid": "073a42a7-a4ff-4721-8cc2-289af8333bb2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "爱范儿" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "i黑马" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "英伟达公司CEO黄仁勋在过去一年中多次减持公司股票，引发广泛关注。自去年6月至9月，他在50个交易日内每日减持12万股，总计套现超过7亿美元 ...",
+    "id": "8kTTiLf0dv6",
+    "order": 1750841546585,
+    "createdAt": "2025-06-25T08:52:27.000Z",
+    "publishDate": "2025-06-25T08:52:26.585Z",
+    "title": "英伟达CEO黄仁勋继续减持股份，两日套现超1400万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:52:27",
+    "uuid": "19d99dd1-437f-4a2b-930f-f62e817d8282"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "唯特偶部分锡膏产品可用于芯片堆叠，并已实现批量供货，相关技术可满足国产替代需求。",
+    "id": "8kTZ59UDtiZ",
+    "order": 1750841403298,
+    "createdAt": "2025-06-25T08:50:04.000Z",
+    "publishDate": "2025-06-25T08:50:03.298Z",
+    "title": "唯特偶：公司目前部分锡膏产品可用于芯片堆叠 且已实现批量供货",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:50:04",
+    "uuid": "b1739b8f-a649-4537-bcc0-ffc513fab75f"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
@@ -408,6 +511,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI CEO 萨姆・奥特曼在播客采访中透露，他与微软 CEO 萨蒂亚・纳德拉讨论了双方未来的合作及投资条款的修改 ...",
+    "id": "8kTMEynmP3c",
+    "order": 1750841788158,
+    "createdAt": "2025-06-25T07:34:08.000Z",
+    "publishDate": "2025-06-25T08:56:28.158Z",
+    "title": "OpenAI CEO 与微软 CEO 通话，讨论未来合作关系",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 15:34:08",
+    "uuid": "48171827-284e-4117-af9c-82afd7a5cee3"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -516,6 +636,23 @@
     "up": false,
     "date": "2025-06-25 15:12:41",
     "uuid": "f2c3b38e-43bf-4feb-9e4a-05d77730027b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "牛透社" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "柏林初创企业 Synthflow AI 宣布完成 2000 万美元 A 轮融资，由 Accel 领投 ...",
+    "id": "8kT4NmUHQfj",
+    "order": 1750841839864,
+    "createdAt": "2025-06-25T07:08:01.000Z",
+    "publishDate": "2025-06-25T08:57:19.864Z",
+    "title": "语音 AI 客服 Synthflow AI 完成 2000 万美元 A 轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 15:08:01",
+    "uuid": "d2e42b4c-953c-4cee-ae9b-c8015b851200"
   },
   {
     "newsArray": [
@@ -695,6 +832,23 @@
     "up": false,
     "date": "2025-06-25 14:47:51",
     "uuid": "b5d80504-da99-43eb-94c7-ccbb7cc74424"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "网易科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "Abridge在E轮融资中获得3亿美元，估值达53亿美元，由Andreessen Horowitz领投，Khosla Ventures参与 ...",
+    "id": "8kTBT91EJpd",
+    "order": 1750841885647,
+    "createdAt": "2025-06-25T06:47:11.000Z",
+    "publishDate": "2025-06-25T08:58:05.647Z",
+    "title": "AI 医疗记录公司 Abridge 获 3 亿美元融资，估值猛增近一倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 14:47:11",
+    "uuid": "48e4776d-2575-421f-aa8d-d7629fc94e74"
   },
   {
     "newsArray": [
