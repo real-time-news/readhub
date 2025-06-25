@@ -1,6 +1,182 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "燕东微收到中国证监会批复，同意公司向特定对象发行股票的注册申请，批复有效期为12个月。公司将按申报文件和发行方案推进相关工作。",
+    "id": "8kTZnVOPG6G",
+    "order": 1750840983182,
+    "createdAt": "2025-06-25T08:42:25.000Z",
+    "publishDate": "2025-06-25T08:43:03.182Z",
+    "title": "燕东微：向特定对象发行A股股票获得中国证监会同意注册批复",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:42:25",
+    "uuid": "56ca5294-1ab9-4dd8-8a54-0af777f57e1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "纳斯达克中国金龙指数近期调整成分股，将中国Robotaxi企业小马智行纳入其中。这标志着中国自动驾驶科技受到主流投资关注，有助于提升公司股票流动性和资本市场地位。",
+    "id": "8kTYDAf1zIl",
+    "order": 1750840615136,
+    "createdAt": "2025-06-25T08:36:56.000Z",
+    "publishDate": "2025-06-25T08:36:55.136Z",
+    "title": "小马智行纳入纳斯达克中国金龙指数",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:36:56",
+    "uuid": "cb920a8b-5830-418a-9ab4-c64848648467"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米正式官宣新款手表S441mm，主打女性市场，以精致小尺寸设计和科技时尚融合为亮点 ...",
+    "id": "8kTULwB0lzx",
+    "order": 1750840595165,
+    "createdAt": "2025-06-25T08:36:36.000Z",
+    "publishDate": "2025-06-25T08:36:35.165Z",
+    "title": "小米手表S4 41mm官宣：明晚发布 搭载玄戒T1芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:36:36",
+    "uuid": "20a9f7e8-f276-4203-8c36-522614dd520a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "IBM 与日本理化学研究所合作，首次在美国以外地区部署 IBM Quantum System Two 量子计算机，该系统搭载了156量子比特的Heron处理器，具备更低的错误率和更强的运算能力 ...",
+    "id": "8kTAPCbqhLY",
+    "order": 1750840543296,
+    "createdAt": "2025-06-25T08:35:44.000Z",
+    "publishDate": "2025-06-25T08:35:43.296Z",
+    "title": "IBM与日本理研所共建量子超算平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:35:44",
+    "uuid": "bd5c4825-cc9b-4dc0-a03c-81106ca398cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "金融界" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "商络电子为小米智能眼镜间接供应被动器件和射频器件等产品。",
+    "id": "8kTXm77gSBD",
+    "order": 1750840507909,
+    "createdAt": "2025-06-25T08:35:07.000Z",
+    "publishDate": "2025-06-25T08:35:07.909Z",
+    "title": "商络电子：为小米智能眼镜间接供应被动器件和射频器件等产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:35:07",
+    "uuid": "244ad0f6-d34f-4805-9456-c28dab801395"
+  },
+  {
+    "newsArray": [
+      { "siteName": "科学网" },
+      { "siteName": "36Kr" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "合见工软在上海举办“2025新产品发布会暨技术研讨会”，正式发布五款国产自研EDA及IP产品，涵盖数字验证硬件、仿真调试工具及高速接口IP解决方案 ...",
+    "id": "8kS0fwhGOAp",
+    "order": 1750840487337,
+    "createdAt": "2025-06-25T08:34:47.000Z",
+    "publishDate": "2025-06-25T08:34:47.337Z",
+    "title": "合见工软以重大技术革新重塑行业格局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:34:47",
+    "uuid": "b568bd5b-295d-4b82-b2a3-d43cf5bf29f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "华为旗下尊界S800车型大定订单已超5000台，计划于6月26日启动交付。该车定位高端豪华，售价70.8万元起，提供增程版和纯电版两种动力选择 ...",
+    "id": "8kT8yOMNxyf",
+    "order": 1750840358202,
+    "createdAt": "2025-06-25T08:32:38.000Z",
+    "publishDate": "2025-06-25T08:32:38.202Z",
+    "title": "尊界S800先行者计划将于明日开启交付",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:32:38",
+    "uuid": "84900550-0128-4b7d-8c77-db7dd381e7f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中日双方于6月23日举行副部级定期磋商，就加强经贸合作、多边及区域合作交换意见。中方对日方半导体出口管制、在日中资企业营商环境及中国加入CPTPP等问题表达关切。",
+    "id": "8kTYMdT0d0e",
+    "order": 1750839979407,
+    "createdAt": "2025-06-25T08:26:19.000Z",
+    "publishDate": "2025-06-25T08:26:19.407Z",
+    "title": "第22次中国商务部与日本经济产业省副部级定期磋商在北京举行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:26:19",
+    "uuid": "b17672b1-9d23-4808-b2db-0fa3fc24676d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "迈克生物近日获得国家药品监督管理局颁发的《医疗器械注册证》，涉及人不规则抗体检测红细胞试剂盒和肺炎支原体IgM抗体检测试剂盒 ...",
+    "id": "8kTWyGYaDKw",
+    "order": 1750839960810,
+    "createdAt": "2025-06-25T08:26:01.000Z",
+    "publishDate": "2025-06-25T08:26:00.810Z",
+    "title": "迈克生物：公司新产品取得产品注册证书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:26:01",
+    "uuid": "8672c195-f135-46c5-a4e5-069a8b172645"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "兴业股份公告表示，公司股票近期出现异常波动，但目前生产经营正常，无重大事项影响股价 ...",
+    "id": "8kTYN0YlL6C",
+    "order": 1750839916467,
+    "createdAt": "2025-06-25T08:22:17.000Z",
+    "publishDate": "2025-06-25T08:25:16.467Z",
+    "title": "五连板兴业股份：半导体光刻胶用酚醛树脂业务目前仅处于送样测试阶段 尚未签订供货合同",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 16:22:17",
+    "uuid": "9d6c70d9-c7ba-42ff-895e-714b57955854"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "界面" },
       { "siteName": "36Kr" }
