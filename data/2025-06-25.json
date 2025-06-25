@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美股科技七巨头指数上涨0.9%，年内跌幅已全部回补。",
+    "id": "8kTvFoPI9D0",
+    "order": 1750859024553,
+    "createdAt": "2025-06-25T13:43:44.000Z",
+    "publishDate": "2025-06-25T13:43:44.553Z",
+    "title": "美股科技七巨头指数上涨0.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 21:43:44",
+    "uuid": "c5e70b55-a8b4-4047-8c00-b2862f8f62b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美股开盘涨跌不一，道指微跌，纳指和标普500指数上涨。黑莓因业绩超预期股价大涨，联邦快递因指引不佳下跌。向上融科、富途控股、小马智行等个股也出现明显上涨。",
+    "id": "8kTuaUwlxlW",
+    "order": 1750858964111,
+    "createdAt": "2025-06-25T13:42:45.000Z",
+    "publishDate": "2025-06-25T13:42:44.111Z",
+    "title": "美股开盘涨跌不一，联邦快递跌超5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 21:42:45",
+    "uuid": "313fafbc-29cc-49b7-8445-4ecd521c5c74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "199IT" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "近日，荷兰消费者组织对索尼提起集体诉讼，指控其存在垄断行为，导致数字游戏价格比实体版高出47% ...",
+    "id": "8kSDndmGeYW",
+    "order": 1750857766613,
+    "createdAt": "2025-06-25T13:22:46.000Z",
+    "publishDate": "2025-06-25T13:22:46.613Z",
+    "title": "Massaschade基金会：索尼数字游戏价格比实体高47%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-25 21:22:46",
+    "uuid": "9c55a291-be23-4289-8e3a-374d1c92117a"
+  },
+  {
+    "newsArray": [
       { "siteName": "Odaily" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
