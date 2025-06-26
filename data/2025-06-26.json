@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "京东外卖正在小范围测试“骑手帮扔垃圾”功能，该服务目前尚未正式上线，旨在为用户提供额外便利。参与的全职骑手完全自愿，平台提供每单补贴和用户打赏机制，并配备一次性手套和消毒液保障卫生安全 ...",
+    "id": "8kVKpPBsX9m",
+    "order": 1750945951736,
+    "createdAt": "2025-06-26T13:52:32.000Z",
+    "publishDate": "2025-06-26T13:52:31.736Z",
+    "title": "京东外卖回应试点“骑手帮扔垃圾”功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-26 21:52:32",
+    "uuid": "94dda23f-1d61-4730-8fb5-35db8b2f21a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国石油巨头及游说团体敦促特朗普政府在与欧盟的贸易谈判中推动撤销欧洲绿色协议中的两项主要气候法规。知情人士称，特朗普政府官员近期已向欧盟提出这一要求 ...",
+    "id": "8kVY14yZceZ",
+    "order": 1750945771968,
+    "createdAt": "2025-06-26T13:49:32.000Z",
+    "publishDate": "2025-06-26T13:49:31.968Z",
+    "title": "特朗普政府在贸易谈判中催促欧盟撤销气候法规",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-26 21:49:32",
+    "uuid": "3c0575f3-d502-4a98-a622-e59fb4f9399b"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -653,6 +689,25 @@
     "up": false,
     "date": "2025-06-26 19:33:46",
     "uuid": "b0700a7e-f218-4c9a-870b-603dde907981"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "迅雷推出MCP服务，支持通过AI语音或文字指令自动下载资源，适配PC版和NAS迅雷，用户可免费使用。该服务已接入纳米AI、扣子空间等主流大模型应用，配置过程简单，约3分钟即可完成 ...",
+    "id": "8kVKpTDfXca",
+    "order": 1750945547503,
+    "createdAt": "2025-06-26T11:32:49.000Z",
+    "publishDate": "2025-06-26T13:45:47.503Z",
+    "title": "迅雷发布下载MCP服务：一句话让AI自动找资源并下载",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-26 19:32:49",
+    "uuid": "913bf5d1-834c-4f1c-a82a-94fbb9d892e5"
   },
   {
     "newsArray": [
