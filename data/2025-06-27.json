@@ -1,6 +1,154 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "京东外卖已与众多行业头部企业合作，提供品质工作餐、节日福利、会务茶歇等多场景高品质企业用餐解决方案，覆盖超15000家重点企业。",
+    "id": "8kWb3p5T4vN",
+    "order": 1750998706657,
+    "createdAt": "2025-06-27T04:31:47.000Z",
+    "publishDate": "2025-06-27T04:31:46.657Z",
+    "title": "京东外卖：与企业在工作餐、会务茶歇等领域开展合作，覆盖超1.5万家重点企业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 12:31:47",
+    "uuid": "2e816f2a-6e53-4f82-91df-5db3237e3f38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "科学网" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "我国科学家利用核磁共振技术对混合废塑料进行成分识别，并为其定制催化转化方案，成功将废弃塑料转化为多种高附加值化学品，为塑料污染治理和资源循环利用提供了新路径 ...",
+    "id": "8kUtELOZa2Q",
+    "order": 1750998249059,
+    "createdAt": "2025-06-27T04:24:10.000Z",
+    "publishDate": "2025-06-27T04:24:09.059Z",
+    "title": "给废塑料“做体检”：我国科学家破解混合废塑料回收难题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 12:24:10",
+    "uuid": "e06d2097-3c93-4f51-b03a-dccf185763e0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "小商品城6月27日发布公告，称王栋因工作变动原因辞去公司董事长、董事等职务，辞职后将不再担任公司任何职务。公司表示将按照法定程序尽快完成新任董事长的补选工作。",
+    "id": "8kWZe9ByDNW",
+    "order": 1750998284036,
+    "createdAt": "2025-06-27T04:23:27.000Z",
+    "publishDate": "2025-06-27T04:24:44.036Z",
+    "title": "小商品城：王栋辞任公司董事长等职务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 12:23:27",
+    "uuid": "05f8cb18-ee80-42a6-8e1b-4a22d7f3d9da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "金融界" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "京东外卖宣布覆盖企业数量超过15000家，近70%的接洽企业在一个月内进入实质性合作阶段。6月以来，政企用餐解决方案的周均合作量较5月增长10倍，用户补贴实现对企业员工的全面覆盖。",
+    "id": "8kWZdnnWgXp",
+    "order": 1750998116029,
+    "createdAt": "2025-06-27T04:21:56.000Z",
+    "publishDate": "2025-06-27T04:21:56.029Z",
+    "title": "京东外卖宣布覆盖企业数量超15000家",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 12:21:56",
+    "uuid": "6a5e97c5-f021-47b6-aefa-e92599f04d91"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "受持续降雨影响，贵州、广东、广西、云南等地多条中小河流出现超警洪水，最大超警幅度达1.44米。目前水位已大部回落至警戒线以下。水利部针对汛情向9省区发出靶向预警，提醒做好防汛工作。",
+    "id": "8kWJCiNP7rE",
+    "order": 1750998148159,
+    "createdAt": "2025-06-27T04:14:06.000Z",
+    "publishDate": "2025-06-27T04:22:28.159Z",
+    "title": "贵州广东云南等地9条中小河流发生超警以上洪水",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 12:14:06",
+    "uuid": "3e5d31f4-0386-407d-bf23-a188c4e363df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "深圳正式实施《2025年优化口岸营商环境若干措施》，推出24项举措，涵盖科技赋能、新业态发展、功能布局优化、通关监管创新及便企利民服务等方面，旨在打造国际一流口岸营商环境 ...",
+    "id": "8kWZgPnwNKA",
+    "order": 1750998268048,
+    "createdAt": "2025-06-27T04:11:52.000Z",
+    "publishDate": "2025-06-27T04:24:28.048Z",
+    "title": "全国首个 蛇口港拟建海空复合型口岸枢纽",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 12:11:52",
+    "uuid": "34d8c5f5-1e96-42f6-a225-aabf2a977c8c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果公司股价目标被下调，主要由于市场对iPhone需求放缓的担忧。摩根大通预计，iPhone 17系列产量将减少约9%，且硬件升级有限，可能影响市场反响 ...",
+    "id": "8kWR4h9d3pE",
+    "order": 1750997155346,
+    "createdAt": "2025-06-27T04:05:55.000Z",
+    "publishDate": "2025-06-27T04:05:55.346Z",
+    "title": "摩根大通预警：苹果iPhone需求降温，服务业务增长放缓",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 12:05:55",
+    "uuid": "0fc2f9d7-72cf-4527-93c7-117ec3acbe7a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI近日向开发者开放了其深度研究模型的API接口，提供包括自动网页搜索、数据分析、模型通信协议及代码执行等功能 ...",
+    "id": "8kWMnsto5zT",
+    "order": 1750997113280,
+    "createdAt": "2025-06-27T04:05:13.000Z",
+    "publishDate": "2025-06-27T04:05:13.280Z",
+    "title": "OpenAI深度研究模型API全面开放，网页搜索降价助力开发者高效创新",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 12:05:13",
+    "uuid": "5a96dcb1-aeb2-4819-a260-de374571ee65"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -429,6 +577,24 @@
     "up": false,
     "date": "2025-06-27 10:28:39",
     "uuid": "19cf973a-ed89-47d6-b29d-53ac997637ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "投资界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "北京临一云川能源技术有限公司近日获得中金资本旗下基金独家投资，本轮融资将用于建立蒙皮材料生产基地及浮空风电技术研发等 ...",
+    "id": "8kWQzpfdjNB",
+    "order": 1750997608231,
+    "createdAt": "2025-06-27T02:19:44.000Z",
+    "publishDate": "2025-06-27T04:13:28.231Z",
+    "title": "一年融三轮，临一云川获中金资本旗下基金独家投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 10:19:44",
+    "uuid": "0612f6eb-7954-4522-be83-dc2ea9d4cb5e"
   },
   {
     "newsArray": [
