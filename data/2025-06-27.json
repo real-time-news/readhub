@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "锦盛新材因涉嫌信息披露违法违规，于2025年6月27日收到中国证监会的《立案告知书》，被正式立案调查。公司表示目前生产经营活动正常进行，调查不会对正常运营产生重大影响。",
+    "id": "8kX2BxUFRGj",
+    "order": 1751021412480,
+    "createdAt": "2025-06-27T10:50:13.000Z",
+    "publishDate": "2025-06-27T10:50:12.480Z",
+    "title": "锦盛新材：因涉嫌信息披露违法违规 遭中国证监会立案调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 18:50:13",
+    "uuid": "85ae2bba-6e74-4089-a709-07a4d94d4959"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "兴证全球基金设立新加坡子公司的申请获证监会批复，子公司注册资金为1000万新币，需在批复后12个月内完成注册登记。谢治宇将担任新加坡子公司董事长。",
+    "id": "8kX1To7XO9t",
+    "order": 1751021028899,
+    "createdAt": "2025-06-27T10:43:49.000Z",
+    "publishDate": "2025-06-27T10:43:48.899Z",
+    "title": "兴证全球基金新加坡子公司获批",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 18:43:49",
+    "uuid": "b965c515-d374-4912-93c5-6ed2f8648f64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国移动收购香港宽频的要约已获商务部批准。",
+    "id": "8kX02qRKyaO",
+    "order": 1751020956678,
+    "createdAt": "2025-06-27T10:42:37.000Z",
+    "publishDate": "2025-06-27T10:42:36.678Z",
+    "title": "中国移动收购香港宽频的要约已获商务部批准",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 18:42:37",
+    "uuid": "18813d00-42ed-4b69-945b-b897ed14343c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "印度SENSEX30指数收盘上涨0.36%，报84058.90点.",
+    "id": "8kX1ro1zF4Q",
+    "order": 1751020917593,
+    "createdAt": "2025-06-27T10:41:58.000Z",
+    "publishDate": "2025-06-27T10:41:57.593Z",
+    "title": "印度SENSEX30指数收盘涨0.36%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-06-27 18:41:58",
+    "uuid": "54c57755-7262-4291-b3cd-4ce376e8b0a7"
+  },
+  {
+    "newsArray": [
       { "siteName": "TechSir" },
       { "siteName": "量子位" },
       { "siteName": "智东西" }
