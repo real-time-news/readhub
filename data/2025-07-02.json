@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "亚太主要股指收盘涨跌不一，韩国综合指数下跌0.47%，日经225指数下跌0.56%，澳洲标普200指数上涨0.66%，新西兰标普50指数上涨0.39%。",
+    "id": "8kfEoswv2IF",
+    "order": 1751448116435,
+    "createdAt": "2025-07-02T09:21:57.000Z",
+    "publishDate": "2025-07-02T09:21:56.435Z",
+    "title": "亚太主要股指收盘，日经225指数跌0.56%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 17:21:57",
+    "uuid": "33ad361a-0529-4bcd-9a7f-b6f750a52ee2"
+  },
+  {
+    "newsArray": [{ "siteName": "格隆汇" }],
+    "summary": "菜鸟全球供应链宣布全面升级其亚太地区海外仓，覆盖10个核心国家和地区，共计20多个海外仓，当日出库订单达成率达99.9% ...",
+    "id": "8keoWArUpoo",
+    "order": 1751448078533,
+    "createdAt": "2025-07-02T09:21:19.000Z",
+    "publishDate": "2025-07-02T09:21:18.533Z",
+    "title": "菜鸟全球供应链再升级：亚太仓配网络覆盖10个国家地区",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 17:21:19",
+    "uuid": "f52fce0a-bf9e-4528-8129-69b6762ff01c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国科军工公告，股东杨明华、陈功林计划通过集中竞价交易方式减持公司股份不超过2,088,420股，占总股本比例不超过1% ...",
+    "id": "8kdrE5bafye",
+    "order": 1751448046084,
+    "createdAt": "2025-07-02T09:20:48.000Z",
+    "publishDate": "2025-07-02T09:20:46.084Z",
+    "title": "国科军工：股东杨明华、陈功林计划减持不超过208.8万股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 17:20:48",
+    "uuid": "a25be9e0-e4bb-4446-aad4-d92110e8f5c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日本鹿儿岛县附近海域发生强烈地震。",
+    "id": "8kfDXv4zX6S",
+    "order": 1751448004458,
+    "createdAt": "2025-07-02T09:20:05.000Z",
+    "publishDate": "2025-07-02T09:20:04.458Z",
+    "title": "日本鹿儿岛县附近海域发生强烈地震",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 17:20:05",
+    "uuid": "0fce2cd7-1164-4d51-a74f-3d8f7e5fafa6"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -656,6 +727,23 @@
     "up": false,
     "date": "2025-07-02 12:26:18",
     "uuid": "443c8da2-d366-4015-b83c-67c89c825170"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国财政部长表示，美中达成协议后，期待中国进一步放宽稀土磁铁出口限制，目前稀土流通已恢复，但数量未达4月前水平。",
+    "id": "8kerjWdlbW7",
+    "order": 1751448100997,
+    "createdAt": "2025-07-02T04:16:33.000Z",
+    "publishDate": "2025-07-02T09:21:40.997Z",
+    "title": "美财长：希望中国能加快稀土出口",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 12:16:33",
+    "uuid": "e0ff90b9-05de-4435-a8ba-d6bd25867b74"
   },
   {
     "newsArray": [],
