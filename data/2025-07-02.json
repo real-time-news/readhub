@@ -1,6 +1,89 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "由于代码错误，挪威彩票管理机构在转换欧洲彩票大奖金额时出现失误，导致数千名彩民误收到中奖通知。公司已道歉，并表示错误源于将奖金除以100的操作被错误执行为乘以100 ...",
+    "id": "8kfAQnWG1TJ",
+    "order": 1751444372684,
+    "createdAt": "2025-07-02T08:19:34.000Z",
+    "publishDate": "2025-07-02T08:19:32.684Z",
+    "title": "挪威彩票机构闹乌龙，数千彩民经历“黄粱一梦”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 16:19:34",
+    "uuid": "5965766a-76cd-4df4-a686-a191b208ca76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "湖北设立100亿元人形机器人产业投资母基金，首期规模50亿元，重点投向人形机器人和人工智能相关产业核心领域。",
+    "id": "8kf9RJ7nCpk",
+    "order": 1751444342694,
+    "createdAt": "2025-07-02T08:19:03.000Z",
+    "publishDate": "2025-07-02T08:19:02.694Z",
+    "title": "100亿元湖北省人形机器人产业投资母基金成功设立",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 16:19:03",
+    "uuid": "dd532e3b-59fb-4ee3-8a34-727136a15e98"
+  },
+  {
+    "newsArray": [],
+    "summary": "光伏概念股午后持续拉升，赛伍技术、双良节能、凯盛新能、亿晶光电、欧晶科技等多股涨停。市场消息称多晶硅期货主力合约触及涨停。",
+    "id": "8kf93vQ5wMk",
+    "order": 1751443461058,
+    "createdAt": "2025-07-02T08:04:23.000Z",
+    "publishDate": "2025-07-02T08:04:21.058Z",
+    "title": "光伏概念股午后再度走高，赛伍技术等多股涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 16:04:23",
+    "uuid": "1895c5cb-f530-4746-af69-5733bc5341a0"
+  },
+  {
+    "newsArray": [{ "siteName": "环球网科技" }, { "siteName": "IT 之家" }],
+    "summary": "三星电子正秘密研发名为“SUS CAN”的钢壳电池封装技术，计划于2026年应用于旗舰智能手机 ...",
+    "id": "8kekb1alQjv",
+    "order": 1751443416637,
+    "createdAt": "2025-07-02T08:03:36.000Z",
+    "publishDate": "2025-07-02T08:03:36.637Z",
+    "title": "三星钢壳电池技术“SUS CAN”曝光，或可解决电池鼓包问题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 16:03:36",
+    "uuid": "835474a5-0414-4ffd-9c7e-f638530f5519"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "军工板块震荡调整，北方长龙跌超10%，中光防雷、观想科技、建设工业、新余国科、万里马等跌幅均超过5%。",
+    "id": "8kd52QrPH5l",
+    "order": 1751443174313,
+    "createdAt": "2025-07-02T07:59:36.000Z",
+    "publishDate": "2025-07-02T07:59:34.313Z",
+    "title": "军工板块震荡调整，北方长龙跌超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 15:59:36",
+    "uuid": "4b979acc-9a25-43c4-b663-26dc0c637ada"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "aibase" },
       { "siteName": "财联社" }
@@ -768,6 +851,24 @@
     "up": false,
     "date": "2025-07-02 10:46:43",
     "uuid": "d6fa3c55-7c2b-41c4-b57c-1c180e8e570a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "澳航正在调查一起涉及其客服中心的网络攻击事件，预计被盗客户数据数量较大 ...",
+    "id": "8keYtUTJpFe",
+    "order": 1751444400798,
+    "createdAt": "2025-07-02T02:43:35.000Z",
+    "publishDate": "2025-07-02T08:20:00.798Z",
+    "title": "澳航：客户数据遭网络攻击 系统已安全隔离",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-02 10:43:35",
+    "uuid": "d52a3690-241b-4a18-b352-616d7dd1f088"
   },
   {
     "newsArray": [
