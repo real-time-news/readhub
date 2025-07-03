@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "本周硅片价格继续下行，N型G10L单晶硅片成交均价为0.86元/片，环比下跌3.37%。N型G12R单晶硅片成交均价为1.00元/片，环比下跌1.96% ...",
+    "id": "8kgsURyzQwZ",
+    "order": 1751533557036,
+    "createdAt": "2025-07-03T09:06:19.000Z",
+    "publishDate": "2025-07-03T09:05:57.036Z",
+    "title": "硅业分会：企业计划减产挺价 硅片价格有望触底",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-03 17:06:19",
+    "uuid": "f97cb0cb-85cf-4ea7-b53c-c8aad8a4ffcf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "研究团队首次利用胚胎分割技术，从单个灵长类胚胎中培育出健康活体猴及遗传背景完全匹配的自体胚胎干细胞，并获得遗传一致的多种干细胞，为再生医学提供新路径 ...",
+    "id": "8kgjy8dlurf",
+    "order": 1751533423825,
+    "createdAt": "2025-07-03T09:03:54.000Z",
+    "publishDate": "2025-07-03T09:03:43.825Z",
+    "title": "全球首例灵长类自体胚胎干细胞成功构建",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-03 17:03:54",
+    "uuid": "41b51357-1570-4763-9197-3d6416f10810"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果在最新iOS 26测试版中扩展了FaceTime的内容安全功能，新增实时检测视频通话中裸露行为的能力，并可立即暂停音视频传输。系统识别到不当内容时会冻结画面并弹出警告 ...",
+    "id": "8kgZ6oeyRf6",
+    "order": 1751533389207,
+    "createdAt": "2025-07-03T09:03:36.000Z",
+    "publishDate": "2025-07-03T09:03:09.207Z",
+    "title": "iOS 26强化防护：FaceTime检测到裸体将紧急暂停通话",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-03 17:03:36",
+    "uuid": "289ff330-70fc-4968-b1d9-c16416f381ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "微软因自研AI芯片Braga及其后续产品延期，担心竞争力不足，计划于2027年推出折中芯片“Maia 280”，以应对英伟达等竞争对手的压力。",
+    "id": "8kgZDsTWzBj",
+    "order": 1751533009833,
+    "createdAt": "2025-07-03T08:57:06.000Z",
+    "publishDate": "2025-07-03T08:56:49.833Z",
+    "title": "消息称微软自研 AI 芯片遇阻",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-03 16:57:06",
+    "uuid": "5f9d1703-56c6-4ca1-9674-c9af62926b3c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "万科A向第一大股东深铁集团申请不超过62.49亿元借款，用于偿还公开市场发行的债券本金与利息，借款期限不超过3年，利率为LPR减66个基点 ...",
+    "id": "8kgrkocXe9V",
+    "order": 1751532964810,
+    "createdAt": "2025-07-03T08:56:19.000Z",
+    "publishDate": "2025-07-03T08:56:04.810Z",
+    "title": "万科A：向深铁集团申请不超过62.49亿元借款并展期部分已有借款",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-03 16:56:19",
+    "uuid": "1ec72ecb-b900-41e7-b815-bfd621504842"
+  },
+  {
+    "newsArray": [
       { "siteName": "新芽" },
       { "siteName": "投资界" },
       { "siteName": "医谷网" }
@@ -338,6 +428,25 @@
     "up": false,
     "date": "2025-07-03 16:15:27",
     "uuid": "d61378bb-4d94-49ff-b0cc-47beab6c53bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "世卫组织发起“3by35”倡议，呼吁各国到2035年将烟草、酒精和含糖饮料价格提高至少50%，以减少慢性病风险并增加公共财政收入 ...",
+    "id": "8kgZMFrmEbd",
+    "order": 1751533423376,
+    "createdAt": "2025-07-03T08:06:14.000Z",
+    "publishDate": "2025-07-03T09:03:43.376Z",
+    "title": "世卫组织倡议各国征收健康税：将烟草、酒精和含糖饮料提价五成",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-03 16:06:14",
+    "uuid": "34100aa0-11a9-42f8-b347-1bd4f7fedd40"
   },
   {
     "newsArray": [
@@ -3640,6 +3749,24 @@
     "up": false,
     "date": "2025-07-03 02:07:56",
     "uuid": "94937405-5db2-473d-9f42-7b1fd8a84b79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "贝莱德在工商银行的持股比例于6月26日由5.06%降至4.92%。",
+    "id": "8kfpsvmeYiv",
+    "order": 1751533860315,
+    "createdAt": "2025-07-02T18:07:36.000Z",
+    "publishDate": "2025-07-03T09:11:00.315Z",
+    "title": "贝莱德：在工商银行的持股比例降至4.92%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-03 02:07:36",
+    "uuid": "fc8f9ae4-1664-43a2-8eee-c414c92e9bee"
   },
   {
     "newsArray": [
