@@ -1,6 +1,27 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "香港特区政府投资推广署于2023年1月至2025年上半年协助超过1300家海外及内地企业在港设立或扩展业务，带来逾1600亿港元外来直接投资，创造超过1.9万个新职位，彰显香港作为亚洲领先商业枢纽的地位。",
+    "id": "8knAd1W5sa0",
+    "order": 1751861694627,
+    "createdAt": "2025-07-07T04:14:03.000Z",
+    "publishDate": "2025-07-07T04:14:54.627Z",
+    "title": "香港投资推广署引资超1600亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 12:14:03",
+    "uuid": "01da874f-e8d0-40e7-99ab-e1196c3cf2f3"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
@@ -276,6 +297,25 @@
     "up": false,
     "date": "2025-07-07 10:19:40",
     "uuid": "b4c73a56-35d4-462a-a17e-129b172bd1fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "华为宣布开源盘古大模型系列，随后有研究指出其与阿里巴巴的通义千问Qwen-2.5 14B模型在参数结构上高度相似，引发抄袭质疑 ...",
+    "id": "8klMGkhJrNg",
+    "order": 1751862397017,
+    "createdAt": "2025-07-07T02:11:31.000Z",
+    "publishDate": "2025-07-07T04:26:37.017Z",
+    "title": "华为盘古大模型被质疑“抄袭”阿里Qwen：官方回应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 10:11:31",
+    "uuid": "18207f19-5f5c-450e-bc80-20ce8728207a"
   },
   {
     "newsArray": [
