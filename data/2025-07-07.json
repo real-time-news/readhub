@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "高盛将花旗集团目标价从85美元上调至96美元，并维持“买入”评级。",
+    "id": "8kndozr4Tnq",
+    "order": 1751886760862,
+    "createdAt": "2025-07-07T11:12:41.000Z",
+    "publishDate": "2025-07-07T11:12:40.862Z",
+    "title": "高盛上调花旗集团目标价至96美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 19:12:41",
+    "uuid": "c01ec643-2cba-4767-bb58-ba718254ebaf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "欧盟推迟与中国签署气候行动联合声明，称除非中国加大减排力度，否则不愿提前签署。对此，中国外交部表示，中国始终积极推进绿色低碳发展，过去十年非化石能源占比提升至17.9%，碳排放强度下降超34% ...",
+    "id": "8knf88w1TRz",
+    "order": 1751886634779,
+    "createdAt": "2025-07-07T11:10:35.000Z",
+    "publishDate": "2025-07-07T11:10:34.779Z",
+    "title": "欧盟推迟与中国签署气候行动联合声明 外交部回应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 19:10:35",
+    "uuid": "52518eef-f1dd-4d0c-aaf1-2e8c094285b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "蓝思科技据悉将港交所IPO发行价定在区间上限。",
+    "id": "8knVglCe2Lx",
+    "order": 1751886680132,
+    "createdAt": "2025-07-07T11:05:50.000Z",
+    "publishDate": "2025-07-07T11:11:20.132Z",
+    "title": "蓝思科技据悉将港交所IPO发行价定在区间上限",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 19:05:50",
+    "uuid": "2d31a448-0cad-4dcb-ae11-f3f0ccefb548"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "政策实施后，旅客自弃充电宝数量显著减少，北京两场的丢弃量由6月28日的一万六千余件降至7月1日的八千余件，降幅约50%。",
+    "id": "8kndEXDwzB8",
+    "order": 1751886619497,
+    "createdAt": "2025-07-07T11:05:09.000Z",
+    "publishDate": "2025-07-07T11:10:19.497Z",
+    "title": "民航华北局：自6月28日政策实施至今，旅客自弃充电宝数量大幅降低",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 19:05:09",
+    "uuid": "179f3737-c0e4-49df-92b9-e2fa68304722"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "成都市发布深化农村改革、推进乡村振兴的实施意见，提出创新投融资模式，优先保障农业农村公共预算，提高土地出让收入用于农业农村的比例，提升乡村振兴基金效能，支持符合条件项目发行专项债券，并探索农村金融模式创新，推广“金融链长”制，发展农业保险，提升农村金融服务水平。",
+    "id": "8kndAKJkSZI",
+    "order": 1751886507109,
+    "createdAt": "2025-07-07T11:03:24.000Z",
+    "publishDate": "2025-07-07T11:08:27.109Z",
+    "title": "成都：确保全市土地出让收益用于农业农村比例达到50%以上",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 19:03:24",
+    "uuid": "07bd6476-3e62-4be3-8d5d-a858bc4457f8"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -15,6 +107,25 @@
     "up": false,
     "date": "2025-07-07 18:59:19",
     "uuid": "469468e5-7228-4d42-8a2c-c77460096ec9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "成都市发布深化农村改革、推进乡村振兴的实施意见，提出创新投融资模式，优先保障农业农村财政投入，提高土地出让收入用于农业农村的比例 ...",
+    "id": "8kndDigV2IW",
+    "order": 1751886570815,
+    "createdAt": "2025-07-07T10:59:05.000Z",
+    "publishDate": "2025-07-07T11:09:30.815Z",
+    "title": "成都：确保全市土地出让收益用于农业农村比例达到50%以上",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 18:59:05",
+    "uuid": "e87a595a-193f-4b2e-a5bb-1f51d22207ca"
   },
   {
     "newsArray": [
@@ -506,6 +617,28 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "长鑫存储启动上市辅导，中金和中信建投担任辅导机构。",
+    "id": "8knYzIErf6m",
+    "order": 1751886446761,
+    "createdAt": "2025-07-07T09:56:48.000Z",
+    "publishDate": "2025-07-07T11:07:26.761Z",
+    "title": "长鑫存储启动上市辅导",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 17:56:48",
+    "uuid": "8c248735-f451-4021-a8f2-8ecfc08bd66b"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
@@ -521,6 +654,23 @@
     "up": false,
     "date": "2025-07-07 17:55:30",
     "uuid": "b1212773-d6c5-48de-bd9d-abfb922c278c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "阿里云宣布开源通义网络智能体WebSailor，并已在Github发布构建方案及部分数据集 ...",
+    "id": "8knTwbE83bF",
+    "order": 1751886517000,
+    "createdAt": "2025-07-07T09:54:41.000Z",
+    "publishDate": "2025-07-07T11:08:37.000Z",
+    "title": "阿里通义正式开源网络智能体WebSailor",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 17:54:41",
+    "uuid": "2a8e2111-4afc-4506-bbf4-a01f41847377"
   },
   {
     "newsArray": [
@@ -941,6 +1091,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "白鲸出海" },
+      { "siteName": "AMZ123" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "微软已通知巴基斯坦分公司的最后几名员工部门将关闭，公司表示这是“定期业务评估和优化流程的一部分”。未来将通过合作伙伴网络和邻近办公室继续为当地客户提供服务，客户协议和服务不受影响 ...",
+    "id": "8kmzx9neETO",
+    "order": 1751886640561,
+    "createdAt": "2025-07-07T09:24:00.000Z",
+    "publishDate": "2025-07-07T11:10:40.561Z",
+    "title": "微软宣布关闭巴基斯坦业务，结束25年南亚市场布局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 17:24:00",
+    "uuid": "beafdee8-4e56-4850-a75c-a4607143b2ec"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "第一财经" },
       { "siteName": "界面" }
@@ -1290,6 +1457,26 @@
     "up": false,
     "date": "2025-07-07 16:32:27",
     "uuid": "28da989d-1235-403b-a0c3-51f7b6745cee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "外汇储备规模稳中有升，截至2025年6月末达33174亿美元，较5月末增长322亿美元。受美元指数下跌和全球金融资产价格上涨影响，汇率折算和资产价格变化推动外储上升 ...",
+    "id": "8knTDSzb0AR",
+    "order": 1751886667714,
+    "createdAt": "2025-07-07T08:25:42.000Z",
+    "publishDate": "2025-07-07T11:11:07.714Z",
+    "title": "国家外汇局：外汇储备规模上半年保持稳中有升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-07 16:25:42",
+    "uuid": "e7c1d4b7-04ac-4a2b-80bc-dc6b21891cda"
   },
   {
     "newsArray": [
