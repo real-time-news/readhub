@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "香港金管局通过贴现窗口向银行提供46.7亿港元流动性。",
+    "id": "8kpIpeybfF8",
+    "order": 1751972174893,
+    "createdAt": "2025-07-08T10:56:15.000Z",
+    "publishDate": "2025-07-08T10:56:14.893Z",
+    "title": "香港金管局通过贴现窗口向银行提供46.7亿港元流动性",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-08 18:56:15",
+    "uuid": "0a1137d8-e7ec-4d5e-92b9-ce1416beca2a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "投资界" },
+      { "siteName": "新芽" }
+    ],
+    "summary": "深圳市模量科技有限公司完成千万级天使轮融资，资金将用于产品研发、市场推广和团队建设 ...",
+    "id": "8kp8slnmGCj",
+    "order": 1751972137652,
+    "createdAt": "2025-07-08T10:55:38.000Z",
+    "publishDate": "2025-07-08T10:55:37.652Z",
+    "title": "模量科技获千万级天使轮融资，德宁资本投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-08 18:55:38",
+    "uuid": "a908ea96-a3d5-468a-aa70-fcf4c15d2c72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上海市委书记陈吉宁7月8日会见德国巴斯夫集团执行董事会主席凯礼一行 ...",
+    "id": "8kpI8SN98cv",
+    "order": 1751971995513,
+    "createdAt": "2025-07-08T10:53:16.000Z",
+    "publishDate": "2025-07-08T10:53:15.513Z",
+    "title": "陈吉宁会见德国巴斯夫集团执行董事会主席凯礼",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-08 18:53:16",
+    "uuid": "47c9fbdc-a3fd-4a79-956f-f0d7fe1b2468"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "铂金、钯金价格近年波动剧烈，产业企业迫切需要相关金融工具对冲风险。广州期货交易所表示，铂、钯期货研发已进入收尾阶段，下一步将加快推进意见征求、合约规则备案、注册品牌及交割库考察等准备工作。",
+    "id": "8kpIpJ4wG6H",
+    "order": 1751971979086,
+    "createdAt": "2025-07-08T10:52:59.000Z",
+    "publishDate": "2025-07-08T10:52:59.086Z",
+    "title": "广州期货交易所冷冰：铂、钯期货研发工作已进入收尾阶段",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-08 18:52:59",
+    "uuid": "cbd0d3d3-cc8a-40a8-94ff-c9439faf769c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "大洋电机正在筹划境外发行股份（H股）并在香港联合交易所上市，以深化全球化战略布局，提升国际竞争力。该事项尚需经公司董事会、股东会审议及监管机构审核，存在较大不确定性。",
+    "id": "8kpIpSmQGj0",
+    "order": 1751971959547,
+    "createdAt": "2025-07-08T10:52:40.000Z",
+    "publishDate": "2025-07-08T10:52:39.547Z",
+    "title": "大洋电机：筹划公司在香港联合交易所有限公司上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-08 18:52:40",
+    "uuid": "8068c3e2-bb47-42f9-bb25-1b11934ad281"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
@@ -910,6 +998,24 @@
     "up": false,
     "date": "2025-07-08 16:34:46",
     "uuid": "93ac90e2-bbcb-4408-b11f-6bf9c23bf61b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "长安集团近日成立重组筹备组，成员包括长安汽车、辰致集团等领导，预计重组方案将于8月落地 ...",
+    "id": "8kp7QexeZtT",
+    "order": 1751971985622,
+    "createdAt": "2025-07-08T08:24:39.000Z",
+    "publishDate": "2025-07-08T10:53:05.622Z",
+    "title": "“新长安集团” 预计将于8月落地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-08 16:24:39",
+    "uuid": "b2635046-b483-49e9-b340-47dee73f932e"
   },
   {
     "newsArray": [
