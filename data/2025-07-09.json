@@ -1,6 +1,171 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "印尼万丹省苏穆尔地区西北95公里海域于7月9日发生5.4级地震，震中位于南纬6.52度、东经104.73度，震源深度24公里，预计无海啸风险。",
+    "id": "8kqPRCLmN6m",
+    "order": 1752030420124,
+    "createdAt": "2025-07-09T03:07:00.000Z",
+    "publishDate": "2025-07-09T03:07:00.124Z",
+    "title": "印尼万丹省附近海域发生5.4级地震",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 11:07:00",
+    "uuid": "63d12b56-ce64-4978-8153-bd9d08895c4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "我国谷物、肉类、花生、茶叶和水果等农产品产量居世界首位，能源自给率保持在80%以上，2024年油气总产量首次超过4亿吨油当量，发电量达到10万亿千瓦时。",
+    "id": "8kqPQw5omDc",
+    "order": 1752030408297,
+    "createdAt": "2025-07-09T03:06:49.000Z",
+    "publishDate": "2025-07-09T03:06:48.297Z",
+    "title": "国家发改委：全球每5斤谷物就有1斤多产自中国",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 11:06:49",
+    "uuid": "b9769645-9a31-43bf-a165-b881d5c48933"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "“十四五”以来，中国每年城镇新增就业人数稳定在1200万人以上，实现了比较充分的就业。",
+    "id": "8kqQANZx5L4",
+    "order": 1752030345848,
+    "createdAt": "2025-07-09T03:05:45.000Z",
+    "publishDate": "2025-07-09T03:05:45.848Z",
+    "title": "“十四五”以来每年城镇新增就业稳定在1200万人以上",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 11:05:45",
+    "uuid": "21a95794-ed99-4576-aeb4-c38a173b908d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "2021年至2025年5月，外商对华直接投资累计达4.7万亿元人民币，超过“十三五”期间总额 ...",
+    "id": "8kqQAIcp6bF",
+    "order": 1752030332396,
+    "createdAt": "2025-07-09T03:05:33.000Z",
+    "publishDate": "2025-07-09T03:05:32.396Z",
+    "title": "2021年以来我国外商累计对华直接投资额已超“十三五”期间总额",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 11:05:33",
+    "uuid": "ac6a19ae-63e6-43a4-8f3c-bbd688d7fc9f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "公司控股子公司艾特美收到国家药监局签发的《药物临床试验批准通知书》，同意噻托溴铵吸入粉雾剂开展用于慢性阻塞性肺疾病（COPD）的临床试验 ...",
+    "id": "8kpah13Z27S",
+    "order": 1752030315838,
+    "createdAt": "2025-07-09T03:05:16.000Z",
+    "publishDate": "2025-07-09T03:05:15.838Z",
+    "title": "博瑞医药：噻托溴铵吸入粉雾剂获得药物临床试验批准通知书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 11:05:16",
+    "uuid": "8c980e4d-27e1-424c-a09d-bb5aecc9e3f5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "“十四五”以来，国家医保药品目录新增402种药品，医保跨省结算更加便捷。同时，高质量“一老一小”服务体系加快构建，全国护理型养老床位占比提升至64.6%，进一步保障失能失智老人的照护需求。",
+    "id": "8kqQ8yb27L1",
+    "order": 1752030218054,
+    "createdAt": "2025-07-09T03:03:38.000Z",
+    "publishDate": "2025-07-09T03:03:38.054Z",
+    "title": "402种药品新增进入国家医保药品目录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 11:03:38",
+    "uuid": "7e35faee-5cd4-4fd3-ade7-270cca6346cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "海尔集团财务有限责任公司注册资本由70亿元增至100亿元，增幅约42.86% ...",
+    "id": "8kqLAvZClF3",
+    "order": 1752030507360,
+    "createdAt": "2025-07-09T02:44:48.000Z",
+    "publishDate": "2025-07-09T03:08:27.360Z",
+    "title": "海尔集团财务公司增资至100亿，增幅约42.86%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 10:44:48",
+    "uuid": "d25a1da4-6aec-4e64-82d9-c7c8e99b6783"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "比亚迪集团近日对旗下子品牌管理层进行轮岗调整，原腾势销售事业部总经理赵长江与腾势方程豹直营事业部总经理李慧完成岗位对调 ...",
+    "id": "8kqFRkwQkQt",
+    "order": 1752030430441,
+    "createdAt": "2025-07-09T02:16:51.000Z",
+    "publishDate": "2025-07-09T03:07:10.441Z",
+    "title": "比亚迪李慧上任腾势总经理后首发长文，预热腾势N8L",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 10:16:51",
+    "uuid": "dbfb0a30-1eb2-47c4-8812-aadcd7d9f0b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "医药魔方" },
+      { "siteName": "aibase" },
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "金融界" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "星海图接连完成 A4 轮及 A5 轮融资，合计金额超 1 亿美元，由今日资本、美团龙珠、北京机器人基金等多家机构领投及跟投 ...",
+    "id": "8kqK7b09QB1",
+    "order": 1752030560117,
+    "createdAt": "2025-07-09T02:03:09.000Z",
+    "publishDate": "2025-07-09T03:09:20.117Z",
+    "title": "星海图完成 A4、A5 两轮超 1 亿美元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 10:03:09",
+    "uuid": "8acf7bf3-cf8a-45af-b550-ef9fc10e02b0"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -299,6 +464,23 @@
     "up": false,
     "date": "2025-07-09 07:34:25",
     "uuid": "a7c994ff-1fdb-42ad-9946-4d286a702c4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "医疗技术公司 BioSig Technologies 宣布与 Streamex 交易所达成 11 亿美元融资协议，用于推动商品市场链上化计划 ...",
+    "id": "8kofdsiIBev",
+    "order": 1752030680159,
+    "createdAt": "2025-07-08T23:25:42.000Z",
+    "publishDate": "2025-07-09T03:11:20.159Z",
+    "title": "医疗技术公司 BioSig 宣布达成 11 亿美元增长融资协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-09 07:25:42",
+    "uuid": "9400169d-3b64-451c-80f3-346bb9837ebd"
   },
   {
     "newsArray": [
