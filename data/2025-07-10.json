@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "凯中精密预计2025年上半年净利润同比增长30.63%至55.21%，主要得益于运营效率提升及获得国内外头部客户新项目定点。",
+    "id": "8ksWCmlz3p3",
+    "order": 1752142418305,
+    "createdAt": "2025-07-10T10:13:38.000Z",
+    "publishDate": "2025-07-10T10:13:38.305Z",
+    "title": "凯中精密：上半年净利同比预增30.63%—55.21%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-10 18:13:38",
+    "uuid": "eea9853a-b729-44e2-8040-cf7ee51e6a52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "国投中鲁正在筹划通过发行股份方式购买中国电子工程设计院股份有限公司100%股份，并计划向不超过35名特定投资者发行股份募集配套资金 ...",
+    "id": "8ksZV1pEJrD",
+    "order": 1752142349133,
+    "createdAt": "2025-07-10T10:12:30.000Z",
+    "publishDate": "2025-07-10T10:12:29.133Z",
+    "title": "4连板国投中鲁：重大资产重组存在不确定性",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-10 18:12:30",
+    "uuid": "486e6b69-ad66-4743-a0a4-18a772975707"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软宣布在Windows 11 24H2及后续版本中引入新的默认脚本引擎JScript9Legacy，逐步替代传统JScript引擎 ...",
+    "id": "8krygpuz30b",
+    "order": 1752142060053,
+    "createdAt": "2025-07-10T10:07:40.000Z",
+    "publishDate": "2025-07-10T10:07:40.053Z",
+    "title": "微软启用JScript9Legacy引擎提升系统安全性能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-10 18:07:40",
+    "uuid": "34df065f-810e-42ff-96ea-6827dfd9041a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国重工预计2025年上半年净利润为15亿元至18亿元，同比增长181.73%至238.08% ...",
+    "id": "8ksZ6b4GgBs",
+    "order": 1752141899313,
+    "createdAt": "2025-07-10T10:05:00.000Z",
+    "publishDate": "2025-07-10T10:04:59.313Z",
+    "title": "中国重工：上半年净利同比预增182%-238%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-10 18:05:00",
+    "uuid": "f929a60a-e7e3-4fa7-9058-471acef080f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "ChatGPT 在提供商业推荐时可能引用不可靠信息，包括被黑客攻击的网站和过期域名。专家提醒用户需核实 AI 推荐内容，避免误导，并呼吁开发者加强系统的信息筛选能力。",
+    "id": "8ksVUS32DGK",
+    "order": 1752141886269,
+    "createdAt": "2025-07-10T10:04:47.000Z",
+    "publishDate": "2025-07-10T10:04:46.269Z",
+    "title": "​ChatGPT 商业推荐存在信息源不可靠风险，专家呼吁用户谨慎使用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-10 18:04:47",
+    "uuid": "b4ee1478-86ad-47fb-ab78-df759c181286"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "塞力医疗旗下联营企业华纪元生物的治疗性降压疫苗项目HJY-ATRQβ-001已完成临床前研究，并于2025年6月获得国家药监局的新药临床试验申请受理，但后续仍需经过一期、二期临床试验，项目能否成功存在重大不确定性 ...",
+    "id": "8ksWF2LEg6O",
+    "order": 1752141837146,
+    "createdAt": "2025-07-10T10:03:58.000Z",
+    "publishDate": "2025-07-10T10:03:57.146Z",
+    "title": "塞力医疗：旗下联营企业治疗性降压疫苗项目试验能否成功还存在重大不确定性",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-10 18:03:58",
+    "uuid": "7d4f563a-fcfc-41df-a3dd-31a513790822"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
