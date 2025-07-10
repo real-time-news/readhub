@@ -1,6 +1,25 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "摩根大通CEO戴蒙表示，美联储加息的可能性高于市场预期，他认为加息概率在40%至50%之间。",
+    "id": "8ksvDH2sxcQ",
+    "order": 1752174891428,
+    "createdAt": "2025-07-10T18:32:12.000Z",
+    "publishDate": "2025-07-10T19:14:51.428Z",
+    "title": "摩根大通CEO戴蒙：美联储升息概率高于市场预估",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 02:32:12",
+    "uuid": "f21a721a-71d5-4eac-af94-632ab7237398"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国科技网" },
       { "siteName": "科学网" },
       { "siteName": "科学网" }
@@ -32,5 +51,22 @@
     "up": false,
     "date": "2025-07-11 00:04:04",
     "uuid": "2aa2862e-3eba-4ed5-bb24-f27f68474644"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智源社区" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "谷歌在Gemini应用中推出基于Veo 3模型的图像转视频功能，用户可将照片转化为包含背景音效、环境声和语音的8秒短视频 ...",
+    "id": "8ksvFCTBXZU",
+    "order": 1752174944609,
+    "createdAt": "2025-07-10T16:03:27.000Z",
+    "publishDate": "2025-07-10T19:15:44.609Z",
+    "title": "谷歌Gemini AI现在可以将照片转换为视频",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 00:03:27",
+    "uuid": "82ed0669-0926-405c-ba45-4efd3b23f133"
   }
 ]
