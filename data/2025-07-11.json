@@ -1,6 +1,67 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "智元机器人和宇树科技中标中移（杭州）信息技术有限公司2025年至2027年人形双足机器人代工服务采购项目，总金额1.24亿元，其中智元获7600万元订单，宇树获4600万元订单。",
+    "id": "8kuaFpByuqB",
+    "order": 1752247310178,
+    "createdAt": "2025-07-11T15:21:50.000Z",
+    "publishDate": "2025-07-11T15:21:50.178Z",
+    "title": "智元、宇树中标1.24亿人形机器人订单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 23:21:50",
+    "uuid": "648a1369-3ffe-44ce-a719-b0ffdde0aa56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "乌克兰已制定应对美国武器供应中断的备用计划，重点包括加强自主生产能力和推动合资企业发展。同时，乌克兰正全力加强空域保护，并积极研发新技术以应对各类威胁。",
+    "id": "8kua9DPjrfQ",
+    "order": 1752247276348,
+    "createdAt": "2025-07-11T15:21:16.000Z",
+    "publishDate": "2025-07-11T15:21:16.348Z",
+    "title": "乌克兰制定应对美武器供应中断计划 加强自主生产与空域防护",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 23:21:16",
+    "uuid": "f92c953b-85a4-412d-94ec-9903f4d70803"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "Kimi K2 是月之暗面推出的一款基于 MoE 架构的大模型，总参数达 1T，激活参数为 32B ...",
+    "id": "8kua6wY9lZt",
+    "order": 1752246692087,
+    "createdAt": "2025-07-11T15:11:32.000Z",
+    "publishDate": "2025-07-11T15:11:32.087Z",
+    "title": "月之暗面 Kimi K2 发布并开源，擅长代码与 Agentic 任务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 23:11:32",
+    "uuid": "70a8a385-34e1-4ffc-8d87-074aca0135b5"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" }
