@@ -1,6 +1,154 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "预计2025年第三季度整体DRAM价格将上涨15%至20%，主要由于三大原厂调整产能结构，旧世代产品进入生命周期末期引发备货热潮，叠加传统旺季需求带动。",
+    "id": "8ku1po6gryW",
+    "order": 1752218192812,
+    "createdAt": "2025-07-11T07:16:33.000Z",
+    "publishDate": "2025-07-11T07:16:32.812Z",
+    "title": "集邦咨询：预计第三季度整体DRAM价格季增15%至20%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 15:16:33",
+    "uuid": "7e6a9352-bcdc-4c96-b265-2f47729f86c7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "5月末，上海本外币存款余额达22.33万亿元，同比增长5.7%。其中，人民币存款余额21.04万亿元，增长5.2%。外币存款余额1799亿美元，增长12.9% ...",
+    "id": "8ku1p8VJuzt",
+    "order": 1752218175422,
+    "createdAt": "2025-07-11T07:16:15.000Z",
+    "publishDate": "2025-07-11T07:16:15.422Z",
+    "title": "央行上海总部：5月末上海本外币存款余额22.33万亿元，同比增长5.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 15:16:15",
+    "uuid": "e2b9ca85-165f-41e2-9fa2-e44b0b889577"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "多只沪市权重股尾盘竞价出现大幅下跌，涉及中国电信、中国神华、京沪高铁、邮储银行、工商银行等。",
+    "id": "8ku1pZPWURB",
+    "order": 1752218461650,
+    "createdAt": "2025-07-11T07:15:24.000Z",
+    "publishDate": "2025-07-11T07:21:01.650Z",
+    "title": "多只沪市权重股尾盘竞价遭遇抛盘",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 15:15:24",
+    "uuid": "3de92cdc-47e9-4937-a5fc-4e2250c45bd8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "智谱推出全新 PPT 生成功能 AI Slides，基于 GLM-Experimental 模型，可根据用户输入的主题或文档自动生成结构清晰、排版合理的高质量 PPT ...",
+    "id": "8kteyOXw0bo",
+    "order": 1752218025859,
+    "createdAt": "2025-07-11T07:13:46.000Z",
+    "publishDate": "2025-07-11T07:13:45.859Z",
+    "title": "智谱上线类似 Manus 的 PPT 生成功能 AI Slides，免费使用无限制",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 15:13:46",
+    "uuid": "f05df178-541f-47f3-8ef9-9de0857e4d84"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "深圳证券交易所和深圳证券信息有限公司对创业板综合指数编制方案进行修订，新增两项机制：一是风险警示股票月度剔除机制，相关股票在公告次月的第二个星期五的下一个交易日起被剔除或重新纳入指数 ...",
+    "id": "8ku1otQapfC",
+    "order": 1752218005676,
+    "createdAt": "2025-07-11T07:13:25.000Z",
+    "publishDate": "2025-07-11T07:13:25.676Z",
+    "title": "深交所修订创业板综合指数编制方案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 15:13:25",
+    "uuid": "cff9c155-f498-4fc3-91c7-668413c6be7c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "欧洲主要股指多数下跌，其中斯托克50指数开跌0.4%，德国DAX指数跌0.5%，法国CAC 40指数跌0.3%，英国富时100指数则平开。",
+    "id": "8ku1Er9c2si",
+    "order": 1752217987363,
+    "createdAt": "2025-07-11T07:13:08.000Z",
+    "publishDate": "2025-07-11T07:13:07.363Z",
+    "title": "欧洲斯托克50指数开跌0.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 15:13:08",
+    "uuid": "f514f7e4-195b-482c-bd3b-e409188ee7da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中国—瑞士自贸协定升级第二轮谈判于2025年7月7日至10日在瑞士日内瓦举行，双方在多个议题上取得积极进展。中瑞自贸协定自2014年生效以来，对促进双边贸易投资发挥了重要作用 ...",
+    "id": "8ku1CbJKUnX",
+    "order": 1752217954263,
+    "createdAt": "2025-07-11T07:12:35.000Z",
+    "publishDate": "2025-07-11T07:12:34.263Z",
+    "title": "中国—瑞士自贸协定升级第二轮谈判在瑞士举行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 15:12:35",
+    "uuid": "aa8248ec-f8e3-49bb-b2cd-5cf45f75b005"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "微信正在灰度测试朋友圈评论区带图功能，支持用户使用表情包和图片评论。有用户担心该功能是否会占用手机空间，微信员工表示，朋友圈评论带图属于可再生数据，不会永久占用存储，可随时清理并从云端重新加载 ...",
+    "id": "8ku0gFrsXJn",
+    "order": 1752217378044,
+    "createdAt": "2025-07-11T07:02:59.000Z",
+    "publishDate": "2025-07-11T07:02:58.044Z",
+    "title": "微信朋友圈评论区能发表情包和图片：缓存可清理 不会太占用存储空间",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 15:02:59",
+    "uuid": "2e1003c9-d0ed-46b9-8234-c86298650e31"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
@@ -16,6 +164,24 @@
     "up": false,
     "date": "2025-07-11 14:53:49",
     "uuid": "faa4cf51-96a0-470f-87ce-d29162d69f4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "港美息差仍较大，套息交易有利可图，港汇维持在7.85附近。受资金供求、美联储政策、美息走势及市场情绪等因素影响，“弱方兑换保证”可能再次触发 ...",
+    "id": "8ktzx10buwC",
+    "order": 1752217431414,
+    "createdAt": "2025-07-11T06:53:15.000Z",
+    "publishDate": "2025-07-11T07:03:51.414Z",
+    "title": "香港金融管理局总裁余伟文：“弱方兑换保证”可能会再度被触发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-11 14:53:15",
+    "uuid": "a65b5f0d-2552-4801-9f30-cdc3bf625ea6"
   },
   {
     "newsArray": [
