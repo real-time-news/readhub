@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "健康界" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "2025年7月，FDA批准了首款用于治疗特发性震颤的AI+可穿戴设备Felix NeuroAI腕带，标志着可穿戴设备从监测向“处方级”治疗干预的转变 ...",
+    "id": "8l0BYDa7T4n",
+    "order": 1752552874687,
+    "createdAt": "2025-07-15T04:14:34.000Z",
+    "publishDate": "2025-07-15T04:14:34.687Z",
+    "title": "多个“首款”密集诞生，可穿戴大步迈向“处方级”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-15 12:14:34",
+    "uuid": "7380cfc2-9b27-4fdc-a9c4-4ca4d85ef70a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌升级 AI 知识平台 NotebookLM，新增由权威媒体和学者共建的专题笔记本库，覆盖医疗健康、财务分析等领域，并上线智能提问标注、思维导图等新功能 ...",
+    "id": "8l0LUAwSJcs",
+    "order": 1752552844328,
+    "createdAt": "2025-07-15T04:14:04.000Z",
+    "publishDate": "2025-07-15T04:14:04.328Z",
+    "title": "谷歌升级 NotebookLM 为知识平台，上线权威专题库及智能功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-15 12:14:04",
+    "uuid": "0abd1a1f-367c-4ad3-bd09-165da027134a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2025年1至5月，我国有效发明专利申请量接近500万件，同比增长12.8%。",
+    "id": "8l0Rug7k5ze",
+    "order": 1752552692635,
+    "createdAt": "2025-07-15T04:11:32.000Z",
+    "publishDate": "2025-07-15T04:11:32.635Z",
+    "title": "1至5月我国有效发明专利申请量近500万件 增长12.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-15 12:11:32",
+    "uuid": "64467037-c449-4109-b0ae-0fbf7503a009"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "多家科技公司宣布接入和部署Kimi K2，包括OpenRouter、Visual Studio Code、硅基流动、金山云、无问芯穹、纳米AI、欧派云等 ...",
+    "id": "8l0K8bJrCva",
+    "order": 1752552228635,
+    "createdAt": "2025-07-15T04:03:49.000Z",
+    "publishDate": "2025-07-15T04:03:48.635Z",
+    "title": "多家科技公司及应用宣布接入Kimi K2",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-15 12:03:49",
+    "uuid": "4a8c977f-6ce1-4733-a73d-2e49ca0f7ff3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "渤海部分海域7月15日至17日进行实弹射击活动，禁止驶入。",
+    "id": "8kzT8XHwnXE",
+    "order": 1752552154634,
+    "createdAt": "2025-07-15T04:02:34.000Z",
+    "publishDate": "2025-07-15T04:02:34.634Z",
+    "title": "航行警告：渤海部分海域进行实弹射击活动，禁止驶入",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-15 12:02:34",
+    "uuid": "89aac023-3a9c-4b06-a6d6-3b60b5a5a21f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "港股内房股全线下跌，雅居乐集团跌近9%，世茂集团、融创中国、富力地产等跌超5%。国家统计局数据显示，上半年全国房地产开发投资同比下降11.2%，住宅投资下降10.4% ...",
+    "id": "8l0R8hvKOTb",
+    "order": 1752552258569,
+    "createdAt": "2025-07-15T03:54:09.000Z",
+    "publishDate": "2025-07-15T04:04:18.569Z",
+    "title": "港股异动丨内房股普跌 上半年全国房地产开发投资同比跌11.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-15 11:54:09",
+    "uuid": "744c986c-dde8-4bb6-bbf9-33f5fa63a280"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" },
