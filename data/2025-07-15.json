@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "*ST花王预计2025年上半年亏损3400万元至4000万元，主要由于公司刚完成破产重整，业务经营和市场信用尚在恢复中，收入规模较小，毛利水平不足以覆盖各项费用支出。",
+    "id": "8l0y2lk0gu8",
+    "order": 1752579466312,
+    "createdAt": "2025-07-15T11:37:46.000Z",
+    "publishDate": "2025-07-15T11:37:46.312Z",
+    "title": "*ST花王：预计上半年亏损3400万元至4000万元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-15 19:37:46",
+    "uuid": "7d0c14e1-bb43-4c12-a146-777bd00046ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "AMD将在获得许可证后恢复向中国发货MI308芯片。",
+    "id": "8l0y2Chy7aG",
+    "order": 1752579134028,
+    "createdAt": "2025-07-15T11:32:14.000Z",
+    "publishDate": "2025-07-15T11:32:14.028Z",
+    "title": "美股异动丨AMD盘前涨超5% 消息称其或将恢复向中国发货MI308芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-15 19:32:14",
+    "uuid": "1c9771b5-012b-4918-b0e3-7c22a3b7ca54"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
@@ -1240,6 +1277,25 @@
     "up": false,
     "date": "2025-07-15 16:26:05",
     "uuid": "0115649c-0316-4448-aed5-973c211a7eaa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "中概股美股盘前集体上涨，金山云涨幅超15%，万国数据涨超12%，阿里巴巴涨超6%。",
+    "id": "8l0jjuI3ACi",
+    "order": 1752579083749,
+    "createdAt": "2025-07-15T08:13:50.000Z",
+    "publishDate": "2025-07-15T11:31:23.749Z",
+    "title": "中概股美股盘前集体走强，金山云涨超15%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-15 16:13:50",
+    "uuid": "c209be27-5579-4b1e-ac2a-0397d76ff50d"
   },
   {
     "newsArray": [
