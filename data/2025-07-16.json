@@ -1,6 +1,177 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "伊朗在阿曼海扣押了一艘载有200万升走私燃料的外国油轮，并拘留了包括船长和船员在内的17名嫌疑人。目前尚无该油轮的具体名称或注册信息。",
+    "id": "8l2GmLjWvLP",
+    "order": 1752647135368,
+    "createdAt": "2025-07-16T06:25:35.000Z",
+    "publishDate": "2025-07-16T06:25:35.368Z",
+    "title": "伊朗称扣押一艘载有200万升走私燃料的油轮",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 14:25:35",
+    "uuid": "6a74760e-4f63-47c6-8364-5e8e6b77ce82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "花旗上调未来6至12个月白银价格预测至43美元，主要由于需求增长。",
+    "id": "8l2G4UjdYMA",
+    "order": 1752646907085,
+    "createdAt": "2025-07-16T06:21:47.000Z",
+    "publishDate": "2025-07-16T06:21:47.085Z",
+    "title": "花旗：将6-12个月白银价格预测上调至43美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 14:21:47",
+    "uuid": "6dc4ae04-e85e-44ba-ac93-c5d05381b1fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "A股市场创新药概念股集体活跃，多只个股涨幅显著。",
+    "id": "8l2G3PflH2m",
+    "order": 1752646759438,
+    "createdAt": "2025-07-16T06:19:19.000Z",
+    "publishDate": "2025-07-16T06:19:19.438Z",
+    "title": "A股创新药概念股活跃，哈三联、丽珠集团等多股涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 14:19:19",
+    "uuid": "c2c8de19-cdf3-4794-8e9a-fa7f5a884c76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "在特朗普关税政策不确定性增加的背景下，荷兰光刻机制造商阿斯麦收窄了2025年的财务目标，并表示无法保证2026年实现增长。公司预计2025年销售额将增长约15%，毛利率约为52%。",
+    "id": "8l2FKYM43Do",
+    "order": 1752646632566,
+    "createdAt": "2025-07-16T06:17:12.000Z",
+    "publishDate": "2025-07-16T06:17:12.566Z",
+    "title": "阿斯麦收窄业绩指引 警告无法确定2026年实现增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 14:17:12",
+    "uuid": "dc003827-bc98-4afd-b758-76a48b051933"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Anthropic推出面向金融行业的AI分析解决方案，旨在拓展关键B端用户营收 ...",
+    "id": "8l1ERsbg2fV",
+    "order": 1752646526815,
+    "createdAt": "2025-07-16T06:15:26.000Z",
+    "publishDate": "2025-07-16T06:15:26.815Z",
+    "title": "明星初创公司Anthropic推出专业金融AI服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 14:15:26",
+    "uuid": "526986c0-99a3-48f2-9637-68f6500757b6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英国6月CPI年率上升至3.6%，高于预期和前值的3.4%。月率增长0.3%，也高于预期和前值的0.2%。",
+    "id": "8l2FQgvKIYV",
+    "order": 1752646470452,
+    "createdAt": "2025-07-16T06:14:31.000Z",
+    "publishDate": "2025-07-16T06:14:30.452Z",
+    "title": "英国6月CPI同比3.6%，超预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 14:14:31",
+    "uuid": "98cee06f-13c7-4aaf-b309-63c1c8a2327a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "孙正义与OpenAI CEO萨姆·奥特曼在软银活动中对话，认为AI需求巨大且需持续扩充算力。奥特曼指出降低AI成本将极大提升使用频率，AI和机器人技术将催生新岗位并推动“自我改进”循环 ...",
+    "id": "8l28BB3gqJI",
+    "order": 1752646398505,
+    "createdAt": "2025-07-16T06:13:18.000Z",
+    "publishDate": "2025-07-16T06:13:18.505Z",
+    "title": "孙正义对话奥特曼：AI需求没有尽头，将部署10亿个智能体",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 14:13:18",
+    "uuid": "b391e18f-b845-4357-bd11-03b2d3be095a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达CEO黄仁勋表示，H20芯片对华销售重启后已收到大量订单，部分企业正在等待发货通知。",
+    "id": "8l2FOTl65Z3",
+    "order": 1752646016215,
+    "createdAt": "2025-07-16T06:04:25.000Z",
+    "publishDate": "2025-07-16T06:06:56.215Z",
+    "title": "黄仁勋称H20已收到很多订单 有企业表示正等待发货通知",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 14:04:25",
+    "uuid": "e906485c-673f-41a3-82f0-f547c5802580"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "英伟达CEO黄仁勋宣布美国政府已批准H20芯片出口许可，将开始向中国市场发货。有报道称腾讯、字节跳动申请采购H20芯片，字节跳动回应称相关报道不准确，腾讯尚未回应。",
+    "id": "8l1w8sNTd0V",
+    "order": 1752647175065,
+    "createdAt": "2025-07-16T05:58:07.000Z",
+    "publishDate": "2025-07-16T06:26:15.065Z",
+    "title": "传腾讯、字节成H20芯片回归首批买家，字节：未提出购买申请",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 13:58:07",
+    "uuid": "ba9f977f-0ef5-438c-846c-5d7ad3780c3c"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -390,6 +561,23 @@
     "up": false,
     "date": "2025-07-16 12:21:18",
     "uuid": "66b1276a-503e-4de1-ad91-0732c338ff8b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "小鹏汽车启动2026届校园招聘，计划招聘8000人，重点聚焦智能驾驶和AI大模型等前沿领域。公司加大对优秀本科毕业生的招聘力度，并推进“探索者计划”，培养内部年轻人才。",
+    "id": "8l23wmOl1eT",
+    "order": 1752647212156,
+    "createdAt": "2025-07-16T04:14:28.000Z",
+    "publishDate": "2025-07-16T06:26:52.156Z",
+    "title": "小鹏汽车今年招聘计划从6000人调整至8000人，年内员工规模将接近3万人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-16 12:14:28",
+    "uuid": "cedd0aa9-0f73-496b-9043-eacde81327af"
   },
   {
     "newsArray": [
