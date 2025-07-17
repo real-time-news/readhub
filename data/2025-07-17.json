@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "欧洲主要股指17日集体上涨，其中斯托克50指数收涨1.46%，德国DAX30指数涨1.20%，法国CAC40指数涨1.29%，英国富时100指数涨0.53%。",
+    "id": "8l3zGeQBiOU",
+    "order": 1752766933933,
+    "createdAt": "2025-07-17T15:42:14.000Z",
+    "publishDate": "2025-07-17T15:42:13.933Z",
+    "title": "欧股集体收涨 法、德股市均涨超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 23:42:14",
+    "uuid": "bc5d152c-b032-4779-8be5-34620ad608ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "WTI原油期货涨幅扩大至1%，价格报65.85美元/桶。",
+    "id": "8l4YGWqKq3j",
+    "order": 1752766922648,
+    "createdAt": "2025-07-17T15:42:03.000Z",
+    "publishDate": "2025-07-17T15:42:02.648Z",
+    "title": "WTI原油期货涨幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 23:42:03",
+    "uuid": "ed844a4f-31c6-493b-a385-0f2ce0bd02b7"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
@@ -691,6 +725,24 @@
     "up": false,
     "date": "2025-07-17 20:13:05",
     "uuid": "d0c05124-0c4f-49f9-87e8-b8dcdd72b655"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "波罗的海干散货指数上涨6.51%，达到2030点。",
+    "id": "8l4KgN7y5sD",
+    "order": 1752767448202,
+    "createdAt": "2025-07-17T12:12:35.000Z",
+    "publishDate": "2025-07-17T15:50:48.202Z",
+    "title": "波罗的海干散货指数涨6.51%，至2030点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 20:12:35",
+    "uuid": "8f887335-2e68-432a-91ab-5fe8781e8715"
   },
   {
     "newsArray": [
