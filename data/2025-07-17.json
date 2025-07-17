@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "台积电第二季度3纳米制程晶圆出货量占总营收的24%，5纳米占36%，7纳米占14%。7纳米及更先进制程合计占晶圆总营收的74%。",
+    "id": "8l3spfBPKrt",
+    "order": 1752731727536,
+    "createdAt": "2025-07-17T05:55:28.000Z",
+    "publishDate": "2025-07-17T05:55:27.536Z",
+    "title": "台积电：第二季度3纳米制程晶圆出货量占晶圆总营收的24%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 13:55:28",
+    "uuid": "bb6abc8e-9f6a-40f2-a3ca-51081b0edce4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "稳定币作为高效、低成本的跨境支付工具，在跨境电商中的应用受到关注。中国服务贸易协会与中国跨境电商50人论坛计划于2025年8月举办“稳定币与跨境电商创新发展”高级研修班 ...",
+    "id": "8l3tMmvDnTX",
+    "order": 1752731656057,
+    "createdAt": "2025-07-17T05:54:16.000Z",
+    "publishDate": "2025-07-17T05:54:16.057Z",
+    "title": "中国服务贸易协会：拟于8月启动“稳定币与跨境电商创新发展”高级研修班",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 13:54:16",
+    "uuid": "22bc65d9-a280-4d11-b9f5-d1b61e73cbce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "花旗将阿斯麦欧股目标价由860欧元下调至825欧元。",
+    "id": "8l3pynNUlFC",
+    "order": 1752731623545,
+    "createdAt": "2025-07-17T05:53:43.000Z",
+    "publishDate": "2025-07-17T05:53:43.545Z",
+    "title": "花旗：将阿斯麦目标价下调至825欧元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 13:53:43",
+    "uuid": "d0f3a4cb-0f21-4b8b-a511-7ff4c0f639e0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2025年第三季度，NAND Flash市场受传统旺季影响，价格持续上涨。其中，512Gb以下产品涨幅预计超过15%，1Tb以上高容量产品涨幅在5%至10%之间 ...",
+    "id": "8l3tMlYLjaE",
+    "order": 1752731608826,
+    "createdAt": "2025-07-17T05:53:28.000Z",
+    "publishDate": "2025-07-17T05:53:28.826Z",
+    "title": "NAND Flash Q3涨价成定局 部分产品预估涨幅超过15％",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 13:53:28",
+    "uuid": "e2673cef-c60a-47ed-8da7-831059bb3430"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "台积电第二季度净利润同比大增60.7%，达3983亿新台币，超出市场预期，主要受益于人工智能领域对半导体需求的增长 ...",
+    "id": "8l3tMQdi5PU",
+    "order": 1752731515058,
+    "createdAt": "2025-07-17T05:51:55.000Z",
+    "publishDate": "2025-07-17T05:51:55.058Z",
+    "title": "台积电Q2净利暴增60%，创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 13:51:55",
+    "uuid": "e455613c-a821-4100-95cf-c778fa43527c"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -648,6 +735,24 @@
     "up": false,
     "date": "2025-07-17 10:45:05",
     "uuid": "715be05c-f24e-47a6-a334-98e0af199e6d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "港股新消费板块持续下跌，泡泡玛特跌幅超过4%，古茗下跌约3%，蜜雪集团和茶百道跌幅均超过2%。",
+    "id": "8l3fxcrPWbG",
+    "order": 1752731671493,
+    "createdAt": "2025-07-17T02:43:40.000Z",
+    "publishDate": "2025-07-17T05:54:31.493Z",
+    "title": "港股新消费持续回落，泡泡玛特跌超4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 10:43:40",
+    "uuid": "b03c4b25-455b-4993-ac24-87f82d186e6b"
   },
   {
     "newsArray": [
