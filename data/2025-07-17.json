@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "摩洛哥首相阿赫努什当地时间7月16日出席Stellantis工厂扩建项目落成典礼。该项目总投资12亿欧元，其中7.02亿欧元用于供应商投资，预计到2030年产能将翻番，并创造3100个直接就业岗位。",
+    "id": "8l3ybqqhfuG",
+    "order": 1752737147912,
+    "createdAt": "2025-07-17T07:25:47.000Z",
+    "publishDate": "2025-07-17T07:25:47.912Z",
+    "title": "Stellantis计划将摩洛哥工厂产能翻番，投资额可达12亿欧元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 15:25:47",
+    "uuid": "f73eb1c4-5d54-486a-9a61-5aabe87c7c3d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "上半年“菜篮子”产品供给充足，猪牛羊禽肉产量增长2.8%，牛奶产量小幅增长。蔬菜水果供应丰富，农产品质量安全合格率稳定在97.9% ...",
+    "id": "8l3zFjWkWyc",
+    "order": 1752737084794,
+    "createdAt": "2025-07-17T07:24:45.000Z",
+    "publishDate": "2025-07-17T07:24:44.794Z",
+    "title": "农业农村部：“菜篮子”产品供给充足",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 15:24:45",
+    "uuid": "1208ec92-dcc8-4086-b26b-83675112f2d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Needham上调谷歌目标价至210美元，认为其战略地位和企业文化有助于提升估值。",
+    "id": "8l3zG3z0I8u",
+    "order": 1752737056492,
+    "createdAt": "2025-07-17T07:24:17.000Z",
+    "publishDate": "2025-07-17T07:24:16.492Z",
+    "title": "Needham：上调谷歌目标价至210美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 15:24:17",
+    "uuid": "1b96d61c-a871-4e84-958f-aed52f50af9a"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" }
@@ -488,6 +541,42 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "杭州宇树科技股份有限公司近日公布了一项名为“一种三维激光雷达点云采集控制方法和系统”的专利。该发明通过优化码盘设计和突变信号捕捉模型，提升角度同步精度，适用于高转速场景下的实时角度追踪 ...",
+    "id": "8l3cRfhoUd1",
+    "order": 1752737018219,
+    "createdAt": "2025-07-17T05:03:00.000Z",
+    "publishDate": "2025-07-17T07:23:38.219Z",
+    "title": "宇树科技公布激光雷达测控专利 适用于高转速实时角度追踪",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 13:03:00",
+    "uuid": "52bee10a-e053-44ca-9cee-0abc190c84c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "滴滴与海底捞达成战略合作，实现会员体系互通。用户通过滴滴里程会员页面可匹配对应等级的海底捞会员身份，享受新品尝鲜、堂食优惠券、生日礼等多重福利。",
+    "id": "8l3io5F5Yym",
+    "order": 1752737025036,
+    "createdAt": "2025-07-17T05:01:41.000Z",
+    "publishDate": "2025-07-17T07:23:45.036Z",
+    "title": "滴滴与海底捞实现会籍互通",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 13:01:41",
+    "uuid": "f367bb8e-e9fe-49d9-af9d-1c581e5f415f"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
@@ -742,6 +831,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "Cursor宣布对中国地区IP限制Claude系列模型访问，受影响用户需通过代理或切换模型解决 ...",
+    "id": "8l3fGTuBIdz",
+    "order": 1752737145565,
+    "createdAt": "2025-07-17T04:02:13.000Z",
+    "publishDate": "2025-07-17T07:25:45.565Z",
+    "title": "Cursor对中国区实施Claude模型调用限制，助推Kimi K2调用量大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 12:02:13",
+    "uuid": "a6de21bd-7ffe-4b8b-8012-bb164165fabf"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "界面" },
@@ -833,6 +940,44 @@
     "up": false,
     "date": "2025-07-17 11:32:10",
     "uuid": "f4f186cc-d6d0-41be-becc-677ec470b039"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "英伟达市值已超过4万亿美元，超过印度、英国、法国、意大利、加拿大和韩国等国家的GDP。",
+    "id": "8l2YcoYx6ZG",
+    "order": 1752737162788,
+    "createdAt": "2025-07-17T03:22:53.000Z",
+    "publishDate": "2025-07-17T07:26:02.788Z",
+    "title": "英伟达市值已超日本 GDP",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 11:22:53",
+    "uuid": "709124c1-a61d-4316-9daf-e9bb73b56aab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "AMZ123" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "ChatGPT的录音模式已向所有Plus用户全面推出，支持语音交互、实时记录和内容总结 ...",
+    "id": "8l3UquMzzi3",
+    "order": 1752737180023,
+    "createdAt": "2025-07-17T03:22:24.000Z",
+    "publishDate": "2025-07-17T07:26:20.023Z",
+    "title": "ChatGPT录音模式面向Plus用户全面开放，已在macOS桌面应用上线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 11:22:24",
+    "uuid": "726a00b2-5894-4181-9f1b-abcabd709b34"
   },
   {
     "newsArray": [
@@ -973,6 +1118,24 @@
   {
     "newsArray": [
       { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "英伟达CEO黄仁勋表示，DeepSeek生成的研究论文“非常好”。",
+    "id": "8l3fx8uRheu",
+    "order": 1752737205158,
+    "createdAt": "2025-07-17T02:50:13.000Z",
+    "publishDate": "2025-07-17T07:26:45.158Z",
+    "title": "黄仁勋：DeepSeek生成的研究论文“非常好”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 10:50:13",
+    "uuid": "78438fbc-365d-4aff-938a-e17765fdd5e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
       { "siteName": "开源中国" },
       { "siteName": "aibase" }
     ],
@@ -1039,6 +1202,24 @@
     "up": false,
     "date": "2025-07-17 10:43:28",
     "uuid": "b9124e7c-ef4a-42c3-8416-355fc26ed7cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "富时新加坡海峡指数7月17日上涨0.5%，报4154.13点，创历史新高。",
+    "id": "8l3ayZKzZGN",
+    "order": 1752737174585,
+    "createdAt": "2025-07-17T01:52:16.000Z",
+    "publishDate": "2025-07-17T07:26:14.585Z",
+    "title": "新加坡股指创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-17 09:52:16",
+    "uuid": "69115368-2575-4911-abd1-188335ee2bfd"
   },
   {
     "newsArray": [
