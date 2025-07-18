@@ -1,6 +1,165 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "高盛预计土耳其将在7月24日降息350个基点，将利率降至42.5%。",
+    "id": "8l65LFa4zip",
+    "order": 1752846556074,
+    "createdAt": "2025-07-18T13:49:17.000Z",
+    "publishDate": "2025-07-18T13:49:16.074Z",
+    "title": "高盛预计土耳其7月24日降息350个基点至42.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 21:49:17",
+    "uuid": "a6198a94-32e0-434e-927d-5c92bdb58e70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "Odaily" }
+    ],
+    "summary": "美国运通首席执行官表示，稳定币更像是一种投资工具，不会取代法定货币。",
+    "id": "8l65Jhh4DT0",
+    "order": 1752846266598,
+    "createdAt": "2025-07-18T13:44:26.000Z",
+    "publishDate": "2025-07-18T13:44:26.598Z",
+    "title": "美国运通CEO：稳定币更像是一种投资工具，不会取代法定货币",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 21:44:26",
+    "uuid": "22998be8-5149-406f-a64f-72d41f53d2eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "PiliPala 是一款由开发者 guozhigq 使用 Flutter 开发的 B站第三方客户端，因收到哔哩哔哩的侵权告知函而宣布停止更新 ...",
+    "id": "8l5vQiVYndP",
+    "order": 1752846233113,
+    "createdAt": "2025-07-18T13:43:53.000Z",
+    "publishDate": "2025-07-18T13:43:53.113Z",
+    "title": "B站第三方客户端 PiliPala 开发者收侵权告知函，宣布停止更新",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 21:43:53",
+    "uuid": "66606b96-96ce-4211-96f0-15ed614a7eda"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "7月市场整体需求减弱，主要受暑假自驾游带动。厂商及经销商预计放缓生产及销售节奏，促销力度减弱，消费者购买动力不足 ...",
+    "id": "8l6614JsfoC",
+    "order": 1752846162124,
+    "createdAt": "2025-07-18T13:42:43.000Z",
+    "publishDate": "2025-07-18T13:42:42.124Z",
+    "title": "中国汽车流通协会：预计7月乘用车终端销量190万辆左右",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 21:42:43",
+    "uuid": "ca21e882-3d20-4e48-87a4-19c4a9d28376"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "方程豹旗下首款承载式混动SUV钛7将于2025年第四季度上市 ...",
+    "id": "8l445eGC7HG",
+    "order": 1752845724592,
+    "createdAt": "2025-07-18T13:35:24.000Z",
+    "publishDate": "2025-07-18T13:35:24.592Z",
+    "title": "比亚迪方程豹：混动SUV钛7将于四季度上市，短期内不加推纯电动力版本",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 21:35:24",
+    "uuid": "819a7c1d-4f0d-46ac-95e2-4b199ca9c606"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "上海市发布算力监测调度平台，实现算力资源统一监测与智能调度，推动算力集约化、一体化发展。平台已与中国算力平台（上海）互联互通，形成“算力+数据+行业场景”的协同联动 ...",
+    "id": "8l64ccy7Lif",
+    "order": 1752845662317,
+    "createdAt": "2025-07-18T13:34:22.000Z",
+    "publishDate": "2025-07-18T13:34:22.317Z",
+    "title": "上海发布算力监测调度平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 21:34:22",
+    "uuid": "baefff6f-9d0a-4643-a32f-123b1327c380"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧盟委员会发布通用人工智能模型提供商指南，以协助企业履行《人工智能法案》生效后的法律义务 ...",
+    "id": "8l65JPUBVAL",
+    "order": 1752845633519,
+    "createdAt": "2025-07-18T13:33:54.000Z",
+    "publishDate": "2025-07-18T13:33:53.519Z",
+    "title": "欧盟发布通用人工智能模型提供商指南",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 21:33:54",
+    "uuid": "0891479e-9dde-4264-9c31-3affda9bfd01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "华大九天公告，国家集成电路产业投资基金股份有限公司计划在公告披露之日起十五个交易日后的三个月内，通过集中竞价、大宗交易方式减持公司股份不超过271.47万股，占公司总股本的0.5% ...",
+    "id": "8l63smDOrSo",
+    "order": 1752845142556,
+    "createdAt": "2025-07-18T13:25:42.000Z",
+    "publishDate": "2025-07-18T13:25:42.556Z",
+    "title": "华大九天：大基金及上海建元拟分别减持不超0.5%和1%公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 21:25:42",
+    "uuid": "3221f399-77dd-41bb-9b1a-bfba07405083"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "全球基金7月18日净卖出印度股票289亿卢比。",
+    "id": "8l5udmLWfHj",
+    "order": 1752845071324,
+    "createdAt": "2025-07-18T13:24:31.000Z",
+    "publishDate": "2025-07-18T13:24:31.324Z",
+    "title": "全球基金今日净卖出289亿卢比印度股票",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 21:24:31",
+    "uuid": "7b81386e-9dd4-4ae8-b914-51568f79cb9c"
+  },
+  {
+    "newsArray": [
       { "siteName": "医药魔方" },
       { "siteName": "健康界" },
       { "siteName": "医药魔方" }
@@ -1071,6 +1230,25 @@
     "up": false,
     "date": "2025-07-18 17:52:44",
     "uuid": "555bd46d-a8e4-4e7c-a0e9-64bcde60ae72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "山东黄金公告，其控股股东山东黄金集团已获得工商银行山东省分行提供的不超过9亿元的股票增持贷款额度，贷款期限不超过3年 ...",
+    "id": "8l5orZcezBG",
+    "order": 1752846194464,
+    "createdAt": "2025-07-18T09:44:08.000Z",
+    "publishDate": "2025-07-18T13:43:14.464Z",
+    "title": "山东黄金：控股股东取得不超过9亿元增持股份专项贷款承诺函",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-18 17:44:08",
+    "uuid": "4c5cddcd-1cda-4711-af32-ce4212119dc9"
   },
   {
     "newsArray": [
