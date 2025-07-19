@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "一艘载有53人的游船在越南广宁省下龙湾因突发风暴倾覆，目前已确认9人死亡，12人获救，仍有数十人失踪。",
+    "id": "8l7dqQILNBH",
+    "order": 1752931941668,
+    "createdAt": "2025-07-19T13:32:21.000Z",
+    "publishDate": "2025-07-19T13:32:21.668Z",
+    "title": "越南下龙湾游船倾覆事故至少9人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-19 21:32:21",
+    "uuid": "b8604f25-e19e-484f-908f-c41ead2aedb2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "每经网" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中国联通在2025合作伙伴大会上表示，将推进智算中心扩容，探索布局十万卡集群，提升算效、能效和碳效，打造绿色低碳标杆节点，预计年底智算规模达45EFLOPS ...",
+    "id": "8l75X9QihSm",
+    "order": 1752931296898,
+    "createdAt": "2025-07-19T13:21:36.000Z",
+    "publishDate": "2025-07-19T13:21:36.898Z",
+    "title": "中国联通探索布局十万卡集群，年底智算规模将达45EFLOPS",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-19 21:21:36",
+    "uuid": "3f16c1e2-63dd-46a9-933d-b20aa91dd60b"
+  },
+  {
+    "newsArray": [
       { "siteName": "麻省理工科技评论" },
       { "siteName": "微信公众号" },
       { "siteName": "网易科技" }
