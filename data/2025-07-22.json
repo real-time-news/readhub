@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Qwen3模型更新推出新版本，显著提升通用能力，包括指令遵循、逻辑推理、文本理解、数学、科学、编程及工具使用等方面，支持多语言长尾知识覆盖，增强用户偏好契合能力，上下文理解能力提升至256K，已在魔搭社区和HuggingFace开源更新。",
+    "id": "8lBLFC8MwIi",
+    "order": 1753137991237,
+    "createdAt": "2025-07-21T22:46:31.000Z",
+    "publishDate": "2025-07-21T22:46:31.237Z",
+    "title": "阿里推出Qwen3升级版，性能超过Kimi-K2等领先闭源模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-22 06:46:31",
+    "uuid": "ac720e82-9e19-46e8-acd8-746c405b1f79"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
