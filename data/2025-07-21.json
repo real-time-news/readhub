@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "摩根士丹利发布研报称，通过对数十家SAP渠道商的调查，预计SAP二季度业绩将改善，增长持续加速，长期趋势积极。该行给予SAP股票“增持”评级，目标价285欧元，并列为首选股。",
+    "id": "8lAibBmxcnj",
+    "order": 1753087473569,
+    "createdAt": "2025-07-21T08:44:33.000Z",
+    "publishDate": "2025-07-21T08:44:33.569Z",
+    "title": "大摩对SAP评级为“增持”并指出该股为其首选股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-21 16:44:33",
+    "uuid": "38b41c7a-9c03-446f-8b9c-005fd5b3a0b6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "晶合集成预计2025年上半年净利润为2.6亿元至3.9亿元，同比增长39.04%至108.55% ...",
+    "id": "8lAjIQRIqZE",
+    "order": 1753087362396,
+    "createdAt": "2025-07-21T08:42:42.000Z",
+    "publishDate": "2025-07-21T08:42:42.396Z",
+    "title": "晶合集成：上半年净利同比预增39.04%-108.55%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-21 16:42:42",
+    "uuid": "760e681e-230d-481a-99bd-515b95c4b962"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "霍莱沃表示，物理AI是下一代AI形态的核心，通过物理定律与数据联合驱动，实现虚实协同的动态闭环。AI+CAE作为其关键应用，可为自动驾驶和机器人等领域提供支持 ...",
+    "id": "8lAhuTtaKib",
+    "order": 1753086867122,
+    "createdAt": "2025-07-21T08:34:27.000Z",
+    "publishDate": "2025-07-21T08:34:27.122Z",
+    "title": "霍莱沃：公司正在开展AI+CAE的研发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-21 16:34:27",
+    "uuid": "acd443d9-a895-40db-a78a-24f024b6650b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "上海医药下属公司氨甲环酸注射液通过仿制药质量和疗效一致性评价，该药品主要用于治疗原发性纤维蛋白溶解亢进引起的出血。2024年中国大陆医院采购该注射剂金额为1.43亿元。",
+    "id": "8lAhtqurXHB",
+    "order": 1753086795692,
+    "createdAt": "2025-07-21T08:33:15.000Z",
+    "publishDate": "2025-07-21T08:33:15.692Z",
+    "title": "上海医药：氨甲环酸注射液通过仿制药一致性评价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-21 16:33:15",
+    "uuid": "bdbad818-59f9-4be6-9e02-290a8690bfa8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "受副高后部切变影响，吉林省集安市7月20日17时至21日2时出现暴雨，局地大暴雨，平均降水量67.2毫米，最大达169.3毫米，防汛应急响应于21日3时由四级升为三级。",
+    "id": "8l9sSGqhrsj",
+    "order": 1753086869925,
+    "createdAt": "2025-07-21T08:26:05.000Z",
+    "publishDate": "2025-07-21T08:34:29.925Z",
+    "title": "吉林省集安市启动防汛三级应急响应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-21 16:26:05",
+    "uuid": "4aaad0d0-ee77-41cc-8d4a-e45cc0fff0ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "富信科技控股子公司研发的适用于400G/800G高速光模块的Micro TEC产品取得阶段性成果，已通过某头部企业验证并实现批量供货，标志着公司在通信领域产业化取得关键进展。",
+    "id": "8lAhrICXR1q",
+    "order": 1753086209420,
+    "createdAt": "2025-07-21T08:23:29.000Z",
+    "publishDate": "2025-07-21T08:23:29.420Z",
+    "title": "富信科技：Micro TEC产品已实现批量供货",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-21 16:23:29",
+    "uuid": "c2ed8d76-9643-4cb5-9274-22c7cd17534b"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "第一财经" },
@@ -1131,6 +1238,27 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "张坤管理的易方达蓝筹精选二季度股票仓位基本稳定，调整了消费和科技等行业结构，继续持有商业模式出色、行业格局清晰、竞争力强的优质公司 ...",
+    "id": "8lAMgZMONlu",
+    "order": 1753085855615,
+    "createdAt": "2025-07-21T03:32:53.000Z",
+    "publishDate": "2025-07-21T08:17:35.615Z",
+    "title": "易方达基金张坤最新持仓曝光",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-21 11:32:53",
+    "uuid": "77b53845-7692-45cf-80dc-418ef91344d2"
+  },
+  {
+    "newsArray": [
       { "siteName": "品玩" },
       { "siteName": "虎嗅网" },
       { "siteName": "新浪科技" },
@@ -1446,6 +1574,24 @@
     "up": false,
     "date": "2025-07-21 08:39:08",
     "uuid": "7938a761-8e81-40f5-a6a6-9d752739e10c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "安全研究人员发现微信Windows客户端存在复合型安全漏洞，攻击者可利用该漏洞通过构造恶意文件，在用户查看聊天记录时触发远程代码执行，进而实现系统控制 ...",
+    "id": "8lA4GUoKsSm",
+    "order": 1753086845711,
+    "createdAt": "2025-07-21T00:34:09.000Z",
+    "publishDate": "2025-07-21T08:34:05.711Z",
+    "title": "微信Windows客户端发现高危漏洞，可致远程代码执行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-21 08:34:09",
+    "uuid": "18341973-1484-4261-b9db-4004cbc0d292"
   },
   {
     "newsArray": [
