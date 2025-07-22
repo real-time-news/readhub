@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "世界卫生组织专家就基孔肯雅热疫情发出警报，指出目前已有119个国家和地区发现该病毒传播，约550万人面临风险。近年来，印度洋区域、东南亚国家及部分欧洲国家均出现疫情 ...",
+    "id": "8lDKn8vOLMH",
+    "order": 1753225946518,
+    "createdAt": "2025-07-22T23:12:26.000Z",
+    "publishDate": "2025-07-22T23:12:26.518Z",
+    "title": "世卫专家提醒防范基孔肯雅热暴发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-23 07:12:26",
+    "uuid": "d128158a-9ecd-43af-ac91-a69078cd8a92"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
@@ -50,6 +68,24 @@
     "up": false,
     "date": "2025-07-23 06:32:49",
     "uuid": "32b32f90-bad0-46c5-b998-51d6533ee8d5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Odaily" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "亚马逊收购了初创公司Bee，该公司生产一款售价50美元的可穿戴人工智能助手。Bee开发的手环可记录和转录用户活动，并据此生成待办事项和对话总结 ...",
+    "id": "8lD8f7ao64E",
+    "order": 1753225601360,
+    "createdAt": "2025-07-22T21:49:06.000Z",
+    "publishDate": "2025-07-22T23:06:41.360Z",
+    "title": "亚马逊收购AI穿戴设备制造商Bee",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-23 05:49:06",
+    "uuid": "e4397a04-6fe1-43b6-9e01-68bf44fc6573"
   },
   {
     "newsArray": [
