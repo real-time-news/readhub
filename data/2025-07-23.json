@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国总统特朗普称，美日达成一项大规模协议，日本将向美国投资5500亿美元，美国将获得90%的利润 ...",
+    "id": "8lDP7Y8YmCL",
+    "order": 1753227139049,
+    "createdAt": "2025-07-22T23:32:19.000Z",
+    "publishDate": "2025-07-22T23:32:19.049Z",
+    "title": "特朗普宣布与日本达成贸易协议：关税15%+5500亿美元对美投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-23 07:32:19",
+    "uuid": "a69661fa-585e-487b-bc2d-4a34be0622d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "AU-Net是一种由Meta研究人员开源的新型自回归U-Net架构，它革新了传统语言模型的分词和处理方式，能够从原始字节开始学习，动态组合成单词、词对及多词组合，实现多尺度序列表示。",
+    "id": "8lDKpkKKyx3",
+    "order": 1753226497014,
+    "createdAt": "2025-07-22T23:21:38.000Z",
+    "publishDate": "2025-07-22T23:21:37.014Z",
+    "title": "Meta开源创新大模型架构AU-Nets",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-23 07:21:38",
+    "uuid": "ad900a44-3986-4c5d-b56a-7aa4d82c7614"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "埃隆·马斯克正积极筹集资金以参与人工智能军备竞赛。在xAI公司通过出售股票和债券筹集了100亿美元后不久，该公司正与金融家安东尼奥·格拉西亚斯合作，计划再争取至多120亿美元的融资 ...",
+    "id": "8lCwZRIg7UE",
+    "order": 1753226464415,
+    "createdAt": "2025-07-22T23:14:05.000Z",
+    "publishDate": "2025-07-22T23:21:04.415Z",
+    "title": "马斯克动用一切财务杠杆为xAI芯片筹资120亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-23 07:14:05",
+    "uuid": "726a3b1d-7a3d-467b-b616-aa90ac15ec58"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
