@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "科学网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "“上海共识”由辛顿、姚期智等20余位AI领域专家共同签署，强调当前人工智能正接近甚至超越人类智能水平，可能带来失控风险，呼吁国际社会确立具体、可操作的AI行为红线，确保其安全可控 ...",
+    "id": "8lHfX6IZhRQ",
+    "order": 1753525891157,
+    "createdAt": "2025-07-26T10:31:32.000Z",
+    "publishDate": "2025-07-26T10:31:31.157Z",
+    "title": "行业专家联名签署“上海共识”，呼吁给AI确立行为红线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-26 18:31:32",
+    "uuid": "d4c660d2-efde-4c3c-8c42-9f4bfc3ded11"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "第一财经" },
@@ -85,6 +102,24 @@
     "up": false,
     "date": "2025-07-26 17:25:48",
     "uuid": "ccfebf2a-6462-46d2-a867-34515e860c1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2025世界人工智能大会在上海开幕，华为首次线下展出昇腾384超节点Atlas 900 A3 SuperPoD，基于超节点架构实现384个NPU大带宽低时延互联，提升资源调度效率 ...",
+    "id": "8lIzeSJWEdc",
+    "order": 1753525302889,
+    "createdAt": "2025-07-26T09:13:42.000Z",
+    "publishDate": "2025-07-26T10:21:42.889Z",
+    "title": "华为首次线下展出昇腾 384 超节点：业界最大规模 384 卡高速总线互联",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-26 17:13:42",
+    "uuid": "dd703efc-abd0-4d0b-9222-68b69ee0a1e2"
   },
   {
     "newsArray": [
