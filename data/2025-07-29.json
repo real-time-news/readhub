@@ -1,6 +1,117 @@
 [
   {
     "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Julius AI 是一家专注于人工智能数据分析的初创公司，近期获得由 Bessemer Venture Partners 领投的1000万美元种子轮融资，其他投资方包括多家风投公司及知名天使投资人 ...",
+    "id": "8lNa8VmXLzJ",
+    "order": 1753770824805,
+    "createdAt": "2025-07-29T06:33:44.000Z",
+    "publishDate": "2025-07-29T06:33:44.805Z",
+    "title": "初创公司 Julius AI 获千万美元种子轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-29 14:33:44",
+    "uuid": "0d935e2f-631f-43f2-b441-9455241d8c52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "特斯拉预计2027年量产采用三星2纳米工艺的AI6芯片，但三星SF2工艺当前良率较低，可能影响芯片如期量产。",
+    "id": "8lNansbyJ9f",
+    "order": 1753770333762,
+    "createdAt": "2025-07-29T06:25:33.000Z",
+    "publishDate": "2025-07-29T06:25:33.762Z",
+    "title": "郭明錤：特斯拉AI6芯片预计用三星2纳米工艺，难预测能否如期量产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-29 14:25:33",
+    "uuid": "47ed9764-1135-4355-8e61-4c18c57d70e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "斯泰兰蒂斯2025年上半年调整后运营收益为5.40亿欧元，同比下降94%，运营利润率为0.7%。公司净亏损22.6亿欧元，而去年同期为盈利56.5亿欧元 ...",
+    "id": "8lNpCEBdeEW",
+    "order": 1753770095693,
+    "createdAt": "2025-07-29T06:21:35.000Z",
+    "publishDate": "2025-07-29T06:21:35.693Z",
+    "title": "Stellantis上半年调整后运营收益低于预估",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-29 14:21:35",
+    "uuid": "0196d10b-192e-4c87-89ae-49c84d45ebc6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "巴克莱第二季度投资银行营收33.1亿英镑，超出预期的30.7亿英镑，并计划启动至多10亿英镑的股票回购。",
+    "id": "8lNpnwCRHKa",
+    "order": 1753769987793,
+    "createdAt": "2025-07-29T06:19:47.000Z",
+    "publishDate": "2025-07-29T06:19:47.793Z",
+    "title": "巴克莱将启动至多10亿英镑的股票回购计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-29 14:19:47",
+    "uuid": "4afbb1fc-6a0c-420e-838a-018049c95713"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "影石创始人刘靖康回应公司进入无人机市场时表示，此举是基于客户需求、市场空间及公司发展需要，并提到五年前已做出相关决策。他强调尊重大疆，并认为与强者竞争能推动自身进步 ...",
+    "id": "8lNp9DvN8Ky",
+    "order": 1753770155947,
+    "createdAt": "2025-07-29T06:04:33.000Z",
+    "publishDate": "2025-07-29T06:22:35.947Z",
+    "title": "影石创始人刘靖康回应进入无人机市场，并谈及大疆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-29 14:04:33",
+    "uuid": "14944a70-0325-442a-9f7e-83756f0682c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "深圳市盐田区和龙岗区（园山街道）过去3小时已出现暴雨，预计未来2小时还将有20-40毫米降水，深圳市气象台发布暴雨橙色预警 ...",
+    "id": "8lNoNLBaskE",
+    "order": 1753769054079,
+    "createdAt": "2025-07-29T06:04:14.000Z",
+    "publishDate": "2025-07-29T06:04:14.079Z",
+    "title": "深圳发布暴雨橙色预警，全市进入暴雨防御状态",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-29 14:04:14",
+    "uuid": "8ed3ec08-f9d6-4067-89cc-a6371ed7644b"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "格隆汇" }
@@ -54,6 +165,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中油资本表示目前暂不涉及稳定币相关业务，并正在研究相关领域政策以回应投资者关切。",
+    "id": "8lNmF6dwzsS",
+    "order": 1753768906207,
+    "createdAt": "2025-07-29T05:34:36.000Z",
+    "publishDate": "2025-07-29T06:01:46.207Z",
+    "title": "中油资本：暂不涉及稳定币相关业务，正对相关领域政策进行研究",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-29 13:34:36",
+    "uuid": "203f7230-f22e-49f5-b965-0fcfd31a914c"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" }
@@ -86,6 +215,24 @@
     "up": false,
     "date": "2025-07-29 13:33:01",
     "uuid": "cb6a29c7-1e2b-4685-bb8c-29b786872dc5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "钢铁股午后震荡反弹，西宁特钢涨停，八一钢铁涨超5%，三钢闽光、盛德鑫泰、方大特钢、新钢股份、包钢股份等跟涨。",
+    "id": "8lNmF7uIHmH",
+    "order": 1753769526445,
+    "createdAt": "2025-07-29T05:32:36.000Z",
+    "publishDate": "2025-07-29T06:12:06.445Z",
+    "title": "钢铁股震荡反弹，西宁特钢午后涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-29 13:32:36",
+    "uuid": "8fe5d444-ac21-481c-9c6f-7a7e30663169"
   },
   {
     "newsArray": [
