@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "巴西7月上半月糖产量高于预期，导致纽约原糖期货价格三天来首次下跌，跌幅1%，伦敦市场白糖也下跌1.2%。",
+    "id": "8lQ5qqlHpKK",
+    "order": 1753887108997,
+    "createdAt": "2025-07-30T14:51:48.000Z",
+    "publishDate": "2025-07-30T14:51:48.997Z",
+    "title": "原糖价格三天来首次下跌，主要产糖国巴西的产量高于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 22:51:48",
+    "uuid": "49101c63-222d-4cf5-ad77-e15bd5cb4597"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "山东省发布地质灾害气象风险黄色预警，涉及济南、青岛、淄博、烟台、潍坊、济宁、威海、日照、临沂等地 ...",
+    "id": "8lPqApTnmwt",
+    "order": 1753886968588,
+    "createdAt": "2025-07-30T14:49:29.000Z",
+    "publishDate": "2025-07-30T14:49:28.588Z",
+    "title": "山东发布地质灾害气象风险黄色预警",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 22:49:29",
+    "uuid": "be32a836-c68c-4760-9e8a-dca4e59d4454"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国上周EIA原油库存增加769.8万桶，远超预期的减少128.8万桶，前值为减少316.9万桶。",
+    "id": "8lQ4WhdYvEr",
+    "order": 1753886580838,
+    "createdAt": "2025-07-30T14:43:00.000Z",
+    "publishDate": "2025-07-30T14:43:00.838Z",
+    "title": "美国上周EIA原油库存增加769.8万桶",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 22:43:00",
+    "uuid": "8ca7c50c-9d91-4fac-9e31-39b95a606925"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "谷歌计划向印度南部数据中心投资约60亿美元。",
+    "id": "8lQ4TeD9aSm",
+    "order": 1753886586205,
+    "createdAt": "2025-07-30T14:34:09.000Z",
+    "publishDate": "2025-07-30T14:43:06.205Z",
+    "title": "谷歌据称将向印度南部的数据中心投资60亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 22:34:09",
+    "uuid": "fd2bee13-504b-4df9-8e35-9a03b0946abe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "DoNews" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "百度在2025年7月宣布，其电脑端首页将新增智能体（Agent）应用入口，并已启动相关测试。用户在登录状态下，可在搜索框下方的「我的应用」栏中看到已使用或可能感兴趣的智能体 ...",
+    "id": "8lOMIVTlLTk",
+    "order": 1753886521191,
+    "createdAt": "2025-07-30T14:33:33.000Z",
+    "publishDate": "2025-07-30T14:42:01.191Z",
+    "title": "报道称百度首页将全面开放智能体入口",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 22:33:33",
+    "uuid": "29a496f3-e00a-41eb-9258-502267891633"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
@@ -766,6 +858,25 @@
     "up": false,
     "date": "2025-07-30 19:49:40",
     "uuid": "7611a0a7-0922-4390-9d16-74b4aaea66e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "海信家电2025年上半年营业收入493.4亿元，同比增长1.44%。净利润20.77亿元，同比增长3.01%。",
+    "id": "8lPgv9NxBlx",
+    "order": 1753886500173,
+    "createdAt": "2025-07-30T11:47:53.000Z",
+    "publishDate": "2025-07-30T14:41:40.173Z",
+    "title": "海信家电：上半年净利20.77亿元，同比增3.01%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 19:47:53",
+    "uuid": "de540d29-0224-464a-a7ca-a987789fa41a"
   },
   {
     "newsArray": [
