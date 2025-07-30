@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LibreOffice 开发者 Mike Kaganski 在使用微软服务时遭遇账号被封问题，尝试申诉未果 ...",
+    "id": "8lPTHF0kxXb",
+    "order": 1753865760472,
+    "createdAt": "2025-07-30T08:56:00.000Z",
+    "publishDate": "2025-07-30T08:56:00.472Z",
+    "title": "LibreOffice 开发者的微软账号被锁，申诉陷入“死循环”困境",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 16:56:00",
+    "uuid": "756c4aa0-e04c-40b7-b1b6-48be7e127137"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "爱马仕2025年第二季度销售额同比增长9%，主要得益于高端皮具产品的需求增长。公司表示今年暂无进一步涨价计划，此前已在全球范围提价7%，美国市场额外提价5% ...",
+    "id": "8lPYO2gEdGW",
+    "order": 1753865882961,
+    "createdAt": "2025-07-30T08:53:46.000Z",
+    "publishDate": "2025-07-30T08:58:02.961Z",
+    "title": "爱马仕第二季度销售额增长9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 16:53:46",
+    "uuid": "4e82789c-db14-4a92-bd8a-180547cff626"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "盛弘股份表示，公司设备可支持固态和半固态电池检测，但目前相关技术尚处早期阶段，对公司收入影响极小。",
+    "id": "8lPfzFqJ4n8",
+    "order": 1753865550560,
+    "createdAt": "2025-07-30T08:52:30.000Z",
+    "publishDate": "2025-07-30T08:52:30.560Z",
+    "title": "盛弘股份：设备可支持固态和半固态电池检测 但收入影响极小",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 16:52:30",
+    "uuid": "47db8d90-d41e-41d1-99b1-52cc082d7438"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "粤港澳大湾区首条城际长航无人机物流航线正式开通，一架物流无人机从珠海唐家港起飞，历时约55分钟飞行82.9公里，成功降落广州穗港码头，验证了城际长航程物流链路的可行性 ...",
+    "id": "8lPfzYWi4cU",
+    "order": 1753865501268,
+    "createdAt": "2025-07-30T08:51:42.000Z",
+    "publishDate": "2025-07-30T08:51:41.268Z",
+    "title": "粤港澳大湾区首条城际长航无人机物流航线开通",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 16:51:42",
+    "uuid": "6efc4653-ee51-4df7-b70b-f01be388ded3"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -15,6 +85,26 @@
     "up": false,
     "date": "2025-07-30 16:43:11",
     "uuid": "21089e11-61f4-4506-88cb-6f31e329f566"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "人民币兑美元中间价报7.1441，较前一交易日上调70点。根据CME“美联储观察”数据，美联储7月维持利率不变的概率为97.4%，降息25个基点的概率为2.6% ...",
+    "id": "8lP9zpkcrNZ",
+    "order": 1753865466504,
+    "createdAt": "2025-07-30T08:42:54.000Z",
+    "publishDate": "2025-07-30T08:51:06.504Z",
+    "title": "人民币兑美元中间价报7.1441，上调70点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 16:42:54",
+    "uuid": "afec53e6-8bb1-48cd-b9d0-1397ed21af3d"
   },
   {
     "newsArray": [
@@ -173,6 +263,23 @@
     "up": false,
     "date": "2025-07-30 16:04:31",
     "uuid": "924d6eb6-77fd-42c7-8d60-0bf4796bb69a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "AI芯片初创公司Groq正洽谈新一轮6亿美元融资，估值接近60亿美元。若交易达成，其估值将在约一年内翻倍。本轮融资由Disruptive公司牵头 ...",
+    "id": "8lPHDPhaev9",
+    "order": 1753865924123,
+    "createdAt": "2025-07-30T08:02:19.000Z",
+    "publishDate": "2025-07-30T08:58:44.123Z",
+    "title": "消息称AI芯片公司Groq正洽谈6亿美元融资，估值60亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 16:02:19",
+    "uuid": "eadf5b46-f78f-4fd8-beda-0d466ae3e163"
   },
   {
     "newsArray": [
@@ -497,6 +604,24 @@
     "up": false,
     "date": "2025-07-30 15:03:33",
     "uuid": "23ed1af8-36bf-4fa9-945f-06ef1c76a60a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "招商仁和人寿近期进行多项人事调整，解聘胡良审计责任人和高宏副总经理、首席数字官职务，聘任樊雪担任审计责任人。高宏已任招商局集团专职外部董事，胡良拟任广东分公司总经理 ...",
+    "id": "8lP04hvu7Lm",
+    "order": 1753865820406,
+    "createdAt": "2025-07-30T07:02:33.000Z",
+    "publishDate": "2025-07-30T08:57:00.406Z",
+    "title": "招商仁和人寿回应多名高管被解聘：正常人事变动，均已任新职",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 15:02:33",
+    "uuid": "a4ae940e-d016-492d-b03a-010ad870f806"
   },
   {
     "newsArray": [
@@ -1451,6 +1576,24 @@
     "up": false,
     "date": "2025-07-30 11:43:05",
     "uuid": "e23f621d-ccb2-46d9-ba91-55b112bf542b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "阿里云成为世界泳联全球独家云服务商，双方将合作推进核心系统上云，并在数据平台和AI应用方面展开深入合作。",
+    "id": "8lPE6kqtfvX",
+    "order": 1753865853129,
+    "createdAt": "2025-07-30T03:34:20.000Z",
+    "publishDate": "2025-07-30T08:57:33.129Z",
+    "title": "阿里云成为世界泳联全球独家云服务商",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 11:34:20",
+    "uuid": "7e8d3af9-5069-4109-ba2a-22344213ae9e"
   },
   {
     "newsArray": [
