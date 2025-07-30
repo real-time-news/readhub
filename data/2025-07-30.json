@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "胡塞武装称使用“巴勒斯坦-2”型高超音速导弹袭击以色列本-古里安国际机场，导致机场运营中断。以色列军方称已成功拦截一枚来自胡塞武装的弹道导弹，目前暂无人员伤亡或财产损失报告。",
+    "id": "8lOkzIM8WzC",
+    "order": 1753861947518,
+    "createdAt": "2025-07-30T07:52:27.000Z",
+    "publishDate": "2025-07-30T07:52:27.518Z",
+    "title": "胡塞武装称使用导弹袭击以色列本-古里安机场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 15:52:27",
+    "uuid": "8a690b45-b56f-4171-975e-516dd27859e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "联发科2025年第二季度合并营收为1503.69亿元新台币，环比下降1.9%，同比增长18.1%。毛利率达49.1%，环比上升1个百分点，同比上升0.3个百分点 ...",
+    "id": "8lPWtQKU3kv",
+    "order": 1753861903162,
+    "createdAt": "2025-07-30T07:51:43.000Z",
+    "publishDate": "2025-07-30T07:51:43.162Z",
+    "title": "联发科二季度营收同比增加18.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 15:51:43",
+    "uuid": "29129871-8c1a-4417-9fef-f3c1e5e80c2f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "电影《南京照相馆》自2025年7月25日上映以来，票房表现强劲，上映5天累计票房达6.34亿，预测总票房为37.52亿 ...",
+    "id": "8lOSWPt54T5",
+    "order": 1753861949828,
+    "createdAt": "2025-07-30T07:51:24.000Z",
+    "publishDate": "2025-07-30T07:52:29.828Z",
+    "title": "《南京照相馆》预测票房超37亿元 仅次于《哪吒2》",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 15:51:24",
+    "uuid": "cc0f6bcf-211b-4bc7-8c6a-fdde1658de60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中望软件在美国法院被Autodesk起诉著作权侵权，涉诉金额未明。Autodesk请求法院对公司发布禁令，禁止其继续侵权及不当使用商业秘密 ...",
+    "id": "8lPb8k3MDgD",
+    "order": 1753861764426,
+    "createdAt": "2025-07-30T07:49:24.000Z",
+    "publishDate": "2025-07-30T07:49:24.426Z",
+    "title": "中望软件：公司在美国法院被Autodesk起诉著作权侵权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-30 15:49:24",
+    "uuid": "859bf1d3-9cf0-4fe8-bf4e-a5eda78c094f"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" }
