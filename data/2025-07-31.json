@@ -1,6 +1,61 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "小米汽车7月新增18家门店，全国97城已有352家门店。8月计划再增18家，覆盖包头、龙岩等8城。截至7月底，全国服务网点达181家，覆盖106城。",
+    "id": "8lRSxTZjnD0",
+    "order": 1753959213835,
+    "createdAt": "2025-07-31T10:53:33.000Z",
+    "publishDate": "2025-07-31T10:53:33.835Z",
+    "title": "小米汽车：8月计划新增18家门店，预计覆盖包头、龙岩等城市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:53:33",
+    "uuid": "529b1169-acdf-4689-b433-b32134e3da7f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2025年1至7月，中国TOP100房企销售总额为20730.1亿元，同比下降13.3%，降幅较上半年扩大 ...",
+    "id": "8lRTSzvfwCD",
+    "order": 1753959186450,
+    "createdAt": "2025-07-31T10:53:06.000Z",
+    "publishDate": "2025-07-31T10:53:06.450Z",
+    "title": "机构：1至7月中国TOP100房企销售总额同比下降13.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:53:06",
+    "uuid": "3bb43b15-89a6-4850-bd36-bb8ed3e2bc74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软PlayReady DRM数字证书SL3000意外泄露，导致相关盗版工具迅速传播。GitHub已删除泄露内容及分支仓库，亚马逊Prime也封禁了使用泄露证书的账户 ...",
+    "id": "8lRB23Qyv7G",
+    "order": 1753958682860,
+    "createdAt": "2025-07-31T10:44:43.000Z",
+    "publishDate": "2025-07-31T10:44:42.860Z",
+    "title": "微软PlayReady数字证书泄露引发DRM安全风波",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:44:43",
+    "uuid": "40e01a16-c5a1-4706-9bd4-d86f991e3863"
+  },
+  {
+    "newsArray": [
       { "siteName": "开源中国" },
       { "siteName": "AMZ123" },
       { "siteName": "IT 之家" }
