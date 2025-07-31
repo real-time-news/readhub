@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "亚马逊二季度净销售额达1677.0亿美元，超出预期的1621.5亿美元，AWS业务净销售额同比增长17%，符合市场预期。",
+    "id": "8lS729mai3w",
+    "order": 1753995482480,
+    "createdAt": "2025-07-31T20:16:11.000Z",
+    "publishDate": "2025-07-31T20:58:02.480Z",
+    "title": "亚马逊二季度净销售 1677.0 亿美元，预期 1621.5 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 04:16:11",
+    "uuid": "2c6c06c8-8597-4402-8981-0a686824156c"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "awtmt.com_news" },
       { "siteName": "华尔街见闻" }
@@ -84,6 +101,24 @@
     "up": false,
     "date": "2025-08-01 03:12:20",
     "uuid": "abf60448-e4ab-4e9e-bd96-b25af8dd2bfa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "设计软件公司Figma股价大幅上涨，涨幅达229%。",
+    "id": "8lRyKlwDVj4",
+    "order": 1753995525325,
+    "createdAt": "2025-07-31T18:11:17.000Z",
+    "publishDate": "2025-07-31T20:58:45.325Z",
+    "title": "设计软件巨头 Figma 涨幅扩大至 229%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 02:11:17",
+    "uuid": "085bc6f4-a961-4e89-8b48-12ea68631d00"
   },
   {
     "newsArray": [
