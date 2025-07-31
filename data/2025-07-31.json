@@ -1,6 +1,134 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "AMZ123" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Meta计划大幅增加基础设施投资，预计2025年资本支出达660亿至720亿美元，主要用于增强算力以支持AI研发和业务发展。公司正在建设多个AI超级集群，并积极招募AI人才。",
+    "id": "8lRMUinDCeY",
+    "order": 1753958632062,
+    "createdAt": "2025-07-31T10:43:52.000Z",
+    "publishDate": "2025-07-31T10:43:52.062Z",
+    "title": "Meta宣布大幅增加AI基础设施投资，2025年支出或超700亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:43:52",
+    "uuid": "33277363-9f08-4daa-863a-9a99923245a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "2025年6月，国家能源局核发绿证2.78亿个，环比增长29.33%，涉及可再生能源发电项目19.87万个，其中可交易绿证1.96亿个，占比70.64% ...",
+    "id": "8lRGP8eYI76",
+    "order": 1753958545725,
+    "createdAt": "2025-07-31T10:42:25.000Z",
+    "publishDate": "2025-07-31T10:42:25.725Z",
+    "title": "国家能源局：6月核发绿证2.78亿个 环比增长29.33%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:42:25",
+    "uuid": "85860f45-20e3-4673-bb32-a61aad88e30b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "禾望电气公告，公司股票在2025年7月29日至7月31日连续三个交易日收盘价涨幅偏离值超过20%，构成交易异常波动 ...",
+    "id": "8lRSFb9ZAVU",
+    "order": 1753958522888,
+    "createdAt": "2025-07-31T10:42:02.000Z",
+    "publishDate": "2025-07-31T10:42:02.888Z",
+    "title": "禾望电气：目前公司尚无HVDC产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:42:02",
+    "uuid": "a511e81f-2992-46bf-805f-9fe7f420782d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "Trae IDE 被指在用户关闭遥测功能后仍持续上传数据至字节服务器，引发隐私担忧。用户报告其在短时间内发起大量网络请求，上传包括设备信息、使用习惯、唯一标识符等潜在敏感数据 ...",
+    "id": "8lQh4LFkfwl",
+    "order": 1753958015442,
+    "createdAt": "2025-07-31T10:33:35.000Z",
+    "publishDate": "2025-07-31T10:33:35.442Z",
+    "title": "字节旗下AI编程工具Trae涉嫌“偷跑”用户数据，官方回应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:33:35",
+    "uuid": "4beaea0f-14c4-423b-b6d3-fe49a3d8eb06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "医药魔方" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国家药监局发布《互联网药品医疗器械信息服务备案管理规定（征求意见稿）》，向社会公开征求意见，时间为2025年7月31日至8月30日。",
+    "id": "8lRRlLwJ7wz",
+    "order": 1753957976558,
+    "createdAt": "2025-07-31T10:32:56.000Z",
+    "publishDate": "2025-07-31T10:32:56.558Z",
+    "title": "国家药监局公开征求《互联网药品医疗器械信息服务备案管理规定（征求意见稿）》意见",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:32:56",
+    "uuid": "79e6647e-0b3c-4cca-bf97-74e6921049ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "海思科公司开发的1类静脉麻醉药物HSK3486（环泊酚注射液）的上市申请获美国FDA受理，该药物具有自主知识产权。",
+    "id": "8lRRU9g8Cky",
+    "order": 1753957549051,
+    "createdAt": "2025-07-31T10:25:50.000Z",
+    "publishDate": "2025-07-31T10:25:49.051Z",
+    "title": "海思科：创新药HSK3486上市许可申请获美国FDA受理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:25:50",
+    "uuid": "0e393022-e667-4742-890a-71ecd32f8313"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "思泉新材计划向不超过35名特定投资者发行股票，募集不超过4.66亿元资金，用于越南散热产品项目、液冷散热研发中心建设、信息化系统建设及补充流动资金 ...",
+    "id": "8lRQmVP45yi",
+    "order": 1753957550563,
+    "createdAt": "2025-07-31T10:22:26.000Z",
+    "publishDate": "2025-07-31T10:25:50.563Z",
+    "title": "思泉新材：拟募资不超4.66亿元 用于液冷散热研发中心项目等",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 18:22:26",
+    "uuid": "5f09ce7d-156b-46c7-a4c7-09d78c1c8a0b"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
@@ -472,6 +600,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "市场监管总局发布公告，自2025年8月1日起，将此前在部分省市开展的经营者集中反垄断审查试点工作转为正式委托，以提升审查效能，深入推进竞争政策实施。",
+    "id": "8lRKLPR1N9l",
+    "order": 1753958203924,
+    "createdAt": "2025-07-31T08:43:41.000Z",
+    "publishDate": "2025-07-31T10:36:43.924Z",
+    "title": "市场监管总局：将试点委托转为正式委托开展部分经营者集中反垄断审查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 16:43:41",
+    "uuid": "67af939e-cdaf-45e2-85ef-f1073fc84642"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -598,6 +745,23 @@
     "up": false,
     "date": "2025-07-31 16:14:35",
     "uuid": "b426cf77-8d4e-48e5-a895-89d59c3bbcd6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "雷锋网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "百度健康启动“满天星公益计划”，联合10万名医生打造超1亿条AIGC权威科普内容，并计划在2026年前培养1万个千万级流量医生IP ...",
+    "id": "8lPjk5EdiPE",
+    "order": 1753957557264,
+    "createdAt": "2025-07-31T08:13:43.000Z",
+    "publishDate": "2025-07-31T10:25:57.264Z",
+    "title": "百度健康宣布联合10万名医生打造超1亿条AIGC科普",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 16:13:43",
+    "uuid": "2faf2479-03db-4d74-9334-ec30bffa5cc6"
   },
   {
     "newsArray": [
@@ -794,6 +958,23 @@
     "up": false,
     "date": "2025-07-31 15:53:05",
     "uuid": "5feb0e8a-7dc9-4d00-993a-9557e19b9f8b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Meta CEO 扎克伯格发布《个人超级智能》公开信，提出打造“个人超级智能”的愿景，强调该技术应惠及每个人，而非集中化 ...",
+    "id": "8lRAMoYbCsg",
+    "order": 1753958127559,
+    "createdAt": "2025-07-31T07:48:01.000Z",
+    "publishDate": "2025-07-31T10:35:27.559Z",
+    "title": "扎克伯格公开信：Meta 剑指超级智能，暗示或将闭源",
+    "type": "topic",
+    "up": false,
+    "date": "2025-07-31 15:48:01",
+    "uuid": "283c4158-981a-436f-92d0-cf714501a2cd"
   },
   {
     "newsArray": [
