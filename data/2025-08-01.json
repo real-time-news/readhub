@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "公司实际控制人及多位董事计划减持股份，合计减持比例不超过总股本的3.61%，减持原因为资金需求，减持方式为集中竞价和/或大宗交易，减持期间为公告披露之日起15个交易日后的3个月。",
+    "id": "8lTNWI77bcT",
+    "order": 1754058294162,
+    "createdAt": "2025-08-01T14:21:54.000Z",
+    "publishDate": "2025-08-01T14:24:54.162Z",
+    "title": "通用电梯：实控人牟玉芳计划减持不超过3%公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 22:21:54",
+    "uuid": "a81791df-2250-4334-8f08-8d9be9c91bcf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "WTI原油价格日内下跌超过2%，当前报67.43美元/桶。",
+    "id": "8lT25vkbnNB",
+    "order": 1754057650212,
+    "createdAt": "2025-08-01T14:14:11.000Z",
+    "publishDate": "2025-08-01T14:14:10.212Z",
+    "title": "WTI原油日内跌超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 22:14:11",
+    "uuid": "450f0ead-35f5-42ec-bfa5-7bc122704506"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "量子之歌集团宣布以现金与股票组合对价方式收购旗下控股公司深圳熠起文化有限公司（Letsvan）剩余全部股权，标志着双方潮玩业务进入深度协同阶段 ...",
+    "id": "8lSQwdDs6dj",
+    "order": 1754057303846,
+    "createdAt": "2025-08-01T14:08:24.000Z",
+    "publishDate": "2025-08-01T14:08:23.846Z",
+    "title": "量子之歌将全资控股Letsvan 深化潮玩业务战略整合",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 22:08:24",
+    "uuid": "07cf0d42-53e2-4b13-9ba6-eb27be0b7ec9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华夏人寿因报送虚假报告、客户信息不真实、宣传材料不合规等多项违规行为被国家金融监督管理总局处罚，公司被吊销业务许可证 ...",
+    "id": "8lTCp24dDp2",
+    "order": 1754057093453,
+    "createdAt": "2025-08-01T14:04:54.000Z",
+    "publishDate": "2025-08-01T14:04:53.453Z",
+    "title": "华夏人寿被吊销业务许可证，原董事长、董秘被终身禁业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 22:04:54",
+    "uuid": "648cf04f-f013-4775-859d-d4f8e5d9e053"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "弘信电子控股子公司甘肃燧弘绿色算力有限公司与庆阳市人民政府拟签署投资框架协议，共建燧弘庆阳绿色智能数字基础设施项目 ...",
+    "id": "8lTKfc1aXrd",
+    "order": 1754057000780,
+    "createdAt": "2025-08-01T14:03:21.000Z",
+    "publishDate": "2025-08-01T14:03:20.780Z",
+    "title": "弘信电子：控股子公司拟对外投资 共建燧弘庆阳绿色智能数字基础设施项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 22:03:21",
+    "uuid": "337746e5-1d22-4c87-a665-ee42fafb5d47"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" }
@@ -182,6 +268,25 @@
     "up": false,
     "date": "2025-08-01 20:49:51",
     "uuid": "441f9052-c63d-49ba-8f90-f59af1eb4f89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美元兑日元汇率日内下跌超过1%，当前报149.23。",
+    "id": "8lT4xrqQR5M",
+    "order": 1754057523319,
+    "createdAt": "2025-08-01T12:45:03.000Z",
+    "publishDate": "2025-08-01T14:12:03.319Z",
+    "title": "美元兑日元USD/JPY日内跌超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 20:45:03",
+    "uuid": "c466c895-fa23-489e-bd42-ad946fb8f12c"
   },
   {
     "newsArray": [
