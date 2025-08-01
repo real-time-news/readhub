@@ -1,6 +1,168 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "乘龙卡车发布安全宣传海报，强调安全驾驶的重要性，提醒广大驾驶员规范行车，保障道路安全。",
+    "id": "8lSqf4vTn7W",
+    "order": 1754033193335,
+    "createdAt": "2025-08-01T07:26:34.000Z",
+    "publishDate": "2025-08-01T07:26:33.335Z",
+    "title": "乘龙卡车发布海报：安全不是空口无凭的理想",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 15:26:34",
+    "uuid": "973663b0-0323-4082-a623-2342b9e4ea5a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "贵州省印发方案提振消费，提出促进居民增收、实施就业稳岗计划、强化创业扶持、推广以工代赈方式扩大劳务报酬、提高城乡低保标准等措施。",
+    "id": "8lStW6pr4qw",
+    "order": 1754033182639,
+    "createdAt": "2025-08-01T07:24:07.000Z",
+    "publishDate": "2025-08-01T07:26:22.639Z",
+    "title": "贵州：实施新一轮居民增收行动方案，确保居民收入增长与经济增长基本同步",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 15:24:07",
+    "uuid": "d3a053d5-bfc8-4b98-a35c-c91ae931c99e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "岚图汽车7月交付12135辆，同比增长102%。",
+    "id": "8lSsptCB8I7",
+    "order": 1754032469521,
+    "createdAt": "2025-08-01T07:14:29.000Z",
+    "publishDate": "2025-08-01T07:14:29.521Z",
+    "title": "岚图汽车：7月交付12135辆，同比增长102%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 15:14:29",
+    "uuid": "95cb690b-f7a6-48ef-8219-c5385ce09091"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "福特汽车公司在美国召回312,120辆汽车。",
+    "id": "8lRDsk5zqCd",
+    "order": 1754032401080,
+    "createdAt": "2025-08-01T07:13:21.000Z",
+    "publishDate": "2025-08-01T07:13:21.080Z",
+    "title": "福特汽车公司在美召回超30万辆汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 15:13:21",
+    "uuid": "ab403193-536e-4c88-b357-d8b39a2c2918"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "A股三大指数集体收跌，沪指报3559.95点，深成指报10991.32点，创业板指报2322.63点，科创50指数跌1.06%。沪深两市成交额缩量至约15983.51亿元 ...",
+    "id": "8lSsnVtmcRn",
+    "order": 1754032386657,
+    "createdAt": "2025-08-01T07:13:06.000Z",
+    "publishDate": "2025-08-01T07:13:06.657Z",
+    "title": "A股收评：三大指数集体收跌，光伏设备板块走高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 15:13:06",
+    "uuid": "8847b94d-fe55-4601-9d6e-b10bd1576df5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "欧洲斯托克600指数跌幅扩大至0.5%，触及盘中低点。",
+    "id": "8lRjMTtD9oK",
+    "order": 1754031910943,
+    "createdAt": "2025-08-01T07:05:10.000Z",
+    "publishDate": "2025-08-01T07:05:10.943Z",
+    "title": "欧洲斯托克600指数跌0.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 15:05:10",
+    "uuid": "fae650f2-a3fb-4e06-9a6c-947a22d8372a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "英诺赛科午后股价一度涨超60%，因入选英伟达800V直流电源架构合作商名录，成为唯一入选的中国芯片企业 ...",
+    "id": "8lSs9tVgYB5",
+    "order": 1754031821423,
+    "createdAt": "2025-08-01T07:03:41.000Z",
+    "publishDate": "2025-08-01T07:03:41.423Z",
+    "title": "英诺赛科回应与英伟达合作：处于测试阶段，尚无实质订单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 15:03:41",
+    "uuid": "284603a8-eee4-4b14-ac34-fdd61df9b45b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中创新航科技集团股份有限公司收购江苏奥力威传感高科股份有限公司股权案获市场监管总局无条件批准。",
+    "id": "8lSrOt7o6nr",
+    "order": 1754031749941,
+    "createdAt": "2025-08-01T07:02:29.000Z",
+    "publishDate": "2025-08-01T07:02:29.941Z",
+    "title": "市场监管总局无条件批准中创新航收购苏奥传感股权案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 15:02:29",
+    "uuid": "0e128bc6-ca33-48f6-98eb-1e25a5572f65"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Manus上线Wide Research功能，支持同时调度百个以上智能体并行运行，用于处理复杂的大规模研究任务 ...",
+    "id": "8lSpExPUvax",
+    "order": 1754031730195,
+    "createdAt": "2025-08-01T06:52:43.000Z",
+    "publishDate": "2025-08-01T07:02:10.195Z",
+    "title": "Manus宣布上线Wide Research功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-01 14:52:43",
+    "uuid": "0b68a0a7-e560-4e4a-b867-06ca0d20a0ec"
+  },
+  {
+    "newsArray": [
       { "siteName": "白鲸出海" },
       { "siteName": "财联社" },
       { "siteName": "IT 之家" }
