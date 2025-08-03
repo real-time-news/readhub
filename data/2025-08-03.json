@@ -1,6 +1,97 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "铁路暑运自7月1日启动以来，累计发送旅客已超过4.6亿人次。",
+    "id": "8lVzTJPi0IJ",
+    "order": 1754194312028,
+    "createdAt": "2025-08-03T04:11:53.000Z",
+    "publishDate": "2025-08-03T04:11:52.028Z",
+    "title": "暑运过半 全国铁路累计发送旅客超4.6亿人次",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-03 12:11:53",
+    "uuid": "73c85405-f0a1-4a09-ae81-7533143d7dbe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "新疆巴音郭楞州轮台县8月3日11时03分发生3.0级地震，震源深度10千米。",
+    "id": "8lVwA9HxCtN",
+    "order": 1754193819175,
+    "createdAt": "2025-08-03T04:03:40.000Z",
+    "publishDate": "2025-08-03T04:03:39.175Z",
+    "title": "新疆巴音郭楞州轮台县发生3.0级地震",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-03 12:03:40",
+    "uuid": "e5ede24b-b70c-4d44-a254-fb36a40f34ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉餐厅开业12天来问题频发。开业首日，主打的“擎天柱”爆米花机器人出现故障，实际由人工远程操作，且需多人协助，反而降低效率 ...",
+    "id": "8lVjIKota32",
+    "order": 1754193089983,
+    "createdAt": "2025-08-03T03:51:30.000Z",
+    "publishDate": "2025-08-03T03:51:29.983Z",
+    "title": "特斯拉餐厅开业12天状况百出：排队长、运营乱",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-03 11:51:30",
+    "uuid": "c8897aa8-d04f-4da7-9bae-0642ebe2f00e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "特朗普威胁对进口药品征收高额关税，声称此举可降低药价并提升国家安全。然而，行业专家认为，受复杂供应链和高本土生产成本影响，该政策难以实现目标，反而增加医药行业不确定性 ...",
+    "id": "8lVxeNHKBDf",
+    "order": 1754192956132,
+    "createdAt": "2025-08-03T03:49:17.000Z",
+    "publishDate": "2025-08-03T03:49:16.132Z",
+    "title": "特朗普威胁对药品征高额关税 行业人士：“美国制造”未必实惠",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-03 11:49:17",
+    "uuid": "c05cf15a-092c-4c7d-9924-fad0c7ad5c19"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "广东将出现暴雨到大暴雨，局部特大暴雨，存在中小河流洪水、山洪、地质灾害和城乡内涝等风险。根据相关预案，广东省防汛防旱防风总指挥部决定于8月3日11时启动防汛四级应急响应。",
+    "id": "8lVvVyHe4AJ",
+    "order": 1754193713625,
+    "createdAt": "2025-08-03T03:42:11.000Z",
+    "publishDate": "2025-08-03T04:01:53.625Z",
+    "title": "发生中小河流洪水风险较大 广东省启动防汛四级应急响应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-03 11:42:11",
+    "uuid": "7bb873a7-fdf4-408a-abd7-da79de6da41f"
+  },
+  {
+    "newsArray": [
       { "siteName": "创业邦" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
