@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "OpenAI 于近日宣布，ChatGPT 的周活跃用户数已达到 7 亿，较此前 5 亿用户增长显著，用户量同比激增逾 4 倍 ...",
+    "id": "8lYPnZI39EX",
+    "order": 1754321081817,
+    "createdAt": "2025-08-04T15:23:09.000Z",
+    "publishDate": "2025-08-04T15:24:41.817Z",
+    "title": "OpenAI旗下ChatGPT周活跃用户将达7亿，较去年增长4倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-04 23:23:09",
+    "uuid": "7b0890cf-1ae1-4382-82f6-9b830fc04c01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "美国天然气期货日内下跌3%，当前价格为2.990美元/百万英热。",
+    "id": "8lYLWfOEmQ5",
+    "order": 1754321082521,
+    "createdAt": "2025-08-04T15:11:21.000Z",
+    "publishDate": "2025-08-04T15:24:42.521Z",
+    "title": "美国天然气期货日内下跌3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-04 23:11:21",
+    "uuid": "fc55dced-7014-4686-a4aa-26baa9cc9434"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "AMZ123" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Android Studio正式推出免费的Agent模式，基于Gemini 2.5 Pro的AI辅助功能，通过自然语言交互帮助开发者完成复杂开发任务，显著提升开发效率，被视为对苹果开发生态的有力挑战。",
+    "id": "8lXnF768ebo",
+    "order": 1754319781972,
+    "createdAt": "2025-08-04T15:03:01.000Z",
+    "publishDate": "2025-08-04T15:03:01.972Z",
+    "title": "谷歌Android Studio推出免费Agent模式",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-04 23:03:01",
+    "uuid": "9ecfb642-d75f-45f7-811e-b0612b94428b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
@@ -440,6 +493,24 @@
     "up": false,
     "date": "2025-08-04 21:10:20",
     "uuid": "4994d44d-0f5d-44a6-bbab-ffbf50f0e376"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "比亚迪方程豹钛 3 上市后首次 OTA 推送，新增与优化天神之眼 C-辅助驾驶三目版、DiLink 智能座舱及灵莺・比亚迪智能车载无人机系统功能 ...",
+    "id": "8lYBp4rPH6l",
+    "order": 1754320857051,
+    "createdAt": "2025-08-04T13:09:20.000Z",
+    "publishDate": "2025-08-04T15:20:57.051Z",
+    "title": "比亚迪方程豹钛 3 上市后首次 OTA，支持无人机动态起降",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-04 21:09:20",
+    "uuid": "d7f2ee25-d958-4d46-8f70-7f108e24f1f7"
   },
   {
     "newsArray": [
