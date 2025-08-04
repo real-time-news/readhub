@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "人工智能训练数据存在污染问题，可能包含虚假信息、虚构内容和偏见性观点，影响模型准确性，甚至导致有害输出 ...",
+    "id": "8lYwgmQRE3z",
+    "order": 1754350409570,
+    "createdAt": "2025-08-04T23:33:29.000Z",
+    "publishDate": "2025-08-04T23:33:29.570Z",
+    "title": "官方提醒警惕AI“数据投毒” 0.01%虚假训练文本可致有害内容增加11.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 07:33:29",
+    "uuid": "fefa9915-94c9-43a0-bec1-e409a60d7dbc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国最大页岩油企业之一Diamondback Energy表示，未来几个月全球原油供应将大幅增加，公司计划削减资本支出、下调产量指引，并推迟部分作业 ...",
+    "id": "8lYvyAOF2SL",
+    "order": 1754350343322,
+    "createdAt": "2025-08-04T23:32:23.000Z",
+    "publishDate": "2025-08-04T23:32:23.322Z",
+    "title": "页岩油巨头警告供给过剩 将削减支出并暂停增产计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 07:32:23",
+    "uuid": "1c366bef-ecdf-43ad-bf95-1a1c12351aa7"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -15,6 +49,45 @@
     "up": false,
     "date": "2025-08-05 07:15:49",
     "uuid": "bfc62b20-43b9-47bf-9057-67eee979ec18"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2025年7月，全国新开通20条国际航空货运航线，全年累计新开137条，每周增加往返航班超274个。航线以亚洲和欧洲为主，分别占65条和52条 ...",
+    "id": "8lYwgnDpQhE",
+    "order": 1754349541396,
+    "createdAt": "2025-08-04T23:14:34.000Z",
+    "publishDate": "2025-08-04T23:19:01.396Z",
+    "title": "7月全国新开国际航空货运航线20条",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 07:14:34",
+    "uuid": "c8292b0b-8fc9-4676-8cbc-4a9dca046512"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "谷歌与美国两家电力公司达成协议，在电网用电需求激增时，将减少其人工智能数据中心的电力消耗。此举旨在应对AI数据中心用电量迅速增长带来的电力供应紧张问题 ...",
+    "id": "8lYw1rpWW45",
+    "order": 1754349397015,
+    "createdAt": "2025-08-04T23:12:29.000Z",
+    "publishDate": "2025-08-04T23:16:37.015Z",
+    "title": "谷歌与电力公司签署协议 高峰期将削减AI数据中心用电",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 07:12:29",
+    "uuid": "906442f8-bc2d-4bbb-8baf-9c5fd0617037"
   },
   {
     "newsArray": [
@@ -106,6 +179,25 @@
     "up": false,
     "date": "2025-08-05 01:52:09",
     "uuid": "4c9a971b-bdce-4dbc-bed5-f84ef5ac4fc9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "亚马逊对旗下Wondery播客工作室进行重组，将叙事类播客转移至Audible平台，同时将创作者主导的节目整合至新成立的创作者服务组 ...",
+    "id": "8lYHwc6p9IC",
+    "order": 1754349549436,
+    "createdAt": "2025-08-04T16:52:28.000Z",
+    "publishDate": "2025-08-04T23:19:09.436Z",
+    "title": "亚马逊对Wondery播客工作室进行重组，裁员 110 人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 00:52:28",
+    "uuid": "13f0523f-5dc6-49e9-9c4d-c4f9c7e1901b"
   },
   {
     "newsArray": [
