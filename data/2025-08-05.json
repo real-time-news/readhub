@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "欧洲主要股指涨跌互现，德国DAX30指数上涨0.33%，英国富时100指数微涨0.10%，法国CAC40指数下跌0.14%，欧洲斯托克50指数上涨0.12%。",
+    "id": "8la6rr7RpzE",
+    "order": 1754408543725,
+    "createdAt": "2025-08-05T15:42:23.000Z",
+    "publishDate": "2025-08-05T15:42:23.725Z",
+    "title": "欧洲主要股指收盘涨跌互现",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 23:42:23",
+    "uuid": "aab6a5f6-70c6-4f85-aa9a-dac3f5c26f95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "人工智能初创公司被指控在抓取网站内容时无视阻止指令，通过更改用户代理和网络标识绕过限制。Cloudflare 表示已识别其爬虫行为并采取措施阻止，同时推出市场允许网站向 AI 爬虫收费 ...",
+    "id": "8lZ8s7jH8Id",
+    "order": 1754408486634,
+    "createdAt": "2025-08-05T15:41:26.000Z",
+    "publishDate": "2025-08-05T15:41:26.634Z",
+    "title": "​Perplexity 被指控秘密抓取被禁止的网站内容",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 23:41:26",
+    "uuid": "2ef57076-c2c0-490a-a8e9-a637d5d67541"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
