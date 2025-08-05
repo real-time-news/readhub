@@ -1,6 +1,149 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "中证网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "A股三大指数早盘震荡分化，沪指重回3600点，上证指数涨0.53%，深证成指涨0.14%，创业板指跌0.26% ...",
+    "id": "8lZHPeLJhqO",
+    "order": 1754365392642,
+    "createdAt": "2025-08-05T03:43:12.000Z",
+    "publishDate": "2025-08-05T03:43:12.642Z",
+    "title": "午评：沪指涨0.53% PEEK材料、银行板块走强",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 11:43:12",
+    "uuid": "813dc287-4bae-4490-8bcd-d0d045b3d9a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "7月私募证券产品备案数量达1298只，环比增长18%，创27个月以来新高。今年前7个月备案总数达6759只，同比增长61.39%。",
+    "id": "8lZGhinH3II",
+    "order": 1754365337986,
+    "createdAt": "2025-08-05T03:42:18.000Z",
+    "publishDate": "2025-08-05T03:42:17.986Z",
+    "title": "7月备案私募产品数量创近27个月新高 股票策略产品占主导",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 11:42:18",
+    "uuid": "77fa9811-8487-4435-87dc-64fbd6e5388d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌安全团队开发的大语言模型漏洞研究工具“Big Sleep”在多种开源软件中发现了20个漏洞，主要涉及FFmpeg和ImageMagick等项目 ...",
+    "id": "8lZ6j6aooWg",
+    "order": 1754365093639,
+    "createdAt": "2025-08-05T03:38:14.000Z",
+    "publishDate": "2025-08-05T03:38:13.639Z",
+    "title": "谷歌称其基于 AI 开发的漏洞猎手“Big Sleep”已报告 20 个安全漏洞",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 11:38:14",
+    "uuid": "2550eb84-05a2-405b-9131-e2d8f8da11a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "北京市防汛指挥部8月5日提示，密云区全域及顺义、通州潮白河干流维持防汛一级应急响应，延庆、怀柔、平谷全域及部分区域的永定河河道降为三级响应，其他区域解除应急响应。",
+    "id": "8lZGic8loky",
+    "order": 1754364975601,
+    "createdAt": "2025-08-05T03:36:15.000Z",
+    "publishDate": "2025-08-05T03:36:15.601Z",
+    "title": "北京防汛应急响应调整：密云等区域仍维持一级，部分区域降为三级或解除",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 11:36:15",
+    "uuid": "feca55a0-57fa-4876-bc8f-d25153d905f7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "滔搏近日宣布大数据平台迁移至阿里云，并接入通义千问以提升零售和电商业务运营效率。作为国内最大的运动零售运营商，滔搏与多家知名运动品牌合作，拥有数千家直营门店和超8600万用户 ...",
+    "id": "8lXdGESeSkN",
+    "order": 1754364950838,
+    "createdAt": "2025-08-05T03:35:51.000Z",
+    "publishDate": "2025-08-05T03:35:50.838Z",
+    "title": "滔搏大数据平台迁移至阿里云 电商业务接入通义千问",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 11:35:51",
+    "uuid": "94e72118-e554-4b99-81c0-2796f0c9dae1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "台积电近日开除多名涉嫌违规获取2纳米芯片技术关键信息的前员工，并已启动法律程序。公司表示，在例行监控中发现未经授权活动，可能导致商业机密泄露，目前案件已进入司法审查阶段，调查仍在进行中 ...",
+    "id": "8lZDpEOpf4O",
+    "order": 1754364933839,
+    "createdAt": "2025-08-05T03:35:34.000Z",
+    "publishDate": "2025-08-05T03:35:33.839Z",
+    "title": "违规获取2纳米芯片信息，台积电开除多名员工",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 11:35:34",
+    "uuid": "4cc99141-9a50-4fc4-8b2a-ff6c49949fce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "开盘半小时沪深两市成交额超5000亿，较前日同期缩量140亿，预计全天成交约1.6万亿。",
+    "id": "8lXW5sOhQRU",
+    "order": 1754364773678,
+    "createdAt": "2025-08-05T03:32:53.000Z",
+    "publishDate": "2025-08-05T03:32:53.678Z",
+    "title": "开盘半小时两市缩量超140亿 预计全天成交近1.6万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 11:32:53",
+    "uuid": "25aaa772-09f7-464b-b0fd-cdb817ba74c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "有关部门通报2025年第四批次共23款存在侵害用户权益行为的移动应用程序及SDK，强调将持续推进个人信息保护工作 ...",
+    "id": "8lY2FPkTueV",
+    "order": 1754364395287,
+    "createdAt": "2025-08-05T03:26:35.000Z",
+    "publishDate": "2025-08-05T03:26:35.287Z",
+    "title": "2025年第四批次通报：23款APP及SDK涉嫌侵害用户权益",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 11:26:35",
+    "uuid": "22b32ba0-2985-471f-972c-e31dd465f2c9"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -92,6 +235,24 @@
     "up": false,
     "date": "2025-08-05 09:49:15",
     "uuid": "5424d439-060e-43ee-8275-0072a2c702ad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "第四范式与北京海博思创科技成立合资公司，主要从事电力交易方向的AI技术服务，第四范式持有合资公司19%股权。",
+    "id": "8lYONoOaJgi",
+    "order": 1754365447539,
+    "createdAt": "2025-08-05T01:45:42.000Z",
+    "publishDate": "2025-08-05T03:44:07.539Z",
+    "title": "第四范式：公司与海博思创成立合资公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 09:45:42",
+    "uuid": "6f19b238-2cc8-4e60-bb9e-3cf19dfe6eb4"
   },
   {
     "newsArray": [
@@ -486,6 +647,24 @@
     "up": false,
     "date": "2025-08-05 00:09:05",
     "uuid": "fd4e6c9c-49cb-4f1d-8704-8f6755679fa5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "中国东方航空近日升级京沪“空中快线”服务，推出“易登机”免费改签政策，延长改签窗口至航班当日起飞前，扩大可选航班范围，并提供免手续费改签 ...",
+    "id": "8lY5p7XUQzk",
+    "order": 1754364400370,
+    "createdAt": "2025-08-04T16:03:24.000Z",
+    "publishDate": "2025-08-05T03:26:40.370Z",
+    "title": "随到随走Wi-Fi免费 东航升级京沪空中快线服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 00:03:24",
+    "uuid": "14e44862-2272-4c7a-80cb-971709c2d7b5"
   },
   {
     "newsArray": [
