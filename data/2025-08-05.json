@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "AI初创公司Perplexity被指控在网站明确禁止AI抓取的情况下，仍通过更改身份标识等方式绕过拦截规则进行大规模内容抓取 ...",
+    "id": "8lZ8Bg6zpc2",
+    "order": 1754402721520,
+    "createdAt": "2025-08-05T14:05:21.000Z",
+    "publishDate": "2025-08-05T14:05:21.520Z",
+    "title": "Cloudflare 称 Perplexity 绕过限制，抓取明令禁止 AI 抓取的网站",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 22:05:21",
+    "uuid": "7facacda-a685-4ce6-adf3-5e0fc80761bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电动邦" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "北汽极狐宣布极狐T1首批量产车下线，新车将于8月下旬开启预售。",
+    "id": "8lXVLKgsJoC",
+    "order": 1754402651855,
+    "createdAt": "2025-08-05T14:04:11.000Z",
+    "publishDate": "2025-08-05T14:04:11.855Z",
+    "title": "极狐T1车型将于8月下旬开启预售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 22:04:11",
+    "uuid": "594fb987-ac3d-4d29-9fc6-1760776008e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "两名中国公民在印尼巴厘岛快艇倾覆事故中遇难。",
+    "id": "8lZzl7dbrzT",
+    "order": 1754402609459,
+    "createdAt": "2025-08-05T14:03:29.000Z",
+    "publishDate": "2025-08-05T14:03:29.459Z",
+    "title": "2名中国公民在巴厘岛快艇倾覆事故中遇难",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 22:03:29",
+    "uuid": "f11bab1c-e657-4146-97cf-2f5d2b3cee7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "爱施德拟通过全资子公司以1.02亿元人民币收购共青城爱耀投资合伙企业持有的共青城爱施德创新投资合伙企业13.6365%的出资份额 ...",
+    "id": "8lZyzZVAXjX",
+    "order": 1754402600716,
+    "createdAt": "2025-08-05T14:03:20.000Z",
+    "publishDate": "2025-08-05T14:03:20.716Z",
+    "title": "爱施德：拟1.02亿元收购共青城爱施德创新13.6365%出资份额",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-05 22:03:20",
+    "uuid": "7aac8715-b1ed-4999-a45b-bd70bc8ad7c7"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" }
