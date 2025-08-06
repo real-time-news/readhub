@@ -1,6 +1,130 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软曾使用“周年更新”“秋季创意更新”等季节相关的名称来命名Windows版本，但这种方式存在北半球偏见，对南半球用户不够友好 ...",
+    "id": "8lajS1s25Gv",
+    "order": 1754463343130,
+    "createdAt": "2025-08-06T06:55:44.000Z",
+    "publishDate": "2025-08-06T06:55:43.130Z",
+    "title": "微软官方揭秘：放弃Windows“秋/春创意更新”等命名真实原因",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 14:55:44",
+    "uuid": "55037d4c-07ef-4346-ad7a-05fee3c6b097"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "腾讯2026校园招聘正式启动，面向2025年1月至2026年12月毕业的大学生，开放技术、产品、设计、市场和职能五大类共70余种岗位。",
+    "id": "8lb8VnwMB3Y",
+    "order": 1754463145746,
+    "createdAt": "2025-08-06T06:52:25.000Z",
+    "publishDate": "2025-08-06T06:52:25.746Z",
+    "title": "腾讯2026校园招聘正式启动，将开放70余种岗位",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 14:52:25",
+    "uuid": "b4bff70b-c295-4199-91c3-13eebcfb2519"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "本田汽车上调全年经营利润预期至7000亿日元，但仍低于市场预期的8962.4亿日元。公司第一季度经营利润为2441.7亿日元，低于预估的3096.5亿日元。",
+    "id": "8lb9EYxkwkW",
+    "order": 1754463128430,
+    "createdAt": "2025-08-06T06:52:08.000Z",
+    "publishDate": "2025-08-06T06:52:08.430Z",
+    "title": "本田汽车提高全年经营利润预期至7000亿日元 仍低于市场预估",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 14:52:08",
+    "uuid": "70579b4a-a0ab-4fd2-99c1-58268965d96d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "商汤“日日新”大模型交互平台已接入小米 AI 眼镜，实现“看、说、记、想”一体化，具备全双工实时音视频交互能力 ...",
+    "id": "8lb7mVSHFPB",
+    "order": 1754462793931,
+    "createdAt": "2025-08-06T06:46:33.000Z",
+    "publishDate": "2025-08-06T06:46:33.931Z",
+    "title": "商汤“日日新”大模型交互平台已接入小米 AI 眼镜",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 14:46:33",
+    "uuid": "f5c06e01-99ff-46fe-8726-9aa44800c8c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "界面" }
+    ],
+    "summary": "抖音集团旗下江西笔绘墨影科技有限公司近日投资成立了江西纸间跃迁科技有限公司，注册资本为100万元人民币，法定代表人为姚康睿 ...",
+    "id": "8lb6QF2Dsoc",
+    "order": 1754462714875,
+    "createdAt": "2025-08-06T06:45:15.000Z",
+    "publishDate": "2025-08-06T06:45:14.875Z",
+    "title": "江西纸间跃迁科技有限公司成立，含电视剧制作业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 14:45:15",
+    "uuid": "138e55ba-792e-4276-b788-c86751aa828d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "香港精品投行思博控股向美国证券交易委员会提交IPO申请，计划最多募资700万美元 ...",
+    "id": "8lb8Vvzear3",
+    "order": 1754462704076,
+    "createdAt": "2025-08-06T06:45:04.000Z",
+    "publishDate": "2025-08-06T06:45:04.076Z",
+    "title": "香港精品投行思博控股递交美股IPO申请 拟募资700万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 14:45:04",
+    "uuid": "9c6dbba7-78db-4f9f-a3ff-4a8c1b0900ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "市场监管总局发布新版《委托合同（示范文本）》，新增使用说明和特别提示，细化合同条款，明确知识产权归属和保密要求，旨在减少交易纠纷，保障双方权益。",
+    "id": "8lb8WbHRDrK",
+    "order": 1754463170141,
+    "createdAt": "2025-08-06T06:44:43.000Z",
+    "publishDate": "2025-08-06T06:52:50.141Z",
+    "title": "新版《委托合同（示范文本）》发布，新增知识产权归属和保密条款",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 14:44:43",
+    "uuid": "092bf562-fc0b-4be0-92d4-b561e5922c1f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "微博" },
       { "siteName": "微博" }
@@ -50,6 +174,26 @@
     "up": false,
     "date": "2025-08-06 14:13:13",
     "uuid": "8ce61478-84c8-4fe3-bb09-e1a6e2e3d2fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "日本6月实际工资同比下降1.3%，连续第六个月下滑。尽管名义工资上涨2.5%，但受食品价格等因素影响，消费者价格指数上升3.8%，导致实际工资仍处于负增长区间。",
+    "id": "8lai476RvuL",
+    "order": 1754463307298,
+    "createdAt": "2025-08-06T06:12:52.000Z",
+    "publishDate": "2025-08-06T06:55:07.298Z",
+    "title": "受通胀影响 日本6月份实际工资下降1.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 14:12:52",
+    "uuid": "cb046149-721a-4509-bfc3-f6b4ece9673a"
   },
   {
     "newsArray": [
@@ -104,6 +248,25 @@
     "up": false,
     "date": "2025-08-06 13:44:46",
     "uuid": "ada4ebcd-da83-4c01-b623-53022af68c1c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "拜耳2025年第二季度销售额为107.39亿欧元，同比下降，净亏损1.99亿欧元，同比扩大，每股亏损0.2欧元。",
+    "id": "8lb4uTfdCmJ",
+    "order": 1754463496466,
+    "createdAt": "2025-08-06T05:43:43.000Z",
+    "publishDate": "2025-08-06T06:58:16.466Z",
+    "title": "拜耳第二季度销售额107.39亿欧元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 13:43:43",
+    "uuid": "104d93b2-e05e-4fd4-9e54-408c6963d9a9"
   },
   {
     "newsArray": [
@@ -739,6 +902,28 @@
     "up": false,
     "date": "2025-08-06 10:25:07",
     "uuid": "4e94d116-d5d2-4422-8d48-5c60e5027298"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "贵州省市场监管局约谈多家涉旅平台企业，要求其严格遵守价格相关法律法规，制止价格乱象，维护公平有序的市场环境 ...",
+    "id": "8lapE1vC5LK",
+    "order": 1754463585391,
+    "createdAt": "2025-08-06T02:23:38.000Z",
+    "publishDate": "2025-08-06T06:59:45.391Z",
+    "title": "携程、同程、抖音、美团、飞猪，被约谈",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-06 10:23:38",
+    "uuid": "459daef3-f566-41ca-9359-919bc5b7bb28"
   },
   {
     "newsArray": [
