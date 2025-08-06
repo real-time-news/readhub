@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "智源社区" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI 推出两款基于 Apache 2.0 许可证的 gpt-oss 系列开放推理模型，分别为可在 16GB 内存设备运行的 gpt-oss-20b 和需单个 80GB GPU 的 gpt-oss-120b ...",
+    "id": "8lb7NadFoYc",
+    "order": 1754508495484,
+    "createdAt": "2025-08-06T19:02:41.000Z",
+    "publishDate": "2025-08-06T19:28:15.484Z",
+    "title": "AMD、高通宣布旗下硬件支持 OpenAI gpt-oss 开放推理模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-07 03:02:41",
+    "uuid": "dd04c0f8-56cb-4096-87b6-3ce970bcadae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI 宣布将以 1 美元的价格在未来一年向美国联邦机构提供 ChatGPT Enterprise 产品，让政府工作人员几乎免费使用其技术 ...",
+    "id": "8lbiB2hZAy9",
+    "order": 1754508509838,
+    "createdAt": "2025-08-06T16:42:21.000Z",
+    "publishDate": "2025-08-06T19:28:29.838Z",
+    "title": "OpenAI以1美元价格向美国政府提供ChatGPT",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-07 00:42:21",
+    "uuid": "55f7c9a4-bd00-401b-a196-a9bf33fc6cd7"
+  },
+  {
+    "newsArray": [
       { "siteName": "医药魔方" },
       { "siteName": "第一财经" },
       { "siteName": "36Kr" }
