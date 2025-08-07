@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "极客公园" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "GPT-5 正式发布，其在文本、WebDev 和视觉感知等多个领域表现卓越，全面提升了模型能力 ...",
+    "id": "8ldaI7EDRvB",
+    "order": 1754598728654,
+    "createdAt": "2025-08-07T19:19:36.000Z",
+    "publishDate": "2025-08-07T20:32:08.654Z",
+    "title": "OpenAI 发布 GPT-5",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-08 03:19:36",
+    "uuid": "ff7381a4-7585-4e87-9b9a-97eda0d76403"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "花旗集团任命摩根大通前高管Guillermo Baygual担任并购业务联席主管，与此前加入的Drago Rajkovic共同领导该业务 ...",
+    "id": "8ldSCUOZ8pt",
+    "order": 1754598736471,
+    "createdAt": "2025-08-07T18:51:53.000Z",
+    "publishDate": "2025-08-07T20:32:16.471Z",
+    "title": "花旗集团再从摩根大通挖角 Baygual将出任并购业务联席主管",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-08 02:51:53",
+    "uuid": "ddc50147-1b45-441e-b83b-c7cf9a4dcc55"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "新浪科技" },
