@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "香港上线RWA注册登记平台，推动资产代币化服务体系建设。同日启动《RWA代币化业务指南》《RWA代币化技术规范》《基于区块链的稳定币跨境支付技术规范》三项Web3.0标准制定工作。",
+    "id": "8lct4ZNiRmE",
+    "order": 1754553225486,
+    "createdAt": "2025-08-07T07:53:45.000Z",
+    "publishDate": "2025-08-07T07:53:45.486Z",
+    "title": "RWA注册登记平台正式在香港上线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-07 15:53:45",
+    "uuid": "477d2b0b-9e7a-4f8c-ad8f-6380d4f50449"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "安全研究人员在 OpenAI 的 Connectors 功能中发现了一个漏洞，攻击者可利用该漏洞通过间接提示注入攻击，无需用户交互即可从 Google Drive 中提取敏感信息 ...",
+    "id": "8lckqv5l5RP",
+    "order": 1754553195074,
+    "createdAt": "2025-08-07T07:53:15.000Z",
+    "publishDate": "2025-08-07T07:53:15.074Z",
+    "title": "ChatGPT 连接器漏洞曝光：无需用户交互，可“毒化文档”窃取敏感数据",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-07 15:53:15",
+    "uuid": "6b223932-fa67-478a-b8de-85bfb04f477f"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" }
