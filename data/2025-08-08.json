@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "摘要：中央气象台继续发布暴雨蓝色预警，预计8月7日20时至8日20时，内蒙古、山西、河北、宁夏、青海、江苏、安徽、河南、陕西、四川、西藏等地部分地区将有大到暴雨，其中江苏中部等地将有大暴雨，并伴有短时强降水和雷暴大风等强对流天气。",
+    "id": "8ld44vfYI4r",
+    "order": 1754605392503,
+    "createdAt": "2025-08-07T22:23:12.000Z",
+    "publishDate": "2025-08-07T22:23:12.503Z",
+    "title": "中央气象台继续发布暴雨蓝色预警",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-08 06:23:12",
+    "uuid": "2af70331-1305-46a6-a0dc-d83bf513ba21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OPPO ColorOS设计总监陈希否认了关于ColorOS 16系统将采用3D玻璃立体风格的传言，称相关图片为“艺术化”表现，与实际界面无关，并表示系统图标风格早已确定 ...",
+    "id": "8ldKaWRnpKP",
+    "order": 1754605364912,
+    "createdAt": "2025-08-07T22:22:45.000Z",
+    "publishDate": "2025-08-07T22:22:44.912Z",
+    "title": "OPPO陈希否认ColorOS 16系统采用3D玻璃立体风格",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-08 06:22:45",
+    "uuid": "1e190376-3ef5-4d37-b719-4467f677610f"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
