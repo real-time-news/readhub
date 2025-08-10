@@ -1,6 +1,173 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "WinRAR 被发现存在高危漏洞 CVE-2025-8088，影响 7.13 之前的所有版本，可能导致攻击者通过目录遍历将恶意文件写入系统关键区域，特别是 Windows 启动目录，从而实现自动运行 ...",
+    "id": "8lfvNX77gep",
+    "order": 1754794188209,
+    "createdAt": "2025-08-10T02:49:48.000Z",
+    "publishDate": "2025-08-10T02:49:48.209Z",
+    "title": "WinRAR紧急更新：修复高危漏洞CVE-2025-8088，防范系统风险",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 10:49:48",
+    "uuid": "46309ffc-04e4-4d35-8bb6-be75fd38f4f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "湖北脑机接口产业创新发展联盟在光谷成立，汇聚医院、企业和高校资源，构建覆盖基础研究到产业应用的全链条生态，推动技术融合与资源共享，加速创新成果落地。",
+    "id": "8lhUGVOHlA5",
+    "order": 1754793218532,
+    "createdAt": "2025-08-10T02:33:39.000Z",
+    "publishDate": "2025-08-10T02:33:38.532Z",
+    "title": "湖北脑机接口产业创新发展联盟在光谷成立",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 10:33:39",
+    "uuid": "800f8be9-3c8c-439a-beb1-c9f13bb6520b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "受强对流天气影响，预计8月10日14时至11日14时，内蒙古中东部、华北北部、西南地区东部等地将出现8级以上雷暴大风或冰雹，其中部分地区风力可达10级以上，并伴有短时强降水，小时雨量普遍大于20毫米，局部地区可达50毫米以上，最大可达80毫米。",
+    "id": "8lhHNNYayuP",
+    "order": 1754793188468,
+    "createdAt": "2025-08-10T02:33:09.000Z",
+    "publishDate": "2025-08-10T02:33:08.468Z",
+    "title": "强对流天气蓝色预警：湖北重庆等地部分地区有10级以上雷暴大风",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 10:33:09",
+    "uuid": "616bf9b4-659e-4eaa-a6ce-ac15bc423a90"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "芯上微装科技股份有限公司宣布成功交付第500台步进光刻机，标志着我国高端半导体装备产业迈入新阶段 ...",
+    "id": "8lhKHzvf3uZ",
+    "order": 1754793123931,
+    "createdAt": "2025-08-10T02:32:04.000Z",
+    "publishDate": "2025-08-10T02:32:03.931Z",
+    "title": "成立仅半年 上海芯上微装第500台步进光刻机交付",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 10:32:04",
+    "uuid": "adeca5b5-e994-4301-a4ef-80b20ea3ea96"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2024年全球工业机器人新装机量下降3%，但中国市场逆势增长5%，占全球份额达54%。中国连续12年保持全球最大工业机器人市场，2024年销量达30.2万套 ...",
+    "id": "8lgAAP3BgUj",
+    "order": 1754791952399,
+    "createdAt": "2025-08-10T02:12:32.000Z",
+    "publishDate": "2025-08-10T02:12:32.399Z",
+    "title": "全球工业机器人市场遇冷，中国逆势增长成最大亮点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 10:12:32",
+    "uuid": "6f648aa4-7697-4f2e-b9b4-36a28977fa41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "居住在美国南加州的劳伦斯・克莱因向圣地亚哥高等法院提起诉讼，反对微软于2025年10月14日停止对Windows 10的支持 ...",
+    "id": "8lhMhNWmf8h",
+    "order": 1754790225081,
+    "createdAt": "2025-08-10T01:43:45.000Z",
+    "publishDate": "2025-08-10T01:43:45.081Z",
+    "title": "美国一用户起诉微软：称其停止支持 Win10 是为了强迫用户购买新设备",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 09:43:45",
+    "uuid": "3317e7af-a2a6-4807-b895-2f20bbddaafa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "2025世界机器人大会在北京经济技术开发区举办，会上宣布启动具身智能社会实验计划，将打造全域人机协同、产研共融的实训场，推动具身智能机器人广泛应用 ...",
+    "id": "8lhQofSd3D7",
+    "order": 1754790138729,
+    "createdAt": "2025-08-10T01:42:18.000Z",
+    "publishDate": "2025-08-10T01:42:18.729Z",
+    "title": "北京亦庄启动具身智能社会实验计划，首批20个实训场将于本月开放",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 09:42:18",
+    "uuid": "50ddc397-7f2a-4512-a446-8b5e41db5c2a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "温氏食品集团50亿元小公募债项目获深交所受理，拟用于补充流动资金、项目建设、偿还债务等用途。",
+    "id": "8lhPxlroZwy",
+    "order": 1754790116256,
+    "createdAt": "2025-08-10T01:41:56.000Z",
+    "publishDate": "2025-08-10T01:41:56.256Z",
+    "title": "温氏股份50亿元小公募债项目获深交所受理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 09:41:56",
+    "uuid": "9c986d35-8a0e-47c0-9927-b1fc077faf9f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "乌克兰无人机袭击俄罗斯萨拉托夫州，导致当地一处工业设施受损。",
+    "id": "8lhPCqxhzI4",
+    "order": 1754789645306,
+    "createdAt": "2025-08-10T01:34:05.000Z",
+    "publishDate": "2025-08-10T01:34:05.306Z",
+    "title": "俄一处工业设施因乌克兰无人机袭击受损",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 09:34:05",
+    "uuid": "f3ad83e3-7276-42dc-aba5-5c12b7254a26"
+  },
+  {
+    "newsArray": [
       { "siteName": "科学网" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -203,6 +370,29 @@
     "up": false,
     "date": "2025-08-10 08:25:13",
     "uuid": "80a32899-7648-41e2-b703-fbee9ab5e476"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中国科技网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "8月9日至11日，四川、重庆、安徽、河南中部南部、湖北东部、甘肃南部、陕西南部等地将出现大到暴雨，局地大暴雨，导致部分河流出现明显涨水，中小河流可能发生超警洪水 ...",
+    "id": "8lglxSjJgSL",
+    "order": 1754793221789,
+    "createdAt": "2025-08-10T00:11:57.000Z",
+    "publishDate": "2025-08-10T02:33:41.789Z",
+    "title": "水利部针对5省市启动洪水防御Ⅳ级应急响应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-10 08:11:57",
+    "uuid": "e74c679d-0f35-40d2-8367-e3b111c023bb"
   },
   {
     "newsArray": [
