@@ -1,6 +1,174 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "商务部于2025年8月12日对原产于加拿大的进口豌豆淀粉启动反倾销调查，倾销调查期为2024年1月1日至2024年12月31日，产业损害调查期为2021年1月1日至2024年12月31日。",
+    "id": "8ll8mRcUl7B",
+    "order": 1754983148342,
+    "createdAt": "2025-08-12T07:19:09.000Z",
+    "publishDate": "2025-08-12T07:19:08.342Z",
+    "title": "商务部：对原产于加拿大的进口豌豆淀粉发起反倾销立案调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 15:19:09",
+    "uuid": "e774f2cd-144c-40e7-b1b8-1cddeaa896e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "奥比中光与地平线及其控股子公司地瓜机器人在北京签订合作协议，双方将在机器人智能化领域展开深度合作，发挥各自技术与产品优势，共同推动机器人产业的技术创新与落地应用。",
+    "id": "8ljMkzN44Fz",
+    "order": 1754983125794,
+    "createdAt": "2025-08-12T07:18:45.000Z",
+    "publishDate": "2025-08-12T07:18:45.794Z",
+    "title": "奥比中光与地平线、地瓜机器人达成战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 15:18:45",
+    "uuid": "24ea2655-2483-4a2d-8337-27b2e0177a4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "AMZ123" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI CEO 萨姆·奥尔特曼近日公布了GPT-5发布后的算力优先分配方案，重点保障现有付费用户和API客户的服务需求，同时逐步提升免费版ChatGPT的质量，并谨慎扩展新API支持 ...",
+    "id": "8lkkTuor2oZ",
+    "order": 1754982977479,
+    "createdAt": "2025-08-12T07:16:17.000Z",
+    "publishDate": "2025-08-12T07:16:17.479Z",
+    "title": "OpenAI 调整算力分配策略，加速全球超算中心扩建",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 15:16:17",
+    "uuid": "5bf71381-3ae3-43a3-a841-fee1f5c667ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "大连重工下属传动公司成功完成66台7.5兆瓦前集成传动链的样机试制，并实现首批10台的批量出产 ...",
+    "id": "8ll85sm0qIL",
+    "order": 1754982908467,
+    "createdAt": "2025-08-12T07:15:08.000Z",
+    "publishDate": "2025-08-12T07:15:08.467Z",
+    "title": "大连重工7.5兆瓦前集成传动链实现批量出产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 15:15:08",
+    "uuid": "8bde3a3c-b8b4-44a3-9d28-e1f54dd1bc32"
+  },
+  {
+    "newsArray": [
+      { "siteName": "蓝点网" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "安全研究人员发现 Chrome 浏览器一个高危“沙盒逃逸”漏洞，该漏洞存在于浏览器渲染器进程中，由于 IPCZ 通信系统问题，攻击者可重复获取浏览器进程句柄，突破沙盒限制 ...",
+    "id": "8lkrw4W4bKP",
+    "order": 1754982866237,
+    "createdAt": "2025-08-12T07:14:26.000Z",
+    "publishDate": "2025-08-12T07:14:26.237Z",
+    "title": "Chrome高危漏洞发现者获25万美元奖励",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 15:14:26",
+    "uuid": "1d6a2058-e17d-41ad-92a7-376b4155b974"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "A股三大指数集体上涨，沪指涨0.5%实现七连阳，再创年内新高。深成指和创业板指分别上涨0.53%和1.24% ...",
+    "id": "8ll8Tnhd7gQ",
+    "order": 1754982717778,
+    "createdAt": "2025-08-12T07:11:58.000Z",
+    "publishDate": "2025-08-12T07:11:57.778Z",
+    "title": "A股三大指数集体收涨，沪指再创年内新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 15:11:58",
+    "uuid": "327ddd8b-e47d-496a-bc32-36a2c4cfaea2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "今年第11号台风“杨柳”预计将于13日中午前后在台湾沿海登陆，随后于13日夜间至14日凌晨在福建南部到广东东部一带沿海再次登陆 ...",
+    "id": "8ll7NGOWjuR",
+    "order": 1754982310016,
+    "createdAt": "2025-08-12T07:05:10.000Z",
+    "publishDate": "2025-08-12T07:05:10.016Z",
+    "title": "国家防总针对福建广东启动防汛防台风四级应急响应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 15:05:10",
+    "uuid": "66c2b76e-f67d-4a41-94dc-ec5b6e347588"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "8月12日24时，新一轮成品油调价窗口开启。受国际油价先涨后跌影响，国内成品油价格调整金额未达50元/吨，本次汽、柴油价格不作调整，未调金额将纳入下次调价时累加或冲抵。",
+    "id": "8ll81Tls61S",
+    "order": 1754982279413,
+    "createdAt": "2025-08-12T07:04:39.000Z",
+    "publishDate": "2025-08-12T07:04:39.413Z",
+    "title": "新一轮油价调整搁浅，油价本轮不调整",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 15:04:39",
+    "uuid": "b9aac806-4cdc-41ba-988b-75b6569e2516"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "量子位" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达 CEO 黄仁勋的子女 Madison 和 Spencer 均从基层做起，现已成为公司高管 ...",
+    "id": "8ll0VpL3vgx",
+    "order": 1754982259815,
+    "createdAt": "2025-08-12T07:04:19.000Z",
+    "publishDate": "2025-08-12T07:04:19.815Z",
+    "title": "黄仁勋子女成长路径曝光：一个学烘焙一个开酒吧，均为英伟达高管",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 15:04:19",
+    "uuid": "78271af4-1c8c-4a5c-9951-faeaa98f988c"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "第一财经" }
@@ -267,6 +435,27 @@
     "up": false,
     "date": "2025-08-12 13:45:01",
     "uuid": "90f13f1f-c9bd-467d-a74d-ff08c5f22b49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "麦当劳回应称，其中国公司依法依规执行用工政策，为全职员工缴纳社保，并采用灵活多元的用工方式，包括返聘退休人员 ...",
+    "id": "8lkweKGMOoX",
+    "order": 1754983172414,
+    "createdAt": "2025-08-12T05:44:37.000Z",
+    "publishDate": "2025-08-12T07:19:32.414Z",
+    "title": "麦当劳回应招募退休人员：该做法此前就有，提供符合法规政策的报酬和商业保险",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 13:44:37",
+    "uuid": "2cdf87d5-5f29-42b5-9a0d-7f1b45d9a02e"
   },
   {
     "newsArray": [
