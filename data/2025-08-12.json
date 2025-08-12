@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "维峰电子表示，公司已有产品应用于服务器电源控制领域，主要包括排针排母和板对板连接器等类别。",
+    "id": "8lkgs7Vw1a7",
+    "order": 1754995773869,
+    "createdAt": "2025-08-12T10:49:34.000Z",
+    "publishDate": "2025-08-12T10:49:33.869Z",
+    "title": "维峰电子：目前已有产品应用于服务器电源控制领域",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 18:49:34",
+    "uuid": "ff62bab3-cb66-4cc3-885e-071b2e706b87"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Circle Internet Group第二季度总收入及储备收益达6.58亿美元，同比增长53%。净亏损为4.82亿美元。调整后EBITDA为1.26亿美元，高于市场预期 ...",
+    "id": "8llN96gee6z",
+    "order": 1754995383702,
+    "createdAt": "2025-08-12T10:43:03.000Z",
+    "publishDate": "2025-08-12T10:43:03.702Z",
+    "title": "Circle二季度营收6.58亿美元 同比增长53%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 18:43:03",
+    "uuid": "7669e28f-7788-47d9-a6ec-59a49d44ddc4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美晨科技控股股东潍坊市国投公司与潍坊市国资管理集团进行战略重组，签署吸收合并协议。重组旨在优化国有资本布局，提升资源配置效率和企业竞争力 ...",
+    "id": "8llN7cBydFQ",
+    "order": 1754995316253,
+    "createdAt": "2025-08-12T10:41:57.000Z",
+    "publishDate": "2025-08-12T10:41:56.253Z",
+    "title": "美晨科技：控股股东潍坊市国投公司与潍坊市国资管理集团战略重组",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 18:41:57",
+    "uuid": "d6b291ef-2a02-4800-893c-72cb64326de6"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -70,6 +124,23 @@
     "up": false,
     "date": "2025-08-12 18:27:12",
     "uuid": "8a1d2434-1372-44ba-926d-0a7fe8f7f520"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果原计划在2026年推出的OLED版MacBook Pro可能推迟至2026年底或2027年初发布 ...",
+    "id": "8lkvHOHm4YW",
+    "order": 1754995418442,
+    "createdAt": "2025-08-12T10:25:29.000Z",
+    "publishDate": "2025-08-12T10:43:38.442Z",
+    "title": "苹果OLED版MacBook Pro发布时间或推迟至2027年初",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 18:25:29",
+    "uuid": "51b48866-d9aa-494e-9d57-b214ca621e87"
   },
   {
     "newsArray": [
@@ -393,6 +464,32 @@
     "up": false,
     "date": "2025-08-12 17:32:59",
     "uuid": "4f77e15b-3fe9-42c1-9ec7-7d2a8023fe31"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "开源中国" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "阿里通义千问推出Qwen Code，用户每天可免费调用2000次，且无token额度限制。",
+    "id": "8ljShnUdOao",
+    "order": 1754995459637,
+    "createdAt": "2025-08-12T09:32:09.000Z",
+    "publishDate": "2025-08-12T10:44:19.637Z",
+    "title": "阿里通义千问：Qwen Code每天可享2000次免费调用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 17:32:09",
+    "uuid": "8fc0d962-5d4f-4d1a-8e1f-d1ce9aa33b8f"
   },
   {
     "newsArray": [
@@ -1021,6 +1118,30 @@
     "up": false,
     "date": "2025-08-12 16:08:00",
     "uuid": "0a8a3454-4ab7-473c-abd7-2d48406ee6f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "财政部等三部门印发《个人消费贷款财政贴息政策实施方案》，明确贷款经办机构包括6家国有大行、12家股份制银行及5家其他机构，鼓励地方财政部门对其他金融机构提供贴息支持，以扩大政策覆盖面。",
+    "id": "8llCPWPfOTk",
+    "order": 1754995788157,
+    "createdAt": "2025-08-12T08:06:31.000Z",
+    "publishDate": "2025-08-12T10:49:48.157Z",
+    "title": "《个人消费贷款财政贴息政策实施方案》印发 贷款经办机构包括6家国有大行、12家股份制银行、5家其他机构",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-12 16:06:31",
+    "uuid": "22826e98-63af-4f5d-8b31-2d61387b9f83"
   },
   {
     "newsArray": [
