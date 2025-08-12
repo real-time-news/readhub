@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "今年以来，截至8月12日，南向资金累计净流入超9100亿港元，创历史新高。在145个交易日中，有123个交易日出现净流入，占比超八成 ...",
+    "id": "8lmEk3HzkwR",
+    "order": 1755042551746,
+    "createdAt": "2025-08-12T23:43:14.000Z",
+    "publishDate": "2025-08-12T23:49:11.746Z",
+    "title": "南向资金今年以来净流入超9100亿港元再创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 07:43:14",
+    "uuid": "936054cb-a64a-4ada-a921-7b51da58ad43"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" }
@@ -50,6 +68,24 @@
     "up": false,
     "date": "2025-08-13 07:33:11",
     "uuid": "f384dcc0-30c2-4a61-9397-b2fab2801d2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Anthropic 宣布以每机构每年 1 美元的价格向美国政府所有三个部门提供其 Claude 模型，包括立法和司法部门，服务有效期为一年 ...",
+    "id": "8llfcOZf2x3",
+    "order": 1755042216001,
+    "createdAt": "2025-08-12T23:32:00.000Z",
+    "publishDate": "2025-08-12T23:43:36.001Z",
+    "title": "继 OpenAI 之后，Anthropic 宣布将以 1 美元价格向美国政府提供 AI 服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 07:32:00",
+    "uuid": "c0430915-5d8f-4ffc-aef2-ff01f0bbf0d0"
   },
   {
     "newsArray": [
