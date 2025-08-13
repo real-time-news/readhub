@@ -1,6 +1,146 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "日本第二季度GDP初估值预计显示增长停滞，经季节性调整后的季度增幅折合成年率约为0.2%，勉强抵消第一季度的收缩影响。星展集团经济团队维持对日本央行第四季度加息25个基点的预测。",
+    "id": "8lmZNMF8Puz",
+    "order": 1755070407287,
+    "createdAt": "2025-08-13T07:33:28.000Z",
+    "publishDate": "2025-08-13T07:33:27.287Z",
+    "title": "星展：日本GDP料将继续显示出疲软增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 15:33:28",
+    "uuid": "b41543d4-b21f-4a8d-ac0f-f5036c039a35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "港股科技股表现强势，阿里巴巴股价涨超6%，创5月15日以来新高。",
+    "id": "8lmlCDX3jsF",
+    "order": 1755070391101,
+    "createdAt": "2025-08-13T07:33:12.000Z",
+    "publishDate": "2025-08-13T07:33:11.101Z",
+    "title": "阿里巴巴(9988.HK)涨超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 15:33:12",
+    "uuid": "82b4073e-7d84-43a0-8d54-a4a28f20d8bd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "滴滴近期投资了无人驾驶商用车企业新石器，并与其在青岛合作试水无人车送货业务，用户可通过滴滴平台下单使用该服务 ...",
+    "id": "8lmp6LOQlWg",
+    "order": 1755070381854,
+    "createdAt": "2025-08-13T07:33:01.000Z",
+    "publishDate": "2025-08-13T07:33:01.854Z",
+    "title": "滴滴投资新石器无人车，物流配送赛道再落一子",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 15:33:01",
+    "uuid": "64a5b7f9-3bda-48a8-a80c-e3b8784cd583"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果在去年推出搭载双层串联OLED屏幕的iPad Pro后，开始评估将该技术应用于iPhone的可行性。这项技术通过叠加两块OLED面板提升亮度和显示精度，带来更出色的视觉体验 ...",
+    "id": "8llMRii6WL3",
+    "order": 1755070455778,
+    "createdAt": "2025-08-13T07:29:38.000Z",
+    "publishDate": "2025-08-13T07:34:15.778Z",
+    "title": "苹果研究将双层OLED技术引入iPhone，或2028年面世",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 15:29:38",
+    "uuid": "9a6d31cd-1586-4b4b-a301-928e8b431e48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "天风国际证券分析师郭明錤发布研报称，长兴击败日商Namics与Nagase，首次成为台积电先进封装材料供应商，预计2026年量产 ...",
+    "id": "8lmoH2v1sH3",
+    "order": 1755070089895,
+    "createdAt": "2025-08-13T07:28:10.000Z",
+    "publishDate": "2025-08-13T07:28:09.895Z",
+    "title": "郭明錤：长兴首度成为台积电先进封装材料供应商",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 15:28:10",
+    "uuid": "70ccf018-e98e-4e64-a0a6-71665c1363d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "A股三大指数集体上涨，沪指、深证成指和创业板指分别创阶段性新高。沪深两市成交额显著放大，超2.15万亿元 ...",
+    "id": "8lmnfDJbJTQ",
+    "order": 1755070474372,
+    "createdAt": "2025-08-13T07:27:19.000Z",
+    "publishDate": "2025-08-13T07:34:34.372Z",
+    "title": "A 股收评：沪指涨 0.48% 创 2021 年 12 月以来新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 15:27:19",
+    "uuid": "b81468f2-a9c5-4a35-9723-75ec55b80320"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "吉林省民航机场集团有限公司发布声明，指出近期网络平台出现大量虚假招聘信息，强调从未委托任何中介机构开展招聘工作，提醒求职者通过官方渠道获取信息，谨防受骗。",
+    "id": "8lmks8T0rQk",
+    "order": 1755070483285,
+    "createdAt": "2025-08-13T07:26:50.000Z",
+    "publishDate": "2025-08-13T07:34:43.285Z",
+    "title": "吉林机场集团辟谣：从未委托任何中介机构开展招聘工作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 15:26:50",
+    "uuid": "09b3332f-50a4-4fd4-bb57-d08db9058693"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "字节跳动技术团队推出基于DiT大模型与字体级分割的视频字幕无痕擦除方案，助力短剧等内容全球化传播 ...",
+    "id": "8lkpU12Oex9",
+    "order": 1755070516223,
+    "createdAt": "2025-08-13T07:20:48.000Z",
+    "publishDate": "2025-08-13T07:35:16.223Z",
+    "title": "字节跳动推出视频字幕无痕擦除方案 推动内容全球化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 15:20:48",
+    "uuid": "8d9c8444-e94f-4de6-8a17-e515781a2b65"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "新芽" },
       { "siteName": "投资界" }
@@ -455,6 +595,27 @@
     "up": false,
     "date": "2025-08-13 13:13:52",
     "uuid": "561dd8d2-e2ff-47f6-b26a-7459faeb85d5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "财政部推出个人消费贷款贴息政策，单笔5万元以下消费可享贴息。以贷款20万元、年利率3%为例，享受1个百分点贴息后，贷款人每年可减少利息支出2000元，相当于获得1/3的利息补贴。",
+    "id": "8lmaB8mA3BE",
+    "order": 1755070444085,
+    "createdAt": "2025-08-13T05:12:36.000Z",
+    "publishDate": "2025-08-13T07:34:04.085Z",
+    "title": "享受消费贴息后，贷款20万元一年可少付2000元利息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 13:12:36",
+    "uuid": "afb4d068-aa29-4bfd-821c-5f005a80f2e9"
   },
   {
     "newsArray": [
@@ -1261,6 +1422,24 @@
     "up": false,
     "date": "2025-08-13 09:43:31",
     "uuid": "a96bbade-4900-4d11-9ce0-95970c989ddd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美元指数DXY回落至98下方，日内下跌0.49%。",
+    "id": "8lliUaKXQnF",
+    "order": 1755069967508,
+    "createdAt": "2025-08-13T01:22:50.000Z",
+    "publishDate": "2025-08-13T07:26:07.508Z",
+    "title": "美元指数回落至98下方",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 09:22:50",
+    "uuid": "af0e034c-9bcb-42a3-8189-4ccd9a662b2f"
   },
   {
     "newsArray": [
