@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "瑞银研究报告指出，市场对快手与美团合作拓展外送服务的消息存在误解，认为合作是快手向美团开放生态圈及流量，不会直接参与外送业务，有利于带来额外广告需求，并重申对快手的“买入”评级 ...",
+    "id": "8lmUNv5kgF8",
+    "order": 1755056534319,
+    "createdAt": "2025-08-13T03:42:15.000Z",
+    "publishDate": "2025-08-13T03:42:14.319Z",
+    "title": "瑞银：市场对快手与美团合作拓展外送服务存在误解",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 11:42:15",
+    "uuid": "1cd85488-4710-445b-8136-30168a8e8006"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "市场再度传出深度求索（DeepSeek）下一代大模型DeepSeek-R2的发布消息，预计时间窗口为8月15日至30日。",
+    "id": "8lmXGKxBBzx",
+    "order": 1755056118301,
+    "createdAt": "2025-08-13T03:35:19.000Z",
+    "publishDate": "2025-08-13T03:35:18.301Z",
+    "title": "接近DeepSeek人士确认：DeepSeek-R2在8月内并无发布计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 11:35:19",
+    "uuid": "3adc1570-f616-4ca6-9a42-5a8d6ccedeed"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "当当网创始人李国庆在社交平台发文谴责有账号散布关于其婚礼的虚假信息，称有人以2-3万元价格出售婚礼门票，并承诺与名人合影等，李国庆明确表示婚礼不对外售票、不收礼金，仅邀请亲友并已发放实名制请柬，现场将严格核验身份，呼吁相关方停止违法行为。",
+    "id": "8lmUObGbUTZ",
+    "order": 1755056151831,
+    "createdAt": "2025-08-13T03:34:27.000Z",
+    "publishDate": "2025-08-13T03:35:51.831Z",
+    "title": "当当网创始人李国庆将再婚，辟谣对外出售婚礼门票",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 11:34:27",
+    "uuid": "64d44ebf-debe-4798-8e84-821e52e08ec9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "科学网" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "内地与港澳15家高校和科研机构共同发起的生命科学开放联盟在香港正式成立。联盟将在复旦大学设立秘书处，在香港科技大学设立香港代表处，旨在打通科研成果转化路径，探索内地与港澳的成果转化和产业孵化机制 ...",
+    "id": "8lleDNjTGS5",
+    "order": 1755056049571,
+    "createdAt": "2025-08-13T03:34:09.000Z",
+    "publishDate": "2025-08-13T03:34:09.571Z",
+    "title": "15家高校和科研机构发起成立生命科学开放联盟",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 11:34:09",
+    "uuid": "85303cbf-f832-4b4a-ad0c-5dbb9ecc6e36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "知名视频博主Tim在浙江杭州三白潭的一座小岛上开启孤岛生存100小时挑战，并全程直播。他面对野外取火、搭建庇护所、寻找水源与食物等考验，过程中状况频出，包括导演组整蛊播放假雷声和突遇小雨等 ...",
+    "id": "8ll7cT8vIFw",
+    "order": 1755056206567,
+    "createdAt": "2025-08-13T03:16:29.000Z",
+    "publishDate": "2025-08-13T03:36:46.567Z",
+    "title": "影视飓风 Tim 直播荒岛生存 100 小时",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 11:16:29",
+    "uuid": "d04e532c-456f-42aa-bd1b-45b4aff6a1f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "马斯克的母亲梅耶在社交平台演示了 Grok 视频生成功能，展示了通过该功能将静态图片转化为带有动态效果和音效的视频 ...",
+    "id": "8lmSDWF0HU9",
+    "order": 1755056438572,
+    "createdAt": "2025-08-13T02:47:14.000Z",
+    "publishDate": "2025-08-13T03:40:38.572Z",
+    "title": "马斯克母亲发帖支持儿子：演示Grok视频生成功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 10:47:14",
+    "uuid": "a82739ee-97ce-4e70-af5b-910097b6277a"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -17,6 +119,23 @@
     "up": false,
     "date": "2025-08-13 10:43:31",
     "uuid": "90245665-7349-4171-88e2-7ac28880a20f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "B站正在测试新的AI视频创作工具“花生AI”，旨在降低创作门槛，丰富平台内容生态。",
+    "id": "8lkxeo29hCu",
+    "order": 1755056448624,
+    "createdAt": "2025-08-13T02:43:12.000Z",
+    "publishDate": "2025-08-13T03:40:48.624Z",
+    "title": "B站测试AI视频创作工具“花生AI”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 10:43:12",
+    "uuid": "902f10a4-efdd-44ad-a710-1f4a9160b636"
   },
   {
     "newsArray": [
@@ -175,6 +294,32 @@
   },
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI CEO 萨姆・奥尔特曼宣布 ChatGPT 的重大更新，GPT-5 新增三种模式：“自动”、“快速”和“思考” ...",
+    "id": "8lmRUew9r3J",
+    "order": 1755056512205,
+    "createdAt": "2025-08-13T02:12:36.000Z",
+    "publishDate": "2025-08-13T03:41:52.205Z",
+    "title": "OpenAI ChatGPT 更新：GPT-5 引入三种模式，4o 模型回归",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 10:12:36",
+    "uuid": "0c2cb3aa-2fa1-4b1c-8fd0-462411bc80c3"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" },
@@ -190,6 +335,26 @@
     "up": false,
     "date": "2025-08-13 10:12:06",
     "uuid": "ff25b13d-0d2a-4b6a-a077-56ac97aa67fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "江苏省召开稳外贸稳外资专题会议，强调构建多元外贸市场，挖掘新兴市场潜力，支持企业利用国际国内资源 ...",
+    "id": "8lmQ4Wh2lq5",
+    "order": 1755056534029,
+    "createdAt": "2025-08-13T01:44:01.000Z",
+    "publishDate": "2025-08-13T03:42:14.029Z",
+    "title": "江苏：加大对民营企业“出海”和“回流”支持力度",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 09:44:01",
+    "uuid": "f3a2f4a6-cb77-461c-bf7b-a309a8362097"
   },
   {
     "newsArray": [
@@ -213,6 +378,26 @@
     "up": false,
     "date": "2025-08-13 09:22:12",
     "uuid": "06a8f0e4-ce09-4100-a333-32908e48550a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国内期货主力合约涨多跌少，菜油、菜粕、豆粕等品种涨幅居前，焦煤、豆二、棕榈油、豆油、纯碱均有不同程度上涨。碳酸锂、多晶硅、燃油出现下跌。",
+    "id": "8lmNLD6BejF",
+    "order": 1755056200621,
+    "createdAt": "2025-08-13T01:15:01.000Z",
+    "publishDate": "2025-08-13T03:36:40.621Z",
+    "title": "国内期货主力合约涨多跌少，菜油涨近4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-13 09:15:01",
+    "uuid": "d0cd4dea-2133-4b2d-ae77-e4bdc70aa798"
   },
   {
     "newsArray": [
