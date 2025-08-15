@@ -1,6 +1,136 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "30年期主力合约上涨0.15%，10年期、5年期分别上涨0.03%和0.01%，2年期主力合约与昨日持平。",
+    "id": "8lpjBrmtr5y",
+    "order": 1755229762297,
+    "createdAt": "2025-08-15T03:49:23.000Z",
+    "publishDate": "2025-08-15T03:49:22.297Z",
+    "title": "国债期货早盘开盘全线上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 11:49:23",
+    "uuid": "7a458e40-ea56-4879-9320-9a90a0057158"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "2024年中国隐私计算市场规模达9.8亿元，同比增长10.1%，蚂蚁数科以36.7%的市场占有率连续三年位居第一 ...",
+    "id": "8loPigkYrei",
+    "order": 1755229428214,
+    "createdAt": "2025-08-15T03:43:48.000Z",
+    "publishDate": "2025-08-15T03:43:48.214Z",
+    "title": "中国隐私计算市场报告：蚂蚁数科市场份额第一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 11:43:48",
+    "uuid": "2345009e-0400-4066-885c-98d65e04ea31"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "光伏组件价格近期上涨至0.7元/W，部分型号出现缺货，主要因上游多晶硅涨价及产能不足，而非下游需求增加所致。",
+    "id": "8lprlAmuptq",
+    "order": 1755228902039,
+    "createdAt": "2025-08-15T03:35:02.000Z",
+    "publishDate": "2025-08-15T03:35:02.039Z",
+    "title": "光伏组件再现缺货涨价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 11:35:02",
+    "uuid": "53836e1a-e8e5-4b71-85e3-010452e4b97d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "B站宣布将于2025年8月20日凌晨2点独家直播科隆游戏展开幕夜，并提供中文同传。《黑神话：悟空》等多款国产游戏将在展会期间发布最新情报 ...",
+    "id": "8lofOvaolYg",
+    "order": 1755228868016,
+    "createdAt": "2025-08-15T03:34:28.000Z",
+    "publishDate": "2025-08-15T03:34:28.016Z",
+    "title": "B站确认《黑神话》将在 2025 科隆游戏展发布新情报",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 11:34:28",
+    "uuid": "e42b2142-4352-42fe-aec0-dcea6f4631df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "腾讯云推出升级版CloudBase AI CLI工具，支持开发者通过自然语言在命令行中统一调度多种AI工具，并与云开发平台打通，实现从代码生成到部署运维的一站式开发，大幅减少编码量。",
+    "id": "8lpr1URxmY5",
+    "order": 1755228375349,
+    "createdAt": "2025-08-15T03:26:16.000Z",
+    "publishDate": "2025-08-15T03:26:15.349Z",
+    "title": "腾讯云宣布上新CloudBase AI CLI，可减少80%编码量",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 11:26:16",
+    "uuid": "0cc688ca-94a6-4ccd-87f5-16ebfd28c789"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "多地近日陆续暂停汽车置换补贴申请，但报废更新补贴仍可申请。同时，新的个人消费贷款贴息政策也将覆盖汽车消费领域。",
+    "id": "8lpqLWT3ypv",
+    "order": 1755228143192,
+    "createdAt": "2025-08-15T03:22:24.000Z",
+    "publishDate": "2025-08-15T03:22:23.192Z",
+    "title": "多地近日陆续暂停汽车置换补贴 但报废更新补贴仍在继续",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 11:22:24",
+    "uuid": "33aa6a6f-ca8b-43e6-a67c-e7bed3bac422"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "7月份，全国服务业生产指数同比增长5.8%。其中，信息传输、软件和信息技术服务业，金融业，租赁和商务服务业增长较快。1-7月份，服务业生产指数累计同比增长5.9% ...",
+    "id": "8lpnU2J23fc",
+    "order": 1755228875002,
+    "createdAt": "2025-08-15T03:05:00.000Z",
+    "publishDate": "2025-08-15T03:34:35.002Z",
+    "title": "国家统计局：7月全国服务业生产指数同比增长5.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 11:05:00",
+    "uuid": "9c9b8289-a294-49d2-a6f0-0b84f6d9fad3"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" }
@@ -754,6 +884,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "高盛集团在二季度增持了英伟达、微软、特斯拉、博通和Meta，并重仓英伟达、微软、SPDR标普500 ETF信托、苹果和Meta。投资需谨慎，市场有风险。",
+    "id": "8lpJVb5G6sA",
+    "order": 1755228070571,
+    "createdAt": "2025-08-14T19:41:38.000Z",
+    "publishDate": "2025-08-15T03:21:10.571Z",
+    "title": "高盛二季度重仓英伟达、微软、苹果、Meta",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 03:41:38",
+    "uuid": "dbc90122-9c42-47d3-8c4e-f44fcbff8d65"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -768,6 +917,40 @@
     "up": false,
     "date": "2025-08-15 02:22:54",
     "uuid": "0f09130e-ea50-4614-8c2b-378e9203df8c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "特朗普称美国通胀已降至接近零的完美水平。",
+    "id": "8lpBZp8MuYj",
+    "order": 1755228108779,
+    "createdAt": "2025-08-14T17:41:57.000Z",
+    "publishDate": "2025-08-15T03:21:48.779Z",
+    "title": "特朗普称美国通胀已降至完美水平",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 01:41:57",
+    "uuid": "661d44df-5bfe-4952-a28f-3b75f10f5907"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "中央纪委国家监委明确公职人员开展副业需遵守相关规定，禁止六类副业行为，包括“挂证”取酬、借“理财”名义违规圈钱、违规从事有偿中介活动、违规兼职、揽私活及其他违反规定的营利行为 ...",
+    "id": "8lp33wS1d25",
+    "order": 1755228137286,
+    "createdAt": "2025-08-14T17:32:31.000Z",
+    "publishDate": "2025-08-15T03:22:17.286Z",
+    "title": "中纪委：公职人员副业允许运营自媒体、跑滴滴送外卖",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-15 01:32:31",
+    "uuid": "ad51aa66-b3d5-481c-a2f8-fc84e60609e0"
   },
   {
     "newsArray": [
