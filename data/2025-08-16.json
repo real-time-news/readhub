@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美股三大指数收盘涨跌不一，道指和标普500盘中创新高，周线均实现两连涨。大型科技股表现分化，英特尔上涨约3%，特斯拉下跌超1%。",
+    "id": "8lr9l0rE6Cw",
+    "order": 1755301342257,
+    "createdAt": "2025-08-15T23:42:22.000Z",
+    "publishDate": "2025-08-15T23:42:22.257Z",
+    "title": "美股三大指数收盘涨跌不一 道指、标普500指数均一度创盘中历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-16 07:42:22",
+    "uuid": "e3e68efb-f573-493d-96af-ee3011e736e0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中国6月所持美债增加1亿美元，至7560亿美元。",
+    "id": "8lr0aNDTjWw",
+    "order": 1755301318465,
+    "createdAt": "2025-08-15T23:41:58.000Z",
+    "publishDate": "2025-08-15T23:41:58.465Z",
+    "title": "日本6月所持美国国债增加126亿美元，至1.1万亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-16 07:41:58",
+    "uuid": "736c0510-34fe-4d0b-8dca-a5703538375a"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "界面" },
       { "siteName": "第一财经" }
