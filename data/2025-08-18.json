@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "长华集团近日收到国内新能源车企的定点开发通知书，涉及关键金属结构件产品。该项目生命周期为4年，预计总销售金额约8.1亿元，计划于2026年第三季度逐步量产。",
+    "id": "8lv8N9M32bn",
+    "order": 1755503366072,
+    "createdAt": "2025-08-18T07:49:26.000Z",
+    "publishDate": "2025-08-18T07:49:26.072Z",
+    "title": "长华集团：收到新能源车企定点 预计生命周期总销售金额约8.1亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-18 15:49:26",
+    "uuid": "1adba347-ca45-4930-8411-e283edd34d68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "阿里云表格存储Tablestore全面升级AI场景支持能力，推出AI Agent记忆存储功能，整体存储成本降低30%。",
+    "id": "8lv8K7vOoXb",
+    "order": 1755502999385,
+    "createdAt": "2025-08-18T07:43:19.000Z",
+    "publishDate": "2025-08-18T07:43:19.385Z",
+    "title": "阿里云表格存储推出AI Agent记忆存储功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-18 15:43:19",
+    "uuid": "5904534b-7458-4536-8163-4f7a50136b40"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" }
