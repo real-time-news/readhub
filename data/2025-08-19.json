@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "*ST铖昌表示，近期低轨卫星密集发射推动卫星互联网行业发展，公司产品处于产业链前端，将根据下游需求进行备货和批量交付。",
+    "id": "8lwMmEhkZso",
+    "order": 1755567492824,
+    "createdAt": "2025-08-19T01:38:12.000Z",
+    "publishDate": "2025-08-19T01:38:12.824Z",
+    "title": "*ST铖昌：近期卫星互联网低轨卫星密集发射 有利于行业加快发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:38:12",
+    "uuid": "32299655-bc05-4ce8-bfc9-4d9fae1b7673"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "标普维持美国主权评级不变，前景展望稳定。",
+    "id": "8lwMm1jayNy",
+    "order": 1755567467110,
+    "createdAt": "2025-08-19T01:37:47.000Z",
+    "publishDate": "2025-08-19T01:37:47.110Z",
+    "title": "标普维持美国Aa+/A-1+主权评级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:37:47",
+    "uuid": "32ffb1ca-6987-4642-a1e8-2a0cddd8e355"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "深圳离境退税商店已超过1500家，今年前7个月离境退税商品销售额达5.84亿元，同比增长2倍，其中“即买即退”商品销售额7504.2万元，同比增长超25倍 ...",
+    "id": "8lwM3YGCg0F",
+    "order": 1755567387997,
+    "createdAt": "2025-08-19T01:36:28.000Z",
+    "publishDate": "2025-08-19T01:36:27.997Z",
+    "title": "深圳全市离境退税商店突破1500家",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:36:28",
+    "uuid": "99d6b25d-a08b-41fb-bff6-bf4772fca5d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "央行今日进行5803亿元7天期逆回购操作，利率为1.40%。当日有1146亿元逆回购到期。",
+    "id": "8lwMK8BgFMk",
+    "order": 1755567315723,
+    "createdAt": "2025-08-19T01:35:15.000Z",
+    "publishDate": "2025-08-19T01:35:15.723Z",
+    "title": "央行今日开展5803亿元7天期逆回购操作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:35:15",
+    "uuid": "7f753ab1-00b7-4634-adb3-208cb013be46"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "随着A股市场走强，两融余额持续增长，截至2025年8月18日，两融余额突破2.1万亿元，时隔10年再次达到这一水平。",
+    "id": "8lwM7oNxD34",
+    "order": 1755567291347,
+    "createdAt": "2025-08-19T01:34:51.000Z",
+    "publishDate": "2025-08-19T01:34:51.347Z",
+    "title": "两融余额时隔10年突破2.1万亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:34:51",
+    "uuid": "cfc58420-5c24-49ed-97d7-b182f1269863"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国与意大利、欧盟在人工智能治理方面理念相近，可将该领域作为合作新增长点。双方应坚持开放合作，推动技术进步，避免将其政治化或垄断化 ...",
+    "id": "8lwMm9bXQyu",
+    "order": 1755567265925,
+    "createdAt": "2025-08-19T01:34:26.000Z",
+    "publishDate": "2025-08-19T01:34:25.925Z",
+    "title": "中国驻意大利大使在意媒发文：人工智能可以成为中意、中欧合作新的增长点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:34:26",
+    "uuid": "b5dc1f60-92ad-4dd5-813a-3f286c2ee1fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "蓝点网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "微软近期调整了Microsoft Store的更新机制，用户不再可以手动更新应用，仅能选择暂停更新一段时间（最多五周），且需指定恢复自动更新的时间 ...",
+    "id": "8lurjxpUH2P",
+    "order": 1755567217841,
+    "createdAt": "2025-08-19T01:33:37.000Z",
+    "publishDate": "2025-08-19T01:33:37.841Z",
+    "title": "微软调整Microsoft Store更新机制，限制手动控制引争议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:33:37",
+    "uuid": "96956f6f-5f1a-400d-95c2-bf632df2911d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "长时储能项目有望在新能源装机规模大或资源禀赋好的区域率先快速发展。混合储能技术应用增多，多种新型储能技术互补以适应多元场景需求，同时受政策和经济性驱动，长时储能大型化趋势已确立。",
+    "id": "8lwGKmiwTkf",
+    "order": 1755566521131,
+    "createdAt": "2025-08-19T01:22:01.000Z",
+    "publishDate": "2025-08-19T01:22:01.131Z",
+    "title": "中金公司：长时储能项目有望率先快速发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:22:01",
+    "uuid": "241e39db-b67e-47ac-baf5-67680ad058f9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "祥鑫科技表示，其液冷和冷媒直冷技术可应用于算力服务器、新能源汽车动力电池、工商业储能系统等多个领域 ...",
+    "id": "8lwJmWcCHES",
+    "order": 1755566130378,
+    "createdAt": "2025-08-19T01:15:30.000Z",
+    "publishDate": "2025-08-19T01:15:30.378Z",
+    "title": "祥鑫科技：目前公司为超聚变、华鲲振宇、中兴康讯等公司供应液冷服务器相关产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:15:30",
+    "uuid": "d823575d-9efb-448b-99b8-c358c4c44bc3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "兄弟科技表示，公司生产的对苯二酚可用于PEEK领域，但目前不生产PEEK产品。",
+    "id": "8lwLLJ503hv",
+    "order": 1755566098144,
+    "createdAt": "2025-08-19T01:14:59.000Z",
+    "publishDate": "2025-08-19T01:14:58.144Z",
+    "title": "兄弟科技：公司目前不生产PEEK产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 09:14:59",
+    "uuid": "e0c42170-42ee-4f34-bb5d-edfabf41b9af"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
