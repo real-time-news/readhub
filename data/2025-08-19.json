@@ -2,6 +2,166 @@
   {
     "newsArray": [
       { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "苹果iPhone 17已进入大规模量产阶段，富士康郑州厂区正开展旺季招工。",
+    "id": "8lwqqATLR0c",
+    "order": 1755592606755,
+    "createdAt": "2025-08-19T08:36:46.000Z",
+    "publishDate": "2025-08-19T08:36:46.755Z",
+    "title": "苹果iPhone 17已进入大规模量产阶段",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 16:36:46",
+    "uuid": "f2cb336e-5a75-47c0-aa5c-f573e6f4f87e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "卓创资讯公告，公司于2025年8月18日召开董事会会议，审议通过授权管理层启动境外发行H股并在香港联交所主板上市的议案。目前相关工作正与中介机构商讨，但具体细节尚未确定 ...",
+    "id": "8lwq95BTuF9",
+    "order": 1755592548075,
+    "createdAt": "2025-08-19T08:35:48.000Z",
+    "publishDate": "2025-08-19T08:35:48.075Z",
+    "title": "卓创资讯：拟境外发行股份（H股）并申请在香港联交所主板挂牌上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 16:35:48",
+    "uuid": "750dc21f-55c3-48a6-8a4d-2427ee7fd73f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "埃斯顿公告，公司及控股子公司鼎控机电与鑫宏业、曙光蓝风启签署交易框架协议，拟将鼎控机电和曙光蓝风启分别持有的扬州曙光48%和14%股权转让给鑫宏业 ...",
+    "id": "8lwqLt6xWRk",
+    "order": 1755592426239,
+    "createdAt": "2025-08-19T08:33:46.000Z",
+    "publishDate": "2025-08-19T08:33:46.239Z",
+    "title": "埃斯顿：与鑫宏业等签署交易框架协议 拟转让扬州曙光光电自控48%股权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 16:33:46",
+    "uuid": "cc0abe58-3a09-4c4c-b56e-e97e6d3b6286"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "中证网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "蔚来旗下乐道品牌持续热销，上周销量达6089辆，稳居周销量榜前五。乐道L90上市10天交付超4000辆，跃居大型SUV周销量榜第二 ...",
+    "id": "8lwnDEyg6pP",
+    "order": 1755592387277,
+    "createdAt": "2025-08-19T08:33:07.000Z",
+    "publishDate": "2025-08-19T08:33:07.277Z",
+    "title": "上市10天交付超4000辆 乐道L90升至大型SUV周榜第二",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 16:33:07",
+    "uuid": "0f2a4888-ce6f-46fa-92b9-be426964d9af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "华海药业子公司华奥泰自主研发的瑞西奇拜单抗（HB0034）注射液被纳入优先审评审批程序，该药物用于治疗成人泛发性脓疱型银屑病，属于治疗用生物制品1类，是国内首个自研创新抗IL-36R抗体。",
+    "id": "8lvFS0JpiF1",
+    "order": 1755591992915,
+    "createdAt": "2025-08-19T08:26:32.000Z",
+    "publishDate": "2025-08-19T08:26:32.915Z",
+    "title": "华海药业：治疗用生物制品1类产品瑞西奇拜单抗注射液被纳入优先审评品种名单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 16:26:32",
+    "uuid": "b7eb0401-65c5-4ada-9405-dd9afa809fdb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Mozilla发布Firefox 142及多个ESR版本，重点优化隐私保护与用户体验，新增多项开发者工具功能。",
+    "id": "8lwTy8ReqkG",
+    "order": 1755591973937,
+    "createdAt": "2025-08-19T08:26:13.000Z",
+    "publishDate": "2025-08-19T08:26:13.937Z",
+    "title": "Firefox 142 浏览器发布，强化隐私保护与开发者工具",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 16:26:13",
+    "uuid": "30c1ad9f-1362-4070-a18e-458c7bb2ba48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "电动邦" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "睿蓝蓝精灵纯电小车正式亮相，即将上市。该车采用方盒子造型，配备圆形前大灯、14英寸轮毂和笑脸式前保险杠。内饰提供三款配色，搭载悬浮式中控屏、旋钮换挡和外带挂钩 ...",
+    "id": "8lugQibStMt",
+    "order": 1755591886368,
+    "createdAt": "2025-08-19T08:24:46.000Z",
+    "publishDate": "2025-08-19T08:24:46.368Z",
+    "title": "睿蓝蓝精灵纯电小车亮相：方盒子造型，可坐 4 人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 16:24:46",
+    "uuid": "e4325227-2673-4a94-87cd-00216bdf6c43"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "禾丰股份公告，公司监事会主席王凤久计划减持公司股份不超过11,990,000股，占公司总股本不超过1.3140%，占其持股总数不超过25% ...",
+    "id": "8lwq5IKgYsW",
+    "order": 1755591974094,
+    "createdAt": "2025-08-19T08:24:26.000Z",
+    "publishDate": "2025-08-19T08:26:14.094Z",
+    "title": "禾丰股份：两股东计划减持不超2.19%公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 16:24:26",
+    "uuid": "29ceb84c-f1c9-4947-94f8-4f735e2b39b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "长三角G60科创走廊第七届科技成果拍卖会在上海松江区举行，总成交金额达202亿元，创历史新高，较上一届增长66.7% ...",
+    "id": "8lwpOQ0ydbd",
+    "order": 1755592584738,
+    "createdAt": "2025-08-19T08:20:08.000Z",
+    "publishDate": "2025-08-19T08:36:24.738Z",
+    "title": "长三角 G60 第七届科拍会成交金额突破 200 亿 创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 16:20:08",
+    "uuid": "75e0fd6d-bc10-43eb-bfe9-d34353ec22d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
     ],
@@ -806,6 +966,25 @@
     "up": false,
     "date": "2025-08-19 13:52:44",
     "uuid": "c7c84157-63a6-4b79-b901-2fc2ad6f99ad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "多元金融概念短线走强，中油资本涨停，南华期货涨超5%，海德股份、浙江东方、九鼎投资等个股跟涨。",
+    "id": "8lweKiZ5Qj0",
+    "order": 1755592855024,
+    "createdAt": "2025-08-19T05:51:42.000Z",
+    "publishDate": "2025-08-19T08:40:55.024Z",
+    "title": "多元金融概念短线走高，中油资本涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 13:51:42",
+    "uuid": "cfc9bba7-4483-48f2-bc9b-4725fea5d3e9"
   },
   {
     "newsArray": [
