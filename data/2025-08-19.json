@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "加拿大航空8月19日表示，已与空乘人员工会达成调解协议，将逐步恢复服务，全面恢复可能需要一周或更长时间。",
+    "id": "8lwxJvFWLuO",
+    "order": 1755612777045,
+    "createdAt": "2025-08-19T14:12:58.000Z",
+    "publishDate": "2025-08-19T14:12:57.045Z",
+    "title": "加拿大航空今日将逐步恢复服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 22:12:58",
+    "uuid": "0becee7e-c8db-4709-b84f-4a61f843a2f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "顺丰控股7月速运物流与供应链及国际业务总收入达248.47亿元，同比增长9.95%。其中，速运物流业务收入增长14.97%，业务量增长33.69% ...",
+    "id": "8lx3ix55q8k",
+    "order": 1755612709813,
+    "createdAt": "2025-08-19T14:11:49.000Z",
+    "publishDate": "2025-08-19T14:11:49.813Z",
+    "title": "顺丰控股7月速运物流业务收入同比增长14.97%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 22:11:49",
+    "uuid": "7fa98b35-032f-413a-9149-b8a1c8b4715d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "宇树科技发布新款人形机器人预告海报，显示该机器人将配备31个关节。",
+    "id": "8lxEQ4u4FR4",
+    "order": 1755612268890,
+    "createdAt": "2025-08-19T14:04:29.000Z",
+    "publishDate": "2025-08-19T14:04:28.890Z",
+    "title": "宇树科技发布新款人形机器人预告海报",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 22:04:29",
+    "uuid": "2e725529-453e-4f95-be22-1b92f3d5d349"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "川润股份2025年上半年营业收入同比增长25.08%至8.04亿元，但归属于上市公司股东的净利润为亏损2357.15万元。",
+    "id": "8lx09siLCt7",
+    "order": 1755612181721,
+    "createdAt": "2025-08-19T14:03:02.000Z",
+    "publishDate": "2025-08-19T14:03:01.721Z",
+    "title": "3连板川润股份：上半年净亏损2357.15万元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 22:03:02",
+    "uuid": "91062d7a-f3d7-4c67-80f1-4b56b1b53884"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -71,6 +142,24 @@
     "up": false,
     "date": "2025-08-19 21:33:55",
     "uuid": "ac02c7f6-2878-4085-ad24-59ab998e10dc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "广汽集团发布全新自主研发的“星源增程”技术，并推出首款搭载该技术的车型——昊铂HL增程版。该技术通过多项创新设计提升燃烧效率、降低摩擦损失，发动机热效率显著提高 ...",
+    "id": "8lx7CuDgcv8",
+    "order": 1755612052244,
+    "createdAt": "2025-08-19T13:31:50.000Z",
+    "publishDate": "2025-08-19T14:00:52.244Z",
+    "title": "广汽全新增程技术“星源增程”正式发布 油耗低至3L级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 21:31:50",
+    "uuid": "dbe32c0c-cdf0-424e-bc3d-b0f8f277fd15"
   },
   {
     "newsArray": [
@@ -250,6 +339,25 @@
     "up": false,
     "date": "2025-08-19 20:53:55",
     "uuid": "67ec4c86-670a-4719-9705-63411baa8fca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "小鹏汽车董事长何小鹏表示，从2025年三季度上市的小鹏G7和P7车型开始，Ultra版本将搭载三颗自研图灵AI芯片，算力达2250TOPS，并部署端侧VLA+VLM大模型 ...",
+    "id": "8lx8ibDlZlD",
+    "order": 1755612049630,
+    "createdAt": "2025-08-19T12:53:16.000Z",
+    "publishDate": "2025-08-19T14:00:49.630Z",
+    "title": "小鹏汽车何小鹏：人形机器人及支持L4的车型将在2026年量产",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 20:53:16",
+    "uuid": "692a4b1d-eded-4b53-99c3-bc2f3999e0cf"
   },
   {
     "newsArray": [
