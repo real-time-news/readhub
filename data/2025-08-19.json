@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "东方甄选港股盘中大幅波动，一度上涨23%，随后快速回落，最终下跌近10%。",
+    "id": "8lwl4nEgfe8",
+    "order": 1755587617611,
+    "createdAt": "2025-08-19T07:13:37.000Z",
+    "publishDate": "2025-08-19T07:13:37.611Z",
+    "title": "东方甄选港股高位跳水，现跌近10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 15:13:37",
+    "uuid": "457c26ec-c2e2-400d-ac3d-46da45ba07db"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "欧洲主要股指开盘集体上涨，德国DAX30指数涨0.24%，英国富时100指数涨0.07%，法国CAC40指数涨0.13%，欧洲斯托克50指数涨0.25%。",
+    "id": "8lwl4fhkWfy",
+    "order": 1755587598847,
+    "createdAt": "2025-08-19T07:13:18.000Z",
+    "publishDate": "2025-08-19T07:13:18.847Z",
+    "title": "欧洲主要股指开盘集体上涨，德国DAX30指数涨0.24%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 15:13:18",
+    "uuid": "01d6dabc-6904-4c9d-b033-5ce48d87b331"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "诺和诺德宣布，其药物Wegovy®（司美格鲁肽2.4 mg）已获美国FDA批准新增适应症，用于治疗代谢相关脂肪性肝炎伴中重度肝纤维化的非肝硬化成人患者 ...",
+    "id": "8lwiwllj9wT",
+    "order": 1755587206018,
+    "createdAt": "2025-08-19T07:06:46.000Z",
+    "publishDate": "2025-08-19T07:06:46.018Z",
+    "title": "司美格鲁肽在美获批用于治疗脂肪肝",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 15:06:46",
+    "uuid": "5f10e845-539a-4b0d-8e6c-2e4955f215a8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "新增三种个人养老金领取情形，包括医疗负担超居民人均可支配收入、两年内领取失业保险金满12个月、正在领取城乡最低生活保障金 ...",
+    "id": "8lwkSyBtAk8",
+    "order": 1755587176172,
+    "createdAt": "2025-08-19T07:06:16.000Z",
+    "publishDate": "2025-08-19T07:06:16.172Z",
+    "title": "个人养老金新增3种领取情形，9月1日起实施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 15:06:16",
+    "uuid": "d631b649-01cc-4606-bf1b-5ee42551eb23"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "杭州出让两宗宅地，总收金约6.71亿元，其中一宗溢价成交，另一宗底价成交，市场热度分化明显 ...",
+    "id": "8lwVLpekjiD",
+    "order": 1755587048070,
+    "createdAt": "2025-08-19T07:04:08.000Z",
+    "publishDate": "2025-08-19T07:04:08.070Z",
+    "title": "杭州土拍两宗宅地收金6.71亿元，钱塘区地块溢价13.88%成交",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 15:04:08",
+    "uuid": "8e73c5fe-81b6-4754-b27f-2835424fb8b6"
+  },
+  {
+    "newsArray": [
       { "siteName": "中证网" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
