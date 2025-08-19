@@ -1,6 +1,195 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "腾讯旗下琳琅天上工作室开发的FPS游戏《三角洲行动》正式登陆PS5和Xbox Series X|S，支持多平台玩法 ...",
+    "id": "8lunZmXQT5p",
+    "order": 1755572480459,
+    "createdAt": "2025-08-19T03:01:22.000Z",
+    "publishDate": "2025-08-19T03:01:20.459Z",
+    "title": "腾讯《三角洲行动》登陆 PS5 / Xbox，支持跨平台联机",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 11:01:22",
+    "uuid": "5877a3d5-3e20-441d-9ab2-06f90092cf47"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "广东省将于8月下旬在澳门发行25亿元人民币的离岸人民币地方政府债券，涵盖横琴粤澳深度合作区主题债券、绿色债券，并首次发行支持第十五届全国运动会项目的专项债券及蓝色债券，所有债券均面向专业投资者发行。",
+    "id": "8lwSUE3kFJ9",
+    "order": 1755572065126,
+    "createdAt": "2025-08-19T02:54:25.000Z",
+    "publishDate": "2025-08-19T02:54:25.126Z",
+    "title": "广东连续第五年在澳门发行地方政府债券",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 10:54:25",
+    "uuid": "350e4523-30c6-4f5f-896f-29574b96e8a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "上海发布《加快推动“AI+制造”发展实施方案》，聚焦集成电路、电子信息、汽车、高端装备等多个行业，推动企业创新应用人工智能技术，打造细分领域行业模型和特定场景专用小模型，构建多层次工业模型体系，提升大模型与小模型协同效率，加快工业场景落地应用。",
+    "id": "8lwSNGZkwSJ",
+    "order": 1755571963783,
+    "createdAt": "2025-08-19T02:52:43.000Z",
+    "publishDate": "2025-08-19T02:52:43.783Z",
+    "title": "上海：聚焦集成电路、电子信息、汽车等行业 推动企业创新应用人工智能技术",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 10:52:43",
+    "uuid": "0adb0e6c-8edb-41ef-bc6e-9a7e9cfc88da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "柯达公司发布声明澄清，近期有关其停止运营、终止业务或申请破产的媒体报道严重失实，属于对财报技术性披露的误解 ...",
+    "id": "8lwSKhKDm04",
+    "order": 1755571939309,
+    "createdAt": "2025-08-19T02:52:19.000Z",
+    "publishDate": "2025-08-19T02:52:19.309Z",
+    "title": "柯达公司澄清：没有停止运营、终止业务或申请破产保护的计划",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 10:52:19",
+    "uuid": "516016bd-88a6-479d-951b-59392e505d1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "上海发布《加快推动“AI+制造”发展实施方案》，提出加强多模态算法创新，提升物理仿真、视觉处理和智能决策能力，强化工业模型推理与微调支持。",
+    "id": "8lwRmv2tIaF",
+    "order": 1755571760736,
+    "createdAt": "2025-08-19T02:49:20.000Z",
+    "publishDate": "2025-08-19T02:49:20.736Z",
+    "title": "上海：推动基础模型开展多模态算法创新 强化基础模型工业推理能力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 10:49:20",
+    "uuid": "32f377e6-bbce-45bb-be2f-35790a633565"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Grammarly 推出了基于 Coda 构建的全新文档界面，采用“块优先”设计，支持插入表格、列表、标题等元素，并集成多项 AI 工具，提升写作效率 ...",
+    "id": "8lwM6v4jEdb",
+    "order": 1755571608891,
+    "createdAt": "2025-08-19T02:46:48.000Z",
+    "publishDate": "2025-08-19T02:46:48.891Z",
+    "title": "Grammarly 大升级：推出文档界面与多款AI工具，平衡写作与检测",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 10:46:48",
+    "uuid": "00b937b9-6199-4e4b-a92c-62ea33821fda"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "安徽万瑞冷电科技有限公司自主研发的“低温精制及脱氖装置”在陕西延安天然气提氦项目中成功验收，产出纯度高达99.99997%的超纯氦气，氖气杂质含量低于0.3ppm ...",
+    "id": "8lvi6hQHn44",
+    "order": 1755570821109,
+    "createdAt": "2025-08-19T02:33:41.000Z",
+    "publishDate": "2025-08-19T02:33:41.109Z",
+    "title": "我国天然气提氦技术取得新突破：产出99.99997%超高纯氦气",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 10:33:41",
+    "uuid": "b4fb84c9-6648-4657-94cb-b0cc0ec5431f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "英伟达发布最新小型语言模型Nemotron-Nano-9B-V2，参数量为90亿，优化适配A10 GPU，处理速度比同规模Transformer模型快6倍 ...",
+    "id": "8lwOF9kJtSw",
+    "order": 1755570423909,
+    "createdAt": "2025-08-19T02:27:03.000Z",
+    "publishDate": "2025-08-19T02:27:03.909Z",
+    "title": "英伟达发布全新小型模型 Nemotron-Nano-9B-V2",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 10:27:03",
+    "uuid": "46a1b8cd-f37d-4bdf-bf9c-699c9c5e22d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "投资界" },
+      { "siteName": "医药魔方" },
+      { "siteName": "新芽" }
+    ],
+    "summary": "佳惟达生物近日完成数千万元A轮融资，由多家知名投资方共同参与 ...",
+    "id": "8lwMKnXRGBb",
+    "order": 1755570403119,
+    "createdAt": "2025-08-19T02:26:43.000Z",
+    "publishDate": "2025-08-19T02:26:43.119Z",
+    "title": "佳惟达生物完成数千万元A轮融资，凯乘资本担任独家财务顾问",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 10:26:43",
+    "uuid": "d1179a64-86de-4a38-a282-4c69bddd9f51"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "寒武纪股价盘中大涨超5%，突破1000元，再创历史新高，今年以来累计涨幅已超50%。",
+    "id": "8lwQNEFBr0Z",
+    "order": 1755570382596,
+    "createdAt": "2025-08-19T02:24:00.000Z",
+    "publishDate": "2025-08-19T02:26:22.596Z",
+    "title": "寒武纪盘中大涨超5%，股价突破千元大关",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 10:24:00",
+    "uuid": "12469753-d053-4494-af43-eec6e1dd579e"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "第一财经" },
       { "siteName": "格隆汇" }
