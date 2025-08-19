@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "硅铁期货主力合约跌幅扩大，目前下跌超过4%。",
+    "id": "8lwgmMl2nfm",
+    "order": 1755586394906,
+    "createdAt": "2025-08-19T06:53:14.000Z",
+    "publishDate": "2025-08-19T06:53:14.906Z",
+    "title": "硅铁期货主力合约跌逾4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 14:53:14",
+    "uuid": "09ed41c7-ac67-440f-955f-1d0bffdcf63b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "工业富联尾盘涨停，股价再创新高，总市值逼近万亿。",
+    "id": "8lwjW07IFI8",
+    "order": 1755586381770,
+    "createdAt": "2025-08-19T06:53:01.000Z",
+    "publishDate": "2025-08-19T06:53:01.770Z",
+    "title": "工业富联尾盘涨停，股价续创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 14:53:01",
+    "uuid": "0413db7a-cae3-4f6f-9a23-99de2c17a458"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "7月份，全国城镇16-24岁劳动力失业率为17.8%，25-29岁为6.9%，30-59岁为3.9%。",
+    "id": "8lwiwcukwNg",
+    "order": 1755586335780,
+    "createdAt": "2025-08-19T06:52:15.000Z",
+    "publishDate": "2025-08-19T06:52:15.780Z",
+    "title": "国家统计局发布7月份分年龄组失业率数据",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 14:52:15",
+    "uuid": "a950140a-305d-4006-86bc-398cabf97554"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "猎云网" },
+      { "siteName": "新芽" }
+    ],
+    "summary": "芯擎科技完成超10亿元人民币B轮融资，获多地政府基金、险资和银资支持。公司专注于汽车电子芯片研发，已推出国内首款7纳米车规级智能座舱芯片“龍鹰一号”及全场景高阶辅助驾驶芯片“星辰一号” ...",
+    "id": "8lwfMSVx4FS",
+    "order": 1755586081700,
+    "createdAt": "2025-08-19T06:48:01.000Z",
+    "publishDate": "2025-08-19T06:48:01.700Z",
+    "title": "芯擎科技完成超10亿元B轮融资，获得两省首单AIC",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 14:48:01",
+    "uuid": "0c4593ff-98f2-4beb-8c26-6a47e0997c2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "新芽" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "杭州微远生物科技有限公司完成近亿元Pre-A轮融资，由熔拓资本领投，道彤投资跟投，种子轮股东大晶创投、真石资本追加投资 ...",
+    "id": "8lwGP0wKHYZ",
+    "order": 1755586062246,
+    "createdAt": "2025-08-19T06:47:43.000Z",
+    "publishDate": "2025-08-19T06:47:42.246Z",
+    "title": "微远生物完成亿元级Pre-A轮融资，熔拓资本领投",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 14:47:43",
+    "uuid": "e769a3c3-872d-4da2-a7bf-dcca7c69568a"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
@@ -206,6 +294,24 @@
     "up": false,
     "date": "2025-08-19 14:03:19",
     "uuid": "2e3dcedc-d6a4-4282-9abc-899be503abaf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "今年三伏天从7月20日持续至8月18日，为期30天，虽为“短版三伏”，但全国平均气温达23.21℃，为史上第二热。新疆多地高温全勤，四川、湖北、河南等地高温日数破纪录。",
+    "id": "8lwcUnPnR99",
+    "order": 1755586518273,
+    "createdAt": "2025-08-19T06:02:09.000Z",
+    "publishDate": "2025-08-19T06:55:18.273Z",
+    "title": "高温破纪录 今年三伏为史上第二热",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 14:02:09",
+    "uuid": "2f89348b-0a42-4752-b601-5a225d0236ba"
   },
   {
     "newsArray": [
@@ -789,6 +895,25 @@
     "up": false,
     "date": "2025-08-19 11:21:52",
     "uuid": "03de63df-13d7-44dc-a85f-47ce1dae61fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中证网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "南向资金净买入额已超过30亿港元。",
+    "id": "8lwP3rrMXeD",
+    "order": 1755586278957,
+    "createdAt": "2025-08-19T03:18:23.000Z",
+    "publishDate": "2025-08-19T06:51:18.957Z",
+    "title": "南向资金净买入额逾30亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 11:18:23",
+    "uuid": "7af2521e-6483-452f-a906-3812b3885c64"
   },
   {
     "newsArray": [
