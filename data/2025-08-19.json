@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "乌克兰国防部长证实，乌克兰已开始批量生产并装备名为“火烈鸟”的远程巡航导弹，射程可达3000公里，相关细节将在适当时机公布。",
+    "id": "8lwlnVbAV2u",
+    "order": 1755588439547,
+    "createdAt": "2025-08-19T07:27:19.000Z",
+    "publishDate": "2025-08-19T07:27:19.547Z",
+    "title": "乌防长证实乌拥有强大远程武器",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 15:27:19",
+    "uuid": "025e5b49-7681-4dc8-ba23-3b7fbff344d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "广东省发布推动商业航天高质量发展政策，鼓励企业在可重复使用液体火箭发动机、低成本卫星、卫星通信等领域开展核心技术攻关，并优先纳入省市级科技计划支持 ...",
+    "id": "8lwln74ZLF1",
+    "order": 1755588201012,
+    "createdAt": "2025-08-19T07:23:22.000Z",
+    "publishDate": "2025-08-19T07:23:21.012Z",
+    "title": "广东：鼓励企业聚焦可重复使用液体火箭发动机等领域开展核心技术攻关",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 15:23:22",
+    "uuid": "1595b9d7-9b27-45d1-be21-577c1accd4a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果计划在Xcode开发环境中引入Anthropic的Claude AI助手，为开发者提供更多AI编程选择 ...",
+    "id": "8lwSUzieVMr",
+    "order": 1755587724183,
+    "createdAt": "2025-08-19T07:15:25.000Z",
+    "publishDate": "2025-08-19T07:15:24.183Z",
+    "title": "苹果Xcode即将原生集成Claude，开发者编程体验将迎来重大升级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 15:15:25",
+    "uuid": "fcc5fb73-3304-4a00-94ff-a845c9a423bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "万物云2025年中期业绩显示，公司实现营业收入181.4亿元，同比增长3.1%。净利润8.4亿元，同比增长5.4%。核心净利润13.2亿元，同比增长10.8% ...",
+    "id": "8lvJoh2bgfL",
+    "order": 1755587668984,
+    "createdAt": "2025-08-19T07:14:28.000Z",
+    "publishDate": "2025-08-19T07:14:28.984Z",
+    "title": "万物云：开发商关联业务收入占比进一步下降，核心净利润启动反弹",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 15:14:28",
+    "uuid": "8fd12c4c-eada-4cc7-8a4b-28af5b2c73d6"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -178,6 +250,24 @@
     "up": false,
     "date": "2025-08-19 14:47:43",
     "uuid": "e769a3c3-872d-4da2-a7bf-dcca7c69568a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "秦晓，前高盛全球大宗商品交易团队联席主管，创立了总部位于新加坡的对冲基金公司Nexus Commodities Capital Management Pte，并获得Millennium Management LLC约10亿美元的资金支持，计划于今年晚些时候开始交易 ...",
+    "id": "8lwaL4mSEbd",
+    "order": 1755587948830,
+    "createdAt": "2025-08-19T06:44:28.000Z",
+    "publishDate": "2025-08-19T07:19:08.830Z",
+    "title": "高盛前交易员新创的对冲基金据悉获Millennium投入10亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 14:44:28",
+    "uuid": "57e127db-5c29-4721-a101-42483715f23e"
   },
   {
     "newsArray": [
@@ -1728,6 +1818,25 @@
     "up": false,
     "date": "2025-08-19 01:41:34",
     "uuid": "216f0cd2-6cf0-49e9-841a-e5cc10585e8f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "镇江低空产业投资有限公司近日发生工商变更，新增天津融苏思企业管理中心（有限合伙）为股东，注册资本由20亿元增至约27.2亿元，增幅约36% ...",
+    "id": "8lvFTAT4L40",
+    "order": 1755587747647,
+    "createdAt": "2025-08-18T17:32:47.000Z",
+    "publishDate": "2025-08-19T07:15:47.647Z",
+    "title": "镇江低空产业投资公司增资至27.2亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-19 01:32:47",
+    "uuid": "f7f2d7e1-cbd3-4ddb-88cb-5611323bf85d"
   },
   {
     "newsArray": [
