@@ -1,6 +1,159 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "欧洲主要股指开盘集体下跌，德国DAX30指数跌幅最大，达0.78%。",
+    "id": "8ly3tJoyZo7",
+    "order": 1755674043904,
+    "createdAt": "2025-08-20T07:14:03.000Z",
+    "publishDate": "2025-08-20T07:14:03.904Z",
+    "title": "周三欧洲主要股指开盘集体下跌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 15:14:03",
+    "uuid": "6e013c78-4c37-4cb9-acd0-51153d9f4bfb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "豪尔赛因信息披露问题被北京证监局采取出具警示函的行政监管措施。公司控股股东、实际控制人戴宝林因涉嫌单位行贿罪被逮捕，公司也因涉嫌该罪被立案调查，但未及时披露相关信息 ...",
+    "id": "8lx7UR82T0q",
+    "order": 1755674026471,
+    "createdAt": "2025-08-20T07:13:47.000Z",
+    "publishDate": "2025-08-20T07:13:46.471Z",
+    "title": "迟迟不披露被立案调查，豪尔赛及多名高管收警示函",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 15:13:47",
+    "uuid": "eb6a7fb9-703b-4f4f-b0fc-35f57a3cc902"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "甲骨文公司将OpenAI最新AI模型GPT-5集成到其云服务和SaaS应用中，提升企业在数据库、HR、财务等领域的智能化水平 ...",
+    "id": "8lyPIzdMSyB",
+    "order": 1755673526085,
+    "createdAt": "2025-08-20T07:05:27.000Z",
+    "publishDate": "2025-08-20T07:05:26.085Z",
+    "title": "​甲骨文深度集成 GPT-5，助力企业智能化转型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 15:05:27",
+    "uuid": "029f6e3f-7485-4066-b40c-376ae71afe50"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "界面" }
+    ],
+    "summary": "诺华集团创新产品诺锐达®（盐酸阿曲生坦片）获国家药监局批准，用于降低有疾病快速进展风险的原发性IgA肾病成人患者的蛋白尿 ...",
+    "id": "8lyNCvLz6Zn",
+    "order": 1755673489519,
+    "createdAt": "2025-08-20T07:04:50.000Z",
+    "publishDate": "2025-08-20T07:04:49.519Z",
+    "title": "诺华创新药诺锐达IgA肾病适应症在中国获批",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 15:04:50",
+    "uuid": "845bef7c-0344-4574-82e5-782c2605dde4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "字节跳动与芯原股份被传合作设计AI算力芯片，但字节跳动回应称双方并无相关合作。",
+    "id": "8lyPGOKNP5j",
+    "order": 1755673476937,
+    "createdAt": "2025-08-20T07:04:36.000Z",
+    "publishDate": "2025-08-20T07:04:36.937Z",
+    "title": "字节跳动辟谣：与芯原股份并无AI芯片相关合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 15:04:36",
+    "uuid": "e5a21aff-5ac5-4883-800d-8c050993b0d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米无线蓝牙双模鼠标2舒适版发布，采用非对称人体工学设计，配备加宽硅胶滚轮和TTC轻音开关，支持1200DPI精度与双模连接，可切换两台设备，内置隐藏式电池仓与PTFE脚垫，重约63g，提供黑白双色可选。",
+    "id": "8lyNZCNK5fa",
+    "order": 1755673441706,
+    "createdAt": "2025-08-20T07:04:02.000Z",
+    "publishDate": "2025-08-20T07:04:01.706Z",
+    "title": "79元 小米无线蓝牙双模鼠标2舒适版发布：非对称造型、1200DPI",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 15:04:02",
+    "uuid": "f2fee9cd-b756-40c3-8960-56d879d8c001"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "A股三大指数翻红，上证指数涨0.83%，续创十年新高。半导体板块午后走强，科创50指数涨超3%，芯原股份涨停。白酒、化纤、屏下摄像、小金属、乳业等概念涨幅居前 ...",
+    "id": "8lyNqB0BZlY",
+    "order": 1755673403682,
+    "createdAt": "2025-08-20T07:03:23.000Z",
+    "publishDate": "2025-08-20T07:03:23.682Z",
+    "title": "A股三大指数翻红，沪指续创10年新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 15:03:23",
+    "uuid": "3a55f5a6-7272-4893-ae8c-de0f2b04bd3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "今年前7个月，二连浩特口岸进出口货运量达1128万吨，同比增长3.3%，创历史同期新高。监管进出境运输工具91.9万辆节架次，同比增长6.3% ...",
+    "id": "8lyOXGnYZi4",
+    "order": 1755673315984,
+    "createdAt": "2025-08-20T07:01:55.000Z",
+    "publishDate": "2025-08-20T07:01:55.984Z",
+    "title": "中蒙最大陆路口岸进出境货运量突破1100万吨 创历史同期新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 15:01:55",
+    "uuid": "84ba5482-b8d2-4ea7-9888-4582708f75ed"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "36Kr" }
@@ -120,6 +273,25 @@
     "up": false,
     "date": "2025-08-20 14:33:57",
     "uuid": "ddd7d4ff-04fe-42fa-92d2-fb039eb0b8a3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "吉利汽车官方回应用户关于旗下部分车型“基础流量”权益的疑问，明确表示包含E-CALL在内的相关功能权益不会变更或减配，该权益覆盖吉利中国星及吉利银河品牌所有车型。",
+    "id": "8lyL7He5as2",
+    "order": 1755673540474,
+    "createdAt": "2025-08-20T06:33:16.000Z",
+    "publishDate": "2025-08-20T07:05:40.474Z",
+    "title": "吉利汽车解答“基础流量”权益：涵盖远程控制、OTA升级等功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 14:33:16",
+    "uuid": "83d57240-47e2-4dad-bc6d-e8cddae7b2db"
   },
   {
     "newsArray": [
