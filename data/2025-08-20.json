@@ -1,6 +1,37 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "费城半导体指数早盘下跌逾1%，其中英特尔跌幅超过6%，为7月25日以来最大日内跌幅。美光科技跌超4%，台积电和Arm Holdings跌幅均超过2%。",
+    "id": "8lysPRkcyXO",
+    "order": 1755697936137,
+    "createdAt": "2025-08-20T13:52:16.000Z",
+    "publishDate": "2025-08-20T13:52:16.137Z",
+    "title": "费城半导体指数盘初跌超1%，英特尔跌超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 21:52:16",
+    "uuid": "a82cffd5-d07c-432a-9896-caa174b6b6f0"
+  },
+  {
+    "newsArray": [{ "siteName": "科学网" }, { "siteName": "财联社" }],
+    "summary": "电流重塑角膜技术或可矫正视力，无需切削角膜组织，相关研究在美国化学会秋季年会上公布。",
+    "id": "8lxsPE66SrU",
+    "order": 1755697870371,
+    "createdAt": "2025-08-20T13:51:10.000Z",
+    "publishDate": "2025-08-20T13:51:10.371Z",
+    "title": "动物实验显示：电流重塑角膜技术能有效矫正视力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 21:51:10",
+    "uuid": "dcb91966-35f4-4c96-8aef-5d243a428ab5"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
@@ -802,6 +833,24 @@
     "up": false,
     "date": "2025-08-20 19:05:01",
     "uuid": "1e3e1a9a-de2f-44e7-9a08-ca5e63104429"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "华住集团发布中期业绩报告，上半年收入约118亿元，同比增长3.5%。净利润约24亿元，同比增长41.3%。",
+    "id": "8lyfinymJ3y",
+    "order": 1755697959568,
+    "createdAt": "2025-08-20T11:01:48.000Z",
+    "publishDate": "2025-08-20T13:52:39.568Z",
+    "title": "华住集团：2025上半年净利润约24亿元，同比增加41.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-20 19:01:48",
+    "uuid": "8dcabd46-1c94-4430-a241-e25276195a42"
   },
   {
     "newsArray": [
