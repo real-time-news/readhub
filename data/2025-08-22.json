@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "首驱科技近日完成近亿元天使轮融资，资金将用于智能座舱平台开发、S-Smart系统应用开发、全系新国标产品量产及全球化市场布局 ...",
+    "id": "8m1JQ0MZbwC",
+    "order": 1755844951874,
+    "createdAt": "2025-08-22T06:42:32.000Z",
+    "publishDate": "2025-08-22T06:42:31.874Z",
+    "title": "“首驱科技”获亿元级天使轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-22 14:42:32",
+    "uuid": "bbb58019-e10c-4a02-8349-1b987ac96e7f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "土耳其竞争管理局8月22日宣布对谷歌展开调查，因其涉嫌违反竞争保护法。谷歌被指通过谷歌商店强制应用开发者使用其自有支付系统，并限制开发者向用户告知其他支付渠道。",
+    "id": "8m1gwJETtmA",
+    "order": 1755844316825,
+    "createdAt": "2025-08-22T06:31:57.000Z",
+    "publishDate": "2025-08-22T06:31:56.825Z",
+    "title": "土耳其竞争监管机构对谷歌启动调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-22 14:31:57",
+    "uuid": "52ac602a-ffd1-45c1-97f2-81c0fd8e7a4e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "电影《坏蛋联盟2》上映6天，总票房突破8000万元。",
+    "id": "8lzrHojz8wu",
+    "order": 1755843807769,
+    "createdAt": "2025-08-22T06:23:27.000Z",
+    "publishDate": "2025-08-22T06:23:27.769Z",
+    "title": "电影《坏蛋联盟2》总票房破8000万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-22 14:23:27",
+    "uuid": "5db8086a-aa6f-41ee-a0a7-d600f2970440"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Anthropic宣布将Claude Code纳入团队和企业订阅服务，并推出合规API，标志着其在开发者工具领域的战略转变 ...",
+    "id": "8m1JQvw1Qbr",
+    "order": 1755843795173,
+    "createdAt": "2025-08-22T06:23:16.000Z",
+    "publishDate": "2025-08-22T06:23:15.173Z",
+    "title": "Anthropic将Claude Code整合进企业计划 提升AI开发治理能力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-22 14:23:16",
+    "uuid": "a8c4d254-7ed0-4690-8d2d-871f8ff49ebd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "以色列对加沙城及周边地区的持续轰炸导致大量平民流离失所，8月12日至20日，加沙地带新增流离失所者超过1.68万人，其中95%来自加沙城。",
+    "id": "8m1bKQbdjWb",
+    "order": 1755843717233,
+    "createdAt": "2025-08-22T06:21:58.000Z",
+    "publishDate": "2025-08-22T06:21:57.233Z",
+    "title": "联合国：不到10天 加沙地带新增超1.68万流离失所者",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-22 14:21:58",
+    "uuid": "d5cbfe40-0be6-4928-a79c-5ad6981f0a03"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "DoNews" }
@@ -118,6 +206,24 @@
     "up": false,
     "date": "2025-08-22 13:43:11",
     "uuid": "82c6fbe3-df34-4742-8a6a-b72da21e52c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "蚂蚁集团与北京大学第三医院达成战略合作，成立AI医疗联合创新实验室，旨在结合双方优势，推动人工智能在医疗领域的技术研发与应用 ...",
+    "id": "8m1bzqg2gmN",
+    "order": 1755844359202,
+    "createdAt": "2025-08-22T05:41:27.000Z",
+    "publishDate": "2025-08-22T06:32:39.202Z",
+    "title": "蚂蚁集团加速医疗AI，与北医三院成立医疗大模型联合实验室",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-22 13:41:27",
+    "uuid": "32b6b419-0c94-4400-8991-be4fe62d0d99"
   },
   {
     "newsArray": [
