@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Spotify被曝将推出新服务，可能预示未来价格上调。",
+    "id": "8m4sBl50UT0",
+    "order": 1756011129654,
+    "createdAt": "2025-08-24T04:52:09.000Z",
+    "publishDate": "2025-08-24T04:52:09.654Z",
+    "title": "Spotify据称推出新服务，暗示将进一步涨价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-24 12:52:09",
+    "uuid": "4caac093-fc3c-42b3-8105-f0bc7cd6f71a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Firefox 142版本为Windows 10和Windows 11用户新增了对PWA的支持，允许将常用网站固定到任务栏并以简洁窗口形式运行 ...",
+    "id": "8m3Ix4v4mBC",
+    "order": 1756010989894,
+    "createdAt": "2025-08-24T04:49:49.000Z",
+    "publishDate": "2025-08-24T04:49:49.894Z",
+    "title": "Firefox 142实验性支持PWA任务栏固定功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-24 12:49:49",
+    "uuid": "099c9a00-15d5-4359-96c5-3e5b41a3ec91"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "第一财经" },
       { "siteName": "格隆汇" },
