@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "随着新米进入收获期，日本各地农协大幅提高新米预付款，预示秋季后大米市场价格可能进一步上涨。",
+    "id": "8m77bMqMXoU",
+    "order": 1756164312586,
+    "createdAt": "2025-08-25T23:25:12.000Z",
+    "publishDate": "2025-08-25T23:25:12.586Z",
+    "title": "日本新米收购预付款大幅提高，大米涨价潮恐再现",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 07:25:12",
+    "uuid": "ba313b62-8a6d-4b93-a125-abb49bee6b99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "中国科技网" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "中国五矿王炯辉科研团队成功攻克高端天然石墨材料规模化制备技术及装备难题，实现核级石墨、超高纯石墨、高性能天然石墨负极材料等多种高端石墨产品的规模化生产 ...",
+    "id": "8m774t9PPwK",
+    "order": 1756164104541,
+    "createdAt": "2025-08-25T23:21:45.000Z",
+    "publishDate": "2025-08-25T23:21:44.541Z",
+    "title": "我国高端石墨产品研发取得连续突破 实现关键材料自主可控",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 07:21:45",
+    "uuid": "9b2203c0-0b29-47e7-9f35-2415a1f77f0a"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -32,6 +66,26 @@
     "up": false,
     "date": "2025-08-26 06:21:25",
     "uuid": "acd56324-1b08-46e9-9abd-59e3e02e32b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "白宫国家经济委员会主任哈塞特表示，政府入股企业是推动制造业回流美国的战略之一，类似对英特尔的投资可能扩展至其他领域 ...",
+    "id": "8m7G9aZRhLx",
+    "order": 1756163590548,
+    "createdAt": "2025-08-25T21:22:08.000Z",
+    "publishDate": "2025-08-25T23:13:10.548Z",
+    "title": "效仿英特尔协议，美国主权财富基金或入股更多公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 05:22:08",
+    "uuid": "1117dac7-8c21-43dd-98a5-1f4e644d4153"
   },
   {
     "newsArray": [
@@ -211,6 +265,47 @@
     "up": false,
     "date": "2025-08-26 01:42:06",
     "uuid": "c52ecbeb-97e1-485f-9625-7ffd9635e059"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果向 Mac 用户推送了 macOS 26 开发者预览版 Beta 8 更新，版本号为 25A5349a，距离上次更新间隔 7 天 ...",
+    "id": "8m7Q4jmSUw5",
+    "order": 1756164177557,
+    "createdAt": "2025-08-25T17:21:58.000Z",
+    "publishDate": "2025-08-25T23:22:57.557Z",
+    "title": "苹果 macOS 26 开发者预览版 Beta 8 发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 01:21:58",
+    "uuid": "218d3c1d-9361-420f-a449-0e0cb2f943ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "每经网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "英伟达发布专为物理AI和机器人设计的Jetson AGX Thor开发者套件和量产级模组，算力相较上一代提升7.5倍，能效提升3.5倍，支持主流AI框架与生成式AI模型 ...",
+    "id": "8m7IzCHgJGL",
+    "order": 1756163589438,
+    "createdAt": "2025-08-25T17:02:05.000Z",
+    "publishDate": "2025-08-25T23:13:09.438Z",
+    "title": "英伟达专为机器人设计的计算平台上市 公司：宇树科技、智元机器人等国内厂商都在用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 01:02:05",
+    "uuid": "ca5edb9c-6fac-4a54-b1ae-5e8219c3dc15"
   },
   {
     "newsArray": [
