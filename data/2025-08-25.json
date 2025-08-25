@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "千岛群岛以东附近于8月25日14时48分发生6.6级左右地震，具体结果以正式速报为准。",
+    "id": "8m6huMGnhWV",
+    "order": 1756106106549,
+    "createdAt": "2025-08-25T07:15:06.000Z",
+    "publishDate": "2025-08-25T07:15:06.549Z",
+    "title": "千岛群岛以东附近发生6.6级左右地震",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 15:15:06",
+    "uuid": "1d37bd6e-90d3-4e7a-bb7b-24e88151a53f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧洲主要股指开盘多数下跌，德国DAX30指数跌幅最大，为0.61%。英国富时100指数微涨0.13%。法国CAC40指数下跌0.34%。欧洲斯托克50指数下跌0.38%。",
+    "id": "8m6huSzUqTG",
+    "order": 1756105943739,
+    "createdAt": "2025-08-25T07:12:23.000Z",
+    "publishDate": "2025-08-25T07:12:23.739Z",
+    "title": "欧洲主要股指开盘多数下跌，德国DAX30指数跌0.61%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 15:12:23",
+    "uuid": "960c64ed-7304-490e-855c-82b4c925286e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "爱范儿" },
+      { "siteName": "界面" }
+    ],
+    "summary": "钉钉发布8.0版本，推出全新AI办公应用形态“钉钉ONE”，旨在通过人与AI的自然语言对话，打造全球首个以Agent驱动的工作信息流。",
+    "id": "8m6ROzugbk1",
+    "order": 1756105576076,
+    "createdAt": "2025-08-25T07:06:16.000Z",
+    "publishDate": "2025-08-25T07:06:16.076Z",
+    "title": "钉钉推出下一代AI办公应用形态“钉钉ONE”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 15:06:16",
+    "uuid": "6d39dc1d-995d-4607-91f8-fba6485fe58c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "科创50指数成交额突破单日历史新高，达到1300亿元。此前仅有两个交易日成交额超过1000亿元，分别为2024年10月9日的1290亿元和2025年8月22日的1104亿元。",
+    "id": "8m6hpL5tYiN",
+    "order": 1756105424751,
+    "createdAt": "2025-08-25T07:03:44.000Z",
+    "publishDate": "2025-08-25T07:03:44.751Z",
+    "title": "科创50指数成交额突破单日历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 15:03:44",
+    "uuid": "3e60b8c1-ed52-4ee6-add1-f721ae42ba27"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" }
@@ -32,6 +104,24 @@
     "up": false,
     "date": "2025-08-25 14:52:36",
     "uuid": "ca080591-1607-46cc-b8c8-ab88a98460c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美国饮料公司Keurig Dr Pepper宣布将以全现金交易收购皮爷咖啡母公司JDE Peet's，交易总价达157亿欧元 ...",
+    "id": "8m6gOVeuiPC",
+    "order": 1756105510122,
+    "createdAt": "2025-08-25T06:52:13.000Z",
+    "publishDate": "2025-08-25T07:05:10.122Z",
+    "title": "KDP宣布将收购皮爷咖啡母公司JDE Peet's",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 14:52:13",
+    "uuid": "fdfd8ea0-9434-4541-9b99-5ff261b3a893"
   },
   {
     "newsArray": [
@@ -393,6 +483,24 @@
     "up": false,
     "date": "2025-08-25 13:13:00",
     "uuid": "f24318f5-7d53-499f-8798-4a51cdf77bf9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中芯国际H股午后转跌，早盘曾涨近8%。",
+    "id": "8m6ZuPHEiXR",
+    "order": 1756105468462,
+    "createdAt": "2025-08-25T05:12:40.000Z",
+    "publishDate": "2025-08-25T07:04:28.462Z",
+    "title": "中芯国际H股午后转跌，早盘一度涨近8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 13:12:40",
+    "uuid": "6f183e15-982e-4969-babc-694c28e1d505"
   },
   {
     "newsArray": [
@@ -941,6 +1049,24 @@
     "up": false,
     "date": "2025-08-25 11:32:04",
     "uuid": "a95f3611-cdf6-4182-9160-19a22b8294e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "ETF市场成交额突破2500亿元，其中股票型ETF成交额最高，为1343.70亿元，债券型ETF成交额565.91亿元，货币型ETF成交额209.93亿元，商品型ETF成交额27.08亿元，QDII型ETF成交额365.24亿元。",
+    "id": "8m6NlxelkS1",
+    "order": 1756105864987,
+    "createdAt": "2025-08-25T03:31:42.000Z",
+    "publishDate": "2025-08-25T07:11:04.987Z",
+    "title": "ETF两市成交额超2500亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 11:31:42",
+    "uuid": "07b1d102-c48b-400f-b8fb-eec198ea82c3"
   },
   {
     "newsArray": [
