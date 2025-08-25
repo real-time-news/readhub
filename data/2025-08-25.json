@@ -1,6 +1,128 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "国债期货涨幅扩大，30年期主力合约上涨0.49%，10年期涨0.12%，5年期涨0.07%，2年期涨0.02%。",
+    "id": "8m6KHPVVgPY",
+    "order": 1756093012371,
+    "createdAt": "2025-08-25T03:36:52.000Z",
+    "publishDate": "2025-08-25T03:36:52.371Z",
+    "title": "国债期货涨幅持续扩大 30年期主力合约涨0.49%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 11:36:52",
+    "uuid": "c3eb1d67-a164-4d21-8c59-736e498a6715"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "央行8月通过MLF和买断式逆回购操作实现中期流动性净投放6000亿元，为近半年最大单月规模。全月MLF净投放3000亿元，买断式逆回购净投放3000亿元，显示货币政策与财政政策协同加强 ...",
+    "id": "8m5ErWuvXsj",
+    "order": 1756092982030,
+    "createdAt": "2025-08-25T03:36:22.000Z",
+    "publishDate": "2025-08-25T03:36:22.030Z",
+    "title": "中期流动性净投放创半年峰值，降准降息时点或后移",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 11:36:22",
+    "uuid": "ce32ae2e-ed7d-431b-b839-13a81ee9f076"
+  },
+  {
+    "newsArray": [
+      { "siteName": "AMZ123" },
+      { "siteName": "AMZ123" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国自8月29日起取消小额包裹免税政策，所有国际邮件需缴纳关税并提供详细信息，通过Pay.gov系统支付 ...",
+    "id": "8m4rRhtufDj",
+    "order": 1756092940006,
+    "createdAt": "2025-08-25T03:35:41.000Z",
+    "publishDate": "2025-08-25T03:35:40.006Z",
+    "title": "美国取消小额包裹免税政策 17国邮政暂停寄美服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 11:35:41",
+    "uuid": "0be0167d-6e33-486f-9dc5-919708f28d4e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "蔚来宣布NIO Day 2025将于9月下旬在杭州举行，并将在活动期间正式发布全新ES8车型。",
+    "id": "8m6SKtuR0qP",
+    "order": 1756092918317,
+    "createdAt": "2025-08-25T03:35:19.000Z",
+    "publishDate": "2025-08-25T03:35:18.317Z",
+    "title": "蔚来：NIO Day 2025将于9月下旬在杭州举办",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 11:35:19",
+    "uuid": "3ce14e72-d5ed-4aa7-b65b-a41d3ac9fe70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日本财务大臣加藤胜信表示，尽管加密资产具有高波动性，但通过建立适当的投资环境，可以成为多元化投资的一部分。他强调将努力构建合适的交易环境以适应日益增长的加密资产用户需求。",
+    "id": "8m6MS9AeYRd",
+    "order": 1756092878456,
+    "createdAt": "2025-08-25T03:34:38.000Z",
+    "publishDate": "2025-08-25T03:34:38.456Z",
+    "title": "日本财务大臣加藤胜信：加密资产可以成为多元化投资的一部分",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 11:34:38",
+    "uuid": "25882f23-e7b7-42c8-921c-435a81b7ae67"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "高盛将寒武纪目标价上调50%至1835元人民币，主要由于中国云计算资本支出增加、芯片平台多样化及研发投入加大 ...",
+    "id": "8m6KHMRKRGJ",
+    "order": 1756092724621,
+    "createdAt": "2025-08-25T03:32:04.000Z",
+    "publishDate": "2025-08-25T03:32:04.621Z",
+    "title": "高盛上调寒武纪目标价50%至1835元 看好AI芯片出货增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 11:32:04",
+    "uuid": "a95f3611-cdf6-4182-9160-19a22b8294e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "CPO概念股持续上涨，罗博特科涨停，中际旭创、强瑞技术、德科立涨幅超10%，仕佳光子、新易盛等跟涨。",
+    "id": "8m6PFY7M3nd",
+    "order": 1756092706331,
+    "createdAt": "2025-08-25T03:02:41.000Z",
+    "publishDate": "2025-08-25T03:31:46.331Z",
+    "title": "CPO概念股持续走强，罗博特科“20cm”涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 11:02:41",
+    "uuid": "d318463f-981d-4477-8cd9-822147f2bc2a"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
@@ -162,6 +284,45 @@
     "up": false,
     "date": "2025-08-25 10:24:04",
     "uuid": "8154bc1f-9d90-4f73-9b0a-e52b5e619c2b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "无锡先导智能装备股份有限公司于2025年2月25日递交的港股招股书，因满6个月未获进展，于2025年8月25日失效。递表时由中信证券和摩根大通担任联席保荐人。",
+    "id": "8m6JXpeUdFh",
+    "order": 1756092590054,
+    "createdAt": "2025-08-25T01:34:12.000Z",
+    "publishDate": "2025-08-25T03:29:50.054Z",
+    "title": "先导智能港股IPO招股书失效",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 09:34:12",
+    "uuid": "3e3beeb9-2ca6-4472-bff9-d15242132a36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" },
+      { "siteName": "开源中国" },
+      { "siteName": "投资界" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "特斯拉 CEO 埃隆・马斯克宣布 xAI 的 Grok-2.5 模型正式开源，Grok-3 将在六个月内开源。他强调中国在电力和硬件建设方面的领先优势，认为中国已成为最强竞争对手 ...",
+    "id": "8m6BB7wWNTM",
+    "order": 1756092639114,
+    "createdAt": "2025-08-25T01:33:58.000Z",
+    "publishDate": "2025-08-25T03:30:39.114Z",
+    "title": "​马斯克宣布 xAI Grok-2.5开源，称中国公司将成为最强竞争对手",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 09:33:58",
+    "uuid": "787a4e18-6390-4757-9ac6-5991bb5cee96"
   },
   {
     "newsArray": [
@@ -328,6 +489,26 @@
     "up": false,
     "date": "2025-08-25 09:04:54",
     "uuid": "2fe4f3e7-7b6c-4395-8509-202633155bf4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "杏泽资本完成对信华生物药业数千万美元 A+ 轮融资，领投支持其核心管线进入全球临床试验，加速首创新药和同类最佳药研发。",
+    "id": "8m6Ftg52qQC",
+    "order": 1756092671801,
+    "createdAt": "2025-08-25T00:43:18.000Z",
+    "publishDate": "2025-08-25T03:31:11.801Z",
+    "title": "信华生物完成数千万美元 A+ 轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-25 08:43:18",
+    "uuid": "7580a3f8-eca1-407b-a1ef-855c21325736"
   },
   {
     "newsArray": [
