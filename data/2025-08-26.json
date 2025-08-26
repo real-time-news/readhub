@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "长征八号甲火箭成功发射卫星互联网低轨第10组卫星，标志着该型号火箭已具备高密度发射能力，能够满足中低轨道巨型星座组网发射需求。",
+    "id": "8m7uN66tmT3",
+    "order": 1756178796308,
+    "createdAt": "2025-08-26T03:26:37.000Z",
+    "publishDate": "2025-08-26T03:26:36.308Z",
+    "title": "长征八号甲火箭开启脉动式总装测试发射全流程",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 11:26:37",
+    "uuid": "d8e471f7-659e-40cb-ba32-a2c28c4a95eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "鸿蒙应用开发者激励计划2025发布，单个应用最高可获1万元现金奖励。同时，亚马逊通过“反向人才收购”模式吸引AI初创公司Adept的核心团队，引发行业关注 ...",
+    "id": "8m6I8sSX9TM",
+    "order": 1756177997153,
+    "createdAt": "2025-08-26T03:13:17.000Z",
+    "publishDate": "2025-08-26T03:13:17.153Z",
+    "title": "亚马逊 AGI 实验室掌门人首度回应\"反向收购\"争议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 11:13:17",
+    "uuid": "95c8ff75-d6e7-4389-8806-adbfebc9833e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "中华网" },
+      { "siteName": "雷锋网" },
+      { "siteName": "猎云网" },
+      { "siteName": "白鲸出海" }
+    ],
+    "summary": "SHEIN持续推动传统制造业转型升级，通过技术创新、人才培养和绿色化升级等多方面举措助力服装产业发展 ...",
+    "id": "8m83PcRZjrr",
+    "order": 1756177948731,
+    "createdAt": "2025-08-26T03:12:29.000Z",
+    "publishDate": "2025-08-26T03:12:28.731Z",
+    "title": "系统性助力产业升级，SHEIN两年投入近3亿赋能供应商",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 11:12:29",
+    "uuid": "d8757620-1362-4cf8-bd32-25fef8128914"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "我国已实现跨电网经营区的常态化电力交易，有效推动了电力市场一体化发展。电力市场“四梁八柱”体系解决了各地规则碎片化问题，打破地方保护和壁垒，保障了市场公开透明和公平竞争。",
+    "id": "8m83PT0YSmp",
+    "order": 1756177896672,
+    "createdAt": "2025-08-26T03:11:37.000Z",
+    "publishDate": "2025-08-26T03:11:36.672Z",
+    "title": "国家能源局李创军：跨电网经营区常态化交易 让塞北的风点亮大湾区的灯",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 11:11:37",
+    "uuid": "f947e0b5-86d5-4b40-abec-4f497561c8d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌正在为苹果 iOS 开发兼容安卓的“快速分享”功能。通过拆解 Google Play 服务的 Beta 版本，发现了一些与 iPhone 文件共享相关的代码 ...",
+    "id": "8m81Ios2jO3",
+    "order": 1756177648593,
+    "createdAt": "2025-08-26T03:07:29.000Z",
+    "publishDate": "2025-08-26T03:07:28.593Z",
+    "title": "跨端“AirDrop”，曝谷歌安卓“快速分享”功能将兼容苹果 iOS",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 11:07:29",
+    "uuid": "44abce83-513e-41ce-a579-974586365f77"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "消费者投诉航旅纵横 App 推出的「惊喜数字」航班延误保险活动存在误导 ...",
+    "id": "8m80WH1YD7r",
+    "order": 1756177749528,
+    "createdAt": "2025-08-26T02:44:19.000Z",
+    "publishDate": "2025-08-26T03:09:09.528Z",
+    "title": "航旅纵横「赌博险」调查：9.9 元押注精准延误，赔付率极低",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 10:44:19",
+    "uuid": "31657f74-d937-40f4-8a3e-32bc80dae4c8"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "手机中国" },
       { "siteName": "界面" }
@@ -53,6 +157,41 @@
   {
     "newsArray": [
       { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "“十四五”期间，我国能源供应能力显著提升，前四年能源消费增量达“十三五”时期的1.5倍。能源资源配置更加优化，基础设施网络更加完善，东部地区40%的用能依赖“西电东送”等能源输送通道 ...",
+    "id": "8m81yoHVNh8",
+    "order": 1756177929689,
+    "createdAt": "2025-08-26T02:25:46.000Z",
+    "publishDate": "2025-08-26T03:12:09.689Z",
+    "title": "每5辆电动汽车就有2个充电桩，我国建成全球最大电动汽车充电网络",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 10:25:46",
+    "uuid": "25e2f60d-d5df-4bed-9f97-cd6eefba59dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "爱范儿" }
+    ],
+    "summary": "喜茶近期调整了其线上渠道策略，首次入驻淘宝闪购平台，并在美团上线低价拼好饭项目，以拓展下沉市场。此前，喜茶主要依赖自有小程序和美团外卖。",
+    "id": "8m7tOiZ0nps",
+    "order": 1756177965252,
+    "createdAt": "2025-08-26T02:24:27.000Z",
+    "publishDate": "2025-08-26T03:12:45.252Z",
+    "title": "喜茶上线拼好饭",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 10:24:27",
+    "uuid": "9e7a2325-d962-4683-8135-d21569f4b13b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -86,6 +225,24 @@
     "up": false,
     "date": "2025-08-26 10:23:48",
     "uuid": "ffbdcc34-5455-4493-9b96-23610e6ee646"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "健康界" }
+    ],
+    "summary": "东软医疗自主研发的NeuViz P10光子计数CT通过国家药品监督管理局创新产品注册申请，获批上市。",
+    "id": "8m81Nq83eXT",
+    "order": 1756177485612,
+    "createdAt": "2025-08-26T02:19:23.000Z",
+    "publishDate": "2025-08-26T03:04:45.612Z",
+    "title": "东软医疗光子计数CT获批上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 10:19:23",
+    "uuid": "029bac9d-a071-48ab-8b26-a901b4ee95ee"
   },
   {
     "newsArray": [
@@ -201,6 +358,23 @@
     "up": false,
     "date": "2025-08-26 08:52:36",
     "uuid": "f81a6fc4-2e90-420a-9d22-ee7c17ced569"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "马斯克旗下人工智能公司xAI起诉苹果和OpenAI，指控其联手阻碍AI领域竞争 ...",
+    "id": "8m7rwpF6ad9",
+    "order": 1756177803234,
+    "createdAt": "2025-08-26T00:51:57.000Z",
+    "publishDate": "2025-08-26T03:10:03.234Z",
+    "title": "马斯克转发Grok高评分截图，继续指责苹果损害竞争",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-26 08:51:57",
+    "uuid": "75e1e00d-0ca7-49d9-b0e5-5e6e6082cfa6"
   },
   {
     "newsArray": [
