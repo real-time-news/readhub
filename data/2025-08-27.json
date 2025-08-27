@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "30年期主力合约跌0.20%，10年期主力合约跌0.05%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
+    "id": "8m9n0NSmw9h",
+    "order": 1756279600683,
+    "createdAt": "2025-08-27T07:26:41.000Z",
+    "publishDate": "2025-08-27T07:26:40.683Z",
+    "title": "国债期货早盘收盘全线下跌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-27 15:26:41",
+    "uuid": "c70e90ef-9eb8-40f4-a950-8af1408044c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉近日展示了其FSD（监督模式）在实际道路中的表现，视频显示车辆可在驾驶员监督下完成变道、避让、转弯等操作，对交通信号和路况反应迅速 ...",
+    "id": "8m9lqxE9QrR",
+    "order": 1756279586663,
+    "createdAt": "2025-08-27T07:26:27.000Z",
+    "publishDate": "2025-08-27T07:26:26.663Z",
+    "title": "消息称特斯拉将于本月底在澳大利亚推出FSD",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-27 15:26:27",
+    "uuid": "38ff556e-9dfb-430a-949b-d7c0788abb8b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "联合国大会于周二成立“人工智能独立国际科学小组”，旨在为各国在人工智能领域的决策提供科学支持。该小组将进行基于证据的科学评估，分析人工智能的机遇、风险及影响，并推动各国政府展开对话 ...",
+    "id": "8m9okjWfwFc",
+    "order": 1756279132678,
+    "createdAt": "2025-08-27T07:18:58.000Z",
+    "publishDate": "2025-08-27T07:18:52.678Z",
+    "title": "联合国成立人工智能咨询小组",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-27 15:18:58",
+    "uuid": "925f438d-b3ff-4d6c-8c9c-9d4b41c1b466"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "市场全天冲高回落，三大指数集体下跌，超4700股飘绿，成交额突破3万亿。CPO等算力硬件股表现活跃，芯片股盘中拉升，寒武纪涨超10%。创新药和房地产板块走低，多只个股大跌。",
+    "id": "8mA282IDogq",
+    "order": 1756279207830,
+    "createdAt": "2025-08-27T07:18:56.000Z",
+    "publishDate": "2025-08-27T07:20:07.830Z",
+    "title": "A股收盘：沪指午后跳水跌1.76%，两市成交再次突破3万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-27 15:18:56",
+    "uuid": "d235e7db-1b89-4086-bade-9bf3b412070f"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -88,6 +160,23 @@
     "up": false,
     "date": "2025-08-27 14:49:23",
     "uuid": "1dd292db-0830-4372-ae8c-84940c86c0fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "雷科技" }
+    ],
+    "summary": "近日，有网友在社交平台发布图文作品，晒出公司组织的日本游7天行程图，并配文“神仙公司”，关联胖东来、DL等话题 ...",
+    "id": "8m8ar1xp3kL",
+    "order": 1756279478749,
+    "createdAt": "2025-08-27T06:44:28.000Z",
+    "publishDate": "2025-08-27T07:24:38.749Z",
+    "title": "网友曝胖东来基层员工 7 天免费日本游，回应：不止日本，新加坡欧洲也全包",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-27 14:44:28",
+    "uuid": "d64b8e6f-4f36-4b99-866c-c237c228bf08"
   },
   {
     "newsArray": [
@@ -269,6 +358,23 @@
     "up": false,
     "date": "2025-08-27 14:14:13",
     "uuid": "e2f457ac-776e-4eb2-9be3-d62ab13c3546"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "YouTube被曝利用AI技术对部分视频内容进行调整，涉及画面细节如皮肤质感、衣物褶皱甚至五官形态的修改，引发创作者对内容真实性和个人形象的担忧 ...",
+    "id": "8m7wFS9POkl",
+    "order": 1756279562723,
+    "createdAt": "2025-08-27T06:13:56.000Z",
+    "publishDate": "2025-08-27T07:26:02.723Z",
+    "title": "YouTube 承认未经许可使用 AI 修改视频",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-27 14:13:56",
+    "uuid": "917b3a2d-84d5-4888-a9e0-7d0687a94dcc"
   },
   {
     "newsArray": [
@@ -1732,6 +1838,24 @@
     "up": false,
     "date": "2025-08-27 06:21:40",
     "uuid": "84dd1b7f-06db-47fd-bf66-20549231dbac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "欧洲主要股指全线下跌，其中法国CAC40指数跌幅最大，达1.70%。德国DAX30指数跌幅最小，为0.35%。",
+    "id": "8m8yYzIYAZk",
+    "order": 1756279132290,
+    "createdAt": "2025-08-26T22:12:35.000Z",
+    "publishDate": "2025-08-27T07:18:52.290Z",
+    "title": "欧股集体收跌 法国CAC40指数跌1.70%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-27 06:12:35",
+    "uuid": "6dc7dea6-fd27-4513-af59-6daf37a91932"
   },
   {
     "newsArray": [
