@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "一位 Reddit 网友利用乐高积木、自制电机和 Python 脚本，组装出了一台可运行的 3D 打印机 ...",
+    "id": "8mAXkc8bJsq",
+    "order": 1756353023685,
+    "createdAt": "2025-08-28T03:50:24.000Z",
+    "publishDate": "2025-08-28T03:50:23.685Z",
+    "title": "乐高 + Python，创客用积木打造全功能 3D 打印机",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-28 11:50:24",
+    "uuid": "45855f71-393d-4ecf-b9bf-8b688c57ac0a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "白鲸出海" }
+    ],
+    "summary": "2025年第二季度，中东非地区智能手机出货量同比增长3%，连续第二个季度实现增长。",
+    "id": "8m9j2OiXxcX",
+    "order": 1756352990903,
+    "createdAt": "2025-08-28T03:49:50.000Z",
+    "publishDate": "2025-08-28T03:49:50.903Z",
+    "title": "机构：二季度中东和非洲地区智能手机市场同比增长3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-28 11:49:50",
+    "uuid": "5e7fd23c-9b55-45d4-b9e9-ec84f6a6c4f1"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
