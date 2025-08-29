@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "马斯克向法院提出动议，要求驳回美国证交会(SEC)就其2022年推特持股问题提起的诉讼。",
+    "id": "8mD6O38MZNV",
+    "order": 1756438428001,
+    "createdAt": "2025-08-29T03:33:48.000Z",
+    "publishDate": "2025-08-29T03:33:48.001Z",
+    "title": "马斯克要求驳回美国SEC针对其2022年推特持股提起的诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 11:33:48",
+    "uuid": "03bb3ea5-0b46-4ead-a6e6-81925ca62ca1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "量子位" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "百度文心4.5 Turbo多模态大模型在SuperCLUE-VLM评测中以66.47分并列国内第一，展现了在视觉推理和应用任务中的领先优势 ...",
+    "id": "8mC5M89uB3i",
+    "order": 1756438379578,
+    "createdAt": "2025-08-29T03:32:59.000Z",
+    "publishDate": "2025-08-29T03:32:59.578Z",
+    "title": "SuperCLUE多模态视觉评测榜：文心4.5 Turbo总分并列国内第一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 11:32:59",
+    "uuid": "e1123af4-134d-4675-8ad5-8d1008d8f71f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "蔚来宣布全系车型标配100kWh长续航电池包，整车起售价维持不变，同时继续提供75kWh电池租用方案供用户选择。",
+    "id": "8mD50TggN1H",
+    "order": 1756437915058,
+    "createdAt": "2025-08-29T03:25:16.000Z",
+    "publishDate": "2025-08-29T03:25:15.058Z",
+    "title": "蔚来宣布全系标配100kWh长续航电池包，整车售价不变",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 11:25:16",
+    "uuid": "ce0fa234-54d8-42d3-9f42-dc93fec04df5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "国家药品监督管理局近日附条件批准江苏恒瑞医药股份有限公司申报的1类创新药泽美妥司他片上市，适用于治疗既往接受过至少1线系统性治疗的复发或难治外周T细胞淋巴瘤成人患者，为患者提供了新的治疗选择。",
+    "id": "8mBVLLDyk6E",
+    "order": 1756437737370,
+    "createdAt": "2025-08-29T03:22:18.000Z",
+    "publishDate": "2025-08-29T03:22:17.370Z",
+    "title": "国家药监局附条件批准泽美妥司他片上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 11:22:18",
+    "uuid": "3f91598e-77fa-4245-a7fd-49c9d3fa2c2a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "极氪9X三款车型开启预售，Max版售价47.99万元，Ultra版49.99万元，Hyper版56.99万元 ...",
+    "id": "8mD3ZicmRut",
+    "order": 1756437104746,
+    "createdAt": "2025-08-29T03:11:44.000Z",
+    "publishDate": "2025-08-29T03:11:44.746Z",
+    "title": "极氪9X开放预订：47.99万元起，全系标配浩瀚AI数字底盘",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 11:11:44",
+    "uuid": "37b813d2-017b-4873-81fd-16009dd570eb"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "格隆汇" }
