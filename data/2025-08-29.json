@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "隆华科技公告，8月29日为“隆华转债”最后一个转股日，当日收市后未转股的可转债将按100.22元/张被强制赎回，投资者可能面临大额损失。",
+    "id": "8mD8c7mCrCs",
+    "order": 1756440768766,
+    "createdAt": "2025-08-29T04:12:26.000Z",
+    "publishDate": "2025-08-29T04:12:48.766Z",
+    "title": "隆华科技：“隆华转债”即将停止转股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 12:12:26",
+    "uuid": "0f6f379f-b342-4cf5-8af3-e547086361d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "龙湖集团上半年营收587.5亿元，同比增长25%，净利润32.2亿元，每股中期派息0.07元。",
+    "id": "8mD8d9uz3Ws",
+    "order": 1756440687828,
+    "createdAt": "2025-08-29T04:11:27.000Z",
+    "publishDate": "2025-08-29T04:11:27.828Z",
+    "title": "龙湖集团上半年营收587.5亿元 同比增长25%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 12:11:27",
+    "uuid": "53186e16-1dd1-4fd6-bc05-683a6048cc44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "新一代帕里斯帝将在成都车展开启预售，该车为现代汽车进口混动大六/七座SUV，在满油满电状态下续航可超过1000公里。",
+    "id": "8mBcIDUu4ux",
+    "order": 1756440431714,
+    "createdAt": "2025-08-29T04:07:12.000Z",
+    "publishDate": "2025-08-29T04:07:11.714Z",
+    "title": "现代汽车新款帕里斯帝将于成都车展开启预售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 12:07:12",
+    "uuid": "f86f42a1-7864-441d-9868-8485c479dea9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "研究人员开发出一种“一步式”3D打印方法，成功制造出性能创纪录的氮化铌超导体。该超导体在纳米多孔结构作用下，上临界磁场提升至40—50特斯拉，创下该化合物最高纪录 ...",
+    "id": "8mCoXKUVtAV",
+    "order": 1756440241174,
+    "createdAt": "2025-08-29T04:04:02.000Z",
+    "publishDate": "2025-08-29T04:04:01.174Z",
+    "title": "3D打印超导体磁场强度创纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 12:04:02",
+    "uuid": "b6891826-99ac-4fb6-b9c4-4228e08bc439"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智慧芽_新药情报库" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "辉瑞在Clinicaltrials.gov注册了针对PD-L1阳性非小细胞肺癌的SGN-PDL1V三期临床试验，计划招募680名患者，预计2028年初完成 ...",
+    "id": "8mBFssxxuiz",
+    "order": 1756440186901,
+    "createdAt": "2025-08-29T04:03:07.000Z",
+    "publishDate": "2025-08-29T04:03:06.901Z",
+    "title": "辉瑞启动PD-L1 ADC用于二线非小细胞肺癌三期临床试验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 12:03:07",
+    "uuid": "94a96535-6dc2-4f74-a3d5-f568fec8e212"
+  },
+  {
+    "newsArray": [
       { "siteName": "量子位" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
