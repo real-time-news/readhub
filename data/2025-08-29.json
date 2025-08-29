@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "深交所本周对278起证券异常交易行为采取监管措施，重点监控近期股价大幅上涨的“思泉新材”和“北方长龙”。",
+    "id": "8mDsq40CwUF",
+    "order": 1756479101241,
+    "createdAt": "2025-08-29T14:51:42.000Z",
+    "publishDate": "2025-08-29T14:51:41.241Z",
+    "title": "深交所：本周对近期股价大幅上涨的“思泉新材”“北方长龙”进行重点监控",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 22:51:42",
+    "uuid": "48de27a4-0f4c-46a8-9431-1defe6b67010"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国第三季度GDP增速预计为3.5%，较此前预测的2.2%有所上调。",
+    "id": "8mDsHTqIlBN",
+    "order": 1756478968219,
+    "createdAt": "2025-08-29T14:49:29.000Z",
+    "publishDate": "2025-08-29T14:49:28.219Z",
+    "title": "亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-08-29 22:49:29",
+    "uuid": "5d575cec-bfd4-4feb-8754-1f528f315aeb"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
