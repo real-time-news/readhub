@@ -1,6 +1,155 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "交通运输部审议通过《“人工智能＋交通运输”实施意见》，并将印发实施。相关负责人表示，建设综合交通运输大模型是推动“人工智能+交通运输”的重要举措，明确了“1+N+X”的总体技术架构。",
+    "id": "8mHvAK3t4TO",
+    "order": 1756698702770,
+    "createdAt": "2025-09-01T03:51:43.000Z",
+    "publishDate": "2025-09-01T03:51:42.770Z",
+    "title": "“人工智能+交通运输”实施意见将于近期印发实施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 11:51:43",
+    "uuid": "6cd9e3a6-4eef-4d08-a181-be777a85b647"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "30年期主力合约下跌0.11%，10年期、5年期主力合约均下跌0.03%，2年期主力合约下跌0.01%。",
+    "id": "8mHwcht6Z71",
+    "order": 1756698165784,
+    "createdAt": "2025-09-01T03:42:45.000Z",
+    "publishDate": "2025-09-01T03:42:45.784Z",
+    "title": "国债期货早盘开盘全线下跌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 11:42:45",
+    "uuid": "09c95eee-9431-49dc-ace7-10ba3fc33370"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "截至2025年9月1日，沪深两市ETF成交额达2510.96亿元 ...",
+    "id": "8mI4NlO9qy0",
+    "order": 1756697889837,
+    "createdAt": "2025-09-01T03:38:10.000Z",
+    "publishDate": "2025-09-01T03:38:09.837Z",
+    "title": "ETF两市成交额超2500亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 11:38:10",
+    "uuid": "ef2352e1-45bc-4be6-b1f0-edf587734675"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "界面" }
+    ],
+    "summary": "阶跃星辰发布开源端到端语音大模型Step-Audio 2 mini，采用多模态架构，统一语音理解、音频推理与生成，提升语音交互效率和智能化水平。",
+    "id": "8mI07VjylbN",
+    "order": 1756697872583,
+    "createdAt": "2025-09-01T03:37:53.000Z",
+    "publishDate": "2025-09-01T03:37:52.583Z",
+    "title": "阶跃星辰发布开源端到端语音大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 11:37:53",
+    "uuid": "76a2fe9e-97b3-47bd-bea0-f67faf59fab0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "港元隔夜HIBOR持续上涨，达到年内最高水平。",
+    "id": "8mI59WH82UJ",
+    "order": 1756697638253,
+    "createdAt": "2025-09-01T03:33:58.000Z",
+    "publishDate": "2025-09-01T03:33:58.253Z",
+    "title": "港元隔夜HIBOR续涨，创年内新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 11:33:58",
+    "uuid": "2da92210-c873-4a51-b8f8-76104480ec7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "杭州宇树科技股份有限公司近日公布了一项新专利，名为“一种基于数字孪生的机器人运动控制方法和电子设备” ...",
+    "id": "8mI0tokDkBz",
+    "order": 1756697614879,
+    "createdAt": "2025-09-01T03:33:35.000Z",
+    "publishDate": "2025-09-01T03:33:34.879Z",
+    "title": "宇树科技推出数字孪生机器人运动控制技术，可实现复杂的舞台表演",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 11:33:35",
+    "uuid": "0b9bad47-4c65-45f1-877b-8451333e9c38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "每经网" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "知名企业家马斯克旗下的xAI公司指控前核心员工Xuechen Li窃取大量敏感数据并跳槽至竞争对手OpenAI ...",
+    "id": "8mHq9y2CXwm",
+    "order": 1756697481908,
+    "createdAt": "2025-09-01T03:31:22.000Z",
+    "publishDate": "2025-09-01T03:31:21.908Z",
+    "title": "马斯克旗下xAI代码库遭窃，前核心员工跳槽OpenAI引诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 11:31:22",
+    "uuid": "8f8f608c-2234-435e-93cb-9ecf4d3493a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "2025年9月，市场监管总局联合中央宣传部、最高人民法院、国家发展改革委等26个部门共同部署开展2025年全国“质量月”活动 ...",
+    "id": "8mI4NheXApL",
+    "order": 1756696915211,
+    "createdAt": "2025-09-01T03:21:56.000Z",
+    "publishDate": "2025-09-01T03:21:55.211Z",
+    "title": "市场监管总局等26个部门联合开展2025年全国“质量月”活动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 11:21:56",
+    "uuid": "4ef77df5-948f-4141-9f29-f6f650940483"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "格隆汇" }
@@ -332,6 +481,25 @@
     "up": false,
     "date": "2025-09-01 09:21:56",
     "uuid": "c35c5aef-96ff-437d-99ee-5d2f0da6efa1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国内商品期货主力合约开盘涨跌互现，沪银涨幅超过2%，烧碱和豆一也有不同程度上涨。焦炭、纯碱跌幅超过2%，玻璃、棉花下跌近2%，螺纹钢、铁矿石、焦煤、沪锡和热卷跌幅均超过1%。",
+    "id": "8mHuQKKFazQ",
+    "order": 1756697717217,
+    "createdAt": "2025-09-01T01:12:58.000Z",
+    "publishDate": "2025-09-01T03:35:17.217Z",
+    "title": "国内商品期货主力合约开盘涨跌不一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 09:12:58",
+    "uuid": "90bb5e3b-79db-4999-953e-e1a64a43ec32"
   },
   {
     "newsArray": [
