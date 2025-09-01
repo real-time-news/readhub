@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国对巴西咖啡征收50%关税导致巴西8月对美出口量同比减少55.24%，从7月的45万袋降至约25万袋。尽管需求未减，但关税带来的通胀效应将损害美国消费者利益。",
+    "id": "8mJ87rx50ZB",
+    "order": 1756754518686,
+    "createdAt": "2025-09-01T19:21:58.000Z",
+    "publishDate": "2025-09-01T19:21:58.686Z",
+    "title": "受关税影响 巴西8月对美咖啡出口同比暴跌55%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 03:21:58",
+    "uuid": "a1f83b14-9b37-40c0-afae-7e6850fac30d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "澜起科技推出全新内存扩展控制器芯片M88MX6852，基于CXL 3.1 Type 3标准，支持CXL.mem与CXL.io协议，并已进入客户测试阶段 ...",
+    "id": "8mHxEV7DJMq",
+    "order": 1756754229812,
+    "createdAt": "2025-09-01T19:17:09.000Z",
+    "publishDate": "2025-09-01T19:17:09.812Z",
+    "title": "澜起科技发布CXL 3.1 MXC芯片，推动解耦式内存架构发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 03:17:09",
+    "uuid": "c13437cf-259d-482b-8c72-2573a4efbb57"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
