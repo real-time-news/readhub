@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "特锐德公告显示，公司成为华电集团和铁路建设项目的中标候选人，预计中标总金额约6.98亿元。其中华电集团项目预计中标5.68亿元，铁路项目投标报价1.29亿元 ...",
+    "id": "8mIZrBVwPqn",
+    "order": 1756723750318,
+    "createdAt": "2025-09-01T10:49:10.000Z",
+    "publishDate": "2025-09-01T10:49:10.318Z",
+    "title": "特锐德：预中标约6.98亿元铁路建设项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 18:49:10",
+    "uuid": "61614ca9-e589-443e-b8bc-7fa0eb646543"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Firecrawl宣布将开源其AI就绪检查器，该工具可对网站进行全面审计，提升在AI驱动搜索环境中的可见性和内容优化能力 ...",
+    "id": "8mHuU5YYwJJ",
+    "order": 1756723471926,
+    "createdAt": "2025-09-01T10:44:31.000Z",
+    "publishDate": "2025-09-01T10:44:31.926Z",
+    "title": "Firecrawl宣布下周开源AI就绪检查器，助力网站全面优化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 18:44:31",
+    "uuid": "a49fa2f1-359d-4c2e-bf34-e46bf3f6e5a2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2025年暑运期间，长三角铁路累计发送旅客1.84亿人次，同比增长3.4%，创历年新高。同时发送货物88万车，货重3692万吨，同比增长9.4%。",
+    "id": "8mIZY3pSuRE",
+    "order": 1756723341251,
+    "createdAt": "2025-09-01T10:42:21.000Z",
+    "publishDate": "2025-09-01T10:42:21.251Z",
+    "title": "长三角铁路暑运发送旅客1.84亿人次，同比增3.4%创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 18:42:21",
+    "uuid": "3980d586-0328-4b12-be90-df61ce769561"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "腾讯混元宣布开源其新晋国际翻译比赛冠军模型Hunyuan-MT-7B，该模型参数量为7B，支持33个语种及5种民汉语言/方言互译，具备全面能力且轻量高效 ...",
+    "id": "8mIQaZE2YWE",
+    "order": 1756723309531,
+    "createdAt": "2025-09-01T10:41:49.000Z",
+    "publishDate": "2025-09-01T10:41:49.531Z",
+    "title": "腾讯混元最新开源翻译模型发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 18:41:49",
+    "uuid": "3661bc95-8204-4167-95e8-a2cf21ad86ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "株冶集团拟将全资子公司持有的3.35亿股股份无偿划转至湖南有色，划转后湖南有色将直接及间接持有公司股份，公司控股股东变更为湖南有色，实际控制人仍为中国五矿集团有限公司。",
+    "id": "8mIZA9qJzqR",
+    "order": 1756723451409,
+    "createdAt": "2025-09-01T10:37:44.000Z",
+    "publishDate": "2025-09-01T10:44:11.409Z",
+    "title": "株冶集团：湖南有色筹划无偿划转公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-01 18:37:44",
+    "uuid": "f0cfec4c-56df-42bd-b2c5-a70529062dcb"
+  },
+  {
+    "newsArray": [
       { "siteName": "医药魔方" },
       { "siteName": "中证网" },
       { "siteName": "亿邦动力网" }
