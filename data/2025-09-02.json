@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "网易科技" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "微软发布开源数学推理模型rStar2-Agent，参数规模为14B，通过智能思考而非延长推理时间，实现与6710亿参数模型相当的性能 ...",
+    "id": "8mISFO7SUuS",
+    "order": 1756798485609,
+    "createdAt": "2025-09-02T07:34:46.000Z",
+    "publishDate": "2025-09-02T07:34:45.609Z",
+    "title": "微软发布开源数学推理模型 rStar2-Agent",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 15:34:46",
+    "uuid": "61d3a003-0ebc-4876-8bc2-dd813f0e9ef9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "阿富汗东北部当地时间8月31日23时47分发生6.1级地震，震源深度20公里，首都喀布尔震感明显。截至9月1日，地震已造成至少812人死亡，超过2817人受伤 ...",
+    "id": "8mIGZIvALLM",
+    "order": 1756798362252,
+    "createdAt": "2025-09-02T07:32:42.000Z",
+    "publishDate": "2025-09-02T07:32:42.252Z",
+    "title": "阿富汗东北部地震已致812人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 15:32:42",
+    "uuid": "7c47fecf-d3e4-4ad3-b508-b5a72b53427c"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -378,6 +415,24 @@
     "up": false,
     "date": "2025-09-02 14:13:36",
     "uuid": "0f7b0a96-a410-4e2e-93e2-5c1c3b2915e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "美元兑日元上涨0.50%，当前报147.92。",
+    "id": "8mJuo6gMX9E",
+    "order": 1756798600726,
+    "createdAt": "2025-09-02T06:12:52.000Z",
+    "publishDate": "2025-09-02T07:36:40.726Z",
+    "title": "美元兑日元涨幅达0.50%，现报147.92",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 14:12:52",
+    "uuid": "4201a4e4-00ec-4b7b-9872-2ba2b2484516"
   },
   {
     "newsArray": [
