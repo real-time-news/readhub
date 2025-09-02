@@ -1,6 +1,61 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "上纬新材公告指出，公司股票价格自2025年7月9日至9月2日累计上涨1154.50%，远高于相关指数涨幅，多次触及异常波动情形 ...",
+    "id": "8mKGDtfXrIB",
+    "order": 1756811633586,
+    "createdAt": "2025-09-02T11:13:54.000Z",
+    "publishDate": "2025-09-02T11:13:53.586Z",
+    "title": "上纬新材：公司股票价格存在脱离基本面的风险",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 19:13:54",
+    "uuid": "dffbe67e-d00b-407e-8056-8439f278c462"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "富乐德公告显示，公司向特定对象发行股份，发行价格为35.67元/股，新增股份数量为2193.98万股 ...",
+    "id": "8mKDan9GHWE",
+    "order": 1756810890452,
+    "createdAt": "2025-09-02T11:01:31.000Z",
+    "publishDate": "2025-09-02T11:01:30.452Z",
+    "title": "富乐德：向特定对象发行股份上市 价格为35.67元/股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 19:01:31",
+    "uuid": "231cffaa-6a6e-4cf1-b179-7dd32f4295bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "西部黄金公告称，公司股票连续三个交易日收盘价涨幅偏离值达20%，属于交易异常波动 ...",
+    "id": "8mKFR0JnQoZ",
+    "order": 1756810997250,
+    "createdAt": "2025-09-02T10:52:54.000Z",
+    "publishDate": "2025-09-02T11:03:17.250Z",
+    "title": "2连板西部黄金：关注到黄金市场热度较高 黄金采选和冶炼是公司主营业务之一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 18:52:54",
+    "uuid": "44946082-1805-4b91-92c6-8452a1e8ca79"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
