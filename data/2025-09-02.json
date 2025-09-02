@@ -1,6 +1,82 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "蔚来2025年二季度交付72056台，同比增长25.6%，环比增长71.2%。营收190.1亿元，同比增长9.0%，环比增长57.9% ...",
+    "id": "8mKA9MCacH3",
+    "order": 1756806101106,
+    "createdAt": "2025-09-02T09:41:42.000Z",
+    "publishDate": "2025-09-02T09:41:41.106Z",
+    "title": "蔚来：二季度营收190.1亿元，环比增长57.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 17:41:42",
+    "uuid": "0e015d3d-958d-4f9c-a02d-15a499743dd9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "博杰股份连续两个涨停后发布公告称，公司近期经营状况及外部环境未出现重大变化，且公司及相关方不存在应披露而未披露的重大事项。",
+    "id": "8mK7iW5hJPw",
+    "order": 1756805902603,
+    "createdAt": "2025-09-02T09:38:22.000Z",
+    "publishDate": "2025-09-02T09:38:22.603Z",
+    "title": "二连板博杰股份：公司经营环境未发生重大变化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 17:38:22",
+    "uuid": "fa334476-539b-4407-b6a6-702df9cd07b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2025年8月，千里科技汽车整车生产10019辆，同比增长234.86%。销售11067辆，同比增长168.55% ...",
+    "id": "8mK91AI3uRU",
+    "order": 1756805890322,
+    "createdAt": "2025-09-02T09:38:11.000Z",
+    "publishDate": "2025-09-02T09:38:10.322Z",
+    "title": "千里科技：8月整车销售11067辆，同比增168.55%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 17:38:11",
+    "uuid": "3b3e88d8-73e6-4043-bc19-cecb8f8d6be3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "华安证券获证监会批复，同意其公开发行不超过100亿元次级公司债券的注册申请。",
+    "id": "8mK9Hu2gew4",
+    "order": 1756805864264,
+    "createdAt": "2025-09-02T09:37:45.000Z",
+    "publishDate": "2025-09-02T09:37:44.264Z",
+    "title": "华安证券：发行不超100亿元次级公司债获证监会同意注册批复",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 17:37:45",
+    "uuid": "ae203122-682b-4b9d-9114-d63ea326e6d5"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -380,6 +456,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "开源中国" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "即梦 AI 与火山引擎全面开放多款 AI 模型 API 服务，涵盖文生图、图生图、视频生成等领域，支持企业快速接入，适用于短片创作、营销设计、游戏素材等多种场景，助力创意高效落地。",
+    "id": "8mJneKdCDuO",
+    "order": 1756806144412,
+    "createdAt": "2025-09-02T08:36:07.000Z",
+    "publishDate": "2025-09-02T09:42:24.412Z",
+    "title": "即梦 AI 全面开放 API 服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 16:36:07",
+    "uuid": "54d08922-1abc-4c68-8359-6cb3634af21e"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
@@ -482,6 +575,23 @@
     "up": false,
     "date": "2025-09-02 16:12:49",
     "uuid": "bed99e36-722e-4b16-8ebe-181b2cb958c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "DeepSeek 发布大模型训练原理说明，其模型采用预训练和优化训练两阶段流程，预训练使用公开互联网数据，优化训练数据由自建问答对和匿名化用户数据组成，最终模型以自回归方式生成文本。",
+    "id": "8mIh1aspqDb",
+    "order": 1756806129192,
+    "createdAt": "2025-09-02T08:12:22.000Z",
+    "publishDate": "2025-09-02T09:42:09.192Z",
+    "title": "DeepSeek 公开模型原理与训练方法说明",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 16:12:22",
+    "uuid": "8a489170-c0e1-4733-bf1f-13b3a289f806"
   },
   {
     "newsArray": [
