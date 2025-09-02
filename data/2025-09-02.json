@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "联商网" }
+    ],
+    "summary": "霸王茶姬披露了其登陆纳斯达克后的首份半年度财务报告，上半年营业收入达67.25亿元，同比增长21.61%，但净利润仅为7.55亿元，同比大幅下滑38.22% ...",
+    "id": "8mJjYEy0k0D",
+    "order": 1756820834385,
+    "createdAt": "2025-09-02T13:47:15.000Z",
+    "publishDate": "2025-09-02T13:47:14.385Z",
+    "title": "霸王茶姬半年报：净利润大幅下滑，坚持高品质战略不参与价格战",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 21:47:15",
+    "uuid": "77d13545-e153-469f-9537-bdfbccf24a44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "UltraRAG2.0是由清华大学THUNLP实验室、东北大学NEUIR实验室等联合发布的基于Model Context Protocol（MCP）架构的检索增强生成框架 ...",
+    "id": "8mK9mwscsMH",
+    "order": 1756820822231,
+    "createdAt": "2025-09-02T13:47:03.000Z",
+    "publishDate": "2025-09-02T13:47:02.231Z",
+    "title": "清华与东北大学联合推出 UltraRAG 2.0",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 21:47:03",
+    "uuid": "59e56a2d-92a9-4ad3-8459-bc1594c8f166"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "微软公司首席执行官萨蒂亚·纳德拉宣布，微软与美国总务管理局达成新协议，提供免费的Microsoft 365 Copilot服务，旨在加速联邦机构采用人工智能和数字技术，并预计在第一年为美国政府节省超过30亿美元的开支。",
+    "id": "8mKQ9iovvj0",
+    "order": 1756820498911,
+    "createdAt": "2025-09-02T13:41:39.000Z",
+    "publishDate": "2025-09-02T13:41:38.911Z",
+    "title": "微软与美国政府就免费软件服务达成新协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 21:41:39",
+    "uuid": "87937da6-1227-4bf2-905e-041ceb83d69d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "蔚来CEO李斌在财报电话会上表示，公司今年在研发体系提效方面取得显著进展，产出ROI明显提升。为保持长期竞争力，明年将维持每季度20亿至25亿元的研发投入，主要用于新车型开发。",
+    "id": "8mKQvYZdiVe",
+    "order": 1756820944901,
+    "createdAt": "2025-09-02T13:32:41.000Z",
+    "publishDate": "2025-09-02T13:49:04.901Z",
+    "title": "蔚来李斌：明年预计会保持每个季度20亿至25亿元研发投入",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-02 21:32:41",
+    "uuid": "f9dac97f-56d4-4514-b47c-b46e58127b2b"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
       { "siteName": "新浪科技" },
