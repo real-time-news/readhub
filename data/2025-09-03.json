@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "Anthropic完成130亿美元F轮融资，估值达1830亿美元，成为全球估值第四的独角兽企业。其创始团队来自OpenAI，目前企业更侧重B端市场，年收入约8.75亿美元 ...",
+    "id": "8mLX2B2VS1e",
+    "order": 1756897509372,
+    "createdAt": "2025-09-03T11:05:10.000Z",
+    "publishDate": "2025-09-03T11:05:09.372Z",
+    "title": "OpenAI劲敌Anthropic融资130亿美元，成全球估值第四独角兽",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 19:05:10",
+    "uuid": "d49d6766-deb0-4016-9963-cd36ff61ffa9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "罗博特科全资子公司ficonTEC Service GmbH近日与瑞士某头部公司C的子公司签署了一笔金额约946.50万欧元的全自动硅光子封装整线订单，占公司2024年度经审计营业收入的7.11%以上，将对公司产生重要积极影响。",
+    "id": "8mLv35nJOZH",
+    "order": 1756897467387,
+    "createdAt": "2025-09-03T11:04:28.000Z",
+    "publishDate": "2025-09-03T11:04:27.387Z",
+    "title": "罗博特科：全资子公司签署946.5万欧元重大合同",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 19:04:28",
+    "uuid": "51b739ce-3c72-474d-bc3d-08aaf687addf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "梅西百货第二季度净销售额为48.1亿美元，高于市场预期的47.1亿美元，毛利率为39.7%，略高于市场预期的39.5% ...",
+    "id": "8mLv3K1F5hn",
+    "order": 1756897434166,
+    "createdAt": "2025-09-03T11:03:55.000Z",
+    "publishDate": "2025-09-03T11:03:54.166Z",
+    "title": "梅西百货二季度净销售额48.1亿美元 高于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 19:03:55",
+    "uuid": "0b02658f-388b-4dce-b00c-b12f313d040b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美银上调苹果目标价至260美元。",
+    "id": "8mLuclbWgYJ",
+    "order": 1756897401910,
+    "createdAt": "2025-09-03T11:03:21.000Z",
+    "publishDate": "2025-09-03T11:03:21.910Z",
+    "title": "美银将苹果目标价上调至260美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 19:03:21",
+    "uuid": "d2e1b5cb-4c5b-402e-8b1f-9047dca7afb4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌 AI 推出实验性评估工具 Stax，帮助开发者根据自定义标准测试和分析大语言模型。Stax 提供“快速比较”和“项目与数据集”功能，支持结构化评估流程，提升测试效率与一致性 ...",
+    "id": "8mLJEmVaufn",
+    "order": 1756896938628,
+    "createdAt": "2025-09-03T10:55:39.000Z",
+    "publishDate": "2025-09-03T10:55:38.628Z",
+    "title": "​谷歌 AI 推出 Stax：帮助开发者根据自定义标准评估大语言模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 18:55:39",
+    "uuid": "f31d8cb0-6b0a-4fd0-8f42-d89eba80223e"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "财联社" }
@@ -15,6 +102,24 @@
     "up": false,
     "date": "2025-09-03 18:53:14",
     "uuid": "4ed85f7c-5426-46d7-a0cc-84ba82299ddf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国出行服务公司VIA计划通过首次公开募股融资最多4.714亿美元。",
+    "id": "8mLtedysaKZ",
+    "order": 1756897368031,
+    "createdAt": "2025-09-03T10:52:36.000Z",
+    "publishDate": "2025-09-03T11:02:48.031Z",
+    "title": "美国出行服务公司VIA寻求通过首次公开募股融资至多4.714亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 18:52:36",
+    "uuid": "9223f1d4-e6d1-44c2-9202-15d33f7d39e2"
   },
   {
     "newsArray": [
@@ -387,6 +492,26 @@
     "up": false,
     "date": "2025-09-03 17:46:36",
     "uuid": "94b97fc5-95e8-4583-8515-b325e29a614f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "欧佩克+将在周日会议上考虑再次提高石油产量，国际油价应声下跌。",
+    "id": "8mLpMP9MFIx",
+    "order": 1756897493774,
+    "createdAt": "2025-09-03T09:46:08.000Z",
+    "publishDate": "2025-09-03T11:04:53.774Z",
+    "title": "国际油价急跌 消息称欧佩克+将在周日会议上考虑再次提高石油产量",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 17:46:08",
+    "uuid": "4da79a24-0aea-4876-bdf5-f290b5a6dadb"
   },
   {
     "newsArray": [
