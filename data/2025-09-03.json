@@ -1,6 +1,167 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "8月全国乘用车市场零售195.2万辆，同比增长3%，累计零售同比增长9%。乘用车厂商批发240.9万辆，同比增长12%，累计批发同比增长12%。",
+    "id": "8mLkPeaWfeo",
+    "order": 1756888394439,
+    "createdAt": "2025-09-03T08:33:15.000Z",
+    "publishDate": "2025-09-03T08:33:14.439Z",
+    "title": "乘联分会：初步统计8月全国乘用车市场零售195.2万辆，同比增长3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:33:15",
+    "uuid": "562a4b49-44e3-4554-89ee-5ce663623b7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国与上海合作组织共建的数字经济合作平台于9月2日在天津正式启动。该平台旨在加强各国在城市、企业、高校及智库间的多维度数字经济合作。",
+    "id": "8mJmD8tZH0v",
+    "order": 1756887858992,
+    "createdAt": "2025-09-03T08:24:18.000Z",
+    "publishDate": "2025-09-03T08:24:18.992Z",
+    "title": "中国-上海合作组织数字经济合作平台在天津揭牌启动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:24:18",
+    "uuid": "408e429e-569a-4451-a883-6befc0be45e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "阿里国际站于9月1日开启9月采购节，首日交易额同比增长33%。本届采购节首次全面引入AI能力，推出超20万份全球智能采购清单，目前已有超过14.2万中小商家使用其AI Agent服务。",
+    "id": "8mLfBbWuVLx",
+    "order": 1756887803920,
+    "createdAt": "2025-09-03T08:23:24.000Z",
+    "publishDate": "2025-09-03T08:23:23.920Z",
+    "title": "阿里国际站：9月采购节首日交易额同比提升33%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:23:24",
+    "uuid": "4806bd5f-b400-4895-abcb-bbd3b6634185"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "i黑马" }
+    ],
+    "summary": "谷歌在线搜索垄断案裁定结果公布，法院要求谷歌与竞争对手共享数据以促进市场竞争，但未要求其出售Chrome浏览器或剥离安卓系统 ...",
+    "id": "8mLb3mHT7te",
+    "order": 1756887725478,
+    "createdAt": "2025-09-03T08:22:06.000Z",
+    "publishDate": "2025-09-03T08:22:05.478Z",
+    "title": "谷歌在线搜索垄断案裁定出炉无需剥离Chrome和安卓系统",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:22:06",
+    "uuid": "5edffa5a-c66b-4902-be8e-473106bb9b78"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "网易科技" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "谷歌盘前股价上涨近6%，开盘或将创新高。此前美国华盛顿地区法院裁定谷歌不构成网络搜索领域垄断，驳回了检察官要求其母公司出售Chrome浏览器的请求，同时谷歌无需剥离安卓系统，也可继续支付费用作为苹果等平台的默认搜索引擎 ...",
+    "id": "8mLTtsuzPvX",
+    "order": 1756887713648,
+    "createdAt": "2025-09-03T08:21:53.000Z",
+    "publishDate": "2025-09-03T08:21:53.648Z",
+    "title": "垄断案获重大胜利，谷歌盘前涨近6%，开盘势将再创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:21:53",
+    "uuid": "faa3abb9-bb23-4317-adfd-cf5eb1839694"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软发布 PowerToys v0.94 新版本，新增设置界面模糊搜索、快捷键冲突检测、无障碍光标滑行操作等功能，升级安装框架至 WiX 5，优化命令行面板与多个工具性能，提升整体稳定性与用户体验。",
+    "id": "8mLBJbDnUAR",
+    "order": 1756887582181,
+    "createdAt": "2025-09-03T08:19:42.000Z",
+    "publishDate": "2025-09-03T08:19:42.181Z",
+    "title": "微软发布 PowerToys v0.94 新版本，多项功能更新优化使用体验",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:19:42",
+    "uuid": "0804a369-04f6-4b3d-aa76-37def0f976d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "JetBrains 宣布 RubyMine IDE 现已对非商业用途免费，旨在降低 Ruby 编程语言的入门门槛，帮助开发者编写整洁代码 ...",
+    "id": "8mLNTbXWEYg",
+    "order": 1756887306134,
+    "createdAt": "2025-09-03T08:15:06.000Z",
+    "publishDate": "2025-09-03T08:15:06.134Z",
+    "title": "JetBrains 宣布 RubyMine IDE 可免费用于非商业领域",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:15:06",
+    "uuid": "30dacfa7-27dc-4f2d-9c35-0fb14011a876"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "金融界" },
+      { "siteName": "界面" }
+    ],
+    "summary": "博济医药近日获得国家药品监督管理局核准签发的《药物临床试验批准通知书》，药品名称为FCZR，适应症为耳真菌病，注册分类为化学药品2.2/2.4类，审批结论为同意开展临床试验 ...",
+    "id": "8mLiJl5uFRz",
+    "order": 1756887255260,
+    "createdAt": "2025-09-03T08:14:16.000Z",
+    "publishDate": "2025-09-03T08:14:15.260Z",
+    "title": "博济医药：获得药物临床试验批准通知书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:14:16",
+    "uuid": "0b9cce5c-7a84-4867-b8fa-527bc3d06896"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "海思科自主研发的HSK47388片获得国家药监局批准，将开展用于治疗自身免疫疾病的新适应症临床试验 ...",
+    "id": "8mLiHlXHt2X",
+    "order": 1756887228084,
+    "createdAt": "2025-09-03T08:13:48.000Z",
+    "publishDate": "2025-09-03T08:13:48.084Z",
+    "title": "海思科：获得创新药HSK47388片新适应症临床试验批准",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:13:48",
+    "uuid": "21ae3b0a-afa1-4aa9-b257-3760e448bf62"
+  },
+  {
+    "newsArray": [
       { "siteName": "AMZ123" },
       { "siteName": "金融界" },
       { "siteName": "格隆汇" }
@@ -15,6 +176,24 @@
     "up": false,
     "date": "2025-09-03 16:12:15",
     "uuid": "39657349-5d66-4d4b-8a4e-16468eb34069"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "丰田汽车公司计划在捷克Kolin工厂生产其在欧洲的首款全电动车型，并投资约6.8亿欧元扩建该工厂，同时建设新的电池组装设施。捷克政府将为电池项目提供最多6400万欧元的资金支持 ...",
+    "id": "8mLfPJ3UpAu",
+    "order": 1756888328870,
+    "createdAt": "2025-09-03T08:11:34.000Z",
+    "publishDate": "2025-09-03T08:32:08.870Z",
+    "title": "丰田将在捷克工厂生产其欧洲首款全电动车型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-03 16:11:34",
+    "uuid": "3a117c22-09c8-47bd-9c38-ba1c8d79491c"
   },
   {
     "newsArray": [
