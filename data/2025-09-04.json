@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "谷歌因未遵守互联网cookie规定，被法国数据保护机构罚款3.25亿欧元。主要原因是其在未经用户同意的情况下，在Gmail邮件中显示广告，并在用户创建账户时放置cookie。",
+    "id": "8mMZ54YFYug",
+    "order": 1756931543989,
+    "createdAt": "2025-09-03T20:32:24.000Z",
+    "publishDate": "2025-09-03T20:32:23.989Z",
+    "title": "法国监管机构对谷歌处以创纪录的3.25亿欧元罚款",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-04 04:32:24",
+    "uuid": "437c1702-2f6e-40d6-9f36-54e62191297d"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "澎湃新闻" }
