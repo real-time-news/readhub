@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "外交部发言人郭嘉昆主持例行记者会，法新社记者就特朗普将对未把生产转移到美国的半导体公司征关税一事提问，郭嘉昆回应中方在关税问题上立场一贯明确。",
+    "id": "8mP216veUzB",
+    "order": 1757060055818,
+    "createdAt": "2025-09-05T08:14:16.000Z",
+    "publishDate": "2025-09-05T08:14:15.818Z",
+    "title": "特朗普称将对未把生产转移到美国的半导体公司征收关税，中方回应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-05 16:14:16",
+    "uuid": "f23cdbd6-3c45-4ef0-9669-4380f0e78339"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "华为常务董事、终端BG董事长余承东在朋友圈发文称，“准确点，43分钟突破10万台” ... 余承东贴了一张问界M7的海报，该海报显示：问界M7一个小时小订突破10万台。",
+    "id": "8mOkwAuvASv",
+    "order": 1757059784976,
+    "createdAt": "2025-09-05T08:09:44.000Z",
+    "publishDate": "2025-09-05T08:09:44.976Z",
+    "title": "余承东：问界M7 43分钟突破10万台，远超预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-05 16:09:44",
+    "uuid": "bee42b1b-5272-407b-9858-b6160d7be598"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "谷歌发布 AI 图像编辑工具“Nano Banana”，作为 Gemini 平台新功能，凭借规避恐怖谷效应等技术突破，上线首周吸引超 1000 万新用户，累计完成 2 亿次图像编辑操作 ...",
+    "id": "8mN85v0H6K5",
+    "order": 1757059291920,
+    "createdAt": "2025-09-05T08:01:31.000Z",
+    "publishDate": "2025-09-05T08:01:31.920Z",
+    "title": "谷歌 Nano Banana 图像编辑工具上线首周用户破千万，技术突破定义行业新标准",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-05 16:01:31",
+    "uuid": "c824eab6-6eba-4c99-9d9d-aaf3e1dadeb3"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "aibase" },
       { "siteName": "开源中国" }
@@ -66,6 +119,24 @@
     "up": false,
     "date": "2025-09-05 15:47:13",
     "uuid": "d021c136-20b7-4c9d-a799-aed1466ac74f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "2025年暑期消费旺季，国内租车市场表现亮眼。滴滴租车统计显示，今年暑期租车订单较去年增84%，单日用车量创新高，超6成订单来自一二线城市，三四线及以下城市用车需求翻倍增长 ...",
+    "id": "8mOwIdWAEfu",
+    "order": 1757059774893,
+    "createdAt": "2025-09-05T07:46:41.000Z",
+    "publishDate": "2025-09-05T08:09:34.893Z",
+    "title": "滴滴租车：暑期订单同比增长84%，三四线城市以翻倍速度增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-05 15:46:41",
+    "uuid": "caf89a85-b06c-4b8b-a007-6d68ef6f2abb"
   },
   {
     "newsArray": [
@@ -768,6 +839,25 @@
     "up": false,
     "date": "2025-09-05 13:13:40",
     "uuid": "dc965955-dba9-4de2-961d-44e731aea05d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "午后碳化硅概念持续走强，天岳先进、科创新材等多股涨停或涨幅靠前。",
+    "id": "8mOkyYLGRx7",
+    "order": 1757060020622,
+    "createdAt": "2025-09-05T05:12:48.000Z",
+    "publishDate": "2025-09-05T08:13:40.622Z",
+    "title": "碳化硅概念持续走强，天岳先进等多股涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-05 13:12:48",
+    "uuid": "9d1d0a9b-87d8-4aaa-a741-74ca06718ee8"
   },
   {
     "newsArray": [
