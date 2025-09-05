@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "Anthropic 宣布立即停止向多数股权由中国资本持有的集团或其子公司提供 Claude 服务，直接或间接由中国实体控制（占股超 50%）的企业不再被允许使用其服务，该政策适用于中国大陆公司及境外相关子公司等组织，Anthropic 称此举是为应对法律、监管与国家安全风险。",
+    "id": "8mOjzrOh3Ro",
+    "order": 1757058776298,
+    "createdAt": "2025-09-05T07:52:57.000Z",
+    "publishDate": "2025-09-05T07:52:56.298Z",
+    "title": "Anthropic 禁止中国控股公司使用其 AI 服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-05 15:52:57",
+    "uuid": "30b10f89-0b22-452b-95d1-d8f5e5a923fb"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -68,6 +85,43 @@
     "up": false,
     "date": "2025-09-05 15:46:25",
     "uuid": "4ea7df56-9c28-4ec6-a135-ab8da89b8256"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "全国人大常委会法工委举行记者会，发言人黄海华介绍立法工作，监狱法修订草案拟提请本次常委会二次审议 ...",
+    "id": "8mP0jTkEm1o",
+    "order": 1757058581639,
+    "createdAt": "2025-09-05T07:44:32.000Z",
+    "publishDate": "2025-09-05T07:49:41.639Z",
+    "title": "监狱法修订草案拟提请二审",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-05 15:44:32",
+    "uuid": "b47bcb7f-8389-432e-a094-615ac4cf69bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "ETF午间收盘涨跌不一，电池ETF嘉实（562880）领涨6.98%，银行ETF（159887）领跌1.",
+    "id": "8mOk9UHiPZy",
+    "order": 1757058662939,
+    "createdAt": "2025-09-05T07:41:20.000Z",
+    "publishDate": "2025-09-05T07:51:02.939Z",
+    "title": "ETF午评：电池ETF嘉实领涨6.98%，银行ETF领跌1.25%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-05 15:41:20",
+    "uuid": "c9db4ae8-2483-40db-8e30-496a715114af"
   },
   {
     "newsArray": [
@@ -423,6 +477,24 @@
     "up": false,
     "date": "2025-09-05 14:42:50",
     "uuid": "f7112b6d-1d3f-475e-b6cd-605e5856c21f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "它采用Antom首创的支付意图授权模型和支付安全管理技术，能让智能体对用户支付意图的识别更精准，交易全流程可追溯询证 ...",
+    "id": "8mOi4L0sCaI",
+    "order": 1757058755766,
+    "createdAt": "2025-09-05T06:42:15.000Z",
+    "publishDate": "2025-09-05T07:52:35.766Z",
+    "title": "Antom推出AI智能体支付解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-05 14:42:15",
+    "uuid": "2185fc68-70d2-48b2-939d-a1b21c86da9f"
   },
   {
     "newsArray": [
