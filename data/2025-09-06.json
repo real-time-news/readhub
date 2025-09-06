@@ -1,6 +1,108 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "近日，商汤大装置 SenseCore 与昇腾 384 超节点完成全面适配，功能和性能验证达预期。昇腾 384 超节点是华为推出的大规模超节点方案，能实现资源互联和池化 ...",
+    "id": "8mQX2UGDHpZ",
+    "order": 1757143394289,
+    "createdAt": "2025-09-06T07:23:14.000Z",
+    "publishDate": "2025-09-06T07:23:14.289Z",
+    "title": "商汤大装置与华为昇腾 384 超节点全面适配，多项创新提升训练效率",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-06 15:23:14",
+    "uuid": "d52705c7-c936-4727-b15e-863d1302af52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "韩国科学技术院携手 LG 新能源开发出新型锂金属电池电解质，可让电动汽车 12 分钟充电后续航约 804.7 公里 ...",
+    "id": "8mOztwddt6E",
+    "order": 1757143381099,
+    "createdAt": "2025-09-06T07:23:02.000Z",
+    "publishDate": "2025-09-06T07:23:01.099Z",
+    "title": "韩国突破汽车电池技术：充电 12 分钟，续航 804 公里",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-06 15:23:02",
+    "uuid": "6cf796c4-3469-44eb-9e73-7807e02b1268"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "公安机关网安部门开展“净网—2025”专项工作，公布3起编造传播虚假信息典型案例。王某为博眼球将争吵音频与家长会视频拼凑剪辑造谣。杨某发布小区附近人贩子抢小孩等谣言 ...",
+    "id": "8mQPozSrozT",
+    "order": 1757143331686,
+    "createdAt": "2025-09-06T07:22:12.000Z",
+    "publishDate": "2025-09-06T07:22:11.686Z",
+    "title": "网络不是法外之地：网警公布 3 起典型网络谣言案例，造谣者均已受处罚",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-06 15:22:12",
+    "uuid": "320bad01-df6d-424f-97e7-3ac10d30a591"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "继9月1日开源大模型龙猫后，美团加速AI布局，即将上线聚焦本地生活服务智能推荐的AI搜索，该功能已进入内测阶段，标志其“AI+本地生活”战略向核心业务场景进一步渗透。",
+    "id": "8mPBNujKg4r",
+    "order": 1757143032631,
+    "createdAt": "2025-09-06T07:17:12.000Z",
+    "publishDate": "2025-09-06T07:17:12.631Z",
+    "title": "美团即将上线AI搜索 聚焦本地生活服务智能推荐",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-06 15:17:12",
+    "uuid": "d1c0a4c2-d511-4bb9-9e73-ee37f06ed63d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果配件厂商/数码博主“Kang”确认，iPhone 17 Air首发国行版本因eSIM政策问题无法上市，苹果已为国行备货，等eSIM政策落地即可上市，此前联通也为新机eSIM项目做业务支撑 ...",
+    "id": "8mPbB6QXwVu",
+    "order": 1757142985346,
+    "createdAt": "2025-09-06T07:16:26.000Z",
+    "publishDate": "2025-09-06T07:16:25.346Z",
+    "title": "iPhone 17 Air首发确认无国行：等eSIM政策落地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-06 15:16:26",
+    "uuid": "f3006e42-0313-41b7-9a8e-ddfe5ea30c99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "比亚迪腾势汽车公布 2026 款腾势 N9 全新“紫瑢金”双拼配色，新车基本延续现款造型，腰线后部上扬增添动感 ...",
+    "id": "8mPRmQTnyQu",
+    "order": 1757142806334,
+    "createdAt": "2025-09-06T07:13:27.000Z",
+    "publishDate": "2025-09-06T07:13:26.334Z",
+    "title": "比亚迪预告 2026 款腾势 N9：新增“紫瑢金”双拼色车漆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-06 15:13:27",
+    "uuid": "f6bb4c23-4407-4334-824c-a8892a6c23ca"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
