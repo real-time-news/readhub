@@ -1,6 +1,25 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "腾讯混元9月1日开源的混元翻译模型发布后迅速登上HuggingFace全球模型热榜第一。该模型提出完整翻译模型训练范式，用少量参数达到或超更大规模模型效果 ...",
+    "id": "8mQenRXE6l5",
+    "order": 1757146284594,
+    "createdAt": "2025-09-06T08:11:24.000Z",
+    "publishDate": "2025-09-06T08:11:24.594Z",
+    "title": "腾讯混元翻译模型拿下HuggingFace热榜全球第一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-06 16:11:24",
+    "uuid": "59d70846-4065-4ec5-bc97-90aeee2037b6"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
