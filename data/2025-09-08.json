@@ -1,6 +1,175 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "巴克莱将甲骨文的目标价从221美元上调至281美元。",
+    "id": "8mTl2mKGTrS",
+    "order": 1757313851552,
+    "createdAt": "2025-09-08T06:44:12.000Z",
+    "publishDate": "2025-09-08T06:44:11.552Z",
+    "title": "巴克莱上调甲骨文目标价至281美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 14:44:12",
+    "uuid": "debc6e23-f40c-4201-b6c6-eb081ab473a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "可控核聚变概念股午后拉升，合锻智能涨停，国光电气涨超10%，景业智能、永鼎股份、王子新材、东方钽业跟涨。",
+    "id": "8mTpMOIJRwf",
+    "order": 1757313822417,
+    "createdAt": "2025-09-08T06:43:43.000Z",
+    "publishDate": "2025-09-08T06:43:42.417Z",
+    "title": "可控核聚变概念股午后拉升，合锻智能涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 14:43:43",
+    "uuid": "108d392f-d823-4e30-8d9a-777fdfe746ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "移动出行服务平台Uber智能驾驶公司与Momenta宣布，德国慕尼黑为双方联合Robotaxi项目首发城市，预计2026年正式启动运营服务 ...",
+    "id": "8mTuLZMWLaU",
+    "order": 1757313808006,
+    "createdAt": "2025-09-08T06:43:29.000Z",
+    "publishDate": "2025-09-08T06:43:28.006Z",
+    "title": "Uber与Momenta联合官宣Robotaxi首发德国慕尼黑",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 14:43:29",
+    "uuid": "1835fc42-ef19-46c2-8489-ff883fe68bd0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "百度涨超7%，阿里巴巴涨近4%，腾讯控股、小米集团等跟涨。",
+    "id": "8mTsGjl6tOD",
+    "order": 1757313724660,
+    "createdAt": "2025-09-08T06:42:05.000Z",
+    "publishDate": "2025-09-08T06:42:04.660Z",
+    "title": "港股科技网络股午后持续活跃",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 14:42:05",
+    "uuid": "70e33183-76b7-48d9-ad73-4fa8db599fe2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国地震台网正式测定：9月8日14时19分在新疆喀什地区塔什库尔干县（北纬36.23度，东经76.07度）发生3.3级地震，震源深度10千米。",
+    "id": "8mTSW16WjJa",
+    "order": 1757313429955,
+    "createdAt": "2025-09-08T06:37:09.000Z",
+    "publishDate": "2025-09-08T06:37:09.955Z",
+    "title": "新疆喀什地区塔什库尔干县发生3.3级地震 震源深度10千米",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 14:37:09",
+    "uuid": "c5871fca-aae1-4cb3-8e67-82bcb59ae62d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "A股中国联通短线拉升涨逾5% ... 消息面上，工信部向中国联通颁发卫星移动通信业务经营许可。",
+    "id": "8mTtcOkNsWT",
+    "order": 1757313267337,
+    "createdAt": "2025-09-08T06:34:28.000Z",
+    "publishDate": "2025-09-08T06:34:27.337Z",
+    "title": "A股中国联通短线拉升涨逾5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 14:34:28",
+    "uuid": "cf4e7f22-716d-4cb4-b7b6-d486b6ffe6db"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "财政部决定发行2025年第七期、第八期储蓄国债（电子式），两期均为固定利率、固定期限品种。第七期3年，年利率1.63%，最大发行额225亿元 ...",
+    "id": "8mTuKIHFQhR",
+    "order": 1757313418339,
+    "createdAt": "2025-09-08T06:34:16.000Z",
+    "publishDate": "2025-09-08T06:36:58.339Z",
+    "title": "财政部决定发行2025年第七期和第八期储蓄国债",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 14:34:16",
+    "uuid": "bf0c0bcf-b8f2-4991-a854-2f9889151f12"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "午后卫星互联网概念再度走强，中国卫星触及涨停，中国联通一度涨超5%，上海沪工回封涨停，多股跟涨。消息称，工信部近日向中国联通集团颁发卫星移动通信业务经营许可。",
+    "id": "8mTtarP9MkR",
+    "order": 1757313218145,
+    "createdAt": "2025-09-08T06:33:39.000Z",
+    "publishDate": "2025-09-08T06:33:38.145Z",
+    "title": "卫星互联网概念再度走强，中国卫星触及涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 14:33:39",
+    "uuid": "70afe99b-4429-4a18-88fe-3d81b805906f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "近日，工业和信息化部向中国联通颁发卫星移动通信业务经营许可，联通可开展手机直连卫星等业务，深化多场景应用 ...",
+    "id": "8mTtPzEye7I",
+    "order": 1757312522217,
+    "createdAt": "2025-09-08T06:22:02.000Z",
+    "publishDate": "2025-09-08T06:22:02.217Z",
+    "title": "工信部向中国联通颁发卫星移动通信业务经营许可",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 14:22:02",
+    "uuid": "d92dd13a-52b0-4c2b-b5ba-0658ac87fd3f"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -673,6 +842,35 @@
     "up": false,
     "date": "2025-09-08 11:26:04",
     "uuid": "dadf1ff8-d66f-4aa4-aca1-b38883406d75"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "2025年9月7日18时52分，广西钦州市钦南区大番坡镇青龙村委贵祥砖厂被群众报警涉嫌利用残障人员非法务工，民警出警后找到5名疑似残障人员，控制工厂相关负责人，案件正进一步侦办。",
+    "id": "8mTfOd8Zk0h",
+    "order": 1757313775079,
+    "createdAt": "2025-09-08T03:23:51.000Z",
+    "publishDate": "2025-09-08T06:42:55.079Z",
+    "title": "广西钦州警方通报砖厂涉嫌利用残障人员非法务工：工厂负责人被控制",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 11:23:51",
+    "uuid": "7618e8c9-8de6-4aa1-af29-40a6f568f286"
   },
   {
     "newsArray": [
