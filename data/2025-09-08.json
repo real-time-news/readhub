@@ -1,6 +1,119 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "由北京飞往香港的香港快运航空公司UO235航班降落时撞到草坪，起落架冒烟，无人员受伤。",
+    "id": "8mTli8rohpK",
+    "order": 1757305975079,
+    "createdAt": "2025-09-08T04:32:55.000Z",
+    "publishDate": "2025-09-08T04:32:55.079Z",
+    "title": "香港快运航空一客机降落时撞到草坪，无人受伤",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:32:55",
+    "uuid": "76b5939e-17a9-4830-bf4c-40840516eef1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2025年10月1日起，全国铁路客运将全面使用电子发票，不再为乘车旅客提供纸质报销凭证 ...",
+    "id": "8mTlHRSc7DQ",
+    "order": 1757305948204,
+    "createdAt": "2025-09-08T04:32:29.000Z",
+    "publishDate": "2025-09-08T04:32:28.204Z",
+    "title": "10月1日起 铁路客运将全面使用电子发票",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:32:29",
+    "uuid": "3f89ca36-84a2-474f-a81f-701395fd6294"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "巴克莱预计美联储将在2025年降息三次，每次下调25个基点，分别在9月、10月和12月，高于此前预测的9月和12月两次25个基点的幅度。",
+    "id": "8mRugG2poPN",
+    "order": 1757305532103,
+    "createdAt": "2025-09-08T04:25:32.000Z",
+    "publishDate": "2025-09-08T04:25:32.103Z",
+    "title": "巴克莱将美联储年内降息次数上调至3次",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:25:32",
+    "uuid": "036eeaef-9b4f-418a-99d7-f5183e641dfd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "深圳于上周五对楼市限购政策进行重磅调整，自9月6日起施行，涉及限购分区优化、企业购房放宽、个人住房信贷调整等方面 ...",
+    "id": "8mTjaXdcKrf",
+    "order": 1757305381972,
+    "createdAt": "2025-09-08T04:23:01.000Z",
+    "publishDate": "2025-09-08T04:23:01.972Z",
+    "title": "深圳楼市新政落地首个周末：中介线上咨询量创半年新高，新房认购量增40%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:23:01",
+    "uuid": "c5f5e07d-08b3-4c3e-96a4-b99a4bed10c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "本轮由阿里云、国科投资领投，国开金融、红杉中国、渶策资本跟投。",
+    "id": "8mTa7gKKekl",
+    "order": 1757305547563,
+    "createdAt": "2025-09-08T04:22:32.000Z",
+    "publishDate": "2025-09-08T04:25:47.563Z",
+    "title": "“自变量”获近10亿元A+轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:22:32",
+    "uuid": "ac37b238-a569-419e-b9bf-09e9ee6a180f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "近日，某团队成功研发出类脑脉冲大模型“瞬悉1.0”。该模型基于原创“内生复杂性”理论构建，在国产GPU平台完成全流程训练与推理，提升了大模型处理极长文本或数据序列的效率和速度，展示了构建国产自主可控新型大模型架构生态的可行性。",
+    "id": "8mTiUS6Mi82",
+    "order": 1757305338024,
+    "createdAt": "2025-09-08T04:22:19.000Z",
+    "publishDate": "2025-09-08T04:22:18.024Z",
+    "title": "我国科研人员研发出类脑脉冲大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:22:19",
+    "uuid": "b218b67b-e57b-4840-82ce-cac4a55b2e79"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -424,6 +537,25 @@
     "up": false,
     "date": "2025-09-08 11:12:13",
     "uuid": "efdc22a2-6425-4b38-adc9-a933fa4810af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "联商网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "优衣库与京东达成合作，用户打开京东 APP 搜索“优衣库”可在其京东小程序购买全品类服饰。双方整合能力，开发国内消费市场，加强本土化数字渠道布局，提升消费者体验 ...",
+    "id": "8mSfuhgXBkP",
+    "order": 1757305875742,
+    "createdAt": "2025-09-08T02:57:12.000Z",
+    "publishDate": "2025-09-08T04:31:15.742Z",
+    "title": "优衣库与京东达成合作，超9成海内外大牌已入驻京东",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 10:57:12",
+    "uuid": "352ea019-9c49-44c6-b3ad-1fde7a5a43f0"
   },
   {
     "newsArray": [
