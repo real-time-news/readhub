@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "刘强东表示：“长春的营商环境非常优越，尤其近两年多在长春业务发展迅速，接下来我们还会加大投资，未来三年在长春的投资额再增加一到两倍”。",
+    "id": "8mTdUH3MHUZ",
+    "order": 1757304290865,
+    "createdAt": "2025-09-08T04:04:51.000Z",
+    "publishDate": "2025-09-08T04:04:50.865Z",
+    "title": "京东集团与长春市签署战略合作框架协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:04:51",
+    "uuid": "79328035-f480-477a-aade-dea77eba8fae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "江苏一起因代打卡引发的劳动纠纷案件引发关注。张某因私事让李某用伪造橡胶指纹帮自己代打卡三次，被公司察觉后，公司与其解除劳动关系 ...",
+    "id": "8mTb5Vd04Rd",
+    "order": 1757304958026,
+    "createdAt": "2025-09-08T04:03:51.000Z",
+    "publishDate": "2025-09-08T04:15:58.026Z",
+    "title": "用橡胶指纹帮同事打卡2人均被辞退 起诉索赔被驳回",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:03:51",
+    "uuid": "cb3f9e81-5b9c-499b-8da1-ef07e8909cfd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "渣打银行：预计美联储今年9月将利率下调50个基点，高于此前预测的25个基点。",
+    "id": "8mTiqg7mR1V",
+    "order": 1757304650198,
+    "createdAt": "2025-09-08T04:02:58.000Z",
+    "publishDate": "2025-09-08T04:10:50.198Z",
+    "title": "渣打：预计美联储今年9月将利率下调50个基点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:02:58",
+    "uuid": "37e2c427-b4fb-4be9-8d75-97f41b08b726"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉董事会为首席执行官马斯克拟定新薪酬方案，若他实现多项高难度业绩目标，将获价值 1 万亿美元股票奖励 ...",
+    "id": "8mSM9a5CxBV",
+    "order": 1757304128620,
+    "createdAt": "2025-09-08T04:02:09.000Z",
+    "publishDate": "2025-09-08T04:02:08.620Z",
+    "title": "为马斯克制定 1 万亿美元薪酬方案，特斯拉董事会详解背后原因",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 12:02:09",
+    "uuid": "6871ada0-4996-4054-89c9-5fff1a157291"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" }
@@ -296,6 +369,41 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "近日，千寻智能（杭州）科技有限公司发生工商变更，新增京东科技、中国互联网投资基金、Astrend V (Hong Kong) Beta Limited等为股东，注册资本由约195万增至约237万 ...",
+    "id": "8mTfzm34oph",
+    "order": 1757303966072,
+    "createdAt": "2025-09-08T03:13:58.000Z",
+    "publishDate": "2025-09-08T03:59:26.072Z",
+    "title": "京东等入股千寻智能，后者为具身智能机器人公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 11:13:58",
+    "uuid": "d4179268-e9ba-4d28-9616-9613fbe2d89e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "aibase" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "阿里巴巴推出最大语言模型 Qwen3 - Max - Preview，拥有超一万亿参数，通过 Qwen Chat 和阿里云 API 开放 ...",
+    "id": "8mTdF3SjXDA",
+    "order": 1757303972080,
+    "createdAt": "2025-09-08T03:13:37.000Z",
+    "publishDate": "2025-09-08T03:59:32.080Z",
+    "title": "​阿里巴巴发布 Qwen3-Max-Preview：模型参数数量超过一万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 11:13:37",
+    "uuid": "54d1b5a4-59b4-4d76-b7f5-ff86139a576b"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
@@ -425,6 +533,24 @@
     "up": false,
     "date": "2025-09-08 10:35:09",
     "uuid": "106f93f9-4f89-4c0b-bd75-387a014c86ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "近日，小米之家商业有限公司发生工商变更，孙波卸任法定代表人、经理，由张健接任。该公司成立于2017年6月，注册资本1亿，由小米通讯技术有限公司全资持股 ...",
+    "id": "8mTZa96asPY",
+    "order": 1757304048529,
+    "createdAt": "2025-09-08T02:34:51.000Z",
+    "publishDate": "2025-09-08T04:00:48.529Z",
+    "title": "小米之家商业公司变更法定代表人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-08 10:34:51",
+    "uuid": "8ace7529-96b9-482a-ab2c-a2fcf797cc33"
   },
   {
     "newsArray": [
