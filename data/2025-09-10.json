@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "工业和信息化部部长李乐成9月9日主持召开工业和信息化“十五五”规划企业座谈会，称编制实施该规划离不开企业与企业家支持贡献。他提出要把握保持制造业合理比重目标推动产品高端化 ...",
+    "id": "8mX96OF2rsK",
+    "order": 1757481762825,
+    "createdAt": "2025-09-10T05:22:43.000Z",
+    "publishDate": "2025-09-10T05:22:42.825Z",
+    "title": "工信部部长李乐成：拓展“人工智能＋”典型应用场景 加快新技术新产品新场景大规模应用落地",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 13:22:43",
+    "uuid": "ca5712dc-0d92-4888-b91a-714f2b40e40a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "科创50指数涨超2%，创业板指涨近2%。",
+    "id": "8mX8NLAywJG",
+    "order": 1757481190685,
+    "createdAt": "2025-09-10T05:13:10.000Z",
+    "publishDate": "2025-09-10T05:13:10.685Z",
+    "title": "科创50指数涨超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 13:13:10",
+    "uuid": "4d85933d-fdd9-4772-9866-7afbca283c54"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "第一财经" },
       { "siteName": "猎云网" }
@@ -71,6 +106,26 @@
     "up": false,
     "date": "2025-09-10 12:42:05",
     "uuid": "2a2f3770-0213-499a-ab74-21fc05bd1d65"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "工业和信息化部NVDB监测发现，苹果公司iOS/iPadOS/macOS因ImageIO框架存在越界写入高危漏洞，已被用于网络攻击，处理恶意图像文件可能致内存损坏，受影响版本众多 ...",
+    "id": "8mX5bElFb14",
+    "order": 1757481663413,
+    "createdAt": "2025-09-10T04:41:35.000Z",
+    "publishDate": "2025-09-10T05:21:03.413Z",
+    "title": "工信部NVDB：防范苹果公司iOS/iPadOS/macOS越界写入高危漏洞",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 12:41:35",
+    "uuid": "3a32554e-9eb6-42b0-986d-0507c0c9ca55"
   },
   {
     "newsArray": [
