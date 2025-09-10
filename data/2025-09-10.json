@@ -1,6 +1,66 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "A股三大指数午间休盘集体上涨，沪指涨0.17%，深成指涨0.24%，创业板指涨1.14%。算力硬件股大涨，高频PCB、CPO方向领涨，工业富联涨停等 ...",
+    "id": "8mX1MZIIK6o",
+    "order": 1757475757253,
+    "createdAt": "2025-09-10T03:42:38.000Z",
+    "publishDate": "2025-09-10T03:42:37.253Z",
+    "title": "A股三大指数午间休盘集体上涨，算力硬件股大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 11:42:38",
+    "uuid": "449e28ab-d15b-4009-a18c-82ba6d08f0d5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国新办举行“高质量完成‘十四五’规划”系列主题新闻发布会，介绍“十四五”时期自然资源工作中海洋领域高质量发展成就，包括海洋生产总值突破10万亿、产业门类齐全 ...",
+    "id": "8mWxf7otZSr",
+    "order": 1757475301055,
+    "createdAt": "2025-09-10T03:35:01.000Z",
+    "publishDate": "2025-09-10T03:35:01.055Z",
+    "title": "规模大、势头好，我国已成为海洋产业门类最齐全国家之一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 11:35:01",
+    "uuid": "cbdfd5d1-a1cc-43f1-8af0-c0003b483795"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果发布仅支持eSIM的iPhone Air，eSIM是内置数字SIM卡，无需实体卡 ...",
+    "id": "8mX0nqDRX9l",
+    "order": 1757475285980,
+    "createdAt": "2025-09-10T03:34:45.000Z",
+    "publishDate": "2025-09-10T03:34:45.980Z",
+    "title": "中国电信回应eSIM手机业务：已全面准备就绪 将很快向用户开放",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 11:34:45",
+    "uuid": "ae30d036-2fbf-47b8-a96b-396a1da0d188"
+  },
+  {
+    "newsArray": [
       { "siteName": "开源中国" },
       { "siteName": "aibase" },
       { "siteName": "aibase" }
@@ -179,6 +239,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "9月9日，杭州翌心企业管理咨询合伙企业（有限合伙）成立，执行事务合伙人为杭州天则科技有限公司，出资约11万，经营范围包括企业管理咨询等 ...",
+    "id": "8mWx2FSeYxJ",
+    "order": 1757475609987,
+    "createdAt": "2025-09-10T02:56:05.000Z",
+    "publishDate": "2025-09-10T03:40:09.987Z",
+    "title": "宇树科技创始人王兴兴在杭州成立合伙企业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 10:56:05",
+    "uuid": "29d74a4a-d72a-4dd2-a2f4-e5873664ae5b"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
@@ -278,6 +355,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "花旗称中国光模块股价年初大幅上涨后获利回吐难免，但鉴于2027年需求可见度显著增强，光模块公司值得重估至20倍以上市盈率 ...",
+    "id": "8mWx2VTZPx3",
+    "order": 1757475122849,
+    "createdAt": "2025-09-10T02:42:27.000Z",
+    "publishDate": "2025-09-10T03:32:02.849Z",
+    "title": "花旗上调中国光模块“易中天”目标价 需求能见度有望推动股票重估",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 10:42:27",
+    "uuid": "7fb40b60-cba7-41a2-8a18-c942476585c1"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
@@ -295,6 +390,45 @@
     "up": false,
     "date": "2025-09-10 10:37:23",
     "uuid": "98db30dc-fcb5-4ec9-9277-db2bb41d1368"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "近日，抖音生活服务完成新一轮组织调整，涉及北部大区、达人运营与市场部三大条线。涂晴从北区负责人转任市场部与达人运营负责人。苏怡然卸任生活服务市场负责人 ...",
+    "id": "8mWuAJ27ChW",
+    "order": 1757475621762,
+    "createdAt": "2025-09-10T02:36:18.000Z",
+    "publishDate": "2025-09-10T03:40:21.762Z",
+    "title": "抖音生活服务迎新一轮组织调整：涉及北部大区等三大条线人事轮换与汇报关系变更",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 10:36:18",
+    "uuid": "e5e59026-645d-41aa-bf7d-d3b04cca7dd2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "每经网" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "2025菜鸟全球智慧物流峰会上，菜鸟集团CEO万霖称本财年以来外部订单增长超200%。菜鸟正提升航空网络和包机航线，增强重点市场干线 ...",
+    "id": "8mWuxiZ46Cc",
+    "order": 1757475246196,
+    "createdAt": "2025-09-10T02:34:44.000Z",
+    "publishDate": "2025-09-10T03:34:06.196Z",
+    "title": "菜鸟CEO万霖：本财年以来外部订单增长超200%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 10:34:44",
+    "uuid": "3a9d95ec-56ec-440a-8eb2-a846c54873eb"
   },
   {
     "newsArray": [
@@ -739,6 +873,23 @@
     "up": false,
     "date": "2025-09-10 07:46:04",
     "uuid": "ba9dbb42-abeb-45aa-9ece-bdf6c9539fd7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "新思科技第三季度营收 17.4 亿美元，同比增长 14%。第三季度经调整每股收益 3.39 美元，上年同期 3.43 美元。",
+    "id": "8mWVnx436xX",
+    "order": 1757475826235,
+    "createdAt": "2025-09-09T23:42:37.000Z",
+    "publishDate": "2025-09-10T03:43:46.235Z",
+    "title": "新思科技：第三季度营收17.4亿美元，同比增长14%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-10 07:42:37",
+    "uuid": "a0902aeb-e74a-4079-8905-6d9efbbbf5e6"
   },
   {
     "newsArray": [
