@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "欧洲央行行长拉加德重申政策声明，称将逐次会议应对。经济因国内需求韧性增长，GDP反映一季度提前发力，制造业和服务业均增长，劳动力市场强劲，投资需政府支出支撑 ...",
+    "id": "8mZLaTwYABz",
+    "order": 1757596435934,
+    "createdAt": "2025-09-11T13:13:55.000Z",
+    "publishDate": "2025-09-11T13:13:55.934Z",
+    "title": "欧央行行长拉加德：经济增长的逆风明年应该会消退",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-11 21:13:55",
+    "uuid": "0381deea-2d0e-4610-9eb2-53cd4f9bd528"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "格隆汇9月11日丨土耳其央行将一周回购利率从43%下调至40.5%，市场预期降至41%。",
+    "id": "8mZCQ9P2Hp1",
+    "order": 1757596387770,
+    "createdAt": "2025-09-11T13:13:07.000Z",
+    "publishDate": "2025-09-11T13:13:07.770Z",
+    "title": "土耳其央行将基准回购利率下调至40.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-11 21:13:07",
+    "uuid": "629a1dcc-a84e-4cc3-a280-86cc993e935b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "中国人工智能企业月之暗面（MoonshotAI）发布专为 LLM 推理引擎设计的开源中间件 Checkpoint Engine，具备模型权重原地热更新技术，用于强化学习场景 ...",
+    "id": "8mYhqiY8B2f",
+    "order": 1757596048744,
+    "createdAt": "2025-09-11T13:07:28.000Z",
+    "publishDate": "2025-09-11T13:07:28.744Z",
+    "title": "月之暗面开源 Checkpoint Engine 中间件，实现万亿参数模型 20 秒热更新",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-11 21:07:28",
+    "uuid": "5dd21b9b-49da-4550-a480-4b114a646701"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
