@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "紫光国微在互动平台称，作为国内首家实现eSIM全球商用的芯片商，已成功推出并量产多款符合相关标准的eSIM产品，针对“AI+5G+eSIM”融合应用新场景完成技术布局与产品储备，还根据市场需求预测做了相应备货。",
+    "id": "8mYjixad7SH",
+    "order": 1757565182701,
+    "createdAt": "2025-09-11T04:33:02.000Z",
+    "publishDate": "2025-09-11T04:33:02.701Z",
+    "title": "紫光国微：已成功推出并量产多款eSIM产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-11 12:33:02",
+    "uuid": "2af0e86f-4ab3-488d-adf5-46d6096b3f6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "腾讯优图实验室开源图检索增强生成框架Youtu - GraphRAG，该框架采用大语言模型+RAG模式，将知识组织成“图谱”供大模型检索推理，可使大模型处理复杂问答更精准、可追溯，适用于知识密集型场景。",
+    "id": "8mYjzTLW7Ju",
+    "order": 1757565150046,
+    "createdAt": "2025-09-11T04:32:31.000Z",
+    "publishDate": "2025-09-11T04:32:30.046Z",
+    "title": "腾讯开源图检索增强生成框架Youtu-GraphRAG",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-11 12:32:31",
+    "uuid": "4edd4327-417e-4981-9085-81c058d1a2ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Coinbase：已知目前部分用户可能无法发起加密货币转账 ... 我们的团队正在调查此问题，不久后将提供最新进展。",
+    "id": "8mYg9PdcZbg",
+    "order": 1757564541670,
+    "createdAt": "2025-09-11T04:22:21.000Z",
+    "publishDate": "2025-09-11T04:22:21.670Z",
+    "title": "Coinbase：部分用户可能无法发起加密货币转账 团队正在调查此问题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-11 12:22:21",
+    "uuid": "31058528-82fe-48dc-927a-7228c6b7b88b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "近日，因小红书未落实信息内容管理主体责任，热搜呈现炒作明星动态琐事等不良信息、破坏网络生态，国家网信办指导上海市网信办依据相关规定对其采取约谈、责令限期改正、警告、从严处理责任人等处置处罚措施。",
+    "id": "8mYj0EF7X7I",
+    "order": 1757564473505,
+    "createdAt": "2025-09-11T04:21:14.000Z",
+    "publishDate": "2025-09-11T04:21:13.505Z",
+    "title": "小红书被约谈：频繁呈现炒作明星个人动态等不良信息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-11 12:21:14",
+    "uuid": "bbd5d658-686e-4cdb-abe4-4876934eec28"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -135,6 +207,24 @@
     "up": false,
     "date": "2025-09-11 11:34:35",
     "uuid": "27dde972-a4d1-4cd4-b4e3-8fa75a44ac8f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "阿里云创始人王坚在2025 Inclusion外滩大会上表示，开源与闭源模型的选择成AI竞争关键，人工智能进入资源开放时代，模型权重开放意味着数据和计算资源开放 ...",
+    "id": "8mYfSlJeOxt",
+    "order": 1757565198104,
+    "createdAt": "2025-09-11T03:33:34.000Z",
+    "publishDate": "2025-09-11T04:33:18.104Z",
+    "title": "阿里云创始人王坚：人工智能进入资源开放时代",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-11 11:33:34",
+    "uuid": "019c4a89-ed3c-4d8d-90d5-5bfbec0a97d2"
   },
   {
     "newsArray": [
