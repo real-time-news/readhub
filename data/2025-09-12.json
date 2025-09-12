@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "A股三大指数午间休盘涨跌不一，沪指、深成指微涨，创业板指跌0.52%。",
+    "id": "8maL8OuWXTi",
+    "order": 1757648526070,
+    "createdAt": "2025-09-12T03:42:06.000Z",
+    "publishDate": "2025-09-12T03:42:06.070Z",
+    "title": "A股三大指数午间休盘涨跌不一，地产股走强",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-12 11:42:06",
+    "uuid": "7268b583-76c0-4805-8dc4-c882e7370afd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "30年期主力合约涨0.25%，10年期主力合约持平，5年期主力合约持平，2年期主力合约跌0.03%。",
+    "id": "8maCtG6TAow",
+    "order": 1757648496691,
+    "createdAt": "2025-09-12T03:41:36.000Z",
+    "publishDate": "2025-09-12T03:41:36.691Z",
+    "title": "国债期货午盘多数持平",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-12 11:41:36",
+    "uuid": "48a0099d-27ad-4e09-8e73-2582b22e7d3f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "市场监管总局发布2025年9月1日—9月7日无条件批准经营者集中案件列表，其中包括KKR公司收购思百吉公司股权案、贝恩资本投资者有限责任公司收购KPCI Holdings Limited股权案。",
+    "id": "8maL3mtxOg1",
+    "order": 1757648039963,
+    "createdAt": "2025-09-12T03:33:59.000Z",
+    "publishDate": "2025-09-12T03:33:59.963Z",
+    "title": "市场监管总局无条件批准KKR公司收购思百吉公司股权案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-12 11:33:59",
+    "uuid": "d09511ff-4366-4139-a411-a79c3bf41d91"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
@@ -37,6 +90,23 @@
     "up": false,
     "date": "2025-09-12 11:14:04",
     "uuid": "dbdd6bee-fde0-4d7d-89ff-f6cabe380727"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "蚂蚁集团CEO韩歆毅在2025 Inclusion·外滩大会称，旗下AI健康应用AQ是蚂蚁医疗健康普惠创新重要探索，目标是五年内让人人有AI健康管家、医生有专属AI助手 ...",
+    "id": "8maI34JFIFD",
+    "order": 1757648454627,
+    "createdAt": "2025-09-12T03:07:51.000Z",
+    "publishDate": "2025-09-12T03:40:54.627Z",
+    "title": "蚂蚁CEO韩歆毅：五年内，让人人都拥有值得托付的AI健康管家",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-12 11:07:51",
+    "uuid": "a74f5770-d2e1-42ab-93b4-edf4d241ac24"
   },
   {
     "newsArray": [
@@ -448,6 +518,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "《流浪地球》系列导演郭帆宣布，历经二十三个月，《流浪地球3》上下集共计十五万字剧本完稿，后期还会小改。影片4月15日开机，由郭帆执导，计划2027大年初一上映 ...",
+    "id": "8ma3swut1ev",
+    "order": 1757648529117,
+    "createdAt": "2025-09-12T01:16:23.000Z",
+    "publishDate": "2025-09-12T03:42:09.117Z",
+    "title": "郭帆宣布《流浪地球3》剧本完稿：上下两集 共计15万字",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-12 09:16:23",
+    "uuid": "34e94f05-3c7f-41c8-8bd9-8e73fe27bbd7"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "第一财经" },
@@ -782,6 +870,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "开源中国" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "阿里发布下一代基础模型架构Qwen3-Next，开源基于该架构的Qwen3-Next-80B-A3B系列模型。该架构相比Qwen3的MoE模型结构有多项核心改进 ...",
+    "id": "8mYs8TW3Fng",
+    "order": 1757648670085,
+    "createdAt": "2025-09-11T23:25:43.000Z",
+    "publishDate": "2025-09-12T03:44:30.085Z",
+    "title": "阿里发布下一代基础模型架构Qwen3-Next",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-12 07:25:43",
+    "uuid": "15a081de-8908-4497-84f4-dba218289cbb"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "IT 之家" }
@@ -796,6 +902,23 @@
     "up": false,
     "date": "2025-09-12 07:21:53",
     "uuid": "659c3262-ac7d-491b-ac5b-59c7ec793130"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "因肥胖症药物市场竞争激烈，诺和诺德宣布要求所有员工返回办公室办公，以加快决策速度、改善商业执行效率应对挑战 ...",
+    "id": "8mZPKHvo1N2",
+    "order": 1757648683342,
+    "createdAt": "2025-09-11T23:15:01.000Z",
+    "publishDate": "2025-09-12T03:44:43.342Z",
+    "title": "诺和诺德要求员工全职返岗，新任CEO全力推动公司复苏",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-12 07:15:01",
+    "uuid": "8445d9f1-6014-4e72-8bf7-9fb43c6957ef"
   },
   {
     "newsArray": [
