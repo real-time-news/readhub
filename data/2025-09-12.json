@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "欧洲三大股指收盘涨跌不一，德国DAX指数跌0.04%报23693.79点，法国CAC40指数涨0.03%报7825.94点，英国富时100指数跌0.11%报9287.04点。",
+    "id": "8mbAu3OQ2tQ",
+    "order": 1757691743039,
+    "createdAt": "2025-09-12T15:42:24.000Z",
+    "publishDate": "2025-09-12T15:42:23.039Z",
+    "title": "欧洲三大股指收盘涨跌不一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-12 23:42:24",
+    "uuid": "314dd9fd-8a6e-45a9-a758-0ceb0eeebbc7"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -880,6 +898,25 @@
     "up": false,
     "date": "2025-09-12 19:46:18",
     "uuid": "5efddd18-c410-4bce-8910-c28f169d380b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "摩根士丹利周五称，虽美国 8 月消费者价格创七个月最大涨幅，但仍预计美联储今年三次会议均降息，此前该券商曾预测 9 月和 12 月各降息 25 个基点。",
+    "id": "8maqTckgiYw",
+    "order": 1757691731247,
+    "createdAt": "2025-09-12T11:43:16.000Z",
+    "publishDate": "2025-09-12T15:42:11.247Z",
+    "title": "摩根士丹利预计美联储将在2025年三次会议上均降息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-12 19:43:16",
+    "uuid": "30c8ae5c-2363-417d-afdd-63a4cf4e096a"
   },
   {
     "newsArray": [
