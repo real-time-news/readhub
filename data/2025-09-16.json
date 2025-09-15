@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国科学家研发出光基芯片，可利用光与电协同工作，高效完成AI中高功耗任务，能效比传统芯片提升10倍甚至百倍以上，有望缓解AI用电需求、推动高性能AI发展，相关成果已发表。",
+    "id": "8mgfR7MquM2",
+    "order": 1757978486854,
+    "createdAt": "2025-09-15T23:21:26.000Z",
+    "publishDate": "2025-09-15T23:21:26.854Z",
+    "title": "光基芯片执行AI任务能效提升十至百倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-16 07:21:26",
+    "uuid": "504277ab-860d-457b-bd7c-23f1646b1b2f"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "网易科技" },
       { "siteName": "网易科技" }
@@ -83,5 +100,23 @@
     "up": false,
     "date": "2025-09-16 01:42:23",
     "uuid": "3f0fcf92-af1a-4497-b5a3-13707bba817d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "苹果发布 watchOS 26 正式版，适配 Apple Watch 多款机型。界面上引入全新 Liquid Glass 软件设计，增强沉浸感 ...",
+    "id": "8mgGLuHILS1",
+    "order": 1757977892030,
+    "createdAt": "2025-09-15T17:31:57.000Z",
+    "publishDate": "2025-09-15T23:11:32.030Z",
+    "title": "苹果 watchOS 26 正式版推送：液态玻璃设计改造界面",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-16 01:31:57",
+    "uuid": "bf87b1e0-ed20-44b5-9805-7338698ed8df"
   }
 ]
