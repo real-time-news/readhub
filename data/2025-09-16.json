@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "谷歌 DeepMind 推出新型语言模型 VaultGemma，它专注于用户隐私保护，是目前规模最大的具备差分隐私能力的语言模型，参数达 10 亿 ...",
+    "id": "8mgxmNKJZhd",
+    "order": 1758012599100,
+    "createdAt": "2025-09-16T08:50:00.000Z",
+    "publishDate": "2025-09-16T08:49:59.100Z",
+    "title": "DeepMind 发布 VaultGemma 模型，具备差分隐私能力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-16 16:50:00",
+    "uuid": "37f37911-d592-46bf-9fd0-494f907c8315"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "智东西" }
+    ],
+    "summary": "2025腾讯全球数字生态大会媒体交流中，汤道生称腾讯正与多家芯片厂商合作、适配，因模型多样、不同场景芯片配置需求不同，会持续合作，聚焦软件部分并针对场景选合适硬件 ...",
+    "id": "8mhDiv08rAc",
+    "order": 1758012586576,
+    "createdAt": "2025-09-16T08:49:46.000Z",
+    "publishDate": "2025-09-16T08:49:46.576Z",
+    "title": "腾讯汤道生回应全面适配主流国产芯片：会持续跟多家厂商来合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-16 16:49:46",
+    "uuid": "becb0af1-5e36-4f47-9790-166fa1aa0fbf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "有投资者问阿莱德，公司是否己经在液冷，数据中心，光模块方面为国内外头部企业提供产品及服务 ...",
+    "id": "8mhKr0py2Sc",
+    "order": 1758012228292,
+    "createdAt": "2025-09-16T08:43:49.000Z",
+    "publishDate": "2025-09-16T08:43:48.292Z",
+    "title": "阿莱德：已获得华工正源、科大讯飞等行业头部公司的批量订单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-16 16:43:49",
+    "uuid": "1a6b9edc-67ea-43f0-9db3-f812158652a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "乌克兰武装部队称，当天凌晨乌特种作战部队协同国防军其他单位袭击俄萨拉托夫州炼油厂，目标区域有爆炸及火灾，打击成果待核实，乌方称该炼油厂为俄军提供石油产品，俄方暂无回应。",
+    "id": "8mhKBUGmHcG",
+    "order": 1758011867189,
+    "createdAt": "2025-09-16T08:37:48.000Z",
+    "publishDate": "2025-09-16T08:37:47.189Z",
+    "title": "乌军称袭击俄萨拉托夫炼油厂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-16 16:37:48",
+    "uuid": "53fbb8c5-47d4-4167-8f85-8ae487d7d4b2"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "第一财经" },
       { "siteName": "界面" }
