@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "人民银行信贷市场司负责人杨虹在国新办新闻发布会上称，截至今年7月末，全国服务消费重点领域贷款余额2.79万亿元，同比增5.3%，较年初新增1642亿元，今年前7个月新增贷款比去年全年多630亿元。",
+    "id": "8mivQLfw5fI",
+    "order": 1758094991940,
+    "createdAt": "2025-09-17T07:43:11.000Z",
+    "publishDate": "2025-09-17T07:43:11.940Z",
+    "title": "今年前7个月新增服务消费重点领域贷款较去年全年多630亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 15:43:11",
+    "uuid": "35b83b53-fe4a-4ad9-baa5-4b7a17475995"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
@@ -461,6 +479,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "近期阿里巴巴股价连续大涨，原因之一是其正在开发新人工智能芯片，已进入测试阶段，面向广泛AI推理任务，由国内厂商代工，与英伟达架构兼容 ...",
+    "id": "8miZKxWI92b",
+    "order": 1758095137451,
+    "createdAt": "2025-09-17T06:12:33.000Z",
+    "publishDate": "2025-09-17T07:45:37.451Z",
+    "title": "央视《新闻联播》意外曝光阿里自研芯片 重要参数与英伟达H20相当",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 14:12:33",
+    "uuid": "834fa7df-a2f5-47bf-8337-e5f4a0846f36"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" }
@@ -853,6 +889,25 @@
     "up": false,
     "date": "2025-09-17 12:21:54",
     "uuid": "e7a6d550-cb9a-4d90-a9f5-185bc20d5b7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "阿里开源首个深度研究 Agent 模型通义 DeepResearch，在多个权威评测集上取得 SOTA 成绩，超越 OpenAI Deep Research 等模型，其模型、框架和方案已全面开源，用户可在相关平台下载。",
+    "id": "8mieLr8baxF",
+    "order": 1758095281678,
+    "createdAt": "2025-09-17T04:19:30.000Z",
+    "publishDate": "2025-09-17T07:48:01.678Z",
+    "title": "阿里开源通义DeepResearch，性能超OpenAI、DeepSeek旗舰模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 12:19:30",
+    "uuid": "0a11fc59-508d-4140-8f12-2f68b9aed5f3"
   },
   {
     "newsArray": [
