@@ -1,6 +1,138 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "李家超表示，今年香港经济预期正增长。",
+    "id": "8mic8qHRVB9",
+    "order": 1758078937923,
+    "createdAt": "2025-09-17T03:15:37.000Z",
+    "publishDate": "2025-09-17T03:15:37.923Z",
+    "title": "李家超：今年香港经济预期正增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 11:15:37",
+    "uuid": "92a769cf-bc51-4e2f-9216-5abaac190f77"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "香港特区行政长官李家超发表新一份施政报告，称特区政府将成立AI效能提升组，推进“AI+”发展，促进AI政务发展。",
+    "id": "8mic8F3ifgV",
+    "order": 1758078815662,
+    "createdAt": "2025-09-17T03:13:35.000Z",
+    "publishDate": "2025-09-17T03:13:35.662Z",
+    "title": "香港将成立AI效能提升组",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 11:13:35",
+    "uuid": "33360d6d-4f8c-4d0e-bdc1-64b62387699a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "A股三大股指走高，创业板指涨1.13%续创2022年1月以来新高，深证成指涨0.56%，沪指涨0.16%。",
+    "id": "8mial4Ykip3",
+    "order": 1758078455652,
+    "createdAt": "2025-09-17T03:07:36.000Z",
+    "publishDate": "2025-09-17T03:07:35.652Z",
+    "title": "创业板指涨超1% 宁德时代股价创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 11:07:36",
+    "uuid": "4246bc09-0476-4e80-b476-e35f5acbb346"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "上交所副理事长霍瑞戎在2025中国资本市场发展论坛称，预先审阅有序推进，已与多家意向企业预沟通，正推动首家项目提请预先审阅 ...",
+    "id": "8mibSruhOWf",
+    "order": 1758078437359,
+    "createdAt": "2025-09-17T03:07:17.000Z",
+    "publishDate": "2025-09-17T03:07:17.359Z",
+    "title": "上交所霍瑞戎：推动首家科创板IPO项目提请预先审阅",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 11:07:17",
+    "uuid": "befa77c5-0b89-46f7-a8c2-0e65532e7a60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2025年中国国际海事会展新闻发布会上，中国船舶工业行业协会副秘书长谭乃芬介绍，2025年上半年全国规模以上船舶工业企业营业收入3987.6亿元，同比增20.8%，利润总额387.4亿元，同比增72.6%，营业收入利润率9.71％ ...",
+    "id": "8miaiBjBB27",
+    "order": 1758078373936,
+    "createdAt": "2025-09-17T03:06:13.000Z",
+    "publishDate": "2025-09-17T03:06:13.936Z",
+    "title": "上半年全国规模以上船舶工业企业利润总额增长超七成",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 11:06:13",
+    "uuid": "5c022f27-00ed-484c-b830-bf85034b5943"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "国务院国资委主任张玉卓在新闻发布会上表示，2010 年起国资委开始探索实施 EVA 考核，十多年来央企每年创造的经济增加值从 3800 多亿元增至 1.2 万亿元，下一步将继续用好 EVA 考核，引导企业强化先算再投。",
+    "id": "8miaY1K4TdY",
+    "order": 1758078306508,
+    "createdAt": "2025-09-17T03:05:07.000Z",
+    "publishDate": "2025-09-17T03:05:06.508Z",
+    "title": "国务院国资委：下一步将继续用好EVA考核 引导企业强化先算再投",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 11:05:07",
+    "uuid": "ba9c3947-0539-425d-9906-403245af306b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "宁德时代H股突破500港元关口，日内涨近6%，股价刷新5月上市以来新高。",
+    "id": "8miLl12XjhP",
+    "order": 1758078293320,
+    "createdAt": "2025-09-17T03:04:54.000Z",
+    "publishDate": "2025-09-17T03:04:53.320Z",
+    "title": "宁德时代H股突破500港元关口，日内涨近6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 11:04:54",
+    "uuid": "a7c92b03-ed6c-4688-9cc7-50ee77dd8d03"
+  },
+  {
+    "newsArray": [
       { "siteName": "亿邦动力网" },
       { "siteName": "亿邦动力网" },
       { "siteName": "联商网" }
@@ -49,6 +181,23 @@
     "up": false,
     "date": "2025-09-17 10:54:53",
     "uuid": "889d4825-da0d-4d32-8f38-befe972e1f40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "必和必拓宣布暂停与三菱子公司共同营运的昆士兰炼焦煤矿，裁员750人，原因是煤价过低和澳洲州政府征收高额特许权费用削弱收益，资产总裁称面对相关费用及市场条件，停止营运是必要的。",
+    "id": "8miaXw8kYOV",
+    "order": 1758078679142,
+    "createdAt": "2025-09-17T02:53:55.000Z",
+    "publishDate": "2025-09-17T03:11:19.142Z",
+    "title": "必和必拓暂停昆士兰炼焦煤矿营运并裁员750人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 10:53:55",
+    "uuid": "f39bacc2-c49c-4e93-9b38-25981ea3eca2"
   },
   {
     "newsArray": [
@@ -184,6 +333,23 @@
     "up": false,
     "date": "2025-09-17 10:35:24",
     "uuid": "4faeda9b-9f18-4ba2-bbec-a9e8417f7c4e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果中国区 AirPods 文案登上微博热搜，起因是苹果官网 AirPods Pro 3 介绍页面文案在国内外有差异，海外以「朝九晚五，工作一整天」展现续航，中国区替换为「从早到晚」 ...",
+    "id": "8mhORCLBFHG",
+    "order": 1758078726846,
+    "createdAt": "2025-09-17T02:34:51.000Z",
+    "publishDate": "2025-09-17T03:12:06.846Z",
+    "title": "苹果调整中国区AirPods Pro 3文案：从“朝九晚五”变成“从早到晚”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 10:34:51",
+    "uuid": "3814fcc8-af3d-4f6d-a9a8-86fa1beef8ef"
   },
   {
     "newsArray": [
@@ -416,6 +582,23 @@
     "up": false,
     "date": "2025-09-17 08:37:54",
     "uuid": "0665680a-b4ba-4a0c-9bf4-25c680cedb10"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "娃哈哈品牌使用和产品销售再起风波，一份落款为2025年9月12日的《通知》称，为维护“娃哈哈”品牌使用合规性，宏胜系企业从2026年销售年度起将更换使用新品牌“娃小宗” ...",
+    "id": "8mhMKuAatxe",
+    "order": 1758079072479,
+    "createdAt": "2025-09-17T00:34:06.000Z",
+    "publishDate": "2025-09-17T03:17:52.479Z",
+    "title": "“娃哈哈”换“娃小宗”，多数经销商尚不知情",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-17 08:34:06",
+    "uuid": "f0cf51ca-b0eb-470a-b888-918565851e05"
   },
   {
     "newsArray": [
