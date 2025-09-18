@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "TrendForce集邦咨询最新调查显示，因AMD将于2026年推出MI450 Helios平台，近期NVIDIA积极要求Vera Rubin server rack关键零组件供应商提高产品规格，如将HBM4的Speed per Pin调升至10Gbps，规格提升有变量，预计SK hynix在HBM4量产初期仍保持最大供应商优势。",
+    "id": "8mkhkR3h0ws",
+    "order": 1758187970787,
+    "createdAt": "2025-09-18T09:32:51.000Z",
+    "publishDate": "2025-09-18T09:32:50.787Z",
+    "title": "机构：英伟达尝试调升HBM4规格，预期2026年SK海力士仍是最大供应商",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-18 17:32:51",
+    "uuid": "a52710aa-86b4-4012-833d-a55cfab28da5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "GNOME 49 桌面环境代号“Brescia”，距上个版本六个月后正式推出。在多媒体和办公应用方面，Showtime 取代 Totem 视频播放器，Papers 取代 Evince 文档阅读器 ...",
+    "id": "8mkEtVd09Hx",
+    "order": 1758187940901,
+    "createdAt": "2025-09-18T09:32:21.000Z",
+    "publishDate": "2025-09-18T09:32:20.901Z",
+    "title": "GNOME 49 桌面环境发布：视频播放器改用 Showtime、新增麻将游戏",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-18 17:32:21",
+    "uuid": "db1bb71c-6e80-474e-b82e-775f94839478"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -390,6 +424,23 @@
     "up": false,
     "date": "2025-09-18 16:18:07",
     "uuid": "8da49b52-3ca8-42f3-8ac5-08a83f142d70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在苹果官网 Apple Store 购买的 iPhone 17 / Pro 系列预售新机已开始发货，最早明天送达 ...",
+    "id": "8mkXYZmEFTb",
+    "order": 1758188039633,
+    "createdAt": "2025-09-18T08:17:50.000Z",
+    "publishDate": "2025-09-18T09:33:59.633Z",
+    "title": "苹果 iPhone 17 / Pro 系列首批预售新机已发货，明日正式发售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-18 16:17:50",
+    "uuid": "6368f99a-4b83-46cf-bb64-6e9986d77826"
   },
   {
     "newsArray": [
@@ -819,6 +870,25 @@
     "up": false,
     "date": "2025-09-18 15:12:36",
     "uuid": "17e0f411-2c9e-4718-aed0-1b9f4c2ce551"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "9月17日上午，在昆明召开的2025年国家网络安全宣传周人工智能安全治理分论坛上，中文互联网基础语料3.0正式向社会发布，本批语料扩大优质中文网站信源范围、加强违法不良信息过滤，数据量120GB，可为大模型训练和人工智能发展提供可信数据支持。",
+    "id": "8mkWlAAAZN1",
+    "order": 1758187954233,
+    "createdAt": "2025-09-18T07:11:32.000Z",
+    "publishDate": "2025-09-18T09:32:34.233Z",
+    "title": "中国网安协会发布中文互联网基础语料3.0",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-18 15:11:32",
+    "uuid": "af411bcc-bbba-4554-a45c-1135fce195d7"
   },
   {
     "newsArray": [
