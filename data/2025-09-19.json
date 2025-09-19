@@ -1,6 +1,177 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "A股三大指数开盘涨跌不一，沪指低开0.03%，深成指低开0.01%，创业板指高开0.08%。新股N世昌上市首日开盘涨超342% ...",
+    "id": "8mlop2q0tfa",
+    "order": 1758245620733,
+    "createdAt": "2025-09-19T01:33:40.000Z",
+    "publishDate": "2025-09-19T01:33:40.733Z",
+    "title": "A股三大指数开盘涨跌不一，半导体板块走强",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-19 09:33:40",
+    "uuid": "99926af1-3c53-4e89-8a97-614c77751686"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "隔夜美股三大指数再创收盘新高，中概指数跌1.79%。港股三大指数集体高开，恒指、国指、恒生科技指数均有涨幅。盘面上，大型科技股多数上涨，京东、小米等涨幅明显，网易、百度下跌 ...",
+    "id": "8mloLQdBFL0",
+    "order": 1758245527986,
+    "createdAt": "2025-09-19T01:32:08.000Z",
+    "publishDate": "2025-09-19T01:32:07.986Z",
+    "title": "港股早评：三大指数高开 科技股普涨 半导体芯片股继续涨势",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-19 09:32:08",
+    "uuid": "727e1da2-afe2-458e-97db-be911f9e13c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "央行今日开展3543亿元7天逆回购操作，操作利率为1.40%，与此前持平。",
+    "id": "8mlo7X9Afmh",
+    "order": 1758245122730,
+    "createdAt": "2025-09-19T01:25:22.000Z",
+    "publishDate": "2025-09-19T01:25:22.730Z",
+    "title": "央行今日开展3543亿元7天逆回购操作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-19 09:25:22",
+    "uuid": "50750df3-5e94-452a-87bb-a0433b43658c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "今日，小米正式开源首个原生端到端语音模型——Xiaomi - MiMo - Audio，它基于创新预训练架构和大量训练数据，首次在语音领域实现基于ICL的少样本泛化并观察到“涌现”行为 ...",
+    "id": "8mlo4uc773K",
+    "order": 1758245049982,
+    "createdAt": "2025-09-19T01:24:09.000Z",
+    "publishDate": "2025-09-19T01:24:09.982Z",
+    "title": "小米开源首个原生端到端语音大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-19 09:24:09",
+    "uuid": "e4113ee2-01cc-4642-808c-0eac74636db5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "人民币兑美元中间价报7.1085，调贬72个基点，前一交易日中间价报7.1013。",
+    "id": "8mk9FqudVA9",
+    "order": 1758244994201,
+    "createdAt": "2025-09-19T01:23:14.000Z",
+    "publishDate": "2025-09-19T01:23:14.201Z",
+    "title": "人民币兑美元中间价调贬72个基点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-19 09:23:14",
+    "uuid": "484f3dee-405a-4d7b-9eb1-e77cc946261b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "理想汽车与宁德时代签署五年全面战略合作协议并完成授牌仪式，双方将在电池安全、超充技术等方面深度合作，宁德时代将为理想汽车全系产品提供包括三元锂电池等在内的动力电池系统。",
+    "id": "8mlnvrwMpnw",
+    "order": 1758244951597,
+    "createdAt": "2025-09-19T01:22:31.000Z",
+    "publishDate": "2025-09-19T01:22:31.597Z",
+    "title": "理想汽车与宁德时代达成全面战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-19 09:22:31",
+    "uuid": "6b01f40b-f363-4083-8381-8f3271cda3d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "9月19日，人民币兑美元中间价报7.1128，下调43点，上一交易日中间价7.1085，官方收盘价7.1079，上日夜盘报收7.1128。",
+    "id": "8mkeeOvG5bS",
+    "order": 1758244917147,
+    "createdAt": "2025-09-19T01:21:58.000Z",
+    "publishDate": "2025-09-19T01:21:57.147Z",
+    "title": "人民币兑美元中间价报7.1128 下调43点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-19 09:21:58",
+    "uuid": "8ca9dfac-74a6-4d7a-89f8-2a7629f356c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "9月19日，日本2年期国债收益率升至0.885%，为2008年6月以来最高水平。",
+    "id": "8mlnMNfYs4H",
+    "order": 1758244391193,
+    "createdAt": "2025-09-19T01:12:43.000Z",
+    "publishDate": "2025-09-19T01:13:11.193Z",
+    "title": "日本2年期国债收益率升至2008年6月以来最高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-19 09:12:43",
+    "uuid": "e31bc858-f446-49fd-80b0-8cfd71abcf40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "当地时间周二下午，马斯克向xAI全体员工发邮件，要求他们提交一页纸总结，说明过去四周完成的事及未来四周的计划，截止日期为周四中午 ...",
+    "id": "8mliQVZ9sfp",
+    "order": 1758245061969,
+    "createdAt": "2025-09-19T00:07:27.000Z",
+    "publishDate": "2025-09-19T01:24:21.969Z",
+    "title": "马斯克要求xAI全体员工提交工作报告",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-19 08:07:27",
+    "uuid": "b3534472-ed1f-4eb3-8b79-7ed44619bdeb"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
