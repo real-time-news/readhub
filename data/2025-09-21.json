@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "当地时间9月21日，美国印第安纳州印第安纳波利斯发生枪击事件，至少2人死亡、5人受伤，警方凌晨2时30分左右赶到现场，共有6名男子和1名女子中枪。",
+    "id": "8mq4ZQYz0lS",
+    "order": 1758467502924,
+    "createdAt": "2025-09-21T15:11:42.000Z",
+    "publishDate": "2025-09-21T15:11:42.924Z",
+    "title": "美国印第安纳州发生枪击事件 致2死5伤",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-21 23:11:42",
+    "uuid": "dfc08003-0e5d-4a43-b06e-92d7cc418365"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "沃伦・巴菲特的伯克希尔・哈撒韦公司已完全退出其在中国电动汽车制造商比亚迪的股权投资 ...",
+    "id": "8mpy2Rnpksg",
+    "order": 1758466943398,
+    "createdAt": "2025-09-21T15:02:23.000Z",
+    "publishDate": "2025-09-21T15:02:23.398Z",
+    "title": "巴菲特清仓比亚迪股份，17 年投资回报率高达 3890%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-21 23:02:23",
+    "uuid": "ddd01166-5a2a-45e0-ac75-34daf507840f"
+  },
+  {
+    "newsArray": [
       { "siteName": "Solidot" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
