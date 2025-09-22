@@ -1,6 +1,45 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "根据最新监管要求，富途证券和老虎证券均调整内地居民开户政策。富途证券目前仅支持有中国香港或澳门身份证的客户开户，系统升级完成后，内地客户需持内地身份证+海外永居身份证明开户 ...",
+    "id": "8mrVeytUfu0",
+    "order": 1758541909107,
+    "createdAt": "2025-09-22T11:51:50.000Z",
+    "publishDate": "2025-09-22T11:51:49.107Z",
+    "title": "富途证券、老虎证券进一步关闭中国内地居民开户通道",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-22 19:51:50",
+    "uuid": "b629a092-62d1-4c76-b2e0-e21824ed2aff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "品玩" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "百度智能云千帆正式推出全新视觉理解模型Qianfan - VL并全面开源，该系列模型有3B、8B和70B三个尺寸版本，是面向企业级多模态应用场景深度优化的视觉理解大模型。",
+    "id": "8mrQ8a9JZxH",
+    "order": 1758541764345,
+    "createdAt": "2025-09-22T11:49:24.000Z",
+    "publishDate": "2025-09-22T11:49:24.345Z",
+    "title": "百度智能云Qianfan-VL系列模型开源",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-22 19:49:24",
+    "uuid": "42016a96-7944-4fca-a537-a1444aa82fb2"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "快科技" }
