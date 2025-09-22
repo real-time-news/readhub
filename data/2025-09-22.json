@@ -1,6 +1,26 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "截至周一交易开始，特斯拉股价在过去九个交易日累计上涨23%，期间八天收涨、仅一天下跌。",
+    "id": "8mrGRWX6MrJ",
+    "order": 1758549189836,
+    "createdAt": "2025-09-22T13:53:09.000Z",
+    "publishDate": "2025-09-22T13:53:09.836Z",
+    "title": "特斯拉股价下跌，但创下历史新高指日可待",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-22 21:53:09",
+    "uuid": "b179a7d6-2b19-46c0-916a-8183d30f2ee2"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "站长之家" },
       { "siteName": "快科技" }
@@ -2414,6 +2434,24 @@
     "up": false,
     "date": "2025-09-22 14:55:27",
     "uuid": "2a69b6ba-d3f8-4ea6-8e3e-c8f373d11920"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "韦德布什将苹果（AAPL.US）目标价从270美元上调至310美元。",
+    "id": "8mr3wW4XbNG",
+    "order": 1758549116605,
+    "createdAt": "2025-09-22T06:54:25.000Z",
+    "publishDate": "2025-09-22T13:51:56.605Z",
+    "title": "韦德布什：将苹果目标价上调至310美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-22 14:54:25",
+    "uuid": "33b11b71-1940-4bfb-8a8b-2a0cdfed33c9"
   },
   {
     "newsArray": [
