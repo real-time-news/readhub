@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "香港机场管理局表示，超强台风“桦加沙”逼近香港，台风吹袭期间机场将维持开放，但大量航班受影响停运 ...",
+    "id": "8mq4ZNAMeFY",
+    "order": 1758522134328,
+    "createdAt": "2025-09-22T06:22:15.000Z",
+    "publishDate": "2025-09-22T06:22:14.328Z",
+    "title": "香港23日至25日部分航班延迟或取消",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-22 14:22:15",
+    "uuid": "78bdcec7-b628-4392-b51f-0fb74e4da088"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "开源中国" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美团发布高效推理模型LongCat-Flash-Thinking，基于AIME25实测数据，该模型在框架下展现出更高效的智能体工具调用能力，在确保90%准确率的前提下，相较于不使用工具调用节省了64.5%的Tokens ...",
+    "id": "8mqxMQjPOEz",
+    "order": 1758521954872,
+    "createdAt": "2025-09-22T06:19:14.000Z",
+    "publishDate": "2025-09-22T06:19:14.872Z",
+    "title": "美团发布高效推理模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-22 14:19:14",
+    "uuid": "c7de7c4b-bc66-4940-988a-5f386e32ed44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "2025年9月9日24时至23日24时计价周期内，国际原油价格偏强区间波动，国内参考的原油变化率由负转正但低位运行，第9个工作日调整幅度25元/吨，未达50元/吨调价红线 ...",
+    "id": "8mqqR33gq9B",
+    "order": 1758520950346,
+    "createdAt": "2025-09-22T06:02:31.000Z",
+    "publishDate": "2025-09-22T06:02:30.346Z",
+    "title": "卓创资讯：明晚24时成品油零售限价搁浅概率较大",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-22 14:02:31",
+    "uuid": "abd19b80-dba9-4839-bbe5-e4933bfb5b17"
+  },
+  {
+    "newsArray": [
       { "siteName": "中关村在线" },
       { "siteName": "中关村在线" },
       { "siteName": "IT 之家" }
@@ -416,6 +470,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "9月22日11时10分，湖北襄阳市保康县（北纬31.71度，东经110.95度）发生3.6级地震，震源深度8千米。",
+    "id": "8mqwVJLd7B0",
+    "order": 1758522292978,
+    "createdAt": "2025-09-22T03:52:56.000Z",
+    "publishDate": "2025-09-22T06:24:52.978Z",
+    "title": "湖北襄阳市保康县发生3.6级地震，震源深度8千米",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-22 11:52:56",
+    "uuid": "d03c2bd2-ec6c-4c29-b1f5-5939efeee3d0"
+  },
+  {
+    "newsArray": [
       { "siteName": "牛透社" },
       { "siteName": "开源中国" },
       { "siteName": "aibase" }
@@ -586,6 +659,24 @@
     "up": false,
     "date": "2025-09-22 11:25:42",
     "uuid": "75b30ca4-c421-4d2f-b0f4-3c184dd763d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "喜相逢集团（02473）早盘股价上涨9.26%，现报10.85港元，成交额9056.25万港元 ...",
+    "id": "8mqtvHOQzVi",
+    "order": 1758521555087,
+    "createdAt": "2025-09-22T03:23:49.000Z",
+    "publishDate": "2025-09-22T06:12:35.087Z",
+    "title": "喜相逢集团早盘涨超9% 与阿里巴巴菜鸟集团达成战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-22 11:23:49",
+    "uuid": "91a7765a-0d3f-40b4-80a1-6a41b1a6ba33"
   },
   {
     "newsArray": [
