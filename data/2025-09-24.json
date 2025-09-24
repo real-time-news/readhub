@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2025年8月全球粗钢产量同比增长0.3%，达1.453亿吨。",
+    "id": "8muZEQQlcft",
+    "order": 1758701557356,
+    "createdAt": "2025-09-24T08:12:37.000Z",
+    "publishDate": "2025-09-24T08:12:37.356Z",
+    "title": "全球8月粗钢产量同比增0.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-24 16:12:37",
+    "uuid": "34bcf22f-e56a-4f06-a352-e55caab655d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "品玩" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "Figma发布MCP服务器，使设计上下文可在任何工作环境使用，支持远程访问、与Figma Make连接及新的Code Connect UI组件，已集成到多个开发工具中 ...",
+    "id": "8muPy9QUv4J",
+    "order": 1758701242326,
+    "createdAt": "2025-09-24T08:07:23.000Z",
+    "publishDate": "2025-09-24T08:07:22.326Z",
+    "title": "Figma发布MCP服务器打通设计与开发全链路",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-24 16:07:23",
+    "uuid": "89630e21-b4e0-4094-9be4-38180fffa5d5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "财政部数据显示，8月全国共销售彩票534.01亿元，同比减少9.67亿元，下降1.8%，主要因去年同期奥运赛事使竞猜型彩票销量基数高 ...",
+    "id": "8muZELFjIYu",
+    "order": 1758701083248,
+    "createdAt": "2025-09-24T08:04:43.000Z",
+    "publishDate": "2025-09-24T08:04:43.248Z",
+    "title": "中国8月共销售彩票534.01亿元 同比下降1.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-24 16:04:43",
+    "uuid": "1dbf2edb-8790-450c-b66d-6b4a2e3cf9e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OPPO宣布10月16日发布全新智能手表OPPO Watch S，定位“轻薄表皇”，厚度不足9毫米，是市场上较轻薄的圆形智能手表之一，佩戴轻盈舒适 ...",
+    "id": "8mspH8n85KM",
+    "order": 1758700604768,
+    "createdAt": "2025-09-24T07:56:45.000Z",
+    "publishDate": "2025-09-24T07:56:44.768Z",
+    "title": "OPPO Watch S将发布：轻薄表皇来袭，配新系统与百种运动模式",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-24 15:56:45",
+    "uuid": "d42d9603-6942-4794-a33a-f7ba51ecf3f9"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
       { "siteName": "格隆汇" }
@@ -107,6 +177,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "周三公布的数据显示，三星电子第二季度全球高带宽内存（HBM）芯片市场份额下滑至第三位，美光科技升至第二位。SK海力士以62%的占有率居首，韩企合计占近80%主导市场 ...",
+    "id": "8muUyPOMXOO",
+    "order": 1758700608164,
+    "createdAt": "2025-09-24T07:26:20.000Z",
+    "publishDate": "2025-09-24T07:56:48.164Z",
+    "title": "三星电子第二季度全球HBM市占率降至第三，被美光超越",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-24 15:26:20",
+    "uuid": "83e6b982-ebd7-4491-ac9e-f9f5ce3548fe"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" }
@@ -193,6 +281,24 @@
     "up": false,
     "date": "2025-09-24 15:23:49",
     "uuid": "00c8fe87-6b3f-4c09-82be-22516e13c6a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "近日，深圳引望智能技术有限公司（华为关联公司）公布“一种车辆行驶陪伴方法及装置”专利，该专利通过实时同步传输车辆视频与行驶数据，将车辆画面与行驶状态还原至远端终端，让远端用户身临其境体验驾驶并与驾驶员共享全程。",
+    "id": "8muTUWp8gsJ",
+    "order": 1758700895891,
+    "createdAt": "2025-09-24T07:22:53.000Z",
+    "publishDate": "2025-09-24T08:01:35.891Z",
+    "title": "华为引望公布车辆陪伴专利 远端用户可同步体验行驶",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-24 15:22:53",
+    "uuid": "0310d4e6-c31d-4dff-a44a-bd552e2c0b21"
   },
   {
     "newsArray": [
@@ -1893,6 +1999,24 @@
     "up": false,
     "date": "2025-09-24 09:24:45",
     "uuid": "1594cc43-0d6d-48c4-98f3-9ee9e8084903"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "三星电子旗下音响子公司哈曼国际周三宣布完成对美国 Masimo 公司音响业务 Sound United 的收购，交易金额约 3.5 亿美元 ...",
+    "id": "8mu3oEcxiFm",
+    "order": 1758700606040,
+    "createdAt": "2025-09-24T01:04:17.000Z",
+    "publishDate": "2025-09-24T07:56:46.040Z",
+    "title": "三星旗下哈曼国际完成对Masimo音响业务收购，价格约3.5亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-24 09:04:17",
+    "uuid": "4dc18641-0760-4469-ae57-5f64855b03d1"
   },
   {
     "newsArray": [
