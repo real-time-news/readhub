@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "华为举行穿戴新品发布会，正式发布WATCH GT 6系列，该手表搭载玄玑感知系统，首发房颤负荷统计等功能。",
+    "id": "8muVcEWzSuN",
+    "order": 1758700410998,
+    "createdAt": "2025-09-24T07:53:31.000Z",
+    "publishDate": "2025-09-24T07:53:30.998Z",
+    "title": "华为首款模拟骑行功率手表发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-24 15:53:31",
+    "uuid": "24385e47-65f4-4749-ae23-8f605e5a9e10"
+  },
+  {
+    "newsArray": [
       { "siteName": "开源中国" },
       { "siteName": "量子位" },
       { "siteName": "aibase" }
@@ -1278,6 +1295,23 @@
     "up": false,
     "date": "2025-09-24 11:41:47",
     "uuid": "c0318f4e-fabb-43d7-9b5c-c386880ee12b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "在 2025 云栖大会上，阿里云智能集团首席技术官周靖人透露，截至目前通义千问已累计开放 300+ 开源模型，覆盖全尺寸、全模态，下载量突破 6 亿 + ...",
+    "id": "8muDrjPFPOn",
+    "order": 1758700254609,
+    "createdAt": "2025-09-24T03:36:19.000Z",
+    "publishDate": "2025-09-24T07:50:54.609Z",
+    "title": "阿里云 CTO 周靖人：通义千问已开源 300+ 模型 累计下载量超 6 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-24 11:36:19",
+    "uuid": "f489fbcd-0181-44a6-bcf9-66188a77312e"
   },
   {
     "newsArray": [
