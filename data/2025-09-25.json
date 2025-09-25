@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "早间主力资金净流入计算机、电力设备、机械设备等板块，净流出交通运输、房地产、银行等板块。个股方面，浪潮信息、华工科技、洛阳钼业分别获净流入37.84亿元、28.91亿元、23.15亿元 ...",
+    "id": "8mvw4YaAiii",
+    "order": 1758790166432,
+    "createdAt": "2025-09-25T08:49:26.000Z",
+    "publishDate": "2025-09-25T08:49:26.432Z",
+    "title": "半日主力资金加仓计算机板块，抛售交通运输板块",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-25 16:49:26",
+    "uuid": "48a2eedf-2b46-44e0-b40b-36581c80c2a8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "企业级AI模型开发商Cohere宣布完成新一轮1亿美元融资，公司估值升至70亿美元，此轮融资是8月5亿美元融资轮次的扩展 ...",
+    "id": "8mvur0VYe6r",
+    "order": 1758789985020,
+    "createdAt": "2025-09-25T08:46:26.000Z",
+    "publishDate": "2025-09-25T08:46:25.020Z",
+    "title": "Cohere 再融 1 亿美元估值冲上 70 亿，与 AMD 达成合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-25 16:46:26",
+    "uuid": "109ab6dd-1d53-4886-a1cf-c1fe45be5ff6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Solidigm宣布推出用于无风扇服务器环境的冷板冷却企业级SSD（eSSD），D7 - PS1010 E1.S SSD引入单面直触芯片液冷技术，适用于直连存储（DAS）AI工作负载，有9.5mm和15mm两种尺寸规格，均提供3.84TB和7.68TB容量选择。",
+    "id": "8muVc2Xa1FH",
+    "order": 1758789955137,
+    "createdAt": "2025-09-25T08:45:55.000Z",
+    "publishDate": "2025-09-25T08:45:55.137Z",
+    "title": "Solidigm宣布推出冷板冷却企业级SSD",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-25 16:45:55",
+    "uuid": "84111cbe-1ed6-4fc2-b5cf-e49d10c5c6ed"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "原晋煤集团党委常委、副总经理兼山西蓝焰控股股份有限公司原党委书记、董事长王保玉严重违纪违法，被山西省纪委监委立案审查调查 ...",
+    "id": "8mwGdvCNB41",
+    "order": 1758789904719,
+    "createdAt": "2025-09-25T08:45:04.000Z",
+    "publishDate": "2025-09-25T08:45:04.719Z",
+    "title": "原晋煤集团党委常委、副总经理王保玉被开除党籍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-25 16:45:04",
+    "uuid": "59295261-5b13-4b19-8673-6f5e8a4bb80b"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
@@ -52,6 +120,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "第四届全球数字贸易博览会重大项目签约仪式9月25日在杭州举行，现场签约45个项目，聚焦数字经济、人工智能等领域，总投资额648.7亿元（含3亿美元）。",
+    "id": "8mwFbc4fPAS",
+    "order": 1758789939321,
+    "createdAt": "2025-09-25T08:34:19.000Z",
+    "publishDate": "2025-09-25T08:45:39.321Z",
+    "title": "第四届数贸会实现45个重大项目签约 总投资额648.7亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-25 16:34:19",
+    "uuid": "9db90b86-1db5-471b-aacc-c0af0e86da5a"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" }
@@ -100,6 +186,27 @@
     "up": false,
     "date": "2025-09-25 16:28:10",
     "uuid": "fe77eb53-b54f-400d-a1f3-345687ac6931"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "商务部新闻发言人何亚东表示，中美经贸关系本质是互利共赢，两国在经贸领域有广泛共同利益和广阔合作空间，当前影响中美正常经贸合作的最大障碍是美单边限制措施，希望美方与中方相向而行，为中美经贸关系稳定、健康、可持续发展创造有利条件。",
+    "id": "8mwFWmo3vgL",
+    "order": 1758790396173,
+    "createdAt": "2025-09-25T08:27:08.000Z",
+    "publishDate": "2025-09-25T08:53:16.173Z",
+    "title": "商务部回应购买波音飞机谈判进展：当前影响中美正常经贸合作的最大障碍在于美单边限制措施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-25 16:27:08",
+    "uuid": "0a445599-3fdc-4407-be4f-14b12d4d7cce"
   },
   {
     "newsArray": [
@@ -1072,6 +1179,25 @@
     "up": false,
     "date": "2025-09-25 14:03:50",
     "uuid": "24f3fde5-e892-40a9-b0cf-3a04870a08c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "速途网" },
+      { "siteName": "aibase" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "阿里云旗下瓴羊在云栖大会推出企业级AI智能体服务平台AgentOne，旨在推动企业转向主动智能 ...",
+    "id": "8mvqCAhNpv8",
+    "order": 1758790009948,
+    "createdAt": "2025-09-25T06:02:53.000Z",
+    "publishDate": "2025-09-25T08:46:49.948Z",
+    "title": "阿里云瓴羊发布AgentOne平台，助力企业打造AI”超级公司”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-25 14:02:53",
+    "uuid": "f3f06c8f-202e-4440-98d9-764db8726e63"
   },
   {
     "newsArray": [
