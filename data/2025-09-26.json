@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国政府正考虑一项新半导体政策，要求在美运营的科技公司在美国境内生产与进口数量大致相当的芯片，否则将面临关税，旨在减少对海外芯片依赖、推动本土制造 ...",
+    "id": "8mxfT5xRMd8",
+    "order": 1758869035190,
+    "createdAt": "2025-09-26T06:34:56.000Z",
+    "publishDate": "2025-09-26T06:43:55.190Z",
+    "title": "特朗普政府拟推新政 要求芯片进口与美国产量“对等”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-26 14:34:56",
+    "uuid": "74b1a5b8-7abb-4215-95bc-77cda9f34020"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "开源中国" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "OpenAI宣布推出新功能ChatGPT Pulse，以预览版形式在移动端上线，现阶段仅限Pro订阅（月费200美元）用户使用 ...",
+    "id": "8mxg7xIFg0v",
+    "order": 1758868856637,
+    "createdAt": "2025-09-26T06:34:23.000Z",
+    "publishDate": "2025-09-26T06:40:56.637Z",
+    "title": "OpenAI 推出全新 AI 功能 ChatGPT Pulse",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-26 14:34:23",
+    "uuid": "9604bde1-afb3-41ae-9c7a-683e39458bcd"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "金融界" },
       { "siteName": "量子位" }
@@ -51,6 +88,24 @@
     "up": false,
     "date": "2025-09-26 14:03:59",
     "uuid": "73d4d494-b28b-4fe5-bce0-5c6703be40c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "TechSir" }
+    ],
+    "summary": "在爱奇艺秋季推荐会 “悦享会” 上，创始人兼 CEO 龚宇演讲称，未来线下业务将成公司核心业务之一，包含 IP 衍生品和主题乐园两部分 ...",
+    "id": "8mxdLH4VYgP",
+    "order": 1758868247629,
+    "createdAt": "2025-09-26T06:03:19.000Z",
+    "publishDate": "2025-09-26T06:30:47.629Z",
+    "title": "爱奇艺 CEO 龚宇: AI 技术将颠覆长短视频行业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-26 14:03:19",
+    "uuid": "2230c089-ec83-40e3-8098-76b03ed2dd5e"
   },
   {
     "newsArray": [
