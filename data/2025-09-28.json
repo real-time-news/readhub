@@ -1,6 +1,200 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "腾讯混元发布并开源原生多模态生图模型“混元图像3.0（HunyuanImage 3.0）”，参数规模达80B，这是首个开源工业级原生多模态生图模型，也是目前参数量最大的开源生图模型，可对标业界头部闭源模型。",
+    "id": "8n0smm4H0Nh",
+    "order": 1759029808535,
+    "createdAt": "2025-09-28T03:23:29.000Z",
+    "publishDate": "2025-09-28T03:23:28.535Z",
+    "title": "腾讯发布并开源新一代生图模型“混元图像3.0”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 11:23:29",
+    "uuid": "eee88be2-0389-4ff1-8de0-bd7f18336c12"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国务院新闻办公室举行发布会，国家邮政局副局长廖进荣称，截至9月27日，今年共揽收快递包裹1432.7亿件，日均5.3亿多件 ...",
+    "id": "8n0sCU8W4lC",
+    "order": 1759029707437,
+    "createdAt": "2025-09-28T03:21:48.000Z",
+    "publishDate": "2025-09-28T03:21:47.437Z",
+    "title": "9月日均包裹量5.57亿件 假期快递行业将周期性波动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 11:21:48",
+    "uuid": "55abab36-66b0-44a6-811e-1466d157983e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "纽约市地铁近日出现大量宣传可穿戴人工智能设备“Friend”的纯白色广告 ...",
+    "id": "8n0jWvfkwr4",
+    "order": 1759029196218,
+    "createdAt": "2025-09-28T03:13:17.000Z",
+    "publishDate": "2025-09-28T03:13:16.218Z",
+    "title": "AI 初创公司 Friend 砸超百万美元在纽约地铁投放广告，部分遭涂鸦破坏",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 11:13:17",
+    "uuid": "7d9d4fcf-3bce-4415-9138-f31ceb128bc8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "交通运输部副部长李扬9月28日表示，1—8月完成营业性货运量380.6亿吨，同比增长3.8%，其中铁路、公路、水路、民航货运量同比分别增长2.6%、3.9%、3.8%和14.5% ...",
+    "id": "8n0s5AmYxXm",
+    "order": 1759029186933,
+    "createdAt": "2025-09-28T03:12:35.000Z",
+    "publishDate": "2025-09-28T03:13:06.933Z",
+    "title": "交通运输部：前8月完成营业性货运量同比增长3.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 11:12:35",
+    "uuid": "70ae5b0b-7b90-4d2b-bae0-ee1cb02f30e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "交通运输部副部长李扬在国新办发布会上称，交通运输固定资产投资高位运行，1—8月完成2.26万亿元，其中铁路、公路、水路、民航分别完成投资5041亿元、15412亿元、1433亿元、707亿元。",
+    "id": "8n0s4pDts1v",
+    "order": 1759029102741,
+    "createdAt": "2025-09-28T03:11:42.000Z",
+    "publishDate": "2025-09-28T03:11:42.741Z",
+    "title": "交通运输部李扬：前8月交通运输固定资产投资2.26万亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 11:11:42",
+    "uuid": "63ed616a-61f5-4f64-ad0c-a4228420ac1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "开源鸿蒙技术大会2025在长沙举办，开放原子开源鸿蒙项目群发布开源鸿蒙6.0 Release版本 ...",
+    "id": "8n0fLGOoCgs",
+    "order": 1759028830385,
+    "createdAt": "2025-09-28T03:07:10.000Z",
+    "publishDate": "2025-09-28T03:07:10.385Z",
+    "title": "开源鸿蒙6.0 Release版重磅发布：应用框架、系统安全等突破",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 11:07:10",
+    "uuid": "8c71179d-8dbd-435c-8921-41200c292fbb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "广州四部门发布《关于优化住房公积金提取政策的通知》，提出缴存人及其配偶购买市内现售商品住房等四类住房，可申请提取公积金支付购房首付款 ...",
+    "id": "8n0rQY9UDwH",
+    "order": 1759028779956,
+    "createdAt": "2025-09-28T03:06:19.000Z",
+    "publishDate": "2025-09-28T03:06:19.956Z",
+    "title": "广州优化住房公积金提取政策",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 11:06:19",
+    "uuid": "8ae71db0-e4f5-4758-8ecf-fd58d5a47391"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "在2025元宇宙发展论坛上，上海市经信委副主任葛东波称，全市元宇宙核心及关联产业规模已突破3000亿元，集聚XR终端制造企业30余家，核心元器件产能占全国40%以上 ...",
+    "id": "8n0oVaowVcp",
+    "order": 1759028729466,
+    "createdAt": "2025-09-28T03:05:29.000Z",
+    "publishDate": "2025-09-28T03:05:29.466Z",
+    "title": "上海元宇宙相关产业规模已突破3000亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 11:05:29",
+    "uuid": "f0aae6aa-ee00-4396-8f1f-4bcd2cbfc58d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "医药魔方" },
+      { "siteName": "界面" }
+    ],
+    "summary": "近日，礼来宣布美国FDA批准其口服雌激素受体拮抗剂Inluriyo（imlunestrant，200毫克片剂），用于治疗ER+、HER2-、ESR1突变、且至少接受过一线ET后疾病仍进展的晚期或转移性乳腺癌成人患者。",
+    "id": "8n0qiOmUZhe",
+    "order": 1759028712116,
+    "createdAt": "2025-09-28T03:05:13.000Z",
+    "publishDate": "2025-09-28T03:05:12.116Z",
+    "title": "礼来新药Inluriyo获美FDA批准用于治疗晚期或转移性乳腺癌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 11:05:13",
+    "uuid": "7eb6bed1-7d66-41b0-a766-4b476ddcc435"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国家铁路局副局长吴德金在国新办发布会上表示，预计双节期间全国铁路旅客发送人数将超2.19亿人次创历史新高，日均计划开行旅客列车约1.3万列、发送旅客1825万人次 ...",
+    "id": "8n0pw52YBBK",
+    "order": 1759029201892,
+    "createdAt": "2025-09-28T02:44:30.000Z",
+    "publishDate": "2025-09-28T03:13:21.892Z",
+    "title": "国家铁路局：统筹长短途旅客需求及时向客流集中的车站投放票额",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-28 10:44:30",
+    "uuid": "3d4b5ca3-4376-40a7-a065-b1acad212929"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
