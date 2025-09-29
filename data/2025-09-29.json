@@ -54,6 +54,58 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "Stellantis宣布任命Joao Laranjo为首席财务官，接替因个人原因辞职的Doug Ostermann。",
+    "id": "8n2kdgOPm3h",
+    "order": 1759129489193,
+    "createdAt": "2025-09-29T06:32:13.000Z",
+    "publishDate": "2025-09-29T07:04:49.193Z",
+    "title": "Stellantis任命Joao Laranjo为首席财务官",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 14:32:13",
+    "uuid": "23ed71ff-3bd6-4b66-9227-92cd23c93bb3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "京东宣布今年京东 11.11 于 10 月 9 日晚 8 点现货开卖，促销更为简化，采取“官方直降”，消费者购单件商品可直接享优惠。",
+    "id": "8n2I3YA5brx",
+    "order": 1759129499870,
+    "createdAt": "2025-09-29T06:31:43.000Z",
+    "publishDate": "2025-09-29T07:04:59.870Z",
+    "title": "京东：今年双11将于10月9日晚8点开启",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 14:31:43",
+    "uuid": "23f1446f-0fa0-4287-aaa4-14ee77d5f4c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "厦门象屿集团有限公司与钉钉达成合作协议，启动新一代数字化办公平台项目建设，全面引入钉钉AI新品，聚焦用AI驱动数智化经营，提升员工办公效率与质量。",
+    "id": "8n2S3H99Ips",
+    "order": 1759129383008,
+    "createdAt": "2025-09-29T06:28:24.000Z",
+    "publishDate": "2025-09-29T07:03:03.008Z",
+    "title": "象屿集团与钉钉达成合作协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 14:28:24",
+    "uuid": "5ff100ca-9352-4289-b1f5-1bbf6d1a418a"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
@@ -91,6 +143,24 @@
     "up": false,
     "date": "2025-09-29 14:19:55",
     "uuid": "5e218035-5a3e-4a03-884d-e11512bc6479"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "全球生物制药公司葛兰素史克宣布任命Luke Miels为首席执行官，其将于2026年1月1日正式履职并加入董事会。",
+    "id": "8n2jr5HFeex",
+    "order": 1759129508009,
+    "createdAt": "2025-09-29T06:12:44.000Z",
+    "publishDate": "2025-09-29T07:05:08.009Z",
+    "title": "葛兰素史克任命Luke Miels为首席执行官",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 14:12:44",
+    "uuid": "c498b873-86de-4121-8a7e-012dcc8d690b"
   },
   {
     "newsArray": [
@@ -143,6 +213,57 @@
     "up": false,
     "date": "2025-09-29 13:52:44",
     "uuid": "b36aee67-2139-482e-a095-83da537529c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "LiquidAI 正式发布 “Liquid Nanos” 系列轻量级 AI 模型，专为边缘计算设备设计，可在树莓派等小型设备上高效运行，提供 350M 和 1.2B 两种参数版本，能满足低功耗、高性能需求，让用户无需强大计算资源即可实现复杂 AI 功能。",
+    "id": "8n1SDQr2IYo",
+    "order": 1759129541954,
+    "createdAt": "2025-09-29T05:44:02.000Z",
+    "publishDate": "2025-09-29T07:05:41.954Z",
+    "title": "LiquidAI推出Liquid Nanos系列轻量级AI模型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 13:44:02",
+    "uuid": "d3610ab9-07d2-4e07-9cd5-9ec8490fdf8f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "苹果推出 Manzano 新型图像模型，旨在同时处理图像理解和生成。该模型未对外发布及公开演示，苹果研究团队分享研究论文并附带低分辨率图像样本，展示其处理复杂提示的能力 ...",
+    "id": "8n0jWykmzOV",
+    "order": 1759129534700,
+    "createdAt": "2025-09-29T05:43:32.000Z",
+    "publishDate": "2025-09-29T07:05:34.700Z",
+    "title": "苹果推出全新图像生成模型Manzano",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 13:43:32",
+    "uuid": "d84cef64-722e-4f8b-b4ba-358b9b7ec392"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "9月29日，LG生活健康召开董事会，宣布任命前欧莱雅高管李善珠为新任CEO，10月1日起正式生效。",
+    "id": "8n2gK5q4r9c",
+    "order": 1759129553744,
+    "createdAt": "2025-09-29T05:33:36.000Z",
+    "publishDate": "2025-09-29T07:05:53.744Z",
+    "title": "LG生活健康任命前欧莱雅高管李善珠为新任CEO",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 13:33:36",
+    "uuid": "4d141eaf-edb8-4c3f-92ac-7665d092176e"
   },
   {
     "newsArray": [
@@ -401,6 +522,40 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI发布声明，聘请曾任谷歌韩国区总监、有超20年全球IT和咨询行业从业经验的Kim Kyounghoon担任韩国业务新负责人。",
+    "id": "8n2YPfHHWEB",
+    "order": 1759129566486,
+    "createdAt": "2025-09-29T04:33:20.000Z",
+    "publishDate": "2025-09-29T07:06:06.486Z",
+    "title": "OpenAI聘请前谷歌高管担任韩国业务负责人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 12:33:20",
+    "uuid": "9791b594-8ff7-4417-926c-31181b811979"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "力源信息在互动平台称，目前未与宇树科技合作，公司积极布局AI机器人领域，已有部分客户提货但销售额小，未来将在相关领域推广MCU、功率、主控、存储、传感器等产品。",
+    "id": "8n2acnyy4gk",
+    "order": 1759129579586,
+    "createdAt": "2025-09-29T04:33:07.000Z",
+    "publishDate": "2025-09-29T07:06:19.586Z",
+    "title": "力源信息：目前没有与宇树科技有合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 12:33:07",
+    "uuid": "6ad70bba-b463-4648-a302-7748f412468b"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -417,6 +572,23 @@
     "up": false,
     "date": "2025-09-29 12:32:27",
     "uuid": "c7c2c8c6-e7fe-4b78-9647-95fc19ec2f1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "空中客车任命王璀（Troy Wang）自2026年1月1日起担任全球高级副总裁、中国民用飞机商务负责人，他将向徐岗和圣埃克苏佩里（Benoît de Saint-Exupéry）汇报 ...",
+    "id": "8n2R6W8fYbm",
+    "order": 1759129920640,
+    "createdAt": "2025-09-29T04:32:00.000Z",
+    "publishDate": "2025-09-29T07:12:00.640Z",
+    "title": "空客任命王璀担任全球高级副总裁及空客中国民用飞机商务负责人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 12:32:00",
+    "uuid": "1efe3e1e-e4a7-4161-801e-a404d565d54d"
   },
   {
     "newsArray": [
