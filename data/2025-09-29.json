@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "浙数文化(600633.SH)公告，拟以非公开协议转让方式受让浙版传媒1.33亿股股份，占其总股本6.00%，转让价格8.82元/股，价款共计11.76亿元，本次交易不构成关联交易和重大资产重组。",
+    "id": "8n2yqqEioUI",
+    "order": 1759139614791,
+    "createdAt": "2025-09-29T09:53:34.000Z",
+    "publishDate": "2025-09-29T09:53:34.791Z",
+    "title": "浙数文化：拟以11.76亿元受让浙版传媒6%股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 17:53:34",
+    "uuid": "32cb63dd-d882-4001-9dbd-201648e74f12"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "乐道汽车官方宣布乐道 L90 迎来第 2 万台新车交付，小沈阳一家成为第两万台车主 ...",
+    "id": "8n2vIe1wpwg",
+    "order": 1759139576597,
+    "createdAt": "2025-09-29T09:52:57.000Z",
+    "publishDate": "2025-09-29T09:52:56.597Z",
+    "title": "乐道 L90 不到 2 个月实现第两万台新车交付，创造大型 SUV 最快交付纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 17:52:57",
+    "uuid": "2b4fdb30-94d8-4d5e-88c3-58383c0285c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "南向资金今日净卖出16.54亿港元，阿里巴巴 - W、腾讯控股、小米集团 - W净买入额位列前三，分别获净买入35.57亿港元、14.94亿港元、9.96亿港元 ...",
+    "id": "8n2zPKbq1eA",
+    "order": 1759139528530,
+    "createdAt": "2025-09-29T09:52:09.000Z",
+    "publishDate": "2025-09-29T09:52:08.530Z",
+    "title": "阿里巴巴获南向资金净买入35.57亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 17:52:09",
+    "uuid": "21af05e0-fab0-4b9f-b2be-d898f1bb2084"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "阿里云通义团队推出 Qwen 家族首款安全防护护栏模型 Qwen3Guard，其基于 Qwen3 架构，针对安全分类任务微调，能为 AI 交互提供安全保障，可识别潜在风险并输出细粒度风险等级与分类标签 ...",
+    "id": "8n1MnTPvdMe",
+    "order": 1759139451078,
+    "createdAt": "2025-09-29T09:50:51.000Z",
+    "publishDate": "2025-09-29T09:50:51.078Z",
+    "title": "阿里云推出通义千问首款专为安全防护设计的护栏模型 Qwen3Guard",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 17:50:51",
+    "uuid": "67062e79-48f5-4e06-93e4-5f367ec5c675"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -2174,6 +2244,24 @@
     "up": false,
     "date": "2025-09-29 10:54:37",
     "uuid": "4cb0f391-14a8-41da-bb06-e5cb09aa0994"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "苹果正在内部测试一款名为“Veritas”的聊天机器人，用于辅助开发下一代 Siri，其功能与 ChatGPT、谷歌 Gemini 相似，员工可与之互动对话，苹果借此收集反馈完善 Siri 新功能 ...",
+    "id": "8n2PuAr4eas",
+    "order": 1759139437281,
+    "createdAt": "2025-09-29T02:54:17.000Z",
+    "publishDate": "2025-09-29T09:50:37.281Z",
+    "title": "苹果内部测试新型聊天机器人 Veritas，未来 Siri 升级有望加速",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 10:54:17",
+    "uuid": "b5f8f049-5bc6-4efb-9f7a-26d9f4a6ca90"
   },
   {
     "newsArray": [
