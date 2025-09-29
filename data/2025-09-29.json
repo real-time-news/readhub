@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "开源中国" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "MIT 教授、iRobot 联合创始人罗德尼·布鲁克斯提醒资本方，向全尺寸双足人形机器人初创公司投入巨额资金是在重复生成式 AI 的泡沫剧本 ...",
+    "id": "8n14HuDEqdD",
+    "order": 1759117062166,
+    "createdAt": "2025-09-29T03:37:43.000Z",
+    "publishDate": "2025-09-29T03:37:42.166Z",
+    "title": "著名机器人专家称人形机器人泡沫注定会破裂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 11:37:43",
+    "uuid": "36bd9a7d-c0dc-44cf-b3bc-64ba6ad9b076"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2025年9月29日11时00分，我国在西昌卫星发射中心用长征二号丁运载火箭，成功发射试验三十号卫星01、02星，卫星顺利入轨，发射任务圆满成功 ...",
+    "id": "8n2YPhqo5KS",
+    "order": 1759116885113,
+    "createdAt": "2025-09-29T03:34:45.000Z",
+    "publishDate": "2025-09-29T03:34:45.113Z",
+    "title": "我国成功发射试验三十号卫星01、02星",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 11:34:45",
+    "uuid": "3a1ac441-5fd8-42a8-84ff-57ae1881b674"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2025世界新能源汽车大会期间，蔚来汽车电力交易总监称蔚来在高速场景补能网络布局获关键突破，一定地方加电比加油更方便 ...",
+    "id": "8n1EWFbTFPb",
+    "order": 1759116847273,
+    "createdAt": "2025-09-29T03:34:07.000Z",
+    "publishDate": "2025-09-29T03:34:07.273Z",
+    "title": "蔚来向琛：补能布局实现突破 部分地区加电比加油方便",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 11:34:07",
+    "uuid": "8acef98c-659d-491a-bceb-b51def03a195"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "全球最大AI开源社区Hugging Face公布新一期模型榜单，阿里通义7款模型入选全球前十开源模型榜单，新开源的全模态大模型Qwen3 - Omni登顶。",
+    "id": "8n1QV2kQ37k",
+    "order": 1759116683894,
+    "createdAt": "2025-09-29T03:25:10.000Z",
+    "publishDate": "2025-09-29T03:31:23.894Z",
+    "title": "阿里千问Qwen3-Omni登顶Hugging Face新一期榜单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 11:25:10",
+    "uuid": "894a1a48-9fc3-46a9-9e77-a01c3d6bb779"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
@@ -96,6 +169,40 @@
     "up": false,
     "date": "2025-09-29 10:54:37",
     "uuid": "4cb0f391-14a8-41da-bb06-e5cb09aa0994"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "蓝点网" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI 正在 ChatGPT 中秘密测试新安全路由系统，由 ChatGPT 负责人证实，该系统能根据对话主题自动重定向用户提示，涉及“敏感或情绪化话题”等情况会切换到更严格模型，切换无声进行，用户专门询问才会发现 ...",
+    "id": "8n2Nm7Ehg1v",
+    "order": 1759116725972,
+    "createdAt": "2025-09-29T02:52:42.000Z",
+    "publishDate": "2025-09-29T03:32:05.972Z",
+    "title": "OpenAI 秘密切换 ChatGPT 模型，以处理“情绪化”对话",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 10:52:42",
+    "uuid": "960dd1d2-f0da-4f2a-be10-1912cd32a554"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "恒生科技指数涨幅扩大至2%，商汤涨超4%，阿里巴巴、华虹半导体涨超3%，中芯国际涨逾2%。",
+    "id": "8n2RHcLhcJ7",
+    "order": 1759116706700,
+    "createdAt": "2025-09-29T02:52:24.000Z",
+    "publishDate": "2025-09-29T03:31:46.700Z",
+    "title": "恒生科技指数涨幅扩大至2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 10:52:24",
+    "uuid": "c5896a25-0ae1-456a-bdf5-a7f71d9933b7"
   },
   {
     "newsArray": [
@@ -220,6 +327,23 @@
     "up": false,
     "date": "2025-09-29 10:15:47",
     "uuid": "3c538cee-9f23-4ac2-8f51-6571c0226f0e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "机器人在互动平台称，公司在具身智能业务方面暂未与宇树科技、优必选合作。",
+    "id": "8n2NgYU1PG1",
+    "order": 1759116763016,
+    "createdAt": "2025-09-29T02:15:35.000Z",
+    "publishDate": "2025-09-29T03:32:43.016Z",
+    "title": "机器人：具身智能业务方面暂未与宇树科技、优必选合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 10:15:35",
+    "uuid": "96260303-1986-4c6e-bf60-3e2de5b07024"
   },
   {
     "newsArray": [
@@ -364,6 +488,46 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "北京初速度科技有限公司 Momenta 正筹备新一轮融资，最新估值约 60 亿美元（约合 428.32 亿元人民币） ...",
+    "id": "8n1gwc2gFZY",
+    "order": 1759116788243,
+    "createdAt": "2025-09-29T01:45:59.000Z",
+    "publishDate": "2025-09-29T03:33:08.243Z",
+    "title": "Momenta 被曝正筹备新一轮融资，估值 60 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 09:45:59",
+    "uuid": "adbf2230-6a4f-45c0-b227-a17165ccb412"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "9月28日，清华大学发布严禁违规报备、违规载客入校的警示通报。近期校内多起人员违规报备、载客入校，部分参与“黑导”“黄牛”活动牟利，学校联动公安处理 ...",
+    "id": "8n2KtP11gjd",
+    "order": 1759116797676,
+    "createdAt": "2025-09-29T01:45:16.000Z",
+    "publishDate": "2025-09-29T03:33:17.676Z",
+    "title": "清华通报多名师生参与“黄牛”活动牟利被查处，2名教职工被拘",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 09:45:16",
+    "uuid": "f26d3ad6-8153-4ccd-9dfd-a90000cc7cdc"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -414,6 +578,36 @@
     "up": false,
     "date": "2025-09-29 08:51:53",
     "uuid": "220efa0f-1800-4863-85d7-89f37e3bbf31"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "每经网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "联商网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "9月29日查询发现，中国执行信息公开网已无万达集团董事长王健林“限高”信息，企查查也未显示其“限高”风险，此前事件系万达下属项目公司经济纠纷，或因执行层面信息不对称导致。",
+    "id": "8n2MHCEotkA",
+    "order": 1759116932457,
+    "createdAt": "2025-09-29T00:44:48.000Z",
+    "publishDate": "2025-09-29T03:35:32.457Z",
+    "title": "王健林“限高”措施已取消",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-29 08:44:48",
+    "uuid": "6c397f3c-aae9-43f1-9be3-171170ca6b5a"
   },
   {
     "newsArray": [
