@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "投资界" },
+      { "siteName": "新芽" }
+    ],
+    "summary": "近日，深圳市时代速信科技有限公司宣布完成由无锡梁溪区政府联合博华资本独家投资的数亿元人民币D轮融资。本轮融资将用于加速射频芯片及模组研发与量产，支持无锡研发生产基地建设 ...",
+    "id": "8n2wjjICygC",
+    "order": 1759217521345,
+    "createdAt": "2025-09-30T07:32:02.000Z",
+    "publishDate": "2025-09-30T07:32:01.345Z",
+    "title": "时代速信完成数亿元D轮融资，博华资本投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-30 15:32:02",
+    "uuid": "d60b0080-7378-4766-afaf-6e26e9cdb6f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "超声电子在互动平台表示，目前具备1 - 6阶任意层HDI量产能力。",
+    "id": "8n4Tkh3FjM9",
+    "order": 1759217121133,
+    "createdAt": "2025-09-30T07:25:21.000Z",
+    "publishDate": "2025-09-30T07:25:21.133Z",
+    "title": "超声电子：具备1-6阶任意层HDI量产能力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-30 15:25:21",
+    "uuid": "9d117245-2fa5-45ca-a425-d5334cfa20ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "山东黄河工程集团有限公司原董事长、总经理，山东恒润投资有限公司原董事长郭学鑫涉嫌严重违法，正接受济南市历下区监察委员会监察调查。",
+    "id": "8n4MfWKdva3",
+    "order": 1759216922347,
+    "createdAt": "2025-09-30T07:22:02.000Z",
+    "publishDate": "2025-09-30T07:22:02.347Z",
+    "title": "山东黄河工程集团有限公司原董事长郭学鑫接受监察调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-30 15:22:02",
+    "uuid": "895249ec-ceae-4fd3-8348-fc36a3044634"
+  },
+  {
+    "newsArray": [
       { "siteName": "投资界" },
       { "siteName": "猎云网" },
       { "siteName": "36Kr" }
@@ -198,6 +250,43 @@
   },
   {
     "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "牛透社" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "人工智能公司 Anthropic 发布全新前沿模型 Claude Sonnet 4.5，该产品在编程基准测试中性能顶尖，定价为每百万输入 token 收费 3 美元、输出 token 每百万收取 15 美元 ...",
+    "id": "8n4AS6iY29M",
+    "order": 1759217484332,
+    "createdAt": "2025-09-30T06:49:37.000Z",
+    "publishDate": "2025-09-30T07:31:24.332Z",
+    "title": "Anthropic 发布 Claude Sonnet 4.5：编程基准领先",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-30 14:49:37",
+    "uuid": "ca711a4c-2ed5-4e6d-93ee-c467c08e9381"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "开源中国" },
+      { "siteName": "智东西" },
+      { "siteName": "量子位" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "IEEE Spectrum称多个型号宇树科技机器人通过BLE连接Wi-Fi的配置接口存在关键漏洞，攻击者可借此实现最高权限控制 ...",
+    "id": "8n4J7buLy41",
+    "order": 1759217492828,
+    "createdAt": "2025-09-30T06:43:23.000Z",
+    "publishDate": "2025-09-30T07:31:32.828Z",
+    "title": "宇树科技回应机器人安全漏洞：已完成大部分修复工作，将继续改进权限管理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-30 14:43:23",
+    "uuid": "352a0ef3-081f-4164-b6b0-2d0d239f4065"
+  },
+  {
+    "newsArray": [
       { "siteName": "猎云网" },
       { "siteName": "钛媒体" },
       { "siteName": "界面" },
@@ -248,6 +337,43 @@
     "up": false,
     "date": "2025-09-30 14:32:19",
     "uuid": "a067627a-4d0d-4430-880e-2e9a7348e1dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "雷科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "昨晚直播中，罗永浩力挺小米，痛斥海报小字行为，称拿小米海报小字黑它没必要，这是行业普遍陋习。网友发现锤子科技宣传Smartisan T1手机时也用过类似词汇 ...",
+    "id": "8n40spajA1v",
+    "order": 1759217524715,
+    "createdAt": "2025-09-30T06:25:32.000Z",
+    "publishDate": "2025-09-30T07:32:04.715Z",
+    "title": "罗永浩声援小米：海报小字是行业陋习 非雷军的小米独创",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-30 14:25:32",
+    "uuid": "cad3d837-4b8e-4714-90cc-7f557cab1fa6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "近日，有网友称应聘得力时因腿部残疾遭歧视，其5月初通过三轮面试获上海公司HRBP岗位offer，到宁波总部报到当天向HR表明腿部问题无碍于工作，下午却被委婉劝退 ...",
+    "id": "8n4EoZx5jMS",
+    "order": 1759217546389,
+    "createdAt": "2025-09-30T06:24:20.000Z",
+    "publishDate": "2025-09-30T07:32:26.389Z",
+    "title": "一网友发文称因跛脚在入职当天被要求主动辞职，得力总裁留言道歉",
+    "type": "topic",
+    "up": false,
+    "date": "2025-09-30 14:24:20",
+    "uuid": "5b6eb9c3-bb2a-4526-be44-d2b3d9481a50"
   },
   {
     "newsArray": [
