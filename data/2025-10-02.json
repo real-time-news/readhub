@@ -1,6 +1,192 @@
 [
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Meta 工程副总裁确认该公司计划收购高性能 RISC-V 芯片企业 Rivos，以加速实现可扩展计算愿景 ...",
+    "id": "8n7JsOwAvJU",
+    "order": 1759372391634,
+    "createdAt": "2025-10-02T02:33:11.000Z",
+    "publishDate": "2025-10-02T02:33:11.634Z",
+    "title": "​Meta 拟收购 RISC-V 企业 Rivos，聚焦 AI 芯片技术升级",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 10:33:11",
+    "uuid": "05f50e50-0b70-493a-b99f-7655a0c4e99b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI宣布与日本数字厅达成战略合作。",
+    "id": "8n7Sqv9jbZz",
+    "order": 1759372355564,
+    "createdAt": "2025-10-02T02:32:35.000Z",
+    "publishDate": "2025-10-02T02:32:35.564Z",
+    "title": "OpenAI宣布与日本数字厅达成战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 10:32:35",
+    "uuid": "de7bb73c-a538-4118-80a7-1d1f2413b04f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "摩根大通将阿里巴巴港股目标价大幅上调至240港元，称云计算和电商业务增长支撑更高估值。分析师表示，阿里云收入增速连续8个季度加快，2025年二季度同比增26%，受生成式AI需求驱动 ...",
+    "id": "8n7RyL9wS8A",
+    "order": 1759372338648,
+    "createdAt": "2025-10-02T02:32:18.000Z",
+    "publishDate": "2025-10-02T02:32:18.648Z",
+    "title": "摩根大通上调阿里巴巴港股目标价45%，看好云收入和电商增长前景",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 10:32:18",
+    "uuid": "a50b267d-57d9-4335-9713-d20eb82764ad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "五十铃汽车与丰田汽车当地时间9月29日宣布达成协议，共同开发新一代燃料电池客车并推进商业化，该车型计划于2026财年（2026年4月至2027年3月）投产。",
+    "id": "8n7RR4B1ruX",
+    "order": 1759371768960,
+    "createdAt": "2025-10-02T02:22:48.000Z",
+    "publishDate": "2025-10-02T02:22:48.960Z",
+    "title": "五十铃与丰田将联合开发新一代燃料电池客车",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 10:22:48",
+    "uuid": "ae55f042-0516-4327-9e14-97167e3fd00f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "港股中芯国际涨幅扩大至6%，华虹半导体涨超2%。",
+    "id": "8n7RQiqYitv",
+    "order": 1759371896168,
+    "createdAt": "2025-10-02T02:12:36.000Z",
+    "publishDate": "2025-10-02T02:24:56.168Z",
+    "title": "港股中芯国际涨幅扩大至6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 10:12:36",
+    "uuid": "c2e0f634-d9d1-4467-8fc7-1123f36ecd2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "截至当地时间10月1日晚8时，菲律宾宿务省地震造成的死亡人数升至72人，200人受伤。",
+    "id": "8n6gxJnYRNk",
+    "order": 1759370833170,
+    "createdAt": "2025-10-02T02:07:13.000Z",
+    "publishDate": "2025-10-02T02:07:13.170Z",
+    "title": "菲律宾宿务6.9级地震遇难人数上升至72人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 10:07:13",
+    "uuid": "cf4fd59d-828f-48e5-8161-fe1237c567fa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "进入10月，本该秋高气爽、高温收尾，但接下来天气状况不佳，给假期出游“添堵”。9月以来，华西到黄淮一带降水偏多，河南9月平均降雨量为同期最多 ...",
+    "id": "8n6jroffZJZ",
+    "order": 1759370589627,
+    "createdAt": "2025-10-02T02:03:09.000Z",
+    "publishDate": "2025-10-02T02:03:09.627Z",
+    "title": "21号台风麦德姆即将生成，将直奔琼粤沿海",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 10:03:09",
+    "uuid": "6dac6041-b0ce-4487-9cb7-fbbfcfbd4cab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "位于江苏连云港的田湾核电基地累计安全发电突破5000亿度，为江苏及长三角提供绿色清洁能源，等效节约标准煤1.5亿吨，减排二氧化碳约4亿吨 ...",
+    "id": "8n7PyI8EKyK",
+    "order": 1759369931364,
+    "createdAt": "2025-10-02T01:52:11.000Z",
+    "publishDate": "2025-10-02T01:52:11.364Z",
+    "title": "田湾核电基地累计安全发电突破5000亿度",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 09:52:11",
+    "uuid": "0d7d401d-b76a-434b-849b-acbd5c354bf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "港股黄金股延续涨势，紫金黄金国际涨9.87%、潼关黄金涨4.43%、灵宝黄金涨3.85%。",
+    "id": "8n7PHYzMYO6",
+    "order": 1759369857701,
+    "createdAt": "2025-10-02T01:43:53.000Z",
+    "publishDate": "2025-10-02T01:50:57.701Z",
+    "title": "港股黄金股延续涨势，紫金黄金国际涨近10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 09:43:53",
+    "uuid": "42fae56d-c209-4370-b8e5-6eb70ee80968"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2025年9月，中国一汽销售整车30.2万辆，同比增长6.3%，其中自主品牌销量8.8万辆，自主新能源汽车销量3.89万辆，合资品牌销量21.39万辆。",
+    "id": "8n7PH7OrkZ7",
+    "order": 1759369385815,
+    "createdAt": "2025-10-02T01:43:05.000Z",
+    "publishDate": "2025-10-02T01:43:05.815Z",
+    "title": "中国一汽9月销售整车30.2万辆 同比增6.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-02 09:43:05",
+    "uuid": "80af5773-dbeb-43a4-ab4c-aac5d57ca887"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
