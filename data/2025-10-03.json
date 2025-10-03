@@ -1,6 +1,176 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "高德扫街榜上线23天累计用户超4亿，10月1日烟火小店流量增长300%，高德本地生活餐饮行业订单量增长150%。",
+    "id": "8n96LwGpUq9",
+    "order": 1759458315733,
+    "createdAt": "2025-10-03T02:25:15.000Z",
+    "publishDate": "2025-10-03T02:25:15.733Z",
+    "title": "高德扫街榜：上线23天用户超4亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-03 10:25:15",
+    "uuid": "e1dd0f56-e04a-4875-8007-fed5e751e474"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "港股汽车股集体下跌，比亚迪股份、小鹏汽车跌近5%，理想汽车跌超4%，零跑汽车跌超3%，蔚来、吉利汽车跌超2%。",
+    "id": "8n96Ibnv9w3",
+    "order": 1759458098406,
+    "createdAt": "2025-10-03T02:21:38.000Z",
+    "publishDate": "2025-10-03T02:21:38.406Z",
+    "title": "港股汽车股集体下跌，比亚迪股份、小鹏汽车跌近5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-03 10:21:38",
+    "uuid": "72cf2fd8-1652-4385-857d-3ddb6b44229b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "汉堡港位于德国北部城市汉堡，是德国最大综合性港口、欧洲第三大通用港口及全球重要海铁联运枢纽之一 ...",
+    "id": "8n94sntOfPN",
+    "order": 1759457624428,
+    "createdAt": "2025-10-03T02:13:45.000Z",
+    "publishDate": "2025-10-03T02:13:44.428Z",
+    "title": "受美关税影响 今年德国汉堡港对美进出口业务下降约四分之一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-03 10:13:45",
+    "uuid": "3e146ca3-f9aa-4803-b440-56578cd599a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "新兴 AI 云服务企业 CoreWeave 九月下旬先后同 OpenAI 和 Meta 两家企业扩大了此前已有的云服务交易，获得两笔价值分别为 65 亿美元和 142 亿美元的追加订单，总金额达 207 亿美元（IT之家注：现汇率约合 1474.39 亿元人民币） ...",
+    "id": "8n7q2FQSh8B",
+    "order": 1759457018540,
+    "createdAt": "2025-10-03T02:03:39.000Z",
+    "publishDate": "2025-10-03T02:03:38.540Z",
+    "title": "AI 云 CoreWeave 获 Meta、OpenAI 追单，新交易合计 207 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-03 10:03:39",
+    "uuid": "7bb15f2a-41e9-4d20-9b7f-26a4a94a281e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "MSCI亚太指数触及历史新高，最新上涨0.3%。",
+    "id": "8n95dToS9L4",
+    "order": 1759456999237,
+    "createdAt": "2025-10-03T02:03:20.000Z",
+    "publishDate": "2025-10-03T02:03:19.237Z",
+    "title": "MSCI亚太指数触及历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-03 10:03:20",
+    "uuid": "22eff868-475a-44c5-9dc0-13ab46ddee7d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "禾赛科技3日宣布，2025年度第100万台激光雷达已于9月底正式生产下线，成为全球首个年产量突破百万台的激光雷达企业。",
+    "id": "8n94CrnA0Aj",
+    "order": 1759456410355,
+    "createdAt": "2025-10-03T01:53:31.000Z",
+    "publishDate": "2025-10-03T01:53:30.355Z",
+    "title": "禾赛科技成为全球首个年产过百万的激光雷达企业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-03 09:53:31",
+    "uuid": "ef9f0555-1c29-4b0e-924f-b4769b288b1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "摩根士丹利称，9月净流入中国股市的外资反弹至46亿美元，创2024年11月以来单月最高，主要因被动型基金流入52亿美元，主动型基金小幅流出6亿美元 ...",
+    "id": "8n94skLyjrU",
+    "order": 1759456332508,
+    "createdAt": "2025-10-03T01:52:13.000Z",
+    "publishDate": "2025-10-03T01:52:12.508Z",
+    "title": "摩根士丹利：外资9月净流入中国股市46亿美元 主动基金增持半导体最多",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-03 09:52:13",
+    "uuid": "34b13c2c-7291-4f89-b59f-7791bb84fce7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "云锋金融（00376）高开逾6%，截至发稿股价涨6.68%，报6.23港元，成交额5407.782万港元 ...",
+    "id": "8n8veK1MzDI",
+    "order": 1759456377196,
+    "createdAt": "2025-10-03T01:44:34.000Z",
+    "publishDate": "2025-10-03T01:52:57.196Z",
+    "title": "云锋金融高开逾6% 集团与Anthea签订战略合作备忘录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-03 09:44:34",
+    "uuid": "2970b60c-1963-4ec5-abf2-35265eaa5548"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "周四，Perplexity AI宣布其人工智能驱动的网页浏览器Comet全球可用且免费开放。Comet被设计成个人助理，可搜索网页等 ...",
+    "id": "8n8rfLgSNhJ",
+    "order": 1759458102272,
+    "createdAt": "2025-10-03T01:37:15.000Z",
+    "publishDate": "2025-10-03T02:21:42.272Z",
+    "title": "Perplexity AI在全球范围内免费推出Comet浏览器",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-03 09:37:15",
+    "uuid": "2a4318fa-b3ad-41ea-b4ed-19827207a63d"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" }
