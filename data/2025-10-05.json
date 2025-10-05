@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "Choice数据显示，截至9月29日，9月以来140只含“港”ETF获471.94亿元投资，13只获超10亿元资金，基金规模大增，互联网、创新药等领域成资金聚集地 ...",
+    "id": "8nCV9HaAyyX",
+    "order": 1759635203021,
+    "createdAt": "2025-10-05T03:33:23.000Z",
+    "publishDate": "2025-10-05T03:33:23.021Z",
+    "title": "9月以来合计超470亿元资金流向港股市场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-05 11:33:23",
+    "uuid": "63d71fa0-8756-47ff-8781-14bbe9feeed9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "针对近期NVIDIA与Intel合作开发集成RTX GPU核心的x86架构SoC一事，AMD作出回应，强调对自身技术发展路径有坚定信心 ...",
+    "id": "8nAmgbqkvIz",
+    "order": 1759635156477,
+    "createdAt": "2025-10-05T03:32:36.000Z",
+    "publishDate": "2025-10-05T03:32:36.477Z",
+    "title": "AMD回应NVIDIA与Intel合作：坚持技术路线，2026年推Zen 6 APU",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-05 11:32:36",
+    "uuid": "efe5d064-e97d-43d6-957c-e1acc7357c07"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
