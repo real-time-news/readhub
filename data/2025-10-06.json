@@ -1,6 +1,63 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "吉利德科学美股盘前涨近5%，公司与Lupin、Cipla和Laurus实验室达成和解协议，解决Biktarvy专利诉讼。",
+    "id": "8nEooHhwqnX",
+    "order": 1759755687330,
+    "createdAt": "2025-10-06T13:01:28.000Z",
+    "publishDate": "2025-10-06T13:01:27.330Z",
+    "title": "吉利德科学美股盘前涨近5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-06 21:01:28",
+    "uuid": "a3dff202-b4e0-4ec3-bf42-f07f5e48f7c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "Fifth Third Bancorp同意以约109亿美元股票交易方式收购Comerica Inc.，这是今年最大的一宗美国银行业并购案 ...",
+    "id": "8nEfVoLPLEZ",
+    "order": 1759754517542,
+    "createdAt": "2025-10-06T12:41:57.000Z",
+    "publishDate": "2025-10-06T12:41:57.542Z",
+    "title": "Fifth Third将收购Comerica 成为今年美国银行业最大并购案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-06 20:41:57",
+    "uuid": "65133ef3-c99a-4532-bf49-3704b4ab1559"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美元兑日元跌破150，最新报149.95，日内涨幅缩减为1.7%。",
+    "id": "8nEMDhyWGIh",
+    "order": 1759753919491,
+    "createdAt": "2025-10-06T12:31:59.000Z",
+    "publishDate": "2025-10-06T12:31:59.491Z",
+    "title": "美元兑日元跌破150，日内涨幅缩减为1.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-06 20:31:59",
+    "uuid": "2cc6eeb6-ce55-45a5-a584-0b228320e2b3"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "第一财经" },
