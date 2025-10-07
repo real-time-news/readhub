@@ -1,6 +1,117 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "据声明，汉莎航空集团与新加坡航空公司扩大现有联营协议，将布鲁塞尔航空纳入，加强战略伙伴关系，改善欧亚太旅行选择 ...",
+    "id": "8nG9hso9jhA",
+    "order": 1759825361536,
+    "createdAt": "2025-10-07T08:22:42.000Z",
+    "publishDate": "2025-10-07T08:22:41.536Z",
+    "title": "新加坡航空与汉莎航空扩大联营协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 16:22:42",
+    "uuid": "50b70900-3838-477e-920b-5ac8557253b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "矿产勘探公司Trilogy Metals美股盘前一度暴涨近200%，此前白宫宣布与其合作并收购其10%股份。",
+    "id": "8nG9iMzJV8W",
+    "order": 1759825343108,
+    "createdAt": "2025-10-07T08:22:23.000Z",
+    "publishDate": "2025-10-07T08:22:23.108Z",
+    "title": "矿产勘探公司Trilogy Metals美股盘前一度暴涨近200%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 16:22:23",
+    "uuid": "f9ae323e-8e42-4073-bbc1-6f0c2fd9d493"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "摩根士丹利将AMD目标价从168美元上调至246美元。",
+    "id": "8nFr4FmgsaG",
+    "order": 1759825293083,
+    "createdAt": "2025-10-07T08:21:34.000Z",
+    "publishDate": "2025-10-07T08:21:33.083Z",
+    "title": "大摩将AMD目标价从168美元上调至246美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 16:21:34",
+    "uuid": "28f10804-7e5e-4bf7-b1a1-93655af3f241"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "乘联分会秘书长崔东树称，中国经销商销售毛利低、竞争压力大、二手车盈利未有效提升，生存状态待改善 ...",
+    "id": "8nG9f4H7X3J",
+    "order": 1759824834981,
+    "createdAt": "2025-10-07T08:13:55.000Z",
+    "publishDate": "2025-10-07T08:13:54.981Z",
+    "title": "崔东树：2025年中国汽车经销商急需政策支持",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 16:13:55",
+    "uuid": "55ffe096-c02d-4744-abb2-85ace32c28d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间10月6日，安进公司宣布启动AmgenNow患者直购计划，首批供应降胆固醇药物Repatha®（依洛尤单抗），通过该计划提供的Repatha月费用为239美元，较美国当前定价降低近60%，计划面向所有美国患者开放，包括未参保者、高自付额医保计划参保者及倾向现金或自费支付的患者。",
+    "id": "8nG8ENb9KbZ",
+    "order": 1759824790474,
+    "createdAt": "2025-10-07T08:13:11.000Z",
+    "publishDate": "2025-10-07T08:13:10.474Z",
+    "title": "安进降胆固醇药物在美国降价60%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 16:13:11",
+    "uuid": "a825c896-c64e-491a-a860-5de2467ce4ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "当地时间10月7日，日本中部电力公司正式启动静冈县御前崎市正进行报废作业的滨冈核电站1号机组反应堆拆除工程，这是日本国内第二例进入反应堆实际拆除阶段的商用核电机组，作业属核电站报废四个阶段中的第三阶段 ...",
+    "id": "8nG8ysGUmo5",
+    "order": 1759824217254,
+    "createdAt": "2025-10-07T08:03:37.000Z",
+    "publishDate": "2025-10-07T08:03:37.254Z",
+    "title": "日本正式启动滨冈核电站1号机组反应堆拆除作业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 16:03:37",
+    "uuid": "dea0155c-8f3f-486a-b99c-8ec7110d3945"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
