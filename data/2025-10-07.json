@@ -1,6 +1,142 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "菲律宾9月CPI同比上涨1.7%，核心CPI同比上涨2.6%。",
+    "id": "8nEBRgEGKTh",
+    "order": 1759799573528,
+    "createdAt": "2025-10-07T01:12:53.000Z",
+    "publishDate": "2025-10-07T01:12:53.528Z",
+    "title": "菲律宾9月CPI同比上涨1.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 09:12:53",
+    "uuid": "e7f72f1a-ee36-4346-910d-681bc050bef9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中央气象台10月7日06时发布暴雨蓝色预警，预计10月7日08时至8日08时，贵州西部、云南东部和南部、广西西南部等地部分地区有大到暴雨，云南东南部等地部分地区有大暴雨 ...",
+    "id": "8nFVeBuwW2X",
+    "order": 1759798156105,
+    "createdAt": "2025-10-07T00:49:17.000Z",
+    "publishDate": "2025-10-07T00:49:16.105Z",
+    "title": "中央气象台10月7日06时发布暴雨蓝色预警",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 08:49:17",
+    "uuid": "c2ab7ae6-3829-487b-a68d-1826bf38454e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "当地时间10月6日消息，巴西9月对美国出口额约25.8亿美元，同比下降20.3%，从美国进口额增至43.5亿美元，增幅达14.3%，9月对美贸易逆差达17.7亿美元，连续第9个月逆差，创今年以来最高纪录。",
+    "id": "8nFdUryqKX2",
+    "order": 1759797758849,
+    "createdAt": "2025-10-07T00:42:39.000Z",
+    "publishDate": "2025-10-07T00:42:38.849Z",
+    "title": "受关税影响 巴西9月对美国出口下滑20.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 08:42:39",
+    "uuid": "27def08c-b1c7-4a2c-a7b3-1a1e509799b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "今年9月底至10月初，武汉、重庆、合肥等多地出台楼市新政，从供需两端发力解决市场痛点。2025年前三季度约200个省市（县）出台政策超470条，三季度超120条，多数城市已全面放开限制性政策 ...",
+    "id": "8nFc6DEWhrv",
+    "order": 1759797138085,
+    "createdAt": "2025-10-07T00:32:18.000Z",
+    "publishDate": "2025-10-07T00:32:18.085Z",
+    "title": "因城施策再给力，多地释放楼市新动能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 08:32:18",
+    "uuid": "a5126ce8-a7f9-434d-9188-5b97221e1492"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "当地时间10月6日消息，美国铝业巨头诺维利斯公司位于纽约州奥斯威戈的工厂此前发生严重火灾，关键生产区域完全烧毁，预计停产至明年初 ...",
+    "id": "8nFX3I5oyxR",
+    "order": 1759796499409,
+    "createdAt": "2025-10-07T00:21:39.000Z",
+    "publishDate": "2025-10-07T00:21:39.409Z",
+    "title": "美国纽约州铝厂大火重创汽车供应链 福特业务将受影响数月",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 08:21:39",
+    "uuid": "bac9a6c2-9eae-4cc6-a85b-c379469153cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "今年1至8月，深圳无人机载货飞行达54.8万架次，同比增长57%，新增低空物流航线59条、累计开通309条。",
+    "id": "8nFaoxmt8Mi",
+    "order": 1759796465981,
+    "createdAt": "2025-10-07T00:12:32.000Z",
+    "publishDate": "2025-10-07T00:21:05.981Z",
+    "title": "深圳今年前八个月无人机载货飞行近五十五万架次",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 08:12:32",
+    "uuid": "df3bf466-3d27-4efb-85fc-675fbac764b3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "今年小米澎湃OS 3进步大，流畅性、功能性等大幅超越前代，很多用户希望升级 ...",
+    "id": "8nEjkv4htYc",
+    "order": 1759795308066,
+    "createdAt": "2025-10-07T00:01:48.000Z",
+    "publishDate": "2025-10-07T00:01:48.066Z",
+    "title": "小米澎湃OS 3 OTA逻辑改进：优先手动检测、逐步放量",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-07 08:01:48",
+    "uuid": "48609ac5-c906-44d3-aeb2-10d9f8eabfd8"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
