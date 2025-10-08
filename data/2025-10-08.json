@@ -1,6 +1,151 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "比亚迪发布9月产销快报，9月新能源汽车销量39.63万辆，同比下降5.52%，出口量为71256辆，动力电池及储能电池装机总量约23.2GWh，2025年累计装机总量约203.251GWh。",
+    "id": "8nHssG7aI4m",
+    "order": 1759914817258,
+    "createdAt": "2025-10-08T09:13:37.000Z",
+    "publishDate": "2025-10-08T09:13:37.258Z",
+    "title": "比亚迪：9月新能源汽车销量同比下降5.52%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 17:13:37",
+    "uuid": "5da6f1b8-92f7-45d5-a8fe-690d0b757b40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "赛力斯公告，2025年9月新能源汽车销量4.47万辆，同比增长19.44%，其中赛力斯汽车销量4.12万辆，同比增长15.14%，其他车型销量3608辆，同比下降49.66%，整体销量合计4.83万辆，同比增长8.33% ...",
+    "id": "8nHsq8sf1Oo",
+    "order": 1759914771018,
+    "createdAt": "2025-10-08T09:12:51.000Z",
+    "publishDate": "2025-10-08T09:12:51.018Z",
+    "title": "赛力斯：9月新能源汽车销量4.47万辆，同比增长19.44%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 17:12:51",
+    "uuid": "952bb86f-849c-48ce-81aa-1b88665e83ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "华新水泥公告决定终止筹划将下属全部实际开展生产经营的境外资产整合至境外子公司，并申请该拟分拆子公司分拆至境外证券交易所上市 ...",
+    "id": "8nHs9RNPdN8",
+    "order": 1759914353538,
+    "createdAt": "2025-10-08T09:05:53.000Z",
+    "publishDate": "2025-10-08T09:05:53.538Z",
+    "title": "华新水泥：终止筹划境外子公司分拆上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 17:05:53",
+    "uuid": "b2bf2b95-aee9-42fa-99f7-2d09722d4fad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "10月7日，诺诚健华全资子公司与美国Zenas BioPharma签署授权许可协议，Zenas获奥布替尼等产品多项权利，公司保留部分权利 ...",
+    "id": "8nHrPj5p3ln",
+    "order": 1759914286771,
+    "createdAt": "2025-10-08T09:04:47.000Z",
+    "publishDate": "2025-10-08T09:04:46.771Z",
+    "title": "诺诚健华子公司与Zenas签超20亿美元授权许可协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 17:04:47",
+    "uuid": "9ca57c80-ed43-4c5a-8c74-aff08bc483c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌量子计算部门 Google Quantum AI 当地时间 10 月 2 日宣布完成对 MIT 衍生量子计算初创企业 Atlantic Quantum 的收购，其团队将加入谷歌推进量子计算技术开发 ...",
+    "id": "8nHXOrggPgm",
+    "order": 1759914274514,
+    "createdAt": "2025-10-08T09:04:34.000Z",
+    "publishDate": "2025-10-08T09:04:34.514Z",
+    "title": "谷歌量子计算部门收购 Atlantic Quantum，加速硬件扩展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 17:04:34",
+    "uuid": "d57b6988-23dc-40d6-8e1c-3c1d5107fc12"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "第一财经" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "人工智能公司 OpenAI 与英伟达、超威半导体、甲骨文及 CoreWeave 达成算力合作协议，欲获取超 20 千兆瓦计算能力，总投入近 1 万亿美元 ...",
+    "id": "8nHJ7CVfO0a",
+    "order": 1759914257541,
+    "createdAt": "2025-10-08T09:04:17.000Z",
+    "publishDate": "2025-10-08T09:04:17.541Z",
+    "title": "OpenAI 联手英伟达等签署万亿级算力协议 大量亏损及资本模式引质疑",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 17:04:17",
+    "uuid": "35e37aef-be1c-4051-945a-2933645d2b42"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "金融界" },
+      { "siteName": "智源社区" }
+    ],
+    "summary": "生成式 AI 领导者 OpenAI 发布战略级 AgentKit 工具套件，具备构建、部署和优化智能代理的全新解决方案，包含 Agent Builder、Connector Registry 和 ChatKit 三大核心组件，同步升级评估框架强化四项关键能力 ...",
+    "id": "8nHdA3zDT4x",
+    "order": 1759914188968,
+    "createdAt": "2025-10-08T09:03:08.000Z",
+    "publishDate": "2025-10-08T09:03:08.968Z",
+    "title": "OpenAI 发布战略级 AgentKit 工具套件，推动企业级智能体应用开发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 17:03:08",
+    "uuid": "4a3f79de-704d-4665-aa84-eb71144b253b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "恒指公司通知，山高控股、众安智慧生活、中国黄金国际因在证监会股权高度集中名单上，不再符合纳入恒生指数系列标准，2025年10月24日收市后，山高控股将从恒生综合指数等指数剔除，众安智慧生活将从恒生物业服务及管理指数剔除，中国黄金国际将从恒生香港中资企业指数剔除。",
+    "id": "8nHrR7ni6E1",
+    "order": 1759914379585,
+    "createdAt": "2025-10-08T08:53:36.000Z",
+    "publishDate": "2025-10-08T09:06:19.585Z",
+    "title": "恒指公司：恒生指数系列成份股因部分公司股权高度集中而发生变动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 16:53:36",
+    "uuid": "de49f443-cf1f-410a-bc24-e9007410327b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
