@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软公司正在进行大规模战略重组，自 2025 年 5 月以来已裁员超 15000 人，主要波及 Azure 云、全球销售及工程等核心部门，裁员集中在 5 月和 7 月，6 月、8 月、9 月也陆续有裁员 ...",
+    "id": "8nHfGoCy6GX",
+    "order": 1759917109372,
+    "createdAt": "2025-10-08T09:51:49.000Z",
+    "publishDate": "2025-10-08T09:51:49.372Z",
+    "title": "报道称微软近 5 个月裁员超 1.5 万人：全面押注人工智能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 17:51:49",
+    "uuid": "58f25f6c-aac0-4a6a-8555-d6acb10d0c6a"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" }
@@ -15,6 +32,24 @@
     "up": false,
     "date": "2025-10-08 17:43:26",
     "uuid": "c8ef115b-167e-48a8-bad2-a327720b15a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达首席执行官黄仁勋接受采访时称，长期竞争对手英特尔曾花30多年“试图杀死”英伟达，如今两家芯片制造商成为50亿美元联盟的合作伙伴，从激烈竞争演变为战略盟友。",
+    "id": "8nHm7iHqEhV",
+    "order": 1759917171025,
+    "createdAt": "2025-10-08T09:43:05.000Z",
+    "publishDate": "2025-10-08T09:52:51.025Z",
+    "title": "黄仁勋称与英伟达合作将实现双赢：“我们是恋人，不是战士”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-08 17:43:05",
+    "uuid": "3509fb95-c38d-409d-bb0e-f3cc6751746f"
   },
   {
     "newsArray": [
