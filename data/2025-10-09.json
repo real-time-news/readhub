@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "法拉利预计2030年营收约为90亿欧元，调整后EBITDA至少达36亿欧元。",
+    "id": "8nJabrqBSEZ",
+    "order": 1760003600060,
+    "createdAt": "2025-10-09T09:53:21.000Z",
+    "publishDate": "2025-10-09T09:53:20.060Z",
+    "title": "法拉利预计2030年营收约为90亿欧元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-09 17:53:21",
+    "uuid": "3cd7ab6e-72e5-49be-8b76-900ff564e13f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "江西铜业公告，2025年9月29日、9月30日、10月9日股票连续三个交易日内日收盘价格涨幅偏离值累计达20%，属异常波动 ...",
+    "id": "8nJVhLeEakY",
+    "order": 1760003583236,
+    "createdAt": "2025-10-09T09:53:03.000Z",
+    "publishDate": "2025-10-09T09:53:03.236Z",
+    "title": "江西铜业 ：股票交易异常波动 公司目前生产经营活动一切正常",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-09 17:53:03",
+    "uuid": "bd33ef31-a5d4-4876-9f3e-ac736db7d7b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美股稀土概念股盘前集体走强，MP Materials 涨 4.6%，美国锑业涨 6.6%，美国稀土涨超 8%。",
+    "id": "8nJZwC7HxF9",
+    "order": 1760003532223,
+    "createdAt": "2025-10-09T09:52:13.000Z",
+    "publishDate": "2025-10-09T09:52:12.223Z",
+    "title": "美股稀土概念股盘前集体走强，美国稀土涨超8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-09 17:52:13",
+    "uuid": "704bc7d4-81bc-4f10-9b70-3a25e143edec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "华贸物流公告，2025年10月9日，公司控股股东中国物流集团全资子公司中国物流集团资本管理有限公司通过集中竞价交易增持公司股份71,730股，金额约43.04万元 ...",
+    "id": "8nJaSy4oa6k",
+    "order": 1760003514573,
+    "createdAt": "2025-10-09T09:51:55.000Z",
+    "publishDate": "2025-10-09T09:51:54.573Z",
+    "title": "华贸物流：控股股东拟0.645亿元-1.29亿元增持公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-09 17:51:55",
+    "uuid": "dffe2cee-11d2-4306-9851-efcf8606ce15"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国国家公路交通安全管理局（NHTSA）缺陷调查办公室（ODI）启动对特斯拉全自动驾驶功能（FSD）的调查，涉及该功能模式下车辆交通安全法规违规行为，如闯红灯、逆向行驶等，预计涉及2,882,566辆装备此功能的车辆。",
+    "id": "8nJYVd8BrXM",
+    "order": 1760003389993,
+    "createdAt": "2025-10-09T09:49:49.000Z",
+    "publishDate": "2025-10-09T09:49:49.993Z",
+    "title": "美国汽车安全监管机构对特斯拉FSD启动调查，涉及近290万辆汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-09 17:49:49",
+    "uuid": "a27a6d7a-9a83-4edf-8685-acb63ab091a8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "2022 年 Nick Turley 加入 OpenAI 成为 ChatGPT 负责人，目标是实现公司商业化 ...",
+    "id": "8nJOWzqkI0P",
+    "order": 1760003265551,
+    "createdAt": "2025-10-09T09:47:45.000Z",
+    "publishDate": "2025-10-09T09:47:45.551Z",
+    "title": "OpenAI 计划将 ChatGPT 打造成全新操作系统，拓展第三方应用生态",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-09 17:47:45",
+    "uuid": "cf3690ac-e743-45c7-a42c-cd3712df4523"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
