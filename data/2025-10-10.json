@@ -1,6 +1,44 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "*ST海华公告，实控人王封正筹划重大事项，可能导致公司控制权变更 ...",
+    "id": "8nLKXGYVOsG",
+    "order": 1760094449888,
+    "createdAt": "2025-10-10T11:06:44.000Z",
+    "publishDate": "2025-10-10T11:07:29.888Z",
+    "title": "*ST海华：因实控人筹划重大事项 公司股票将于10月13日起停牌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 19:06:44",
+    "uuid": "5ddc176c-0feb-4623-a1e3-95a4f5ebfc74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "哈焊华通公告，公司股票连续两个交易日收盘价格涨幅偏离值累计超30%，属异常波动。近期媒体报道其产品用于可控核聚变项目，实际该类产品收入占比低于1%，提醒投资者谨慎投资、防范风险。",
+    "id": "8nLJoJS1Cfm",
+    "order": 1760094401592,
+    "createdAt": "2025-10-10T11:06:41.000Z",
+    "publishDate": "2025-10-10T11:06:41.592Z",
+    "title": "哈焊华通：目前用于可控核聚变的产品收入占总收入比例低于1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 19:06:41",
+    "uuid": "f91db1f8-2915-4ad5-bd03-dc1e6624d274"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
