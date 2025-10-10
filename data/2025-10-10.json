@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "红枣期货主力合约日内涨幅扩大至3%，报11220元/吨。",
+    "id": "8nKkqbMxme9",
+    "order": 1760067748021,
+    "createdAt": "2025-10-10T03:42:29.000Z",
+    "publishDate": "2025-10-10T03:42:28.021Z",
+    "title": "红枣期货主力合约日内涨幅扩大至3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 11:42:29",
+    "uuid": "a737bbba-97bb-475d-b2ba-d8b4f1a7bb95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "军工装备板块持续拉升，长城军工涨停，捷强装备、北方长龙涨超17%，理工导航等跟涨。",
+    "id": "8nKnhbnN1ye",
+    "order": 1760067506702,
+    "createdAt": "2025-10-10T03:38:27.000Z",
+    "publishDate": "2025-10-10T03:38:26.702Z",
+    "title": "军工装备板块持续拉升，长城军工涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 11:38:27",
+    "uuid": "e4f77d02-59a2-4c90-bdd5-6a593d4d28fa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国弗吉尼亚州东区联邦地区法院一大陪审团9日决定对纽约州民主党籍总检察长利蒂希娅·詹姆斯提起“银行欺诈”和“向金融机构作虚假陈述”刑事诉讼。",
+    "id": "8nKL6HKekjL",
+    "order": 1760067442041,
+    "createdAt": "2025-10-10T03:37:23.000Z",
+    "publishDate": "2025-10-10T03:37:22.041Z",
+    "title": "美国纽约州总检察长詹姆斯遭起诉",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 11:37:23",
+    "uuid": "dd596444-91be-40db-b43b-b8370ed54c2b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "早间市场震荡调整，三大指数集体下挫，大小指数分化，中小盘股表现较强，沪深两市半日成交额较上一交易日缩量。盘面上热点高低切换，电池、半导体等热门赛道股集体调整，先导智能等大跌 ...",
+    "id": "8nKoXNXj6sH",
+    "order": 1760067311028,
+    "createdAt": "2025-10-10T03:35:12.000Z",
+    "publishDate": "2025-10-10T03:35:11.028Z",
+    "title": "午评：创业板指半日跌3.40% 电池、半导体等热门赛道股集体调整",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 11:35:12",
+    "uuid": "24f29f7a-309f-4e05-82b6-631c3b11c43b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "离岸人民币隔夜HIBOR升至今年4月以来最高水平。",
+    "id": "8nKoOfN4a5O",
+    "order": 1760067243514,
+    "createdAt": "2025-10-10T03:34:03.000Z",
+    "publishDate": "2025-10-10T03:34:03.514Z",
+    "title": "离岸人民币隔夜HIBOR升至今年4月以来最高水平",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 11:34:03",
+    "uuid": "50876674-1e9b-4aed-a680-5a9dbcb8183e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "界面" }
+    ],
+    "summary": "小米汽车科技有限公司“驾驶场景数据生成方法、装置、电子设备和程序产品”专利公布。该方法根据目标道路场景确定道路布局图和驾驶场景描述信息，进行图像和点云生成，得到具有语义一致性的驾驶场景图像和点云数据 ...",
+    "id": "8nKnhTdGF3a",
+    "order": 1760067149673,
+    "createdAt": "2025-10-10T03:32:30.000Z",
+    "publishDate": "2025-10-10T03:32:29.673Z",
+    "title": "小米汽车新专利公布：可提升智能驾驶安全性",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 11:32:30",
+    "uuid": "126e008c-438a-41a6-b36f-d026386ce908"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "界面" }
@@ -311,6 +417,29 @@
   },
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "手机中国" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "美国《时代》杂志公布2025年度最佳发明榜单，共300款产品上榜，涵盖机器人技术、人工智能等多个领域 ...",
+    "id": "8nKcvbswFOm",
+    "order": 1760067221500,
+    "createdAt": "2025-10-10T01:23:26.000Z",
+    "publishDate": "2025-10-10T03:33:41.500Z",
+    "title": "《时代》公布年度300大发明榜单：DeepSeek、华为、比亚迪上榜",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 09:23:26",
+    "uuid": "5141ff8b-4aa2-4d7e-b8d1-f8c1726b364b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "华尔街见闻" },
@@ -577,6 +706,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "英国前首相里希·苏纳克表示已加入微软和人工智能初创公司Anthropic担任高级顾问。他去年7月大选失败后辞去保守党党首职务，仍任英国议员 ...",
+    "id": "8nK63UyoA00",
+    "order": 1760067307830,
+    "createdAt": "2025-10-09T23:43:35.000Z",
+    "publishDate": "2025-10-10T03:35:07.830Z",
+    "title": "英国前首相苏纳克加入微软和Anthropic担任高级顾问",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 07:43:35",
+    "uuid": "a4c6388a-d73d-4b5e-9f68-71e2b5162d43"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
@@ -758,6 +906,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国庆中秋假期，成都国际航空枢纽保障航班起降1.4万架次，完成旅客吞吐量227.6万人次、货邮吞吐量2.4万吨，同比分别增长4.3%、5.8%、3.7%，均创历史同期最高，旅客吞吐量居全国第三 ...",
+    "id": "8nJoKUuNBKy",
+    "order": 1760067382619,
+    "createdAt": "2025-10-09T22:52:15.000Z",
+    "publishDate": "2025-10-10T03:36:22.619Z",
+    "title": "成都国际航空枢纽旅客吞吐量稳居全国第三",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 06:52:15",
+    "uuid": "1b688e80-9bd2-402a-8b27-d7ef10d70b8a"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" }
@@ -806,6 +971,23 @@
     "up": false,
     "date": "2025-10-10 06:33:15",
     "uuid": "a770c4b0-b366-4016-8e0e-8fd32cc9717d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美股周四早盘，英伟达上涨2.1%，股价创历史新高。此前该公司获美批准向阿联酋出口AI芯片，标志双边AI协定取得重大进展 ...",
+    "id": "8nJvSnbG00P",
+    "order": 1760067390408,
+    "createdAt": "2025-10-09T22:32:00.000Z",
+    "publishDate": "2025-10-10T03:36:30.408Z",
+    "title": "英伟达获美批准向阿联酋出口AI芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-10 06:32:00",
+    "uuid": "4350e697-225d-4bd5-8e50-104ef027a9ad"
   },
   {
     "newsArray": [
