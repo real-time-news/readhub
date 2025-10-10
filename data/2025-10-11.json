@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Wheaton Precious Metals Corp首席执行官Randy Smallwood称，相信明年金价将突破5000美元，2030年底前或达每盎司1万美元 ...",
+    "id": "8nLjYVFxSVg",
+    "order": 1760131894169,
+    "createdAt": "2025-10-10T21:27:02.000Z",
+    "publishDate": "2025-10-10T21:31:34.169Z",
+    "title": "贵金属公司CEO称明年黄金价格将突破5000美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 05:27:02",
+    "uuid": "4d29b9ad-c2fd-4581-8fc9-fd89ef6965a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "高盛预计2026/2027年铜价将维持在每吨1万 - 1.1万美元区间。认为印尼镍生产商利润率需进一步下降以限制供应增长、扭转市场过剩，预测到2026年12月镍价将下跌6%至每吨14500美元 ...",
+    "id": "8nLg4wHp7Uj",
+    "order": 1760131609480,
+    "createdAt": "2025-10-10T21:26:49.000Z",
+    "publishDate": "2025-10-10T21:26:49.480Z",
+    "title": "高盛：预计2026/2027年铜价将维持在每吨1万-1.1万美元区间",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 05:26:49",
+    "uuid": "15ce60e4-699d-4cc1-a2f0-041731b5add7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "当地时间10月10日，美国田纳西州一座炸药工厂爆炸，造成多人死亡和失踪，救援人员已赶赴现场，事故原因正在调查中。",
+    "id": "8nLjXLwx1cp",
+    "order": 1760131594276,
+    "createdAt": "2025-10-10T21:26:34.000Z",
+    "publishDate": "2025-10-10T21:26:34.276Z",
+    "title": "美国田纳西州一炸药厂发生爆炸 致多人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 05:26:34",
+    "uuid": "c6534dd9-9f37-42b0-be09-958bad2d606e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美股周五收盘，道指初步收跌1.9%，标普500指数跌2.7%，纳指跌3.5%，纳指、标普500指数创4月10日以来最大单日跌幅 ...",
+    "id": "8nLxFY5nmk4",
+    "order": 1760131584106,
+    "createdAt": "2025-10-10T21:26:25.000Z",
+    "publishDate": "2025-10-10T21:26:24.106Z",
+    "title": "美股收盘：纳指大跌3.5%，创4月10日以来最大单日跌幅",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 05:26:25",
+    "uuid": "229911aa-123a-436c-9b01-77e01ae97464"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "第一财经" }
