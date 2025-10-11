@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "多位信托业人士透露，近期收到通知，要求排查是否按《关于规范债券市场参与者债券交易业务的通知》制定内部制度、有无逆回购金额超过限制等问题 ...",
+    "id": "8nMVVI29aYf",
+    "order": 1760155543256,
+    "createdAt": "2025-10-11T04:05:44.000Z",
+    "publishDate": "2025-10-11T04:05:43.256Z",
+    "title": "多家信托公司收通知 摸排逆回购杠杆率情况",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 12:05:44",
+    "uuid": "b7e0b1cf-a16f-4bc0-9951-e42da13fdd40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "枢途科技（深圳）有限公司宣布完成数千万元天使轮融资，由东方富海及兼固资本联合领投。资金将用于视频具身数据采集管线的训练与迭代，加速为头部具身智能企业的数据商业化交付 ...",
+    "id": "8nMIci1Hfzg",
+    "order": 1760155500506,
+    "createdAt": "2025-10-11T04:05:01.000Z",
+    "publishDate": "2025-10-11T04:05:00.506Z",
+    "title": "枢途科技获数千万元融资，专注多模态具身智能数据采集及模型技术研发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 12:05:01",
+    "uuid": "8f987fde-fbfe-4c40-acfc-1d7a61cc99c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "10月10日娃哈哈集团召开董事会，通过宗馥莉辞职事项，任命许思敏为集团总经理，董事长职务空缺。",
+    "id": "8nMVQixovGl",
+    "order": 1760155434671,
+    "createdAt": "2025-10-11T04:03:55.000Z",
+    "publishDate": "2025-10-11T04:03:54.671Z",
+    "title": "消息人士：娃哈哈集团任命许思敏为总经理，董事长职务空缺",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 12:03:55",
+    "uuid": "0c6f69b5-b9ba-4f41-946e-4a8da93157b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "美国马萨诸塞大学阿默斯特分校团队开发出一种预防动物癌症的纳米疫苗，在预防小鼠黑色素瘤、胰腺癌和三阴性乳腺癌方面效果显著，高达 88%的接种小鼠保持无肿瘤状态，还能有效抑制癌细胞扩散、阻止转移 ...",
+    "id": "8nMFfxqNfWg",
+    "order": 1760155422659,
+    "createdAt": "2025-10-11T04:03:43.000Z",
+    "publishDate": "2025-10-11T04:03:42.659Z",
+    "title": "科学家开发出预防动物癌症的纳米疫苗 可有效抑制癌细胞扩散",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 12:03:43",
+    "uuid": "aba16a6e-f2ca-4854-b38d-61194eb4d9ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "诺和诺德制药公司削减细胞治疗部门，该部门此前致力于寻找1型糖尿病治疗方法，公司持续裁员以专注于肥胖和糖尿病治疗领域 ...",
+    "id": "8nLuIX2tvmN",
+    "order": 1760155293928,
+    "createdAt": "2025-10-11T04:01:34.000Z",
+    "publishDate": "2025-10-11T04:01:33.928Z",
+    "title": "为削减成本：诺和诺德停止了治疗糖尿病的细胞疗法",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 12:01:34",
+    "uuid": "9df6a6f9-4b15-4185-8a70-17d71bb67114"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
@@ -20,6 +112,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "科学网" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "瑞士苏黎世联邦理工学院科学家开发出名为MetaGraph的DNA搜索引擎，能快速高效检索公共生物学数据库海量信息 ...",
+    "id": "8nMIcUmfKx9",
+    "order": 1760155492249,
+    "createdAt": "2025-10-11T03:37:05.000Z",
+    "publishDate": "2025-10-11T04:04:52.249Z",
+    "title": "DNA搜索引擎MetaGraph研发成功",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 11:37:05",
+    "uuid": "a77c240e-1382-44f3-a7b6-a2ddfa66ea81"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "DoNews" },
       { "siteName": "IT 之家" }
@@ -34,6 +144,27 @@
     "up": false,
     "date": "2025-10-11 11:36:52",
     "uuid": "32b15119-e729-46b0-a17a-0714e054b98a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "DoNews" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "宗馥莉已于9月12日辞去娃哈哈集团董事长等相关职务并通过集团相关程序 ...",
+    "id": "8nMQUdX7cEb",
+    "order": 1760155584425,
+    "createdAt": "2025-10-11T03:34:24.000Z",
+    "publishDate": "2025-10-11T04:06:24.425Z",
+    "title": "宗馥莉第二次辞职，叔叔宗泽后再发声：水军害了她",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 11:34:24",
+    "uuid": "fd90222e-08d3-4352-8200-0e07ca1e69b7"
   },
   {
     "newsArray": [
@@ -456,6 +587,24 @@
     "up": false,
     "date": "2025-10-11 09:34:47",
     "uuid": "beb5f723-2dcf-49a2-a2e7-a77a28e5deca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "电动邦" }
+    ],
+    "summary": "北汽极狐将于10月底推出阿尔法T5增程版车型，全系搭载宁德时代骁遥电池，纯电续航215KM，综合续航1215KM。",
+    "id": "8nLUrrXQiNt",
+    "order": 1760155550364,
+    "createdAt": "2025-10-11T01:24:25.000Z",
+    "publishDate": "2025-10-11T04:05:50.364Z",
+    "title": "北汽极狐将于本月底推出增程版阿尔法T5车型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-11 09:24:25",
+    "uuid": "c291201a-386d-45ac-8615-b37f4f6432a6"
   },
   {
     "newsArray": [
