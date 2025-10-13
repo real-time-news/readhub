@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "立讯精密在互动平台表示正积极进入全球头部客户供应链，其400G、800G光模块产品已面向海内外客户交付。",
+    "id": "8nQ7meWsMht",
+    "order": 1760344744891,
+    "createdAt": "2025-10-13T08:39:04.000Z",
+    "publishDate": "2025-10-13T08:39:04.891Z",
+    "title": "立讯精密：公司正积极努力进入全球头部客户的供应链",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-13 16:39:04",
+    "uuid": "a668098c-1aca-465b-bb34-0a508b220cd5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "多模态模型社区LiblibAI升级至2.0版本，从模型聚合平台进化为集成式AI创作生态系统，为创作者提供全流程解决方案 ...",
+    "id": "8nPeYFNVJgu",
+    "order": 1760344691697,
+    "createdAt": "2025-10-13T08:38:12.000Z",
+    "publishDate": "2025-10-13T08:38:11.697Z",
+    "title": "LiblibAI 2.0正式上线 推出一站式AI专业创作工作室",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-13 16:38:12",
+    "uuid": "e34a391d-4bd6-4d42-b592-62c70b01fe54"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "京东自营外卖门店“七鲜小厨”和新独立品牌“七鲜咖啡”已上线美团 App。首家“七鲜小厨”外卖自营门店于 7 月 20 日开业，采用“外卖 + 自提”模式，无堂食 ...",
+    "id": "8nQ5du8kijj",
+    "order": 1760344355429,
+    "createdAt": "2025-10-13T08:32:35.000Z",
+    "publishDate": "2025-10-13T08:32:35.429Z",
+    "title": "京东自营外卖门店“七鲜小厨”入驻美团",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-13 16:32:35",
+    "uuid": "c93577f0-1c72-4f73-9c01-cfc762884a66"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "普莱柯（603566.SH）公告，经农业农村部审查，批准公司及其全资子公司洛阳惠中兽药有限公司等单位联合申报的“氟雷拉纳滴剂”为新兽药，10月11日公示核发《新兽药注册证书》事项 ...",
+    "id": "8nOZAENv6QO",
+    "order": 1760343997736,
+    "createdAt": "2025-10-13T08:26:38.000Z",
+    "publishDate": "2025-10-13T08:26:37.736Z",
+    "title": "普莱柯：获得氟雷拉纳滴剂新兽药注册证书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-13 16:26:38",
+    "uuid": "5f2ad595-dc8f-4b52-85da-10ed955e577c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "三倍做多富时中国ETF美股盘前涨超10%。",
+    "id": "8nQ77jEocvn",
+    "order": 1760343971928,
+    "createdAt": "2025-10-13T08:26:12.000Z",
+    "publishDate": "2025-10-13T08:26:11.928Z",
+    "title": "三倍做多富时中国ETF美股盘前涨超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-13 16:26:12",
+    "uuid": "28f08b2b-d684-4fd5-95ff-c5dc6467647a"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -15,6 +100,24 @@
     "up": false,
     "date": "2025-10-13 16:23:53",
     "uuid": "2e0267ce-5106-42dd-8363-d2cd7c232146"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "深圳燃气（601139.SH）发布2025年第三季度业绩快报，营业总收入225.28亿元，同比增长8.63%，归属于上市公司股东的净利润9.18亿元，同比下降13.08%。",
+    "id": "8nQ779ziVcq",
+    "order": 1760344706213,
+    "createdAt": "2025-10-13T08:23:32.000Z",
+    "publishDate": "2025-10-13T08:38:26.213Z",
+    "title": "深圳燃气：第三季度净利润同比下降13.08%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-13 16:23:32",
+    "uuid": "fb4acc7b-3023-4ecc-987f-5240ea4d4394"
   },
   {
     "newsArray": [
