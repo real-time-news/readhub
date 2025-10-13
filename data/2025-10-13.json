@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "近日，日本内阁府特命担当大臣城内实表示，政府已正式要求 OpenAI 禁止 Sora2 生成可能侵犯版权的内容，这是针对 Sora2 能生成风格近似日本动画的作品而作出的反应 ...",
+    "id": "8nPauQZc198",
+    "order": 1760338518011,
+    "createdAt": "2025-10-13T06:55:18.000Z",
+    "publishDate": "2025-10-13T06:55:18.011Z",
+    "title": "日本政府对 OpenAI Sora 2 发布版权警告，要求遵守法律规定",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-13 14:55:18",
+    "uuid": "aefcb98d-3f8f-4f10-8860-f0bc35dc84cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美国联邦政府“停摆”期间，当地时间10日晚美国疾病控制和预防中心数百名雇员收到错误裁员通知，一度被错误解雇。美国卫生与公共服务部称雇员“从未被解雇”，是技术错误导致 ...",
+    "id": "8nPYTh1TtRv",
+    "order": 1760338293649,
+    "createdAt": "2025-10-13T06:51:33.000Z",
+    "publishDate": "2025-10-13T06:51:33.649Z",
+    "title": "美政府“停摆”持续 美疾控中心数百雇员一度遭错误解雇",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-13 14:51:33",
+    "uuid": "b228a3e3-0404-49c5-a8aa-795b402e7771"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" }
