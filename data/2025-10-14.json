@@ -1,6 +1,193 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "开源鸿蒙社区基于不同应用场景需求与维护目标，将版本划分为Release版本与LTS版本 ...",
+    "id": "8nQR5yaPzmr",
+    "order": 1760409431799,
+    "createdAt": "2025-10-14T02:37:12.000Z",
+    "publishDate": "2025-10-14T02:37:11.799Z",
+    "title": "开源鸿蒙 6.1 和 8.1 版本被确定为 LTS 建议版本",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:37:12",
+    "uuid": "965f8014-36ae-40db-8110-52b542de9cbb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "国家发展改革委党组成员、国家粮食和储备局局长刘焕鑫在国新办新闻发布会上表示，市场化收购成粮食收购大头，占比超九成，发挥了畅流通、增活力的作用，我国市场化收购加政策性收储政策符合国情，应继续坚持并完善。",
+    "id": "8nRNiFL01VC",
+    "order": 1760409401819,
+    "createdAt": "2025-10-14T02:36:42.000Z",
+    "publishDate": "2025-10-14T02:36:41.819Z",
+    "title": "国家粮储局：市场化收购已占我国粮食收购量九成以上",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:36:42",
+    "uuid": "6e289578-9d9e-4bc9-a4ce-5e1aa2bcc69a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "10月14日凌晨，蚂蚁集团推出万亿参数思考模型Ring-1T，并全面开源模型权重、训练配方 ...",
+    "id": "8nRN1p0lbUv",
+    "order": 1760409371420,
+    "createdAt": "2025-10-14T02:36:12.000Z",
+    "publishDate": "2025-10-14T02:36:11.420Z",
+    "title": "蚂蚁发布并开源万亿参数思考模型Ring-1T",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:36:12",
+    "uuid": "0a4ead12-9b64-4ec2-8674-07707193e598"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "近日，赛力斯集团股份有限公司发生工商变更，注册资本由约15.09亿人民币增至约16.33亿人民币，增幅约8% ...",
+    "id": "8nRNit771a8",
+    "order": 1760409346652,
+    "createdAt": "2025-10-14T02:35:47.000Z",
+    "publishDate": "2025-10-14T02:35:46.652Z",
+    "title": "赛力斯注册资本增至约16.33亿，增幅约8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:35:47",
+    "uuid": "c25ba7e5-4b2a-4086-8fd1-a684cf88af85"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "投资界" },
+      { "siteName": "界面" }
+    ],
+    "summary": "岩超聚能（上海）科技有限公司完成数亿元天使轮融资，由岩山科技、岩山投资等联合领投，融资将用于团队扩充、仿星器原型超导磁体线圈研发、产线搭建等方面。",
+    "id": "8nRFsdqbPLR",
+    "order": 1760409201973,
+    "createdAt": "2025-10-14T02:33:22.000Z",
+    "publishDate": "2025-10-14T02:33:21.973Z",
+    "title": "岩超聚能完成数亿元天使轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:33:22",
+    "uuid": "87df39c2-400a-4951-8451-81e8e5b65e0c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "从最新增值税发票数据看，去年三季度至今年三季度，全国企业季度销售收入同比增速总体稳步回升 ...",
+    "id": "8nRMy7DLPja",
+    "order": 1760408692004,
+    "createdAt": "2025-10-14T02:24:52.000Z",
+    "publishDate": "2025-10-14T02:24:52.004Z",
+    "title": "税收数据显示：全国企业季度销售收入增速总体稳步回升",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:24:52",
+    "uuid": "474c3e2b-0dc6-4bd8-ba7c-b0dc1584457a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "10月14日早盘，A股光伏板块个股涨幅明显。多位行业企业人士预计有重要政策将发布，行业反内卷有新进展，相关主管部门或将发布加强光伏产能调控的通知文件。",
+    "id": "8nRMOITiUZF",
+    "order": 1760408653651,
+    "createdAt": "2025-10-14T02:24:13.000Z",
+    "publishDate": "2025-10-14T02:24:13.651Z",
+    "title": "相关主管部门或将发布加强光伏产能调控通知文件",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:24:13",
+    "uuid": "6820349a-1033-4399-a158-68aec9e45e82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "11月1日起全面推行国产小客车新车上牌“一件事”服务，推动车辆销售发票、购置税、保险等信息共享核查，实现全业务数字化办理，群众免交纸质材料 ...",
+    "id": "8nRMOhph2uZ",
+    "order": 1760408625558,
+    "createdAt": "2025-10-14T02:23:46.000Z",
+    "publishDate": "2025-10-14T02:23:45.558Z",
+    "title": "公安部：国产小客车新车上牌不用再跑车管所，11月1日全面推行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:23:46",
+    "uuid": "976a32e4-9b29-48e9-af2d-9e0526ddc477"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "猎云网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "超导量子计算公司逻辑比特宣布完成数千万人民币Pre - A轮融资，本轮融资老股东持续加码，由浙大联创领投，东方嘉富等跟投，上海至辉投资作为新股东参与 ...",
+    "id": "8nRJQouyrcc",
+    "order": 1760408611601,
+    "createdAt": "2025-10-14T02:23:31.000Z",
+    "publishDate": "2025-10-14T02:23:31.601Z",
+    "title": "逻辑比特完成Pre-A轮融资 用于可纠错量子芯片技术攻关",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:23:31",
+    "uuid": "67fa1fdc-8a48-4f72-bdc5-56dff58c5db1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "汽车博主陈震驾驶劳斯莱斯闪灵于北京万寿路发生交通事故，两天后当地交警认定其承担全部责任，相关处理仍在进行。陈震回应应以官方通报及车辆 EDR 数据为依据 ...",
+    "id": "8nRIYZG3tuk",
+    "order": 1760408432665,
+    "createdAt": "2025-10-14T02:20:33.000Z",
+    "publishDate": "2025-10-14T02:20:32.665Z",
+    "title": "陈震劳斯莱斯事故全责背后：辅助驾驶认知盲区与责任边界之争",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 10:20:33",
+    "uuid": "04816c7e-575f-4d09-b432-b06e5da53688"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
