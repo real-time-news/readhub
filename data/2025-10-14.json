@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美银证券发布研报称，京东健康2025年上半年业绩大幅优于预期，预计下半年将持续超越市场预期 ...",
+    "id": "8nRr2HrkCgA",
+    "order": 1760434966941,
+    "createdAt": "2025-10-14T09:42:46.000Z",
+    "publishDate": "2025-10-14T09:42:46.941Z",
+    "title": "美银证券：升京东健康目标价至71港元 上调营收与盈利预测",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 17:42:46",
+    "uuid": "01484f52-f420-4208-b8e1-90e37f1c5743"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "微软发布升级版 Copilot 人工智能助手，具备 Outlook/Gmail 等生产力工具直连及自然语言指令生成多种格式文档的能力，主要用于企业智能办公场景 ...",
+    "id": "8nRTRNw1jxD",
+    "order": 1760434716278,
+    "createdAt": "2025-10-14T09:38:36.000Z",
+    "publishDate": "2025-10-14T09:38:36.278Z",
+    "title": "微软升级 Copilot AI 助手：新增生产力工具直连与自然语言文档生成",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 17:38:36",
+    "uuid": "61367a6a-cb2b-438b-880a-9f095156908b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Google宣布为NotebookLM的视频概览功能推出重大升级，借助Gemini“Nano Banana”图像生成技术实现基于文档内容的自动视频创作 ...",
+    "id": "8nRSjNyLm0t",
+    "order": 1760434687510,
+    "createdAt": "2025-10-14T09:38:08.000Z",
+    "publishDate": "2025-10-14T09:38:07.510Z",
+    "title": "Google升级NotebookLM视频概览功能 引入Gemini图像生成技术",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 17:38:08",
+    "uuid": "12b385d1-2b1d-45f4-a684-8a134640057a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "10月14日下午，京东举办“又好又便宜 2025年京东双11惊喜开放日”活动，展示今年双11力度、玩法和阶段性成果 ...",
+    "id": "8nRp8M9WF8e",
+    "order": 1760434374179,
+    "createdAt": "2025-10-14T09:32:55.000Z",
+    "publishDate": "2025-10-14T09:32:54.179Z",
+    "title": "京东双11带电品类订单量同比增超70%，3C数码增长超100%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 17:32:55",
+    "uuid": "771241d8-b76b-4309-87a7-20eaa080da9e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英国石油公司表示，第三季度业绩有望受益于上游产量增加和炼油利润率提升，但原油交易部门表现疲弱将拖累整体盈利。公司处于战略重组阶段，正审视资产组合以强化资产负债表 ...",
+    "id": "8nRpb3ioFLG",
+    "order": 1760434351270,
+    "createdAt": "2025-10-14T09:32:31.000Z",
+    "publishDate": "2025-10-14T09:32:31.270Z",
+    "title": "英国石油公司上调三季度产量预期 但警告原油交易业务拖累盈利",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 17:32:31",
+    "uuid": "004dcaff-8060-4740-ad79-977adb52dcc3"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "手机中国" }
