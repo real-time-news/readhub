@@ -1,6 +1,128 @@
 [
   {
     "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "代号为“Sound Wave”的 AMD 处理器已经出现在了海关数据清单中，证实了该公司超越 x86 架构之外的处理器开发计划 ...",
+    "id": "8nQdFCqoyzi",
+    "order": 1760424347542,
+    "createdAt": "2025-10-14T06:45:48.000Z",
+    "publishDate": "2025-10-14T06:45:47.542Z",
+    "title": "超越 x86：AMD 确认将推出基于 ARM 架构的“Sound Wave”APU",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 14:45:48",
+    "uuid": "abc187c3-0c37-4851-ac39-c5bded55786d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "腾讯优图实验室正式开源面向企业级应用的通用文本表示模型Youtu - Embedding，可用于企业客服、智能问答等场景，尤其适用于构建RAG检索增强生成系统。",
+    "id": "8nRfZqzuLvM",
+    "order": 1760424330467,
+    "createdAt": "2025-10-14T06:45:31.000Z",
+    "publishDate": "2025-10-14T06:45:30.467Z",
+    "title": "腾讯开源通用文本表示模型Youtu-Embedding",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 14:45:31",
+    "uuid": "7d7cb40f-376c-4342-a7e5-4f820f153070"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI 联合日本软银集团及其旗下 Arm 公司，深化与博通的芯片合作，加速打造自主 AI 数据中心芯片堆栈以支撑其 AI 发展计划 ...",
+    "id": "8nRchkfOdMU",
+    "order": 1760424303089,
+    "createdAt": "2025-10-14T06:45:03.000Z",
+    "publishDate": "2025-10-14T06:45:03.089Z",
+    "title": "OpenAI 联手博通、软银 Arm 构建自主 AI 芯片体系",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 14:45:03",
+    "uuid": "3fd5d97b-70c7-4992-8529-ccd77708a552"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "10月14日上午，中国贸促会会长任鸿斌在京会见国际道路运输联盟秘书长翁贝托·德·普雷托一行，双方围绕国际公路运输（TIR）单证册在华推广等议题交流，并续签两机构合作谅解备忘录。",
+    "id": "8nRetuHdREn",
+    "order": 1760424243762,
+    "createdAt": "2025-10-14T06:44:03.000Z",
+    "publishDate": "2025-10-14T06:44:03.762Z",
+    "title": "中国贸促会会长任鸿斌会见国际道路运输联盟秘书长普雷托",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 14:44:03",
+    "uuid": "a8c8d3f7-357c-454c-b180-9533393da762"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "近期上市公司三季报披露工作开启，截至10月12日，61家A股公司披露前三季度业绩预告，超七成预喜，41家预计净利润同比增长，占比67.21%，25家预计同比增长50%以上，7家预计同比增长200%以上，10多家专精特新“小巨人”企业预计前三季度净利润同比增长超10%。",
+    "id": "8nReADXzHaQ",
+    "order": 1760423900112,
+    "createdAt": "2025-10-14T06:38:21.000Z",
+    "publishDate": "2025-10-14T06:38:20.112Z",
+    "title": "上市公司前三季度业绩预告启幕 “小巨人”企业业绩增速明显",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 14:38:21",
+    "uuid": "d5300233-30d5-4e2e-954a-da105bc35ce4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上工申贝股价迅速涨停，此前多名网友在股吧称其或将展开重大资产重组 ...",
+    "id": "8nResPw2aWv",
+    "order": 1760423873826,
+    "createdAt": "2025-10-14T06:37:54.000Z",
+    "publishDate": "2025-10-14T06:37:53.826Z",
+    "title": "上工申贝回应：目前并未筹划重大资产重组 不存在未披露的利好消息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 14:37:54",
+    "uuid": "5452f4ea-cbee-4576-b06c-3f618aa3e147"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "当地时间14日，乌克兰哈尔科夫市市长伊戈尔·捷列霍夫称，因俄罗斯空袭，该市约3万用户断电，空袭破坏输电线致多个地区停电。公用事业和能源部门工作人员正全力抢修，以恢复全市供电 ...",
+    "id": "8nResOFrnnE",
+    "order": 1760423846325,
+    "createdAt": "2025-10-14T06:37:27.000Z",
+    "publishDate": "2025-10-14T06:37:26.325Z",
+    "title": "乌方称哈尔科夫遭俄空袭 约3万用户断电",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-14 14:37:27",
+    "uuid": "8170dbeb-fdeb-4a8e-9dfc-7e9889cf854d"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
