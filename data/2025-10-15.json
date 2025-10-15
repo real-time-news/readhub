@@ -1,6 +1,169 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "当地时间10月14日，在2025年OCP全球峰会上，英特尔宣布推出代号为“Crescent Island”的新型数据中心GPU，该产品专为满足日益增长的AI推理工作负载需求设计，将提供高内存容量与高能效性能。",
+    "id": "8nSu4MmFPKy",
+    "order": 1760490381579,
+    "createdAt": "2025-10-15T01:06:21.000Z",
+    "publishDate": "2025-10-15T01:06:21.579Z",
+    "title": "英特尔发布新一代数据中心GPU，代号“Crescent Island”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 09:06:21",
+    "uuid": "779ec856-43a6-4474-8a0e-791a3bda6a16"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国内商品期货早盘开盘多数下跌，原油、玻璃等跌超 1%，塑料、纯苯等小幅下跌。集运欧线涨超 3%，生猪、多晶硅等涨逾 1%，焦煤、豆一等小幅上涨。",
+    "id": "8nSwCbZDdVp",
+    "order": 1760490278001,
+    "createdAt": "2025-10-15T01:04:39.000Z",
+    "publishDate": "2025-10-15T01:04:38.001Z",
+    "title": "国内商品期货早盘开盘，集运欧线涨超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 09:04:39",
+    "uuid": "0b753e2f-f768-4ab3-b310-07e8d8d19c9a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "格力博在互动平台称，公司目前使用的电池包不属于2025年10月9日发布的锂电池出口管制政策所明确的“能量密度大于等于300Wh/kg的高性能可充放电锂离子电池单体与电池组”，生产经营预计不受该出口管制政策影响。",
+    "id": "8nSvI2jekBn",
+    "order": 1760490187550,
+    "createdAt": "2025-10-15T01:03:07.000Z",
+    "publishDate": "2025-10-15T01:03:07.550Z",
+    "title": "格力博：公司目前使用的电池包不属于出口管制范围",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 09:03:07",
+    "uuid": "b31f64da-5eaa-411b-a1ec-6c27c5222f6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "苹果正计划在越南扩大生产规模，明年将推出室内安防摄像头、能控制家电的家居中控显示屏，2027 年推出可自主移动的桌面机器人，这三款产品都将在越南生产，苹果与比亚迪合作开发新款家居中控和机器人，比亚迪负责最终组装等环节 ...",
+    "id": "8nSu3fZWqpl",
+    "order": 1760489361175,
+    "createdAt": "2025-10-15T00:49:21.000Z",
+    "publishDate": "2025-10-15T00:49:21.175Z",
+    "title": "古尔曼：苹果计划在越南生产带屏 HomePod 和可自主移动的桌面机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 08:49:21",
+    "uuid": "d0cfc31e-ca90-4521-a359-400535b82aed"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "博杰股份接受机构调研称，基于客户需求，今年AI服务器相关测试设备订单预计乐观。汽车电子订单增长较快且已交付。3C领域订单平稳。MLCC行业自去年复苏，该领域设备订单增长快 ...",
+    "id": "8nSuQ1K5TIV",
+    "order": 1760489075705,
+    "createdAt": "2025-10-15T00:44:35.000Z",
+    "publishDate": "2025-10-15T00:44:35.705Z",
+    "title": "博杰股份：今年AI服务器相关测试设备的订单预计会比较乐观",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 08:44:35",
+    "uuid": "a7cfa007-aa71-46b4-84ed-e03bf9b7fcb2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司服务高级副总裁埃迪・库首次回应 Apple TV 订阅用户数传闻，针对约 4500 万用户规模的预估，他表示实际订阅人数“远高于此” ...",
+    "id": "8nSoHzWEizy",
+    "order": 1760488993346,
+    "createdAt": "2025-10-15T00:43:13.000Z",
+    "publishDate": "2025-10-15T00:43:13.346Z",
+    "title": "苹果高管首度回应称Apple TV真实用户规模“远超”4500万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 08:43:13",
+    "uuid": "ab6a3309-a022-43bf-951e-9cc8290ade47"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "海南省省长刘小明在学习时报撰文表示，生态环境在海南自贸港建设中具基础性地位，没有好生态就没有成功的自贸港 ...",
+    "id": "8nSu63YmnJp",
+    "order": 1760488966232,
+    "createdAt": "2025-10-15T00:42:46.000Z",
+    "publishDate": "2025-10-15T00:42:46.232Z",
+    "title": "海南省省长：毫不动摇推动建设生态一流、绿色低碳的海南自由贸易港",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 08:42:46",
+    "uuid": "02114410-e847-4a66-9f46-a1b1597f5bd2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "当地时间10月14日，Spotify与Netflix宣布合作，将把Spotify Studios和The Ringer的体育、文化、生活及罪案类视频播客引入Netflix平台 ...",
+    "id": "8nSTcpFhGxR",
+    "order": 1760487928939,
+    "createdAt": "2025-10-15T00:25:28.000Z",
+    "publishDate": "2025-10-15T00:25:28.939Z",
+    "title": "Spotify Studios与The Ringer视频播客将登陆Netflix平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 08:25:28",
+    "uuid": "bf2019fa-6147-42ea-872b-80b5ef75d56a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "日本东证指数上涨1%至3165.59点，韩国KOSPI指数上升1%至3597.64点。",
+    "id": "8nStIbzo04e",
+    "order": 1760487780433,
+    "createdAt": "2025-10-15T00:23:01.000Z",
+    "publishDate": "2025-10-15T00:23:00.433Z",
+    "title": "日本东证指数上涨1%至3165.59点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 08:23:01",
+    "uuid": "084a87dd-e76e-497a-8a2e-d788c46bb9df"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
