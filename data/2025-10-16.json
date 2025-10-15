@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中央气象台10月16日06时发布暴雨蓝色预警，预计10月16日08时至17日08时，陕西南部、河南南部等地部分地区有大到暴雨，陕西东南部等地部分地区有大暴雨，部分地区伴有短时强降水。",
+    "id": "8nTZVW4rMsZ",
+    "order": 1760567560267,
+    "createdAt": "2025-10-15T22:32:41.000Z",
+    "publishDate": "2025-10-15T22:32:40.267Z",
+    "title": "中央气象台10月16日06时发布暴雨蓝色预警",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 06:32:41",
+    "uuid": "da992586-70eb-47d5-901a-eed1dc0bbadf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "全球第四大车企Stellantis宣布未来四年在美国投资130亿美元，将带来五款新车型、新增5000个就业岗位、提高本土产量50% ...",
+    "id": "8nTSJqHZGHg",
+    "order": 1760567538281,
+    "createdAt": "2025-10-15T22:32:19.000Z",
+    "publishDate": "2025-10-15T22:32:18.281Z",
+    "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 06:32:19",
+    "uuid": "bf9fd105-1b82-44f9-848c-f38c1cf31a18"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
