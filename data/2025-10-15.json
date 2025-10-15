@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌有望于 10 月 22 日发布下一代 AI 模型 Gemini 3.0，主要改进延迟、成本和编码方面，显著提升 SVG 图像生成性能 ...",
+    "id": "8nSwrMESOPk",
+    "order": 1760511157653,
+    "createdAt": "2025-10-15T06:52:38.000Z",
+    "publishDate": "2025-10-15T06:52:37.653Z",
+    "title": "谷歌最强模型 Gemini 3.0 被曝 10 月 22 日登场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 14:52:38",
+    "uuid": "dc8b957c-4bd4-4bdb-b3ca-21a1f501dc43"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "眼下大闸蟹大量上市，宁波水产品批发市场大闸蟹日交易量稳定在2万斤左右，普通蟹价格较去年同期明显回落，在售大闸蟹多产自江苏兴化、阳澄湖等产区 ...",
+    "id": "8nTKU3eYagy",
+    "order": 1760511190979,
+    "createdAt": "2025-10-15T06:49:17.000Z",
+    "publishDate": "2025-10-15T06:53:10.979Z",
+    "title": "高温致大闸蟹品质打折扣，大闸蟹月底或将降价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-15 14:49:17",
+    "uuid": "685de0fd-0d34-4c46-9e29-37c5a6630e07"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
