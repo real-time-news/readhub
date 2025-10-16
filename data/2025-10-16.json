@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "科学网" },
+      { "siteName": "财联社" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "美国密歇根州立大学团队发现“绘制”晶体新方法——激光绘晶技术，可在指定时间和位置“按需”生成晶体，成果发表于《ACS Nano》杂志 ...",
+    "id": "8nTyWQqhXUe",
+    "order": 1760597212428,
+    "createdAt": "2025-10-16T06:46:52.000Z",
+    "publishDate": "2025-10-16T06:46:52.428Z",
+    "title": "激光绘晶技术实现材料“按需”生长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 14:46:52",
+    "uuid": "98a5f423-3ffb-4c26-918a-e9d42b3b07bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "10月16日13时48分，印尼巴布亚省（南纬2.05度，东经138.85度）发生6.5级地震，震源深度10千米 ...",
+    "id": "8nUxFmv1nV2",
+    "order": 1760597135153,
+    "createdAt": "2025-10-16T06:45:36.000Z",
+    "publishDate": "2025-10-16T06:45:35.153Z",
+    "title": "印尼海域地震可能引发局地海啸 不会对我国沿岸造成影响",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 14:45:36",
+    "uuid": "8e4af87d-bb20-41ec-9e7b-d5413d2102ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "上海市服务消费促进会开启为期一个月（10月15日至11月15日）的“票根”联动消费试点活动，联合第三方支付平台推出“上海票根码”，兼具支付与权益识别功能，消费者凭码在指定商户消费可享专属优惠 ...",
+    "id": "8nUkunoOlNH",
+    "order": 1760597089325,
+    "createdAt": "2025-10-16T06:44:50.000Z",
+    "publishDate": "2025-10-16T06:44:49.325Z",
+    "title": "上海启动票根码试点消费享七天优惠",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 14:44:50",
+    "uuid": "fbf6887a-a11a-48b5-82d8-4252bef6457f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Arm与Meta达成多年期战略合作，整合软硬件优势提升全栈AI计算效率，推动AI规模化落地 ...",
+    "id": "8nUcV9t5Or8",
+    "order": 1760597064054,
+    "createdAt": "2025-10-16T06:44:26.000Z",
+    "publishDate": "2025-10-16T06:44:24.054Z",
+    "title": "Arm与Meta达成战略合作 共推AI从云到端规模化发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 14:44:26",
+    "uuid": "2d9f3608-142b-477d-b267-4b3edf1c3f36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "波士顿 93 号公路是全球最密集的生物医药走廊，霓虹灯闪烁着诺华、Vertex、赛默飞的标志 ...",
+    "id": "8nTfawI7vHf",
+    "order": 1760596467117,
+    "createdAt": "2025-10-16T06:34:28.000Z",
+    "publishDate": "2025-10-16T06:34:27.117Z",
+    "title": "上海对话波士顿：两座城市的创新药平行时空",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 14:34:28",
+    "uuid": "6c956989-668b-49b9-b55f-2ec8162ef736"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "德意志银行将阿斯麦目标价从900欧元上调至1000欧元。",
+    "id": "8nUqnnCE0op",
+    "order": 1760596349333,
+    "createdAt": "2025-10-16T06:32:30.000Z",
+    "publishDate": "2025-10-16T06:32:29.333Z",
+    "title": "德银：将阿斯麦目标价上调至1000欧元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 14:32:30",
+    "uuid": "2230e5af-6519-48b5-aed4-e2a0cc2be00a"
+  },
+  {
+    "newsArray": [
       { "siteName": "品玩" },
       { "siteName": "aibase" },
       { "siteName": "雷锋网" }
@@ -625,6 +729,24 @@
     "up": false,
     "date": "2025-10-16 12:04:31",
     "uuid": "07884b18-acf7-4928-a28f-9d73333bfa18"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "界面" },
+      { "siteName": "雷科技" }
+    ],
+    "summary": "京东新车为5座小型轿车，续航401 - 600KM，预估定价10 - 12万元，截至发稿前已有1805人预约抢购。京东汽车开启岗位招聘，多个岗位年薪高达百万元 ...",
+    "id": "8nUg75HrDrL",
+    "order": 1760596415278,
+    "createdAt": "2025-10-16T03:54:35.000Z",
+    "publishDate": "2025-10-16T06:33:35.278Z",
+    "title": "年薪超百万，京东汽车释放多个招聘岗位",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 11:54:35",
+    "uuid": "407429b5-ab86-4d78-ba18-cddee4442c77"
   },
   {
     "newsArray": [
