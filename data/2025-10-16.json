@@ -1,6 +1,97 @@
 [
   {
     "newsArray": [
+      { "siteName": "科学网" },
+      { "siteName": "财联社" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "澳大利亚莫纳什大学科学家研制出一款仅有硬币大小的微型流体芯片，其内部结构能模拟人脑神经通路，“记住”过往电信号变化，展现出类似大脑神经元的学习与适应能力 ...",
+    "id": "8nTyX4OKzw0",
+    "order": 1760586443416,
+    "createdAt": "2025-10-16T03:47:24.000Z",
+    "publishDate": "2025-10-16T03:47:23.416Z",
+    "title": "内部结构模拟人脑神经通路微型流体芯片能“记住”电信号变化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 11:47:24",
+    "uuid": "e4357f4a-3495-47fb-88b8-ec03c211a996"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "2025年9月，小鹏汽车出口量突破5000台，环比增长65.8%，同比增长79.4%。1—9月出口量超29723辆，同比增长125.2%。",
+    "id": "8nUmWBVvcmM",
+    "order": 1760586368445,
+    "createdAt": "2025-10-16T03:46:09.000Z",
+    "publishDate": "2025-10-16T03:46:08.445Z",
+    "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 11:46:09",
+    "uuid": "5baa0c0e-a3af-4765-b58e-c97fe4e46ca3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "中证网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "国内期货主力合约早盘收盘涨跌互现，沪银涨超4%，沪金、丁二烯橡胶涨超2%。集运指数（欧线）、生猪跌超3%，铁矿石、苹果跌超1%。",
+    "id": "8nUb852g3dF",
+    "order": 1760585842163,
+    "createdAt": "2025-10-16T03:37:23.000Z",
+    "publishDate": "2025-10-16T03:37:22.163Z",
+    "title": "国内期货主力合约早盘收盘涨跌互现",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 11:37:23",
+    "uuid": "345e7136-e267-4e97-8862-4f3e10a87451"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "在甲骨文全球 AI 大会上，甲骨文宣布推出大型云端 AI 超级计算机 Oracle Cloud Infrastructure (OCI) Zettascale10，它将跨多个数据中心的数十万 NVIDIA GPU 连接成多千兆瓦级集群，峰值性能可达 16 zettaFLOPS。",
+    "id": "8nUlndjiONN",
+    "order": 1760585653823,
+    "createdAt": "2025-10-16T03:34:14.000Z",
+    "publishDate": "2025-10-16T03:34:13.823Z",
+    "title": "甲骨文推出面向AI的新一代 OCI Zettascale10 Cluster",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 11:34:14",
+    "uuid": "6ca4a24f-83be-4785-a8cc-f1f633497ac3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近日，特斯联与新华三宣布达成战略合作，将围绕AIoT算力平台打造及异构算力生态建设深度合作 ...",
+    "id": "8nUkuVrymcP",
+    "order": 1760585577079,
+    "createdAt": "2025-10-16T03:32:58.000Z",
+    "publishDate": "2025-10-16T03:32:57.079Z",
+    "title": "特斯联与新华三达成战略合作，将打造异构算力超节点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 11:32:58",
+    "uuid": "0ad00797-ecac-4c68-bcb1-8873229115a5"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "网易科技" }
@@ -350,6 +441,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "标普全球宣布同意收购私募市场数据提供商With Intelligence，拓展针对金融服务快速增长领域的产品 ...",
+    "id": "8nTrPteRLW2",
+    "order": 1760585930900,
+    "createdAt": "2025-10-16T02:16:37.000Z",
+    "publishDate": "2025-10-16T03:38:50.900Z",
+    "title": "标普全球同意收购私募市场数据提供商With Intelligence",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 10:16:37",
+    "uuid": "624d28d3-f06c-4470-899b-9f99568acd11"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
@@ -551,6 +659,43 @@
     "up": false,
     "date": "2025-10-16 08:54:14",
     "uuid": "2030d0ae-1816-41bf-bc5a-2be0bef808e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" },
+      { "siteName": "雷锋网" },
+      { "siteName": "网易科技" },
+      { "siteName": "联商网" }
+    ],
+    "summary": "10月15日晚8点，天猫双11预售开启，首小时淘宝直播付定金用户双位数增长，破亿直播间数量超去年同期，多个淘宝直播间破亿速度及成交额均超去年 ...",
+    "id": "8nUW9plpK1R",
+    "order": 1760585988996,
+    "createdAt": "2025-10-16T00:52:49.000Z",
+    "publishDate": "2025-10-16T03:39:48.996Z",
+    "title": "天猫双11预售首小时破亿直播间超去年 付定金用户双位数增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 08:52:49",
+    "uuid": "d126129d-03d9-441a-b306-99e8547633a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI首席执行官山姆・奥特曼周三称公司“不是经选举产生的世界道德警察”。此前他决定放宽ChatGPT内容限制，允许情色等内容存在，引发强烈反对 ...",
+    "id": "8nUHsSav3pU",
+    "order": 1760586014925,
+    "createdAt": "2025-10-16T00:07:34.000Z",
+    "publishDate": "2025-10-16T03:40:14.925Z",
+    "title": "山姆・奥特曼回应ChatGPT情色内容引发争议：OpenAI不是“世界道德警察”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-16 08:07:34",
+    "uuid": "1eebb237-67d8-44d5-8263-a7bb5e4c68ce"
   },
   {
     "newsArray": [
