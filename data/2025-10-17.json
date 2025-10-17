@@ -1,6 +1,145 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "金田股份公告，第三季度营收324.71亿元，同比降4.42%，净利润2.15亿元，同比增30.30% ...",
+    "id": "8nWki7bMaqQ",
+    "order": 1760689134313,
+    "createdAt": "2025-10-17T08:17:56.000Z",
+    "publishDate": "2025-10-17T08:18:54.313Z",
+    "title": "金田股份：第三季度净利润2.15亿元，同比增长30.30%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 16:17:56",
+    "uuid": "5bfc64d8-d064-43f2-b727-978757c75bf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "北方股份公告，预计2025年前三季度归母净利润1.70亿元 - 1.85亿元，同比增56.90% - 70.74% ...",
+    "id": "8nWkja7hUeU",
+    "order": 1760689033984,
+    "createdAt": "2025-10-17T08:17:13.000Z",
+    "publishDate": "2025-10-17T08:17:13.984Z",
+    "title": "北方股份：前三季度净利润同比预增56.90%-70.74%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 16:17:13",
+    "uuid": "2d3000a5-e1ef-45a3-b75a-266dea200fbb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "国轩高科在互动平台表示，公司在钠电池研发领域已有布局。",
+    "id": "8nWk5oIa9In",
+    "order": 1760689012847,
+    "createdAt": "2025-10-17T08:16:53.000Z",
+    "publishDate": "2025-10-17T08:16:52.847Z",
+    "title": "国轩高科：公司在钠电池研发领域已有布局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 16:16:53",
+    "uuid": "ca6abf38-7ebc-481f-9c0a-ab489f6e658c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "思特威公告称，预计2025年前三季度归母净利润6.56亿元 - 7.36亿元，同比增长140% - 169%。",
+    "id": "8nWkiBpMLtz",
+    "order": 1760688995718,
+    "createdAt": "2025-10-17T08:16:36.000Z",
+    "publishDate": "2025-10-17T08:16:35.718Z",
+    "title": "思特威：前三季度净利同比预增140%-169%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 16:16:36",
+    "uuid": "70c04990-1ff3-401b-a3e5-acb45ea9fe92"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2025年10月16日晚至17日凌晨，国际空间站两名俄宇航员谢尔盖·雷日科夫和阿列克谢·祖布里茨基完成首次太空行走，出舱工作6小时11分钟后安全返回 ...",
+    "id": "8nWf1mHsaX2",
+    "order": 1760688951421,
+    "createdAt": "2025-10-17T08:15:52.000Z",
+    "publishDate": "2025-10-17T08:15:51.421Z",
+    "title": "俄宇航员完成今年首次太空行走",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 16:15:52",
+    "uuid": "73072245-1c8e-410d-bc30-df0d56a8142c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "本周，铜、锌、铅、镍库存分别增加550吨、2677吨、1785吨、1300吨，铝、锡、天然橡胶库存分别减少2749吨、188吨、7282吨。",
+    "id": "8nWhrnpc2PN",
+    "order": 1760688931210,
+    "createdAt": "2025-10-17T08:15:31.000Z",
+    "publishDate": "2025-10-17T08:15:31.210Z",
+    "title": "上期所：本周铜库存增加550吨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 16:15:31",
+    "uuid": "bd4c7826-a792-4b96-8cbd-95a5a7a6820d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "雷科技" }
+    ],
+    "summary": "MediaTek 3nm 旗舰座舱芯片天玑 座舱 S1 Ultra 正式亮相，采用 3nm 制程工艺，CPU 全大核架构提供 280K DMIPS 算力，搭载硬件级光追 GPU 有 4000 GFLOPS 图形算力，NPU 支持端侧生成式 AI 技术，算力达 53 TOPS ...",
+    "id": "8nWcfZ5l0Bd",
+    "order": 1760688473071,
+    "createdAt": "2025-10-17T08:07:54.000Z",
+    "publishDate": "2025-10-17T08:07:53.071Z",
+    "title": "MediaTek 3nm 旗舰座舱芯片——天玑 座舱S1 Ultra正式亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 16:07:54",
+    "uuid": "d393a411-dfae-4b93-a007-2cd42db788be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "A股主要指数今日集体下挫，沪指跌1.95%，深证成指、创业板指等跌幅明显，全市场成交额1.95万亿元，近4800股下跌 ...",
+    "id": "8nWgPiheKk5",
+    "order": 1760688190108,
+    "createdAt": "2025-10-17T08:03:10.000Z",
+    "publishDate": "2025-10-17T08:03:10.108Z",
+    "title": "A股收评：沪指失守3900点，光伏、半导体重挫，贵金属逆市活跃",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 16:03:10",
+    "uuid": "4e129157-9e38-4e87-ab3e-bff5325f5203"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
@@ -523,6 +662,24 @@
     "up": false,
     "date": "2025-10-17 14:34:34",
     "uuid": "ab34b484-74d3-452b-8a43-5c81278cdcce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "特斯拉宣布，Model Y L预计交付日期更新为2025年12月，现在下单年底前提车。",
+    "id": "8nWdYGIcNFz",
+    "order": 1760688164012,
+    "createdAt": "2025-10-17T06:33:48.000Z",
+    "publishDate": "2025-10-17T08:02:44.012Z",
+    "title": "特斯拉：ModelY L预计交付日期更新为2025年12月",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 14:33:48",
+    "uuid": "bb0d8ae0-054e-42bd-876b-308f917cebcd"
   },
   {
     "newsArray": [
@@ -1153,6 +1310,23 @@
     "up": false,
     "date": "2025-10-17 11:07:49",
     "uuid": "93783287-931d-423c-bfac-22a8eb25c74a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Ripple Labs将牵头筹集至少10亿美元积累数字代币瑞波币（XRP），表明市场动荡未阻止其推行商业计划 ...",
+    "id": "8nWOb2n820A",
+    "order": 1760688004359,
+    "createdAt": "2025-10-17T03:05:47.000Z",
+    "publishDate": "2025-10-17T08:00:04.359Z",
+    "title": "Ripple据悉将牵头筹集10亿美元资金囤积瑞波币",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-17 11:05:47",
+    "uuid": "f9581af4-0912-4ff6-b66b-eea26003507e"
   },
   {
     "newsArray": [
