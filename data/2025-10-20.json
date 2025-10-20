@@ -2,6 +2,115 @@
   {
     "newsArray": [
       { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "江波龙推出集成封装mSSD（Micro SSD），该创新产品已完成开发、测试，申请了国内外相关技术专利，正处于量产爬坡阶段 ...",
+    "id": "8nbfpScf7JY",
+    "order": 1760946217377,
+    "createdAt": "2025-10-20T07:43:39.000Z",
+    "publishDate": "2025-10-20T07:43:37.377Z",
+    "title": "江波龙推出集成封装mSSD 已完成开发、测试",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 15:43:39",
+    "uuid": "5609886f-0a40-4139-966c-15d7563c8aa2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "网络状况监测网站显示，用户报告亚马逊、Snapchat和Coinbase出现服务故障。",
+    "id": "8nbggjDpvEx",
+    "order": 1760946181820,
+    "createdAt": "2025-10-20T07:43:03.000Z",
+    "publishDate": "2025-10-20T07:43:01.820Z",
+    "title": "亚马逊、Snapchat和Coinbase出现服务故障",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 15:43:03",
+    "uuid": "8a5d258e-4a6c-4800-845c-387ce7592bf2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "10月20日，支付宝发布声明，经审慎研究决定，自本周起暂停AI健康管家AQ在支付宝首页的广告投放，具体恢复时间另行通知。",
+    "id": "8nbaY43hfev",
+    "order": 1760946109656,
+    "createdAt": "2025-10-20T07:41:50.000Z",
+    "publishDate": "2025-10-20T07:41:49.656Z",
+    "title": "反思态度不佳 支付宝发布首页AQ广告下架整改的声明",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 15:41:50",
+    "uuid": "fd945e6d-bf3d-4603-adce-8cae30cb8eda"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "今年前三季度，全国铁路发送旅客35.4亿人次，同比增长6%，创历史同期新高，运输安全平稳有序。",
+    "id": "8nbgeLL6kkj",
+    "order": 1760945852776,
+    "createdAt": "2025-10-20T07:37:33.000Z",
+    "publishDate": "2025-10-20T07:37:32.776Z",
+    "title": "今年前三季度全国铁路发送旅客35.4亿人次，再创历史同期新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 15:37:33",
+    "uuid": "842620e1-5b70-4f4b-aff0-9c43790310ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌在Gemini API中正式集成“Google Maps关联功能”，并全面开放供开发者使用 ...",
+    "id": "8nbG8L8lZnI",
+    "order": 1760945774833,
+    "createdAt": "2025-10-20T07:36:15.000Z",
+    "publishDate": "2025-10-20T07:36:14.833Z",
+    "title": "谷歌Gemini API集成地图功能 赋能位置感知型AI应用开发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 15:36:15",
+    "uuid": "066c79a4-760a-45bf-b68c-c46381cc5aba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2025上半年全球智能眼镜市场出货量达406.5万台，同比增长64.2%，IDC预测2029年将突破4000万台，中国市场份额预计2024 - 2029年五年复合增长率达55.6% ...",
+    "id": "8nbRaZAxmld",
+    "order": 1760945559311,
+    "createdAt": "2025-10-20T07:32:41.000Z",
+    "publishDate": "2025-10-20T07:32:39.311Z",
+    "title": "IDC：全球智能眼镜市场2029年出货量将突破4000万",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 15:32:41",
+    "uuid": "17dddcca-4594-4b35-ac7e-5d574b96b02f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "财联社" }
@@ -33,6 +142,24 @@
     "up": false,
     "date": "2025-10-20 15:22:22",
     "uuid": "1f417889-6dc9-491e-bb9f-cf9573b3d7e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "A股三大指数集体上涨，截至收盘，上证指数涨0.63%，深证成指涨0.98%，创业板指涨1.98%，北证50跌0.25% ...",
+    "id": "8nbf7O2rUGZ",
+    "order": 1760945792481,
+    "createdAt": "2025-10-20T07:14:36.000Z",
+    "publishDate": "2025-10-20T07:36:32.481Z",
+    "title": "A股收评：创业板指涨1.98%，培育钻石、煤炭开采加工板块涨幅居前",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 15:14:36",
+    "uuid": "adf9abda-582b-4b9f-a31d-b9834854ed29"
   },
   {
     "newsArray": [
@@ -832,6 +959,29 @@
     "up": false,
     "date": "2025-10-20 11:45:23",
     "uuid": "be488f51-8e53-416b-9a3a-82fb779aa63b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "Counterpoint Research数据显示，iPhone 17系列在美国和中国上市前10天销量比iPhone 16系列高出14%，标准版iPhone 17需求远高于iPhone 16机型，分析师认为这得益于改进的显示屏、更大的存储空间和升级的A19芯片 ...",
+    "id": "8nbO13s1O6I",
+    "order": 1760945561997,
+    "createdAt": "2025-10-20T03:33:46.000Z",
+    "publishDate": "2025-10-20T07:32:41.997Z",
+    "title": "iPhone 17系列在中国和美国上市的前10天销量比iPhone 16系列高出14%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 11:33:46",
+    "uuid": "c66d9cc3-1adb-441d-b39c-be44b27fe6b6"
   },
   {
     "newsArray": [
