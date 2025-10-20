@@ -1,6 +1,61 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美股三大指数集体高开，道指涨0.44%，纳指涨0.75%，标普500指数涨0.56%。“人造肉第一股”Beyond Meat大涨58%，稀土概念股、加密货币概念股普涨。",
+    "id": "8nc6KmcRtFB",
+    "order": 1760967765589,
+    "createdAt": "2025-10-20T13:42:46.000Z",
+    "publishDate": "2025-10-20T13:42:45.589Z",
+    "title": "美股开盘：三大指数集体高开，Beyond Meat大涨58%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 21:42:46",
+    "uuid": "d76d6e64-e999-46b9-8fe2-f2458be2edf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "紫光国微在互动平台称，现有SoPC产品获核心客户认可，部分已批量供货，部分在客户导入阶段，部分正推进研发，同时大力开展新的SoPC产品研发及应用推广工作。",
+    "id": "8nc6I35NeuJ",
+    "order": 1760967749607,
+    "createdAt": "2025-10-20T13:42:30.000Z",
+    "publishDate": "2025-10-20T13:42:29.607Z",
+    "title": "紫光国微：SoPC部分产品已实现批量供货",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 21:42:30",
+    "uuid": "cb9bfe02-6c70-489d-8b8f-d55c4020a8ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "巴克莱将美光科技目标价从195美元上调至240美元。",
+    "id": "8nbrH7nt7ET",
+    "order": 1760967699844,
+    "createdAt": "2025-10-20T13:41:39.000Z",
+    "publishDate": "2025-10-20T13:41:39.844Z",
+    "title": "巴克莱：将美光科技目标价上调至240美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 21:41:39",
+    "uuid": "1cc1341e-661e-4782-bbf2-cd979174e2bc"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
