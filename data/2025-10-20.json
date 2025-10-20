@@ -1,6 +1,116 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" }
+    ],
+    "summary": "开勒股份10月20日公告，2025年第三季度营收1.02亿元，同比降8.99%，归母净利润1070.74万元，同比增95.56% ...",
+    "id": "8nbkA4t5w8k",
+    "order": 1760955854010,
+    "createdAt": "2025-10-20T10:24:15.000Z",
+    "publishDate": "2025-10-20T10:24:14.010Z",
+    "title": "开勒股份：第三季度归母净利润1070.74万元，同比增加95.56%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 18:24:15",
+    "uuid": "a0bc7e6f-a6db-48d0-8d11-b586980109d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "DeepSeek - AI 团队发布《DeepSeek - OCR：Contexts Optical Compression》论文，提出利用视觉模态压缩长文本上下文的新方法.该模型参数量为 3B，开源地址为 https://huggingface.co/deepseek - ai/DeepSeek - OCR 和 https://github.com/deepseek - ai/DeepSeek - OCR.它由核心编码器 DeepEncoder 和解码器 DeepSeek3B - MoE - A570M 组成，实验显示在不同压缩比下有较好的 OCR 精度，在 OmniDocBench 测试中表现优于其他模型，在实际生产中可在单块 A100 - 40G 显卡上每天生成超 20 万页大语言模型/视觉语言模型训练数据.",
+    "id": "8nbikNwJKfM",
+    "order": 1760955246444,
+    "createdAt": "2025-10-20T10:14:07.000Z",
+    "publishDate": "2025-10-20T10:14:06.444Z",
+    "title": "DeepSeek 团队发布最新开源模型 DeepSeek-OCR",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 18:14:07",
+    "uuid": "717666b7-47ff-4976-b0ca-de08cc3c5047"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "吉峰科技公告，持股5%以上股东王新明、王红艳及山南神宇计划15个交易日后的三个月内，以集中竞价交易、大宗交易方式合计减持不超1482.72万股（占总股本3%） ...",
+    "id": "8nbrGzxeFPu",
+    "order": 1760955205170,
+    "createdAt": "2025-10-20T10:13:27.000Z",
+    "publishDate": "2025-10-20T10:13:25.170Z",
+    "title": "吉峰科技：股东王新明等拟减持公司不超3%股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 18:13:27",
+    "uuid": "317dd5f8-26f8-419b-9473-c5161b911340"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "燕京啤酒(000729.SZ)公告2025年前三季度财报，实现营业收入134.33亿元，同比增长4.57%。净利润17.70亿元，同比增长37.45% ...",
+    "id": "8nbryYx9G5w",
+    "order": 1760955164387,
+    "createdAt": "2025-10-20T10:12:45.000Z",
+    "publishDate": "2025-10-20T10:12:44.387Z",
+    "title": "燕京啤酒：前三季度净利17.70亿元，同比增37.45%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 18:12:45",
+    "uuid": "044b712c-98f6-403a-abeb-c8e5dad16dc7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "科大讯飞公告，第三季度营业收入60.78亿元，同比增长10.02%。归母净利润1.72亿元，同比增长202.40%。",
+    "id": "8nbrgUwXZak",
+    "order": 1760955100225,
+    "createdAt": "2025-10-20T10:11:41.000Z",
+    "publishDate": "2025-10-20T10:11:40.225Z",
+    "title": "科大讯飞：第三季度净利润1.72亿元，同比增长202.40%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 18:11:41",
+    "uuid": "0151a82a-93ae-42c2-91aa-18da278c14b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉可能逐步取消向车主提供实体钥匙卡，因该配置极少被实际使用，多数用户更倾向用手机应用程序的“手机钥匙”功能 ...",
+    "id": "8nb65UKnd02",
+    "order": 1760954851041,
+    "createdAt": "2025-10-20T10:07:33.000Z",
+    "publishDate": "2025-10-20T10:07:31.041Z",
+    "title": "车主手册相关表述调整暗示，特斯拉拟取消随车标配实体钥匙卡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 18:07:33",
+    "uuid": "5bfd593a-2e57-456d-97a7-3e2dd8a3dce1"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "36Kr" },
@@ -344,6 +454,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "金融界" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "亚马逊云服务周一称其云服务运营出现问题，数百个网站和应用程序报告服务中断或故障。亚马逊工程师正控制影响范围并查明原因，28项服务受波及 ...",
+    "id": "8nblZEprsJR",
+    "order": 1760955667588,
+    "createdAt": "2025-10-20T09:24:56.000Z",
+    "publishDate": "2025-10-20T10:21:07.588Z",
+    "title": "亚马逊云服务出现故障 多款热门应用及网站受影响",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 17:24:56",
+    "uuid": "a97462ca-c42f-423b-be6d-923477a876d5"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -417,6 +545,24 @@
     "up": false,
     "date": "2025-10-20 17:14:54",
     "uuid": "f74aad9d-7d30-4dbe-910d-c90db913f670"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "尊界汽车微信公众号宣布因运营需要进行账号迁移，业务和功能将转移至新账号“尊界汽车”，账号名称不变，但主体由华为终端变更为江淮汽车 ...",
+    "id": "8nbjOMPzxGv",
+    "order": 1760955692889,
+    "createdAt": "2025-10-20T09:12:25.000Z",
+    "publishDate": "2025-10-20T10:21:32.889Z",
+    "title": "尊界汽车微信公众号账号迁移，主体由华为终端变更为江淮",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 17:12:25",
+    "uuid": "a01d6465-01c7-48b8-be7e-86eab63f0aa0"
   },
   {
     "newsArray": [
