@@ -1,6 +1,171 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "考虑到金价持续上涨对成本的影响，周大福集团计划在10月底提高定价黄金产品零售价格，多数产品提价幅度预计在12%-18%，该集团设有监测金价波动并适时调价的机制以应对市场变化。",
+    "id": "8nbOxDjt5AO",
+    "order": 1760931150079,
+    "createdAt": "2025-10-20T03:32:31.000Z",
+    "publishDate": "2025-10-20T03:32:30.079Z",
+    "title": "周大福：计划在10月底将大多数黄金产品涨价12%-18%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 11:32:31",
+    "uuid": "241048f1-e710-4cc4-b63c-689a883ea465"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "原本用于发送正规通知的1068开头短信号段被不法分子用于诈骗，该号段需企业依法向工信部申请获批后使用，严禁转让、出租等 ...",
+    "id": "8nb5N8vYXp7",
+    "order": 1760930060289,
+    "createdAt": "2025-10-20T03:14:22.000Z",
+    "publishDate": "2025-10-20T03:14:20.289Z",
+    "title": "1068号段被层层转租用于诈骗 六家企业被罚50万元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 11:14:22",
+    "uuid": "5833b6c7-eb89-45cc-98e9-c2f5de6efb4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "日本电商爱速客乐（ASKUL）因遭网络攻击感染“勒索病毒”致系统故障，暂停商品订单受理及出货业务，受影响平台包括面向法人的“ASKUL”和面向个人的“LOHACO”，此前已受理订单也将取消。",
+    "id": "8nbNfurMM4O",
+    "order": 1760929980718,
+    "createdAt": "2025-10-20T03:13:02.000Z",
+    "publishDate": "2025-10-20T03:13:00.718Z",
+    "title": "因遭网络攻击，日本电商爱速客乐暂停接单和出货",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 11:13:02",
+    "uuid": "ab6ce61b-8298-4867-bc22-e1d4492beaa3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "上海8批次土拍今日拉开帷幕，推出6宗分布于静安、徐汇、杨浦、宝山、松江的地块，总起价185亿元 ...",
+    "id": "8nbASWtGcdQ",
+    "order": 1760929915747,
+    "createdAt": "2025-10-20T03:11:57.000Z",
+    "publishDate": "2025-10-20T03:11:55.747Z",
+    "title": "上海八批次土拍开幕，6宗地起拍价185亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 11:11:57",
+    "uuid": "547b4152-7db4-479e-b854-6fe212c96cd2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国最大外送平台 DoorDash 宣布与谷歌 Waymo 合作，将 Waymo 无人驾驶出租车纳入外送服务，合作区域覆盖亚利桑那州菲尼克斯大都会区 816 公里范围 ...",
+    "id": "8nbJ11IzfRu",
+    "order": 1760929501569,
+    "createdAt": "2025-10-20T03:05:02.000Z",
+    "publishDate": "2025-10-20T03:05:01.569Z",
+    "title": "美国最大外卖平台DoorDash与谷歌Waymo合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 11:05:02",
+    "uuid": "b27877c8-1fc1-4a09-b662-849fc6b0a309"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "截至目前，10月20日ETF两市成交额超2500亿，达2503.38亿元，其中股票型ETF成交额702亿元，债券型ETF成交额968.19亿元，货币型ETF成交额238.56亿元，商品型ETF成交额108.92亿元，QDII型ETF成交额302.04亿元。",
+    "id": "8nbIGmoDQdk",
+    "order": 1760930457116,
+    "createdAt": "2025-10-20T03:04:47.000Z",
+    "publishDate": "2025-10-20T03:20:57.116Z",
+    "title": "ETF两市成交额超2500亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 11:04:47",
+    "uuid": "c93096a1-1bea-409c-bcbc-bdb018f867d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" },
+      { "siteName": "联商网" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "今晚8点，天猫双11开启现货销售，大促在官方立减85折基础上叠加无门槛9折消费券等多重权益 ...",
+    "id": "8nbLDygiDHK",
+    "order": 1760930463512,
+    "createdAt": "2025-10-20T02:44:31.000Z",
+    "publishDate": "2025-10-20T03:21:03.512Z",
+    "title": "天猫双11今晚8点正式开卖，多重优惠叠加创全年最低价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 10:44:31",
+    "uuid": "8ff6dd1b-c94f-4f4b-89d7-2b3858f5c995"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "谈及远征系列机器人出货量及未来规划，智元机器人王闯称，远征系列共出货约1000台，明年可能达几千台，智元已是全球人形机器人出货量最大企业，甚至超马斯克 ...",
+    "id": "8nbJg0lvZtP",
+    "order": 1760930483006,
+    "createdAt": "2025-10-20T02:43:14.000Z",
+    "publishDate": "2025-10-20T03:21:23.006Z",
+    "title": "智元机器人合伙人王闯：智元是全球人形机器人里出货量最大的企业 今年营收或增超10倍",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 10:43:14",
+    "uuid": "6776cb64-7463-4e6a-9584-aa0da88cf8a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "阿里巴巴 - W(09988)涨超4%，截至发稿涨4.02%，报160.6港元，成交额28.92亿港元 ...",
+    "id": "8nbJ3DKXl43",
+    "order": 1760930591871,
+    "createdAt": "2025-10-20T02:35:49.000Z",
+    "publishDate": "2025-10-20T03:23:11.871Z",
+    "title": "阿里巴巴涨超 4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 10:35:49",
+    "uuid": "2174a4a4-bfbb-4521-b492-3f33abc568ec"
+  },
+  {
+    "newsArray": [
       { "siteName": "开源中国" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -604,5 +769,23 @@
     "up": false,
     "date": "2025-10-20 03:12:04",
     "uuid": "3a767a5c-d2a9-41ea-835b-231625e6afdd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "近日，小米集团在10月市场体系全员会上宣布，魏思琪接任中国区市场部总经理一职，此前其微博账号已认证相关职务 ...",
+    "id": "8nZc1ZviZ1U",
+    "order": 1760930690834,
+    "createdAt": "2025-10-19T18:02:14.000Z",
+    "publishDate": "2025-10-20T03:24:50.834Z",
+    "title": "魏思琪接任小米中国区市场部总经理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-20 02:02:14",
+    "uuid": "9c6a42ff-9268-4b15-aca1-38b577400eed"
   }
 ]
