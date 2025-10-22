@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "投行PIPER SANDLER将可口可乐目标价从80美元上调至81美元。",
+    "id": "8nejFD9Rj2P",
+    "order": 1761105233042,
+    "createdAt": "2025-10-22T03:53:53.000Z",
+    "publishDate": "2025-10-22T03:53:53.042Z",
+    "title": "PIPER SANDLER上调可口可乐目标价至81美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 11:53:53",
+    "uuid": "fbe7469e-ebed-4042-b95c-4d744045b649"
+  },
+  {
+    "newsArray": [
+      { "siteName": "环球网科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "菜鸟加速布局拉美市场，2025年第三季度其拉美全链路产品日均包裹单量呈三位数环比增长，巴西、墨西哥等人口大国增长显著。",
+    "id": "8negPJkP4Q7",
+    "order": 1761105087920,
+    "createdAt": "2025-10-22T03:51:28.000Z",
+    "publishDate": "2025-10-22T03:51:27.920Z",
+    "title": "菜鸟拉美市场三季度单量实现三位数环比增长",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 11:51:28",
+    "uuid": "3f2079d9-dcc8-475d-aafa-6552d3423e00"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2025年1 - 9月，汽车销量排名前十的企业（集团）共销售2043.1万辆，占销售总量的83.9%。十家企业中，东风公司和广汽集团销量下降，其他企业增长。",
+    "id": "8nejwWCHrf4",
+    "order": 1761104928188,
+    "createdAt": "2025-10-22T03:46:28.000Z",
+    "publishDate": "2025-10-22T03:48:48.188Z",
+    "title": "中汽协：1-9月汽车销量排名前十企业共销售2043.1万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 11:46:28",
+    "uuid": "96e4a913-b715-4b32-aa9a-3164fd2db5b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "恒生科技指数午盘前持续下挫，跌幅超2%，网易跌超5%领跌成分股。",
+    "id": "8nebLZBBDSa",
+    "order": 1761104775231,
+    "createdAt": "2025-10-22T03:46:15.000Z",
+    "publishDate": "2025-10-22T03:46:15.231Z",
+    "title": "恒生科技指数午盘前持续下挫跌超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 11:46:15",
+    "uuid": "f6de6f51-b689-4dfb-a7fe-dc0342906434"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "电动邦" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "柳州五菱新能源汽车有限公司的新品牌埃尚汽车发布首款车型埃尚 A100C，同时公布 iSee 猎装概念车 ...",
+    "id": "8ndem9UJyIy",
+    "order": 1761104110835,
+    "createdAt": "2025-10-22T03:35:10.000Z",
+    "publishDate": "2025-10-22T03:35:10.835Z",
+    "title": "柳州五菱“埃尚汽车”iSee 猎装概念车首次亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 11:35:10",
+    "uuid": "d6fcd64f-b60a-4f6c-b615-440f83c91b3d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "除发布首款 XR 头显外，三星宣布将推出 AI 眼镜，正与谷歌及时尚眼镜品牌 Gentle Monster、Warby Parker 合作开发 ...",
+    "id": "8neewMWR643",
+    "order": 1761104063087,
+    "createdAt": "2025-10-22T03:34:23.000Z",
+    "publishDate": "2025-10-22T03:34:23.087Z",
+    "title": "三星官宣 AI 眼镜计划：搭载 Android XR 系统，集成 Gemini AI",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 11:34:23",
+    "uuid": "826c7f73-6d4a-4ad0-8d9e-16918c467a13"
+  },
+  {
+    "newsArray": [
       { "siteName": "量子位" },
       { "siteName": "猎云网" },
       { "siteName": "量子位" }
@@ -15,6 +119,27 @@
     "up": false,
     "date": "2025-10-22 11:24:10",
     "uuid": "5362fb6f-24f7-400c-9be6-d4c874808452"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "品玩" },
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "爱彼迎Airbnb CEO布莱恩·切斯基称公司正“大量依赖阿里巴巴的通义千问模型”，认为其比OpenAI更好更便宜，也会用OpenAI最新模型，但通常不在生产环境大量使用，因有更快更便宜的模型可选。",
+    "id": "8neh7enVRSd",
+    "order": 1761104087469,
+    "createdAt": "2025-10-22T03:23:28.000Z",
+    "publishDate": "2025-10-22T03:34:47.469Z",
+    "title": "Airbnb CEO：阿里通义千问比OpenAI更好更便宜",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 11:23:28",
+    "uuid": "00f6c919-6b95-4b9f-8ec5-485c481ba4c6"
   },
   {
     "newsArray": [
@@ -261,6 +386,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "联商网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "在不到一年的时间里，养乐多二次关闭工厂。此次日本养乐多本社宣布启动关闭广州养乐多第一工厂程序，11月30日正式关闭，其生产功能将转移至广州二厂及佛山厂，以优化生产系统 ...",
+    "id": "8ndZ450hAAo",
+    "order": 1761105270811,
+    "createdAt": "2025-10-22T02:17:34.000Z",
+    "publishDate": "2025-10-22T03:54:30.811Z",
+    "title": "养乐多将关闭在华首家工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 10:17:34",
+    "uuid": "76c046bb-38af-4e11-8223-9bf76a2b3f62"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "新浪科技" },
@@ -330,6 +473,25 @@
     "up": false,
     "date": "2025-10-22 10:04:54",
     "uuid": "97c57903-e036-4671-896e-f6f14bf21771"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "10月21日，胖东来创始人于东来宣布，明年将联合联商学院正式启动高端研学计划，每年组织2 - 3次为期两天的交流活动，招收十个以内企业家，单人费用100万元，收入用于“传播美好之路” ...",
+    "id": "8ndqxvNm7hD",
+    "order": 1761104931467,
+    "createdAt": "2025-10-22T01:58:07.000Z",
+    "publishDate": "2025-10-22T03:48:51.467Z",
+    "title": "100万元/人，于东来宣布：启动胖东来高端研学",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 09:58:07",
+    "uuid": "1c3b8504-31a5-47cb-8838-7d8f042eb53a"
   },
   {
     "newsArray": [
@@ -494,6 +656,24 @@
     "up": false,
     "date": "2025-10-22 08:27:52",
     "uuid": "c5a49482-f43c-4540-baef-dadfe07b57ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "云数据管理公司威睿软件将以约 17.3 亿美元收购数据隐私管理软件开发商 Securiti AI，交易预计今年第四季度完成 ...",
+    "id": "8ndo69F3QXf",
+    "order": 1761104198020,
+    "createdAt": "2025-10-22T00:07:37.000Z",
+    "publishDate": "2025-10-22T03:36:38.020Z",
+    "title": "云数据公司威睿拟以17.3亿美元收购Securiti AI公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 08:07:37",
+    "uuid": "963a9cfa-37a5-40e0-94a4-8ed4ba635f2c"
   },
   {
     "newsArray": [
