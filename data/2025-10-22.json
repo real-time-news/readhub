@@ -1,6 +1,152 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日经225指数日内跌幅达1%。",
+    "id": "8neVg3tOnK1",
+    "order": 1761094163976,
+    "createdAt": "2025-10-22T00:49:23.000Z",
+    "publishDate": "2025-10-22T00:49:23.976Z",
+    "title": "日经225指数日内跌幅达1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 08:49:23",
+    "uuid": "f5904439-a086-4edb-b318-b539e3760e75"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "近日，亚马逊 AWS 在美国东部 us-east-1 区域遭遇严重故障，致使全球数百个互联网服务瘫痪，ChatGPT 等受影响，故障报告超 650 万份 ...",
+    "id": "8ndCstStMAr",
+    "order": 1761093817066,
+    "createdAt": "2025-10-22T00:43:37.000Z",
+    "publishDate": "2025-10-22T00:43:37.066Z",
+    "title": "亚马逊 AWS 宕机，ChatGPT 等数百个服务 “瘫痪”，互联网受重创",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 08:43:37",
+    "uuid": "bd1c1c33-3c39-4edb-9a32-8d4c4d8b0082"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "研报指出，当前市场中“好房子”销售去化优于平均，产品力突出的房企或获更好销售转化与稳健现金流，强化投资能力，形成正循环。产品力或成房企穿越周期的核心竞争力之一，重塑竞争格局 ...",
+    "id": "8neWOQKnDe6",
+    "order": 1761093484260,
+    "createdAt": "2025-10-22T00:38:04.000Z",
+    "publishDate": "2025-10-22T00:38:04.260Z",
+    "title": "华泰证券：“好房子”或赋予房企新的增长逻辑，继续推荐“三好”房企",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 08:38:04",
+    "uuid": "1aefb02a-0adf-47ca-9aa8-b0fe8055333d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "日本财务省10月22日公布的2025上半年度（4至9月）贸易统计初值显示，对美出口额为9.7115万亿日元（约合人民币4560亿元），较上年同期减少10.2%。",
+    "id": "8neVi6qv7NI",
+    "order": 1761093783367,
+    "createdAt": "2025-10-22T00:37:38.000Z",
+    "publishDate": "2025-10-22T00:43:03.367Z",
+    "title": "日本上半年度对美出口额同比减少10.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 08:37:38",
+    "uuid": "f43da1a0-3f04-4353-b77c-3675e42f0426"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "10月20日北京国际风能大会开幕，千余家风能企业代表发布《风能北京宣言2.0》，目标“十五五”/“十六五”国内风电年均新增装机不低于120/140GW，夯实产业信心 ...",
+    "id": "8neWNOH7nfI",
+    "order": 1761093172810,
+    "createdAt": "2025-10-22T00:32:52.000Z",
+    "publishDate": "2025-10-22T00:32:52.810Z",
+    "title": "华泰证券：《风能北京宣言2.0》发布，夯实国内风电需求预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 08:32:52",
+    "uuid": "e0bf079a-31e6-49ad-8660-80b2ae39d554"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "M5 芯片版苹果 Vision Pro 头显今日发售，国行定价 29999 元起。新款在功能上无显著革新，生产有重要调整，其在越南组装，首款搭载 M2 芯片的最初在中国生产 ...",
+    "id": "8nePWiRsxHo",
+    "order": 1761092947650,
+    "createdAt": "2025-10-22T00:29:07.000Z",
+    "publishDate": "2025-10-22T00:29:07.650Z",
+    "title": "2025 款 M5 芯片苹果 Vision Pro 头显生产转移至越南",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 08:29:07",
+    "uuid": "d56ed1c8-ccbb-4880-9d98-cad22433582a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "医药魔方" },
+      { "siteName": "创业邦" }
+    ],
+    "summary": "近日，海博为药业成功完成超2亿元人民币B轮融资，由华盖资本领投，元生资本等机构跟投，老股东信成基金持续加码，浩悦资本担任独家财务顾问，融资将用于核心管线临床研究及多条临床前管线推进。",
+    "id": "8neUuhyYrCK",
+    "order": 1761092891030,
+    "createdAt": "2025-10-22T00:28:12.000Z",
+    "publishDate": "2025-10-22T00:28:11.030Z",
+    "title": "“海博为药业”完成逾2亿元B轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 08:28:12",
+    "uuid": "4b16f3e7-4706-4548-9470-b5b1981ecec4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近日，乐聚机器人公司完成近15亿元Pre - IPO轮融资，由多家机构联合投资。本轮融资将用于强化核心技术研发、深化产业链布局、完善产业场景应用，推动人形机器人迈向新阶段 ...",
+    "id": "8neUHYlk01C",
+    "order": 1761092872618,
+    "createdAt": "2025-10-22T00:27:52.000Z",
+    "publishDate": "2025-10-22T00:27:52.618Z",
+    "title": "乐聚机器人宣布完成近15亿元Pre-IPO轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 08:27:52",
+    "uuid": "c5a49482-f43c-4540-baef-dadfe07b57ee"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -162,6 +308,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近期基金发行升温，新发产品数量、募集份额提升，认购期限大幅缩短，形成“发行热、资金进、市场强”正向循环 ...",
+    "id": "8neS826xRiD",
+    "order": 1761093782315,
+    "createdAt": "2025-10-21T23:42:10.000Z",
+    "publishDate": "2025-10-22T00:43:02.315Z",
+    "title": "公募基金加速上新，正向循环逐步形成",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 07:42:10",
+    "uuid": "b3bfaf3f-bb9a-476d-94f5-1dbff854838d"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
@@ -247,6 +412,28 @@
     "up": false,
     "date": "2025-10-22 07:26:30",
     "uuid": "8b77a2b1-1ff0-4186-ab51-0f5ed10ba547"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "乘股市回暖东风，逾九成保险资管产品年内正收益。10月以来已披露净值的1583只产品中，1468只实现正收益，占比92.7%。权益类产品表现亮眼，今年以来平均回报率28% ...",
+    "id": "8neOeCGXfS6",
+    "order": 1761093485676,
+    "createdAt": "2025-10-21T23:22:46.000Z",
+    "publishDate": "2025-10-22T00:38:05.676Z",
+    "title": "乘股市回暖东风 逾九成保险资管产品年内实现正收益",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-22 07:22:46",
+    "uuid": "101cfad0-b3c1-40ff-a794-03ecb8c386e9"
   },
   {
     "newsArray": [
