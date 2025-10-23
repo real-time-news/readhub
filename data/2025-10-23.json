@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "北京时间 10 月 23 日，特斯拉发布 2025 年第三季度财报，总收入同比增长 12% 达 281 亿美元，自由现金流 40 亿美元，均创纪录 ...",
+    "id": "8ngEoiZKPtV",
+    "order": 1761204490547,
+    "createdAt": "2025-10-23T07:28:10.000Z",
+    "publishDate": "2025-10-23T07:28:10.547Z",
+    "title": "马斯克放话：特斯拉已掌握现实世界 AI 全部要素",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-23 15:28:10",
+    "uuid": "08658dce-bdd1-43c0-a0ec-4910805627dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌推出全新学习平台“Google Skills”，旨在弥合 AI 领域技能鸿沟，将旗下顶尖团队内部实训资源开放给全球公众 ...",
+    "id": "8ngaHkUoEmy",
+    "order": 1761204302621,
+    "createdAt": "2025-10-23T07:25:02.000Z",
+    "publishDate": "2025-10-23T07:25:02.621Z",
+    "title": "谷歌推出“Google Skills”平台，内部 AI 知识向公众免费开放",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-23 15:25:02",
+    "uuid": "c41e0cef-4ee1-4d73-bc6c-bd05f0c13487"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "36Kr" },
       { "siteName": "界面" },
