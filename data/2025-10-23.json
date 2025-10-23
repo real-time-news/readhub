@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "国际油价持续上涨，WTI原油涨5.03%，报61.440美元/桶。布伦特原油涨4.91%，报65.661美元/桶。",
+    "id": "8ngkoGPHv7Z",
+    "order": 1761210775386,
+    "createdAt": "2025-10-23T09:12:55.000Z",
+    "publishDate": "2025-10-23T09:12:55.386Z",
+    "title": "国际油价持续上涨，WTI原油涨5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-23 17:12:55",
+    "uuid": "24549604-3a1c-4718-816a-6683f388c223"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果正开发名为 AppMigrationKit 的新框架，旨在打破 iOS 与安卓生态间的数据壁垒，简化第三方应用数据迁移 ...",
+    "id": "8ngjAJubm1N",
+    "order": 1761210712918,
+    "createdAt": "2025-10-23T09:11:53.000Z",
+    "publishDate": "2025-10-23T09:11:52.918Z",
+    "title": "苹果 iOS 26.1 将推新框架：App 数据可从 iPhone 17 等迁移到安卓手机",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-23 17:11:53",
+    "uuid": "d6bb74a9-2e70-440f-a265-8eb90b23151c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "投资界" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "企业智能体公司元理智能近日完成800万美元种子轮融资，由蓝驰创投领投，光源创业者基金跟投 ...",
+    "id": "8ngkbbyWMh5",
+    "order": 1761210364638,
+    "createdAt": "2025-10-23T09:06:04.000Z",
+    "publishDate": "2025-10-23T09:06:04.638Z",
+    "title": "元理智能完成800万美元种子轮融资，聚焦商业强化学习打造企业级智能体",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-23 17:06:04",
+    "uuid": "2f748b91-d630-4537-af87-24bdd535c7c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国际油价涨幅持续扩大，布伦特原油期货涨4.46%，突破65美元/桶，WTI原油期货涨4.67%。",
+    "id": "8ngSQNU5Oxx",
+    "order": 1761210340920,
+    "createdAt": "2025-10-23T09:05:40.000Z",
+    "publishDate": "2025-10-23T09:05:40.920Z",
+    "title": "国际油价涨幅持续扩大 布油突破65美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-23 17:05:40",
+    "uuid": "c5a09d71-ec0f-4007-8997-a2a64808b0ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "中颖电子发布2025年第三季度报告，前三季度营收9.67亿元，同比降1.13%。净利润5704.63万元，同比降36.59%。",
+    "id": "8ngkzM7wttd",
+    "order": 1761210312454,
+    "createdAt": "2025-10-23T09:05:12.000Z",
+    "publishDate": "2025-10-23T09:05:12.454Z",
+    "title": "中颖电子：前三季度净利润同比下降36.59%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-23 17:05:12",
+    "uuid": "f5b0147a-705c-4625-b80d-5c01a90f43d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "广大特材(688186.SH)发布2025年第三季度报告，第三季度营收12.40亿元，同比增15.03%，归母净利润6367.00万元，同比增74.27% ...",
+    "id": "8ngljgwRaCk",
+    "order": 1761210236443,
+    "createdAt": "2025-10-23T09:03:56.000Z",
+    "publishDate": "2025-10-23T09:03:56.443Z",
+    "title": "广大特材：Q3净利6367.00万元，同比增74.27%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-23 17:03:56",
+    "uuid": "95960e4f-9b59-4641-bf81-f3b06413ed5b"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -1547,6 +1651,25 @@
     "up": false,
     "date": "2025-10-23 11:43:17",
     "uuid": "91599a35-3957-4703-ab5a-da65ca4b9bf8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "金沙中国有限公司（01928）公告显示，按美国公认会计原则，2025年第三季净收益总额较2024年第三季增加7.5%至19亿美元 ...",
+    "id": "8ngBJuht1Bk",
+    "order": 1761210196024,
+    "createdAt": "2025-10-23T03:32:29.000Z",
+    "publishDate": "2025-10-23T09:03:16.024Z",
+    "title": "金沙中国有限公司第三季净收益总额同比增加7.5%至19亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-23 11:32:29",
+    "uuid": "3307b286-8ddb-48a7-8a7e-4710aa59ba6d"
   },
   {
     "newsArray": [
