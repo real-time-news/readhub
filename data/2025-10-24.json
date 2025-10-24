@@ -1,6 +1,93 @@
 [
   {
     "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "韩国两大半导体巨头三星电子与SK海力士总市值首次突破千万亿韩元大关，合计达1019.535万亿韩元（约合人民币5.05万亿元） ...",
+    "id": "8niI4ELGiqV",
+    "order": 1761298414304,
+    "createdAt": "2025-10-24T09:33:34.000Z",
+    "publishDate": "2025-10-24T09:33:34.304Z",
+    "title": "三星电子与SK海力士市值破千万亿韩元 营收也创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-24 17:33:34",
+    "uuid": "65dc4583-df39-4fc6-88e8-1c61e6ec3c6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "万华化学公告，2025年前三季度营收1442.26亿元，同比降2.29%。净利润91.57亿元，同比降17.45% ...",
+    "id": "8niS3kHdEHX",
+    "order": 1761298093403,
+    "createdAt": "2025-10-24T09:28:13.000Z",
+    "publishDate": "2025-10-24T09:28:13.403Z",
+    "title": "万华化学：前三季度净利润同比下降17.45%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-24 17:28:13",
+    "uuid": "8b359a7c-9e95-46c8-b588-42e4ec7a8af7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中国互联网协会发布《推动互联网平台互通互操作自律公约》，得到相关单位积极响应 ...",
+    "id": "8niRedxZQgQ",
+    "order": 1761298040307,
+    "createdAt": "2025-10-24T09:27:20.000Z",
+    "publishDate": "2025-10-24T09:27:20.307Z",
+    "title": "国内 61 家企业签署公约，推动互联网平台互通互操作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-24 17:27:20",
+    "uuid": "d4fca69d-8abc-4c89-97b2-a0e2dd657dd6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "厦门钨业10月24日公告，2025年第三季度营收128.23亿元，同比增39.27%，归母净利润8.1亿元，同比增109.85% ...",
+    "id": "8niQipNu5ao",
+    "order": 1761298027850,
+    "createdAt": "2025-10-24T09:27:07.000Z",
+    "publishDate": "2025-10-24T09:27:07.850Z",
+    "title": "厦门钨业：第三季度归母净利润8.1亿元，同比增加109.85%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-24 17:27:07",
+    "uuid": "65e660be-88a8-4dbd-890a-ce3ddfa92364"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "北汽蓝谷公告，第三季度营收58.67亿元，同比降3.45%，净利润亏损11.18亿元。前三季度营收153.84亿元，同比增56.69%，净利润亏损34.26亿元。",
+    "id": "8niRJRgWOul",
+    "order": 1761297925856,
+    "createdAt": "2025-10-24T09:23:45.000Z",
+    "publishDate": "2025-10-24T09:25:25.856Z",
+    "title": "北汽蓝谷：第三季度净利润亏损11.18亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-24 17:23:45",
+    "uuid": "de1445fb-0423-4474-8556-efcaf3db3797"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -244,6 +331,24 @@
     "up": false,
     "date": "2025-10-24 16:49:30",
     "uuid": "9dad64d1-fa1f-42c2-b098-b3e066a39ff0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日前，教育部印发通知出台《进一步加强中小学生心理健康工作十条措施》 ...",
+    "id": "8nhxqxEnglj",
+    "order": 1761298095304,
+    "createdAt": "2025-10-24T08:44:53.000Z",
+    "publishDate": "2025-10-24T09:28:15.304Z",
+    "title": "教育部：严禁将手机等电子产品带入课堂 推广应用未成年人模式",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-24 16:44:53",
+    "uuid": "6310255e-feb3-4772-9b7d-a2fb4b5ba381"
   },
   {
     "newsArray": [
