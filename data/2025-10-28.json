@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "制药公司欧加隆宣布首席执行官黎恺文（Kevin Ali）将辞职，当天其股价暴跌23%，辞职原因是公司对向批发商销售避孕产品Nexplanon的内部调查发现存在“不当行为”。",
+    "id": "8nnu9fHhQtS",
+    "order": 1761582233454,
+    "createdAt": "2025-10-27T16:23:56.000Z",
+    "publishDate": "2025-10-27T16:23:53.454Z",
+    "title": "欧加隆首席执行官黎恺文将辞职",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 00:23:56",
+    "uuid": "f68091d7-14f4-4476-9967-ecb2ab501ef6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "伦敦证券交易所集团宣布与Anthropic合作，助企业客户更便捷将更多金融数据接入Claude人工智能平台。",
+    "id": "8nntRFQYFI7",
+    "order": 1761581512819,
+    "createdAt": "2025-10-27T16:11:57.000Z",
+    "publishDate": "2025-10-27T16:11:52.819Z",
+    "title": "伦敦证券交易所集团与Anthropic宣布合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 00:11:57",
+    "uuid": "1b9c41b2-9197-4226-b289-5f0f64c13f78"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
