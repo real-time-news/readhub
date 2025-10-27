@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "近期，公募基金发行市场呈“量减效增”格局。本周（10月27日至11月2日）新发行25只公募产品，较前一周的30只下降16.67% ...",
+    "id": "8noMeOzBbrE",
+    "order": 1761606811700,
+    "createdAt": "2025-10-27T23:12:12.000Z",
+    "publishDate": "2025-10-27T23:13:31.700Z",
+    "title": "本周25只新基启动发行，权益类占八成",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 07:12:12",
+    "uuid": "a14ea64f-04f5-4169-a4ec-8c9d208f4d64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "恩智浦三季度营收31.7亿美元，略高于分析师预期的31.6亿美元。三季度调整后自由现金流为5.09亿美元，低于预期的7.62亿美元 ...",
+    "id": "8noBwY3yiTk",
+    "order": 1761606695681,
+    "createdAt": "2025-10-27T23:11:35.000Z",
+    "publishDate": "2025-10-27T23:11:35.681Z",
+    "title": "恩智浦三季度营收31.7亿美元 略高于市场预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 07:11:35",
+    "uuid": "e6392f11-6bd4-40bb-83aa-6e6314e953ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "去年，美国地区法官伊冯娜・冈萨雷斯・罗杰斯批准针对苹果公司垄断 iPhone 应用市场行为的集体诉讼，今天她推翻此前裁决 ...",
+    "id": "8noDKDPXric",
+    "order": 1761606180769,
+    "createdAt": "2025-10-27T23:03:00.000Z",
+    "publishDate": "2025-10-27T23:03:00.769Z",
+    "title": "苹果 App Store 垄断案再反转：美国法官推翻集体诉讼认证",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 07:03:00",
+    "uuid": "2e23a2e1-6e23-44fd-b64f-3b1d61000e46"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "10月27日收盘，美股三大指数集体上涨，道指涨0.71%，纳指涨1.86%，标普500指数涨1.23%。大型科技股多数上涨，奈飞小幅下跌。热门中概股多数走强，理想汽车跌超1%。",
+    "id": "8nnrwr9vnwq",
+    "order": 1761606165465,
+    "createdAt": "2025-10-27T23:02:46.000Z",
+    "publishDate": "2025-10-27T23:02:45.465Z",
+    "title": "美股三大指数集体收涨，特斯拉涨超4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 07:02:46",
+    "uuid": "2f6b96b2-1a9f-4a66-bd17-35d5d7dffec4"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
