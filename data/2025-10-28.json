@@ -1,6 +1,120 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "新东方在港交所公告，2026财年第一季度净营收15.23亿美元，同比上升6.1%。股东应占净利润2.41亿美元，同比下降1.9%。",
+    "id": "8np8bkv5TpM",
+    "order": 1761648325265,
+    "createdAt": "2025-10-28T10:45:25.000Z",
+    "publishDate": "2025-10-28T10:45:25.265Z",
+    "title": "新东方：第一财季股东应占净利润同比下降1.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 18:45:25",
+    "uuid": "e240cb0f-8244-4e8f-a4b6-127a69752e4d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "当地时间28日，俄罗斯国家杜马议员证实实行全年征兵制度的法案获三读最终通过，自2026年1月1日起，征兵注册工作将全年进行，春、秋两季派遣应征士兵。",
+    "id": "8npB3Ef0cay",
+    "order": 1761648227598,
+    "createdAt": "2025-10-28T10:43:47.000Z",
+    "publishDate": "2025-10-28T10:43:47.598Z",
+    "title": "俄通过实行全年征兵制法案 将于2026年正式实施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 18:43:47",
+    "uuid": "74a7b3e4-a23c-4175-81e6-a9311fc6c455"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "贝宝（PayPal）宣布与 OpenAI 达成协议，将成为首个整合进 ChatGPT 的数字钱包服务，受此消息影响，PayPal 盘前一度暴涨 14% ...",
+    "id": "8npAgQ7Ih6O",
+    "order": 1761648202593,
+    "createdAt": "2025-10-28T10:43:22.000Z",
+    "publishDate": "2025-10-28T10:43:22.593Z",
+    "title": "PayPal 与 OpenAI 达成合作，成为首个 ChatGPT 数字钱包",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 18:43:22",
+    "uuid": "bfcb7769-024a-4db6-bfe6-232e7810d889"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "十四届全国人大常委会第五十五次委员长会议28日下午在北京人民大会堂举行，赵乐际主持 ...",
+    "id": "8npAjkQqGiI",
+    "order": 1761647909186,
+    "createdAt": "2025-10-28T10:38:29.000Z",
+    "publishDate": "2025-10-28T10:38:29.186Z",
+    "title": "十四届全国人大常委会举行第五十五次委员长会议 决定将海商法修订草案等交付常委会会议表决",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 18:38:29",
+    "uuid": "a80df173-de6b-4aae-bc12-c3b57d434f06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "十四届全国人大常委会第五十五次委员长会议28日下午在北京举行，赵乐际主持 ...",
+    "id": "8npAjovaMRh",
+    "order": 1761647895864,
+    "createdAt": "2025-10-28T10:38:15.000Z",
+    "publishDate": "2025-10-28T10:38:15.864Z",
+    "title": "十四届全国人大常委会举行第五十五次委员长会议 决定将海商法修订草案等交付常委会会议表决",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 18:38:15",
+    "uuid": "1c35bbb8-21da-4091-906c-72dafb8d7a05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中兴通讯公告，第三季度营收289.67亿元，同比增长5.11%，净利润2.64亿元，同比下降87.84% ...",
+    "id": "8npAgCZfELM",
+    "order": 1761647853488,
+    "createdAt": "2025-10-28T10:37:33.000Z",
+    "publishDate": "2025-10-28T10:37:33.488Z",
+    "title": "中兴通讯：第三季度净利2.64亿元 同比下降87.84%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-28 18:37:33",
+    "uuid": "85639c68-90ae-456a-bb63-efb79a6ec706"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
