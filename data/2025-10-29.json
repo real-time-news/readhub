@@ -1,6 +1,174 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "中华网" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "神舟二十一号载人飞船发射任务组织全区合练，各系统完成相关功能检查，做好发射前准备。中国空间站即将进入交会对接轨道，神舟二十号航天员乘组进行手控交会对接演练，迎接神舟二十一号飞船。",
+    "id": "8noaDlFwXMu",
+    "order": 1761711725673,
+    "createdAt": "2025-10-29T04:22:06.000Z",
+    "publishDate": "2025-10-29T04:22:05.673Z",
+    "title": "神舟二十一号发射在即 各系统准备就绪",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 12:22:06",
+    "uuid": "d371e6d4-fb6e-4bc7-8222-183d133b0b53"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "美国谷歌公司公布计划，将重启艾奥瓦州一座2020年已关闭的杜安·阿诺德能源中心核电站，2029年重新运营，双方签了为期25年电力采购协议，为其人工智能（AI）基础设施供电，以满足谷歌在该州云和AI基础设施不断增长的电力需求 ...",
+    "id": "8npYGVOkps0",
+    "order": 1761711706635,
+    "createdAt": "2025-10-29T04:21:46.000Z",
+    "publishDate": "2025-10-29T04:21:46.635Z",
+    "title": "谷歌宣布重启一核电站为AI基础设施供电",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 12:21:46",
+    "uuid": "3b58c949-c02b-470d-8047-1067d9b0cba8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌发布人工智能营销自动化工具 Pomelli，它具备基于多模态深度学习算法的智能解析能力与自然语言实时交互编辑系统，核心功能是智能分析，用户提供公司网站链接，系统就能精准捕捉并模仿品牌风格语气，生成高质量营销内容，颠覆传统营销素材准备阶段，主要应用于中小企业及初创企业的定制化营销内容生成。",
+    "id": "8nqLa3RJvf9",
+    "order": 1761711549009,
+    "createdAt": "2025-10-29T04:19:10.000Z",
+    "publishDate": "2025-10-29T04:19:09.009Z",
+    "title": "谷歌发布 AI 营销工具 Pomelli，提供高效、低门槛的解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 12:19:10",
+    "uuid": "690c555f-d205-4e9a-b753-98c735c26d98"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间28日，俄罗斯联邦安全会议秘书绍伊古表示，乌克兰对俄境内目标发动无人机袭击，能成功命中目标的不足1%，来自乌的无人机袭击风险显著增加，规模达动辄数百架，但仅造成局部损失，未带来实质性破坏，修复工作可迅速完成，不足以对俄能源系统构成严重威胁 ...",
+    "id": "8nqNjvcmNb2",
+    "order": 1761711241504,
+    "createdAt": "2025-10-29T04:14:01.000Z",
+    "publishDate": "2025-10-29T04:14:01.504Z",
+    "title": "俄称能击中俄境内目标的乌克兰无人机不足1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 12:14:01",
+    "uuid": "a57fb123-b15a-4363-b5c2-cb7332525a76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "IBM 发布 Granite 4.0 Nano 系列 AI 模型，用于物联网边缘计算及全场景本地化部署 ...",
+    "id": "8nqBYN6k8Io",
+    "order": 1761710847202,
+    "createdAt": "2025-10-29T04:07:27.000Z",
+    "publishDate": "2025-10-29T04:07:27.202Z",
+    "title": "IBM 发布 Nano 级 Granite 4.0 AI 模型组，以 15 亿参数实现性能倒挂突破",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 12:07:27",
+    "uuid": "8c3eac35-bb7d-4cf6-8844-d89843a64281"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "近日，由中国信通院牵头，联合华为、OPPO、vivo撰写的标准L.1004《移动终端通用快速充电解决方案》通过国际电信联盟电信标准化部门第五研究组审议并正式发布，这是ITU首次制定的全球通用快速充电标准，我国自主创新的快速充电方案在“方案的最佳实践”部分作为全球唯一案例被推荐。",
+    "id": "8nqJRXL6MvF",
+    "order": 1761710736672,
+    "createdAt": "2025-10-29T04:05:36.000Z",
+    "publishDate": "2025-10-29T04:05:36.672Z",
+    "title": "中国快充方案成为全球标准 在国际电信联盟成功发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 12:05:36",
+    "uuid": "9836aaab-8709-4f96-bda2-0a4b0c1cce71"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "交通运输部科技司司长徐文强表示，加速场景创新应用是开展“人工智能+交通运输”行动的核心抓手，交通运输部将以场景应用为牵引、技术创新为驱动，从两个层面发力，推动人工智能技术在交通运输领域规模化创新应用。",
+    "id": "8nqNk9CyEWc",
+    "order": 1761711098049,
+    "createdAt": "2025-10-29T04:05:15.000Z",
+    "publishDate": "2025-10-29T04:11:38.049Z",
+    "title": "交通运输部：系统推动人工智能技术在交通运输领域规模化创新应用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 12:05:15",
+    "uuid": "77eb9f13-3351-4b3d-a066-c9ae4d5ec687"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "中国科技网" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "密码是数字时代的无声卫士，守护通信隐私、保障系统安全，但日常生活中一些看似“省事”“方便”的行为正侵蚀这道防线，如密码设置“偷点懒”、数据加密“放点水”、密码破解“走偏门”等 ...",
+    "id": "8nq2wmoB9um",
+    "order": 1761710650654,
+    "createdAt": "2025-10-29T04:04:10.000Z",
+    "publishDate": "2025-10-29T04:04:10.654Z",
+    "title": "国家安全部：数据泄露危害社会稳定 请牢记三条“密码生存法则”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 12:04:10",
+    "uuid": "6c797124-c323-49f0-b8ae-1bd76c65d06b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智慧芽_新药情报库" },
+      { "siteName": "科学网" },
+      { "siteName": "医谷网" }
+    ],
+    "summary": "2025年国际儿童肿瘤学会年会上公布我国自主研发新一代泛TRK抑制剂佐来曲替尼在儿童及青少年晚期实体瘤中的I/II期临床数据 ...",
+    "id": "8novdAVLi9K",
+    "order": 1761710492874,
+    "createdAt": "2025-10-29T04:01:32.000Z",
+    "publishDate": "2025-10-29T04:01:32.874Z",
+    "title": "国产新药为儿童肿瘤精准治疗迎来新希望",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 12:01:32",
+    "uuid": "a75174b7-1309-4105-bf8d-b16e9df48fea"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -985,6 +1153,38 @@
     "up": false,
     "date": "2025-10-29 06:11:48",
     "uuid": "e2063f7f-112a-485b-9731-86a57c35f23b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "第一财经" },
+      { "siteName": "金融界" },
+      { "siteName": "中关村在线" },
+      { "siteName": "站长之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果公司计划在MacBook Air和iPad产品线升级显示器，将类似iPhone的OLED显示屏配置到这两个产品线，该设计改变可能使iPad mini涨价100美元。",
+    "id": "8nptiE67T43",
+    "order": 1761710596667,
+    "createdAt": "2025-10-28T21:11:45.000Z",
+    "publishDate": "2025-10-29T04:03:16.667Z",
+    "title": "苹果计划升级 MacBook Air 和 iPad 的显示器",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-29 05:11:45",
+    "uuid": "cdf2d0c3-4644-4160-bbb7-3f2955a4e956"
   },
   {
     "newsArray": [
