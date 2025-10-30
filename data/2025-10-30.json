@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "富时中国A50指数期货跌超1%。",
+    "id": "8ns8Hni4geV",
+    "order": 1761801764264,
+    "createdAt": "2025-10-30T05:22:45.000Z",
+    "publishDate": "2025-10-30T05:22:44.264Z",
+    "title": "富时中国A50指数期货跌超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-30 13:22:45",
+    "uuid": "140f8fca-3910-4d9d-a299-ca08431bfe95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果公司成功说服美国法官驳回一项集体诉讼部分指控，该诉讼去年由七州九名消费者提起，指控 2019 - 2022 年销售的第一代 AirPods Pro 有音质缺陷，苹果虚假宣传降噪功能且未披露缺陷 ...",
+    "id": "8nriYlBis1z",
+    "order": 1761801257229,
+    "createdAt": "2025-10-30T05:14:17.000Z",
+    "publishDate": "2025-10-30T05:14:17.229Z",
+    "title": "法官驳回苹果AirPods Pro音质缺陷诉讼部分指控",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-30 13:14:17",
+    "uuid": "b73cb8be-7e6c-4048-852d-960c7087f97c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "野村证券预计美联储12月维持利率不变，此前预测降息25个基点。",
+    "id": "8ns3I4xHHz2",
+    "order": 1761801525379,
+    "createdAt": "2025-10-30T05:13:39.000Z",
+    "publishDate": "2025-10-30T05:18:45.379Z",
+    "title": "野村预计美联储将在12月维持利率不变",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-30 13:13:39",
+    "uuid": "98cf768a-5fa0-4526-bc58-ec666908f40a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "现代汽车第三季度销售额46.72万亿韩元，预估45.37万亿韩元。营业利润2.54万亿韩元，预估2.55万亿韩元。净利润2.26万亿韩元，预估2.31万亿韩元。",
+    "id": "8ns7acK7SdP",
+    "order": 1761801526700,
+    "createdAt": "2025-10-30T05:13:05.000Z",
+    "publishDate": "2025-10-30T05:18:46.700Z",
+    "title": "现代汽车第三季度营业利润2.54万亿韩元，符合市场预估",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-30 13:13:05",
+    "uuid": "69baae55-2227-45f4-9f09-7b50ede717f2"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "澎湃新闻" }
