@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "苹果美股盘后转涨，此前一度跌超3%。苹果CEO库克预计本财年第一季度整体销售额同比增长10%至12%，部分iPhone 17和iPhone 16机型在第四财季面临供应限制。",
+    "id": "8ntC3qx4VyP",
+    "order": 1761857581870,
+    "createdAt": "2025-10-30T20:53:01.000Z",
+    "publishDate": "2025-10-30T20:53:01.870Z",
+    "title": "苹果美股盘后转涨 此前一度跌超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 04:53:01",
+    "uuid": "c21f472e-9b1f-45a5-a75a-5074aa4b4387"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立“星际之门”（STARGATE）数据中心园区，该项目规划容量突破8吉瓦，预计未来三年投资超4500亿美元。",
+    "id": "8ntC2ITj54n",
+    "order": 1761857544105,
+    "createdAt": "2025-10-30T20:52:24.000Z",
+    "publishDate": "2025-10-30T20:52:24.105Z",
+    "title": "OpenAI：\"星际之门\"项目规划容量突破8吉瓦",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 04:52:24",
+    "uuid": "fb0f1f00-643f-48cd-9723-02d4fabddee0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果美股盘后跌超3%，公司第四财季现金及现金等价物359.3亿美元，预估516.7亿美元。",
+    "id": "8ntC2GgSK5U",
+    "order": 1761857490733,
+    "createdAt": "2025-10-30T20:51:30.000Z",
+    "publishDate": "2025-10-30T20:51:30.733Z",
+    "title": "苹果美股盘后跌超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 04:51:30",
+    "uuid": "c48c74d8-68a2-4e92-852d-d20c604bca1f"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "财联社" },
       { "siteName": "新浪科技" },
