@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "水井坊发布2025年三季报，第三季度营业收入8.5亿元，同比降58.91%，净利润2.21亿元，同比降75.01% ...",
+    "id": "8nsTC8hGObF",
+    "order": 1761881053697,
+    "createdAt": "2025-10-31T03:24:13.000Z",
+    "publishDate": "2025-10-31T03:24:13.697Z",
+    "title": "水井坊：前三季度净利润3.26亿元，同比下降71.02%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 11:24:13",
+    "uuid": "cbcf4256-1188-4ec8-8bf6-255a3f463d3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "兆易创新在与机构线上交流时称，目前中小容量NOR Flash产品出现涨价趋势，因NOR Flash整体产能联动，大容量产品在供应紧缺时先涨价并传导至中小容量产品，公司预计NOR Flash明年全年价格将整体温和上涨。",
+    "id": "8ntdv8ZysgG",
+    "order": 1761880986053,
+    "createdAt": "2025-10-31T03:23:06.000Z",
+    "publishDate": "2025-10-31T03:23:06.053Z",
+    "title": "兆易创新：中小容量NOR Flash产品出现涨价趋势",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 11:23:06",
+    "uuid": "313a6ca2-fe2d-44e8-bbed-b8ab486c7471"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国内服务器龙头超聚变正积极筹备上市相关工作，多个招聘网站显示其近期放出“财务专家(上市运作)”岗位（现岗位已更名），要求候选人具备上市企业财务管理经验等 ...",
+    "id": "8ntecKjuJhW",
+    "order": 1761880970523,
+    "createdAt": "2025-10-31T03:22:50.000Z",
+    "publishDate": "2025-10-31T03:22:50.523Z",
+    "title": "中国服务器龙头超聚变筹备上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 11:22:50",
+    "uuid": "6900b8f1-1d9f-444a-b92b-ba4647fd0a1c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2025年前三季度，荣昌生物(09995.HK)营收约17.20亿元，同比增42.27%。亏损约5.51亿元，同比降48.55% ...",
+    "id": "8nsT0VxAkaB",
+    "order": 1761880955834,
+    "createdAt": "2025-10-31T02:55:11.000Z",
+    "publishDate": "2025-10-31T03:22:35.834Z",
+    "title": "荣昌生物：前三季度亏损约5.51亿元 同比降48.55%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 10:55:11",
+    "uuid": "4442245d-e5e7-4716-bb96-32f65b072287"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "泡泡玛特中东地区首家门店在卡塔尔首都多哈哈马德国际机场开业，这也是其全球首家24小时全天候营业的线下门店 ...",
+    "id": "8nrzn38Mvfa",
+    "order": 1761880965913,
+    "createdAt": "2025-10-31T02:46:57.000Z",
+    "publishDate": "2025-10-31T03:22:45.913Z",
+    "title": "泡泡玛特全球首家24小时门店落户多哈机场",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 10:46:57",
+    "uuid": "41d843c8-abd0-4529-9ec4-86002f3f90da"
+  },
+  {
+    "newsArray": [
       { "siteName": "第一财经" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -16,6 +101,23 @@
     "up": false,
     "date": "2025-10-31 10:15:17",
     "uuid": "6781eb55-df9d-4d15-82c4-cf7e15eaa96e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "大多数关注健康的人面临健康数据零散破碎、缺乏工具理解数据关联的问题 ...",
+    "id": "8nsuvjQMeAp",
+    "order": 1761880991553,
+    "createdAt": "2025-10-31T02:14:40.000Z",
+    "publishDate": "2025-10-31T03:23:11.553Z",
+    "title": "Bevel获General Catalyst 1000万美元A轮融资，用于AI健康助手业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 10:14:40",
+    "uuid": "3e32f7f1-4e99-4c90-9980-bd11da46c4f2"
   },
   {
     "newsArray": [
@@ -411,6 +513,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "苹果CFO称正在大幅增加对人工智能的投资，预计12月当季毛利率在47%至48%之间。",
+    "id": "8ntFf9ZtUSK",
+    "order": 1761881056085,
+    "createdAt": "2025-10-30T23:44:38.000Z",
+    "publishDate": "2025-10-31T03:24:16.085Z",
+    "title": "苹果CFO：正在大幅增加对人工智能的投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 07:44:38",
+    "uuid": "93c3914d-124f-441a-9317-5c5b6d50904a"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "网易科技" },
       { "siteName": "界面" }
@@ -461,6 +580,24 @@
     "up": false,
     "date": "2025-10-31 07:37:11",
     "uuid": "0684c85a-465c-40b5-b000-e777987a8226"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "亚马逊CEO称，人工智能购物助手Rufus有望带来每年100亿美元增量销售额，今年已有2.5亿活跃客户，月度用户同比增长140% ...",
+    "id": "8ntFeVJh0at",
+    "order": 1761881071543,
+    "createdAt": "2025-10-30T23:33:12.000Z",
+    "publishDate": "2025-10-31T03:24:31.543Z",
+    "title": "亚马逊CEO：人工智能购物助手RUFUS今年已有2.5亿活跃客户 月度用户同比增长140%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 07:33:12",
+    "uuid": "e2cb8659-769d-4bf1-893c-2a69f3dfd67d"
   },
   {
     "newsArray": [
@@ -626,6 +763,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果CEO库克称中国补贴对推动需求产生有利影响。",
+    "id": "8ntC2DNVwAs",
+    "order": 1761881099068,
+    "createdAt": "2025-10-30T21:51:09.000Z",
+    "publishDate": "2025-10-31T03:24:59.068Z",
+    "title": "苹果 CEO 库克：中国的补贴对推动需求产生有利影响",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 05:51:09",
+    "uuid": "6dd50bb0-617a-453f-8bbb-fe3857abb43c"
+  },
+  {
+    "newsArray": [
       { "siteName": "awtmt.com_news" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
@@ -657,6 +811,26 @@
     "up": false,
     "date": "2025-10-31 05:42:05",
     "uuid": "29d420a1-ff6d-4c40-a7a2-0daa2f47f590"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "aibase" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI宣布推出由GPT - 5驱动的自主网络安全研究代理Aardvark。",
+    "id": "8nt0dFsOdQI",
+    "order": 1761881150852,
+    "createdAt": "2025-10-30T21:14:22.000Z",
+    "publishDate": "2025-10-31T03:25:50.852Z",
+    "title": "OpenAI 宣布推出 Aardvark，由 GPT-5 驱动的自主网络安全研究代理",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 05:14:22",
+    "uuid": "b1018e5c-997d-4d7d-ab8c-61bf6e7a2214"
   },
   {
     "newsArray": [
