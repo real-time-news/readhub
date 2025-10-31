@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "天奇股份（002009.SZ）公告，与富士康新能源汽车产业发展（河南）有限公司签署《战略合作框架协议》，双方拟共同推动具身智能机器人在工业场景的深度应用与技术创新，计划未来5年在富士康汽车生产制造体系内批量部署具身智能机器人，累计落地应用总数不低于2000台 ...",
+    "id": "8nu0oaLQFir",
+    "order": 1761899641817,
+    "createdAt": "2025-10-31T08:34:01.000Z",
+    "publishDate": "2025-10-31T08:34:01.817Z",
+    "title": "天奇股份：与富士康汽车签订战略合作框架协议 推动具身智能机器人在工业场景的深度应用等",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:34:01",
+    "uuid": "21d1b70e-8d6c-4a74-82a1-d8663e1614e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "每经网" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "滴滴送货正式推出“运费垫付保障”服务，承诺司机完成订单七天后未收到运费，平台将全额垫付，该保障已全面覆盖所有注册司机。超七成货车司机曾面临运费拖欠问题，原因多样 ...",
+    "id": "8ntYyPrG3Wv",
+    "order": 1761899585119,
+    "createdAt": "2025-10-31T08:33:05.000Z",
+    "publishDate": "2025-10-31T08:33:05.119Z",
+    "title": "滴滴送货推运费垫付保障 全面守护司机收入权益",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:33:05",
+    "uuid": "b6eb506b-8402-48e8-83ec-979e1aa34060"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Strike3Holdings 指控 Meta 通过种子下载 2400 部成人影片用于 AI 训练，并索赔超 3.5 亿美元，称 Meta 利用秘密网络进行下载 ...",
+    "id": "8ns1ql5Wk49",
+    "order": 1761899490430,
+    "createdAt": "2025-10-31T08:31:30.000Z",
+    "publishDate": "2025-10-31T08:31:30.430Z",
+    "title": "​Meta 遭起诉涉嫌非法下载色情内容用于 AI 训练，申请驳回诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:31:30",
+    "uuid": "87f88094-8334-4886-892e-b61ac2d75bd9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中关村公告，其下属公司北京华素制药股份有限公司生产的“盐酸纳曲酮片”（规格：50mg）通过仿制药质量和疗效一致性评价，该药品注册分类为化学药品，包装规格为30片/瓶。",
+    "id": "8nu05z1VUOF",
+    "order": 1761899159914,
+    "createdAt": "2025-10-31T08:26:00.000Z",
+    "publishDate": "2025-10-31T08:25:59.914Z",
+    "title": "中关村：下属公司生产的盐酸纳曲酮片通过仿制药一致性评价",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:26:00",
+    "uuid": "e9b5c835-d417-43d6-babd-b0f14ad149b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "土耳其工业和技术部10月31日表示，Uber将在未来五年内投资2亿美元，在伊斯坦布尔设立软件和技术研发中心，此前其已在巴西、印度和荷兰设立类似设施。",
+    "id": "8nu03iKQYND",
+    "order": 1761899000722,
+    "createdAt": "2025-10-31T08:23:20.000Z",
+    "publishDate": "2025-10-31T08:23:20.722Z",
+    "title": "土耳其政府：Uber将投资2亿美元设立技术研发中心",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:23:20",
+    "uuid": "032eefd4-fcc0-4410-8bb1-56b26b6f8c3b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "LiblibAI 成功完成 1.3 亿美元 B 轮融资，由红杉中国和 CMC 资本等联合领投，这是今年中国 AI 应用领域最大一笔融资 ...",
+    "id": "8nsvrntZGqP",
+    "order": 1761898894426,
+    "createdAt": "2025-10-31T08:21:35.000Z",
+    "publishDate": "2025-10-31T08:21:34.426Z",
+    "title": "​LiblibAI 完成 1.3 亿美元融资，红杉中国领投",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:21:35",
+    "uuid": "2df5eaeb-70b6-47c4-926a-96c22b751028"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "36Kr" },
+      { "siteName": "联商网" }
+    ],
+    "summary": "美团“智能掌柜”全面升级餐饮门店 AI 电话接待能力，应用语义识别、对话分析等模型优化堂食服务体验，助力中小餐饮商家发现新商机 ...",
+    "id": "8ntg2hMt3bk",
+    "order": 1761898878546,
+    "createdAt": "2025-10-31T08:21:18.000Z",
+    "publishDate": "2025-10-31T08:21:18.546Z",
+    "title": "美团“AI接待”上新智能分析能力 单月带动近15万堂食订单",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:21:18",
+    "uuid": "0680ecab-50f2-4c53-99d3-4ae318567903"
+  },
+  {
+    "newsArray": [
+      { "siteName": "科学网" },
+      { "siteName": "科学网" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "10月30日，神舟二十一号载人飞行任务新闻发布会召开，宣布瞄准10月31日23时44分发射该载人飞船，飞行乘组由张陆、武飞、张洪章组成，张陆任指令长 ...",
+    "id": "8nszAmlKRNH",
+    "order": 1761898837781,
+    "createdAt": "2025-10-31T08:20:37.000Z",
+    "publishDate": "2025-10-31T08:20:37.781Z",
+    "title": "神舟二十一号发射在即，中国科学院载荷专家出征",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:20:37",
+    "uuid": "70e4e7e9-8100-4bf3-9ca5-6b108a5ab1bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "截至2025年9月末，全国有小额贷款公司4863家，贷款余额7229亿元，前三季度减少319亿元。",
+    "id": "8ntzNi12vSD",
+    "order": 1761898783037,
+    "createdAt": "2025-10-31T08:19:44.000Z",
+    "publishDate": "2025-10-31T08:19:43.037Z",
+    "title": "央行：截至9月末，全国共有小额贷款公司4863家",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:19:44",
+    "uuid": "ba12ce59-4bed-408f-aeef-5d806f516fc2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "万华化学公告，股东Prime Partner International Limited（合成国际控股有限公司）已完成减持计划，合计减持16,999,947股，占公司股份总数的0.54%，减持价格区间为61.08～69.79元/股，减持总金额11.15亿元 ...",
+    "id": "8ntzNRc0AP1",
+    "order": 1761898708406,
+    "createdAt": "2025-10-31T08:18:28.000Z",
+    "publishDate": "2025-10-31T08:18:28.406Z",
+    "title": "万华化学：持股5%以上股东减持计划实施完毕",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 16:18:28",
+    "uuid": "f631aa89-81f3-41ec-8078-3b0ccb265f75"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "网易科技" },
       { "siteName": "华尔街见闻" }
