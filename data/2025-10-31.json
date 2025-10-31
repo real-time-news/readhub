@@ -1,6 +1,61 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "奇瑞汽车发布三季度财报，2025年前三季度收入2148.3亿元，上年同期1821.5亿元。净利润143.7亿元，去年同期112.2亿元。",
+    "id": "8ntjgQ47Scx",
+    "order": 1761885770226,
+    "createdAt": "2025-10-31T04:42:50.000Z",
+    "publishDate": "2025-10-31T04:42:50.226Z",
+    "title": "奇瑞汽车：前三季度净利润143.7亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 12:42:50",
+    "uuid": "4f23746c-8934-4ef7-a0cb-7ad3cbb6717c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "台积电计划投资约1.5万亿新台币新建四座1.4纳米工艺晶圆厂，预计创造近万个就业岗位，2027年底启动风险性试产，2028年下半年大规模量产。",
+    "id": "8ntjeDZ35V4",
+    "order": 1761885760999,
+    "createdAt": "2025-10-31T04:42:40.000Z",
+    "publishDate": "2025-10-31T04:42:40.999Z",
+    "title": "台积电拟投资1.5万亿新台币建四座A14半导体工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 12:42:40",
+    "uuid": "6b11195a-a44a-40f6-bcc9-28d92a039656"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "亚马逊对其视频游戏部门大幅裁员，尔湾、圣地亚哥办公室及核心发行部门将“重大岗位削减”，减少高预算游戏项目投入，尤其是 MMO 开发 ...",
+    "id": "8ntblLCZFYP",
+    "order": 1761885740299,
+    "createdAt": "2025-10-31T04:42:20.000Z",
+    "publishDate": "2025-10-31T04:42:20.299Z",
+    "title": "亚马逊大裁员：视频游戏部门遭重创",
+    "type": "topic",
+    "up": false,
+    "date": "2025-10-31 12:42:20",
+    "uuid": "9855cbff-fc62-45f8-aca3-baa50a199251"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
