@@ -1,6 +1,207 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "安世中国发布公告称，荷兰安世半导体自10月26日起停止向东莞封装测试工厂供应晶圆，其所谓“当地管理层未遵守付款条件”是无中生有，安世中国不存在违约行为，荷兰安世欠付货款达10亿元 ...",
+    "id": "8nwmKDepeZW",
+    "order": 1762051377079,
+    "createdAt": "2025-11-02T02:42:57.000Z",
+    "publishDate": "2025-11-02T02:42:57.079Z",
+    "title": "安世中国：中国管理层遭恶意抹黑 荷兰安世欠付10亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 10:42:57",
+    "uuid": "2ad63dbc-a9fd-4d05-8896-b57ca87d4088"
+  },
+  {
+    "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "今天上午，第十五届全国运动会火炬传递在港澳广深同步举行，此次传递首次实现“三地联动、四城同传”，并引入智能科技元素 ...",
+    "id": "8nwuQ5CmjWn",
+    "order": 1762051338358,
+    "createdAt": "2025-11-02T02:42:18.000Z",
+    "publishDate": "2025-11-02T02:42:18.358Z",
+    "title": "第 15 届全运会火炬传递，机器人火炬手“夸父”开跑",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 10:42:18",
+    "uuid": "78e7e243-5753-4ed2-a05e-800d7f165e62"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中国上市公司协会发布2025年三季报经营业绩报告，截至10月31日，全市场5446家上市公司披露三季报 ...",
+    "id": "8nwutgNT2SU",
+    "order": 1762051720312,
+    "createdAt": "2025-11-02T02:42:02.000Z",
+    "publishDate": "2025-11-02T02:48:40.312Z",
+    "title": "中上协：89家上市公司年内分红金额超10亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 10:42:02",
+    "uuid": "c0d89e13-b22e-46f9-964c-8daca110e713"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "中国上市公司协会发布2025年三季报经营业绩报告，截至10月31日，全市场5446家上市公司披露三季报 ...",
+    "id": "8nwurt4RG7a",
+    "order": 1762050721123,
+    "createdAt": "2025-11-02T02:32:01.000Z",
+    "publishDate": "2025-11-02T02:32:01.123Z",
+    "title": "中上协：前三季度上市公司合计实现净利润4.7万亿元，同比增长5.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 10:32:01",
+    "uuid": "b7490dad-2b30-4b86-91ce-e94576c32820"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "北京时间11月1日晚间，巴菲特执掌的伯克希尔·哈撒韦公布第三季度业绩：总收入949.72亿美元，同比增2%。净利润307.96亿美元，同比增17% ...",
+    "id": "8nwkDqpHevm",
+    "order": 1762047782904,
+    "createdAt": "2025-11-02T01:43:03.000Z",
+    "publishDate": "2025-11-02T01:43:02.904Z",
+    "title": "连续五个季度零回购，伯克希尔现金储备再创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 09:43:03",
+    "uuid": "d07b054c-033c-454f-83c3-5d0382be33d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "在中国长安汽车集团有限公司外部董事调整宣布会上，国务院国资委企干二局有关负责同志宣布国资委党委决定，聘任邵林、李树雷、范冰、高和生为该公司外部董事。",
+    "id": "8nwqeuVgXpZ",
+    "order": 1762047767234,
+    "createdAt": "2025-11-02T01:42:47.000Z",
+    "publishDate": "2025-11-02T01:42:47.234Z",
+    "title": "国务院国资委宣布聘任中国长安汽车外部董事",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 09:42:47",
+    "uuid": "0159bbde-3ecf-472c-ad10-c586769a2037"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "温氏食品集团股份有限公司与华为技术有限公司正式签署战略合作框架协议，将围绕“建设运维‘温氏云’、现代信息基础设施建设、数字能源、软硬件联合创新”四个方面展开合作。",
+    "id": "8nwpr1dEsJs",
+    "order": 1762047221820,
+    "createdAt": "2025-11-02T01:33:41.000Z",
+    "publishDate": "2025-11-02T01:33:41.820Z",
+    "title": "温氏股份与华为签署战略合作协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 09:33:41",
+    "uuid": "d09734a1-1b4a-42cb-ae76-eb5dfa487579"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "东风奕派宣布eπ007+开启预售，预售价14.99万元起。",
+    "id": "8nwmJAplDrz",
+    "order": 1762047194614,
+    "createdAt": "2025-11-02T01:33:14.000Z",
+    "publishDate": "2025-11-02T01:33:14.614Z",
+    "title": "东风奕派eπ007+车型开启预售",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 09:33:14",
+    "uuid": "de8eb67d-95f0-45de-9c34-cdb58fa37018"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "第一财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "今天上午9点，第十五届全国运动会火炬传递启动仪式在深圳莲花山公园举行，火炬传递在香港、澳门、广州、深圳4个城市同步进行，共设200棒火炬手，每个城市跑动50棒，每棒跑动50 - 100米 ...",
+    "id": "8nwpBYhiDuF",
+    "order": 1762046505889,
+    "createdAt": "2025-11-02T01:21:45.000Z",
+    "publishDate": "2025-11-02T01:21:45.889Z",
+    "title": "十五运会火炬传递启动仪式在深圳举行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 09:21:45",
+    "uuid": "65577e47-e10c-49b5-9a26-0dad0fe8120e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2025年11月1日晚间长城汽车公布销售数据，10月销售新车143,078辆，同比增长22.50%，各品牌均有增长。1 - 10月销售1,066,436辆，同比增长9.87%。",
+    "id": "8nvtpZGvmPz",
+    "order": 1762046494710,
+    "createdAt": "2025-11-02T01:21:34.000Z",
+    "publishDate": "2025-11-02T01:21:34.710Z",
+    "title": "长城汽车：10月销售新车14.31万辆，同比增长22.50%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-02 09:21:34",
+    "uuid": "9d89ed80-416e-4e94-8579-7dddd3787bb0"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" },
