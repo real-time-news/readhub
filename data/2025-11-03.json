@@ -1,6 +1,180 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" },
+      { "siteName": "界面" }
+    ],
+    "summary": "天眼查工商信息显示，近日，深圳星罗拾光科技有限公司发生工商变更，注册资本由 17.65 亿人民币增至约 94.8 亿人民币，增幅约 437% ...",
+    "id": "8nybFZQhsIe",
+    "order": 1762139122612,
+    "createdAt": "2025-11-03T03:05:23.000Z",
+    "publishDate": "2025-11-03T03:05:22.612Z",
+    "title": "深圳星罗拾光科技有限公司增资至94.8亿，增幅约437%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 11:05:23",
+    "uuid": "1cf16b6a-02a6-4d75-95b9-6d8debe17bc7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "洛图科技报告显示，2025年第三季度中国智能音箱全渠道市场销量305.7万台，同比降11.9%，销额8.6亿元，同比降4.0%，均价280元，同比增8.9% ...",
+    "id": "8nyOBUXPBAY",
+    "order": 1762138951948,
+    "createdAt": "2025-11-03T03:02:31.000Z",
+    "publishDate": "2025-11-03T03:02:31.948Z",
+    "title": "小米夺中国智能音箱第一 份额达48.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 11:02:31",
+    "uuid": "63b148f9-d187-457a-8ff2-5b4f120056c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "工信部党组书记、部长李乐成撰文指出，面对新一代人工智能技术快速演进，要发挥新型举国体制优势，坚持自立自强、突出应用导向，推动我国人工智能朝有益、安全、公平方向健康有序发展。",
+    "id": "8nybBxU32ll",
+    "order": 1762138532935,
+    "createdAt": "2025-11-03T02:55:32.000Z",
+    "publishDate": "2025-11-03T02:55:32.935Z",
+    "title": "李乐成：加快推进人工智能赋能新型工业化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 10:55:32",
+    "uuid": "14018e01-ca48-4ff4-9b72-79b56f7ed52a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌正准备推出下一代人工智能模型 Gemini 3，公司 CEO 桑达尔・皮查伊确认其将于 2025 年发布，该模型将超越 Gemini 2.5 Pro，缩小与 GPT - 5 的差距，更强调“智能代理”能力，但不会带来立竿见影的突破 ...",
+    "id": "8nxXTI6IJcZ",
+    "order": 1762138197701,
+    "createdAt": "2025-11-03T02:49:58.000Z",
+    "publishDate": "2025-11-03T02:49:57.701Z",
+    "title": "谷歌 CEO 皮查伊确认：下一代 AI 模型 Gemini 3 今年发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 10:49:58",
+    "uuid": "574af680-a5a8-4825-8769-d41fd2cea92a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "美团推出 LongCat-Flash 系列模型并开源两大版本后，LongCat 团队宣布推出全新成员 LongCat-Flash-Omni ...",
+    "id": "8nyZpJPbuDj",
+    "order": 1762137706919,
+    "createdAt": "2025-11-03T02:41:47.000Z",
+    "publishDate": "2025-11-03T02:41:46.919Z",
+    "title": "美团正式发布并开源LongCat-Flash-Omni",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 10:41:47",
+    "uuid": "073683aa-beec-4ff3-a436-48c09b0af9f5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "美国制药巨头礼来宣布携手英伟达打造由制药企业拥有并运营的超级计算机，它是全球首台采用 DGX B300 系统的英伟达 DGX SuperPOD，由超 1000 块 B300 GPU 提供算力，构建在统一网络架构上，能提升效率 ...",
+    "id": "8nwryxeyvPo",
+    "order": 1762137247070,
+    "createdAt": "2025-11-03T02:34:08.000Z",
+    "publishDate": "2025-11-03T02:34:07.070Z",
+    "title": "礼来携手英伟达建AI超级计算机赋能药物研发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 10:34:08",
+    "uuid": "188d8805-0bb6-4eaa-b68c-3e1ad4d77557"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "awtmt.com_news" }
+    ],
+    "summary": "美国数据分析巨头Palantir推出“菁英奖学金”计划，绕过四年制大学，从高中毕业生中招募人才，提供直通全职职缺通道 ...",
+    "id": "8nySFaaHWDe",
+    "order": 1762137171866,
+    "createdAt": "2025-11-03T02:32:51.000Z",
+    "publishDate": "2025-11-03T02:32:51.866Z",
+    "title": "Palantir绕过四年制大学直招高中毕业生：实战比文凭重要",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 10:32:51",
+    "uuid": "858d47e4-65f1-4927-9e6a-c3af5bffa18a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "小鹏汽车宣布11月6日19:00举行小鹏X9鲲鹏超级增程技术发布会。小鹏X9是品牌首款超级增程力作，首搭“鲲鹏”超级增程技术，采用“63.3度超快充磷酸铁锂大电池 + 60L大油箱”组合，综合续航1602公里 ...",
+    "id": "8nySc9r3bmT",
+    "order": 1762138880499,
+    "createdAt": "2025-11-03T02:18:07.000Z",
+    "publishDate": "2025-11-03T03:01:20.499Z",
+    "title": "小鹏汽车：11月6日揭晓小鹏X9鲲鹏超级增程技术",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 10:18:07",
+    "uuid": "08f6f564-19be-49aa-b5c4-b5074d4be42c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "沪深两市成交额突破5000亿元，较上一日此时缩量超440亿元。",
+    "id": "8nyWu4BCbGK",
+    "order": 1762137191440,
+    "createdAt": "2025-11-03T02:02:25.000Z",
+    "publishDate": "2025-11-03T02:33:11.440Z",
+    "title": "沪深两市成交额突破5000亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 10:02:25",
+    "uuid": "e8d0113a-d848-4008-be6d-44c8e88b228f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "第一财经" }
@@ -278,6 +452,28 @@
     "up": false,
     "date": "2025-11-03 07:13:09",
     "uuid": "3e742709-779b-4a90-aba1-ed5fb45056ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "11月1日，财政部、国家税务总局发布的《关于黄金有关税收政策的公告》正式生效，执行至2027年12月31日 ...",
+    "id": "8nyJNW7KMBk",
+    "order": 1762137209349,
+    "createdAt": "2025-11-02T23:12:56.000Z",
+    "publishDate": "2025-11-03T02:33:29.349Z",
+    "title": "金价震荡叠加税负调整，投机资金短期抛压或加剧",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 07:12:56",
+    "uuid": "c54a4c38-428c-40b3-b8db-9bc8bd850b6f"
   },
   {
     "newsArray": [
