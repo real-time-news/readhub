@@ -1,6 +1,45 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "月底资金需求压倒供应，美国一项关键短期利率周五大幅上升，波动或在美联储下月停止缩表后缓解 ...",
+    "id": "8nzJVlsBMOh",
+    "order": 1762179825912,
+    "createdAt": "2025-11-03T14:23:46.000Z",
+    "publishDate": "2025-11-03T14:23:45.912Z",
+    "title": "美国的担保隔夜融资利率创2023年以来最大单日涨幅",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 22:23:46",
+    "uuid": "ab854319-39a7-4637-847d-a52c187e2377"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "亚马逊美股盘前涨幅扩大至5%，其与OpenAI签署380亿美元协议，将供应英伟达芯片扩展算力规模。",
+    "id": "8nzNuvOG5lm",
+    "order": 1762180304215,
+    "createdAt": "2025-11-03T14:22:52.000Z",
+    "publishDate": "2025-11-03T14:31:44.215Z",
+    "title": "亚马逊美股盘前涨幅扩大至5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-03 22:22:52",
+    "uuid": "6c71708f-d3a4-414e-9159-22c9e26c0699"
+  },
+  {
+    "newsArray": [
       { "siteName": "科学网" },
       { "siteName": "IT 之家" },
       { "siteName": "快科技" }
