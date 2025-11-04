@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "英国政府 AI 安全研究所和多所知名大学的计算机科学家研究发现，分析的超 440 个用于评估新一代 AI 模型安全性和有效性的基准测试几乎都有缺陷，影响结论有效性 ...",
+    "id": "8o0AS7hyThH",
+    "order": 1762239341171,
+    "createdAt": "2025-11-04T06:55:41.000Z",
+    "publishDate": "2025-11-04T06:55:41.171Z",
+    "title": "专家揭示数百项 AI 安全测试存在严重缺陷",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-04 14:55:41",
+    "uuid": "4e53e938-c0d1-4284-bc5e-a9d575b0e6eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "任天堂第二财季经营利润882.5亿日元，同比增长32%，超预估。净利润1029.0亿日元，远超上年同期，超预估。销售净额5272.0亿日元，同比增长91%，超预估 ...",
+    "id": "8o0WX1G3xjK",
+    "order": 1762239008162,
+    "createdAt": "2025-11-04T06:50:08.000Z",
+    "publishDate": "2025-11-04T06:50:08.162Z",
+    "title": "任天堂第二财季经营利润882.5亿日元，同比增32%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-04 14:50:08",
+    "uuid": "29cbc30d-431f-4e6f-83f1-5424c3ce4296"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
