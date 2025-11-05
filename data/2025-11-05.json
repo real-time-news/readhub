@@ -1,6 +1,169 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "比亚迪执行副总裁李柯称，公司计划从2026年初起在全球推广超豪华品牌“仰望”，先从中东地区开始，之后拓展到欧洲，再进军美洲。",
+    "id": "8o1uMRBdNvg",
+    "order": 1762313194482,
+    "createdAt": "2025-11-05T03:26:34.000Z",
+    "publishDate": "2025-11-05T03:26:34.482Z",
+    "title": "比亚迪计划2026年初在中东推出高端品牌“仰望”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 11:26:34",
+    "uuid": "db140ca6-ae9e-4e32-ac60-4dda5443ebaf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "德国汽车工业协会报告显示，截至10月1日，德国电动汽车公共充电桩保有量约18万个，较去年同期增长16%，协会认为充电设施建设进度慢且分布失衡。",
+    "id": "8o18Otf1Ag9",
+    "order": 1762313165459,
+    "createdAt": "2025-11-05T03:26:06.000Z",
+    "publishDate": "2025-11-05T03:26:05.459Z",
+    "title": "德国公共充电桩年增16% 汽车工业协会：建得太慢",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 11:26:06",
+    "uuid": "8229d879-dca9-4efb-9fcd-c85eee931289"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "11月5日，A股主要指数低开高走，沪指、创业板指双双拉升翻红，早盘创业板指竞价低开超2%，电网设备、海南、泛消费、煤炭等方向涨幅居前，沪深京三市近2800只个股上涨。",
+    "id": "8o1x8xsxqlA",
+    "order": 1762313143298,
+    "createdAt": "2025-11-05T03:25:43.000Z",
+    "publishDate": "2025-11-05T03:25:43.298Z",
+    "title": "沪指、创业板指双双转涨 近2800股上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 11:25:43",
+    "uuid": "dee6a1e6-2c91-48d5-b731-a4d7b0ca3444"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上海财跃星辰智能科技有限公司、上海阶跃星辰智能科技有限公司与上海银行签署战略合作协议，推出国内首个支持完整沪语交互的 AI 应用，为习惯使用方言的老年群体提供便捷金融服务 ...",
+    "id": "8o0PSgK70F8",
+    "order": 1762313104138,
+    "createdAt": "2025-11-05T03:25:05.000Z",
+    "publishDate": "2025-11-05T03:25:04.138Z",
+    "title": "上海银行推出首个沪语交互 AI 应用，助力智慧养老金融服务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 11:25:05",
+    "uuid": "30bafcbe-20ba-428a-bbd9-3c5b8cecd883"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "11月5日，安森美宣布与奥拉半导体完成Vcore电源技术及相关知识产权的授权交易，以增强电源管理产品组合与路线图，加速在AI数据中心应用中实现从电网到核心的完整电源树布局。",
+    "id": "8o1x8zEz7GH",
+    "order": 1762313085709,
+    "createdAt": "2025-11-05T03:24:46.000Z",
+    "publishDate": "2025-11-05T03:24:45.709Z",
+    "title": "安森美获得奥拉半导体Vcore电源技术授权 完善AI数据中心电源树布局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 11:24:46",
+    "uuid": "b45d12ad-e343-49c6-8c72-ef864e2af6af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechSir" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在 iOS 26.2 Beta 1 更新中，苹果升级“无边记”（Freeform）应用，首次原生引入表格功能。此前“无边记”已支持添加便笺、文本等多种元素，但缺少表格功能是其短板 ...",
+    "id": "8o1hPPLUDpS",
+    "order": 1762312906729,
+    "createdAt": "2025-11-05T03:21:46.000Z",
+    "publishDate": "2025-11-05T03:21:46.729Z",
+    "title": "苹果无边记补齐关键功能，iOS 26.2 Beta首次原生引入表格功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 11:21:46",
+    "uuid": "03a0436c-3d75-4245-9f92-72ad6bcb9227"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "现货白银日内涨幅扩大至1%，报47.6美元/盎司。",
+    "id": "8o1wPtINUs3",
+    "order": 1762312421475,
+    "createdAt": "2025-11-05T03:13:42.000Z",
+    "publishDate": "2025-11-05T03:13:41.475Z",
+    "title": "现货白银日内涨幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 11:13:42",
+    "uuid": "8c171d81-7f07-41b1-b382-05355add30fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "软银与OpenAI将于11月成立新公司。",
+    "id": "8o1wQ0UJKDS",
+    "order": 1762312403960,
+    "createdAt": "2025-11-05T03:13:23.000Z",
+    "publishDate": "2025-11-05T03:13:23.960Z",
+    "title": "软银与OpenAI将于11月成立新公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 11:13:23",
+    "uuid": "0f719512-2e8f-4d56-8c98-9fa2a5d24fc6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "钉钉AI表格成为业内首个单表容量支持1000万热行的智能表格，这是其自今年7月推出后100多天取得的重大技术突破 ...",
+    "id": "8o1uQ5Ea69Y",
+    "order": 1762312462955,
+    "createdAt": "2025-11-05T03:10:24.000Z",
+    "publishDate": "2025-11-05T03:14:22.955Z",
+    "title": "钉钉AI表格单表容量突破1000万热行 已应用于连锁餐饮品牌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 11:10:24",
+    "uuid": "0897af49-3afc-4b57-907b-d75b19762ecf"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -360,6 +523,28 @@
     "up": false,
     "date": "2025-11-05 07:34:02",
     "uuid": "875ecb80-44c5-4f18-838c-f054d1bf916d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "蓝点网" },
+      { "siteName": "白鲸出海" }
+    ],
+    "summary": "OpenAI已在Android平台发布AI视频应用Sora，用户可在社交应用短视频流中创建、分享和二次编辑AI生成视频，该应用已在美国、加拿大等地区的Google Play应用商店上线 ...",
+    "id": "8o1Rn0jVdJL",
+    "order": 1762312326951,
+    "createdAt": "2025-11-04T23:33:09.000Z",
+    "publishDate": "2025-11-05T03:12:06.951Z",
+    "title": "OpenAI在Android平台推出其Sora应用",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-05 07:33:09",
+    "uuid": "982c35bf-4d1e-4d5d-aca7-614c71956c9b"
   },
   {
     "newsArray": [
