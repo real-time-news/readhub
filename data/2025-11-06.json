@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港交所文件显示，临工重机股份有限公司向港交所提交上市申请书，联席保荐人为中金公司、兴证国际。",
+    "id": "8o4OdzOJxeF",
+    "order": 1762440783907,
+    "createdAt": "2025-11-06T14:53:03.000Z",
+    "publishDate": "2025-11-06T14:53:03.907Z",
+    "title": "临工重机向港交所提交上市申请",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-06 22:53:03",
+    "uuid": "4d13a144-ff4e-49c6-a736-2e3fb36c832f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "台风“海鸥”于当地时间11月6日晚在越南中部归仁一带登陆，造成大范围破坏，多乐省有房屋倒塌，一人死亡。",
+    "id": "8o3N2v95csn",
+    "order": 1762440770749,
+    "createdAt": "2025-11-06T14:52:50.000Z",
+    "publishDate": "2025-11-06T14:52:50.749Z",
+    "title": "台风“海鸥”登陆越南 已致1人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-06 22:52:50",
+    "uuid": "a857c563-3abb-4665-b668-53dbb2c54d2b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "微软人工智能业务最高负责人公布公司 AI 领域新愿景，计划重组团队打造超越人类性能的超级智能 AI 模型，逐步摆脱对 OpenAI 的依赖，实现技术自主化 ...",
+    "id": "8o4NI1XI1WQ",
+    "order": 1762440737420,
+    "createdAt": "2025-11-06T14:52:17.000Z",
+    "publishDate": "2025-11-06T14:52:17.420Z",
+    "title": "微软宣布组建超级智能团队，自研 AI 模型摆脱对 OpenAI 的依赖",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-06 22:52:17",
+    "uuid": "8bbdae6a-90be-4199-880a-91fc2673cffe"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
