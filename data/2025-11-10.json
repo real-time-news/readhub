@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "此前马泰边境翻船事故死亡人数升至11人（马来西亚发现7人、泰国发现4人），截至10日中午，搜救人员已发现13名幸存者。",
+    "id": "8o8hCWC5oVU",
+    "order": 1762757093772,
+    "createdAt": "2025-11-10T06:44:53.000Z",
+    "publishDate": "2025-11-10T06:44:53.772Z",
+    "title": "马泰边境偷渡船倾覆事件已致11人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-10 14:44:53",
+    "uuid": "3e6ec296-655b-4198-bddb-a17099395c48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "夏普第二季度经营利润136.5亿日元，预估98.8亿日元。预计全年经营利润450亿日元，此前预计300亿日元。",
+    "id": "8oATeP7FDNj",
+    "order": 1762757066415,
+    "createdAt": "2025-11-10T06:44:26.000Z",
+    "publishDate": "2025-11-10T06:44:26.415Z",
+    "title": "夏普：第二季度经营利润136.5亿日元，超预期",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-10 14:44:26",
+    "uuid": "922598b0-0fae-451a-bb5a-cd642ad2d863"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "近日有市场传言称CHANEL香奈儿计划在重庆两江新区中環万象城开设全新精品店，香奈儿中国否认该消息，称是谣言，目前并无此计划。",
+    "id": "8oAQQV9Rfib",
+    "order": 1762756443070,
+    "createdAt": "2025-11-10T06:34:03.000Z",
+    "publishDate": "2025-11-10T06:34:03.070Z",
+    "title": "香奈儿中国否认将在重庆开设全新精品店",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-10 14:34:03",
+    "uuid": "723d3239-4561-4a70-ba5e-8af2051191b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "近日，星能玄光完成数亿元Pre - A轮融资，由蚂蚁集团领投，隐山资本等跟投，老股东民银国际和仁发新能持续加注 ...",
+    "id": "8oAHs4SUVlr",
+    "order": 1762755964165,
+    "createdAt": "2025-11-10T06:26:04.000Z",
+    "publishDate": "2025-11-10T06:26:04.165Z",
+    "title": "“星能玄光”完成数亿元Pre-A轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-10 14:26:04",
+    "uuid": "d08bad41-0667-4a0d-97fa-7284fe98664b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "近日，贵州能源集团有限公司发生工商变更，新增西南能矿集团股份有限公司为股东，注册资本由100亿增至200亿，增幅100%，部分高管变更 ...",
+    "id": "8oASXYS0nwO",
+    "order": 1762756455712,
+    "createdAt": "2025-11-10T06:25:45.000Z",
+    "publishDate": "2025-11-10T06:34:15.712Z",
+    "title": "贵州能源集团注册资本增至200亿，增幅100%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-10 14:25:45",
+    "uuid": "51fc4d7b-3f84-4c53-8045-4bd9ed001b10"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "雷科技" }
+    ],
+    "summary": "上周五，新款享界S9开启预售，推出四款车型，涵盖增程和纯电动力，售价31.8万起，开卖72小时小定突破8000台。该车焕新改款，外观换装全新车标、大灯等 ...",
+    "id": "8oA798f2tFE",
+    "order": 1762756605845,
+    "createdAt": "2025-11-10T06:19:35.000Z",
+    "publishDate": "2025-11-10T06:36:45.845Z",
+    "title": "预售31.8万起 焕新享界S9开卖72小时预订突破8000台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-10 14:19:35",
+    "uuid": "a0230d2b-f4b7-4b9b-9cde-29ebba0f3224"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" }
@@ -538,6 +645,27 @@
   {
     "newsArray": [
       { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "交银国际发布研报，预测4Q25华虹半导体营收/毛利率为6.56亿美元/13.6%，调整2025 - 2027年收入及毛利率预测，微调目标价到91港元，维持买入 ...",
+    "id": "8oABRoF7RLy",
+    "order": 1762755674119,
+    "createdAt": "2025-11-10T03:13:35.000Z",
+    "publishDate": "2025-11-10T06:21:14.119Z",
+    "title": "交银国际：维持华虹半导体“买入”评级 目标价91港元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-10 11:13:35",
+    "uuid": "013d010f-7f30-4cab-87ac-2402bdd77b11"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
@@ -802,6 +930,25 @@
     "up": false,
     "date": "2025-11-10 09:03:52",
     "uuid": "379ca335-b64a-45ac-a49a-24f0fc332d72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "今年以来，公募基金加快对ETF布局。截至11月9日，ETF总份额达3.16万亿份，较去年底涨幅19.17%。总规模达5.74万亿元，涨幅53.7% ...",
+    "id": "8o9wQKWUBW3",
+    "order": 1762755680135,
+    "createdAt": "2025-11-10T01:03:39.000Z",
+    "publishDate": "2025-11-10T06:21:20.135Z",
+    "title": "ETF总规模增至5.74万亿元 年内新发产品突破300只",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-10 09:03:39",
+    "uuid": "5dbae9d1-d9bb-4580-b9ee-f13b62d10fb2"
   },
   {
     "newsArray": [
