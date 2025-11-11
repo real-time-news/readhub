@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国气象局国家空间天气监测预警中心预计，今明两天可能出现中等强度地磁活动，今晚到明天凌晨，我国黑龙江漠河、新疆、内蒙古等北方地区可能出现以红色弱极光为主、小概率为红绿复合极光的极光现象 ...",
+    "id": "8oC8Dn7F0SD",
+    "order": 1762845725587,
+    "createdAt": "2025-11-11T07:22:05.000Z",
+    "publishDate": "2025-11-11T07:22:05.587Z",
+    "title": "中国气象局：今明两天，我国北方地区将出现极光",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-11 15:22:05",
+    "uuid": "f1234854-c7f5-49e4-b4e0-0723e3c71486"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "华尔街见闻" },
@@ -20,6 +37,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "软银与 OpenAI 成立 50-50 的合资公司「水晶智能」，向日本市场销售企业级 AI 工具 ...",
+    "id": "8oBnSI8f6GJ",
+    "order": 1762845490780,
+    "createdAt": "2025-11-11T07:05:13.000Z",
+    "publishDate": "2025-11-11T07:18:10.780Z",
+    "title": "软银与 OpenAI 合资成立「水晶智能」",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-11 15:05:13",
+    "uuid": "f26226e4-6a2c-4927-8ab3-e6fe5c531d82"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -36,6 +72,23 @@
     "up": false,
     "date": "2025-11-11 15:03:01",
     "uuid": "0c86c533-df5c-4d1d-816a-576594a8ef15"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "硅谷两家最大的人工智能初创公司Anthropic和OpenAI在人工智能热潮中采取了不同策略，Anthropic实现盈利的速度远快于OpenAI ...",
+    "id": "8oC63mJHssB",
+    "order": 1762845515770,
+    "createdAt": "2025-11-11T06:56:38.000Z",
+    "publishDate": "2025-11-11T07:18:35.770Z",
+    "title": "Anthropic预计到2027年实现盈利超过OpenAI",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-11 14:56:38",
+    "uuid": "c125fd01-083f-45f9-9581-6bf84f105bf0"
   },
   {
     "newsArray": [
@@ -93,6 +146,49 @@
     "up": false,
     "date": "2025-11-11 14:53:52",
     "uuid": "cd74de4e-e083-4b7c-8539-3a8dc6bf0820"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "今日，胖东来发布招聘公告，招聘2名中英翻译助理，要求应聘者第一学历毕业于QS排名前50院校，主修翻译学等相关专业，薪资提供不低于60天带薪年假，年薪不低于50万 ...",
+    "id": "8oC7U5ogBnp",
+    "order": 1762845633672,
+    "createdAt": "2025-11-11T06:44:04.000Z",
+    "publishDate": "2025-11-11T07:20:33.672Z",
+    "title": "胖东来招翻译：年薪不低于50万元 带薪年假至少60天",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-11 14:44:04",
+    "uuid": "0035ddf4-e4bf-493e-b9c6-ca8752088dce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "软银集团11月11日发布的第二季度财报显示，销售净额1.92万亿日元，净利润2.50万亿日元，股息22.00日元。上半年销售净额3.74万亿日元，净利润2.92万亿日元。",
+    "id": "8oC8EavH8W9",
+    "order": 1762845696070,
+    "createdAt": "2025-11-11T06:42:59.000Z",
+    "publishDate": "2025-11-11T07:21:36.070Z",
+    "title": "软银集团第二季度净利润 2.50 万亿日元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-11 14:42:59",
+    "uuid": "fd1d6fa1-9887-48c4-8581-26da89124e2e"
   },
   {
     "newsArray": [
@@ -376,6 +472,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "猫眼专业版数据显示，电影《鬼灭之刃：无限城篇 第一章 猗窝座再袭》预售总票房（含零点场）突破1.199亿，超《灌篮高手》预售票房，刷新中国影史进口动画电影预售票房纪录。",
+    "id": "8oAl7QloBZA",
+    "order": 1762845740905,
+    "createdAt": "2025-11-11T05:02:09.000Z",
+    "publishDate": "2025-11-11T07:22:20.905Z",
+    "title": "《鬼灭之刃》刷新中国影史进口动画电影预售票房纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-11 13:02:09",
+    "uuid": "400a85a5-96e6-401e-bbb7-ab184b6b66da"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "金融界" },
       { "siteName": "格隆汇" }
@@ -390,6 +503,23 @@
     "up": false,
     "date": "2025-11-11 13:01:44",
     "uuid": "e28045c1-2933-4830-b6dd-c06f2d739354"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "11月中旬起，多地中小学放秋假。今年以来，“中小学春秋假”热度陡升，相关政策鼓励有条件的地方探索设置。浙江成为全国首个全面推行中小学春秋假的省份，秋假一般在11月中下旬 ...",
+    "id": "8oByuY0gSHl",
+    "order": 1762845763672,
+    "createdAt": "2025-11-11T04:53:18.000Z",
+    "publishDate": "2025-11-11T07:22:43.672Z",
+    "title": "秋假将至，浙江众景区对中小学生免门票",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-11 12:53:18",
+    "uuid": "0491fb9c-11ab-4bdf-bc55-91b607071925"
   },
   {
     "newsArray": [
