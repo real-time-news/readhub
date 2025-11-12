@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "在上交所国际投资者大会上，淡马锡中国区主席吴亦兵称，淡马锡将继续投入长期、耐心和价值资本，构建富有韧性和前瞻性的在华投资组合，作为基本面驱动的长期投资者，会持续关注符合投资趋势的机会。",
+    "id": "8oDYT0d5EY9",
+    "order": 1762917769380,
+    "createdAt": "2025-11-12T03:22:49.000Z",
+    "publishDate": "2025-11-12T03:22:49.380Z",
+    "title": "淡马锡中国区主席吴亦兵：构建富有韧性和前瞻性的在华投资组合",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 11:22:49",
+    "uuid": "d2261ce4-73a4-4c63-8358-2caeebc0e613"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "天马发布全球首款集成NFC功能的屏幕面板，实现显示与近场通信功能元件级融合。该显示屏采用触控与NFC一体化设计，支持分时驱动技术，两项功能并行且互不干扰，面板正面感应距离达3厘米 ...",
+    "id": "8oCOvZrGJZ2",
+    "order": 1762917572288,
+    "createdAt": "2025-11-12T03:19:32.000Z",
+    "publishDate": "2025-11-12T03:19:32.288Z",
+    "title": "天马发布首个集成 NFC 屏幕面板 支持隔空响应",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 11:19:32",
+    "uuid": "554b633b-c145-4496-9bde-4b3fc5f97d06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "品玩" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "今年天猫双11算力规模刷新纪录，阿里云提供超千万核CPU算力支持淘宝推荐业务，灵骏智算集群提供万卡训推一体AI算力支撑AI应用推理任务，阿里通义千问大模型大规模落地应用，Qwen翻译模型单日调用量超14亿次。",
+    "id": "8oDVwni5729",
+    "order": 1762917336853,
+    "createdAt": "2025-11-12T03:15:36.000Z",
+    "publishDate": "2025-11-12T03:15:36.853Z",
+    "title": "通义千问首次支撑天猫双11",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 11:15:36",
+    "uuid": "65cdfc30-127b-4e41-9790-441caaec4c87"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechSir" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "监测发现，成都奇鲁科技、天津杏仁桉科技等多家软件厂商通过云控配置构建推广产业链，远程开启推广模块变现 ...",
+    "id": "8oDWdmtHkHM",
+    "order": 1762917115144,
+    "createdAt": "2025-11-12T03:11:56.000Z",
+    "publishDate": "2025-11-12T03:11:55.144Z",
+    "title": "火绒安全：鲁大师利用浏览器弹窗推广页游",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 11:11:56",
+    "uuid": "997eaff1-0023-4e63-8688-c71b7221b7d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "今年双11已落幕，京东手机品类战报确定。销量榜前三为苹果、小米、vivo，其后依次是OPPO、荣耀等。销售额榜单前三不变，华为反超OPPO、荣耀位列第四 ...",
+    "id": "8oDNQ5ry1vs",
+    "order": 1762917720279,
+    "createdAt": "2025-11-12T03:06:36.000Z",
+    "publishDate": "2025-11-12T03:22:00.279Z",
+    "title": "京东双 11 手机排名出炉：苹果霸榜 小米国产冠军",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 11:06:36",
+    "uuid": "1e76d636-c8c8-406d-90cf-3045f692d660"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "网易科技" },
+      { "siteName": "环球网科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "2025年天猫双11算力规模再创新高，阿里云提供超千万核CPU算力，助淘宝核心业务场景性能提升超30%。灵骏智算集群提供万卡集群AI算力，支撑AI应用推理任务 ...",
+    "id": "8oDVw4fFoEp",
+    "order": 1762917739344,
+    "createdAt": "2025-11-12T02:53:26.000Z",
+    "publishDate": "2025-11-12T03:22:19.344Z",
+    "title": "天猫双11算力规模刷纪录 阿里云已提供超千万核CPU算力",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 10:53:26",
+    "uuid": "8376a547-caac-4c2e-8452-60a559cc3a5f"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "速途网" },
       { "siteName": "36Kr" }
@@ -15,6 +123,23 @@
     "up": false,
     "date": "2025-11-12 10:23:50",
     "uuid": "98f697c7-49f5-4dfe-a180-725e883b81f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "理想汽车近日发布组织调整公告，将组织与财经群组下的“组织部”与“人力资源”整合为“人力资源”并入产品与战略群组，组织与财经群组更名为CFO职能群组 ...",
+    "id": "8oDQwOLT0eO",
+    "order": 1762917775234,
+    "createdAt": "2025-11-12T02:22:11.000Z",
+    "publishDate": "2025-11-12T03:22:55.234Z",
+    "title": "理想汽车架构调整：组织部与人力资源整合，李想直管人事",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 10:22:11",
+    "uuid": "daa36ff9-02f5-4aa2-9470-7d7e6030fa01"
   },
   {
     "newsArray": [
@@ -181,6 +306,45 @@
   },
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "段永平在谈话节目中称不喜欢马斯克，认为他虽有很多先进想法，但从个人角度看，不喜欢其品行，还表示投资等同于和人做朋友，自己不想和马斯克做朋友，即便给钱也不干。",
+    "id": "8oDJv0TMxK1",
+    "order": 1762917801384,
+    "createdAt": "2025-11-12T01:43:40.000Z",
+    "publishDate": "2025-11-12T03:23:21.384Z",
+    "title": "段永平回应为何不买特斯拉 称不喜欢马斯克品行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 09:43:40",
+    "uuid": "43dc19cd-17d1-40c7-8b33-b01fff0e702d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "TechSir" }
+    ],
+    "summary": "福特汽车CEO吉姆·法利表示，拆解特斯拉和中国公司的电动汽车后，发现福特与对手存在巨大差距，这促使他推动公司全面改革 ...",
+    "id": "8oDJoMraM7a",
+    "order": 1762917845956,
+    "createdAt": "2025-11-12T01:43:23.000Z",
+    "publishDate": "2025-11-12T03:24:05.956Z",
+    "title": "福特CEO：中国电车和特斯拉遥遥领先，深感震惊和惭愧",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 09:43:23",
+    "uuid": "cc5984d6-4e7f-4431-bdfa-325d95ade34c"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -253,6 +417,23 @@
     "up": false,
     "date": "2025-11-12 08:25:44",
     "uuid": "f28aa5b3-73b2-4451-afd7-7cce260f9828"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "软银公布二季度财报后股价一度下跌 10%，其资产管理部门 10 月以 58.3 亿美元出售全部英伟达股份。",
+    "id": "8oDLwWZCEWv",
+    "order": 1762917968733,
+    "createdAt": "2025-11-12T00:22:43.000Z",
+    "publishDate": "2025-11-12T03:26:08.733Z",
+    "title": "软银集团股价一度下跌10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 08:22:43",
+    "uuid": "cf7030ba-3b00-4e95-9416-00df43f4575e"
   },
   {
     "newsArray": [
