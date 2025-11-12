@@ -1,6 +1,117 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子为其晶圆代工部门设立 2027 年管理目标，要实现重返盈利、市场份额达 20%。该业务自 2022 年因缺外部先进节点合同一直亏损，业内预计每季度亏 1 - 2 万亿韩元 ...",
+    "id": "8oCJC3Cs7g6",
+    "order": 1762908789966,
+    "createdAt": "2025-11-12T00:53:09.000Z",
+    "publishDate": "2025-11-12T00:53:09.966Z",
+    "title": "消息称三星电子为晶圆代工业务设立 2027 年目标：重返盈利、市占达 20%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 08:53:09",
+    "uuid": "7988bbf6-876e-4934-bfaa-00bf55f459fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "最近公布的法庭文件显示，马斯克给予OpenAI的捐赠约3800万美元，包括2016 - 2017年五次季度拨款每次500万、2016 - 2020年支付的1270万租金及送“关键员工”的四辆特斯拉汽车 ...",
+    "id": "8oDKSUXoiQB",
+    "order": 1762908198688,
+    "createdAt": "2025-11-12T00:33:20.000Z",
+    "publishDate": "2025-11-12T00:43:18.688Z",
+    "title": "文件显示马斯克对OpenAI捐赠金额为3800万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 08:33:20",
+    "uuid": "074442fd-65fc-471a-a427-766ebdd1eedc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中信建投发布化工2026年投资策略展望：在行业资本开支放缓、周期拐点将近背景下，建议关注农药、尿素等板块。降息周期我国逆周期政策助力内需回暖，可关注聚氨酯等板块 ...",
+    "id": "8oDLA8CHNFA",
+    "order": 1762907523592,
+    "createdAt": "2025-11-12T00:32:03.000Z",
+    "publishDate": "2025-11-12T00:32:03.592Z",
+    "title": "中信建投：反内卷加速周期拐点到来，新材料仍是长期战略方向",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 08:32:03",
+    "uuid": "e95b321e-c0a7-4d6b-b4d7-1495bcfe6233"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "11月12日，韩国8英寸纯晶圆代工厂SK keyfoundry宣布加速开发碳化硅（SiC）化合物功率半导体技术，近期已完成对碳化硅领域关键企业SK powertech的收购，目标在2025年底前推出碳化硅MOSFET 1200V工艺技术，2026年上半年启动碳化硅功率半导体代工业务。",
+    "id": "8oDMbsupJ24",
+    "order": 1762907143948,
+    "createdAt": "2025-11-12T00:25:44.000Z",
+    "publishDate": "2025-11-12T00:25:43.948Z",
+    "title": "SK keyfoundry计划明年上半年启动碳化硅功率半导体代工业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 08:25:44",
+    "uuid": "f28aa5b3-73b2-4451-afd7-7cce260f9828"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "当地时间11月11日，多米尼加共和国遭遇全国性停电，经紧急响应，部分电力已恢复。",
+    "id": "8oDJ6MnfDKh",
+    "order": 1762906883589,
+    "createdAt": "2025-11-12T00:21:23.000Z",
+    "publishDate": "2025-11-12T00:21:23.589Z",
+    "title": "多米尼加遭遇全国停电，部分电力已恢复",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 08:21:23",
+    "uuid": "ead6cca0-5c96-40d1-9aec-5a0bea3a16e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日经225指数涨0.23%，报50961.91点.韩国KOSPI指数跌0.15%，报4100.2点.",
+    "id": "8oDLtTH1GWd",
+    "order": 1762908199595,
+    "createdAt": "2025-11-12T00:13:43.000Z",
+    "publishDate": "2025-11-12T00:43:19.595Z",
+    "title": "日经225指数涨0.23%，韩国KOSPI指数跌0.15%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 08:13:43",
+    "uuid": "58e581d2-9a44-43bd-9a02-86fa2ee6c082"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -72,6 +183,42 @@
   {
     "newsArray": [
       { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美国制裁俄罗斯卢克石油公司波及后者欧洲业务，多个欧洲国家冬季能源供应或受影响 ...",
+    "id": "8oCvVvnKQQJ",
+    "order": 1762906905783,
+    "createdAt": "2025-11-11T23:32:20.000Z",
+    "publishDate": "2025-11-12T00:21:45.783Z",
+    "title": "美对俄制裁波及欧洲，保加利亚手头汽油库存告急",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 07:32:20",
+    "uuid": "2d9606c1-721a-499a-8d11-b87a42d67db7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "截至11月11日，今年1083家公司宣布中期分红，金额合计7661.69亿元，超去年中期分红金额，超300家公司首次中期分红 ...",
+    "id": "8oDE4T3BT89",
+    "order": 1762907112837,
+    "createdAt": "2025-11-11T23:24:34.000Z",
+    "publishDate": "2025-11-12T00:25:12.837Z",
+    "title": "“生力军”持续扩大，上市公司中期分红渐成风尚",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 07:24:34",
+    "uuid": "6d8e9f9b-e257-4d68-beb7-f2202fe2185d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "36Kr" }
@@ -86,6 +233,25 @@
     "up": false,
     "date": "2025-11-12 07:24:24",
     "uuid": "0a01c3d2-ad5e-4d0c-8205-216a8f578aff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "临近年末，A股上市公司盘活存量资产动作频繁，近20家公司集中发布资产出售、股权转让或房产处置公告，交易金额数百万元到数亿元不等，不少公司通过出售闲置或非核心资产获取阶段性收益以“增厚利润”。",
+    "id": "8oDHdVKmcOH",
+    "order": 1762907128632,
+    "createdAt": "2025-11-11T23:23:41.000Z",
+    "publishDate": "2025-11-12T00:25:28.632Z",
+    "title": "多家上市公司年底集中出售资产，“瘦身+增效”并行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 07:23:41",
+    "uuid": "8986f561-c585-422a-bc37-eda31d87bd65"
   },
   {
     "newsArray": [
