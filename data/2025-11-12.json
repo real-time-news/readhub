@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "稳定币发行商Circle三季度流通USDC规模达737亿美元，总收入及储备收益达7.4亿美元，调整后EBITDA为1.66亿美元，高于市场预期的1.3247亿美元。",
+    "id": "8oE8Vvjq6fK",
+    "order": 1762947309156,
+    "createdAt": "2025-11-12T11:35:10.000Z",
+    "publishDate": "2025-11-12T11:35:09.156Z",
+    "title": "Circle：三季度流通USDC规模达737亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 19:35:10",
+    "uuid": "1f4e314d-d625-4ebd-af7c-e938f559dd48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "奥克股份公告称，公司股票连续两个交易日收盘价格涨幅偏离值累计达31.91%，属异常波动情形 ...",
+    "id": "8oE7ohCarAc",
+    "order": 1762947235291,
+    "createdAt": "2025-11-12T11:33:55.000Z",
+    "publishDate": "2025-11-12T11:33:55.291Z",
+    "title": "奥克股份：新能源锂电和建筑化学品等行业仍然面临压力存在不确定性",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 19:33:55",
+    "uuid": "4c85a407-5365-4066-ae6f-94eb00f73d06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "截至目前，南水北调东中线工程累计向北方调水超838亿立方米，惠及沿线48座大中型城市1.95亿人，为北方地区超19万亿元GDP增长提供有力支撑。",
+    "id": "8oE8WLBmEk6",
+    "order": 1762947203908,
+    "createdAt": "2025-11-12T11:33:23.000Z",
+    "publishDate": "2025-11-12T11:33:23.908Z",
+    "title": "南水北调东中线调水超838亿立方米",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 19:33:23",
+    "uuid": "7fe0a2da-d4f0-469a-b6b1-8ee62fdab559"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "该公司计划明年扩大产品市场覆盖范围。三星致力于开发新功能，用户未来或可通过 Galaxy Ring 智能戒指手势操作，直接操作 Galaxy XR 头显的用户界面 ...",
+    "id": "8oDzwCfZ92h",
+    "order": 1762947190473,
+    "createdAt": "2025-11-12T11:33:11.000Z",
+    "publishDate": "2025-11-12T11:33:10.473Z",
+    "title": "代码曝光三星 Galaxy Ring 新功能：未来有望操控智能眼镜",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-12 19:33:11",
+    "uuid": "c2b02347-76d5-4053-b10c-4a214a1a6eff"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
