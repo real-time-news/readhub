@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "市场早间低开高走，创业板指涨超2%，宁德时代涨超8%。锂电池板块掀涨停潮，光伏、储能板块集体拉升，有色板块延续强势 ...",
+    "id": "8oFFAUvmwKE",
+    "order": 1763005528497,
+    "createdAt": "2025-11-13T03:45:29.000Z",
+    "publishDate": "2025-11-13T03:45:28.497Z",
+    "title": "11月13日午间收评：创业板指半日涨2.68%，锂电池板块掀涨停潮",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 11:45:29",
+    "uuid": "4deba91c-4bc6-4c9e-b8da-63b53351d33a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "芯原股份近日宣布与谷歌联合推出面向始终在线、超低能耗端侧大语言模型应用的Coral NPU IP，该IP基于谷歌研究成果，强化AI安全特性，提供统一开源技术平台以构建边缘AI生态系统 ...",
+    "id": "8oFF8bbmFKw",
+    "order": 1763004837386,
+    "createdAt": "2025-11-13T03:33:57.000Z",
+    "publishDate": "2025-11-13T03:33:57.386Z",
+    "title": "芯原与谷歌联合推出开源Coral NPU IP，加速边缘AI生态发展",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 11:33:57",
+    "uuid": "0ff368e0-d26e-43b2-8e3d-6ca4d9157016"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "佰维存储在机构调研时称，据TrendForce集邦咨询预测，NAND Flash和DRAM产品价格2025年四季度将继续上涨 ...",
+    "id": "8oFENh7DYMj",
+    "order": 1763004330878,
+    "createdAt": "2025-11-13T03:25:30.000Z",
+    "publishDate": "2025-11-13T03:25:30.878Z",
+    "title": "佰维存储：目前存储价格持续回升，景气度仍会持续",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 11:25:30",
+    "uuid": "efde2299-1204-4490-a98e-e442c15b8886"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近日，苏州信诺维医药科技股份有限公司IPO辅导状态变更为“辅导验收”，辅导券商国泰海通证券认为辅导对象具备成为上市公司应有的公司治理结构、会计基础工作、内部控制制度。",
+    "id": "8oFEDP0fYBf",
+    "order": 1763004284936,
+    "createdAt": "2025-11-13T03:24:45.000Z",
+    "publishDate": "2025-11-13T03:24:44.936Z",
+    "title": "国产创新药“独角兽”信诺维完成IPO辅导",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 11:24:45",
+    "uuid": "5c5f3ce5-fc8e-4c81-994d-2b1feec05551"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LiblibAI今日宣布上线腾讯混元图像3.0（HunyuanImage 3.0）和腾讯优图视频特效模型Youtu - Video FX，用户可通过LiblibAI平台上的图片视频生成器使用相关模型。",
+    "id": "8oFDey7qg9T",
+    "order": 1763004263659,
+    "createdAt": "2025-11-13T03:24:23.000Z",
+    "publishDate": "2025-11-13T03:24:23.659Z",
+    "title": "腾讯混元图像3.0上线LiblibAI",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 11:24:23",
+    "uuid": "6fb589f4-91ce-4eb1-93c8-26035e9c72eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "奥斯卡获奖演员马修・麦康纳与迈克尔・凯恩均与人工智能语音公司 ElevenLabs 签署合作协议，该公司可生成他们的 AI 模拟声音，旨在解决人工智能行业与好莱坞合作的“关键伦理挑战” ...",
+    "id": "8oDzxD7bMMv",
+    "order": 1763004223582,
+    "createdAt": "2025-11-13T03:23:43.000Z",
+    "publishDate": "2025-11-13T03:23:43.582Z",
+    "title": "奥斯卡获奖演员麦康纳、凯恩与 ElevenLabs 签约，为 AI“献声”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 11:23:43",
+    "uuid": "25fcda48-0477-4606-a359-897dfbac2778"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" },
       { "siteName": "IT 之家" },
@@ -88,6 +193,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "在百度世界大会上，李彦宏称无人驾驶正给城市生活带来颠覆性改变，会改变交通、出行乃至整个社会生态 ...",
+    "id": "8oFCEWf7Wth",
+    "order": 1763004264565,
+    "createdAt": "2025-11-13T02:54:55.000Z",
+    "publishDate": "2025-11-13T03:24:24.565Z",
+    "title": "萝卜快跑服务次数已超1700万 居全球第一",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 10:54:55",
+    "uuid": "d72cd11f-d3ad-4595-b197-ab9a41a2952a"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -156,6 +280,23 @@
     "up": false,
     "date": "2025-11-13 10:35:24",
     "uuid": "ae60f8f7-93ee-498b-aad5-a1dacad67b0b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "钛媒体" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "创新药物研发公司浙江扬厉医药技术有限公司宣布完成亿元级B轮融资，由启明创投独家投资，现有股东还包括泰福资本等 ...",
+    "id": "8oF7m2OXKRT",
+    "order": 1763003733840,
+    "createdAt": "2025-11-13T02:32:34.000Z",
+    "publishDate": "2025-11-13T03:15:33.840Z",
+    "title": "扬厉医药完成亿元级 B 轮融资，启明创投独家投资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 10:32:34",
+    "uuid": "a8a0c6d3-e8bb-4d9f-b7a0-ec37cc3e0978"
   },
   {
     "newsArray": [
@@ -346,6 +487,23 @@
     "up": false,
     "date": "2025-11-13 09:13:10",
     "uuid": "96a1c8ce-3926-4545-a127-76fe16c8519d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果公司为遵守欧盟《数字市场法案》，允许欧盟地区软件开发者绕过 App Store 分发应用、不使用其应用内支付系统，将开发者平均费用从最高 30% 降至 20% ...",
+    "id": "8oEVOhsm82H",
+    "order": 1763004170949,
+    "createdAt": "2025-11-12T23:56:05.000Z",
+    "publishDate": "2025-11-13T03:22:50.949Z",
+    "title": "苹果公司称开发者费用下调并未惠及欧盟用户",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 07:56:05",
+    "uuid": "4f84c679-ba2d-4cff-b0a7-b7a16ab22d70"
   },
   {
     "newsArray": [
@@ -555,6 +713,23 @@
     "up": false,
     "date": "2025-11-13 01:32:32",
     "uuid": "5ffe4b60-72a3-4628-b333-e6475e11f6eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
+    "id": "8oEUf1XFsSk",
+    "order": 1763004267647,
+    "createdAt": "2025-11-12T16:51:31.000Z",
+    "publishDate": "2025-11-13T03:24:27.647Z",
+    "title": "苹果推出在 Apple Wallet 中展示的数字 ID",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-13 00:51:31",
+    "uuid": "30f35bee-b2a1-4b0e-ab46-1fdc80bbb07f"
   },
   {
     "newsArray": [
