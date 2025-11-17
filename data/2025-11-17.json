@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "11月15日，北京穿越者载人航天科技有限公司研制的穿越者壹号（CYZ1）载人飞船试验舱舱体下线 ...",
+    "id": "8oKTWTkvnhy",
+    "order": 1763354598377,
+    "createdAt": "2025-11-17T04:43:18.000Z",
+    "publishDate": "2025-11-17T04:43:18.377Z",
+    "title": "穿越者壹号载人飞船试验舱舱体在成都下线",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-17 12:43:18",
+    "uuid": "48852f18-190e-4d9d-95cb-a5a89d168bf3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "荷兰半导体设备大厂阿斯麦首席执行官Christophe Fouquet近日称，荷兰政府接管安世半导体引发荷中关系紧张，但阿斯麦业务未受影响，短期内也不会受影响，他认为危机最糟时期已过去 ...",
+    "id": "8oLkqq5l0rj",
+    "order": 1763354577415,
+    "createdAt": "2025-11-17T04:42:58.000Z",
+    "publishDate": "2025-11-17T04:42:57.415Z",
+    "title": "阿斯麦回应荷兰接管安世半导体：公司业务未受影响，危机高峰已过",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-17 12:42:58",
+    "uuid": "e860b0ef-48d6-41d0-8832-ed5a5bfb7553"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "中关村在线" }
+    ],
+    "summary": "近日，多家玛莎拉蒂经销商发布消息，其首款纯电动中型SUV Grecale Folgore于2024年12月推出，官方指导价89.88万元，经销商报价35.88万元起，直降54万元，相当于四折销售，裸车价加选装配置落地约40万元 ...",
+    "id": "8oLbxrJ87zc",
+    "order": 1763354563741,
+    "createdAt": "2025-11-17T04:42:43.000Z",
+    "publishDate": "2025-11-17T04:42:43.741Z",
+    "title": "玛莎拉蒂电动SUV四折促销，销量回升难掩在华颓势",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-17 12:42:43",
+    "uuid": "e379d5f8-8c7a-4637-8694-390719e8d091"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "百胜中国计划到2030年开设超3万家门店，有望2026年实现门店数量2万家目标。",
+    "id": "8oLx1W8nTsH",
+    "order": 1763354025793,
+    "createdAt": "2025-11-17T04:33:45.000Z",
+    "publishDate": "2025-11-17T04:33:45.793Z",
+    "title": "百胜中国：计划到2030年开设超过3万家门店",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-17 12:33:45",
+    "uuid": "5ab57c6b-71fa-4dd7-a557-e26258681b88"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "盈峰资本发布严正声明，近期有不法分子冒用其名义通过电话、网络等开展非法推广活动，损害投资者权益和公司声誉 ...",
+    "id": "8oLx1eVOcWA",
+    "order": 1763354002894,
+    "createdAt": "2025-11-17T04:33:22.000Z",
+    "publishDate": "2025-11-17T04:33:22.894Z",
+    "title": "遭冒名开展非法活动 百亿私募盈峰资本严正声明：已取证",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-17 12:33:22",
+    "uuid": "535dff85-52ce-42eb-8c44-f7deb6d3a9d3"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
@@ -838,6 +927,25 @@
     "up": false,
     "date": "2025-11-17 07:53:28",
     "uuid": "8009a4bd-803c-4b92-a57a-f84c9144b320"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "每经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "近日，北京兴鼎房地产开发有限公司（中建智地持股 97%的子公司）发给广州国资委的“举报信”在业内流传，暴露出中建智地与越秀地产围绕北京璞樾项目营销、操盘问题的合作“嫌隙” ...",
+    "id": "8oKQji2HRCV",
+    "order": 1763354016869,
+    "createdAt": "2025-11-16T23:52:58.000Z",
+    "publishDate": "2025-11-17T04:33:36.869Z",
+    "title": "一封“举报信”，爆出头部房企中建智地与越秀地产合作背后的纠葛",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-17 07:52:58",
+    "uuid": "7a8e6bd9-a432-4f00-aae5-25f8ed94b4f4"
   },
   {
     "newsArray": [
