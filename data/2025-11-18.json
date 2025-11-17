@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美股三大指数集体收跌，道指跌1.18%，标普500指数跌0.91%，纳指跌0.84%。大型科技股多数下跌，AMD、英特尔跌超2%，英伟达等跌超1%，谷歌逆势涨超3%。",
+    "id": "8oN5pCQmMei",
+    "order": 1763423544345,
+    "createdAt": "2025-11-17T23:52:24.000Z",
+    "publishDate": "2025-11-17T23:52:24.345Z",
+    "title": "纳指收跌0.8% 谷歌涨超3%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-18 07:52:24",
+    "uuid": "2eea148a-2d59-49d0-a3fb-90a6c32aceb8"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "快科技" },
       { "siteName": "华尔街见闻" }
@@ -15,6 +32,24 @@
     "up": false,
     "date": "2025-11-18 07:41:54",
     "uuid": "e581e5a4-dc21-46a4-9ad2-c4b5e0cf3f9a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "据“美联储观察”，美联储12月降息25个基点的概率为42.9%，维持利率不变的概率为57.1% ...",
+    "id": "8oNAlM1V32H",
+    "order": 1763423531130,
+    "createdAt": "2025-11-17T23:21:41.000Z",
+    "publishDate": "2025-11-17T23:52:11.130Z",
+    "title": "美联储12月降息25个基点的概率为42.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-18 07:21:41",
+    "uuid": "5af92dec-4af5-4aa2-80ab-91314dbcc26f"
   },
   {
     "newsArray": [
