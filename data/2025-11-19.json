@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "TikTok近日宣布推出两项AI内容管理功能，用户可通过“Manage Topics”工具自主调节AI生成内容在推荐流中的展示比例，该功能与现有分类偏好设置协同运作 ...",
+    "id": "8oPQ748Fq2B",
+    "order": 1763538605887,
+    "createdAt": "2025-11-19T07:50:05.000Z",
+    "publishDate": "2025-11-19T07:50:05.887Z",
+    "title": "TikTok推出AI内容调控工具 强化内容溯源技术",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 15:50:05",
+    "uuid": "0270da14-3743-42d3-8e6b-b2cda7399ed2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉正式向公众开放奥斯汀和旧金山湾区的 Robotaxi 服务，前提是用户需拥有 iPhone，使用 iOS 系统的用户下载 App 即可在当地预约乘车 ...",
+    "id": "8oPSFHauOFC",
+    "order": 1763538590629,
+    "createdAt": "2025-11-19T07:49:50.000Z",
+    "publishDate": "2025-11-19T07:49:50.629Z",
+    "title": "特斯拉 Robotaxi 服务向公众全面开放，但仅提供 iOS 版 App",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 15:49:50",
+    "uuid": "c8afbec9-9b85-49a8-a226-576938599d4f"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" }
@@ -69,6 +104,25 @@
     "up": false,
     "date": "2025-11-19 15:28:53",
     "uuid": "5c5240e4-9747-4de6-89cc-85dcf84c9d4f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "A股三大指数今日小幅低开，全天震荡，截至收盘，沪指涨0.18%，深证成指平收，创业板指涨0.25%。盘面上，水产、锂矿板块大涨，燃气概念走弱 ...",
+    "id": "8oPSFTMPUX7",
+    "order": 1763538679676,
+    "createdAt": "2025-11-19T07:28:22.000Z",
+    "publishDate": "2025-11-19T07:51:19.676Z",
+    "title": "收评：沪指涨0.18% 水产板块强势上扬",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 15:28:22",
+    "uuid": "4213e649-21df-4ba9-bf71-7e8136be18cc"
   },
   {
     "newsArray": [
@@ -337,6 +391,25 @@
     "up": false,
     "date": "2025-11-19 14:19:16",
     "uuid": "30f20cd7-db9b-4219-9c1a-dccad2f6d0d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "三星电子公布即将推出的2nm芯片工艺首批性能数据，将更积极推进下一代晶圆代工制造以缩小与台积电差距 ...",
+    "id": "8oPNFwvSep7",
+    "order": 1763538518481,
+    "createdAt": "2025-11-19T06:18:00.000Z",
+    "publishDate": "2025-11-19T07:48:38.481Z",
+    "title": "三星公布首批2纳米芯片性能数据，加速追赶台积电",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 14:18:00",
+    "uuid": "0fda74a4-d5c3-4ffc-bdae-d06ee34a7eab"
   },
   {
     "newsArray": [
@@ -737,6 +810,25 @@
     "up": false,
     "date": "2025-11-19 12:05:38",
     "uuid": "9226efeb-97d2-4a65-a775-ed6ce0dfca11"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "11 月 18 日，埃隆・马斯克在 X 平台表示愿意与苹果公司合作，计划将旗下 xAI 研发的 Grok AI 集成到 Siri 中以提升其智能与效率 ...",
+    "id": "8oPCVw9ojWT",
+    "order": 1763538505655,
+    "createdAt": "2025-11-19T04:04:51.000Z",
+    "publishDate": "2025-11-19T07:48:25.655Z",
+    "title": "马斯克：愿意合作通过 Grok AI 帮助苹果升级 Siri",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 12:04:51",
+    "uuid": "f5ab35b9-c141-4b3e-858e-764ea2aace39"
   },
   {
     "newsArray": [
