@@ -1,6 +1,134 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "因仪表盘显示屏（包括警告灯和车速显示）存在故障，福特在美国召回229,609辆Bronco车型，将通过经销商或OTA在线升级方式免费更新仪表盘软件。",
+    "id": "8oPaW5ePWX1",
+    "order": 1763543784838,
+    "createdAt": "2025-11-19T09:16:24.000Z",
+    "publishDate": "2025-11-19T09:16:24.838Z",
+    "title": "因仪表盘显示屏存在故障 福特在美召回超22万辆Bronco车型",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 17:16:24",
+    "uuid": "5769291f-64bb-405b-8b4f-c8d33ec4776a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "华虹公司在业绩说明会上称，其从事的存储业务为NOR FLASH，属闪存业务细分市场，第三季度闪存业务强劲，整体NOR FLASH市场稳定增长，公司第三季度增长率快于整体市场，或与自身情况有关，其55nm NOR FLASH过去几个季度已量产，55nm MCU正量产，明后年将推出40nm产品，有望带来新动力。",
+    "id": "8oPZOOalcFV",
+    "order": 1763543140356,
+    "createdAt": "2025-11-19T09:05:40.000Z",
+    "publishDate": "2025-11-19T09:05:40.356Z",
+    "title": "华虹公司：明年或后年将推出40nm NOR FLASH产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 17:05:40",
+    "uuid": "d5f3224e-a708-4aee-9692-b2bc13c4d62b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "上海市经济和信息化委员会发布《上海市无线电领域信用分级分类监督管理办法》，自2025年11月19日起施行，有效期至2030年11月18日 ...",
+    "id": "8oPaADhjYqd",
+    "order": 1763543118358,
+    "createdAt": "2025-11-19T09:05:18.000Z",
+    "publishDate": "2025-11-19T09:05:18.358Z",
+    "title": "《上海市无线电领域信用分级分类监督管理办法》印发，自2025年11月19日起施行",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 17:05:18",
+    "uuid": "56e3386a-1b56-47d7-a4b6-10bcad17d6bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "当地时间11月19日，泽连斯基发文称，乌多地正紧急应对俄方大规模袭击。俄从18日夜间起发动打击，发射超470架攻击型无人机及48枚各型导弹，打击覆盖乌10余州 ...",
+    "id": "8oPaA0ogjgb",
+    "order": 1763543074216,
+    "createdAt": "2025-11-19T09:04:34.000Z",
+    "publishDate": "2025-11-19T09:04:34.216Z",
+    "title": "乌称多地遭俄大规模袭击 已致多人死伤",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 17:04:34",
+    "uuid": "c0f0ba29-aa6a-4c92-a774-f91734accfc8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "富临精工在互动平台表示，公司在机器人关键硬件智能电关节上已布局产业，拓展谐波、行星减速器两个平台的电关节产品，目前智能关节产线已投产并开始交付客户。",
+    "id": "8oPa9tPPlEC",
+    "order": 1763543045990,
+    "createdAt": "2025-11-19T09:04:05.000Z",
+    "publishDate": "2025-11-19T09:04:05.990Z",
+    "title": "富临精工：智能关节产线已投产并开始交付客户",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 17:04:05",
+    "uuid": "f3e85cec-5345-4428-b9be-89d38e5bb266"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "爱范儿" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "阿里千问App公测三天后迅速升级多项翻译能力，基于Qwen模型推出全新实时翻译功能，内容互译支持中文、英文等119种语言，覆盖全球98%以上人口常用语种。",
+    "id": "8oPQowbpe1h",
+    "order": 1763542753559,
+    "createdAt": "2025-11-19T08:59:13.000Z",
+    "publishDate": "2025-11-19T08:59:13.559Z",
+    "title": "千问App推出全新实时翻译功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 16:59:13",
+    "uuid": "03d24622-38b1-446f-bf7e-c5eaa0e32d3b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "阿里巴巴新推出的AI应用“千问APP”公测上线仅两天，冲入苹果App Store免费应用总榜第三位。",
+    "id": "8oNltuNa7Bb",
+    "order": 1763542674221,
+    "createdAt": "2025-11-19T08:57:55.000Z",
+    "publishDate": "2025-11-19T08:57:54.221Z",
+    "title": "阿里千问APP冲入苹果App Store免费应用总榜前三",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 16:57:55",
+    "uuid": "58005313-5f73-4198-862a-6b513926263d"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
@@ -1286,6 +1414,24 @@
     "up": false,
     "date": "2025-11-19 11:53:32",
     "uuid": "5ac3cc41-b8d1-43f2-bc47-895ebdc89351"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "中广核浙江三澳核电项目3号机组于今日开始核岛第一罐混凝土浇筑，标志主体工程正式开工。该项目是长三角首个采用华龙一号技术、全国首个民营资本参股的核电项目，位于浙江温州苍南县 ...",
+    "id": "8oPDwhrAtiI",
+    "order": 1763543079660,
+    "createdAt": "2025-11-19T03:53:20.000Z",
+    "publishDate": "2025-11-19T09:04:39.660Z",
+    "title": "浙江三澳核电3号机组主体工程正式开工",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-19 11:53:20",
+    "uuid": "55417233-3871-4efb-88e0-61aba0dd8b5b"
   },
   {
     "newsArray": [
