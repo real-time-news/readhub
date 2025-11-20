@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国际铜夜盘收跌0.56%，沪铜收跌0.53%，沪铝收跌0.12%，沪锌收涨0.49%，沪铅收跌0.20%，沪镍收跌0.92%，沪锡收跌0.16% ...",
+    "id": "8oRo2NbYgIH",
+    "order": 1763679904134,
+    "createdAt": "2025-11-20T23:05:05.000Z",
+    "publishDate": "2025-11-20T23:05:04.134Z",
+    "title": "沪镍收跌0.92%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 07:05:05",
+    "uuid": "ff9d7aad-8754-4c52-bae1-b280e65c98d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "纳斯达克中国金龙指数跌超0.5%，阿特斯、信也科技、网易有道、海天网络、小牛电动等均有不同程度下跌。",
+    "id": "8oRzUpVXsSe",
+    "order": 1763679887500,
+    "createdAt": "2025-11-20T23:04:47.000Z",
+    "publishDate": "2025-11-20T23:04:47.500Z",
+    "title": "纳斯达克中国金龙指数跌超0.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 07:04:47",
+    "uuid": "cbda52bd-d3ae-4ee3-bc1c-a2f2a3a03faf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "鸿海与OPENAI宣布AI基础设施硬件合作，将在美国生产AI数据中心组件，合作将增强美国人工智能供应链，双方还将共同设计、开发AI数据中心机架，协议不含购买承诺。",
+    "id": "8oSD5HfGsWk",
+    "order": 1763679864153,
+    "createdAt": "2025-11-20T23:04:24.000Z",
+    "publishDate": "2025-11-20T23:04:24.153Z",
+    "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 07:04:24",
+    "uuid": "6613562a-f31e-4110-b803-bb86c780dbbc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌 DeepMind 聘请波士顿动力前首席技术官亚伦・桑德斯担任硬件工程副总裁，深化其在机器人领域的布局 ...",
+    "id": "8oQqjzkvUvm",
+    "order": 1763679763351,
+    "createdAt": "2025-11-20T23:02:43.000Z",
+    "publishDate": "2025-11-20T23:02:43.351Z",
+    "title": "谷歌 DeepMind 聘请波士顿动力前 CTO，开启机器人新时代",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 07:02:43",
+    "uuid": "2da53d37-ce28-44d5-a71e-113212fb21f7"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
