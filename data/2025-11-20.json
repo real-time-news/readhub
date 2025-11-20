@@ -1,6 +1,61 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "迈威生物公告，近日收到中国证监会出具的境外发行上市备案通知书，拟发行不超62,664,600股境外上市普通股并在港交所上市，申请发行境外上市外资股（H股）并上市尚需取得相关政府机关、监管机构、证券交易所批准、核准，事项存在不确定性。",
+    "id": "8oRLT4vhPl4",
+    "order": 1763634863444,
+    "createdAt": "2025-11-20T10:34:23.000Z",
+    "publishDate": "2025-11-20T10:34:23.444Z",
+    "title": "迈威生物：公司发行境外上市外资股(H股)获得中国证监会备案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-20 18:34:23",
+    "uuid": "de25259b-fb8a-4e61-95e2-f4eb08c01e26"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "艾迪精密公告，拟用自有资金以集中竞价交易方式回购部分 A 股股份，回购资金总额 1-2 亿元（含），用于转换公司可转债，回购价不超 27 元 / 股（含） ...",
+    "id": "8oRK06VMX4J",
+    "order": 1763634304016,
+    "createdAt": "2025-11-20T10:18:26.000Z",
+    "publishDate": "2025-11-20T10:25:04.016Z",
+    "title": "艾迪精密：拟1亿元-2亿元回购公司A股股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-20 18:18:26",
+    "uuid": "6d99295f-a3b3-4b3c-acb6-5bb5401a2a08"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "海南矿业(601969.SH)公告，股东海南海钢集团有限公司因自身资金需求，计划于2025年12月12日至2026年3月11日通过集中竞价交易减持不超1500万股，占总股本不超0.75%，减持股份源于首次公开发行前取得的股份。",
+    "id": "8oRK0DdtAqv",
+    "order": 1763634815167,
+    "createdAt": "2025-11-20T10:16:47.000Z",
+    "publishDate": "2025-11-20T10:33:35.167Z",
+    "title": "海南矿业：股东海钢集团拟减持不超0.75%股份",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-20 18:16:47",
+    "uuid": "46440f4e-7545-4ce3-802c-94fce166a21d"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
@@ -15,6 +70,25 @@
     "up": false,
     "date": "2025-11-20 18:13:20",
     "uuid": "e061221a-e001-4928-bc2a-89d8585c0304"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "阿维塔官方宣布与华为乾崑全面深化战略合作，更多信息将在今晚 19:00 的华为乾崑生态大会公布 ...",
+    "id": "8oRG5KiVk7n",
+    "order": 1763634168356,
+    "createdAt": "2025-11-20T10:07:36.000Z",
+    "publishDate": "2025-11-20T10:22:48.356Z",
+    "title": "阿维塔官宣将与华为乾崑全面深化战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-20 18:07:36",
+    "uuid": "cffdab35-7b2a-444e-9ceb-5c358922da86"
   },
   {
     "newsArray": [
@@ -33,6 +107,25 @@
     "up": false,
     "date": "2025-11-20 18:03:44",
     "uuid": "9b98f921-ea5c-49fe-9b66-6e36108db63b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "文远知行WeRide旗下自动驾驶出租车Robotaxi获瑞士联邦公路局颁发的纯无人牌照，获准在苏黎世弗尔塔尔地区公共道路开展纯无人运营，这是瑞士首张纯无人Robotaxi牌照。",
+    "id": "8oRIZgvIWWk",
+    "order": 1763634107982,
+    "createdAt": "2025-11-20T10:03:26.000Z",
+    "publishDate": "2025-11-20T10:21:47.982Z",
+    "title": "文远知行Robotaxi获得瑞士纯无人牌照",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-20 18:03:26",
+    "uuid": "6025b5a8-8744-476c-afdb-a4dcc30c43b3"
   },
   {
     "newsArray": [
@@ -107,6 +200,25 @@
     "up": false,
     "date": "2025-11-20 17:53:12",
     "uuid": "445322f6-ca6a-4bfb-8e3f-8588870d254e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "莱克电气(603355.SH)公告，拟将全资子公司苏州金莱克精密机械有限公司90%股权转让给苏州创元资源循环有限公司，双方意向目标公司全部股东权益价值为2.35亿元，实际以评估价格为准。",
+    "id": "8oRIZrSRWpF",
+    "order": 1763634733835,
+    "createdAt": "2025-11-20T09:52:55.000Z",
+    "publishDate": "2025-11-20T10:32:13.835Z",
+    "title": "莱克电气：拟2.35亿元转让全资子公司精密机械90%股权",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-20 17:52:55",
+    "uuid": "aa2bdd5f-fef0-42a6-bfd5-a43a225412d0"
   },
   {
     "newsArray": [
@@ -219,6 +331,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "人工智能基础设施初创公司Lambda周三宣布完成超15亿美元后期融资，由TWG Global主导E轮融资，塔尔旗下美国创新技术基金参与投资，该基金去年曾主导Lambda 3.2亿美元融资轮 ...",
+    "id": "8oQOsb79f5s",
+    "order": 1763634138257,
+    "createdAt": "2025-11-20T09:36:31.000Z",
+    "publishDate": "2025-11-20T10:22:18.257Z",
+    "title": "Lambda筹集15亿美元资金以推动大规模AI建设",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-20 17:36:31",
+    "uuid": "7e5a3900-d290-4fdb-9562-d8dd8be9b1d8"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -287,6 +416,43 @@
     "up": false,
     "date": "2025-11-20 17:34:04",
     "uuid": "be2a30b2-13f2-4875-8a2b-abbd6cc82cbc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2026届全国普通高校毕业生规模预计1270万人，同比增加48万人。教育部部署开展“2026届高校毕业生就业扩容提质行动”，促进高校毕业生高质量充分就业 ...",
+    "id": "8oQiBEPnQTZ",
+    "order": 1763634152769,
+    "createdAt": "2025-11-20T09:24:17.000Z",
+    "publishDate": "2025-11-20T10:22:32.769Z",
+    "title": "2026届高校毕业生预计1270万人，同比增加48万人",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-20 17:24:17",
+    "uuid": "13af10de-0906-4ab2-8bf1-5e39d07f8fd7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "博主于泽辉投诉星巴克，其 App 根据实时精准定位向其推送「正路过门店的「一豆两喝」活动」，且一路「追杀」推销，他认为这是被动接受推送骚扰，与小程序隐私政策适用场景不符 ...",
+    "id": "8oQyd6FNSPB",
+    "order": 1763634177244,
+    "createdAt": "2025-11-20T09:24:03.000Z",
+    "publishDate": "2025-11-20T10:22:57.244Z",
+    "title": "星巴克被指“追杀式”营销：抓取用户定位，路过哪家门店就推哪家门店活动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-20 17:24:03",
+    "uuid": "51d1023d-e4cc-419f-baa6-cfe29f46841b"
   },
   {
     "newsArray": [
