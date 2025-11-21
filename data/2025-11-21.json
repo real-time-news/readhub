@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华为今日发布Flex:ai AI容器软件，通过算力切分技术将单张GPU/NPU算力卡切分为多份虚拟算力单元，切分粒度精准至10%，可单卡承载多AI工作负载，还能聚合集群内各节点空闲XPU算力形成“共享算力池”，该软件发布后将同步在魔擎社区开源。",
+    "id": "8oSmnfd6zMV",
+    "order": 1763710923692,
+    "createdAt": "2025-11-21T07:42:05.000Z",
+    "publishDate": "2025-11-21T07:42:03.692Z",
+    "title": "华为发布Flex:ai AI容器技术，实现单卡同时承载多个AI工作负载",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 15:42:05",
+    "uuid": "513789d8-d18c-4a0a-8669-118d4193db32"
+  },
+  {
+    "newsArray": [
       { "siteName": "开源中国" },
       { "siteName": "aibase" },
       { "siteName": "36Kr" }
@@ -904,6 +921,24 @@
     "up": false,
     "date": "2025-11-21 11:11:42",
     "uuid": "0cf34fde-7065-4fc2-bb54-9ccc49bacdad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "比特币跌破86000美元，日内跌超4%。过去24小时加密货币市场近23万人被爆仓，爆仓总金额8.3亿美元（约合人民币59亿元），多单爆仓7亿美元，空单爆仓1.3亿美元，最大单笔爆仓发生在HTX - BTC。",
+    "id": "8oRj9SWAbQj",
+    "order": 1763711021046,
+    "createdAt": "2025-11-21T02:53:47.000Z",
+    "publishDate": "2025-11-21T07:43:41.046Z",
+    "title": "比特币跌破86000美元，日内跌超4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 10:53:47",
+    "uuid": "198d77b8-5c2e-4637-829d-d3713c632c94"
   },
   {
     "newsArray": [
