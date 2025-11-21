@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "awtmt.com_news" }
+    ],
+    "summary": "谷歌AI基础设施负责人Amin Vahdat在全体大会上表示，公司须加速扩展算力规模以满足AI服务需求，要每6个月翻倍一次，并在未来4 - 5年内额外翻倍1000倍 ...",
+    "id": "8oTJFdJZGJD",
+    "order": 1763739836277,
+    "createdAt": "2025-11-21T15:43:57.000Z",
+    "publishDate": "2025-11-21T15:43:56.277Z",
+    "title": "谷歌：公司必须每半年翻倍一次 AI 算力才能满足需求",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 23:43:57",
+    "uuid": "a91be220-dfe3-464b-a42c-294fc190bb88"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "每经网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美团官宣即日起在全国各地建设“骑手公寓”，有住房需求的骑手可申请入住，不限跑单类型，重点覆盖有过渡住房需求的骑手 ...",
+    "id": "8oTHpOcDlyy",
+    "order": 1763739822291,
+    "createdAt": "2025-11-21T15:43:43.000Z",
+    "publishDate": "2025-11-21T15:43:42.291Z",
+    "title": "美团宣布在全国建设“骑手公寓”：提供租房补贴，拎包入住",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 23:43:43",
+    "uuid": "bc733f9d-2851-4ea6-b641-dfe4b9a2b56b"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "钛媒体" },
