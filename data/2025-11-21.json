@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "AMZ123" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "亚马逊公司11月20日宣布，将在美国密西西比州沃伦县投资至少30亿美元建设数据中心园区，预计创造约200个直接就业机会，支持周边社区增加超300个全职等效职位，新园区将支持人工智能和云计算服务，是沃伦县历史上最大私人投资 ...",
+    "id": "8oSUaBAjJ73",
+    "order": 1763697159917,
+    "createdAt": "2025-11-21T03:52:40.000Z",
+    "publishDate": "2025-11-21T03:52:39.917Z",
+    "title": "亚马逊宣布30亿美元投资，在密西西比州建设新数据中心园区",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 11:52:40",
+    "uuid": "ac15b672-a88d-477c-be36-868081729ced"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "11月21日，法拉第未来（FF）宣布其控股子公司AIxCrypto Holdings Inc.（AIxC）完成纳斯达克上市公司更名手续，以“AIXC”代码交易，这是贾跃亭控制的第二家纳斯达克上市公司 ...",
+    "id": "8oSMf9CrBNU",
+    "order": 1763697108498,
+    "createdAt": "2025-11-21T03:51:49.000Z",
+    "publishDate": "2025-11-21T03:51:48.498Z",
+    "title": "贾跃亭再获一家美股上市公司 AIXC挂牌拟买入500万美元FF股票",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 11:51:49",
+    "uuid": "9b871fae-1978-4049-a0e9-e831c51c6929"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "税务申报文件显示，2024 年 OpenAI CEO 萨姆・奥尔特曼薪酬为 113,674 美元，较 2023 年增长约 50%，他未持有 OpenAI 股权，财富来自其他投资领域 ...",
+    "id": "8oSRK5ORDkT",
+    "order": 1763696806290,
+    "createdAt": "2025-11-21T03:46:46.000Z",
+    "publishDate": "2025-11-21T03:46:46.290Z",
+    "title": "奥尔特曼 2024年 薪酬被曝 11.37 万美元，同比增长近 50%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 11:46:46",
+    "uuid": "32bf0588-4c2b-457c-bed5-da4c3912763f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "鸿海董事长刘扬伟称，公司每年将向AI领域投资20亿至30亿美元，未来三至五年投入AI基础建设与技术开发的资金将占每年约50亿美元资本支出的一半以上，且鸿海云计算与网络业务（含AI服务器）已连续两季超越消费电子业务，营收结构正快速转型。",
+    "id": "8oSDlbi3e3h",
+    "order": 1763696593098,
+    "createdAt": "2025-11-21T03:43:13.000Z",
+    "publishDate": "2025-11-21T03:43:13.098Z",
+    "title": "鸿海刘扬伟：公司每年将向AI领域投资20亿至30亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 11:43:13",
+    "uuid": "ef38e590-a9cd-4d7a-88a5-d2190f8ead5a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "11月21日上午，米哈游新产品《Varsapura》首爆PV。该项目内部代号“UC”，前身是“PJSH”，由蔡浩宇带队，历经三次推翻重做确定方向 ...",
+    "id": "8oSNmUVLe9t",
+    "order": 1763696269385,
+    "createdAt": "2025-11-21T03:37:49.000Z",
+    "publishDate": "2025-11-21T03:37:49.385Z",
+    "title": "半小时超长PV放出，米哈游新游戏《Varsapura》曝光",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 11:37:49",
+    "uuid": "f6b995d6-2100-48bf-bc91-d7f6166353d0"
+  },
+  {
+    "newsArray": [
       { "siteName": "开源中国" },
       { "siteName": "格隆汇" },
       { "siteName": "aibase" }
