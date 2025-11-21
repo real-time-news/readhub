@@ -1,6 +1,132 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "截至11月20日，上交所融资余额报12519.07亿元，较前一交易日减少51.02亿元。深交所融资余额报12147.12亿元，较前一交易日减少7.34亿元 ...",
+    "id": "8oSKsA7XXNM",
+    "order": 1763686420751,
+    "createdAt": "2025-11-21T00:53:40.000Z",
+    "publishDate": "2025-11-21T00:53:40.751Z",
+    "title": "两市融资余额减少58.36亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 08:53:40",
+    "uuid": "bd209dc1-098e-4447-b542-9bcfeb9c099b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "近日，人工智能公司OpenAI在全球多个市场正式推出ChatGPT群聊功能，此前该功能仅小范围测试，因反馈积极现向所有登录用户开放 ...",
+    "id": "8oSFD0QPOhF",
+    "order": 1763686391420,
+    "createdAt": "2025-11-21T00:53:12.000Z",
+    "publishDate": "2025-11-21T00:53:11.420Z",
+    "title": "OpenAI正式全球上线ChatGPT群聊功能 支持多人协作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 08:53:12",
+    "uuid": "a8f8af98-6e5b-47a4-a3de-f60fc82aa29a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "First Eagle Investments投资组合经理Idanna Appio称，除非人们对财政状况的担忧和日本央行政策滞后风险缓解，否则目前干预日本汇市难有成效，干预只是“暂时的喘息”，无法解决市场对财政计划和日本央行加息的担忧 ...",
+    "id": "8oSKC3NLUhB",
+    "order": 1763686307405,
+    "createdAt": "2025-11-21T00:51:47.000Z",
+    "publishDate": "2025-11-21T00:51:47.405Z",
+    "title": "资产管理公司First Eagle：在财政担忧持续背景下 日元干预可能无成效",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 08:51:47",
+    "uuid": "fca2002e-77a6-4594-802d-4cbcf6c698f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中关村在线" },
+      { "siteName": "中关村在线" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Noctua 猫头鹰昨日推出 G2 chromax.black 系列新一代“黑化”产品线，涵盖 NH - D15 G2 风冷散热器、NF - A14x25(R) G2 风扇 ...",
+    "id": "8oQkbLwoW3b",
+    "order": 1763686173485,
+    "createdAt": "2025-11-21T00:49:34.000Z",
+    "publishDate": "2025-11-21T00:49:33.485Z",
+    "title": "Noctua 猫头鹰：无计划推出白色产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 08:49:34",
+    "uuid": "3ee40287-8564-4f0a-96bd-7a92a31b0d05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子周五宣布，任命移动业务负责人 TM Roh 为新任联合首席执行官，同时兼任设备体验部门负责人，该部门监管手机、电视及家电业务 ...",
+    "id": "8oSI4S61X3R",
+    "order": 1763685738501,
+    "createdAt": "2025-11-21T00:42:18.000Z",
+    "publishDate": "2025-11-21T00:42:18.501Z",
+    "title": "三星电子任命移动业务负责人为新的联席首席执行官",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 08:42:18",
+    "uuid": "182480df-f00f-49a2-8608-5ac310900e51"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中金公司筹划重大资产重组，拟换股吸收合并东兴证券、信达证券，三方已于19日签署相关协议，3家公司股票自20日起停牌，预计不超25个交易日 ...",
+    "id": "8oRQX0QCBFc",
+    "order": 1763685728859,
+    "createdAt": "2025-11-21T00:32:02.000Z",
+    "publishDate": "2025-11-21T00:42:08.859Z",
+    "title": "万亿级“新中金”呼之欲出，“汇金系”券商整合加速",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 08:32:02",
+    "uuid": "95e947bf-3b12-4be4-a1a6-6f156f941dc2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "鸿海宣布与Intrinsic在美国成立合资公司，共同建设未来AI机器人工厂，将整合Intrinsic的AI平台能力与鸿海的制造平台，目标是打造自适应智能机器人解决方案以提升生产设施及生态系统效率，初期合作涵盖组装、检测、机器维护管理及物流应用等场景。",
+    "id": "8oSGRp168Iv",
+    "order": 1763685759162,
+    "createdAt": "2025-11-20T23:52:54.000Z",
+    "publishDate": "2025-11-21T00:42:39.162Z",
+    "title": "鸿海与Intrinsic在美国成立合资公司，共同建设AI机器人工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 07:52:54",
+    "uuid": "30456f74-2308-49f1-a01c-7483ab86d613"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "IT 之家" },
       { "siteName": "格隆汇" }
@@ -15,6 +141,24 @@
     "up": false,
     "date": "2025-11-21 07:49:36",
     "uuid": "5bfd3974-bbdc-4e3f-b9f6-8284c3bcbbc8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "今年以来，债券ETF规模增长进一步提速，截至11月19日，规模已突破7100亿元，达7148.17亿元 ...",
+    "id": "8oSAwZM17h5",
+    "order": 1763686507159,
+    "createdAt": "2025-11-20T23:35:34.000Z",
+    "publishDate": "2025-11-21T00:55:07.159Z",
+    "title": "15只今年新发科创债ETF规模超百亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 07:35:34",
+    "uuid": "5ee8c5b1-cea4-473f-bdfa-837edd7b7373"
   },
   {
     "newsArray": [
@@ -33,6 +177,24 @@
     "up": false,
     "date": "2025-11-21 07:33:24",
     "uuid": "087d91c9-9d3a-4be4-877e-29238a25d866"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "当地时间11月20日，美国国家运输安全委员会称，10月16日美国联合航空公司1093航班飞行途中疑似遭气象气球撞击，该气球雷达轨迹与客机吻合 ...",
+    "id": "8oSBc0pHKk3",
+    "order": 1763686538542,
+    "createdAt": "2025-11-20T23:33:11.000Z",
+    "publishDate": "2025-11-21T00:55:38.542Z",
+    "title": "雷达轨迹吻合，美联航客机风挡碎裂原因可能为气象气球撞击",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 07:33:11",
+    "uuid": "04532a77-de52-4b1c-ba59-d8e76e7f93f1"
   },
   {
     "newsArray": [
@@ -67,6 +229,25 @@
     "up": false,
     "date": "2025-11-21 07:23:05",
     "uuid": "b12335ba-c916-42aa-b523-f68b8d38d679"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "花旗集团宣布Mark Mason将卸任首席财务官，Gonzalo Luchetti将于明年初接任 ...",
+    "id": "8oS6fwYxjjv",
+    "order": 1763685073622,
+    "createdAt": "2025-11-20T23:08:20.000Z",
+    "publishDate": "2025-11-21T00:31:13.622Z",
+    "title": "花旗首席财务官Mason明年3月将卸任 由Luchetti接任",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-21 07:08:20",
+    "uuid": "3bb93394-8ea3-4739-8a0a-a337284e8b8e"
   },
   {
     "newsArray": [
