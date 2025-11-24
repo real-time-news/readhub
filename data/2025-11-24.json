@@ -1,6 +1,152 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "截至2025年11月23日，三亚凤凰国际机场2025年旅客吞吐量突破2000万大关，累计保障运输起降122170架次，运送旅客2003.36万人次，同比分别增长7.30%、6.00%。",
+    "id": "8oXSyfo7hWK",
+    "order": 1763956329090,
+    "createdAt": "2025-11-24T03:49:33.000Z",
+    "publishDate": "2025-11-24T03:52:09.090Z",
+    "title": "三亚机场2025年旅客吞吐量突破2000万人次，同比增长6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 11:49:33",
+    "uuid": "5d34c1ad-fc7f-499e-958a-5b92ddb70434"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "智元机器人正式推出灵心平台（LinkSoul），可自由配置机器人的声音、性格、行为与记忆，内置30 - 40款现成音色。",
+    "id": "8oXV6OzNJgW",
+    "order": 1763956333108,
+    "createdAt": "2025-11-24T03:49:18.000Z",
+    "publishDate": "2025-11-24T03:52:13.108Z",
+    "title": "智元机器人推出灵心平台",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 11:49:18",
+    "uuid": "f8900f85-6482-445a-825a-25890dc1ff22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国际市场研究机构发布4篇GenAI技术创新指南系列报告，公布GenAI四大维度新兴市场象限，阿里云在四大维度均位于新兴领导者象限，是入选全部四项的唯一亚太厂商，比肩谷歌、OpenAI。",
+    "id": "8oXVRRTGMDW",
+    "order": 1763955799473,
+    "createdAt": "2025-11-24T03:43:19.000Z",
+    "publishDate": "2025-11-24T03:43:19.473Z",
+    "title": "Gartner最新报告：阿里云在生成式AI四大维度均列领导者象限",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 11:43:19",
+    "uuid": "9be7c10d-c921-4c16-b803-d4ae5e099b33"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "A股三大指数早盘高开低走，截至午间收盘，沪指跌0.34%报3821.68点，深成指、创业板指、北证50指数均下跌 ...",
+    "id": "8oXV6ZbLVC7",
+    "order": 1763955735227,
+    "createdAt": "2025-11-24T03:42:16.000Z",
+    "publishDate": "2025-11-24T03:42:15.227Z",
+    "title": "A股午评：沪指跌0.34%，超3200股上涨，军工装备、商业航天板块领涨",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 11:42:16",
+    "uuid": "41b07e80-df89-4f3e-b2ab-c71ececdfcd5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "环球网科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "近日，菜鸟与中国人寿再度深化合作，共同设立规模超17亿元的仓储物流投资基金，重点投向长三角及长江中游核心城市的高标准仓储物流基础设施，申通快递、友邦人寿等也参与投资 ...",
+    "id": "8oXOiW5okk1",
+    "order": 1763955712504,
+    "createdAt": "2025-11-24T03:41:52.000Z",
+    "publishDate": "2025-11-24T03:41:52.504Z",
+    "title": "菜鸟、中国人寿合作设立17亿元仓储物流投资基金",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 11:41:52",
+    "uuid": "c969a358-5f05-42bd-99f4-60386e01c6b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "截至11月24日10点，已有12条中日航线取消所有航班 ...",
+    "id": "8oXV4EruMBt",
+    "order": 1763956343516,
+    "createdAt": "2025-11-24T03:35:04.000Z",
+    "publishDate": "2025-11-24T03:52:23.516Z",
+    "title": "12条中日航线取消全部航班",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 11:35:04",
+    "uuid": "cfabb3e8-9be3-49f8-9d0a-95ffcc7b0c6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "OpenAI 发言人指出，此次 API 访问的终止仅适用于 GPT-4o 模型，而该模型仍然作为 ChatGPT 个人用户和付费用户的重要选项 ...",
+    "id": "8oXLnh9rMhC",
+    "order": 1763956356901,
+    "createdAt": "2025-11-24T03:13:59.000Z",
+    "publishDate": "2025-11-24T03:52:36.901Z",
+    "title": "​OpenAI 宣布将停止 GPT-4o 模型 API 访问",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 11:13:59",
+    "uuid": "8bbfc675-d0f9-480a-a418-cafedbd47730"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "OpenAI CEO Sam Altman 在内部备忘录中称，Google 在人工智能领域的进展可能给公司带来“短期经济逆风”，承认 Google 新 AI 模型或暂时领先，公众舆论可能一段时间内较严峻，还称赞 Google 在模型预训练阶段成果出色，OpenAI 正开发新模型 Shallotpeat 应对挑战 ...",
+    "id": "8oXPNqGKlLy",
+    "order": 1763956389054,
+    "createdAt": "2025-11-24T03:02:21.000Z",
+    "publishDate": "2025-11-24T03:53:09.054Z",
+    "title": "OpenAI 加强应对 Google AI 竞争",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 11:02:21",
+    "uuid": "49ce3822-84b5-4b36-8aa1-bc03d1fbbd25"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
@@ -157,6 +303,24 @@
     "up": false,
     "date": "2025-11-24 10:29:02",
     "uuid": "4d4d3453-0052-46ab-a36a-f51577dea4cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "NVIDIA公布2025财年第三季度财报，营收高达570亿美元。这得益于其在AI热潮中的关键角色，公司公开形象也在转变 ...",
+    "id": "8oWgqpc2pDU",
+    "order": 1763955736350,
+    "createdAt": "2025-11-24T01:36:39.000Z",
+    "publishDate": "2025-11-24T03:42:16.350Z",
+    "title": "黄仁勋称NVIDIA已不再是游戏显卡公司",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 09:36:39",
+    "uuid": "ab3960f9-1434-41b3-9453-8f2fd901c544"
   },
   {
     "newsArray": [
@@ -607,5 +771,26 @@
     "up": false,
     "date": "2025-11-24 06:55:44",
     "uuid": "512df3ea-0751-4973-ad37-3e2a1ea3397e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "加拿大总理卡尼和印度总理莫迪于当地时间11月23日同意就“全面经济伙伴关系协定”展开谈判，分析称这是加印外交关系解冻的最新迹象 ...",
+    "id": "8oWyAwlFtuw",
+    "order": 1763955251460,
+    "createdAt": "2025-11-23T20:11:23.000Z",
+    "publishDate": "2025-11-24T03:34:11.460Z",
+    "title": "加拿大印度同意启动全面经济伙伴关系协定谈判",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-24 04:11:23",
+    "uuid": "b953eb1e-b10f-46af-ade9-a46f2edf6ac0"
   }
 ]
