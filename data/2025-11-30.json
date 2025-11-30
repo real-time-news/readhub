@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "今日早间，中国社会福利基金会发布“香港大埔火灾紧急救援行动”募捐进展第2号公告 ...",
+    "id": "8ofr8iznUfI",
+    "order": 1764478988106,
+    "createdAt": "2025-11-30T05:03:09.000Z",
+    "publishDate": "2025-11-30T05:03:08.106Z",
+    "title": "中国社会福利基金会公布大埔火灾募捐进展：累计近百万人次捐赠",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-30 13:03:09",
+    "uuid": "1247b980-bf7f-488e-baa4-d179a0e9bb22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智源社区" },
+      { "siteName": "网易科技" },
+      { "siteName": "量子位" }
+    ],
+    "summary": "腾讯混元大模型团队正式发布并开源商业级、开源且轻量的OCR专用视觉语言模型HunyuanOCR。该模型感知和语义能力出色，获ICDAR 2025 DIMT挑战赛冠军等成绩 ...",
+    "id": "8ohPfbvA6n4",
+    "order": 1764478958598,
+    "createdAt": "2025-11-30T05:02:38.000Z",
+    "publishDate": "2025-11-30T05:02:38.598Z",
+    "title": "混元OCR模型核心技术揭秘：统一框架、真端到端",
+    "type": "topic",
+    "up": false,
+    "date": "2025-11-30 13:02:38",
+    "uuid": "bf9d1e7c-ed65-4b0c-be60-a68fb6153b31"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "界面" }
