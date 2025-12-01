@@ -1,6 +1,78 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "韩国统计厅数据显示，韩国11月CPI同比上升2.4%。",
+    "id": "8okTgyqAvfj",
+    "order": 1764630728975,
+    "createdAt": "2025-12-01T23:12:08.000Z",
+    "publishDate": "2025-12-01T23:12:08.975Z",
+    "title": "韩国11月CPI同比上升2.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 07:12:08",
+    "uuid": "8ff587d4-875c-4353-99aa-409baed0cd16"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "12月1日，荷兰国防大臣布雷克尔曼斯与乌克兰国防部长什梅加尔签署联合生产无人机协议，无人机由两国共同生产，荷兰出资采购并交付乌国防军 ...",
+    "id": "8okG7JaHTin",
+    "order": 1764630204169,
+    "createdAt": "2025-12-01T23:03:24.000Z",
+    "publishDate": "2025-12-01T23:03:24.169Z",
+    "title": "荷兰和乌克兰将联合生产无人机",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 07:03:24",
+    "uuid": "261112a0-242f-4097-86ed-7597472fd203"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "苹果公司宣布，负责机器学习与人工智能（AI）战略的高管约翰・詹南德里亚将卸任职务，在 2026 年春季正式退休前继续担任公司顾问 ...",
+    "id": "8okQvgYLdbN",
+    "order": 1764630191924,
+    "createdAt": "2025-12-01T23:03:11.000Z",
+    "publishDate": "2025-12-01T23:03:11.924Z",
+    "title": "詹南德里亚卸任苹果 AI 战略负责人，微软前高管接棒",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 07:03:11",
+    "uuid": "50a53397-ae53-45cc-b0b7-856ee6904745"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "12月2日，国家安全部提示，SDK（软件开发工具包）虽能提升软件开发者工作效率，但潜藏失泄密风险。境外组织可能将恶意SDK嵌入应用软件，非法收集敏感信息，对国家安全构成威胁 ...",
+    "id": "8okSG5Rwf1R",
+    "order": 1764630133501,
+    "createdAt": "2025-12-01T23:02:13.000Z",
+    "publishDate": "2025-12-01T23:02:13.501Z",
+    "title": "国家安全机关提示：警惕境外组织利用恶意SDK收集敏感信息",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 07:02:13",
+    "uuid": "2235dc14-05b0-441d-8417-c53776c4ad0c"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "财联社" }
