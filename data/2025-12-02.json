@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "芯片巨头英伟达在 NeurIPS 人工智能大会上宣布新基础设施和人工智能模型，旨在加速构建物理人工智能基础技术，该领域涵盖机器人和自动驾驶汽车 ...",
+    "id": "8okTgVfBJiS",
+    "order": 1764639331974,
+    "createdAt": "2025-12-02T01:35:32.000Z",
+    "publishDate": "2025-12-02T01:35:31.974Z",
+    "title": "英伟达发布首个自动驾驶推理模型，押注下一代 AI 大脑",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 09:35:32",
+    "uuid": "59c5769d-0cd8-47e2-8327-c5c9fff0df6d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "可灵AI正式发布“可灵O1”，定位为首个大一统的多模态创作工具。",
+    "id": "8okdhmnQvPR",
+    "order": 1764639270913,
+    "createdAt": "2025-12-02T01:34:31.000Z",
+    "publishDate": "2025-12-02T01:34:30.913Z",
+    "title": "可灵AI正式发布“可灵O1”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 09:34:31",
+    "uuid": "88db3cda-8c3e-4e83-ac34-23804ca982f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国央行今日开展1563亿元7天逆回购操作，投标量、中标量均为1563亿元，操作利率1.40%与此前持平，因有3021亿元7天期逆回购到期，当日实现净回笼1458亿元。",
+    "id": "8oiyptvSrpU",
+    "order": 1764639159232,
+    "createdAt": "2025-12-02T01:32:39.000Z",
+    "publishDate": "2025-12-02T01:32:39.232Z",
+    "title": "央行逆回购操作今日净回笼1458亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 09:32:39",
+    "uuid": "55014bc6-6e4e-4758-975b-dc5f7af7f7e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子发布首款可多次折叠的智能手机 Galaxy Z TriFold，以巩固其在手机市场地位 ...",
+    "id": "8okcFP5sb3u",
+    "order": 1764638594483,
+    "createdAt": "2025-12-02T01:23:14.000Z",
+    "publishDate": "2025-12-02T01:23:14.483Z",
+    "title": "三星推出首款可折叠手机 竞争将白热化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 09:23:14",
+    "uuid": "cc59eced-7e79-40b1-baaf-846d917a5c09"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "人民币兑美元中间价报7.0794，较上日调降35点。",
+    "id": "8okczA0y7bJ",
+    "order": 1764638567379,
+    "createdAt": "2025-12-02T01:22:48.000Z",
+    "publishDate": "2025-12-02T01:22:47.379Z",
+    "title": "人民币兑美元中间价较上日调降35点至7.0794",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 09:22:48",
+    "uuid": "d8f1bcc8-e234-436f-8635-5d2ffa28d54e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "联商网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "天图投资公告拟将旗下子公司持有的优诺乳业股权全部出售给昆山诺源睿源管理咨询有限公司，以实际签订合同为准 ...",
+    "id": "8ojk2LnUL0k",
+    "order": 1764638205464,
+    "createdAt": "2025-12-02T01:16:45.000Z",
+    "publishDate": "2025-12-02T01:16:45.464Z",
+    "title": "IDG资本拟买入法国酸奶品牌优诺中国",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 09:16:45",
+    "uuid": "acbd4e1f-a2b6-4d4b-b50d-752762c1b25e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "随着人工智能发展，大型数据中心建设需求攀升，为建筑工人带来经济收益。数据中心建设工人薪资普遍上涨 25%-30%，部分岗位年薪超 20 万美元 ...",
+    "id": "8okUOnxPARO",
+    "order": 1764638004429,
+    "createdAt": "2025-12-02T01:13:24.000Z",
+    "publishDate": "2025-12-02T01:13:24.429Z",
+    "title": "​AI助力下，数据中心建设工人薪资暴涨，部分年薪超 20 万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 09:13:24",
+    "uuid": "5c11f2c0-19e8-4138-bc92-26c05704996c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "12月2日，日“瑞宝丸”号渔船非法进入我钓鱼岛领海，中国海警局新闻发言人刘德军称，中国海警舰艇依法对其采取必要管控措施并警告驱离 ...",
+    "id": "8okbbE5HrBP",
+    "order": 1764637422348,
+    "createdAt": "2025-12-02T01:03:43.000Z",
+    "publishDate": "2025-12-02T01:03:42.348Z",
+    "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 09:03:43",
+    "uuid": "f0051c6e-606e-425e-b799-f1160888ea00"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "国内商品期货早盘开盘涨多跌少，沪银涨超3%续创新高，焦煤、焦炭等涨超1%，PX、短纤等小幅上涨。多晶硅、钯跌超2%，沥青、菜粕等跌超1%，棕榈油、沪锡等小幅下跌。",
+    "id": "8okbbEyM2Pw",
+    "order": 1764637409207,
+    "createdAt": "2025-12-02T01:03:30.000Z",
+    "publishDate": "2025-12-02T01:03:29.207Z",
+    "title": "国内商品期货早盘开盘，沪银涨超3%续创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 09:03:30",
+    "uuid": "4613dd72-aef2-4c71-94b4-0c0f6bdb2ef9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "继Shein、Temu和阿里巴巴后，中国大型在线零售商京东进军法国市场，将目光投向法国知名文化和电子产品零售商Fnac Darty ...",
+    "id": "8oj5JMa9S8K",
+    "order": 1764636974089,
+    "createdAt": "2025-12-02T00:56:15.000Z",
+    "publishDate": "2025-12-02T00:56:14.089Z",
+    "title": "京东进军法国，将成零售巨头Fnac Darty二股东",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-02 08:56:15",
+    "uuid": "f2a1dfaf-aa38-4af8-a7dc-6b60f65ebadb"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
