@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "微软下调人工智能软件销售配额，原因是客户抵触新产品。",
+    "id": "8onAuxoeb0E",
+    "order": 1764771162992,
+    "createdAt": "2025-12-03T14:12:42.000Z",
+    "publishDate": "2025-12-03T14:12:42.992Z",
+    "title": "微软据称下调人工智能软件销售配额",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 22:12:42",
+    "uuid": "5975f826-9fbe-441e-b440-d7485b1dd7e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美股期货短线下跌，截至目前，道琼斯指数期货涨0.03%，标普500指数期货涨0.06%，纳斯达克100指数期货跌0.07%。",
+    "id": "8onAuq1XJcN",
+    "order": 1764771138114,
+    "createdAt": "2025-12-03T14:12:19.000Z",
+    "publishDate": "2025-12-03T14:12:18.114Z",
+    "title": "纳斯达克100指数期货转跌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 22:12:19",
+    "uuid": "642bc0b9-5166-43d3-ab36-51458543a36b"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -1399,6 +1435,24 @@
     "up": false,
     "date": "2025-12-03 16:33:08",
     "uuid": "0be1df32-4a2d-428a-bfbf-fe39f190c4d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "据知情人士透露，AI初创公司Anthropic正与代码运行时服务商Bun洽谈收购，交易估值或达数亿美元，这将是Anthropic成立以来首次并购 ...",
+    "id": "8omgJy2aMYT",
+    "order": 1764771739374,
+    "createdAt": "2025-12-03T08:25:05.000Z",
+    "publishDate": "2025-12-03T14:22:19.374Z",
+    "title": "Anthropic拟数亿美元收购Bun，Claude Code将迎性能提速",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 16:25:05",
+    "uuid": "ffa230ef-9112-4f7b-82e8-66dd66d14f88"
   },
   {
     "newsArray": [
