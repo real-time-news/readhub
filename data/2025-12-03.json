@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "杭州瞳行科技公司发布首款AI助盲眼镜，该眼镜基于通义千问Qwen - VL、OCR等系列模型，具备出行避障、找物读物、语音助手和一键求助亲友等功能，由眼镜主体、手机、遥控指环、盲杖四部分组成，已正式面市。",
+    "id": "8omQWzMDnNy",
+    "order": 1764733287049,
+    "createdAt": "2025-12-03T03:41:28.000Z",
+    "publishDate": "2025-12-03T03:41:27.049Z",
+    "title": "杭州瞳行科技发布首款AI助盲眼镜",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 11:41:28",
+    "uuid": "5306ee29-d2c6-44ff-b98f-3eafd0201982"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "DoNews" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "米哈游联合创始人蔡浩宇创立的AI公司Anuttacon近日上线大模型产品AnuNeko，主打个性化与情绪化交互 ...",
+    "id": "8omHvaRsooP",
+    "order": 1764733043258,
+    "createdAt": "2025-12-03T03:37:23.000Z",
+    "publishDate": "2025-12-03T03:37:23.258Z",
+    "title": "蔡浩宇旗下Anuttacon推出情绪化AI聊天模型AnuNeko",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 11:37:23",
+    "uuid": "715cca24-5bb5-433f-aae4-63a9c74ce849"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "马来西亚交通部3日公告，水下探测公司“海洋无限”将于12月30日重启搜寻马航370航班客机残骸工作。",
+    "id": "8omRERi8RS3",
+    "order": 1764732964116,
+    "createdAt": "2025-12-03T03:36:04.000Z",
+    "publishDate": "2025-12-03T03:36:04.116Z",
+    "title": "马交通部：马航370航班客机残骸搜寻于12月30日重启",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 11:36:04",
+    "uuid": "791489ce-6512-42be-9ad4-7ac6de49fe5e"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
@@ -18,6 +70,23 @@
     "up": false,
     "date": "2025-12-03 10:52:52",
     "uuid": "d585a494-fc20-472c-af41-9704d15e6954"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "谷歌旗下YouTube周三表示将遵守澳大利亚禁止16岁以下儿童使用社交媒体账户的禁令，该法律12月10日生效 ...",
+    "id": "8omEQPdUHIC",
+    "order": 1764733185598,
+    "createdAt": "2025-12-03T02:52:32.000Z",
+    "publishDate": "2025-12-03T03:39:45.598Z",
+    "title": "YouTube同意遵守澳大利亚未成年人禁令",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 10:52:32",
+    "uuid": "8ab0cc77-e5ba-4f62-9811-698ecf089c05"
   },
   {
     "newsArray": [
@@ -71,6 +140,23 @@
     "up": false,
     "date": "2025-12-03 10:34:08",
     "uuid": "5d4985e4-8249-4c9c-a7c8-e56365f0e021"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "近日网络传闻前小米中国区市场部总经理、Redmi品牌总经理王腾加入魅族，接近魅族的知情人士否认该传闻 ...",
+    "id": "8omKwYRl7wG",
+    "order": 1764733217191,
+    "createdAt": "2025-12-03T02:15:25.000Z",
+    "publishDate": "2025-12-03T03:40:17.191Z",
+    "title": "网传前小米高管王腾加入魅族 知情人士否认",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 10:15:25",
+    "uuid": "0f974638-b01d-4873-878a-78daae4591d7"
   },
   {
     "newsArray": [
@@ -167,6 +253,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "曹操出行与越疆科技近日签署战略合作协议，基于Robotaxi业务，双方将共同拓展机器人技术应用场景和能力，提高车辆运营智能化程度，还将围绕Robotaxi运维场景，探索机器人技术在车辆清洁、维护、补能等方面的创新应用。",
+    "id": "8ol0bqpsrkg",
+    "order": 1764733225844,
+    "createdAt": "2025-12-03T01:57:50.000Z",
+    "publishDate": "2025-12-03T03:40:25.844Z",
+    "title": "曹操出行与越疆机器人达成战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 09:57:50",
+    "uuid": "49246d28-a3d0-4f9c-b314-81cdb8b8390b"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
@@ -184,6 +288,62 @@
     "up": false,
     "date": "2025-12-03 09:53:05",
     "uuid": "f57ac44e-e387-4f2d-b954-5b5cc9eb2338"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "易鑫集团披露2025年第三季度部分业务更新及未经审核运营报告，公司核心业务保持稳健增长。期内汽车融资交易量23.5万笔，同比增长22.6%，融资交易额达212亿元 ...",
+    "id": "8olQI2upkdB",
+    "order": 1764733265483,
+    "createdAt": "2025-12-03T01:45:36.000Z",
+    "publishDate": "2025-12-03T03:41:05.483Z",
+    "title": "易鑫集团 2025 三季报：汽车融资交易量同比增 22.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 09:45:36",
+    "uuid": "115954b6-245c-4110-816b-170530c30da3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "据消息人士透露，苹果公司将拒绝印度政府强制在苹果手机中安装安全应用的命令，不会在 iPhone 上预装该应用，称因安全和隐私风险，不会在任何市场遵从此类命令 ...",
+    "id": "8om4MjqotDt",
+    "order": 1764733320905,
+    "createdAt": "2025-12-03T01:23:55.000Z",
+    "publishDate": "2025-12-03T03:42:00.905Z",
+    "title": "苹果抵制印度政府安全应用强制安装令",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 09:23:55",
+    "uuid": "012d95f4-13fc-47a9-b6fd-e63ea8b8d899"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "aibase" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "北京时间12月3日，特斯拉CEO马斯克在社交平台X转发特斯拉擎天柱团队发布的“擎天柱”人形机器人跑步短视频，团队称刚在实验室刷新个人纪录。",
+    "id": "8omHDG5vTWo",
+    "order": 1764733328769,
+    "createdAt": "2025-12-03T01:22:24.000Z",
+    "publishDate": "2025-12-03T03:42:08.769Z",
+    "title": "特斯拉发布人形机器人“擎天柱”跑步视频",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 09:22:24",
+    "uuid": "002d4141-06c9-40f6-a26b-6aa1f6515e3a"
   },
   {
     "newsArray": [
@@ -335,6 +495,23 @@
     "up": false,
     "date": "2025-12-03 08:51:27",
     "uuid": "11a647cc-f9f0-40a3-850c-6bdcc71e7080"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "哈佛大学在上季度加大比特币押注，将iShares Bitcoin Trust ETF持仓增至近5亿美元 ...",
+    "id": "8omDaQChAaX",
+    "order": 1764733375885,
+    "createdAt": "2025-12-03T00:44:38.000Z",
+    "publishDate": "2025-12-03T03:42:55.885Z",
+    "title": "哈佛大学在比特币崩盘前夕大举买入",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-03 08:44:38",
+    "uuid": "a0dfd531-9fe7-4f5c-9483-4c71cb97d5f4"
   },
   {
     "newsArray": [
