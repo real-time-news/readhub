@@ -1,6 +1,132 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "站长之家" },
+      { "siteName": "少数派" }
+    ],
+    "summary": "今日，苹果宣布位于北京荟聚的Apple零售店——Apple北京荟聚将于12月6日（周六）上午10:00开业，该店设计延续苹果环保理念，采用可持续材料，用木质框架取代金属框架，许多建筑材料来自中国本土。",
+    "id": "8ooGwgKFcAD",
+    "order": 1764832995804,
+    "createdAt": "2025-12-04T07:23:15.000Z",
+    "publishDate": "2025-12-04T07:23:15.804Z",
+    "title": "北京第六家Apple Store将于12月6日开业",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-04 15:23:15",
+    "uuid": "0ebe572a-d3b0-4abc-befd-e5e9fc4fceca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "瑞银中国策略师预计A股上涨行情将延续，卖方团队建议通过追踪中国中小盘股指数的看涨期权或看涨价差期权押注 ...",
+    "id": "8oo8IMABHz8",
+    "order": 1764832932057,
+    "createdAt": "2025-12-04T07:22:12.000Z",
+    "publishDate": "2025-12-04T07:22:12.057Z",
+    "title": "瑞银预计A股上涨行情将进一步延续",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-04 15:22:12",
+    "uuid": "7d5f3adb-b05d-450b-9f6c-714598e7664c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "我国牵头研制的国际标准《用于电力系统动态分析的基于变流器发电单元的通用均方根值（RMS）仿真模型》发布，这是我国首个在新能源发电建模技术领域成功牵头制定的国际标准 ...",
+    "id": "8ooLnJRvrYC",
+    "order": 1764832497744,
+    "createdAt": "2025-12-04T07:14:57.000Z",
+    "publishDate": "2025-12-04T07:14:57.744Z",
+    "title": "中国牵头制定的新能源发电通用仿真模型国际标准发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-04 15:14:57",
+    "uuid": "62b64ae6-09b7-4025-b15f-9aad1df16abd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Snowflake与人工智能初创公司Anthropic达成2亿美元多年期协议，将在Snowflake平台提供Anthropic的Claude大模型，双方欲将AI智能体部署到“全球最大企业”，助其使用由Claude模型驱动的Snowflake AI智能体，此外，Snowflake还将Claude广泛应用于内部运营。",
+    "id": "8onexwEfH5e",
+    "order": 1764832430329,
+    "createdAt": "2025-12-04T07:13:50.000Z",
+    "publishDate": "2025-12-04T07:13:50.329Z",
+    "title": "Anthropic与Snowflake达成2亿美元协议，就AI智能体展开合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-04 15:13:50",
+    "uuid": "ba6f9aed-33f5-471c-bc81-fcb0edb76f0e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "市场探底回升，创业板指早盘一度跌超0.5%，收盘涨超1%，沪指跌0.06%，深成指涨0.4%。沪深两市成交额1.55万亿，较上一交易日缩量1210亿，超3800只个股下跌 ...",
+    "id": "8ooLnIIgXty",
+    "order": 1764832401971,
+    "createdAt": "2025-12-04T07:13:21.000Z",
+    "publishDate": "2025-12-04T07:13:21.971Z",
+    "title": "收评：创业板指探底回升涨超1% 两市成交额萎缩至1.55万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-04 15:13:21",
+    "uuid": "3c4536c2-62be-45cf-b007-804780e0a664"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI 宣布正在开发名为“忏悔”的创新框架，旨在训练人工智能模型坦诚承认自身不当行为或潜在问题决策 ...",
+    "id": "8ooG7jZAAuC",
+    "order": 1764832952818,
+    "createdAt": "2025-12-04T07:12:02.000Z",
+    "publishDate": "2025-12-04T07:22:32.818Z",
+    "title": "OpenAI 推出 AI “忏悔”框架:旨在训练模型承认不当行为，提高诚实度",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-04 15:12:02",
+    "uuid": "918d111a-4d52-4f4a-8c19-a95cce1eb114"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "国产九价HPV疫苗在航天中心医院正式开打，为北京市9至45岁女性提供了保护更全面、接种更经济的宫颈癌预防新选择，打破了进口疫苗长期垄断局面。",
+    "id": "8ooL8ReASsp",
+    "order": 1764831813467,
+    "createdAt": "2025-12-04T07:03:34.000Z",
+    "publishDate": "2025-12-04T07:03:33.467Z",
+    "title": "首款国产九价HPV疫苗在北京正式开打",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-04 15:03:34",
+    "uuid": "ff0ba120-8ca1-4549-9d0a-a4c329f770ac"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "界面" },
       { "siteName": "IT 之家" }
@@ -997,6 +1123,24 @@
     "up": false,
     "date": "2025-12-04 10:25:06",
     "uuid": "3641f024-7e56-4d82-baf7-475359c5ec8b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "10年期主力合约盘中跌0.30%，现报107.715点.30年期跌0.78%，现报112.74点.5年期跌0.15%，现报105.695点.2年期跌0.03%，现报102.396点.",
+    "id": "8onxYC623Tk",
+    "order": 1764832973362,
+    "createdAt": "2025-12-04T01:53:16.000Z",
+    "publishDate": "2025-12-04T07:22:53.362Z",
+    "title": "国债期货盘初跳水 30年期跌0.78%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-04 09:53:16",
+    "uuid": "a0c06429-fe35-48f0-9bc6-a9999bc9230a"
   },
   {
     "newsArray": [
