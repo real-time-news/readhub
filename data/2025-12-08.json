@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "京基智农(000048.SZ)公告，拟用自有和/或自筹资金以集中竞价交易方式回购部分股份用于股权激励或员工持股计划 ...",
+    "id": "8ovPtFuojWS",
+    "order": 1765200773217,
+    "createdAt": "2025-12-08T13:32:53.000Z",
+    "publishDate": "2025-12-08T13:32:53.217Z",
+    "title": "京基智农：拟1亿元-2亿元回购股份，回购价格不超过23.7元/股",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-08 21:32:53",
+    "uuid": "e943b394-9d3b-4f1b-acde-f021fbc5a0c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "凯迪拉克公布 VISTIQ 纯电旗舰 SUV 官图及部分配置信息，该车已完成工信部申报，号称“小凯雷德” ...",
+    "id": "8ov5AFRhYoX",
+    "order": 1765200278961,
+    "createdAt": "2025-12-08T13:24:38.000Z",
+    "publishDate": "2025-12-08T13:24:38.961Z",
+    "title": "凯迪拉克 VISTIQ 纯电旗舰 SUV 官图公布，搭载 Momenta 智能辅助驾驶",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-08 21:24:38",
+    "uuid": "163ac842-93d1-4bbf-be1c-b6242eff1514"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "机构研究显示，随着数据中心朝大规模丛集化发展，高速互联技术成AI数据中心关键。2025年全球800G以上光收发模块达2400万支，2026年预估将达近6300万组，成长幅度高达2.6倍。",
+    "id": "8ov817We42l",
+    "order": 1765200244532,
+    "createdAt": "2025-12-08T13:24:05.000Z",
+    "publishDate": "2025-12-08T13:24:04.532Z",
+    "title": "机构：2026年全球800G以上光收发模块达近6300万组",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-08 21:24:05",
+    "uuid": "d500ac21-eed7-432c-af7a-f255779c0bb3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI一项覆盖100家公司、9000名员工的大规模调查显示，其人工智能产品助员工在专业任务中平均每天节省40至60分钟，在数据科学等行业及会计等岗位效率提升显著，四分之三受访者称使用AI提高了工作产出速度或质量 ...",
+    "id": "8ovKrERC5ih",
+    "order": 1765200229658,
+    "createdAt": "2025-12-08T13:23:49.000Z",
+    "publishDate": "2025-12-08T13:23:49.658Z",
+    "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-08 21:23:49",
+    "uuid": "481b1b44-ff4b-45b6-bce3-acfd70e06d53"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "头部芯片设计厂商瑞芯微称，其 RK3588 产品在机器人市场占有率较高，与众多知名客户合作了多种形态机器人产品。该芯片是高性能、多场景应用的旗舰级处理器 ...",
+    "id": "8ovF9kbF3qV",
+    "order": 1765199541337,
+    "createdAt": "2025-12-08T13:12:21.000Z",
+    "publishDate": "2025-12-08T13:12:21.337Z",
+    "title": "瑞芯微：与宇树科技、云深处科技等合作多种形态的机器人产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-08 21:12:21",
+    "uuid": "3ad30f6a-8df9-4eae-a30b-5e026fb8008b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "金融界" }
