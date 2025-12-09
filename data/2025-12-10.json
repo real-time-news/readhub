@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "谷歌云推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
+    "id": "8oxRdYrGeNz",
+    "order": 1765307341556,
+    "createdAt": "2025-12-09T18:52:05.000Z",
+    "publishDate": "2025-12-09T19:09:01.556Z",
+    "title": "谷歌云：推出由 Gemini 驱动的编码智能体 AlphaEvolve",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 02:52:05",
+    "uuid": "58e92ddb-f670-454b-b704-41ef49fe6746"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -15,5 +32,25 @@
     "up": false,
     "date": "2025-12-10 02:03:33",
     "uuid": "a9b0e507-1474-41a2-90dc-163590371b26"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI与Linux基金会共同创立Agentic AI基金会.",
+    "id": "8oxLBdXWz0d",
+    "order": 1765307363368,
+    "createdAt": "2025-12-09T17:11:59.000Z",
+    "publishDate": "2025-12-09T19:09:23.368Z",
+    "title": "OpenAI 与 Linux 基金会共同创立 Agentic AI 基金会",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 01:11:59",
+    "uuid": "f2bd49af-7266-4731-a898-49dc624d3b87"
   }
 ]
