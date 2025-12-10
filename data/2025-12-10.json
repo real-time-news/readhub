@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "加拿大皇家银行将GE Vernova评级从“与大市持平”上调至“跑赢大盘”，目标价从630美元大幅上调至761美元。",
+    "id": "8oyfQztEqYz",
+    "order": 1765377734217,
+    "createdAt": "2025-12-10T14:42:14.000Z",
+    "publishDate": "2025-12-10T14:42:14.217Z",
+    "title": "加拿大皇家银行上调GE Vernova评级至“跑赢大盘” 目标价升至761美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 22:42:14",
+    "uuid": "3e7b48b2-da22-4647-9eae-f3983f17aa01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "高通科技公司宣布收购Ventana Micro Systems Inc.，彰显其推动RISC-V标准和生态系统发展的承诺 ...",
+    "id": "8oynEdLXWk6",
+    "order": 1765377707874,
+    "createdAt": "2025-12-10T14:41:47.000Z",
+    "publishDate": "2025-12-10T14:41:47.874Z",
+    "title": "高通收购Ventana Micro Systems 深化RISC-V CPU专业知识",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 22:41:47",
+    "uuid": "ab216c6e-b70b-4a44-b44e-516c0c6b7870"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "WTI原油跌0.43%，报57.998美元/桶。布伦特原油跌0.41%，报61.688美元/桶。",
+    "id": "8oynxfXxGi2",
+    "order": 1765376581752,
+    "createdAt": "2025-12-10T14:23:01.000Z",
+    "publishDate": "2025-12-10T14:23:01.752Z",
+    "title": "WTI原油期货跌破58美元/桶",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 22:23:01",
+    "uuid": "05e7ddb6-b651-489f-9ec4-d0890e63374e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "智东西" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "投入数百亿美元打造昂贵团队数月后，Meta CEO扎克伯格深度介入日常研发，推动公司战略转向可直接变现的人工智能模型 ...",
+    "id": "8oxwOHVdZBq",
+    "order": 1765376524037,
+    "createdAt": "2025-12-10T14:22:04.000Z",
+    "publishDate": "2025-12-10T14:22:04.037Z",
+    "title": "Meta全力转向闭源模型，新模型Avocado或于明年春季推出",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 22:22:04",
+    "uuid": "2d2c6e27-25ec-4ee3-9883-7f6d1246ca6b"
+  },
+  {
+    "newsArray": [
       { "siteName": "每经网" },
       { "siteName": "中证网" },
       { "siteName": "挖贝网" }
