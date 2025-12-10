@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "12月10日12时03分，我国在东风商业航天创新试验区使用力箭一号遥十一运载火箭，成功将阿联酋813卫星等9颗卫星发射升空，卫星顺利进入预定轨道，发射任务圆满成功。",
+    "id": "8oy8XzN9GNL",
+    "order": 1765341833131,
+    "createdAt": "2025-12-10T04:43:54.000Z",
+    "publishDate": "2025-12-10T04:43:53.131Z",
+    "title": "我国成功发射阿联酋813卫星等9颗卫星",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 12:43:54",
+    "uuid": "cd1efa6b-86e9-41ce-8788-6718487193d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "OpenAI的CEO Sam Altman启动“Code Red”计划，暂停Sora项目，要求全公司在八周内让ChatGPT重新不可替代 ...",
+    "id": "8oxzwvKtXfu",
+    "order": 1765341692084,
+    "createdAt": "2025-12-10T04:22:48.000Z",
+    "publishDate": "2025-12-10T04:41:32.084Z",
+    "title": "OpenAI 启动「红色警报」：停掉 Sora 全力求生，GPT-5.2 将仓促发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 12:22:48",
+    "uuid": "2160182d-c0e6-40bb-b6d2-6c5239b06c7c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "智源社区" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "近日，Neuralink 上传联合创始人 DJ Seo 介绍公司新进展的视频。其新一代手术机器人植入单根电极线速度从 17 秒提至 1.5 秒，适配 99% 人群，插入速度较现有机器人提升十几倍 ...",
+    "id": "8owV5RfONRs",
+    "order": 1765341721324,
+    "createdAt": "2025-12-10T04:13:30.000Z",
+    "publishDate": "2025-12-10T04:42:01.324Z",
+    "title": "马斯克脑机接口公司重大突破，1.5秒快速植入电极，万人等待上脑",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 12:13:30",
+    "uuid": "08f5fd2b-a440-4cd2-8dd6-43803f4e3404"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "金融界" },
       { "siteName": "快科技" }
@@ -274,6 +327,74 @@
     "up": false,
     "date": "2025-12-10 11:14:11",
     "uuid": "e36cfb55-f6ba-4cba-aaa7-3963feaf1443"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "猎云网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "近日，北斗智联科技有限公司宣布完成数亿元B轮战略融资，由广汽资本领投，多家知名产业投资机构跟投 ...",
+    "id": "8owJF4LhQ3q",
+    "order": 1765341825246,
+    "createdAt": "2025-12-10T03:03:03.000Z",
+    "publishDate": "2025-12-10T04:43:45.246Z",
+    "title": "北斗智联完成数亿元 B 轮战略融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 11:03:03",
+    "uuid": "4a7f7f36-3dc1-4fa1-b482-f8752959c028"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "英国通信管理局周三表示，2025年英国人在智能设备上平均每天观看YouTube时长为51分钟，谷歌Meta社交媒体帐号服务占所有在线时间一半以上。",
+    "id": "8oxqgBxsE0K",
+    "order": 1765341835382,
+    "createdAt": "2025-12-10T03:02:28.000Z",
+    "publishDate": "2025-12-10T04:43:55.382Z",
+    "title": "英国人平均每天观看 YouTube 时间达 51 分钟",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 11:02:28",
+    "uuid": "c56ae657-c317-45b2-8474-78e98d331772"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美满电子公司首席执行官马特·墨菲周二接受采访时，否认该公司失去一些大客户业务的报道，称从周二到周五一切未变，指的是公司上周发布财报几天后出现的两篇报道，并表示公司没有失去任何生意。",
+    "id": "8oxr2jAup2A",
+    "order": 1765341863640,
+    "createdAt": "2025-12-10T02:54:11.000Z",
+    "publishDate": "2025-12-10T04:44:23.640Z",
+    "title": "美满电子CEO否认失去亚马逊和微软业务的报道",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 10:54:11",
+    "uuid": "ba1c71ce-2c49-4f22-b2ba-4a74eba80169"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "雪佛龙CEO迈克·沃思周二称正与董事会讨论卸任时间，他表示自己已工作八年，待继任者准备好就会让位。",
+    "id": "8oxl2gGPlA6",
+    "order": 1765341851465,
+    "createdAt": "2025-12-10T02:51:32.000Z",
+    "publishDate": "2025-12-10T04:44:11.465Z",
+    "title": "雪佛龙CEO沃思：正在与董事会讨论任期问题",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 10:51:32",
+    "uuid": "4e5b13c3-dcf1-466a-801e-41670a293a5b"
   },
   {
     "newsArray": [
@@ -602,6 +723,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "摩根大通首席中国股票策略师预计，随着估值正常化和遏制产能过剩举措提振关键行业盈利能力，到2026年底，MSCI中国指数将涨约18%，沪深300指数涨约12%，MSCI香港指数在资本流动和房地产市场情绪复苏支撑下涨幅可达18%，明年三大指数盈利增长率在9%至15%之间 ...",
+    "id": "8oxrMuUzMIk",
+    "order": 1765341920079,
+    "createdAt": "2025-12-10T00:52:30.000Z",
+    "publishDate": "2025-12-10T04:45:20.079Z",
+    "title": "摩根大通：中国股市在2026年有望上涨近20%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 08:52:30",
+    "uuid": "4255fefb-b21c-4243-8df4-5cd9f3f58bfe"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "36Kr" }
@@ -919,6 +1057,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "Reddit 于北京时间今日凌晨宣布，为全球 18 岁以下青少年用户提供更多安全保护，如更严格的聊天设置、禁止个性化或敏感广告、禁止访问 NSFW 或成人内容 ...",
+    "id": "8owhxsshFwP",
+    "order": 1765342052746,
+    "createdAt": "2025-12-09T22:42:53.000Z",
+    "publishDate": "2025-12-10T04:47:32.746Z",
+    "title": "Reddit 为全球 18 岁以下青少年用户推出安全防护加强版本",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 06:42:53",
+    "uuid": "7f3c663a-f1e1-4e80-b647-e3a905dff460"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -984,6 +1139,30 @@
     "up": false,
     "date": "2025-12-10 06:12:15",
     "uuid": "5fefd70f-3783-468d-bdd3-ebdfb66bd6c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
+    "id": "8oxfwrY9TAq",
+    "order": 1765342068538,
+    "createdAt": "2025-12-09T22:02:37.000Z",
+    "publishDate": "2025-12-10T04:47:48.538Z",
+    "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-10 06:02:37",
+    "uuid": "32593095-c104-48d1-a0f0-611dc8060ce9"
   },
   {
     "newsArray": [
