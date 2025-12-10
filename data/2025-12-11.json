@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美联储宣布降息25个基点，将联邦基金利率目标区间下调至3.5%-3.75%。",
+    "id": "8oz813PTmAf",
+    "order": 1765393975030,
+    "createdAt": "2025-12-10T19:12:55.000Z",
+    "publishDate": "2025-12-10T19:12:55.030Z",
+    "title": "美联储宣布降息25个基点",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-11 03:12:55",
+    "uuid": "ecbd7f49-f269-42fb-b899-7ab3526f2adb"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
@@ -16,6 +33,23 @@
     "up": false,
     "date": "2025-12-11 01:51:38",
     "uuid": "8102bd5b-3821-4091-a585-4d33467af061"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "马斯克旗下的SpaceX据称已将数据中心计划作为股权出售的一部分进行推介。",
+    "id": "8oyyf1ON1P6",
+    "order": 1765394163893,
+    "createdAt": "2025-12-10T16:53:20.000Z",
+    "publishDate": "2025-12-10T19:16:03.893Z",
+    "title": "SpaceX 在出售部分股权的过程中推介数据中心",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-11 00:53:20",
+    "uuid": "8607a31b-6182-4998-8591-ab17f29c33e7"
   },
   {
     "newsArray": [
