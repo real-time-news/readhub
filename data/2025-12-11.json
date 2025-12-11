@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间12月11日报告显示，至12月5日当周天然气库存减少1770亿立方英尺。",
+    "id": "8p0YZzdJaFW",
+    "order": 1765468355490,
+    "createdAt": "2025-12-11T15:52:35.000Z",
+    "publishDate": "2025-12-11T15:52:35.490Z",
+    "title": "美国上周EIA天然气库存减少1770亿立方英尺",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-11 23:52:35",
+    "uuid": "0f6fe2c7-5676-4472-bdb0-b0a81ed26fa8"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
@@ -1375,6 +1393,24 @@
     "up": false,
     "date": "2025-12-11 18:49:25",
     "uuid": "46c9de4e-5b4b-4b68-b547-f416bfcd628e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "瑞银最新报告指出，存储行业面临前所未有的供需紧张局面，预计DRAM供应短缺将持续至2027年第一季度，DDR内存需求料增长20.7%，远超供应增速 ...",
+    "id": "8oztGtwzLUS",
+    "order": 1765468503094,
+    "createdAt": "2025-12-11T10:33:23.000Z",
+    "publishDate": "2025-12-11T15:55:03.094Z",
+    "title": "瑞银：DRAM短缺料至2027年 DDR Q4料涨价35%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-11 18:33:23",
+    "uuid": "da3d3525-f753-4d97-adfc-7a58e5e7a94d"
   },
   {
     "newsArray": [
