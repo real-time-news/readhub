@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "商务部例行新闻发布会上，新闻发言人何亚东回应安世半导体相关问题，称近日闻泰科技发函邀请安世荷兰独立董事和股权托管人来华协商企业控制权及恢复供应链稳定畅通，中方已通过荷兰驻华使馆要求荷方落实与中方磋商共识，推动安世荷兰尽快派员来华。",
+    "id": "8p00Hn9YYeM",
+    "order": 1765439177594,
+    "createdAt": "2025-12-11T07:46:17.000Z",
+    "publishDate": "2025-12-11T07:46:17.594Z",
+    "title": "商务部：推动安世荷兰尽快派员来华",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-11 15:46:17",
+    "uuid": "cd1e7ffa-bd76-490d-8ca3-3dba49ff3ebc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "摩根士丹利维持Meta Platforms增持评级，目标价下调至750美元。",
+    "id": "8p00HTAp50g",
+    "order": 1765439092529,
+    "createdAt": "2025-12-11T07:44:52.000Z",
+    "publishDate": "2025-12-11T07:44:52.529Z",
+    "title": "大摩：将Meta目标价下调至750美元",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-11 15:44:52",
+    "uuid": "a57f791a-3529-4dee-9117-92f043f00442"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
