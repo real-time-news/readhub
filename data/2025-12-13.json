@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "稳定币巨头Tether正探索在完成一轮计划募资高达200亿美元、目标估值约5000亿美元的股份出售后将股权代币化。公司目前不允许现有股东在本轮融资中售股，也未给出上市时间表 ...",
+    "id": "8p1vgoVQyrn",
+    "order": 1765570810817,
+    "createdAt": "2025-12-12T18:23:19.000Z",
+    "publishDate": "2025-12-12T20:20:10.817Z",
+    "title": "稳定币巨头Tether拟募资200亿美元后探索股权代币化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-13 02:23:19",
+    "uuid": "8c6ea835-10bd-4512-bd0c-2a1442f716e3"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -32,5 +49,26 @@
     "up": false,
     "date": "2025-12-13 01:32:06",
     "uuid": "c56a8153-dbc0-4eaf-bbb8-8a64f54cf8ba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "甲骨文一些面向OpenAI的数据中心从2027年推后至2028年，主要与劳动力和原材料短缺有关。同时提示市场有风险，投资需谨慎，本文不构成个人投资建议。",
+    "id": "8p2F2l6syB9",
+    "order": 1765570841369,
+    "createdAt": "2025-12-12T16:32:01.000Z",
+    "publishDate": "2025-12-12T20:20:41.369Z",
+    "title": "甲骨文部分面向OpenAI 的数据中心推迟至 2028 年竣工",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-13 00:32:01",
+    "uuid": "3962b9d8-946b-41ed-b200-25e6781755f8"
   }
 ]
