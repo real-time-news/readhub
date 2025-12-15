@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "界面" }
+    ],
+    "summary": "当地时间12月14日，美国布朗大学致命校园枪击案第一名遇害者确认为二年级学生埃拉·库克，被拘留的嫌疑人确认为24岁、来自威斯康星州的本杰明·埃里克森，但当局尚未公开披露其身份 ...",
+    "id": "8p6Clcj47V3",
+    "order": 1765776903948,
+    "createdAt": "2025-12-15T05:35:03.000Z",
+    "publishDate": "2025-12-15T05:35:03.948Z",
+    "title": "美布朗大学枪击案第一名遇害者身份确认，嫌犯身份仍未披露",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-15 13:35:03",
+    "uuid": "9a6ebc52-fe39-4bb5-9055-f5d155ef8a30"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "深证成指跌幅扩大至1%，上证指数跌0.28%，创业板指跌1.7%，CPO、半导体板块跌幅居前。",
+    "id": "8p6Uctq2iF1",
+    "order": 1765776890885,
+    "createdAt": "2025-12-15T05:34:50.000Z",
+    "publishDate": "2025-12-15T05:34:50.885Z",
+    "title": "深证成指跌幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-15 13:34:50",
+    "uuid": "20e29b2a-e266-4c0e-92ca-b53c82adc7a8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "澳大利亚S&P/ASX200指数收跌0.72%，报8635点.",
+    "id": "8p64A44yLKY",
+    "order": 1765776855565,
+    "createdAt": "2025-12-15T05:34:15.000Z",
+    "publishDate": "2025-12-15T05:34:15.565Z",
+    "title": "澳大利亚S&P/ASX200指数收跌0.72%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-15 13:34:15",
+    "uuid": "2b2f0773-6e4d-4989-979c-992a3776af23"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "日本央行据悉最早将于1月开始出售ETF持仓。",
+    "id": "8p6TurbI6gT",
+    "order": 1765776810946,
+    "createdAt": "2025-12-15T05:33:30.000Z",
+    "publishDate": "2025-12-15T05:33:30.946Z",
+    "title": "日本央行据悉最早将于1月开始出售ETF持仓",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-15 13:33:30",
+    "uuid": "394bb1be-a7c2-478c-94cc-c4e7f36e1c6a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "邮储银行在债务融资工具承销发行过程中涉嫌违规，违反公平、公正、勤勉尽责原则，交易商协会对其启动自律调查。",
+    "id": "8p6Tin5dInl",
+    "order": 1765776143063,
+    "createdAt": "2025-12-15T05:22:24.000Z",
+    "publishDate": "2025-12-15T05:22:23.063Z",
+    "title": "交易商协会对邮储银行启动自律调查",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-15 13:22:24",
+    "uuid": "3127e512-579a-4130-b38b-238d90b8bfa7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "银邦股份在互动平台称，淮北工厂项目已进入试生产阶段，全部完成后预计新增年产35万吨新能源车用再生低碳铝热传输材料产能。",
+    "id": "8p6QMVduXAy",
+    "order": 1765775635271,
+    "createdAt": "2025-12-15T05:13:55.000Z",
+    "publishDate": "2025-12-15T05:13:55.271Z",
+    "title": "银邦股份：淮北工厂项目已进入试生产阶段",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-15 13:13:55",
+    "uuid": "a12935ec-a40b-40db-b7c4-01dc7d34e12b"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
       { "siteName": "界面" },
@@ -581,6 +686,24 @@
     "up": false,
     "date": "2025-12-15 10:35:06",
     "uuid": "781c4dba-60b2-46d9-a456-9977edeb4204"
+  },
+  {
+    "newsArray": [
+      { "siteName": "联商网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "胖东来官方微信公众号发布招聘公告，面向社会公开招聘60名专业技术人员，招聘覆盖商品开发等多个方向、十余个品类，部分岗位年薪20 - 30万元，工作地点主要在许昌 ...",
+    "id": "8p6HluQE70r",
+    "order": 1765776859997,
+    "createdAt": "2025-12-15T02:34:37.000Z",
+    "publishDate": "2025-12-15T05:34:19.997Z",
+    "title": "胖东来启动专项招聘 拟招60名专业技术人员",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-15 10:34:37",
+    "uuid": "92c01879-687c-4fb0-8d83-e1e34506e020"
   },
   {
     "newsArray": [
