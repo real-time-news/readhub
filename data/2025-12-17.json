@@ -1,6 +1,126 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间12月16日，经过两个月议会辩论，法国国民议会以微弱优势通过2026年社会保障预算，该文本将提交法国宪法委员会审查，随后公布生效，此预算涉及民众医疗、养老、家庭补助等，备受关注。",
+    "id": "8p92XBhLvoI",
+    "order": 1765926902905,
+    "createdAt": "2025-12-16T23:15:03.000Z",
+    "publishDate": "2025-12-16T23:15:02.905Z",
+    "title": "法国国民议会通过2026年社会保障预算",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-17 07:15:03",
+    "uuid": "34634e6d-bbac-4705-a567-0582515fe814"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI 应用业务首席执行官菲吉・西莫表示，Apple Music 将加入即将与 ChatGPT 实现集成的合作伙伴阵营 ...",
+    "id": "8p9B7hTFh4Y",
+    "order": 1765926840601,
+    "createdAt": "2025-12-16T23:14:01.000Z",
+    "publishDate": "2025-12-16T23:14:00.601Z",
+    "title": "OpenAI 宣布：苹果 Apple Music 即将与 ChatGPT 集成",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-17 07:14:01",
+    "uuid": "52c43473-2ee8-432d-b768-5d5fa829a73b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "当地时间16日，俄罗斯莫斯科州一所学校发生袭击事件，已造成1人死亡。",
+    "id": "8p8KN43Wp3i",
+    "order": 1765926827387,
+    "createdAt": "2025-12-16T23:13:47.000Z",
+    "publishDate": "2025-12-16T23:13:47.387Z",
+    "title": "俄罗斯莫斯科州一学校发生袭击事件 已致1人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-17 07:13:47",
+    "uuid": "71c39bac-f9f9-4961-9a29-ef21e1cdb87f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "《自然·气候变化》一项建模研究表明，全球每年消融的冰川数量预计将急剧上升，到本世纪中叶达2000 - 4000座峰值，具体取决于升温程度 ...",
+    "id": "8p8hrZ7T3PO",
+    "order": 1765926799362,
+    "createdAt": "2025-12-16T23:13:19.000Z",
+    "publishDate": "2025-12-16T23:13:19.362Z",
+    "title": "冰川消融数量预计在本世纪中叶达到峰值",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-17 07:13:19",
+    "uuid": "bcfaaea6-8d40-4026-a4b7-2d1e4be4758f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上期所原油期货夜盘收跌2.24%，报422.5元/桶。沪金主力合约收跌0.14%，报974元/克。沪银主力合约收跌0.24%，报14731元/千克。",
+    "id": "8p93KT0Deng",
+    "order": 1765926381446,
+    "createdAt": "2025-12-16T23:06:21.000Z",
+    "publishDate": "2025-12-16T23:06:21.446Z",
+    "title": "上期所原油期货夜盘收跌2.24%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-17 07:06:21",
+    "uuid": "07f3e666-5611-4840-bf55-a37d25c38e7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "WTI原油期货价格收跌2.73%，报55.27美元/桶。布伦特原油期货收跌2.71%，报58.92美元/桶。",
+    "id": "8p9FP2rJh3Q",
+    "order": 1765926361688,
+    "createdAt": "2025-12-16T23:06:02.000Z",
+    "publishDate": "2025-12-16T23:06:01.688Z",
+    "title": "WTI原油期货价格收跌2.73%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-17 07:06:02",
+    "uuid": "92e6a2a3-3e07-4bad-ac33-c8c91e64bd98"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "一个由20家应用程序开发商和消费者团体组成的联盟呼吁欧洲监管机构让苹果执行欧盟法律，称美国法院裁决限制苹果对外部交易收费后，其收费结构使欧洲开发商相对美国对手处于不利地位 ...",
+    "id": "8p8IFyahQFm",
+    "order": 1765926674838,
+    "createdAt": "2025-12-16T23:04:58.000Z",
+    "publishDate": "2025-12-16T23:11:14.838Z",
+    "title": "欧洲应用开发商呼吁欧盟对苹果收费行为采取行动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-17 07:04:58",
+    "uuid": "e1804cb3-3c37-4b8e-b982-758e21979282"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
