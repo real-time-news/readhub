@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "IBM研究人员推出开源AI智能体CUGA，旨在通过多智能体协同等自动化执行复杂企业任务，其在WebArena和AppWorld基准测试中任务完成率分别达61.7%和48.2% ...",
+    "id": "8p8CNiAJ65p",
+    "order": 1765884329455,
+    "createdAt": "2025-12-16T11:25:30.000Z",
+    "publishDate": "2025-12-16T11:25:29.455Z",
+    "title": "IBM发布开源AI智能体CUGA，聚焦企业工作流自动化",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 19:25:30",
+    "uuid": "6deaee7b-ea6f-4ad6-ac47-962435973c48"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "12月16日，因世界动物卫生组织通报美国南达科他州Edmunds县和北卡罗来纳州Wayne县爆发高致病性H5N1禽流感，香港食物安全中心指示业界即时暂停从上述地区进口禽肉及禽类产品（包括禽蛋），以保障公众健康。",
+    "id": "8p8YXqFaEaU",
+    "order": 1765884279417,
+    "createdAt": "2025-12-16T11:24:39.000Z",
+    "publishDate": "2025-12-16T11:24:39.417Z",
+    "title": "香港暂停进口美国部分地区禽肉及禽类产品",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 19:24:39",
+    "uuid": "af9358cd-bb38-4ed2-9a01-d1236661b42d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "港交所集团行政总裁陈翊庭发表网志指出，2025年至今香港新股市场超100家公司上市，融资超2700亿港元，2026年上市科处理超300家公司上市申请 ...",
+    "id": "8p82ODWqGsS",
+    "order": 1765884203261,
+    "createdAt": "2025-12-16T11:23:23.000Z",
+    "publishDate": "2025-12-16T11:23:23.261Z",
+    "title": "港交所CEO陈翊庭：正在处理的上市申请超过300家，将继续扩大上市公司来源",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 19:23:23",
+    "uuid": "8f5452e4-bbe5-4936-9081-be7e8673d997"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "豆包手机助手及合作机型nubia M153重启F码候补申请通道，恢复产品购买资格 ...",
+    "id": "8p8XqQcqW2T",
+    "order": 1765883619974,
+    "createdAt": "2025-12-16T11:13:39.000Z",
+    "publishDate": "2025-12-16T11:13:39.974Z",
+    "title": "豆包AI手机重新恢复销售，此前辟谣被约谈",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 19:13:39",
+    "uuid": "244b63bb-3086-4b83-a9fb-124347b22ec1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "航天长峰发布异动公告，其主营业务分军工电子、公共安全和高端医疗装备三大板块，目前不从事商业航天等相关业务，提醒投资者注意风险、谨慎投资。",
+    "id": "8p8XpPxT9bH",
+    "order": 1765883602196,
+    "createdAt": "2025-12-16T11:12:38.000Z",
+    "publishDate": "2025-12-16T11:13:22.196Z",
+    "title": "航天长峰：目前公司不从事商业航天等相关业务",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 19:12:38",
+    "uuid": "87c8c82e-ee0f-426d-a83a-467a3c4829b9"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
@@ -1391,6 +1483,24 @@
     "up": false,
     "date": "2025-12-16 14:52:15",
     "uuid": "1ce5a778-5570-469a-b083-33e6b7dfc20c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "一场暴雨引发价值数百亿美元的AI基础设施股市场震荡。数据中心服务商CoreWeave六周内市值蒸发330亿美元，跌幅超60%，博通和甲骨文三个交易日均暴跌超17% ...",
+    "id": "8p84XMsoYr7",
+    "order": 1765884248274,
+    "createdAt": "2025-12-16T06:49:08.000Z",
+    "publishDate": "2025-12-16T11:24:08.274Z",
+    "title": "本轮AI股大崩盘：一场暴雨引发的全球股市惨案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 14:49:08",
+    "uuid": "3e116002-0d07-4c0a-b538-5dc1d6370335"
   },
   {
     "newsArray": [
