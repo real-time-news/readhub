@@ -1,6 +1,170 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "鸿蒙智行联合相关部门在深圳开启L3级有条件自动驾驶内测，此次测试通过真实道路和用户数据验证L3系统安全性与成熟度，为国家L3政策落地提供实践依据 ...",
+    "id": "8p7xMLfarUg",
+    "order": 1765853104849,
+    "createdAt": "2025-12-16T02:45:04.000Z",
+    "publishDate": "2025-12-16T02:45:04.849Z",
+    "title": "鸿蒙智行开启L3级有条件自动驾驶内测",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 10:45:04",
+    "uuid": "3d6df351-3467-4cb7-9c66-140c7967ab0d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中证协向各证券公司下发通知，全面建立针对行业 IT 服务商不正当竞争的专项线索收集机制，旨在遏制证券业 IT 服务机构商业贿赂、虚假宣传、技术倾轧及恶意定价等四类违规行为。",
+    "id": "8p7wjSpXyK9",
+    "order": 1765853017337,
+    "createdAt": "2025-12-16T02:43:37.000Z",
+    "publishDate": "2025-12-16T02:43:37.337Z",
+    "title": "中证协建“吹哨人”机制 剑指IT服务商四类不正当竞争行为",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 10:43:37",
+    "uuid": "c54d2f52-b4d5-4b5e-83a6-6c390c81428e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "环球网科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国密歇根州立大学研究团队用捐赠的人类干细胞开发出全球首个“人源化”心脏类器官，其在暴露于炎症环境时会表现出心房颤动特征，为研究心律失常提供活体人体组织模型，有望打破该领域30多年无新药问世的僵局，此研究发表于《细胞·干细胞》，标志人类对抗心律失常迈出关键一步。",
+    "id": "8p7hjqfdqKK",
+    "order": 1765852941001,
+    "createdAt": "2025-12-16T02:42:22.000Z",
+    "publishDate": "2025-12-16T02:42:21.001Z",
+    "title": "首个“人源化”心脏类器官开发成功",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 10:42:22",
+    "uuid": "d46d8d29-7369-4935-858e-dcb5a88217b6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "蓝点网" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "有消息称主要原厂高性能消费级 SATA 固态硬盘供应方之一的三星电子将放弃该产品线，一位海外科技类专业 YouTuber 也声称三星电子即将停止生产相对低附加值的 “SATA SSD” 产品，加媒收到 “关于三星 SATA 或其它固态硬盘将逐步淘汰的传言是不实的” 的官方回应，三星电子已在不同渠道对此进行澄清。",
+    "id": "8p7mc7KKHcP",
+    "order": 1765852371496,
+    "createdAt": "2025-12-16T02:32:52.000Z",
+    "publishDate": "2025-12-16T02:32:51.496Z",
+    "title": "三星电子否认“将停产 SATA 固态硬盘”传闻",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 10:32:52",
+    "uuid": "e6b22731-248b-4703-b33c-2279befb97d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "电影《疯狂动物城2》延长放映至2026年1月25日。",
+    "id": "8p7vw58zPyq",
+    "order": 1765851928806,
+    "createdAt": "2025-12-16T02:25:28.000Z",
+    "publishDate": "2025-12-16T02:25:28.806Z",
+    "title": "电影《疯狂动物城2》延长放映至2026年1月25日",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 10:25:28",
+    "uuid": "d9fbc71d-c77a-485a-b7fe-babcc22676f4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "开盘半小时，沪深两市成交额突破6400亿，较上一日此时放量近700亿，预计全天成交约2万亿。",
+    "id": "8p6GIeJMn6E",
+    "order": 1765851219904,
+    "createdAt": "2025-12-16T02:13:39.000Z",
+    "publishDate": "2025-12-16T02:13:39.904Z",
+    "title": "开盘半小时两市放量近700亿 预计全天成交约2万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 10:13:39",
+    "uuid": "246969b0-0986-4c25-a334-bb3c535fbb7a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "aibase" },
+      { "siteName": "格隆汇" },
+      { "siteName": "联商网" },
+      { "siteName": "DoNews" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "菜鸟与蜜雪冰城达成合作，涉及AI及物流供应链科技。",
+    "id": "8p7uUbTVgXk",
+    "order": 1765850837717,
+    "createdAt": "2025-12-16T02:05:26.000Z",
+    "publishDate": "2025-12-16T02:07:17.717Z",
+    "title": "菜鸟与蜜雪冰城达成合作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 10:05:26",
+    "uuid": "e367a86b-9988-42f1-9c03-4affd0bf1798"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中美禁毒部门开展执法合作，中国禁毒部门根据美方通报线索，于11月26日在深圳盐田港一可疑国际货柜中成功查获430公斤毒品可卡因，该案正进一步侦办。",
+    "id": "8p7uZzXxmqW",
+    "order": 1765850715920,
+    "createdAt": "2025-12-16T02:05:15.000Z",
+    "publishDate": "2025-12-16T02:05:15.920Z",
+    "title": "中美禁毒部门开展执法合作成功侦破一起走私可卡因案",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 10:05:15",
+    "uuid": "31dab54e-8f2c-4ec0-bf9e-a2091deecbf9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "铂期货主力合约日内涨幅达4%，现报493.4元/克。",
+    "id": "8p7qushTPCt",
+    "order": 1765852977211,
+    "createdAt": "2025-12-16T01:14:45.000Z",
+    "publishDate": "2025-12-16T02:42:57.211Z",
+    "title": "铂期货主力合约日内涨幅达4%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-16 09:14:45",
+    "uuid": "f4582b75-c838-46e4-b824-875e6e1798c1"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" }
