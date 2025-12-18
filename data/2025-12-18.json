@@ -1,6 +1,114 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "我国专家发起的《标准物质/标准样品生产者能力的通用要求》国际标准修订提案获国际标准化组织批准，这是我国在合格评定国际标准化方面关键一步，标志着在标准物质国际标准化领域历史性突破 ...",
+    "id": "8pBooar3gGt",
+    "order": 1766054521300,
+    "createdAt": "2025-12-18T10:42:01.000Z",
+    "publishDate": "2025-12-18T10:42:01.300Z",
+    "title": "我国专家将首次主持标准物质领域国际标准修订",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-18 18:42:01",
+    "uuid": "da1a4834-1de1-4cb8-b7d0-e51f01f9654b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新芽" }
+    ],
+    "summary": "12 月 17 日，广州市白云区政府与广汽领程战略合作协议暨白云金控与广汽领程投资协议签约仪式在白云区举行 ...",
+    "id": "8pBbyaibyw0",
+    "order": 1766054277155,
+    "createdAt": "2025-12-18T10:37:57.000Z",
+    "publishDate": "2025-12-18T10:37:57.155Z",
+    "title": "广汽领程与广州市白云区达成战略合作，获得 3 亿元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-18 18:37:57",
+    "uuid": "62ae5a8f-4eba-4548-a450-af1f04e94bbd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中富通(300560.SZ)公告，近日收到中移铁通2026至2027年综合业务支撑服务集中采购项目（河南等区域、北京等区域）中选通知书 ...",
+    "id": "8pBo2s3Wa3L",
+    "order": 1766054196131,
+    "createdAt": "2025-12-18T10:36:37.000Z",
+    "publishDate": "2025-12-18T10:36:36.131Z",
+    "title": "中富通：收到中移铁通2026至2027年综合业务支撑服务集中采购项目中选通知书",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-18 18:36:37",
+    "uuid": "4e8aab74-4c75-4dff-99d3-3dcf5325513c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "复星医药公告，其控股子公司复星医药产业与Clavis Bio签订《合作及选择权协议》，在约定合作期限内，双方共同选定靶点推进临床前开发，Clavis Bio享有除中国境内、香港、澳门外全球范围开发、生产及商业化独家许可选择权 ...",
+    "id": "8pBone1GZgo",
+    "order": 1766054024697,
+    "createdAt": "2025-12-18T10:33:44.000Z",
+    "publishDate": "2025-12-18T10:33:44.697Z",
+    "title": "复星医药：与Clavis Bio签订合作及选择权协议 推进针对获选靶点化合物的临床前开发",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-18 18:33:44",
+    "uuid": "fb21b44c-71fe-41d7-ad89-70da9c5e2433"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "时空科技公告，其与四川省远景建筑园林设计研究院组建的联合体中标“秀山县洪安边城风情小镇智慧文旅融合项目施工图设计、施工总承包及运营管理（EPC+O）”，中标金额1.41亿元。",
+    "id": "8pBnNE7Kdn4",
+    "order": 1766053459363,
+    "createdAt": "2025-12-18T10:24:20.000Z",
+    "publishDate": "2025-12-18T10:24:19.363Z",
+    "title": "时空科技：联合体中标1.41亿元智慧文旅融合项目",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-18 18:24:20",
+    "uuid": "d00f6d6f-b98e-4c0a-86ad-1107c9e36515"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "艾森股份披露投资者关系活动记录表，受益于行业需求增长和市场份额提升，公司在手订单充足，产能利用率中高位运行 ...",
+    "id": "8pBo2egxTMZ",
+    "order": 1766053499289,
+    "createdAt": "2025-12-18T10:23:46.000Z",
+    "publishDate": "2025-12-18T10:24:59.289Z",
+    "title": "艾森股份：正性PSPI光刻胶已在部分客户实现小批量交付",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-18 18:23:46",
+    "uuid": "c8e732a1-48b2-4848-8dc0-be364d1b3b6c"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -303,6 +411,24 @@
     "up": false,
     "date": "2025-12-18 17:32:13",
     "uuid": "330f53b4-2054-4a24-9944-41289319c281"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "当地时间12月17日法庭文件显示，索尼撤回对《Light of Moritam 荒野起源》的侵权起诉 ...",
+    "id": "8p9oWxdgqWy",
+    "order": 1766054474547,
+    "createdAt": "2025-12-18T09:17:13.000Z",
+    "publishDate": "2025-12-18T10:41:14.547Z",
+    "title": "索尼起诉腾讯《荒野起源》侵权案以“保密和解”告终",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-18 17:17:13",
+    "uuid": "65b5d9d3-0bc3-42e7-be12-2c66f64470c5"
   },
   {
     "newsArray": [
