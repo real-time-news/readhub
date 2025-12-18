@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "知情人士透露，Alphabet 旗下谷歌正推进“TorchTPU”新计划，旨在提升人工智能芯片运行 PyTorch 的性能，让张量处理单元（TPU）成为英伟达图形处理器（GPU）的可靠替代品，削弱英伟达在人工智能计算市场的霸主地位 ...",
+    "id": "8pBAm4n5idq",
+    "order": 1766033517927,
+    "createdAt": "2025-12-18T04:51:57.000Z",
+    "publishDate": "2025-12-18T04:51:57.927Z",
+    "title": "消息称谷歌联手Meta推进“TorchTPU”计划 挑战英伟达AI芯片霸主地位",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-18 12:51:57",
+    "uuid": "b34b453d-04ef-49ba-bd52-386ab776b4a0"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
