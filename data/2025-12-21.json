@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "当地时间周六，美国旧金山遭遇大范围停电事故，约12.5万户家庭及商户受影响，全市约三分之一区域全天断电，公共交通系统陷入混乱 ...",
+    "id": "8pGZKPuEVHX",
+    "order": 1766310733877,
+    "createdAt": "2025-12-21T09:52:13.000Z",
+    "publishDate": "2025-12-21T09:52:13.877Z",
+    "title": "美国旧金山停电致使 Waymo 自动驾驶出租车集体趴窝，官方宣布停运",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-21 17:52:13",
+    "uuid": "9daaa3b8-3098-4a44-943d-857edbd19c5c"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
