@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "全球最大音乐流媒体平台 Spotify 遭影子图书馆组织“安娜的档案”入侵，该组织抓取其约 300TB 音乐文件、约 8600 万首歌曲（占全部曲库约 37%，覆盖 99.9%播放量）及 2.56 亿条元数据记录等，还对 Spotify API 进行近乎无损的 JSON 级重建 ...",
+    "id": "8pHwvYKhfdo",
+    "order": 1766420421377,
+    "createdAt": "2025-12-22T16:20:24.000Z",
+    "publishDate": "2025-12-22T16:20:21.377Z",
+    "title": "流媒体平台 Spotify 数据遭窃，约 300TB 音乐文件流出",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-23 00:20:24",
+    "uuid": "74dd2dd9-87df-472f-a02a-2553e3ad1fd1"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
