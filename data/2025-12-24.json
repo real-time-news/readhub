@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "字节跳动Seed团队推出形式化数学推理专用模型Seed Prover 1.5，相比上一代，该模型在16.5小时内针对IMO 2025前5道题生成完整可编译验证的Lean证明代码，换算成绩达IMO金牌分数线 ...",
+    "id": "8pLKRuGjctk",
+    "order": 1766549545129,
+    "createdAt": "2025-12-24T04:12:25.000Z",
+    "publishDate": "2025-12-24T04:12:25.129Z",
+    "title": "字节推出形式化数学推理专用模型Seed Prover 1.5",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-24 12:12:25",
+    "uuid": "c72296f4-21bf-4cc8-8e48-8a52a8a76e01"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "Momenta获长城汽车旗下两款新车型定点，其中一款为哈弗猛龙，搭载其方案的长城新车型预计明年初上市，辅助驾驶能力定位L2+，支持高速NOA和泊车辅助等，不支持城市NOA，将搭载Momenta最新一段式端到端方案，采用R6飞轮大模型，基于高通骁龙8620芯片开发 ...",
+    "id": "8pLAK7HpVMF",
+    "order": 1766549053201,
+    "createdAt": "2025-12-24T04:04:13.000Z",
+    "publishDate": "2025-12-24T04:04:13.201Z",
+    "title": "长城哈弗将采用Momenta智驾方案，新车计划明年初上市",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-24 12:04:13",
+    "uuid": "ae58727c-fd04-4643-ad21-f16947444fac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智慧芽_新药情报库" },
+      { "siteName": "微信公众号" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "点击文中加粗蓝色字体可免费查阅药物等最新研发进展 ...",
+    "id": "8pJgEr4p5TT",
+    "order": 1766549033043,
+    "createdAt": "2025-12-24T04:03:53.000Z",
+    "publishDate": "2025-12-24T04:03:53.043Z",
+    "title": "Newco同宜医药PDC技术授权出海，创超20亿美元合作新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-24 12:03:53",
+    "uuid": "c86bd001-fd67-482c-8576-c0a8dcfed1ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "12月24日，北方雨雪普遍停歇，南方大部阴雨持续，明起全国大部重返晴朗少雨格局。今明两天我国大部明显降温，东北地区降温剧烈，需及时添衣。",
+    "id": "8pL617BFDCv",
+    "order": 1766548948547,
+    "createdAt": "2025-12-24T04:02:28.000Z",
+    "publishDate": "2025-12-24T04:02:28.547Z",
+    "title": "东北等地迎剧烈降温 全国大部明起回归晴朗干燥格局",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-24 12:02:28",
+    "uuid": "68c74011-94b2-4039-bb59-091c51f44df0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中国科技网" },
+      { "siteName": "科学网" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国西北大学主导的国际研究利用哈勃空间望远镜观测到附近行星系统中罕见“宇宙撞击”，揭示尘埃云可能伪装成行星长达数年，该发现有助于揭示行星形成机制、了解小行星结构特性，对行星防御计划有重要意义，研究成果发表于新一期《科学》杂志。",
+    "id": "8pL0JIFrm01",
+    "order": 1766548933396,
+    "createdAt": "2025-12-24T04:02:14.000Z",
+    "publishDate": "2025-12-24T04:02:13.396Z",
+    "title": "“哈勃”观测到罕见“宇宙撞击”",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-24 12:02:14",
+    "uuid": "4a206af9-c445-4ab0-9f1e-6fa1c32c40c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "全球智能手表出货量预计在2025年底同比增长7%，在2024年首次下滑后重回增长轨道 ...",
+    "id": "8pLJbBx3AyL",
+    "order": 1766548424403,
+    "createdAt": "2025-12-24T03:53:45.000Z",
+    "publishDate": "2025-12-24T03:53:44.403Z",
+    "title": "机构：全球智能手表市场有望于2025年重回增长轨道",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-24 11:53:45",
+    "uuid": "b06f9ebd-6b3f-4154-bbd3-41192caedfc2"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
