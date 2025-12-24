@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美多名作家起诉谷歌、OpenAI等6家科技企业，指控其未经许可使用受版权保护的书籍训练AI系统 ...",
+    "id": "8pLfmUXQ3GU",
+    "order": 1766618174045,
+    "createdAt": "2025-12-24T23:16:14.000Z",
+    "publishDate": "2025-12-24T23:16:14.045Z",
+    "title": "美多名作家起诉谷歌等6企业用版权书籍训练AI",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-25 07:16:14",
+    "uuid": "13490c7e-aafe-4645-a189-54ee1c414c33"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "12月24日，港交所文件显示，红星冷链(湖南)股份有限公司更新聆讯后资料集，意味着其港交所IPO通过聆讯。",
+    "id": "8pLukW0JHvp",
+    "order": 1766617899446,
+    "createdAt": "2025-12-24T23:11:39.000Z",
+    "publishDate": "2025-12-24T23:11:39.446Z",
+    "title": "红星冷链(湖南)股份有限公司通过港交所上市聆讯",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-25 07:11:39",
+    "uuid": "969333b9-f70d-41e6-aab4-cf4f9a430a16"
+  },
+  {
+    "newsArray": [
       { "siteName": "央视新闻" },
       { "siteName": "IT 之家" },
       { "siteName": "快科技" }
