@@ -1,6 +1,110 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "当地时间晚间9点，知名开源操作系统Arch Linux官方网站遭DDoS攻击，仅能通过IPv6协议访问，服务稳定性受影响 ...",
+    "id": "8pOMzmtVor4",
+    "order": 1766721129898,
+    "createdAt": "2025-12-26T03:52:10.000Z",
+    "publishDate": "2025-12-26T03:52:09.898Z",
+    "title": "Arch Linux官网遭DDoS攻击，暂仅支持IPv6访问",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 11:52:10",
+    "uuid": "f7889c7b-218f-4c55-8203-52694162cf63"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华硕希望在 2026 年第二季度开始自行生产 DRAM 芯片，有望从“硬件整合商”转型为“芯片制造商”。此举旨在为 TUF 和 ROG 产品线提供稳定内存供应，绕开采购市场 ...",
+    "id": "8pOIhIFqZVi",
+    "order": 1766721075867,
+    "createdAt": "2025-12-26T03:51:15.000Z",
+    "publishDate": "2025-12-26T03:51:15.867Z",
+    "title": "消息称华硕计划明年进军 DRAM 制造领域，应对内存短缺潮",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 11:51:15",
+    "uuid": "af4c433d-e75f-4d6c-afd2-cbedd1455f1d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "新芽" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "苏州血霁生物科技有限公司宣布完成过亿元人民币的B1轮股权融资，首关由海南大健康医学集团领投，永徽创投等跟投。同时获得多家银行过亿元基于授信的债权融资，其中银行授信达1.2亿元 ...",
+    "id": "8pONnKuRQcN",
+    "order": 1766720980208,
+    "createdAt": "2025-12-26T03:49:40.000Z",
+    "publishDate": "2025-12-26T03:49:40.208Z",
+    "title": "血霁生物完成超亿元B1轮股权融资",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 11:49:40",
+    "uuid": "4e6efee8-7794-41d5-80eb-a7081aac1c47"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "OpenAI 悄然上线“格式化块”新功能，通过自动调整 UI 布局，使 ChatGPT 交互界面能根据特定任务适配，提升内容创作体验 ...",
+    "id": "8pOU6i2bi5B",
+    "order": 1766720661738,
+    "createdAt": "2025-12-26T03:44:21.000Z",
+    "publishDate": "2025-12-26T03:44:21.738Z",
+    "title": "OpenAI 为 ChatGPT  推出“格式化块”功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 11:44:21",
+    "uuid": "70f95a59-a75c-49a1-aff4-9f275d8ff486"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "市场监管总局近日印发通知，部署“两节”期间重要民生商品服务稳价保质工作 ...",
+    "id": "8pOcec6Xhzf",
+    "order": 1766720606090,
+    "createdAt": "2025-12-26T03:43:26.000Z",
+    "publishDate": "2025-12-26T03:43:26.090Z",
+    "title": "市场监管总局部署开展元旦、春节期间重要民生商品服务稳价保质工作",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 11:43:26",
+    "uuid": "709f4956-099f-4ecf-9e4d-226b10a9a72c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "市场早盘冲高回落，三大指数盘中集体跳水翻绿。沪深两市半日成交额1.45万亿，较上一交易日大幅放量2513亿，全市场超3900只个股下跌 ...",
+    "id": "8pOcep7otvE",
+    "order": 1766720594267,
+    "createdAt": "2025-12-26T03:43:15.000Z",
+    "publishDate": "2025-12-26T03:43:14.267Z",
+    "title": "午评：创业板指冲高回落跌0.15% 全市场超3900只个股下跌",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 11:43:15",
+    "uuid": "d6d02e70-7473-434d-96f2-9d78edf300c8"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -168,6 +272,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "新浪科技" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "Groq宣布与英伟达就其推理技术达成非独家授权协议，体现双方拓展高性能、低成本推理技术应用范围的共同意愿 ...",
+    "id": "8pNAfpjNYXi",
+    "order": 1766719854687,
+    "createdAt": "2025-12-26T02:08:09.000Z",
+    "publishDate": "2025-12-26T03:30:54.687Z",
+    "title": "Groq 与英伟达达成非独家推理技术授权协议",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 10:08:09",
+    "uuid": "9b8c8724-3459-492f-9a0e-049bae5c4452"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
@@ -256,6 +377,24 @@
     "up": false,
     "date": "2025-12-26 09:32:35",
     "uuid": "85485f3a-fc70-4b06-97de-19aa47a044e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "近日有消息称，真我手机（realme）启动大规模裁员计划，首轮裁员涉及外包、驻企及正式编制员工，甚至“部分部门仅留一名校招生”“高职级员工调往印度”等 ...",
+    "id": "8pNbpdJutUG",
+    "order": 1766719947717,
+    "createdAt": "2025-12-26T01:27:24.000Z",
+    "publishDate": "2025-12-26T03:32:27.717Z",
+    "title": "realme 真我手机回应“大规模裁员”：系年底正常的人员变动",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 09:27:24",
+    "uuid": "0ac6b68e-d3c8-4adf-9c7d-a24b4aee289f"
   },
   {
     "newsArray": [
@@ -353,6 +492,23 @@
     "up": false,
     "date": "2025-12-26 09:08:07",
     "uuid": "1b2a5d49-66f7-4127-a35d-5f4b83c32635"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "特斯拉CEO埃隆・马斯克12月20日转发宇树机器人为王力宏演唱会伴舞视频并评价“令人印象深刻”，相关内容海外关注量超4000万 ...",
+    "id": "8pOIkJhLaxW",
+    "order": 1766719965429,
+    "createdAt": "2025-12-26T01:07:23.000Z",
+    "publishDate": "2025-12-26T03:32:45.429Z",
+    "title": "马斯克点赞“宇树机器人为王力宏伴舞”，王兴兴回应称大家的喜爱程度超过预估",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 09:07:23",
+    "uuid": "1d7b9f95-1a14-47e1-8b7c-2973a4f7997f"
   },
   {
     "newsArray": [
