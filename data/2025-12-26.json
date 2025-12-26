@@ -1,6 +1,115 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "叙中部霍姆斯市一座清真寺当天发生爆炸，至少3人死亡、5人受伤。",
+    "id": "8pP6hTLBke0",
+    "order": 1766746227311,
+    "createdAt": "2025-12-26T10:50:27.000Z",
+    "publishDate": "2025-12-26T10:50:27.311Z",
+    "title": "叙利亚一清真寺发生爆炸，至少3人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 18:50:27",
+    "uuid": "df7ecf07-0eb1-4103-973c-b21fb4d8760a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "生态环境部大力推动整治农村黑臭水体，全国5042条较大面积农村黑臭水体治理率达98%以上，基本消除 ...",
+    "id": "8pOfWtHV9fy",
+    "order": 1766746192940,
+    "createdAt": "2025-12-26T10:49:52.000Z",
+    "publishDate": "2025-12-26T10:49:52.940Z",
+    "title": "生态环境部：坚决打好农村黑臭水体歼灭战",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 18:49:52",
+    "uuid": "7343ab08-6c5d-4cb8-ba6d-1aab109825d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "12月25日晚，全国信息通信监管工作会在京召开，总结“十四五”工作，分析未来五年形势挑战，部署“十五五”重点任务 ...",
+    "id": "8pP6g0UhKb9",
+    "order": 1766746093272,
+    "createdAt": "2025-12-26T10:48:13.000Z",
+    "publishDate": "2025-12-26T10:48:13.272Z",
+    "title": "工信部召开全国信息通信监管工作会：严处不当竞争，紧抓人工智能发展机遇",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 18:48:13",
+    "uuid": "8c69e992-e615-40da-be03-cd03c162766d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "郑商所通知，自2025年12月30日结算时起，棉花、菜油等期货合约交易保证金标准为9%，涨跌停板幅度为8%，菜粕2603合约保证金标准为10% ...",
+    "id": "8pP5FMtTZXF",
+    "order": 1766746007989,
+    "createdAt": "2025-12-26T10:46:48.000Z",
+    "publishDate": "2025-12-26T10:46:47.989Z",
+    "title": "郑商所调整部分期货合约交易保证金标准和涨跌停板幅度",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 18:46:48",
+    "uuid": "e569b742-0ef7-47f8-b474-ca1e4baa87c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "现货白银涨5%，现报75.39美元/盎司，续创历史新高。",
+    "id": "8pOMzPmuJMg",
+    "order": 1766745991240,
+    "createdAt": "2025-12-26T10:46:31.000Z",
+    "publishDate": "2025-12-26T10:46:31.240Z",
+    "title": "现货白银涨5%，续创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 18:46:31",
+    "uuid": "deccdfc0-ee0f-4b09-ab84-e0dd22880306"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "人工智能大模型系列国家标准正式实施，作为首部聚焦通用大模型的国家标准，填补了技术评价体系空白 ...",
+    "id": "8pP6ftLbUYL",
+    "order": 1766745784497,
+    "createdAt": "2025-12-26T10:43:04.000Z",
+    "publishDate": "2025-12-26T10:43:04.497Z",
+    "title": "中国首部人工智能大模型国家标准实施",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 18:43:04",
+    "uuid": "ddfe26cf-1493-4df8-b90a-f8ec7b642bcb"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
@@ -121,6 +230,24 @@
     "up": false,
     "date": "2025-12-26 18:23:28",
     "uuid": "f469f309-7f25-4ad9-bd64-1084310a450c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上海国际能源交易中心通知，2025年12月31日晚不进行夜盘交易，2026年1月1日至1月4日休市，1月5日08:55 - 09:00所有期货、期权合约集合竞价，当晚恢复夜盘交易。",
+    "id": "8pP3rkMlKdt",
+    "order": 1766745949411,
+    "createdAt": "2025-12-26T10:23:12.000Z",
+    "publishDate": "2025-12-26T10:45:49.411Z",
+    "title": "上海国际能源交易中心：星期三晚上不进行夜盘交易",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-26 18:23:12",
+    "uuid": "14e98c5f-3ba1-4252-8725-100fcb303bbc"
   },
   {
     "newsArray": [
