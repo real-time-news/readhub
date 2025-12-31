@@ -1,6 +1,133 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "TeslaAI官方宣布，截至2025年年底，特斯拉智能辅助驾驶全球累计行驶超110亿公里，与美国道路交通事故平均发生率相比，使用该系统时车辆各项事故发生率显著下降，重大、轻微碰撞事故发生率降至1/8，非公路碰撞事故发生率降至1/6 ...",
+    "id": "8pWsM6uHOSD",
+    "order": 1767166370541,
+    "createdAt": "2025-12-31T07:32:50.000Z",
+    "publishDate": "2025-12-31T07:32:50.541Z",
+    "title": "特斯拉智能辅助驾驶安全成绩单：累计行驶超110亿公里",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-31 15:32:50",
+    "uuid": "d89214ae-eccc-4d9d-a1aa-e80c3799d57d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "今天下午，小马智行宣布“超额完成”2025 年千辆 Robotaxi 目标，规模突破 1159 辆，选用广汽埃安 AION V 等车型 ...",
+    "id": "8pX9WMkKfc0",
+    "order": 1767166357560,
+    "createdAt": "2025-12-31T07:32:37.000Z",
+    "publishDate": "2025-12-31T07:32:37.560Z",
+    "title": "规模突破 1159 辆，小马智行宣布“超额完成”今年千辆 Robotaxi 目标",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-31 15:32:37",
+    "uuid": "b3660ad9-f20d-4ea5-9f63-c1de8bda8ed9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "aibase" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "搭载千问AI助手的夸克AI眼镜迎来首次OTA，AI能力增强。新增录音纪要、图文备忘录等五项新功能，优化翻译、行程查询等功能场景 ...",
+    "id": "8pXAwKvp1oA",
+    "order": 1767166098593,
+    "createdAt": "2025-12-31T07:28:18.000Z",
+    "publishDate": "2025-12-31T07:28:18.593Z",
+    "title": "夸克AI眼镜首次OTA：AI能力进一步增强，新增图文备忘录等五项功能",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-31 15:28:18",
+    "uuid": "387f5ff3-2924-4523-bf82-cbe5a03d56d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "大商所公告，焦煤期权自2026年1月16日（周五）起上市交易，当日8:55 - 9:00集合竞价，9:00开盘，当晚开展夜盘交易 ...",
+    "id": "8pXAwPcUH0x",
+    "order": 1767166002117,
+    "createdAt": "2025-12-31T07:26:42.000Z",
+    "publishDate": "2025-12-31T07:26:42.117Z",
+    "title": "大商所：焦煤期权自2026年1月16日起上市交易",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-31 15:26:42",
+    "uuid": "f102481f-1f1d-484d-9e4c-fa64f3e89099"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "国家统计局公告显示，经核算，2024年全国专利密集型产业增加值为180381亿元，占GDP比重为13.38%，比上年提高0.34个百分点 ...",
+    "id": "8pXAtyUVVXo",
+    "order": 1767166371627,
+    "createdAt": "2025-12-31T07:24:00.000Z",
+    "publishDate": "2025-12-31T07:32:51.627Z",
+    "title": "2024年全国专利密集型产业增加值为180381亿元 占GDP比重为13.38%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-31 15:24:00",
+    "uuid": "baf92fd2-91bd-4cb6-b731-6eb4b413536e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "12月31日上午，三花智控A股成交额达100亿元，现涨4.34%。",
+    "id": "8pWo6QTUpe7",
+    "order": 1767165785090,
+    "createdAt": "2025-12-31T07:23:05.000Z",
+    "publishDate": "2025-12-31T07:23:05.090Z",
+    "title": "三花智控A股成交额达100亿元，现涨4.34%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-31 15:23:05",
+    "uuid": "4ee95a19-1887-42a3-8c8f-4ebfa17f4b2d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国内期货主力合约涨跌不一，铂跌超10%、钯跌超9%，燃料油等多品种下跌。集运欧线、沪铝等多品种涨幅超1%。",
+    "id": "8pWvD4NbNA1",
+    "order": 1767165719470,
+    "createdAt": "2025-12-31T07:22:00.000Z",
+    "publishDate": "2025-12-31T07:21:59.470Z",
+    "title": "国内期货主力合约涨跌不一 铂跌超10%",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-31 15:22:00",
+    "uuid": "f1da486b-aa15-4704-9987-b35ed5c2aa23"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" }
@@ -33,6 +160,24 @@
     "up": false,
     "date": "2025-12-31 15:04:47",
     "uuid": "7e929abf-0a23-4c54-aefa-7c1ff10e73d7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "YuanLab.ai团队正式开源发布“源Yuan3.0 Flash”多模态基础大模型，该模型参数规模40B，采用稀疏混合专家（MoE）架构，单次推理仅激活约3.7B参数。",
+    "id": "8pWvCFRSJxv",
+    "order": 1767165952247,
+    "createdAt": "2025-12-31T06:52:17.000Z",
+    "publishDate": "2025-12-31T07:25:52.247Z",
+    "title": "源Yuan 3.0 Flash基础大模型开源发布",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-31 14:52:17",
+    "uuid": "18cf9ec1-f502-47ea-b8f9-13ba5026e88b"
   },
   {
     "newsArray": [
@@ -382,6 +527,26 @@
     "up": false,
     "date": "2025-12-31 12:43:14",
     "uuid": "0e5f5f38-49e7-428c-8af7-5afb4f3a31c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "今年南向资金净买入港股金额逾1.4万亿港元创纪录新高，2024年净买入约8079亿港元。",
+    "id": "8pWo8TGVztt",
+    "order": 1767165654660,
+    "createdAt": "2025-12-31T04:42:37.000Z",
+    "publishDate": "2025-12-31T07:20:54.660Z",
+    "title": "南向资金今年净买入港股逾1.4万亿港元 创纪录新高",
+    "type": "topic",
+    "up": false,
+    "date": "2025-12-31 12:42:37",
+    "uuid": "5d05904f-6b9a-449d-811d-1f02dc0af87f"
   },
   {
     "newsArray": [
