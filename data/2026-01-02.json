@@ -1,6 +1,98 @@
 [
   {
     "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "12 月单月销量达 35205 辆，同比增长 115%，连续三个月突破 3 万辆 ...",
+    "id": "8pZLbDZXTHQ",
+    "order": 1767343494095,
+    "createdAt": "2026-01-02T08:44:55.000Z",
+    "publishDate": "2026-01-02T08:44:54.095Z",
+    "title": "北汽新能源 2025 全年销量突破 20 万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-02 16:44:55",
+    "uuid": "f40b2ffa-d625-4f7b-8d04-7586705f5107"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "英国蓝筹股指富时100指数首次突破10000点大关。",
+    "id": "8paaR7QhRyR",
+    "order": 1767343443719,
+    "createdAt": "2026-01-02T08:44:03.000Z",
+    "publishDate": "2026-01-02T08:44:03.719Z",
+    "title": "英国蓝筹股指富时100指数首次突破10000点大关",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-02 16:44:03",
+    "uuid": "fcc4c80f-2e44-4070-ad6b-69547f640d1f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "香港11月零售销售量同比增长4.4%（预估6.7%），零售销售额同比增长6.5%（预估8.6%）。",
+    "id": "8paaR21BaEA",
+    "order": 1767343356275,
+    "createdAt": "2026-01-02T08:42:36.000Z",
+    "publishDate": "2026-01-02T08:42:36.275Z",
+    "title": "香港11月零售销售额同比增长6.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-02 16:42:36",
+    "uuid": "829f6871-8059-4ca2-8e88-c9b444ab29a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "印度政府批准电子元件制造计划下投资 4186.3 亿卢比。",
+    "id": "8paZ19GugLj",
+    "order": 1767343330020,
+    "createdAt": "2026-01-02T08:42:10.000Z",
+    "publishDate": "2026-01-02T08:42:10.020Z",
+    "title": "印度政府批准电子元件制造计划下的投资金额为4186.3亿卢比",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-02 16:42:10",
+    "uuid": "a4a0c4ed-32a2-4426-a761-8ad74d2100ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "LME铝价自2022年以来首次触及每吨3000美元。",
+    "id": "8paYzu8YssM",
+    "order": 1767342146615,
+    "createdAt": "2026-01-02T08:22:27.000Z",
+    "publishDate": "2026-01-02T08:22:26.615Z",
+    "title": "LME铝价自2022年以来首次触及每吨3000美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-02 16:22:27",
+    "uuid": "31a4e362-c539-4b16-a662-762ec3fa09c8"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "站长之家" },
       { "siteName": "快科技" }
