@@ -1,6 +1,115 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国有关部门正在审查 Meta 以 20 亿美元收购人工智能平台 Manus 的交易，评估其是否违反技术出口管制，商务部已开始评估 Manus 团队及技术迁往新加坡并出售给 Meta 的过程是否需出口许可 ...",
+    "id": "8piXWGc77Nx",
+    "order": 1767768684647,
+    "createdAt": "2026-01-07T06:51:24.000Z",
+    "publishDate": "2026-01-07T06:51:24.647Z",
+    "title": "消息称Meta收购Manus交易正被审查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 14:51:24",
+    "uuid": "e8eea2bb-2faf-4fc1-b33d-e37a41bd2fb0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国机长布兰登·菲舍尔起诉波音公司，称其在成功驾驶门塞突然脱落的波音客机降落之后，反被波音暗指“操作不当”，造成很大精神痛苦 ...",
+    "id": "8pikOgJSliP",
+    "order": 1767768422947,
+    "createdAt": "2026-01-07T06:47:02.000Z",
+    "publishDate": "2026-01-07T06:47:02.947Z",
+    "title": "平安降落“敞门”飞机反遭指责，美国机长起诉波音公司",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 14:47:02",
+    "uuid": "d265f43d-dc7f-4eee-932d-e16367d19176"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "意大利电信宣布与Fastweb及沃达丰达成初步协议，将通过无线接入网共享模式合作发展移动接入网络，规定相关区域内运营商可使用对方移动无线接入基础设施，避免重复建设。",
+    "id": "8pikOG9oPbn",
+    "order": 1767768398809,
+    "createdAt": "2026-01-07T06:46:39.000Z",
+    "publishDate": "2026-01-07T06:46:38.809Z",
+    "title": "意大利电信、Fastweb与沃达丰达成网络共享协议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 14:46:39",
+    "uuid": "26bddc16-6167-4f85-bf79-4b6584161630"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "市场监管总局发布关于产品质量检验机构伪造检验结果或出具虚假证明情节严重判定标准的意见，明确具有因造假构成犯罪被追刑责、2年内因造假受1次处罚又造假、在重点产品领域出具2份以上或在产品质量检验领域出具10份以上虚假报告、造成重大特大质量安全事件或恶劣社会影响、其他依规应认定为情节严重情形之一的，应认定为《中华人民共和国产品质量法》规定的“情节严重” ...",
+    "id": "8pikO3GTzJz",
+    "order": 1767768248008,
+    "createdAt": "2026-01-07T06:44:08.000Z",
+    "publishDate": "2026-01-07T06:44:08.008Z",
+    "title": "市场监管总局：“造假”机构将被取消检验资格",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 14:44:08",
+    "uuid": "add71cb6-7ea7-4209-a7e2-2a12aac59c22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "沈阳住房公积金管理中心副主任李赞介绍，经审议通过，2026 年 1 月起优化 5 项住房公积金贷款政策，包括延长最低首付款比例和住房套数认定标准政策期限至 2026 年 12 月 31 日 ...",
+    "id": "8piixYk8nST",
+    "order": 1767768225313,
+    "createdAt": "2026-01-07T06:43:46.000Z",
+    "publishDate": "2026-01-07T06:43:45.313Z",
+    "title": "1月起沈阳优化5项住房公积金贷款政策",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 14:43:46",
+    "uuid": "7a95fc83-6ed5-4578-a9a3-512efb0f3900"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "午后AI应用端震荡走强，百纳千成、三人行涨停，此前引力传媒、美克家居涨停，蓝色光标等跟涨。消息称DeepSeek下一代旗舰系统R2预计2月春节前后问世。",
+    "id": "8piiw63aKxQ",
+    "order": 1767768051666,
+    "createdAt": "2026-01-07T06:24:19.000Z",
+    "publishDate": "2026-01-07T06:40:51.666Z",
+    "title": "AI应用端震荡走强，百纳千成20cm涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 14:24:19",
+    "uuid": "b312de59-8fd2-4b9e-bdf8-50d99d320b3d"
+  },
+  {
+    "newsArray": [
       { "siteName": "猎云网" },
       { "siteName": "品玩" },
       { "siteName": "创业邦" }
@@ -256,6 +365,28 @@
     "up": false,
     "date": "2026-01-07 12:44:07",
     "uuid": "50bb031d-c95d-48d5-b980-0c308d599da1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "日经225指数跌幅扩大至1%，报51989.54点。",
+    "id": "8piJEJiaSV0",
+    "order": 1767768172334,
+    "createdAt": "2026-01-07T04:43:36.000Z",
+    "publishDate": "2026-01-07T06:42:52.334Z",
+    "title": "日经225指数跌幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 12:43:36",
+    "uuid": "2eaf6bd6-2011-40f7-9440-7c1e2efa64b5"
   },
   {
     "newsArray": [
