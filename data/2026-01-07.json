@@ -1,6 +1,90 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美光科技推出首款面向客户端计算的PCIe 5.0 QLC SSD——美光3610 NVMe SSD，采用紧凑型单面M.2 2230外形规格，全球率先采用4TB容量，目前已向部分OEM合作伙伴送样，提供多种外形规格及1TB至4TB容量选择。",
+    "id": "8piPIaB1t4O",
+    "order": 1767771920488,
+    "createdAt": "2026-01-07T07:45:20.000Z",
+    "publishDate": "2026-01-07T07:45:20.488Z",
+    "title": "美光推出首款面向客户端计算的PCIe 5.0 QLC SSD",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 15:45:20",
+    "uuid": "ca1dfbb3-fb6c-4b97-becc-f6b698f2c7f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国核电公告，2025 年全年累计商运发电量 2444.30 亿千瓦时，同比增 12.98%，其中核电发电量 2008.07 亿千瓦时、上网电量 1878.47 亿千瓦时，同比分别增长 9.66%、9.69%，新能源发电量 436.23 亿千瓦时，同比增 31.29% ...",
+    "id": "8pioetlOOql",
+    "order": 1767771869550,
+    "createdAt": "2026-01-07T07:44:30.000Z",
+    "publishDate": "2026-01-07T07:44:29.550Z",
+    "title": "中国核电：2025年全年核电发电量2008亿千瓦时，同比增长9.66%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 15:44:30",
+    "uuid": "da0bc3f7-7095-4b6a-a322-197df26f9620"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "维力医疗(603309.SH)公告，预计2025年度归母净利润7500万元到9500万元，同比降57%-66%。扣非净利润6500万元到8500万元，同比降60%-69% ...",
+    "id": "8pioewlbGB7",
+    "order": 1767771849352,
+    "createdAt": "2026-01-07T07:44:09.000Z",
+    "publishDate": "2026-01-07T07:44:09.352Z",
+    "title": "维力医疗：2025年净利同比预减57%-66%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 15:44:09",
+    "uuid": "2736e849-2665-4e30-8e2f-8e099adc37ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "工信部印发《工业互联网和人工智能融合赋能行动方案》，强化工业智能算力供给。加快工业互联网与各类算中心融合应用，鼓励公共算力服务商为工业企业服务 ...",
+    "id": "8pioeoOQvH2",
+    "order": 1767771722684,
+    "createdAt": "2026-01-07T07:42:03.000Z",
+    "publishDate": "2026-01-07T07:42:02.684Z",
+    "title": "工信部：强化工业智能算力供给",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 15:42:03",
+    "uuid": "8d30b843-d082-4642-9c28-004f1c1822f0"
+  },
+  {
+    "newsArray": [
       { "siteName": "牛透社" },
       { "siteName": "aibase" },
       { "siteName": "36Kr" }
@@ -127,6 +211,24 @@
     "up": false,
     "date": "2026-01-07 15:12:25",
     "uuid": "181f4cce-1896-4a33-996e-e00eacbbeacc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "蔚来在第100万台量产车下线之际，推出“ET9百万纪念限量版”，限量9台，售价81.8万元起，采用BaaS电池租用方式购买，售价71万元起 ...",
+    "id": "8pihdm9FwBi",
+    "order": 1767771933443,
+    "createdAt": "2026-01-07T07:03:53.000Z",
+    "publishDate": "2026-01-07T07:45:33.443Z",
+    "title": "蔚来ET9百万纪念限量版上市：81.8万元起，全球限量9台",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-07 15:03:53",
+    "uuid": "75286a68-f33d-46ec-83a6-58edce40acd9"
   },
   {
     "newsArray": [
