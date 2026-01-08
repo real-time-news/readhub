@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "台积电先进制程维持高产能利用率，3nm制程持续供不应求。今年除调高3nm报价外，已暂停3nm新案启动，原因是订单满载、现有产能难负荷且短期内扩产难追需求 ...",
+    "id": "8pkPHurh0pi",
+    "order": 1767855123876,
+    "createdAt": "2026-01-08T06:52:04.000Z",
+    "publishDate": "2026-01-08T06:52:03.876Z",
+    "title": "台积电3nm制程供不应求：调高报价 暂停新案启动",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 14:52:04",
+    "uuid": "b95fd1f7-f5fd-439d-949a-fe1fb3ecae89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "谷歌正在招聘“AI Answers Quality”工程师，以提升搜索产品中AI Overviews的回答准确性与可靠性 ...",
+    "id": "8pk8C3d5Nsp",
+    "order": 1767854832195,
+    "createdAt": "2026-01-08T06:47:13.000Z",
+    "publishDate": "2026-01-08T06:47:12.195Z",
+    "title": "谷歌组建新团队提升 AI Overviews 回答质量",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 14:47:13",
+    "uuid": "9e18a1c2-fced-479b-b22e-be04e50f7ad0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "科学网" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "近日，合合信息旗下名片全能王与中兴通讯合作，将数字名片服务融入企业数字化体系。商务场景中，企业面临人脉信息管理与数据沉淀难题，传统纸质名片有局限，客户信息分散难整合，集中管理人脉资产需求迫切 ...",
+    "id": "8piXV4OZnlH",
+    "order": 1767854662657,
+    "createdAt": "2026-01-08T06:44:22.000Z",
+    "publishDate": "2026-01-08T06:44:22.657Z",
+    "title": "合合信息旗下名片全能王与中兴通讯达成合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 14:44:22",
+    "uuid": "fd6085d9-3436-4fe8-b6df-01531f0e59a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2025年，厦金“小三通”客运航线全年累计发送旅客174.03万人次，同比增长38.84%。发航8434班次，同比增长36.83%。平均客座率达68.21%，创历史新高 ...",
+    "id": "8pkPHcvYdCm",
+    "order": 1767854617426,
+    "createdAt": "2026-01-08T06:43:37.000Z",
+    "publishDate": "2026-01-08T06:43:37.426Z",
+    "title": "2025年厦金“小三通”客运航线发送旅客超174万人次",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 14:43:37",
+    "uuid": "eb945e88-882d-4b7a-8a7b-fdae4ce02bb5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "迅销第一季度营业利润2109.1亿日元，超市场预期1752.1亿日元。净利润1474.5亿日元，超市场预期1301亿日元。净销售额1.03万亿日元，超市场预期9902.4亿日元 ...",
+    "id": "8pkPHhAgmmc",
+    "order": 1767854583704,
+    "createdAt": "2026-01-08T06:43:03.000Z",
+    "publishDate": "2026-01-08T06:43:03.704Z",
+    "title": "迅销上调全年营业利润预期，业绩超出预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 14:43:03",
+    "uuid": "52ffd20b-63aa-456c-a618-1270912ff141"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -528,6 +617,24 @@
     "up": false,
     "date": "2026-01-08 11:08:24",
     "uuid": "fee1d53a-d506-418f-8042-57cc83493782"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "日韩股市低开，日经指数开盘跌0.4%，报51769.83点，受金融股拖累。韩国综合股价指数（KOSPI）开盘跌0.4%，报4531.46点。责任编辑：王永生。",
+    "id": "8pjy7VDlqyl",
+    "order": 1767854500018,
+    "createdAt": "2026-01-08T03:02:18.000Z",
+    "publishDate": "2026-01-08T06:41:40.018Z",
+    "title": "日韩股市低开 日经指数开盘下跌0.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 11:02:18",
+    "uuid": "7f2a9c32-a108-4b58-8903-b0f0c171261c"
   },
   {
     "newsArray": [
