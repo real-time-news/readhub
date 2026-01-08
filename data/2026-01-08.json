@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "三星电子发布2025年第四季度初步财报，营业利润达20万亿韩元（约146亿美元），同比暴增208%，超市场预期，创单季最高纪录 ...",
+    "id": "8pk6hncouEp",
+    "order": 1767857327036,
+    "createdAt": "2026-01-08T07:28:48.000Z",
+    "publishDate": "2026-01-08T07:28:47.036Z",
+    "title": "AI 服务器成最大引擎，三星 Q4 营业利润暴增 208%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 15:28:48",
+    "uuid": "c73600b1-42e5-4808-ab59-f5b11908d256"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "近日，深圳光智时空科技有限公司发生工商变更，新增蚂蚁集团旗下上海云玡等为股东，注册资本由约164.35万人民币增至约210.62万人民币 ...",
+    "id": "8pkNwjQgkbm",
+    "order": 1767857249892,
+    "createdAt": "2026-01-08T07:26:48.000Z",
+    "publishDate": "2026-01-08T07:27:29.892Z",
+    "title": "蚂蚁集团、美团龙珠等入股光智时空 后者为AI交互设备研发商",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 15:26:48",
+    "uuid": "3a86af37-f13b-42cd-a591-8ee037e971d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "近日，中国相关部门审查Meta约20亿美元收购人工智能初创公司Manus的交易，评估是否涉及技术出口管制违规风险 ...",
+    "id": "8pkDwH3Vpz4",
+    "order": 1767857149095,
+    "createdAt": "2026-01-08T07:25:50.000Z",
+    "publishDate": "2026-01-08T07:25:49.095Z",
+    "title": "Meta并购Manus案引发中国监管关注",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 15:25:50",
+    "uuid": "cec2d269-d94b-427a-b674-297555f146c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星备受期待的 AI 家庭机器人 Ballie 面临“难产”危机，公司已无限期搁置其上市计划，将其定义为“活跃的创新平台”，仅供内部研发使用，“退化”为技术验证原型 ...",
+    "id": "8pkOZNJ6WgR",
+    "order": 1767857025256,
+    "createdAt": "2026-01-08T07:23:45.000Z",
+    "publishDate": "2026-01-08T07:23:45.256Z",
+    "title": "彭博：三星已无限期搁置旗下AI家庭机器人Ballie",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 15:23:45",
+    "uuid": "234787f3-00e8-457a-a886-8bd23dcaf24c"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
@@ -125,6 +196,26 @@
     "up": false,
     "date": "2026-01-08 15:04:54",
     "uuid": "2b037f41-3dc5-4b3f-8d1e-fcc07638765c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "微信发文辟谣网传腾讯微信新规则，称正常社交行为不受限制，不会因好友多、长期在固定地点登录、与亲友互动频繁等正常使用情况处置账号。",
+    "id": "8pkQlCsLrwX",
+    "order": 1767857350543,
+    "createdAt": "2026-01-08T07:03:42.000Z",
+    "publishDate": "2026-01-08T07:29:10.543Z",
+    "title": "微信辟谣网传封号新规则",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 15:03:42",
+    "uuid": "9eb59690-bd05-44a7-970b-9c7a45e28c6b"
   },
   {
     "newsArray": [
@@ -253,6 +344,46 @@
   },
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "有说法称爱玛科技“寒冬已至”且减员超 50%，爱玛科技接线工作人员回应，公司不存在减员超 50%情况，人员优化是正常调整，未如传言般夸大 ...",
+    "id": "8pkNqQys8Z5",
+    "order": 1767857425459,
+    "createdAt": "2026-01-08T06:26:34.000Z",
+    "publishDate": "2026-01-08T07:30:25.459Z",
+    "title": "爱玛科技否认减员超 50%：年底正常人事调整，减员仅零星几人",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 14:26:34",
+    "uuid": "9a5ed42b-cef6-407f-bc5f-13470854389f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "马斯克近日接受采访称当前芯片制造行业建洁净室的方式错误，承诺特斯拉将建成自己的2纳米制程晶圆厂。",
+    "id": "8pkMT9YR5ut",
+    "order": 1767857432932,
+    "createdAt": "2026-01-08T06:26:21.000Z",
+    "publishDate": "2026-01-08T07:30:32.932Z",
+    "title": "马斯克：特斯拉会建成自己的2纳米制程晶圆厂",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 14:26:21",
+    "uuid": "38372195-9487-44ce-a334-7ae250bab5da"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
@@ -272,6 +403,23 @@
     "up": false,
     "date": "2026-01-08 14:25:26",
     "uuid": "bfeef645-c03d-4a3c-86fd-ea2333e6c045"
+  },
+  {
+    "newsArray": [
+      { "siteName": "爱范儿" },
+      { "siteName": "界面" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2025年2月24日凌晨，唐某、吴某酒后到餐厅用餐实施不当行为，吴某还将视频发布网上，严重侵害餐厅合法权益 ...",
+    "id": "8pk6lbRVc4F",
+    "order": 1767857438514,
+    "createdAt": "2026-01-08T06:23:21.000Z",
+    "publishDate": "2026-01-08T07:30:38.514Z",
+    "title": "海底捞“小便门”当事人登报道歉",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 14:23:21",
+    "uuid": "1d0fd60a-5bf2-462b-ab56-8f2a6f7efc3d"
   },
   {
     "newsArray": [
@@ -433,6 +581,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "网易互娱梦幻事业部原负责人林云枫（小白）已离职，1月7日其在网易内部OA显示为离职状态，他暂无创业计划 ...",
+    "id": "8pkEZ2YG8Vf",
+    "order": 1767857784660,
+    "createdAt": "2026-01-08T05:12:30.000Z",
+    "publishDate": "2026-01-08T07:36:24.660Z",
+    "title": "网易梦幻事业部林云枫离职，《漫威争锋》制作人接管",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 13:12:30",
+    "uuid": "2cc4e515-69c3-4f79-b7e7-5759fc812366"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -491,6 +656,34 @@
     "up": false,
     "date": "2026-01-08 13:03:49",
     "uuid": "32b0b79c-e8e4-43ca-b580-c040e4c0ec6f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国茶饮连锁品牌霸王茶姬据称正考虑在香港上市。霸王茶姬方面回应记者称，暂无计划。",
+    "id": "8pkG2sb50ZN",
+    "order": 1767857852716,
+    "createdAt": "2026-01-08T04:43:07.000Z",
+    "publishDate": "2026-01-08T07:37:32.716Z",
+    "title": "网传霸王茶姬正考虑考虑赴港二次上市 官方否认",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-08 12:43:07",
+    "uuid": "4a9660f4-e6af-4bc3-b0e3-f3775ab46d66"
   },
   {
     "newsArray": [
