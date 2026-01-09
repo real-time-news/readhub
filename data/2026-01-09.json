@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "智东西" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "知情人士透露，微软计划对 2018 年收购的全球领先软件开发协作平台 GitHub 进行全面改革，以抗衡 AI 代码开发竞品，布局人工智能智能体领域，目前已启动团队重组 ...",
+    "id": "8pkgmR8JZBG",
+    "order": 1767944524700,
+    "createdAt": "2026-01-09T07:42:04.000Z",
+    "publishDate": "2026-01-09T07:42:04.700Z",
+    "title": "消息称微软计划全面改革 GitHub，以抗衡 AI 编程工具竞品并布局 AI 智能体领域",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-09 15:42:04",
+    "uuid": "1e11530b-bf50-401e-8518-8d92b814eec2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "和硕2025年12月销售额998.9亿元台币，同比下降2.49％，2025年累计销售额1.12万亿元台币。",
+    "id": "8pm73B8sVsn",
+    "order": 1767943699294,
+    "createdAt": "2026-01-09T07:28:20.000Z",
+    "publishDate": "2026-01-09T07:28:19.294Z",
+    "title": "和硕：12月销售额998.9亿元台币，同比下降2.49％",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-09 15:28:20",
+    "uuid": "d8cf8ba4-feda-4707-b752-2d1948aa105d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Hugging Face数据显示，阿里千问大模型在2025年12月下载量超2到8名总和，自下半年下载量超越Meta后，累计下载量达7亿，是全球开发者采用率最高的开源模型。",
+    "id": "8pm6MwXao0k",
+    "order": 1767943608208,
+    "createdAt": "2026-01-09T07:26:49.000Z",
+    "publishDate": "2026-01-09T07:26:48.208Z",
+    "title": "阿里千问模型下载量激增，累计下载量7亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-09 15:26:49",
+    "uuid": "82071c65-b134-4c85-b767-6bfcf32f265e"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
