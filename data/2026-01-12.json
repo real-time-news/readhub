@@ -1,6 +1,133 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "台达电公布2025年12月销售额536.9亿元新台币，同比增长38.6%。",
+    "id": "8pr2vip43R5",
+    "order": 1768200358061,
+    "createdAt": "2026-01-12T06:45:59.000Z",
+    "publishDate": "2026-01-12T06:45:58.061Z",
+    "title": "台达电公布2025年12月销售额同比增长38.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 14:45:59",
+    "uuid": "b40914cb-2cf7-4127-8e70-7523e72ff14e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "杭州“六小龙”之一强脑科技以保密形式提交港股IPO申请。",
+    "id": "8pr2FTpeRUT",
+    "order": 1768200270214,
+    "createdAt": "2026-01-12T06:44:31.000Z",
+    "publishDate": "2026-01-12T06:44:30.214Z",
+    "title": "杭州“六小龙”之一强脑科技以保密形式提交港股IPO申请",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 14:44:31",
+    "uuid": "f0074a16-19c8-4ea6-869f-d15493831c52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "小鹏汽车据称已为飞行汽车子公司赴港IPO聘请投资银行。",
+    "id": "8pr2FXOClYc",
+    "order": 1768200181623,
+    "createdAt": "2026-01-12T06:43:01.000Z",
+    "publishDate": "2026-01-12T06:43:01.623Z",
+    "title": "小鹏汽车据称已为飞行汽车子公司赴香港IPO事宜聘请投资银行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 14:43:01",
+    "uuid": "f24fe039-398c-436f-a6f6-fe322854e2be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "诺基亚与海信上周宣布签署多年专利许可协议，涵盖诺基亚视频技术在海信电视中的使用，海信将向诺基亚支付版税 ...",
+    "id": "8pqwovFe7yz",
+    "order": 1768200165104,
+    "createdAt": "2026-01-12T06:42:47.000Z",
+    "publishDate": "2026-01-12T06:42:45.104Z",
+    "title": "诺基亚与海信达成专利诉讼和解，就视频技术签署许可协议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 14:42:47",
+    "uuid": "6566416a-8053-4755-b82d-adc5bd678aa0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "1月12日下午，章泽天个人播客“小天章”上线小宇宙App，发布首条内容，她称做播客并取名“小天章”，是想以更本真的样子与大家见面，“天章”是万物运行法则，也是其多年微信名 ...",
+    "id": "8pr05QWiKts",
+    "order": 1768199466983,
+    "createdAt": "2026-01-12T06:26:40.000Z",
+    "publishDate": "2026-01-12T06:31:06.983Z",
+    "title": "章泽天开通个人播客，上线2小时收听量超1.6万",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 14:26:40",
+    "uuid": "fb3bad73-639f-4d17-8442-3a4e2df4475f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "上证指数涨逾1%，深证成指涨1.68%，创业板指涨1.79%，沪深京三市近4000只个股上涨，AI应用、商业航天板块涨幅居前。",
+    "id": "8pr1TRLpn5n",
+    "order": 1768200088327,
+    "createdAt": "2026-01-12T06:25:11.000Z",
+    "publishDate": "2026-01-12T06:41:28.327Z",
+    "title": "A股三大指数均涨逾1%，上涨个股近4000只",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 14:25:11",
+    "uuid": "5951a051-c4fc-4abc-9db4-c9d00e80e401"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "因旗下自动化聊天平台AlienChat涉及大量违规色情交互内容，其主要开发与运营人员被追究刑事责任 ...",
+    "id": "8pqyyFI8Bne",
+    "order": 1768199028653,
+    "createdAt": "2026-01-12T06:23:49.000Z",
+    "publishDate": "2026-01-12T06:23:48.653Z",
+    "title": "国内首例：诱导AI聊天系统输出色情内容，开发者一审获刑四年",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 14:23:49",
+    "uuid": "7b441b4c-9f1b-4e4d-84ab-275b28132e51"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "手机中国" },
       { "siteName": "快科技" }
@@ -65,6 +192,24 @@
     "up": false,
     "date": "2026-01-12 13:51:54",
     "uuid": "a669c76b-0a0b-4627-b916-813050699107"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "新芽" }
+    ],
+    "summary": "悦唯医疗将借助本轮融资，强化在心血管外科及其他外延领域的研发创新与市场渗透能力，巩固领先地位，致力于打造更符合中国一线临床应用的心脏外科产品。",
+    "id": "8pqb9BtTUF5",
+    "order": 1768200302779,
+    "createdAt": "2026-01-12T05:49:43.000Z",
+    "publishDate": "2026-01-12T06:45:02.779Z",
+    "title": "悦唯医疗完成近亿元B轮融资，加速心血管外科高端器械国产化进程",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 13:49:43",
+    "uuid": "49a0400d-57e7-4201-869a-2a94028c9198"
   },
   {
     "newsArray": [
@@ -367,6 +512,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "今天上午，岚图汽车官微宣布与引望正式签署深化战略合作协议，双方将在智能驾驶、智能座舱联合开发、To C 软件联合运营等方面深化合作，组建联合团队实现全价值链合作，还将在营销推广、品牌规范等层面进一步合作 ...",
+    "id": "8pqljddNuAo",
+    "order": 1768199034336,
+    "createdAt": "2026-01-12T03:07:32.000Z",
+    "publishDate": "2026-01-12T06:23:54.336Z",
+    "title": "岚图汽车与华为引望深化战略合作，将联合开发智驾、智舱",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 11:07:32",
+    "uuid": "7413f2a7-87b8-4c64-bbf0-631383c1a35a"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "IT 之家" }
@@ -550,6 +713,26 @@
     "up": false,
     "date": "2026-01-12 10:03:04",
     "uuid": "d6d7fdd3-c0fe-47f6-9375-309a12ca4a1d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "截至发稿，豪威集团(00501.HK)涨4.96%、芯智控股(02166.HK)涨4.49%、华虹半导体(01347.HK)涨3.40%、天数智芯(09903.HK)涨3.05%.",
+    "id": "8pqhURQb5sI",
+    "order": 1768198976355,
+    "createdAt": "2026-01-12T01:50:44.000Z",
+    "publishDate": "2026-01-12T06:22:56.355Z",
+    "title": "港股半导体股走强 豪威集团涨近5%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-12 09:50:44",
+    "uuid": "0ac228dc-d4e6-42df-a797-5f0cf3ca807e"
   },
   {
     "newsArray": [
