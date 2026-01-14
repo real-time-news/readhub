@@ -1,6 +1,119 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国11月零售销售环比增长0.6%，预估为增长0.5%。",
+    "id": "8puqkGAf3VP",
+    "order": 1768398346000,
+    "createdAt": "2026-01-14T13:45:46.000Z",
+    "publishDate": "2026-01-14T13:45:46.000Z",
+    "title": "美国11月零售销售环比增长0.6%，超预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-14 21:45:46",
+    "uuid": "cf7223cc-3548-4968-a6a1-2a7103352e9e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "新华百货公告，今日关注到个别投资者在媒体平台发表不实言论及传闻，称公司控股股东协议转让部分股份事宜将涉及后期向公司注入半导体等相关资产，引发股价波动 ...",
+    "id": "8puqk5dW3Cv",
+    "order": 1768398333582,
+    "createdAt": "2026-01-14T13:45:33.000Z",
+    "publishDate": "2026-01-14T13:45:33.582Z",
+    "title": "新华百货：“股份转让事宜涉及后期向公司注入半导体等相关资产”传闻不实",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-14 21:45:33",
+    "uuid": "97da8b61-f402-4cdb-be8f-d0d0be2c574a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "波兰央行将基准利率维持在4.00%，符合市场预期。",
+    "id": "8puqkDxYngE",
+    "order": 1768398322542,
+    "createdAt": "2026-01-14T13:45:23.000Z",
+    "publishDate": "2026-01-14T13:45:22.542Z",
+    "title": "波兰央行将基准利率维持在4.00%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-14 21:45:23",
+    "uuid": "c231ab0c-e3aa-45f7-a9fa-246b6f0a5f28"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国经济分析局公布数据显示，美国第三季度经常项目逆差2264亿美元。",
+    "id": "8puqkGTgBDk",
+    "order": 1768398229316,
+    "createdAt": "2026-01-14T13:43:50.000Z",
+    "publishDate": "2026-01-14T13:43:49.316Z",
+    "title": "美国第三季度经常项目逆差2264亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-14 21:43:50",
+    "uuid": "1776bc9d-2041-46fd-ac61-246cb094f94d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "容百科技公告，2026年1月13日收到上交所问询函，要求说明与宁德时代签署日常经营合同事项，公司股票1月14日已停牌一天，因《问询函》部分事项需进一步落实，1月15日将继续停牌1日。",
+    "id": "8pupI4ZKYBn",
+    "order": 1768397060593,
+    "createdAt": "2026-01-14T13:24:21.000Z",
+    "publishDate": "2026-01-14T13:24:20.593Z",
+    "title": "容百科技：延期回复上交所问询函，股票继续停牌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-14 21:24:21",
+    "uuid": "1f3f1843-3b72-4b6d-b9b8-f4742a76fed0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "随着人工智能加速落地，美国各地数据中心建设加快，但电价上涨成民众生活痛点。当地时间13日，微软宣布启动“社区优先”计划，承诺不将数据中心用电成本转嫁给当地居民 ...",
+    "id": "8pupHjMEyYp",
+    "order": 1768397014962,
+    "createdAt": "2026-01-14T13:23:35.000Z",
+    "publishDate": "2026-01-14T13:23:34.962Z",
+    "title": "AI热潮驱动，2026年美国电价或持续上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-14 21:23:35",
+    "uuid": "51425f4f-81de-41a0-921d-42d8d1d581b6"
+  },
+  {
+    "newsArray": [
       { "siteName": "199IT" },
       { "siteName": "快科技" },
       { "siteName": "界面" }
@@ -1298,6 +1411,25 @@
     "up": false,
     "date": "2026-01-14 17:12:38",
     "uuid": "beccb38f-0d91-4306-a7af-ce6a1234e6e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英国石油公司（BP Plc）预计第四季度计提最高 50 亿美元资产减记，减值支出主要与天然气及低碳业务相关，石油交易业绩预计连续两季度疲软、产量持平，但净债务规模下降 ...",
+    "id": "8puPdmrOVJY",
+    "order": 1768397113507,
+    "createdAt": "2026-01-14T09:11:55.000Z",
+    "publishDate": "2026-01-14T13:25:13.507Z",
+    "title": "英国石油公司预告能源转型相关资产减记金额最高可达50亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-14 17:11:55",
+    "uuid": "1050d251-5b12-4889-a33b-58b257803cea"
   },
   {
     "newsArray": [
