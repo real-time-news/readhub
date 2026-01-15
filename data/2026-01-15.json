@@ -1,6 +1,44 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "台积电周四公布业绩，第四季度净利润同比大增35%创历史新高且超市场预期，得益于人工智能应用相关半导体需求激增 ...",
+    "id": "8pvxJspX0j3",
+    "order": 1768455944751,
+    "createdAt": "2026-01-15T05:45:45.000Z",
+    "publishDate": "2026-01-15T05:45:44.751Z",
+    "title": "台积电第四季度净利润飙升35% 超出市场预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-15 13:45:45",
+    "uuid": "05c75b01-8e6c-4ceb-967f-eb9d072b9411"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "三星更新官网支持文档脚注，确认Galaxy AI基础功能永久免费，消除用户对2025年后可能转订阅制的担忧。海外官网旧条款为AI功能免费使用至2025年底，新版为基本功能免费 ...",
+    "id": "8pvgCydKyqu",
+    "order": 1768455835996,
+    "createdAt": "2026-01-15T05:43:56.000Z",
+    "publishDate": "2026-01-15T05:43:55.996Z",
+    "title": "三星确认 Galaxy AI 基础功能永久免费",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-15 13:43:56",
+    "uuid": "0678d0af-a2f2-446f-bf21-ddf4b63204e3"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "金融界" }
