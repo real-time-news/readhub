@@ -1,6 +1,167 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "今天上午，《愤怒的小鸟》官方宣布回归中国大陆市场，金山世游子公司金山世游与 Rovio 娱乐建立战略合作伙伴关系，该系列游戏将由金山世游独家发行并运营 ...",
+    "id": "8q5kNUF2W9c",
+    "order": 1768970573295,
+    "createdAt": "2026-01-21T04:42:54.000Z",
+    "publishDate": "2026-01-21T04:42:53.295Z",
+    "title": "《愤怒的小鸟》将全面回归中国大陆：金山世游独家发行运营，全平台预约启动",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-21 12:42:54",
+    "uuid": "966c1dde-9f8f-46a4-ae81-39219d33fc87"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "据爆料，OpenAI 首款硬件设备为 AI 音频耳机，非此前传闻的智能笔，预计首年出货量达 4000 - 5000 万台 ...",
+    "id": "8q5jM2kx8Cp",
+    "order": 1768970536320,
+    "createdAt": "2026-01-21T04:42:17.000Z",
+    "publishDate": "2026-01-21T04:42:16.320Z",
+    "title": "OpenAI首款硬件被曝为AI耳机，首年有望出货4000~5000万台",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-21 12:42:17",
+    "uuid": "919bac05-9866-49ec-b813-d06b1159ddac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "香港特区政府财政司司长陈茂波在世界经济论坛年会活动致辞称，香港作为国际金融中心，积极稳慎发展数字资产 ...",
+    "id": "8q5knArlm75",
+    "order": 1768969382716,
+    "createdAt": "2026-01-21T04:23:02.000Z",
+    "publishDate": "2026-01-21T04:23:02.716Z",
+    "title": "陈茂波：香港预计今年发出稳定币牌照",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-21 12:23:02",
+    "uuid": "e5a5f955-ac79-4efb-80b7-07546cbac48a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "住建部部长倪虹表示，今年在城市更新方面重点抓好三件事：持续推进城镇老旧小区改造以消除安全隐患、改善居住条件和环境。全面推进完整社区建设，补齐公共服务短板 ...",
+    "id": "8q5ngxdoZ0R",
+    "order": 1768969335612,
+    "createdAt": "2026-01-21T04:22:16.000Z",
+    "publishDate": "2026-01-21T04:22:15.612Z",
+    "title": "住建部部长：今年在城市更新方面重点抓好三件事",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-21 12:22:16",
+    "uuid": "972f6bd8-ebc7-4183-9e02-fa131d5ee987"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "住房城乡建设部部长倪虹表示，今年将着力稳定房地产市场，继续因城施策、精准施策，发挥“白名单”制度作用，支持房企合理融资需求和居民刚改住房需求。",
+    "id": "8q5nfhkcx4e",
+    "order": 1768968422440,
+    "createdAt": "2026-01-21T04:07:03.000Z",
+    "publishDate": "2026-01-21T04:07:02.440Z",
+    "title": "住建部部长：今年将着力稳定房地产市场 支持房企合理的融资需求",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-21 12:07:03",
+    "uuid": "d6db2f34-6ef8-4cf7-9386-c0f37dc1c531"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "谷歌前CEO、科技投资人埃里克·施密特表示，欧洲必须投资建设自己的开源AI实验室，并解决能源价格飙升问题，否则将依赖中国的模型 ...",
+    "id": "8q4jrPURNB8",
+    "order": 1768968371119,
+    "createdAt": "2026-01-21T04:06:12.000Z",
+    "publishDate": "2026-01-21T04:06:11.119Z",
+    "title": "谷歌前CEO施密特：欧洲要么投资开源AI，要么依赖中国模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-21 12:06:12",
+    "uuid": "fd60cd4a-9c26-468f-b6e4-8032dbe243bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "中保研公布2025年测评车型第二次结果，涉及腾势N9、奥迪A5L Sportback、大众探岳L、理想i8 4款车型 ...",
+    "id": "8q5ieK5xIpK",
+    "order": 1768968353346,
+    "createdAt": "2026-01-21T04:05:54.000Z",
+    "publishDate": "2026-01-21T04:05:53.346Z",
+    "title": "中保研四车碰撞测试结果出炉：三车全优通过",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-21 12:05:54",
+    "uuid": "00392b32-5afa-4a16-af6b-c31d804550b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "自动驾驶技术公司 Waymo 前 CEO 约翰·克拉夫奇克喷特斯拉 FSD，认为其坚守的纯视觉方案不可靠，像重度近视眼 ...",
+    "id": "8q5QjOkg2ie",
+    "order": 1768968310790,
+    "createdAt": "2026-01-21T04:05:11.000Z",
+    "publishDate": "2026-01-21T04:05:10.790Z",
+    "title": "Waymo前CEO评价特斯拉FSD 称纯视觉方案如重度近视眼不可靠",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-21 12:05:11",
+    "uuid": "00074cfc-c031-4529-be9a-74967e4066ad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "南侨食品发布2025年度业绩预告，预计该年归属于上市公司股东的净利润为3626.37万元到4351.64万元，同比减少78.39%到81.99% ...",
+    "id": "8q4Zrdv0Jkq",
+    "order": 1768968226133,
+    "createdAt": "2026-01-21T04:03:46.000Z",
+    "publishDate": "2026-01-21T04:03:46.133Z",
+    "title": "南侨食品：2025年净利润同比预降78.39%-81.99%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-21 12:03:46",
+    "uuid": "2ec9ab82-ebc5-4608-b4f8-62df16bd2010"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "联商网" },
       { "siteName": "每经网" }
