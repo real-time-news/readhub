@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "当地时间1月22日，Capital One宣布达成最终协议，以51.5亿美元现金加股票交易方式收购AI原生软件平台Brex，该平台提供智能金融解决方案 ...",
+    "id": "8q8gGv0xXTE",
+    "order": 1769125490197,
+    "createdAt": "2026-01-22T23:44:50.000Z",
+    "publishDate": "2026-01-22T23:44:50.197Z",
+    "title": "Capital One将以51.5亿美元的现金加股票交易方式收购Brex",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-23 07:44:50",
+    "uuid": "5f484e16-80bc-4ae7-8554-89a40709fb6f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "日本12月核心CPI同比增长2.4%，与预期相符。",
+    "id": "8q8opS8j72n",
+    "order": 1769125382585,
+    "createdAt": "2026-01-22T23:43:03.000Z",
+    "publishDate": "2026-01-22T23:43:02.585Z",
+    "title": "日本12月核心CPI同比增长2.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-23 07:43:03",
+    "uuid": "baa361fd-c077-4fca-928b-8769d7ad1d57"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "科学网" }
@@ -152,6 +188,24 @@
     "up": false,
     "date": "2026-01-23 04:22:22",
     "uuid": "258c7ff1-0bd4-4dda-815d-a9e72b9492e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "谷歌正在推出一项新的搜索个性化选项，该选项属于“个人智能”服务内容之一，允许用户在AI驱动的搜索模式中，用Gmail和Google Photos账户数据优化搜索结果，如搜索旅行行程时结合邮件酒店预订信息和旅行照片，给出更贴合个人需求建议，这是其在与OpenAI等对手角逐中保持领先的最新举措。",
+    "id": "8q8JZx3Sk21",
+    "order": 1769125477833,
+    "createdAt": "2026-01-22T19:21:31.000Z",
+    "publishDate": "2026-01-22T23:44:37.833Z",
+    "title": "谷歌推出搜索个性化服务 允许调用邮件和相册信息优化结果",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-23 03:21:31",
+    "uuid": "d2071226-bad5-4035-ae7a-53e845acd8fd"
   },
   {
     "newsArray": [
