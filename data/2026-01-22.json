@@ -1,6 +1,141 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "尽管特朗普政策存在不确定性，但美元在全球贸易中仍占主导地位。SWIFT数据显示，去年12月美元在国际交易中的占比升至50.5%，为2023年以来最高 ...",
+    "id": "8q7JzSn7CrR",
+    "order": 1769051225293,
+    "createdAt": "2026-01-22T03:07:06.000Z",
+    "publishDate": "2026-01-22T03:07:05.293Z",
+    "title": "SWIFT：美元全球交易使用量跃升至新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 11:07:06",
+    "uuid": "bd7bacf5-cdd2-4a63-a4ee-059ba8df6574"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元。",
+    "id": "8q7OFaE3uq8",
+    "order": 1769051200054,
+    "createdAt": "2026-01-22T03:06:41.000Z",
+    "publishDate": "2026-01-22T03:06:40.054Z",
+    "title": "高盛上调今年12月黄金价格预期至5400美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 11:06:41",
+    "uuid": "d2099737-b6c0-4160-99bc-d94164c85504"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "百度正式发布文心大模型5.0正式版，基于原生全模态建模，有2.4万亿参数，支持多种信息理解输出，已可在百度千帆平台调用，文心一言官网等其他百度AI产品也已接入。",
+    "id": "8q7OGhSU3ou",
+    "order": 1769051057514,
+    "createdAt": "2026-01-22T03:04:17.000Z",
+    "publishDate": "2026-01-22T03:04:17.514Z",
+    "title": "百度发布文心大模型5.0正式版",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 11:04:17",
+    "uuid": "347de42c-223e-4698-a4fc-c3b44a860a4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "蔚来高级副总裁兼乐道汽车总裁沈斐宣布乐道汽车鸿蒙版 App 上线，该 App 已上架华为应用市场，2026 年 1 月 20 日上线，1 月 21 日小版本更新，支持乐道社区等功能 ...",
+    "id": "8q7HmbKQ01J",
+    "order": 1769050370749,
+    "createdAt": "2026-01-22T02:52:51.000Z",
+    "publishDate": "2026-01-22T02:52:50.749Z",
+    "title": "乐道汽车官宣推出鸿蒙版 App，正式版直接登陆华为应用市场",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 10:52:51",
+    "uuid": "e4b3b2e8-05b3-476f-b5f0-1e4dcc71beac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "国务院新闻办公室举行新闻发布会，相关负责人介绍春节期间“菜篮子”产品供应有充分保障，可满足老百姓节日消费需求 ...",
+    "id": "8q7MmfZcVL6",
+    "order": 1769050022488,
+    "createdAt": "2026-01-22T02:47:03.000Z",
+    "publishDate": "2026-01-22T02:47:02.488Z",
+    "title": "农业农村部：春节期间“菜篮子”产品供应保障充分",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 10:47:03",
+    "uuid": "b9196dd1-9407-48ab-a8cb-31985f2e7d6d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果核心代工厂立讯精密遭勒索软件组织 RansomHub 攻击，包括苹果、英伟达等多家科技巨头机密数据面临泄露风险。攻击者在暗网论坛宣布此事，威胁若不支付赎金将公开核心机密文件 ...",
+    "id": "8q7EYPg60qQ",
+    "order": 1769049972370,
+    "createdAt": "2026-01-22T02:46:12.000Z",
+    "publishDate": "2026-01-22T02:46:12.370Z",
+    "title": "消息称立讯精密遭黑客攻破，苹果、英伟达等公司绝密图纸恐曝光",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 10:46:12",
+    "uuid": "97d47793-2049-4765-b0a1-1ba413951924"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "农业农村部发布信息显示，2025年中国农业现代化水平持续提升，农业科技进步贡献率超64%，支持新建和改造提升高标准农田7568万亩，累计建成超10亿亩，种业振兴、农机装备研发应用、智慧农业应用场景拓展及农业绿色转型均取得进展。",
+    "id": "8q6zxqAbO8j",
+    "order": 1769050977044,
+    "createdAt": "2026-01-22T02:30:25.000Z",
+    "publishDate": "2026-01-22T03:02:57.044Z",
+    "title": "2025年中国农业现代化水平持续提升，农业科技进步贡献率超过64%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 10:30:25",
+    "uuid": "edb1869e-9389-4045-b799-ffee5e75d1f5"
+  },
+  {
+    "newsArray": [
       { "siteName": "aibase" },
       { "siteName": "快科技" },
       { "siteName": "金融界" }
@@ -33,6 +168,25 @@
     "up": false,
     "date": "2026-01-22 09:03:58",
     "uuid": "7ca5615d-a757-4bca-8437-ecb4fc9fd7fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "美国保险商Lemonade周三表示，将为启用“全自动驾驶”（FSD）功能的特斯拉车主提供50%的保费折扣，因其数据证明该功能可减少事故 ...",
+    "id": "8q7BTV4X9xB",
+    "order": 1769050023338,
+    "createdAt": "2026-01-22T00:48:00.000Z",
+    "publishDate": "2026-01-22T02:47:03.338Z",
+    "title": "美保险商宣布为特斯拉车主降价，称FSD可将安全性提高两倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 08:48:00",
+    "uuid": "65f8c528-b0f4-4155-8971-bc6cf9f8a95e"
   },
   {
     "newsArray": [
@@ -227,6 +381,26 @@
     "up": false,
     "date": "2026-01-22 07:44:33",
     "uuid": "26866464-0560-4c00-bfb0-90513c79eb66"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "中国科技网" },
+      { "siteName": "中国科技网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "为期40天的春运将于2月2日开始，1月19日起春运火车票开始起售，铁路部门推出多项举措保障重点群体出行。1月20日起，老年旅客可拨打12306客服电话订购车票 ...",
+    "id": "8q6d7F6SUKw",
+    "order": 1769050043584,
+    "createdAt": "2026-01-21T23:23:39.000Z",
+    "publishDate": "2026-01-22T02:47:23.584Z",
+    "title": "国铁集团优化售票服务措施  保障重点群体春运出行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 07:23:39",
+    "uuid": "74717678-e9a4-4be1-ae1b-a76faa1b77c1"
   },
   {
     "newsArray": [
@@ -547,6 +721,25 @@
     "up": false,
     "date": "2026-01-22 00:08:18",
     "uuid": "e7909fbb-8f3d-464f-a0d2-3915250a68ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "亚马逊计划在芝加哥郊区的伊利诺伊州奥兰帕克开设其有史以来最大的零售店，占地面积超普通沃尔玛门店，约23万平方英尺，可容纳近两家普通规模的Target门店 ...",
+    "id": "8q5rvBUZRUa",
+    "order": 1769050106195,
+    "createdAt": "2026-01-21T16:08:17.000Z",
+    "publishDate": "2026-01-22T02:48:26.195Z",
+    "title": "亚马逊拟开最大门店 进军大型卖场领域",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-22 00:08:17",
+    "uuid": "d07cb42a-985b-4701-9861-3068e4bc453f"
   },
   {
     "newsArray": [
