@@ -1,6 +1,161 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "中微半导 1 月 27 日发布涨价通知函，因全行业芯片供应紧张、成本上升，封装成品交付周期变长，框架、封测费用等成本上涨，决定即日起对 MCU、Norflash 等产品涨价 15% - 50% ...",
+    "id": "8qGG5wQKD0k",
+    "order": 1769520098348,
+    "createdAt": "2026-01-27T13:21:39.000Z",
+    "publishDate": "2026-01-27T13:21:38.348Z",
+    "title": "受成本上升等影响，中微半导、国科微宣布芯片产品大幅涨价",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 21:21:39",
+    "uuid": "e3fe5753-5a6b-44c2-a24f-6ba649a030d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "德国拟首次新发20年期国债，募资65亿欧元（约合77亿美元），投资者认购踊跃，需求接近创纪录水平。2047年5月到期的新债认购规模超720亿欧元，略低于两年前30年期国债纪录 ...",
+    "id": "8qGNdrELOXG",
+    "order": 1769519056298,
+    "createdAt": "2026-01-27T13:04:16.000Z",
+    "publishDate": "2026-01-27T13:04:16.298Z",
+    "title": "德国新发20年期国债认购需求逼近纪录高点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 21:04:16",
+    "uuid": "4d1d64f4-4508-4eb3-8e24-aa2681430d58"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Meta Platforms公司达成协议，拟为AI数据中心光纤电缆向康宁支付高达60亿美元。",
+    "id": "8qGMAcUvKWz",
+    "order": 1769519029275,
+    "createdAt": "2026-01-27T13:03:50.000Z",
+    "publishDate": "2026-01-27T13:03:49.275Z",
+    "title": "Meta拟为AI数据中心光纤电缆向康宁支付高达60亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 21:03:50",
+    "uuid": "70a9f2b9-13e9-48d7-abb7-a9f19f7e9d00"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "本田汽车因半导体短缺停产的在华汽车工厂，自上周一起陆续恢复生产，通过推进采购替代品等措施促成复工 ...",
+    "id": "8qEGsIK5vcN",
+    "order": 1769518998656,
+    "createdAt": "2026-01-27T13:03:18.000Z",
+    "publishDate": "2026-01-27T13:03:18.656Z",
+    "title": "本田汽车在华工厂恢复生产，此前因半导体短缺而停产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 21:03:18",
+    "uuid": "de872f37-f9c1-4429-a461-e0e3064ff43d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "万科旗下“22万科MTN004”债券持有人会议通过议案三，该债券余额20亿元 ...",
+    "id": "8qGMCPKQpLR",
+    "order": 1769518125778,
+    "createdAt": "2026-01-27T12:48:45.000Z",
+    "publishDate": "2026-01-27T12:48:45.778Z",
+    "title": "万科“22万科MTN004”展期议案获通过 债券本金六成展期一年",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 20:48:45",
+    "uuid": "8bd36597-3f1c-4fee-9615-e961ceb91655"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "万科A公告，第一大股东深铁集团向其提供不超23.6亿元借款，用于偿还公开市场发行债券本金与利息，借款期限36个月，利率为每笔借款提款日前一工作日1年期LPR减66个基点，交易遵循市场化原则，不会对公司财务及经营产生不利影响。",
+    "id": "8qGMBy45XlD",
+    "order": 1769518054130,
+    "createdAt": "2026-01-27T12:47:34.000Z",
+    "publishDate": "2026-01-27T12:47:34.130Z",
+    "title": "万科A：深铁集团向公司提供不超过23.6亿元借款",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 20:47:34",
+    "uuid": "a0854977-dabd-4185-bdd6-54ce140dbf0c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "波音公布2025年第四季度财报，营收239.48亿美元，同比增长57%。按GAAP计算，净利润82.20亿美元，去年同期为亏损。调整后每股收益10.23美元，去年同期为亏损。",
+    "id": "8qGMCmkL3fS",
+    "order": 1769517984710,
+    "createdAt": "2026-01-27T12:46:24.000Z",
+    "publishDate": "2026-01-27T12:46:24.710Z",
+    "title": "波音2025年第四季度营收239.48亿美元 同比增长57%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 20:46:24",
+    "uuid": "09f0a217-6d20-4e1d-92ae-1a251454f0ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "赛微电子公告，预计2025年净利润14.14亿元～15.04亿元，上年同期亏损1.7亿元。预计营业收入8.07亿元～8.4亿元，上年同期12.05亿元 ...",
+    "id": "8qGJRs0eMcS",
+    "order": 1769518266938,
+    "createdAt": "2026-01-27T12:23:41.000Z",
+    "publishDate": "2026-01-27T12:51:06.938Z",
+    "title": "赛微电子：预计2025年净利润为14.14亿元-15.04亿元 同比扭亏为盈",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 20:23:41",
+    "uuid": "19af4bf4-37ef-4eb7-b02e-c9626eae2fcd"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -622,6 +777,25 @@
     "up": false,
     "date": "2026-01-27 18:44:47",
     "uuid": "1355ba95-6538-4e14-818f-8aea870a716b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "站长之家" },
+      { "siteName": "钛媒体" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "腾讯旗下AI助手元宝开启“元宝派”全新社交AI功能内测，旨在探索AI在多人社交场景的深度应用，打造融合娱乐与协作的社交空间 ...",
+    "id": "8qG6WMaxwWU",
+    "order": 1769518344507,
+    "createdAt": "2026-01-27T10:28:10.000Z",
+    "publishDate": "2026-01-27T12:52:24.507Z",
+    "title": "腾讯内测“元宝派” 创建AI与用户交互社群",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 18:28:10",
+    "uuid": "f9d05c0f-c68a-4618-808f-4677e1aebd02"
   },
   {
     "newsArray": [
