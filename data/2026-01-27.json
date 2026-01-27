@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "追觅科技创始人兼 CEO 俞浩回应“断指计划”传闻，称该计划是谣传，公司入职时工资涨幅一般不超 20%，不存在翻倍挖人情况 ...",
+    "id": "8qFjvWayjuM",
+    "order": 1769495499038,
+    "createdAt": "2026-01-27T06:31:39.000Z",
+    "publishDate": "2026-01-27T06:31:39.038Z",
+    "title": "追觅 CEO 俞浩首次回应“断指计划”传闻：谣传",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 14:31:39",
+    "uuid": "c086f8b6-1e62-4488-a9cb-0b0e3105a300"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "杭州互联网法院对全国首例因生成式AI“幻觉”引发的侵权纠纷案作出一审判决，认定涉事AI平台无过错，驳回原告全部诉讼请求 ...",
+    "id": "8qFR3gUc8my",
+    "order": 1769495024072,
+    "createdAt": "2026-01-27T06:23:44.000Z",
+    "publishDate": "2026-01-27T06:23:44.072Z",
+    "title": "全国首例生成式AI幻觉引发侵权案宣判：平台不存在过错",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 14:23:44",
+    "uuid": "9550f15a-2c42-42f1-a190-fdf502536b70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "SK海力士股价涨幅扩大至8.4%。",
+    "id": "8qFcYwL1HhQ",
+    "order": 1769494936945,
+    "createdAt": "2026-01-27T06:22:16.000Z",
+    "publishDate": "2026-01-27T06:22:16.945Z",
+    "title": "SK海力士股价涨幅扩大至8.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 14:22:16",
+    "uuid": "93dba9c4-e599-41a3-b903-5aa9d2734b31"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "近日，相关机构发布《数据智能服务产业发展研究报告(2025年)》，称数据智能服务产业呈现架构敏捷化、应用纵深化、价值高阶化及治理融合化等四大发展趋势，迈向深度融合发展阶段，推动其从基础能力建设迈向与实体经济深度融合等更高阶段。",
+    "id": "8qFteEQClx3",
+    "order": 1769494055912,
+    "createdAt": "2026-01-27T06:07:35.000Z",
+    "publishDate": "2026-01-27T06:07:35.912Z",
+    "title": "中国信通院工物所发布《数据智能服务产业发展研究报告(2025年)》",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 14:07:35",
+    "uuid": "5d756063-3b37-47cf-90bc-397127d2fbb9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "进入2026年，国内电力行业迎来市场化变革，“取消固定分时电价”成热点，多地密集出台政策调整直接参与电力市场交易用户的固定分时电价机制 ...",
+    "id": "8qFtep9GvPE",
+    "order": 1769494032754,
+    "createdAt": "2026-01-27T06:07:12.000Z",
+    "publishDate": "2026-01-27T06:07:12.754Z",
+    "title": "全国9地取消固定分时电价",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 14:07:12",
+    "uuid": "cf8f0fa7-b8a0-4a9a-8113-389e036ef7d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "百度旗下文心APP推出的行业首个“多人、多Agent”群聊功能开启新一轮内测，该功能支持调动多个AI角色，群聊中的AI助手能理解上下文并主动介入对话 ...",
+    "id": "8qFqn3Wcty1",
+    "order": 1769493850668,
+    "createdAt": "2026-01-27T06:04:10.000Z",
+    "publishDate": "2026-01-27T06:04:10.668Z",
+    "title": "文心APP进一步扩大群聊功能内测 行业首次支持“多人、多Agent”互动",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 14:04:10",
+    "uuid": "de93530b-8f9b-4f3e-b60d-b7f8c0f7ff68"
+  },
+  {
+    "newsArray": [
       { "siteName": "科学网" },
       { "siteName": "中国科技网" },
       { "siteName": "财联社" }
@@ -210,6 +317,25 @@
     "up": false,
     "date": "2026-01-27 13:04:34",
     "uuid": "dc9e6fcf-175c-4e0b-8a4c-88c63e9c46be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "品玩" },
+      { "siteName": "量子位" }
+    ],
+    "summary": "阿里健康旗下医学AI应用“氢离子”更新，上线“动态证据定位”新功能，可精准定位原文支撑观点语句并校验时效性、权威性与逻辑一致性。",
+    "id": "8qFnDzn2ugK",
+    "order": 1769495370293,
+    "createdAt": "2026-01-27T04:45:30.000Z",
+    "publishDate": "2026-01-27T06:29:30.293Z",
+    "title": "氢离子上线“动态证据定位”新功能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 12:45:30",
+    "uuid": "954aeefb-cf9d-4f82-b608-388840ad0158"
   },
   {
     "newsArray": [
@@ -496,6 +622,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "联商网" }
+    ],
+    "summary": "安踏集团宣布以15亿欧元收购彪马29.06%股权，预计2026年底前完成，资金源于内部自有现金储备 ...",
+    "id": "8qFb2LoeoCf",
+    "order": 1769495579593,
+    "createdAt": "2026-01-27T03:29:23.000Z",
+    "publishDate": "2026-01-27T06:32:59.593Z",
+    "title": "加速全球化并购，安踏集团15亿欧元收购彪马29.06%股权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 11:29:23",
+    "uuid": "6508b15f-eb64-4196-b2af-5355d5a034ae"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" },
@@ -547,6 +692,30 @@
     "up": false,
     "date": "2026-01-27 11:23:45",
     "uuid": "1fd6b37b-a861-4dce-9234-a47621905838"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "甘肃省十四届人大四次会议开幕，省长任振鹤作政府工作报告，提出2026年甘肃经济社会发展主要预期目标，包括地区生产总值增长5.5%左右等多项指标。",
+    "id": "8qFglGJhb7H",
+    "order": 1769494986625,
+    "createdAt": "2026-01-27T03:09:33.000Z",
+    "publishDate": "2026-01-27T06:23:06.625Z",
+    "title": "2026年甘肃省地区生产总值预期增长5.5%左右",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-27 11:09:33",
+    "uuid": "5e2c1d46-cea1-44c2-924a-8c3692c5d563"
   },
   {
     "newsArray": [
