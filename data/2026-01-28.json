@@ -1,6 +1,167 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "1月27日晚间，一则“量化股票交易规则或变化，监管拟对主要量化基金程序化交易实施‘T+3’制度”的消息受投资圈关注，多家百亿级量化私募负责人回应称，目前未收到相关要求，该消息为不实消息。",
+    "id": "8qHRNfYxqKm",
+    "order": 1769574364634,
+    "createdAt": "2026-01-28T04:26:04.000Z",
+    "publishDate": "2026-01-28T04:26:04.634Z",
+    "title": "多家头部量化机构回应：“量化股票交易规则或变化”为不实消息",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-28 12:26:04",
+    "uuid": "4630d024-aac6-4da4-9ad1-93d1907dba87"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "在芯片出口管制倒逼下，国产数据中心AI芯片自主化进程加速。至少九家中国AI芯片公司出货量或订单量超1万卡，部分公司累计出货量达10万卡级别 ...",
+    "id": "8qHLjvXc6Wn",
+    "order": 1769574242221,
+    "createdAt": "2026-01-28T04:24:03.000Z",
+    "publishDate": "2026-01-28T04:24:02.221Z",
+    "title": "至少有九家中国AI芯片公司出货量超万卡",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-28 12:24:03",
+    "uuid": "dbc51fc8-8af4-4d25-b739-96772c68bdaf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "智元宣布在具身智能VLA模型端侧部署上取得技术突破，通过算法与工程协同优化，将π0.5 VLA模型在英伟达Jetson Thor平台上的推理帧率从1.4Hz提升至22.1Hz，性能提升超15倍 ...",
+    "id": "8qHPyQeUjB2",
+    "order": 1769574208431,
+    "createdAt": "2026-01-28T04:23:29.000Z",
+    "publishDate": "2026-01-28T04:23:28.431Z",
+    "title": "智元VLA端侧部署取得技术突破：摆脱机器人依赖外挂桌面显卡计算模式",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-28 12:23:29",
+    "uuid": "a8ebcf0a-6dbb-4c77-bf27-214871b34d3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "最高人民法院知识产权法庭副庭长朱理表示，“内卷式”竞争是全国统一大市场建设突出问题，从知识产权司法角度，成因包括垄断行为、创新不足和不正当竞争行为 ...",
+    "id": "8qHRLuieFxU",
+    "order": 1769574170494,
+    "createdAt": "2026-01-28T04:22:50.000Z",
+    "publishDate": "2026-01-28T04:22:50.494Z",
+    "title": "最高法就企业内卷式竞争发声：防止赢家通吃挤压中小企业利润空间",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-28 12:22:50",
+    "uuid": "469e38ef-9812-4ebe-9b9b-0ecfd456a37d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "当地时间 1 月 27 日，雅虎为搜索引擎引入生成式 AI 技术，推出处于测试阶段、由 Anthropic 的 Claude 模型支持的“Yahoo Scout”新型“AI 答案引擎”，对标谷歌搜索 AI 功能 ...",
+    "id": "8qHE7di4soq",
+    "order": 1769573536443,
+    "createdAt": "2026-01-28T04:12:17.000Z",
+    "publishDate": "2026-01-28T04:12:16.443Z",
+    "title": "对标谷歌 AI 搜索，雅虎推出基于 Claude 的 Scout“答案引擎”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-28 12:12:17",
+    "uuid": "70c5b129-be4c-47ca-beea-82d05e382f0b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "香港2025年住宅价格录得四年来首次年度增长，这是住宅市场从长期低迷中复苏的明确信号。差饷物业估价署数据显示，2025年香港私人住宅售价指数同比上涨3.25% ...",
+    "id": "8qHQ0945JTs",
+    "order": 1769573204748,
+    "createdAt": "2026-01-28T04:06:44.000Z",
+    "publishDate": "2026-01-28T04:06:44.748Z",
+    "title": "香港2025年住宅价格录得四年来首次年度增长",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-28 12:06:44",
+    "uuid": "85f33c17-01e2-4ddf-afae-9e1e3aefc179"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "日本40年期国债拍卖需求高于过去12个月平均水平，认购倍数达2.76倍，高于上次及12个月均值，国债价格上涨，收益率拍卖后降3.5个基点至3.9%，暂时缓解市场对长期债务的担忧，但政治和财政不确定性仍存 ...",
+    "id": "8qHOUtEO4DR",
+    "order": 1769573095777,
+    "createdAt": "2026-01-28T04:04:55.000Z",
+    "publishDate": "2026-01-28T04:04:55.777Z",
+    "title": "日本40年期国债发行需求稳健 但长期隐忧未消",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-28 12:04:55",
+    "uuid": "ee9e2cd4-b98a-4549-8956-6093448965c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "28日，国务院台办举行例行新闻发布会 ...",
+    "id": "8qHKEdKb2la",
+    "order": 1769573006685,
+    "createdAt": "2026-01-28T04:03:27.000Z",
+    "publishDate": "2026-01-28T04:03:26.685Z",
+    "title": "抖音、微博等被台当局纳入“资安高风险App清单”，国台办回应",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-28 12:03:27",
+    "uuid": "bc53c1f5-b6fa-4f06-b649-280b50161420"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "午评：三大指数涨跌不一，沪指震荡拉升涨0.49%，创业板指高开低走一度跌超1%。沪深两市半日成交额1.91万亿，较上一交易日放量393亿，市场跌多涨少，超3500只个股下跌 ...",
+    "id": "8qHOV33XFLy",
+    "order": 1769571814112,
+    "createdAt": "2026-01-28T03:43:34.000Z",
+    "publishDate": "2026-01-28T03:43:34.112Z",
+    "title": "午评：沪指半日涨0.49% 资源股集体爆发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-01-28 11:43:34",
+    "uuid": "006e4b41-ed52-4028-9fd5-7ae4df99aaae"
+  },
+  {
+    "newsArray": [
       { "siteName": "鸟哥笔记" },
       { "siteName": "亿邦动力网" },
       { "siteName": "亿邦动力网" }
