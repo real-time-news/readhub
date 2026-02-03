@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "一名美国官员周二透露，美国军方在阿拉伯海用一架F - 35战斗机击落了一架正朝“亚伯拉罕·林肯”号航母飞行的伊朗“沙赫德 - 139”无人机。",
+    "id": "8qSIVwCY5uY",
+    "order": 1770140579617,
+    "createdAt": "2026-02-03T17:43:00.000Z",
+    "publishDate": "2026-02-03T17:42:59.617Z",
+    "title": "美官员：美军击落一架逼近美国航母的伊朗无人机",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-04 01:43:00",
+    "uuid": "66f40b0a-fcc8-46ab-9a9a-fbcc0db636c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2月3日，LME铜向上触及13500美元/吨，最新报13505.16美元/吨，日内上涨4.76%。",
+    "id": "8qS1LooUKsV",
+    "order": 1770138128744,
+    "createdAt": "2026-02-03T17:02:58.000Z",
+    "publishDate": "2026-02-03T17:02:08.744Z",
+    "title": "LME铜向上触及13500美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-04 01:02:58",
+    "uuid": "14cb0c9d-3fd2-45fa-8b3a-81f0bc1f966b"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
