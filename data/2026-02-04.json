@@ -1,6 +1,99 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "聚焦美股 2025 年第四季度财报，波士顿科学公司周三发布 2026 年营收增长预期，增速温和，调整后每股盈利低于华尔街预期，致其股价盘前交易跌超 11% ...",
+    "id": "8qTabeJ84z4",
+    "order": 1770216282370,
+    "createdAt": "2026-02-04T14:44:42.000Z",
+    "publishDate": "2026-02-04T14:44:42.370Z",
+    "title": "波士顿科学下跌超11% 2026年营收预期趋于保守",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-04 22:44:42",
+    "uuid": "fe33be9a-e8e7-4b74-bdd4-a17f8ea0ede2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "市场监管总局等多部门召开道路交通标准化专题新闻发布会，工业和信息化部装备工业一司副司长郭守刚表示，汽车产业是国民经济重要支柱产业，2025年我国汽车产销量创新高，新能源汽车产销均超1600万辆 ...",
+    "id": "8qTWTHodHqT",
+    "order": 1770216192962,
+    "createdAt": "2026-02-04T14:43:13.000Z",
+    "publishDate": "2026-02-04T14:43:12.962Z",
+    "title": "工信部：加快推进组合驾驶辅助系统等安全标准研制",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-04 22:43:13",
+    "uuid": "a24d88cd-a354-46b5-9ef2-98f3a3e3ee79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "亚马逊考虑对OpenAI进行数百亿美元股权投资，双方正商讨商业协议，该协议或要求OpenAI派研究人员和工程师为亚马逊自研人工智能产品开发定制化模型。",
+    "id": "8qTkYhJOGDT",
+    "order": 1770215046614,
+    "createdAt": "2026-02-04T14:24:07.000Z",
+    "publishDate": "2026-02-04T14:24:06.614Z",
+    "title": "OpenAI或为亚马逊AI产品开发定制化模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-04 22:24:07",
+    "uuid": "9a583288-b333-4678-91e7-89ab127341e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "因拖车牵引模块设计不当，拖车灯可能无法点亮、制动系统可能失效，克莱斯勒召回2024 - 2026款Jeep Wagoneer S等车型，共计456287辆。",
+    "id": "8qTkZSghODN",
+    "order": 1770216092125,
+    "createdAt": "2026-02-04T14:23:35.000Z",
+    "publishDate": "2026-02-04T14:41:32.125Z",
+    "title": "拖车制动系统可能失效，克莱斯勒在美召回超45万辆汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-04 22:23:35",
+    "uuid": "2f84281f-c990-4e65-9e4c-715801aed5b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "AI语音初创公司ElevenLabs在D轮融资中筹集5亿美元，由红杉资本领投，估值达110亿美元。",
+    "id": "8qTjBvZV0oN",
+    "order": 1770214982781,
+    "createdAt": "2026-02-04T14:23:02.000Z",
+    "publishDate": "2026-02-04T14:23:02.781Z",
+    "title": "语音AI初创公司ElevenLabs据悉融资5亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-04 22:23:02",
+    "uuid": "a1977bd1-6be8-46d7-937e-e1282bc1ae10"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -176,6 +269,24 @@
     "up": false,
     "date": "2026-02-04 21:25:32",
     "uuid": "36cbcc38-7a9b-42e8-9121-ce13f0115126"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "波罗的海干散货指数跌3.6%，至1955点。",
+    "id": "8qS76Sb3UzK",
+    "order": 1770216143090,
+    "createdAt": "2026-02-04T13:22:37.000Z",
+    "publishDate": "2026-02-04T14:42:23.090Z",
+    "title": "波罗的海干散货指数跌3.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-04 21:22:37",
+    "uuid": "cd52d9a3-4813-4bd5-a0cd-4d1437a06b6c"
   },
   {
     "newsArray": [
