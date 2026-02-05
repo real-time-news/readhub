@@ -1,6 +1,188 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "苹果iPhone 17e发布细节在配件制造商中流传，最早可能于2月19日发布，这对苹果而言是不太常规的时间 ...",
+    "id": "8qUpl6hHLma",
+    "order": 1770278005488,
+    "createdAt": "2026-02-05T07:53:26.000Z",
+    "publishDate": "2026-02-05T07:53:25.488Z",
+    "title": "苹果iPhone 17e或于2月19日发布 依旧单摄 新增MagSafe",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:53:26",
+    "uuid": "3b55db9e-87d8-420a-b0d7-86780f25fb5f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "昨日消息，Square Enix 计划调整《最终幻想 7》重制版第三部发行策略，放弃“PlayStation 限时独占”，采取“全平台首发”，PC 及其他平台玩家或能在发售首日同步体验 ...",
+    "id": "8qUqmS3r2Xh",
+    "order": 1770277989936,
+    "createdAt": "2026-02-05T07:53:09.000Z",
+    "publishDate": "2026-02-05T07:53:09.936Z",
+    "title": "《最终幻想 7》重制版第三部游戏被曝取消 PS5 独占，首发登陆 PC",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:53:09",
+    "uuid": "ea866a55-f498-4fdd-a471-6d8c4d188d9e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "鸿海1月销售额7300.4亿元台币，同比增长35.5％。",
+    "id": "8qUwtKlku0v",
+    "order": 1770277573401,
+    "createdAt": "2026-02-05T07:46:13.000Z",
+    "publishDate": "2026-02-05T07:46:13.401Z",
+    "title": "鸿海1月销售额7,300.4亿元台币，同比增长35.5％",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:46:13",
+    "uuid": "46e7a39f-487c-4998-865e-a2a26d4ca509"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "今年起，滴滴这类给企业提供国内旅客运输服务开具的增值税电子普通发票，企业不能再将发票上注明的税额作为进项税额抵税以少交增值税 ...",
+    "id": "8qUwsBxyLPz",
+    "order": 1770277338062,
+    "createdAt": "2026-02-05T07:42:19.000Z",
+    "publishDate": "2026-02-05T07:42:18.062Z",
+    "title": "今年起滴滴等电子普通发票不再能抵税",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:42:19",
+    "uuid": "0a5db145-a1b8-4e6e-8a1a-358017cae1e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "恒生科技指数涨超1%，此前一度跌超1.8%，消费、新能源汽车等板块涨幅居前，小米集团、联想集团均涨超3%。",
+    "id": "8qUu5Hf65wt",
+    "order": 1770276728241,
+    "createdAt": "2026-02-05T07:32:08.000Z",
+    "publishDate": "2026-02-05T07:32:08.241Z",
+    "title": "恒生科技指数涨超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:32:08",
+    "uuid": "1a89bb98-fd39-4f02-ac7a-4472f5e11f4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2月4日，南非联合执政与传统事务部发表政府公报，将东开普省、西开普省和北开普省的干旱及供水危机认定为国家灾难 ...",
+    "id": "8qUseMr9m3L",
+    "order": 1770276559932,
+    "createdAt": "2026-02-05T07:29:19.000Z",
+    "publishDate": "2026-02-05T07:29:19.932Z",
+    "title": "南非将该国三省干旱及供水危机认定为“国家灾难”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:29:19",
+    "uuid": "b0b885d3-3622-4b89-af32-6c88e5bd2685"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "新加坡交易所一位高管称，该交易所正寻求吸引更多中国和东南亚公司在新加坡上市，以推动 IPO 交易势头。",
+    "id": "8qUvU57aNBu",
+    "order": 1770276499064,
+    "createdAt": "2026-02-05T07:28:19.000Z",
+    "publishDate": "2026-02-05T07:28:19.064Z",
+    "title": "新加坡交易所寻求吸引更多中国和东南亚公司在新加坡上市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:28:19",
+    "uuid": "7274dfc9-098a-4a4a-909e-3ab0e16b28a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "索尼正与供应商洽谈增加内存供应，且已确保为今年假日销售季备妥PS5专用内存。",
+    "id": "8qUvS6r0tRv",
+    "order": 1770276467375,
+    "createdAt": "2026-02-05T07:27:47.000Z",
+    "publishDate": "2026-02-05T07:27:47.375Z",
+    "title": "索尼：已确保为今年假日销售季备妥PS5专用内存",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:27:47",
+    "uuid": "81cee4a1-5571-4516-9b61-58147ba9c6c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "商务部举行例行新闻发布会，有记者就美国贸易代表办公室对中国诉美国《通胀削减法》案世贸裁决发表的声明提问，商务部新闻发言人何亚东表示注意到美方声明，强调世贸组织专家组已作出客观公正裁决，该裁决反映了世贸成员基本共识，美方应尊重裁决、遵守规则。",
+    "id": "8qUvSvrz7rj",
+    "order": 1770276447731,
+    "createdAt": "2026-02-05T07:27:28.000Z",
+    "publishDate": "2026-02-05T07:27:27.731Z",
+    "title": "商务部：中国诉美国《通胀削减法》案裁决反映世贸成员基本共识",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:27:28",
+    "uuid": "8171d566-6757-492e-bdb0-becdcfee1725"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "壳牌2月5日披露，四季度调整后收益32.6亿美元，同比减少11%，预估35.1亿美元。另外宣布启动35亿美元股票回购计划，预计在2026年一季度业绩公布前完成。",
+    "id": "8qUu7bOegaX",
+    "order": 1770276402810,
+    "createdAt": "2026-02-05T07:26:43.000Z",
+    "publishDate": "2026-02-05T07:26:42.810Z",
+    "title": "壳牌四季度调整后收益32.6亿美元低于预期，启动35亿美元股票回购计划",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 15:26:43",
+    "uuid": "8cb6d208-eab9-4181-806c-a4c8a0bf7bf1"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
