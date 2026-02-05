@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "牧原股份2月5日公告，2026年1月销售商品猪700.9万头，同比变动2.73%（含向子公司销售311.6万头）。销售均价12.57元/公斤，同比变动 -16.92% ...",
+    "id": "8qVCcQOQ3LL",
+    "order": 1770290772386,
+    "createdAt": "2026-02-05T11:26:13.000Z",
+    "publishDate": "2026-02-05T11:26:12.386Z",
+    "title": "牧原股份：1月商品猪销售收入105.66亿元，同比下降11.93%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 19:26:13",
+    "uuid": "1a070624-ed15-4c6b-9e97-5c4f7b0042b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "KKR或将以14亿美元初始估值收购体育投资公司Arctos。",
+    "id": "8qVBw14dODf",
+    "order": 1770290721328,
+    "createdAt": "2026-02-05T11:25:21.000Z",
+    "publishDate": "2026-02-05T11:25:21.328Z",
+    "title": "KKR或将以14亿美元的初始估值收购体育投资公司Arctos",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 19:25:21",
+    "uuid": "a28ae3eb-a078-4afb-bbfe-6b8471f8ee04"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "近日，国创启程（上海）创业投资基金合伙企业（有限合伙）成立，出资额100亿元，经营范围为创业投资（限投资未上市企业），由全国社会保障基金理事会、国家开发投资集团有限公司等共同出资。",
+    "id": "8qT6XvvEjA2",
+    "order": 1770290705229,
+    "createdAt": "2026-02-05T11:25:06.000Z",
+    "publishDate": "2026-02-05T11:25:05.229Z",
+    "title": "国投集团、社保基金会等在上海新设创投基金",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 19:25:06",
+    "uuid": "34512429-6140-4791-b59c-f5c0eccb89ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "交易文件显示，澜起科技将香港上市价格定在区间顶端，筹得70亿港元（9.02亿美元），约6590万股股票定价为每股106.89港元，较周三收盘价170.90元人民币折让44%。",
+    "id": "8qV75seklwr",
+    "order": 1770290692537,
+    "createdAt": "2026-02-05T11:24:52.000Z",
+    "publishDate": "2026-02-05T11:24:52.537Z",
+    "title": "文件：澜起科技香港上市价格定在区间顶端 筹资70亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 19:24:52",
+    "uuid": "47baf565-45bf-48c4-8d53-87ac9c882940"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "瑞银集团旗下投资银行部分部门2025年奖金池增幅最高可达20%。",
+    "id": "8qVBBnlerEA",
+    "order": 1770289935896,
+    "createdAt": "2026-02-05T11:12:16.000Z",
+    "publishDate": "2026-02-05T11:12:15.896Z",
+    "title": "瑞银投行业务部分部门2025年奖金池增幅最高或达20%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 19:12:16",
+    "uuid": "7f7953f7-0753-4768-adf9-31aeab67af44"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -175,6 +261,23 @@
     "up": false,
     "date": "2026-02-05 18:22:26",
     "uuid": "58350e72-9a7f-4000-8157-2e4142de9c3d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "汇丰控股准备向部分银行家发放极少奖金，甚至可能奖金为零，该行寻求向华尔街竞争对手看齐，采取“多劳多得”立场 ...",
+    "id": "8qUyMPM9rlR",
+    "order": 1770289739137,
+    "createdAt": "2026-02-05T10:06:56.000Z",
+    "publishDate": "2026-02-05T11:08:59.137Z",
+    "title": "汇丰拟淘汰低绩效员工 部分银行家面临零奖金",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 18:06:56",
+    "uuid": "ff6696aa-ab40-43db-87ff-3c8eb538a78c"
   },
   {
     "newsArray": [
@@ -497,6 +600,23 @@
     "up": false,
     "date": "2026-02-05 17:04:47",
     "uuid": "ddf39656-f3ba-4243-b528-8947282aafc3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果计划推出首款入门级MacBook，将采用iPhone级别处理器，售价或低于799美元，仅配8GB内存，预计不影响运行流畅度，还支持Apple Intelligence ...",
+    "id": "8qUu7HfokEX",
+    "order": 1770289775224,
+    "createdAt": "2026-02-05T09:03:26.000Z",
+    "publishDate": "2026-02-05T11:09:35.224Z",
+    "title": "苹果拟推「廉价版」MacBook：首次用 iPhone 芯片，售价或低于 799 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 17:03:26",
+    "uuid": "fb5583ab-260d-4f1e-9563-27cd53f570e4"
   },
   {
     "newsArray": [
@@ -1186,6 +1306,27 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "阿里巴巴集团将AI的总称和核心品牌统一为千问，千问大模型（Qwen）涵盖基础和专业领域模型，此举是为避免此前多个名称导致的混淆问题，统一后中文为千问大模型，英文为Qwen，通义实验室是旗下组织名称。",
+    "id": "8qUmuW8M82Y",
+    "order": 1770289887909,
+    "createdAt": "2026-02-05T05:42:01.000Z",
+    "publishDate": "2026-02-05T11:11:27.909Z",
+    "title": "阿里巴巴大模型品牌统一为千问",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 13:42:01",
+    "uuid": "03977a5a-1b23-4f46-8428-690dac69dc85"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "36Kr" },
@@ -1535,6 +1676,23 @@
     "up": false,
     "date": "2026-02-05 11:23:36",
     "uuid": "db60c8d0-f1f8-428b-be63-cf96bd0cc953"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美东时间周三盘后，谷歌母公司Alphabet财报会上，首席执行官桑达尔・皮查伊回应分析师关于AI对SaaS软件公司影响的问题时称，Gemini能为SaaS软件赋能而非取代它 ...",
+    "id": "8qUctxhduGL",
+    "order": 1770289929675,
+    "createdAt": "2026-02-05T03:08:19.000Z",
+    "publishDate": "2026-02-05T11:12:09.675Z",
+    "title": "Alphabet CEO：Gemini能为SaaS软件赋能 并非SaaS的“终结者”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-05 11:08:19",
+    "uuid": "24661410-a5e5-4e7d-b92c-5e42b02b2ca3"
   },
   {
     "newsArray": [
