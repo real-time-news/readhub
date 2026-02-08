@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达近日为3万名工程师全面部署生成式人工智能编码工具，借助AI技术使工程师代码产出量提升至原有三倍，且代码漏洞率稳定 ...",
+    "id": "8qZNeEKxhtM",
+    "order": 1770541486990,
+    "createdAt": "2026-02-08T09:04:47.000Z",
+    "publishDate": "2026-02-08T09:04:46.990Z",
+    "title": "英伟达内部全面部署AI编码工具 工程师代码产出量提升三倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-08 17:04:47",
+    "uuid": "38476390-765e-4606-8904-a548b9cfaefb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "TechSir" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软正将重心转向人工智能，这或牺牲其核心产品，且“AI 优先”战略未达预期回报。公司品牌命名混乱、产品缺乏协同性，致用户不满 ...",
+    "id": "8qZYLhzLX6w",
+    "order": 1770541437436,
+    "createdAt": "2026-02-08T09:03:58.000Z",
+    "publishDate": "2026-02-08T09:03:57.436Z",
+    "title": "微软押注 AI 遇挫：Copilot 失势，股价暴跌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-08 17:03:58",
+    "uuid": "7c5b05cc-dd08-4542-81d7-2b61849c80f9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国研究人员开发出名为TimeVault的新技术，能记录细胞7天内几乎所有基因活动，如同给细胞装“高清监控设备” ...",
+    "id": "8qZuArM3txl",
+    "order": 1770541305303,
+    "createdAt": "2026-02-08T09:01:45.000Z",
+    "publishDate": "2026-02-08T09:01:45.303Z",
+    "title": "新技术可长时间“监控”细胞的基因活动",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-08 17:01:45",
+    "uuid": "3f6de251-51ab-4fdf-8cfa-60e44431d2ae"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
