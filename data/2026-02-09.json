@@ -1,6 +1,116 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2月9日，市场高开高走，沪指涨超1%、深成指涨超2%、创业板指涨近3%，沪深两市成交额2.25万亿，较上一日放量1038亿。全市场超4600只个股上涨，市场热点快速轮动 ...",
+    "id": "8qbZ3ElKREZ",
+    "order": 1770621889880,
+    "createdAt": "2026-02-09T07:24:49.000Z",
+    "publishDate": "2026-02-09T07:24:49.880Z",
+    "title": "收评：创业板指高开高走涨近3% AI应用端集体爆发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-09 15:24:49",
+    "uuid": "78114d07-c5d5-4515-a556-69c7f78a8b51"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "私募排排网数据显示，截至2026年1月底，百亿私募达到122家，突破2022年3月116家的历史纪录，相比2025年12月底的112家，百亿私募数量增加10家。",
+    "id": "8qbYNuoim0r",
+    "order": 1770621778434,
+    "createdAt": "2026-02-09T07:22:59.000Z",
+    "publishDate": "2026-02-09T07:22:58.434Z",
+    "title": "百亿私募数量达122家，刷新历史纪录",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-09 15:22:59",
+    "uuid": "cbd6bc2f-833d-46a6-bd5f-01e8f2733f66"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "近日美团拟收购叮咚买菜中国业务，引发社交媒体用户对叮咚买菜未来商品及服务标准的担忧 ...",
+    "id": "8qbXfIhPo2Z",
+    "order": 1770622027734,
+    "createdAt": "2026-02-09T07:08:39.000Z",
+    "publishDate": "2026-02-09T07:27:07.734Z",
+    "title": "叮咚买菜回应收购：业务正常运营，品质标准不变",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-09 15:08:39",
+    "uuid": "73367a90-9460-477f-9679-cd5375d6e72f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "中国期货业协会统计显示，1月全国期货交易市场以单边计算，成交量为912,489,781手，成交额为1,002,595.82亿元，同比分别增长65.09%和105.14% ...",
+    "id": "8qbDfxI3bOX",
+    "order": 1770620686769,
+    "createdAt": "2026-02-09T07:04:47.000Z",
+    "publishDate": "2026-02-09T07:04:46.769Z",
+    "title": "2026年1月全国期货市场交易情况：成交额同比增长105.14%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-09 15:04:47",
+    "uuid": "3c170f57-297b-4a2f-bd08-ec1653676dc3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "人工智能硬件领军企业 Plaud 与智能终端巨头荣耀达成战略合作，为其开发操作系统层级的原生 AI 录音功能，合作规划将 AI 会议纪要能力内嵌至手机原生应用，Plaud 提供软件技术支持，荣耀用户升级 Magic OS 系统版本后可使用手机自带录音应用实现自动化会议纪要功能。",
+    "id": "8qbJMYvTaPC",
+    "order": 1770619889521,
+    "createdAt": "2026-02-09T06:51:29.000Z",
+    "publishDate": "2026-02-09T06:51:29.521Z",
+    "title": "Plaud 与荣耀合作开发原生 AI 录音功能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-09 14:51:29",
+    "uuid": "150f1431-4afb-4758-8fc5-66a00e931a4d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "阅文集团CEO兼总裁侯晓楠发布春节内部信，复盘2025年业务进展。2025年阅文夯实网络文学基本盘，在多条战线取得突破，新兴业态规模化增长构成“第二增长曲线” ...",
+    "id": "8qbWDCRcmP1",
+    "order": 1770622332286,
+    "createdAt": "2026-02-09T06:45:40.000Z",
+    "publishDate": "2026-02-09T07:32:12.286Z",
+    "title": "阅文CEO侯晓楠发内部信：全面拥抱“IP+AI”浪潮，加速布局AI漫剧",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-09 14:45:40",
+    "uuid": "709b5ab9-db61-4f84-b50c-005809810396"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
@@ -223,6 +333,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "港股大模型、AI应用方向午后拉升，智谱涨超30%，金山云涨超10%，MINIMAX - WP涨近10%。",
+    "id": "8qbQUEYFE7l",
+    "order": 1770622299394,
+    "createdAt": "2026-02-09T05:23:34.000Z",
+    "publishDate": "2026-02-09T07:31:39.394Z",
+    "title": "港股大模型、AI应用方向拉升，智谱涨超30%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-09 13:23:34",
+    "uuid": "eb18fdd5-fc8c-434c-aedd-c27b1b31ae7b"
+  },
+  {
+    "newsArray": [
       { "siteName": "品玩" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
@@ -259,6 +388,26 @@
     "up": false,
     "date": "2026-02-09 13:03:37",
     "uuid": "ab76d119-2ec9-4872-bf3c-172ba973ab97"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "每经网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "全球首家爱奇艺乐园在江苏扬州正式开园。爱奇艺创始人龚宇称，这是爱奇艺从线上迈向线下的关键一步，其依托IP资源和线下体验开发经验，借助技术打造新型乐园，乐园业务有望成新增长曲线 ...",
+    "id": "8qb0mW9MNXq",
+    "order": 1770621966586,
+    "createdAt": "2026-02-09T05:02:58.000Z",
+    "publishDate": "2026-02-09T07:26:06.586Z",
+    "title": "扬州爱奇艺乐园正式开园 首日门票售罄",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-09 13:02:58",
+    "uuid": "15016641-cc9c-46b9-948a-eff9bedb08cb"
   },
   {
     "newsArray": [
@@ -529,6 +678,25 @@
     "up": false,
     "date": "2026-02-09 11:51:56",
     "uuid": "db7c7071-e4aa-43db-bac8-0e5f3f5e72f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "CPO概念反复走强，天孚通信涨超10%续创历史新高，总市值近2200亿，杰普特、炬光科技等多股跟涨 ...",
+    "id": "8qbCG2HqSae",
+    "order": 1770622711839,
+    "createdAt": "2026-02-09T03:23:05.000Z",
+    "publishDate": "2026-02-09T07:38:31.839Z",
+    "title": "CPO概念反复走强，天孚通信涨超10%续创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-09 11:23:05",
+    "uuid": "cea2ad4d-8fb1-49b3-a2a4-2a89344a9338"
   },
   {
     "newsArray": [
