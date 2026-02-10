@@ -1,6 +1,192 @@
 [
   {
     "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "DoNews" },
+      { "siteName": "智东西" }
+    ],
+    "summary": "EDA与半导体IP大厂新思科技全球资深副总裁、新思中国董事长兼总裁葛群即将离职，由姚尧出任新思科技中国区临时销售负责人，数小时后公司内部信正式宣布该消息 ...",
+    "id": "8qbrywRzcVi",
+    "order": 1770719308958,
+    "createdAt": "2026-02-10T10:28:29.000Z",
+    "publishDate": "2026-02-10T10:28:28.958Z",
+    "title": "新思科技中国区换帅：葛群将离职，姚尧接棒",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 18:28:29",
+    "uuid": "22edfb08-ecd9-4102-82e2-7b20e1ad2873"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "为贯彻落实深化招标投标改革部署要求，按照相关意见安排，推动招标投标与人工智能深度融合、促进市场规范健康发展，现提出意见 ...",
+    "id": "8qdQ8cFvYYX",
+    "order": 1770719106895,
+    "createdAt": "2026-02-10T10:25:07.000Z",
+    "publishDate": "2026-02-10T10:25:06.895Z",
+    "title": "国家发改委等部门发布加快招标投标领域人工智能推广应用的实施意见",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 18:25:07",
+    "uuid": "8570053d-8906-43d8-8565-0716db97244c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Google旗下的YouTube Music服务限制免费用户查看歌词，免费用户查看次数有限且会收到剩余次数警告，Google未正式宣布该歌词功能仅提供给付费订阅用户，称还在测试、未做最终决定 ...",
+    "id": "8qbonX4TzQx",
+    "order": 1770719082844,
+    "createdAt": "2026-02-10T10:24:42.000Z",
+    "publishDate": "2026-02-10T10:24:42.844Z",
+    "title": "YouTube Music 限制免费用户查看歌词",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 18:24:42",
+    "uuid": "d7884e12-a0cb-46ae-b0e2-dcac9274f9fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "博纳影业公告称，公司股票交易价格连续3个交易日内收盘价格涨幅偏离值累计超20%，属异常波动 ...",
+    "id": "8qdQpO5z4lL",
+    "order": 1770719063671,
+    "createdAt": "2026-02-10T10:24:23.000Z",
+    "publishDate": "2026-02-10T10:24:23.671Z",
+    "title": "2连板博纳影业：公司目前经营情况正常，不存在应披露而未披露的重大事项",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 18:24:23",
+    "uuid": "400ae783-c3f7-4d24-96b9-ddd2aed6a6d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "近日，阿里云正式通过互联网名称与数字地址分配机构（ICANN）的全面技术测试，成为中国首家具备顶级域名“全链路”服务能力的云厂商，可为新域名相关业务提供一站式端到端服务 ...",
+    "id": "8qdPXfmwDWc",
+    "order": 1770719043061,
+    "createdAt": "2026-02-10T10:24:04.000Z",
+    "publishDate": "2026-02-10T10:24:03.061Z",
+    "title": "阿里云通过全球域名管理组织技术认证",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 18:24:04",
+    "uuid": "1189b1f5-ff18-4575-bf8d-d017f5c6d854"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "公司涉及算力租赁概念，2024 年自采和租赁服务器及芯片向十余名客户提供租赁服务，前三季度收入 1,123.20 万元，占营收 3.59%，对业绩影响较小 ...",
+    "id": "8qdPcR5RSxt",
+    "order": 1770718916504,
+    "createdAt": "2026-02-10T10:21:56.000Z",
+    "publishDate": "2026-02-10T10:21:56.504Z",
+    "title": "大位科技：张北数据中心项目不涉及算力租赁业务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 18:21:56",
+    "uuid": "13e8b258-6d4e-407e-9cee-00c1fe480cf0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "中钨高新公告，董事会同意株硬公司以1.45亿元实施新增PCB钻针棒3000万支/年项目，建设期12个月 ...",
+    "id": "8qdPWoTBkgM",
+    "order": 1770718246673,
+    "createdAt": "2026-02-10T10:10:46.000Z",
+    "publishDate": "2026-02-10T10:10:46.673Z",
+    "title": "中钨高新：拟1.45亿元实施新增PCB钻针棒3000万支/年项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 18:10:46",
+    "uuid": "a51e4ffa-7735-4a55-964e-eb90d0406f47"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Target加大门店人力投入，增加一线员工工时和培训投入，同时在配送中心和区域办公室裁减约500个岗位（约100人来自门店区域管理层，约400人来自供应链相关站点），以改善消费者体验并推动公司重回增长轨道 ...",
+    "id": "8qcSqGIWiB4",
+    "order": 1770718231136,
+    "createdAt": "2026-02-10T10:10:31.000Z",
+    "publishDate": "2026-02-10T10:10:31.136Z",
+    "title": "Target计划加大门店人力投入 裁减约500个岗位",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 18:10:31",
+    "uuid": "e63a79dc-48d7-457e-a193-f87f5a11a1fa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "国务院办公厅转发民政部等部门《关于进一步加强养老机构安全管理的意见》。意见提出总体要求，到2026年底排查整治存量隐患，2027年提升本质安全水平，2028年完善长效机制 ...",
+    "id": "8qdNzGiuGaF",
+    "order": 1770719278386,
+    "createdAt": "2026-02-10T09:44:50.000Z",
+    "publishDate": "2026-02-10T10:27:58.386Z",
+    "title": "多部门：到2026年底，深入排查整治养老机构存量安全风险隐患",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 17:44:50",
+    "uuid": "1ada1ca4-4983-402e-94f5-521efded207c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "大商所公告，2026年春节休市前后将对各品种期货合约涨跌停板幅度和交易保证金水平做调整。自2月12日结算时起，多个品种有不同幅度调整，部分维持不变 ...",
+    "id": "8qdMXyFRmBn",
+    "order": 1770719167045,
+    "createdAt": "2026-02-10T09:42:44.000Z",
+    "publishDate": "2026-02-10T10:26:07.045Z",
+    "title": "大商所：调整铁矿石等相关品种期货合约涨跌停板幅度和交易保证金水平",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 17:42:44",
+    "uuid": "000ee7fb-796d-4d72-b5ff-784c7a3aecca"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
