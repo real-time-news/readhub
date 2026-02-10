@@ -1,6 +1,178 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "雷军在微博回应，前段时间一辆挂当地测试车牌的YU7行驶在美国加州高速，很多人询问小米是否准备进入美国市场，他表示目前暂时没有此计划，估计该车是美国同行或供应商购买的对标车。",
+    "id": "8qcm8pTz5cD",
+    "order": 1770685525234,
+    "createdAt": "2026-02-10T01:05:27.000Z",
+    "publishDate": "2026-02-10T01:05:25.234Z",
+    "title": "雷军：目前暂时没有进入美国市场的计划",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 09:05:27",
+    "uuid": "09be37b3-d403-4db3-a2f2-f56940776e5d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "和誉附属公司和誉医药宣布，美国FDA授予其自主研发的高选择性小分子FGFR4抑制剂依帕戈替尼快速通道资格认定，用于治疗既往接受过ICIs和mTKIs治疗且存在FGF19过表达的HCC患者。",
+    "id": "8qclNm4CC8U",
+    "order": 1770684332250,
+    "createdAt": "2026-02-10T00:45:33.000Z",
+    "publishDate": "2026-02-10T00:45:32.250Z",
+    "title": "和誉：FGFR4抑制剂依帕戈替尼获FDA快速通道资格，用于治疗HCC患者",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 08:45:33",
+    "uuid": "a6279999-1946-4072-9c6d-1300f5c98e89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间周一，日经225指数涨超2000点，史上首次突破56000点关口，伯克希尔所持日本五大商社投资市值突破410亿美元 ...",
+    "id": "8qclNirUz5J",
+    "order": 1770684272341,
+    "createdAt": "2026-02-10T00:44:33.000Z",
+    "publishDate": "2026-02-10T00:44:32.341Z",
+    "title": "巴菲特躺赚20亿美元 “股神”五大商社持仓收益升至200%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 08:44:33",
+    "uuid": "955eae2e-ca34-44cc-951a-45240c2303b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "谷歌旗下自动驾驶公司Waymo周一宣布在田纳西州纳什维尔市实现完全无人驾驶运营，目前在多地运营超2500辆自动驾驶车辆 ...",
+    "id": "8qcjxVviewu",
+    "order": 1770684056029,
+    "createdAt": "2026-02-10T00:28:40.000Z",
+    "publishDate": "2026-02-10T00:40:56.029Z",
+    "title": "谷歌旗下Waymo宣布在美国纳什维尔实现完全无人驾驶运营",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 08:28:40",
+    "uuid": "30784c0c-e30d-4bfa-ab6b-afc92ac0a79c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "银河证券认为当前时点是存储芯片赛道下一轮周期新起点，在AI服务器需求高速增长叠加国产替代背景下，看好国内存储产业链相关上市公司投资机遇。",
+    "id": "8qcjwFqKIPG",
+    "order": 1770683267907,
+    "createdAt": "2026-02-10T00:27:48.000Z",
+    "publishDate": "2026-02-10T00:27:47.907Z",
+    "title": "银河证券：当前时点是存储芯片赛道下一轮周期的新起点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 08:27:48",
+    "uuid": "f53f5aa1-2dac-427c-a386-53d2b5eee89f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "近一个月，148家券商调研逾560家上市公司，较去年同期增长约26% ...",
+    "id": "8qccpf2fmzi",
+    "order": 1770683202205,
+    "createdAt": "2026-02-10T00:26:42.000Z",
+    "publishDate": "2026-02-10T00:26:42.205Z",
+    "title": "近一个月调研逾560家上市公司 科技股成券商“春耕”重点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 08:26:42",
+    "uuid": "95e9d196-a9fa-4b5a-9304-5511cdbf41c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "近日，交通运输部根据相关办法对江苏省连申线黄响河至淮河入海水道段航道整治工程月港大桥系杆拱梁塌落事故实施挂牌督办 ...",
+    "id": "8qcjwh4xzDD",
+    "order": 1770683189589,
+    "createdAt": "2026-02-10T00:26:30.000Z",
+    "publishDate": "2026-02-10T00:26:29.589Z",
+    "title": "致5人死亡，交通运输部对江苏月港大桥塌落事故挂牌督办",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 08:26:30",
+    "uuid": "25090ed5-c07d-433d-888e-641e05f5192c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "马克·扎克伯格与妻子普莉希拉·陈成为在南佛罗里达州购置房产的加州亿万富豪之一，他们正收购迈阿密印第安溪岛上一栋全新建成的滨水豪宅，卖方与Jersey Mike's Subs创始人彼得·坎克罗有关联，成交价大概率在1.5亿至2亿美元之间，该房产未公开挂牌 ...",
+    "id": "8qch8qAmAaE",
+    "order": 1770683492166,
+    "createdAt": "2026-02-10T00:23:28.000Z",
+    "publishDate": "2026-02-10T00:31:32.166Z",
+    "title": "躲避加州 5% 富豪税，扎克伯格斥资 2 亿美元购置迈阿密豪宅",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 08:23:28",
+    "uuid": "27c512ed-c539-4c13-87fc-04349da3bfd1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国国家劳工关系委员会放弃与马斯克的SpaceX公司长达数年的法律纠纷，暗示今后避免针对该公司诉讼，因其无管辖权 ...",
+    "id": "8qcfk3rXD0k",
+    "order": 1770684215081,
+    "createdAt": "2026-02-10T00:06:40.000Z",
+    "publishDate": "2026-02-10T00:43:35.081Z",
+    "title": "马斯克再胜一局，美国劳工关系委员会放弃对SpaceX诉讼",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-10 08:06:40",
+    "uuid": "ea9cb5c7-b906-45f8-8750-ff8442f78704"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" }
