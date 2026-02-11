@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "太平洋电脑网" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "近日，广汽集团公布2025年业绩预告，预计净利润最高亏损90亿元，创十年来最大跌幅。其立下的230万辆销量目标未完成，全年实际销量约172.15万辆，同比下降14.06% ...",
+    "id": "8qeVLGZSZDs",
+    "order": 1770829436864,
+    "createdAt": "2026-02-11T17:03:57.000Z",
+    "publishDate": "2026-02-11T17:03:56.864Z",
+    "title": "广汽预亏90亿 本田成最大“拖油瓶”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 01:03:57",
+    "uuid": "f8d3e775-31a8-4e35-9fb0-69316fa60b73"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "谷歌新增功能，让消费者在搜索引擎和Gemini聊天机器人获取AI驱动答案时可直接购买商品，这是其从用户使用AI过程中变现计划的一部分 ...",
+    "id": "8qfVUjPDTWk",
+    "order": 1770829407494,
+    "createdAt": "2026-02-11T17:03:28.000Z",
+    "publishDate": "2026-02-11T17:03:27.494Z",
+    "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 01:03:28",
+    "uuid": "64c73661-1a72-48e0-942d-0ef6121ac764"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
