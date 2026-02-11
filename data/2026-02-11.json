@@ -1,6 +1,145 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "法国凯捷集团宣布与微软达成战略合作，将共同推出以数据主权、合规性和业务连续性为核心的托管云服务模式。",
+    "id": "8qevkJpsJ3Z",
+    "order": 1770823901307,
+    "createdAt": "2026-02-11T15:31:42.000Z",
+    "publishDate": "2026-02-11T15:31:41.307Z",
+    "title": "凯捷与微软合作推出主权云服务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 23:31:42",
+    "uuid": "dd70509b-3fca-4dc4-ad82-eac348bd1ce2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "行情显示，比特币跌至65823.6美元，24小时内跌4.32%。以太坊跌至1906.69美元，24小时内跌5.02%。",
+    "id": "8qfRAsetLbL",
+    "order": 1770823452062,
+    "createdAt": "2026-02-11T15:24:12.000Z",
+    "publishDate": "2026-02-11T15:24:12.062Z",
+    "title": "比特币跌破6.6万美元，过去24小时跌超4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 23:24:12",
+    "uuid": "6596362b-83fb-4da5-9295-8ef2756a8c46"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "巴勒斯坦伊斯兰抵抗运动（哈马斯）发言人卡西姆称，以色列在拉法口岸持续设障，不按协议放行旅客，仅允许约27%的协议人数通过，旅客还遭以军审查、虐待和骚扰，严重违反停火协议和国际法 ...",
+    "id": "8qfPnf5AxNI",
+    "order": 1770822414974,
+    "createdAt": "2026-02-11T15:06:54.000Z",
+    "publishDate": "2026-02-11T15:06:54.974Z",
+    "title": "哈马斯谴责以色列阻碍拉法口岸通行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 23:06:54",
+    "uuid": "2fa581e0-7cbd-446a-8efe-bbaff6497385"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "近日，有网友爆料魅族 23 项目停止、手机业务即将解散，截至发稿前魅族暂无回应，客服称未接到相关通知 ...",
+    "id": "8qerYq75WJS",
+    "order": 1770823907992,
+    "createdAt": "2026-02-11T15:06:12.000Z",
+    "publishDate": "2026-02-11T15:31:47.992Z",
+    "title": "网传魅族手机业务即将解散，官方暂无回应，客服称未接到相关通知",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 23:06:12",
+    "uuid": "25cd389e-1ca0-49ef-aa6c-e93d4e512269"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美泰（MAT.US）盘前暴跌超30%，报14.62美元，因公司预计全年利润低于预期，且去年第四季度利润不及市场预期。",
+    "id": "8qf1S0O5PEB",
+    "order": 1770821244808,
+    "createdAt": "2026-02-11T14:47:24.000Z",
+    "publishDate": "2026-02-11T14:47:24.808Z",
+    "title": "美泰(MAT.US)盘前暴跌超30%，预计全年利润低于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 22:47:24",
+    "uuid": "cd07a32f-f3da-498e-ae28-e5b0662010da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美股三大指数集体高开，纳指涨0.76%，道指涨0.41%，标普500指数涨0.62%。存储概念股反弹，美光科技、闪迪涨超6%，西部数据涨超4% ...",
+    "id": "8qfLXY7Svsk",
+    "order": 1770821147279,
+    "createdAt": "2026-02-11T14:45:47.000Z",
+    "publishDate": "2026-02-11T14:45:47.279Z",
+    "title": "纳指高开0.76% 美光科技涨超6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 22:45:47",
+    "uuid": "09b887e0-ec63-412d-9adb-032a3ec93ca6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美光科技股价盘前涨幅扩大至6.4%，摩根士丹利将其目标价从350美元大幅上调至450美元。",
+    "id": "8qfLW3HDP8E",
+    "order": 1770821103957,
+    "createdAt": "2026-02-11T14:45:03.000Z",
+    "publishDate": "2026-02-11T14:45:03.957Z",
+    "title": "美光科技股价盘前涨幅扩大至6.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 22:45:03",
+    "uuid": "5a60512e-8662-44a7-9273-9e4ccbc97848"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "美格智能技术股份有限公司更新聆讯后资料集，意味着其港交所 IPO 通过聆讯。",
+    "id": "8qfOK4n5nt1",
+    "order": 1770822240550,
+    "createdAt": "2026-02-11T14:43:28.000Z",
+    "publishDate": "2026-02-11T15:04:00.550Z",
+    "title": "美格智能技术股份有限公司通过港交所上市聆讯",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 22:43:28",
+    "uuid": "d898e38b-d5e8-4dca-9089-12a412d30f67"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -885,6 +1024,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美股部分AI应用软件股盘前延续涨势，Cloudflare大涨超15%，因AI需求激增推动公司业绩超预期。Unity涨超2%，Shopify涨1.5%。",
+    "id": "8qf1S6RciJY",
+    "order": 1770821250933,
+    "createdAt": "2026-02-11T09:26:11.000Z",
+    "publishDate": "2026-02-11T14:47:30.933Z",
+    "title": "美股部分AI应用软件股盘前延续涨势，Cloudflare大涨超15%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 17:26:11",
+    "uuid": "38d1368d-9e08-4bbf-9fba-dcfef85b319f"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "界面" },
       { "siteName": "36Kr" },
@@ -1073,6 +1230,24 @@
     "up": false,
     "date": "2026-02-11 16:32:32",
     "uuid": "2c1e6d07-9642-4335-82fa-bd0508a1c601"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "里昂发布研报称，字节跳动发布Seedance 2.0视频模型是全球娱乐业决定性时刻，标志AIGC将在短视频等平台广泛普及，颠覆从内容制作端开始，微短剧行业和IP拥有者近期或受益，阅文集团也将受益 ...",
+    "id": "8qed9vR7cyw",
+    "order": 1770823960759,
+    "createdAt": "2026-02-11T08:28:40.000Z",
+    "publishDate": "2026-02-11T15:32:40.759Z",
+    "title": "里昂：字节Seedance 2.0发布属全球娱乐行业关键时刻 阅文集团料受益",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-11 16:28:40",
+    "uuid": "dac6d3c9-9e79-4aac-9ff0-d12df0a9c6e6"
   },
   {
     "newsArray": [
