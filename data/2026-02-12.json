@@ -1,6 +1,103 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "泽连斯基12日称，俄罗斯用25枚导弹（含“伊斯坎德尔”导弹）和219架无人机对乌多座城市发动大规模空袭，造成2死10多人伤 ...",
+    "id": "8qgowlFMP6I",
+    "order": 1770896775408,
+    "createdAt": "2026-02-12T11:46:16.000Z",
+    "publishDate": "2026-02-12T11:46:15.408Z",
+    "title": "乌克兰称多地遭俄军空袭 30万人停水断电",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 19:46:16",
+    "uuid": "7550bf51-ff20-4e73-b86c-f685251668c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "嘉美包装公告，若公司股票价格进一步异常上涨，可能再次申请停牌核查。深交所官网显示，公司股票近期已被重点监控 ...",
+    "id": "8qgphnUCO8Z",
+    "order": 1770896642066,
+    "createdAt": "2026-02-12T11:44:03.000Z",
+    "publishDate": "2026-02-12T11:44:02.066Z",
+    "title": "嘉美包装：如未来股票价格进一步异常上涨，公司可能再次申请停牌核查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 19:44:03",
+    "uuid": "a6426ac8-5d9a-43a2-969b-cbeed9d4ac79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国教师保险与年金协会旗下投资管理公司Nuveen将以99亿英镑（135亿美元）收购英国老牌家族企业施罗德，合并集团资产管理规模约2.5万亿美元，将成全球靠前的主动管理巨头。",
+    "id": "8qgaltWPYVl",
+    "order": 1770896561188,
+    "createdAt": "2026-02-12T11:42:41.000Z",
+    "publishDate": "2026-02-12T11:42:41.188Z",
+    "title": "Nuveen将以百亿英镑收购施罗德 终止其两百年独立史",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 19:42:41",
+    "uuid": "ad25628d-1736-4fdd-8cd7-9a196991b97e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2月10日，全国首个面向真实交易与产业转化的AI应用场景开放平台——全球人工智能应用场景中心LuckyMate.AI华强北旗舰店启用，该平台集AI技术展示、产业对接、城市应用于一体，可为“人工智能+”场景提供可落地、可运营、可持续的解决方案。",
+    "id": "8qgMKn9cI2O",
+    "order": 1770896053024,
+    "createdAt": "2026-02-12T11:34:13.000Z",
+    "publishDate": "2026-02-12T11:34:13.024Z",
+    "title": "全球人工智能应用场景中心落户深圳华强北",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 19:34:13",
+    "uuid": "ee41b623-1fd0-4522-959f-2aac36b7229e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "深圳市工业和信息化局印发《深圳市“人工智能+”先进制造业行动计划（2026—2027年）》，提出推动人工智能用于半导体产业链关键环节，优化相关领域和环节效率 ...",
+    "id": "8qgnapQvZEJ",
+    "order": 1770895542057,
+    "createdAt": "2026-02-12T11:25:43.000Z",
+    "publishDate": "2026-02-12T11:25:42.057Z",
+    "title": "深圳：以AI芯片为突破口做强半导体产业",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 19:25:43",
+    "uuid": "fb071947-ff47-4938-a8c9-f84e1cc6f0df"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
@@ -23,6 +120,44 @@
     "up": false,
     "date": "2026-02-12 19:22:55",
     "uuid": "322ac08b-a5fc-4586-80b0-9992d1c4324d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "深圳市工业和信息化局印发《深圳市“人工智能+”先进制造业行动计划（2026—2027年）》，提出到2027年，在“人工智能+”先进制造业领域建成国家人工智能应用中试基地（消费领域移动终端方向），建设工业智能体创新中心，组建工业知识联盟，开放百个应用场景等，形成“一基地、一中心、一联盟、百场景、多应用”格局，推动产业升级，助力新型工业化加快推进。",
+    "id": "8qgnXcQyzTg",
+    "order": 1770895470359,
+    "createdAt": "2026-02-12T11:12:21.000Z",
+    "publishDate": "2026-02-12T11:24:30.359Z",
+    "title": "深圳：到2027年在“人工智能+”先进制造业领域建成国家人工智能应用中试基地",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 19:12:21",
+    "uuid": "5894f615-4092-4f58-a8b3-8882375d796a"
   },
   {
     "newsArray": [
@@ -195,6 +330,24 @@
     "up": false,
     "date": "2026-02-12 18:45:32",
     "uuid": "ba33b6a3-6846-4bb2-a410-2e5ea2d04da7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "豫能控股发布异动公告，其参股投资标的所属互联网数据中心 IDC 是基础设施建设、运营及服务集合体，为相关机构提供服务器托管、运维等综合服务 ...",
+    "id": "8qgkejh0nJ2",
+    "order": 1770896448810,
+    "createdAt": "2026-02-12T10:27:31.000Z",
+    "publishDate": "2026-02-12T11:40:48.810Z",
+    "title": "2连板豫能控股：公司参股投资标的不属于算力芯片制造、算力租赁、云服务等行业",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 18:27:31",
+    "uuid": "77f875c7-c5e0-4caa-84c8-a89eb7d056b6"
   },
   {
     "newsArray": [
@@ -1742,6 +1895,36 @@
     "up": false,
     "date": "2026-02-12 09:29:18",
     "uuid": "4c227875-3645-4f38-a082-1da36f498588"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "12日是春运第十一天，国铁集团数据显示，当日预计发送旅客1505万人次，计划加开旅客列车2039列。",
+    "id": "8qg6fTzuAxe",
+    "order": 1770895649254,
+    "createdAt": "2026-02-12T01:06:48.000Z",
+    "publishDate": "2026-02-12T11:27:29.254Z",
+    "title": "今天全国铁路预计发送旅客1505万人次",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-12 09:06:48",
+    "uuid": "a67b5bc1-75bf-469d-bfc9-b01ce04c97a6"
   },
   {
     "newsArray": [
