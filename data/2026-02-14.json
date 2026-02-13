@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "据知情人士透露，SpaceX考虑在今年计划中的IPO中采用双重股权结构，此策略与马斯克为特斯拉构思的方案一致 ...",
+    "id": "8qizH4jGa2p",
+    "order": 1771008151353,
+    "createdAt": "2026-02-13T18:42:32.000Z",
+    "publishDate": "2026-02-13T18:42:31.353Z",
+    "title": "报道：SpaceX拟在IPO中采用双重股权结构，以强化马斯克的控制权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-14 02:42:32",
+    "uuid": "ab5f9897-139b-4350-b84e-62c7a89ef4b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "据知情人士透露，OpenAI 与两家被五角大楼选中参与为美军开发语音控制无人机群软件竞争的国防科技公司达成合作，其技术仅用于将战场指挥官语音命令翻译成无人机数字指令，不用于无人机群实际操作、武器集成或目标打击授权 ...",
+    "id": "8qixqMhH76y",
+    "order": 1771006979015,
+    "createdAt": "2026-02-13T18:23:00.000Z",
+    "publishDate": "2026-02-13T18:22:59.015Z",
+    "title": "OpenAI 参与美国「无人机群」竞赛，提供语音控制技术",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-14 02:23:00",
+    "uuid": "23f19eac-26df-4b08-8b1e-eddf0c2cd102"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "高盛推出新的定制股票篮子，以应对软件股动荡，押注更能抵御人工智能颠覆的企业。该软件板块配对交易篮子做多难以被人工智能取代的公司，如计算服务、数据基础设施等供应商，涵盖Cloudflare、微软等 ...",
+    "id": "8qiwVEbCQTs",
+    "order": 1771006940913,
+    "createdAt": "2026-02-13T18:22:21.000Z",
+    "publishDate": "2026-02-13T18:22:20.913Z",
+    "title": "软件股风声鹤唳之际 高盛推出“抗AI替代”主题股票篮子",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-14 02:22:21",
+    "uuid": "b10dc837-3368-4d2c-acb8-2671bb770196"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
