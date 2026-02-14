@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "巴西反垄断监管机构 CADE 开始调查微软，指控其间接逼迫部分 OEM 厂商独家捆绑 Edge 浏览器 ...",
+    "id": "8qkJVhdS2pF",
+    "order": 1771079497654,
+    "createdAt": "2026-02-14T14:31:38.000Z",
+    "publishDate": "2026-02-14T14:31:37.654Z",
+    "title": "巴西反垄断机构调查微软，指其逼迫 OEM 厂独家捆绑 Edge 浏览器",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-14 22:31:38",
+    "uuid": "3c10ed96-8287-464c-be0b-2a44926539e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "摩尔线程在旗舰级AI训推一体全功能GPU MTT S5000上，成功实现对MiniMax新一代大模型MiniMax M2.5的Day - 0极速适配。",
+    "id": "8qkLaUR8zLP",
+    "order": 1771078977375,
+    "createdAt": "2026-02-14T14:22:58.000Z",
+    "publishDate": "2026-02-14T14:22:57.375Z",
+    "title": "摩尔线程完成MiniMax M2.5模型极速适配",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-14 22:22:58",
+    "uuid": "61c4b000-88a3-47e2-87bf-7e80ff8c2feb"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
