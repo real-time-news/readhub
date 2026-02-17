@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "马斯克称Grok 4.2候选版现已开放公测，需手动选择使用，诚邀反馈。与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
+    "id": "8qpeLvHPcpP",
+    "order": 1771354992539,
+    "createdAt": "2026-02-17T19:03:13.000Z",
+    "publishDate": "2026-02-17T19:03:12.539Z",
+    "title": "马斯克：Grok 4.2候选版现已开放公测",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-18 03:03:13",
+    "uuid": "5797bbe1-5ff7-40a7-a7c7-0a79836cc2a5"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
