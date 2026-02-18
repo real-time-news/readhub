@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2月19日凌晨，上海交通大学医学院附属新华医院与上海交通大学联合团队研发出能看罕见病的人工智能系统DeepRare，相关成果于北京时间2月19日在国际顶尖期刊《自然》上发表，该系统被称作全球首个“推理过程可追溯”的罕见病智能医生。",
+    "id": "8qrHnd2Zhn7",
+    "order": 1771440111901,
+    "createdAt": "2026-02-18T18:41:51.000Z",
+    "publishDate": "2026-02-18T18:41:51.901Z",
+    "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-19 02:41:51",
+    "uuid": "74c78a97-0563-4be0-9919-adcbf48e2086"
+  },
+  {
+    "newsArray": [
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "由李飞飞创立的初创公司World Labs在新一轮融资中募集10亿美元，探索全新AI开发路径。欧特克投资2亿美元，其他参投者包括Andreessen Horowitz、英伟达和AMD。",
+    "id": "8qrC5idQQ14",
+    "order": 1771440096721,
+    "createdAt": "2026-02-18T18:31:29.000Z",
+    "publishDate": "2026-02-18T18:41:36.721Z",
+    "title": "李飞飞的人工智能初创公司World Labs融资10亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-19 02:31:29",
+    "uuid": "0f2c0af1-9e7b-4063-8677-f8616863d28f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "为支持特朗普的《人工智能行动计划》，美国财政部宣布完成一项加强金融服务领域人工智能网络安全和风险管理的公私合作倡议 ...",
+    "id": "8qrGLyjQC9k",
+    "order": 1771438920315,
+    "createdAt": "2026-02-18T18:22:00.000Z",
+    "publishDate": "2026-02-18T18:22:00.315Z",
+    "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-19 02:22:00",
+    "uuid": "26b31652-a4e0-43d7-84e1-6ad47607b4d3"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "凤凰科技" },
