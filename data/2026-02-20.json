@@ -1,6 +1,46 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国2月标普全球制造业PMI初值为51.2，预期52.6，前值52.4。服务业PMI初值为52.3，预期53，前值52.7。",
+    "id": "8quLtFzwgRi",
+    "order": 1771599785102,
+    "createdAt": "2026-02-20T15:03:05.000Z",
+    "publishDate": "2026-02-20T15:03:05.102Z",
+    "title": "美国2月标普全球制造业PMI初值为51.2，预期52.6，前值52.4",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-20 23:03:05",
+    "uuid": "2b8f1b84-f4c4-470f-990f-2dd083fe724e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "Open AI超200人在开发基于人工智能技术的设备，含智能音箱、可能还有智能眼镜和智能灯。其首款设备智能音箱价格或在200至300美元间，据两名知情人士称将配备摄像头，可进行拍照等功能。",
+    "id": "8quJ0toS4HA",
+    "order": 1771599767480,
+    "createdAt": "2026-02-20T14:22:14.000Z",
+    "publishDate": "2026-02-20T15:02:47.480Z",
+    "title": "Open AI 在开发一系列基于人工智能技术的设备",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-20 22:22:14",
+    "uuid": "bf522cd2-3785-4021-9a9d-8de9091f61cd"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
@@ -1261,6 +1301,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI首席全球事务官克里斯·勒哈恩称，该初创公司正与在芯片供应上给予“支持”的战略合作伙伴合作，高管对供应链问题保持警惕以验证供应可用性 ...",
+    "id": "8qtFKltWwqB",
+    "order": 1771601032194,
+    "createdAt": "2026-02-20T01:24:10.000Z",
+    "publishDate": "2026-02-20T15:23:52.194Z",
+    "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-20 09:24:10",
+    "uuid": "ae090718-7a23-4245-9642-9446a7bc162e"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "金融界" },
       { "siteName": "IT 之家" }
@@ -1385,5 +1442,60 @@
     "up": false,
     "date": "2026-02-20 05:22:19",
     "uuid": "f072abaf-ac34-464a-acf9-b52eb4676357"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "在印度人工智能峰会活动现场，总理莫迪组织 13 位商界和政界领袖合影，要求大家站成一排、双手举过头顶并与身旁人相握，但 OpenAI 的 CEO Sam Altman 和 Anthropic 的 CEO 达里奥・阿莫代伊相邻却拒绝执手相握，只是交叉双臂举在空中并回避眼神接触 ...",
+    "id": "8qsfXoSf4Mv",
+    "order": 1771601071525,
+    "createdAt": "2026-02-19T20:41:53.000Z",
+    "publishDate": "2026-02-20T15:24:31.525Z",
+    "title": "印度 AI 峰会出现尴尬一幕：OpenAI 与 Anthropic 掌门人拒绝牵手",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-20 04:41:53",
+    "uuid": "b26e7d10-76a4-469a-a41b-46e16fc36b53"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "AMD将支持3亿美元的Crusoe贷款，该贷款来自高盛集团，由芯片产品担保。",
+    "id": "8qsyAl1xaQw",
+    "order": 1771601121478,
+    "createdAt": "2026-02-19T19:02:52.000Z",
+    "publishDate": "2026-02-20T15:25:21.478Z",
+    "title": "AMD将支持3亿美元Crosoe贷款",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-20 03:02:52",
+    "uuid": "251c6ef9-72dc-499b-a832-1cdd20e74558"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "太平洋电脑网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "李飞飞创立的 World Labs 宣布成功斩获 10 亿美元新一轮融资，投资人包括英伟达、AMD、Autodesk 等顶级资本与科技巨头 ...",
+    "id": "8qsBX7wx2O8",
+    "order": 1771601161130,
+    "createdAt": "2026-02-19T17:02:45.000Z",
+    "publishDate": "2026-02-20T15:26:01.130Z",
+    "title": "李飞飞初创公司World Labs融资10亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-02-20 01:02:45",
+    "uuid": "54557de7-32db-4918-a208-10962024d04a"
   }
 ]
