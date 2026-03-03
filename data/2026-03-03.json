@@ -1,6 +1,129 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "沪锡主力合约日内跌超11%，现报399020元/吨。",
+    "id": "8rBi90JmHn7",
+    "order": 1772521481392,
+    "createdAt": "2026-03-03T07:04:42.000Z",
+    "publishDate": "2026-03-03T07:04:41.392Z",
+    "title": "沪锡主力合约大跌超11%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 15:04:42",
+    "uuid": "8dc76f0a-35c4-40e6-ab6a-34c9a898796c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "日经225指数收跌3.06%，报56279.05点.韩国KOSPI指数收跌7.24%，报5791.91点.",
+    "id": "8rC25U1xT1W",
+    "order": 1772520454632,
+    "createdAt": "2026-03-03T06:47:34.000Z",
+    "publishDate": "2026-03-03T06:47:34.632Z",
+    "title": "日韩股市大幅收跌，韩国KOSPI指数跌超7%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 14:47:34",
+    "uuid": "a9fcff5e-3b45-40fc-a4a3-f198ead21f30"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "阿里桌面Agent QoderWork全面开放，提供Mac和Windows版本，所有用户可通过官网下载使用。",
+    "id": "8rC1QndGrMU",
+    "order": 1772520398680,
+    "createdAt": "2026-03-03T06:46:38.000Z",
+    "publishDate": "2026-03-03T06:46:38.680Z",
+    "title": "阿里桌面Agent QoderWork全面开放",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 14:46:38",
+    "uuid": "669113cc-e4ca-4ef5-bf89-347623047533"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "一位高管称，日本生命保险公司在1月日本国债收益率创新高时加快长期日本国债购买步伐，认为收益率可能很快再达此前高位 ...",
+    "id": "8rBs6F5XZgq",
+    "order": 1772520298223,
+    "createdAt": "2026-03-03T06:44:58.000Z",
+    "publishDate": "2026-03-03T06:44:58.223Z",
+    "title": "日本最大寿险公司加快对日债的购买步伐",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 14:44:58",
+    "uuid": "93c71de8-c18f-42c8-9c4e-f4b0d52a75d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果的 AI 硬件战略面临严峻挑战，Apple Intelligence 功能使用率低，内部基础架构碎片化，高达 90% 的私有云计算服务器闲置，算力实际部署比例仅 10% ...",
+    "id": "8rBh043WbNG",
+    "order": 1772520228686,
+    "createdAt": "2026-03-03T06:43:48.000Z",
+    "publishDate": "2026-03-03T06:43:48.686Z",
+    "title": "消息称约 90% 苹果私有云算力被闲置",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 14:43:48",
+    "uuid": "61581731-ae10-4ff0-ab63-a764035e3ed4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "天眼查显示，近日小米汽车科技有限公司申请的“车牌定制方法、装置、车辆、终端和存储介质”专利公布 ...",
+    "id": "8rC0hg1uRtx",
+    "order": 1772520094080,
+    "createdAt": "2026-03-03T06:41:34.000Z",
+    "publishDate": "2026-03-03T06:41:34.080Z",
+    "title": "小米汽车公布车牌定制专利",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 14:41:34",
+    "uuid": "b4e166f0-e46e-417e-86b3-57ea246fcd38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "网易科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "Anthropic 旗下 AI 编程工具 Claude Code 推出官方语音模式，具备实时语音转录、解放双手高效协作、原生集成稳定可靠等功能，主要应用于 CLI 终端开发、PR 审查、多任务并行等场景。",
+    "id": "8rBqlJ95tN2",
+    "order": 1772519530829,
+    "createdAt": "2026-03-03T06:32:10.000Z",
+    "publishDate": "2026-03-03T06:32:10.829Z",
+    "title": "Anthropic 为 Claude Code 推出语音模式，支持实时转录与混合输入",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 14:32:10",
+    "uuid": "df849893-59e7-4585-a3c0-5c05df4d5473"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
@@ -364,6 +487,24 @@
     "up": false,
     "date": "2026-03-03 12:08:14",
     "uuid": "3d75a20d-6882-4a13-bb56-f98e5d88812d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "港股AI应用股逆市活跃，MINIMAX涨超15%，汇量科技涨超12%，智谱涨超8%，海致科技集团涨超6% ...",
+    "id": "8rBgfkNzJxm",
+    "order": 1772521277414,
+    "createdAt": "2026-03-03T04:07:52.000Z",
+    "publishDate": "2026-03-03T07:01:17.414Z",
+    "title": "港股AI应用股逆市活跃，MINIMAX涨超15%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 12:07:52",
+    "uuid": "dcae76f5-f00d-46c3-9c45-177c5c48a08e"
   },
   {
     "newsArray": [
