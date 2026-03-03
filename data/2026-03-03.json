@@ -1,6 +1,97 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "awtmt.com_news" }
+    ],
+    "summary": "苹果公司宣布推出搭载M5芯片的新款MacBook Air，带来卓越性能与增强的AI能力。M5芯片配备更快CPU和新一代GPU，可应对各类工作流程 ...",
+    "id": "8rCXdOeVQQH",
+    "order": 1772548005997,
+    "createdAt": "2026-03-03T14:26:45.000Z",
+    "publishDate": "2026-03-03T14:26:45.997Z",
+    "title": "苹果发布搭载M5芯片MacBook Air，起始存储翻倍、AI能力升级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 22:26:45",
+    "uuid": "f6816668-7dcc-41f9-b7c7-49e0c5147dd1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "法国航运集团达飞海运宣布即日起暂停巴林、科威特、卡塔尔港口订舱服务，同时暂停阿联酋、沙特阿拉伯、伊拉克部分港口订舱服务，直至另行通知。",
+    "id": "8rCXZ58hj7d",
+    "order": 1772547975275,
+    "createdAt": "2026-03-03T14:26:15.000Z",
+    "publishDate": "2026-03-03T14:26:15.275Z",
+    "title": "法国航运集团达飞海运：即日起暂停巴林、科威特、卡塔尔港口的订舱服务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 22:26:15",
+    "uuid": "fdc3be11-3c6c-4dc6-b984-eabc3942debc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "伊拉克开始关闭鲁迈拉油田的石油产出，原因是储油设施已满。",
+    "id": "8rCYyI0Zjz1",
+    "order": 1772547899104,
+    "createdAt": "2026-03-03T14:24:59.000Z",
+    "publishDate": "2026-03-03T14:24:59.104Z",
+    "title": "伊拉克开始关停RUMAILA的石油生产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 22:24:59",
+    "uuid": "5ac97556-f6a0-4e29-8681-de62f6aa8f44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "因市场参与者应对中东冲突长期化及其带来的通胀风险，衡量欧洲信用风险的指标创2025年4月以来最大单日涨幅，追踪垃圾级信用违约掉期的iTraxx Crossover指数一度飙升17.4个基点至281.1个基点，衡量投资级CDS的iTraxx Main指数上涨多达3.8个基点至60.2个基点，扣除指数滚动换仓因素后，两项指数波动幅度均创去年特朗普计划实施全面关税扰乱市场以来最大涨幅。",
+    "id": "8rCYxiUjI0B",
+    "order": 1772547776341,
+    "createdAt": "2026-03-03T14:22:56.000Z",
+    "publishDate": "2026-03-03T14:22:56.341Z",
+    "title": "欧洲信用风险指标创去年4月特朗普关税动荡以来最大增幅",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 22:22:56",
+    "uuid": "749387c0-b9ee-4e2a-9289-10ae7a2ef87c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "巴西地理统计局报告显示，2025年巴西国内生产总值为12.7万亿雷亚尔，比上一年增长2.3%，标志着巴西经济连续五年实现增长。",
+    "id": "8rCW7aMofQ0",
+    "order": 1772546511650,
+    "createdAt": "2026-03-03T14:01:58.000Z",
+    "publishDate": "2026-03-03T14:01:51.650Z",
+    "title": "巴西经济连续五年实现增长",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 22:01:58",
+    "uuid": "c18b79cb-cac9-4e54-8f23-8dc4607d49f3"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
@@ -15,6 +106,24 @@
     "up": false,
     "date": "2026-03-03 21:47:12",
     "uuid": "ced43845-cf11-4f38-8a55-ca54078296c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "新年开工，小鹏汽车董事长何小鹏称自动驾驶的DeepSeek时刻到来。3月2日，他宣布小鹏第二代VLA将于本月下旬全量推送，这是面向完全自动驾驶的首个版本，将快速迭代，他预言完全自动驾驶1 - 3年内到来 ...",
+    "id": "8rC3cIVDhrl",
+    "order": 1772546601765,
+    "createdAt": "2026-03-03T13:46:48.000Z",
+    "publishDate": "2026-03-03T14:03:21.765Z",
+    "title": "推送第二代VLA，小鹏用量产车和Robotaxi同步押注L4",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 21:46:48",
+    "uuid": "b172d720-c2ba-4b2e-925b-1492796c7252"
   },
   {
     "newsArray": [
@@ -991,6 +1100,24 @@
     "up": false,
     "date": "2026-03-03 17:20:22",
     "uuid": "8ea779ac-7695-4a36-ad78-08c2976a9fb1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "浙江医药公告，下属子公司新码生物拟实施C轮增资，引入六名战略投资者，C轮投资人以6.21亿元增资款认购新增注册资本561万元，获增资后约16.4018%股权 ...",
+    "id": "8rC9GVd1Tbo",
+    "order": 1772547983441,
+    "createdAt": "2026-03-03T09:01:10.000Z",
+    "publishDate": "2026-03-03T14:26:23.441Z",
+    "title": "浙江医药：子公司新码生物拟实施C轮增资并引入六名战略投资者",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 17:01:10",
+    "uuid": "14641fd1-01d4-405f-98a6-15432d1d8c7e"
   },
   {
     "newsArray": [
