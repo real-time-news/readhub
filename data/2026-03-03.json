@@ -1,6 +1,132 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "上期所公告，2026年3月3日，5组实际控制关系账户在相关合约上账户组日内开仓交易量超限达处理标准，违反《上海期货交易所异常交易行为管理办法》第16条规定，交易所决定对相关客户在相应合约上采取限制开仓监管措施。",
+    "id": "8rCF0eKnUc1",
+    "order": 1772531470963,
+    "createdAt": "2026-03-03T09:51:10.000Z",
+    "publishDate": "2026-03-03T09:51:10.963Z",
+    "title": "上期所：对部分客户采取限制开仓监管措施",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 17:51:10",
+    "uuid": "f1fa8983-5671-4939-91a6-da893c3c5fe2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "雷锋网" }
+    ],
+    "summary": "在 iCAR V27 技术发布会上，iCAR 品牌事业部总经理苏峻宣布“家庭新硬派”SUV iCAR V27 于 3 月 13 日上市，将推 3 款配置车型并全系标配高通 8295P 芯片 ...",
+    "id": "8rC99JRrnBH",
+    "order": 1772530946181,
+    "createdAt": "2026-03-03T09:42:26.000Z",
+    "publishDate": "2026-03-03T09:42:26.181Z",
+    "title": "iCAR V27“家庭新硬派”SUV 官宣 3 月 13 日上市，搭载地平线 HSD 系统",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 17:42:26",
+    "uuid": "eb7ff945-f558-4a42-a5c4-fd1852495695"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国亚马逊公司斥资4.27亿美元收购美国乔治·华盛顿大学弗吉尼亚科学与技术校区（位于弗吉尼亚州阿什本），以加快人工智能基础设施建设，还将在校区内建设一个数据或信息技术中心。",
+    "id": "8rCDYSZoccJ",
+    "order": 1772530380579,
+    "createdAt": "2026-03-03T09:28:38.000Z",
+    "publishDate": "2026-03-03T09:33:00.579Z",
+    "title": "亚马逊花逾4亿美元购美知名高校校区用于AI建设",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 17:28:38",
+    "uuid": "71c3518e-bd54-456b-8c37-6f42a463ca21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "央行公布2026年1月流动性投放情况，MLF净投放3000亿元，7天期逆回购净回笼1205亿元，公开国债买卖净投放500亿元。",
+    "id": "8rCCebBRpPw",
+    "order": 1772529892933,
+    "createdAt": "2026-03-03T09:24:52.000Z",
+    "publishDate": "2026-03-03T09:24:52.933Z",
+    "title": "中国央行：2月公开市场国债买卖净投放500亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 17:24:52",
+    "uuid": "9ef96f83-0590-4a2b-8f7f-c40b66386a59"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "钛媒体" },
+      { "siteName": "猎云网" }
+    ],
+    "summary": "近日，易慕峰生物完成近2亿元人民币Pre - IPO轮融资，由高榕创投、济峰资本领投，深天使、明道投资共同参与，老股东约印医疗基金持续加注，华兴资本担任独家财务顾问，累计融资超6亿元。",
+    "id": "8rCCCQRfKvz",
+    "order": 1772530391331,
+    "createdAt": "2026-03-03T09:21:22.000Z",
+    "publishDate": "2026-03-03T09:33:11.331Z",
+    "title": "易慕峰完成近2亿元Pre-IPO轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 17:21:22",
+    "uuid": "b3764822-8c38-4e40-bbda-4cff8d243c16"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "央行公告，根据相关合作备忘录，决定授权中国银行科伦坡分行担任斯里兰卡人民币清算行。",
+    "id": "8rCCdfWK28n",
+    "order": 1772529622711,
+    "createdAt": "2026-03-03T09:20:22.000Z",
+    "publishDate": "2026-03-03T09:20:22.711Z",
+    "title": "央行：授权中国银行股份有限公司科伦坡分行担任斯里兰卡人民币清算行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 17:20:22",
+    "uuid": "8ea779ac-7695-4a36-ad78-08c2976a9fb1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "智元机器人（AGIBOT）在世界移动通信大会宣布其海外官方独立站（store.agibot.com）正式上线，该平台集成产品展示、“直采”与“租赁”购买模式及商务咨询与定制化解决方案服务 ...",
+    "id": "8rC99OJbORt",
+    "order": 1772529630880,
+    "createdAt": "2026-03-03T08:55:47.000Z",
+    "publishDate": "2026-03-03T09:20:30.880Z",
+    "title": "智元机器人海外独立站正式上线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 16:55:47",
+    "uuid": "5247d428-a144-4726-94c8-ceb8b4ff1910"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" },
       { "siteName": "aibase" }
@@ -15,6 +141,23 @@
     "up": false,
     "date": "2026-03-03 16:55:47",
     "uuid": "03775874-9289-4901-a6fd-6984c3895d20"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "AI编程助手公司Cursor年化营收已突破20亿美元，过去三个月收入规模翻倍，回应了此前用户增长放缓的质疑 ...",
+    "id": "8rBmUOefGds",
+    "order": 1772530445657,
+    "createdAt": "2026-03-03T08:33:37.000Z",
+    "publishDate": "2026-03-03T09:34:05.657Z",
+    "title": "Cursor年化营收突破20亿美元，企业客户成增长主力",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 16:33:37",
+    "uuid": "ac0082ee-01b8-4f5f-a1c7-241f676629e9"
   },
   {
     "newsArray": [
@@ -69,6 +212,23 @@
     "up": false,
     "date": "2026-03-03 16:24:29",
     "uuid": "aa229729-a554-4cdb-b1d9-5fd48ab2397e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "阿里健康与美年健康签署战略合作协议，围绕护理服务协同、线上线下资源整合、医药健康联动打造标准化、智能化上门护理服务体系，提升护理服务可及性与用户体验，助力行业规范发展。",
+    "id": "8rBkysVsq5F",
+    "order": 1772530462017,
+    "createdAt": "2026-03-03T08:19:05.000Z",
+    "publishDate": "2026-03-03T09:34:22.017Z",
+    "title": "阿里健康与美年健康达成战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 16:19:05",
+    "uuid": "64a4143b-823b-4665-a042-ce9dd7651948"
   },
   {
     "newsArray": [
@@ -262,6 +422,26 @@
     "up": false,
     "date": "2026-03-03 15:04:42",
     "uuid": "8dc76f0a-35c4-40e6-ab6a-34c9a898796c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "泡泡玛特（09992.HK）股价低开低走，截至发稿跌超4%，报收214.2港元/股，总市值约2875亿港元，盘中一度大跌近5%，创2月以来股价新低 ...",
+    "id": "8rBpGCZulOI",
+    "order": 1772530315113,
+    "createdAt": "2026-03-03T06:53:26.000Z",
+    "publishDate": "2026-03-03T09:31:55.113Z",
+    "title": "泡泡玛特大跌近5%，此前起诉帮用户实现LABUBU自由的3D打印公司",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 14:53:26",
+    "uuid": "6e32edd8-4270-4166-9ba6-42401e408f6d"
   },
   {
     "newsArray": [
