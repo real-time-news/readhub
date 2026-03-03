@@ -1,6 +1,177 @@
 [
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "肯德基为旗下 App 及部分合作车机上线基于阿里千问大模型的 AI 点餐智能体“小 K”，它能识别用户自然语言点餐。如用户提出工作餐需求，“小 K”可生成对应套餐 ...",
+    "id": "8rAdiXuW0Zd",
+    "order": 1772504841281,
+    "createdAt": "2026-03-03T02:27:21.000Z",
+    "publishDate": "2026-03-03T02:27:21.281Z",
+    "title": "肯德基上线 AI 点餐助手“小 K”，基于阿里千问大模型打造",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 10:27:21",
+    "uuid": "c804ea23-7795-485b-8c31-91c463e50821"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "菲律宾股指上涨1%，至6,493.49点。",
+    "id": "8rA3EdFMcC7",
+    "order": 1772504691698,
+    "createdAt": "2026-03-03T02:24:51.000Z",
+    "publishDate": "2026-03-03T02:24:51.698Z",
+    "title": "菲律宾股指上涨1%至6,493.49点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 10:24:51",
+    "uuid": "c57840ce-5618-45c2-b1ae-66b6d9d4ca40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "2026世界移动通信大会在西班牙巴塞罗那开幕，紫光同芯展示下一代eSIM芯片THC9E。该芯片创新性地将地面与卫星网络鉴权能力融合，实现全域无缝连接 ...",
+    "id": "8rBbhwcF0gG",
+    "order": 1772504659211,
+    "createdAt": "2026-03-03T02:24:19.000Z",
+    "publishDate": "2026-03-03T02:24:19.211Z",
+    "title": "紫光同芯下一代eSIM芯片THC9E正式亮相：融合卫星网络 永不失联",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 10:24:19",
+    "uuid": "89ef443f-368c-48f7-83dc-e723218aa4dc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "碳酸锂主力合约日内跌幅达8%，报159460元/吨。",
+    "id": "8rBi8XzIT9a",
+    "order": 1772504610869,
+    "createdAt": "2026-03-03T02:23:30.000Z",
+    "publishDate": "2026-03-03T02:23:30.869Z",
+    "title": "碳酸锂主力合约日内跌幅达8%，报159460元/吨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 10:23:30",
+    "uuid": "457d50c6-c95e-4cb2-b0b8-109b348f810f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "在巴塞罗那 MWC 2026 世界移动通信大会期间，华为数据存储产品线总裁袁远发布 AI 数据平台 ...",
+    "id": "8rBVE1fuatZ",
+    "order": 1772504214893,
+    "createdAt": "2026-03-03T02:16:54.000Z",
+    "publishDate": "2026-03-03T02:16:54.893Z",
+    "title": "华为在 MWC 2026 发布 AI 数据平台，首创“3+1”架构",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 10:16:54",
+    "uuid": "1455107e-e44f-4c5e-9bc3-79286aa093b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "指数走弱，深成指跌逾1%，沪指跌0.40%，创业板指跌0.10%，军工、有色金属、半导体芯片等跌幅居前，沪深京三市近3600只个股下跌。",
+    "id": "8rBi94grD0t",
+    "order": 1772503753961,
+    "createdAt": "2026-03-03T02:09:13.000Z",
+    "publishDate": "2026-03-03T02:09:13.961Z",
+    "title": "深成指跌逾1% 下跌个股近3600只",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 10:09:13",
+    "uuid": "865fdde6-23b7-435c-bb64-23eea65301c6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "3月3日是春运第30天，自2月2日春运启动以来已累计发送旅客4.07亿人次，当天全国铁路预计发送旅客1070万人次，计划加开旅客列车743列。",
+    "id": "8rBgdsWWfBh",
+    "order": 1772503695270,
+    "createdAt": "2026-03-03T02:08:15.000Z",
+    "publishDate": "2026-03-03T02:08:15.270Z",
+    "title": "全国铁路今天预计发送旅客1070万人次",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 10:08:15",
+    "uuid": "ab2aff85-2b95-44f6-a353-6079e6d161ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "为维护平台生态，保护用户与公众人物合法权益，微信平台打击利用AI技术仿冒名人的违规行为 ...",
+    "id": "8rAixqXjSmc",
+    "order": 1772503624195,
+    "createdAt": "2026-03-03T02:07:04.000Z",
+    "publishDate": "2026-03-03T02:07:04.195Z",
+    "title": "微信严打AI仿冒名人 千余账号被处置 多人被永久封禁",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 10:07:04",
+    "uuid": "ad1137ef-677c-4b0d-bd03-6732977943e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "指数高开回落，创业板指翻绿，此前一度涨超1%，沪指回落跌近0.3%，深成指跌近0.8%。",
+    "id": "8rBgf6z9QXg",
+    "order": 1772503609312,
+    "createdAt": "2026-03-03T02:06:50.000Z",
+    "publishDate": "2026-03-03T02:06:49.312Z",
+    "title": "三大指数全部翻绿，创业板指此前一度涨超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-03 10:06:50",
+    "uuid": "1946a75e-4733-41ea-b74b-ce7c4e449a99"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
