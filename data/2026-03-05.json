@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "本轮冲突中，伊朗伊斯兰革命卫队首次使用“哈迪德110”高速无人机，据伊军方此前消息，它是新型高速自杀攻击型无人机，采用火箭助推发射，最高时速500公里，为目前伊朗速度最快的自杀攻击型无人机。",
+    "id": "8rEajg3SKck",
+    "order": 1772656921473,
+    "createdAt": "2026-03-04T20:42:02.000Z",
+    "publishDate": "2026-03-04T20:42:01.473Z",
+    "title": "伊朗军方在冲突中首次使用“哈迪德110”高速无人机",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-05 04:42:02",
+    "uuid": "2fa2ca5a-5f31-48be-9764-065215713022"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -59,6 +76,23 @@
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
     ],
+    "summary": "谷歌与Epic达成和解协议后，将在全区下调APP开发者费用。",
+    "id": "8rEV0joGN5x",
+    "order": 1772655702741,
+    "createdAt": "2026-03-04T18:22:01.000Z",
+    "publishDate": "2026-03-04T20:21:42.741Z",
+    "title": "谷歌将下调 App 开发者费用",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-05 02:22:01",
+    "uuid": "27f83c28-edea-4d13-b0e6-8ed0eec4c804"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
     "summary": "伊朗卫生部声明，所有医疗中心全天候运转，为伤员及各类患者服务。战略储备充足，药品、婴儿配方奶粉和医疗设备无短缺。因人口向安全地区流动，相关物资分配配额已根据最新情况调整。",
     "id": "8rETe3PLPNX",
     "order": 1772647371201,
@@ -88,5 +122,49 @@
     "up": false,
     "date": "2026-03-05 01:03:34",
     "uuid": "cbab14da-e895-40a6-b0e8-e4b5601394d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "蓝点网" },
+      { "siteName": "雷科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "爱范儿" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "DoNews" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "智东西" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果在特别体验活动中推出全新产品 MacBook Neo，搭载 A18 Pro 芯片，定位入门级，是目前最便宜的 MacBook，起售价 4,599 元 ...",
+    "id": "8rEFNc3DIyB",
+    "order": 1772655767785,
+    "createdAt": "2026-03-04T16:08:05.000Z",
+    "publishDate": "2026-03-04T20:22:47.785Z",
+    "title": "苹果发布 MacBook Neo：搭载 A18 Pro 芯片，起售价 4599 元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-05 00:08:05",
+    "uuid": "0a8afeac-cda6-4c99-a2f6-e0399a914033"
   }
 ]
