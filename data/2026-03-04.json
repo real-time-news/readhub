@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "墨西哥 3 人小团队开发者因操作失误将 Google Gemini 的 API 密钥泄露至公网，48 小时收到约 59 万人民币的巨额账单，其平时每月使用费用仅 180 美元左右 ...",
+    "id": "8rDN2tG9mdc",
+    "order": 1772605706578,
+    "createdAt": "2026-03-04T06:28:26.000Z",
+    "publishDate": "2026-03-04T06:28:26.578Z",
+    "title": "开发者因泄露Gemini API 密钥遭遇 8.2 万美元账单，谷歌拒绝减免",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 14:28:26",
+    "uuid": "80a808b2-2911-451b-b528-cbdb941463ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "大钲资本竞得蓝瓶咖啡（Blue Bottle Coffee），即将和雀巢完成交易，数位知情人士证实该进展。接近瑞幸的人士称大钲买下蓝瓶咖啡全球门店，雀巢保留其咖啡机和胶囊业务 ...",
+    "id": "8rDeEtH5CvP",
+    "order": 1772605309403,
+    "createdAt": "2026-03-04T06:21:50.000Z",
+    "publishDate": "2026-03-04T06:21:49.403Z",
+    "title": "大钲资本据悉已与雀巢签约，将收购Blue Bottle",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 14:21:50",
+    "uuid": "11e31700-ae06-4c2b-bbfb-d5e132cc4395"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "TrendForce集邦咨询最新调查显示，生成式AI兴起使数据中心对高速传输需求提升，机柜内短距传输的铜缆方案在传输密度与节能上面临挑战，Micro LED CPO方案单位传输能耗低，可将整体能耗降至铜缆方案的5%，有望凭节能优势成光互连替代方案。",
+    "id": "8rDeAnufcfT",
+    "order": 1772604409471,
+    "createdAt": "2026-03-04T06:06:49.000Z",
+    "publishDate": "2026-03-04T06:06:49.471Z",
+    "title": "机构：Micro LED CPO开启数据中心互连新局 功耗降至铜缆5%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 14:06:49",
+    "uuid": "66ae03ef-5055-4ff9-bf96-b32755822c6a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "日本商业航天公司“太空一号”原定3月4日上午11时（北京时间10时）从纪伊太空发射场发射“凯洛斯”火箭3号，预定发射时间过后火箭未升空，发射被迫中止 ...",
+    "id": "8rDeBDXOVh5",
+    "order": 1772604309943,
+    "createdAt": "2026-03-04T06:05:09.000Z",
+    "publishDate": "2026-03-04T06:05:09.943Z",
+    "title": "日本商业航天公司第三次发射火箭未果",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 14:05:09",
+    "uuid": "dc2734bd-d983-4294-89b4-47966a205dda"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
