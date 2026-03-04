@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "南向资金今日净卖出4.66亿港元，阿里巴巴 - W、小米集团分别遭净卖出34.59亿港元、1.8亿港元，南方恒生科技获净买入约9.44亿港元。",
+    "id": "8rDucq4uJFC",
+    "order": 1772618631506,
+    "createdAt": "2026-03-04T10:03:51.000Z",
+    "publishDate": "2026-03-04T10:03:51.506Z",
+    "title": "阿里巴巴遭南向资金卖出超34亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 18:03:51",
+    "uuid": "e896ade5-c4bc-4a3f-a2c2-74a8022291b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "爱范儿" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "“鸿蒙智行”尊界发布全新一代896线四激光雷达技术，岚图汽车曝光代号FE的新车剪影，车顶布局显示有四颗激光雷达模组，新车或将搭载该全球最高规格感知硬件 ...",
+    "id": "8rDsUpYhlV8",
+    "order": 1772617949805,
+    "createdAt": "2026-03-04T09:52:29.000Z",
+    "publishDate": "2026-03-04T09:52:29.805Z",
+    "title": "岚图FE或将搭载尊界同款896线四激光雷达",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 17:52:29",
+    "uuid": "e1490a99-7fa3-4b4a-a084-ffdf25b6a839"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "今日国际DRAM颗粒现货价格有涨有跌，DDR4和DDR5部分颗粒下跌或稳定较多，DDR3部分颗粒整体上涨，其中DDR3 2Gb 256Mx8 1600/1866涨2.65%，均价3.875美元，DDR4 16Gb (2Gx8) 2666跌0.35%，均价70.75美元。",
+    "id": "8rDtsFsNoky",
+    "order": 1772617666599,
+    "createdAt": "2026-03-04T09:47:47.000Z",
+    "publishDate": "2026-03-04T09:47:46.599Z",
+    "title": "机构：DDR4和DDR5部分颗粒小幅下跌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 17:47:47",
+    "uuid": "bb3d1b95-6f09-4fc6-8001-c61435a61336"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "随着资本市场投资者需求升级，便捷高效的资金服务成行业竞争焦点，多家券商探索上线7×24小时银证转账服务，打破传统交易时段限制，实现资金“随转随用”，部分券商将其作为差异化竞争重点 ...",
+    "id": "8rDtsMmiW2O",
+    "order": 1772617637886,
+    "createdAt": "2026-03-04T09:47:17.000Z",
+    "publishDate": "2026-03-04T09:47:17.886Z",
+    "title": "多家券商试水7×24小时银证转账",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 17:47:17",
+    "uuid": "4178ec28-0618-4c1e-b27d-e726f7f367e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "蓝点网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "埃森哲昨日（3 月 3 日）宣布以 12 亿美元从 Ziff Davis 收购 Ookla，后者主营网速测试工具 Speedtest 和服务状态监控平台 Downdetector ...",
+    "id": "8rDTQGIfORs",
+    "order": 1772617342446,
+    "createdAt": "2026-03-04T09:42:22.000Z",
+    "publishDate": "2026-03-04T09:42:22.446Z",
+    "title": "埃森哲 12 亿美元收购测速软件 Speedtest 母公司 Ookla",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 17:42:22",
+    "uuid": "822bb8c6-f27c-4696-9ecc-91b8db4705ae"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -448,6 +534,24 @@
     "up": false,
     "date": "2026-03-04 15:12:36",
     "uuid": "67ed371e-3150-47b5-8cf6-99fd3a108f80"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "松下机电宣布投资75亿日元在中国新建Megtron电路板材料生产线，以应对日益增长的AI服务器需求。",
+    "id": "8rDiTrBxvzU",
+    "order": 1772617617374,
+    "createdAt": "2026-03-04T07:08:10.000Z",
+    "publishDate": "2026-03-04T09:46:57.374Z",
+    "title": "松下机电宣布投资75亿日元，在中国新建Megtron电路板材料生产线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 15:08:10",
+    "uuid": "bdb8087e-3ffd-4101-8b35-3ab8da0f5fcc"
   },
   {
     "newsArray": [
