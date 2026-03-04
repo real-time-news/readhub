@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "今天14:30，华为举办鸿蒙智行技术焕新发布会，推出全新一代激光雷达，问界M9与尊界S800首批搭载 ...",
+    "id": "8rDETWcThHo",
+    "order": 1772610521577,
+    "createdAt": "2026-03-04T07:48:41.000Z",
+    "publishDate": "2026-03-04T07:48:41.577Z",
+    "title": "华为今天发布全新一代激光雷达 问界M9、尊界S800双旗舰首发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 15:48:41",
+    "uuid": "55390310-36c7-483e-aca4-fb977960c8c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "阿联酋是重要航空中转地，部分中国游客滞留迪拜。3月2日晚间起，阿联酋航空和迪拜航空少量航班开始恢复运营，相关服务将分阶段全面恢复 ...",
+    "id": "8rDeAgJBtcE",
+    "order": 1772610416349,
+    "createdAt": "2026-03-04T07:46:56.000Z",
+    "publishDate": "2026-03-04T07:46:56.349Z",
+    "title": "迪拜经济与旅游部：航班开始分阶段恢复，全力保障受影响游客利益",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 15:46:56",
+    "uuid": "ce7c9898-fc46-40cd-97af-4534eb73ad52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "郑商所公告，自2026年3月4日结算时起，甲醇期货2604及2605合约交易保证金标准调为16%，涨跌停板幅度调为14% ...",
+    "id": "8rDlI3Vjg1N",
+    "order": 1772610160761,
+    "createdAt": "2026-03-04T07:42:40.000Z",
+    "publishDate": "2026-03-04T07:42:40.761Z",
+    "title": "郑商所：调整甲醇期货部分合约交易保证金标准和涨跌停板幅度",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 15:42:40",
+    "uuid": "617c2579-c1d3-4186-9bc3-5b005f0cb72c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌宣布，自 2026 年 9 月起，Chrome 浏览器稳定版发布节奏将从目前的四周一次加快到两周一次，以便更快速地向用户和开发者提供性能改进、问题修复以及新功能 ...",
+    "id": "8rDN1MMAlKj",
+    "order": 1772609670202,
+    "createdAt": "2026-03-04T07:34:30.000Z",
+    "publishDate": "2026-03-04T07:34:30.202Z",
+    "title": "谷歌宣布 Chrome 更新频率将改为“两周一更”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 15:34:30",
+    "uuid": "41fd2a36-a3c8-42b8-ba10-64ac054e581b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "大钲资本竞得蓝瓶咖啡，即将和雀巢完成交易，雀巢保留蓝瓶的咖啡机和胶囊业务，目前交易已签字，尚未完成交割 ...",
+    "id": "8rDiWpt9dPe",
+    "order": 1772608936702,
+    "createdAt": "2026-03-04T07:14:12.000Z",
+    "publishDate": "2026-03-04T07:22:16.702Z",
+    "title": "瑞幸咖啡实控方大钲资本将收购蓝瓶咖啡",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 15:14:12",
+    "uuid": "61d5cfbb-165c-4e31-a763-bcb7776273e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "和讯网" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "3 月 3 日下午，阿里巴巴最年轻的 P10 级技术负责人、千问大模型核心掌舵者林俊旸，在一场内部会议后与阿里产生分歧当场离开，并于几小时后在 X 平台宣布卸任 ...",
+    "id": "8rDfZea8i5O",
+    "order": 1772609302951,
+    "createdAt": "2026-03-04T07:13:46.000Z",
+    "publishDate": "2026-03-04T07:28:22.951Z",
+    "title": "阿里千问大模型核心掌舵者宣布离职，高层出面挽留",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 15:13:46",
+    "uuid": "ef89a442-3c19-4cd8-9ef5-dec66afdd639"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -16,6 +122,60 @@
     "up": false,
     "date": "2026-03-04 15:07:31",
     "uuid": "0011d00c-017b-45a2-b6a1-bb77a240eef5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "沃尔玛支持的数字支付应用程序PhonePe寻求在印度IPO中实现高达105亿美元的估值，目标在2026年4月前完成公开上市。",
+    "id": "8rDh15V1WJn",
+    "order": 1772609335727,
+    "createdAt": "2026-03-04T07:07:13.000Z",
+    "publishDate": "2026-03-04T07:28:55.727Z",
+    "title": "沃尔玛支持的数字支付应用PhonePe拟在印度上市，寻求至多105亿美元估值",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 15:07:13",
+    "uuid": "539a703f-ee80-4866-b0b6-297562a5fc1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "在鸿蒙智行技术发布会上，华为余承东称截至2026年3月3日，鸿蒙智行累计交付量达128万辆。",
+    "id": "8rDh2uNyuX4",
+    "order": 1772609341186,
+    "createdAt": "2026-03-04T07:06:57.000Z",
+    "publishDate": "2026-03-04T07:29:01.186Z",
+    "title": "鸿蒙智行累计交付量达128万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 15:06:57",
+    "uuid": "4cd3ede4-f691-4ff1-9d1a-9999327ae088"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI 正在考虑与北约达成协议，将其人工智能技术部署在北约“非机密”网络上 ...",
+    "id": "8rDKBGR4n8r",
+    "order": 1772609354121,
+    "createdAt": "2026-03-04T06:45:26.000Z",
+    "publishDate": "2026-03-04T07:29:14.121Z",
+    "title": "OpenAI据悉考虑与北约签订合同",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 14:45:26",
+    "uuid": "f2895e06-4e81-4cf0-bd1a-cdce4c9e9cfa"
   },
   {
     "newsArray": [
@@ -301,6 +461,24 @@
     "up": false,
     "date": "2026-03-04 13:03:33",
     "uuid": "b067b48d-05fe-46f3-833d-8d0435999f65"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "据报道，特朗普总统周二与Coinbase首席执行官Brian Armstrong举行私人会晤，此次会晤发生在特朗普在Truth Social针对推动市场结构法案的通过发布贴文前，不清楚两人讨论内容，Coinbase发言人拒绝置评，白宫尚未回应。",
+    "id": "8rDYPbvitAh",
+    "order": 1772609507551,
+    "createdAt": "2026-03-04T04:47:15.000Z",
+    "publishDate": "2026-03-04T07:31:47.551Z",
+    "title": "消息称特朗普周二与Coinbase首席执行官举行了私人会晤",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-04 12:47:15",
+    "uuid": "87d81ade-30aa-425d-8073-9ea9c5af8b5d"
   },
   {
     "newsArray": [
