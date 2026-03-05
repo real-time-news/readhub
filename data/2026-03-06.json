@@ -1,6 +1,24 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "芝商所（CME）将COMEX 100黄金期货初始保证金由9%下调至7%，COMEX 5000白银期货初始保证金由18%下调至14%。",
+    "id": "8rGMmrF7Ths",
+    "order": 1772745856534,
+    "createdAt": "2026-03-05T21:24:25.000Z",
+    "publishDate": "2026-03-05T21:24:16.534Z",
+    "title": "芝商所下调黄金期货、白银期货保证金比例",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-06 05:24:25",
+    "uuid": "adb148f5-3e9a-443a-8263-5546311c0d6f"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -33,6 +51,25 @@
     "up": false,
     "date": "2026-03-06 03:22:52",
     "uuid": "fcaffb17-89c8-4e17-aaf8-271a47b2d6a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "WTI原油向上触及81美元/桶，日内涨6.38%，创2024年7月以来最高水平。",
+    "id": "8rGBOX21hGP",
+    "order": 1772745866395,
+    "createdAt": "2026-03-05T19:02:57.000Z",
+    "publishDate": "2026-03-05T21:24:26.395Z",
+    "title": "美国原油价格延续涨势，创下2024年7月以来最高水平",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-06 03:02:57",
+    "uuid": "134a1978-6d11-43d0-9ac5-add7cd1acc11"
   },
   {
     "newsArray": [
