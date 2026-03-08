@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "3月8日起，北美地区开始实行夏令时，美国和加拿大金融市场交易时间和经济数据公布时间将较冬令时提前一小时。",
+    "id": "8rKM5U7fRGe",
+    "order": 1772953385623,
+    "createdAt": "2026-03-08T07:03:05.000Z",
+    "publishDate": "2026-03-08T07:03:05.623Z",
+    "title": "北美地区3月8日起开始实行夏令时",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-08 15:03:05",
+    "uuid": "7e7010bc-8b16-4aa7-a553-f55e0b1c269e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "本周二，“OpenClaw 官方微博”账号发首条动态，认证为“OpenClaw 开源社区”，引发国内科技行业关注，被部分媒体解读为 OpenClaw 正式进入中国市场的信号 ...",
+    "id": "8rKFd0dozEr",
+    "order": 1772952178681,
+    "createdAt": "2026-03-08T06:42:58.000Z",
+    "publishDate": "2026-03-08T06:42:58.681Z",
+    "title": "OpenClaw 创始人否认入驻微博等中文社交平台，谨防诈骗",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-08 14:42:58",
+    "uuid": "0089b6be-c594-4784-a632-c8f1202628e8"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
