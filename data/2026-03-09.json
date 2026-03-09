@@ -1,6 +1,117 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "上海期货交易所发布通知，自2026年3月10日（即3月9日夜盘）交易起，调整燃料油期货交易限额，非期货公司会员、境外特殊非经纪参与者、客户在燃料油期货各合约日内开仓交易最大数量为1500手，实际控制关系账户组按单个客户执行，套期保值和做市交易开仓数量不受此限。",
+    "id": "8rMAyWQjP4r",
+    "order": 1773048392904,
+    "createdAt": "2026-03-09T09:26:32.000Z",
+    "publishDate": "2026-03-09T09:26:32.904Z",
+    "title": "上期所：调整燃料油期货交易限额",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 17:26:32",
+    "uuid": "f7cbe4ff-dcd4-4983-b12d-28f8f46be57d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "三星电子工会成员本周将对一项为期18天的罢工计划投票，核心诉求是提高薪资待遇。三大工会组织于本周一至3月18日集中表决，若通过，员工将于5月21日至6月7日罢工 ...",
+    "id": "8rM38hz1ypz",
+    "order": 1773048334031,
+    "createdAt": "2026-03-09T09:25:34.000Z",
+    "publishDate": "2026-03-09T09:25:34.031Z",
+    "title": "薪酬谈判破裂 三星或迎来史上第二次大规模罢工",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 17:25:34",
+    "uuid": "a33e2ec0-0d02-40d9-bafd-48fd90b4eae4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "*ST精伦(600355.SH)公告，2026年3月9日公司股票收盘价1.01元，总市值4.97亿元，首次低于5亿元，若连续20个交易日总市值均低于5亿元，上交所将终止其股票上市 ...",
+    "id": "8rMAxjIhuFx",
+    "order": 1773048300530,
+    "createdAt": "2026-03-09T09:25:00.000Z",
+    "publishDate": "2026-03-09T09:25:00.530Z",
+    "title": "*ST精伦：公司股票可能因市值低于5亿元而终止上市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 17:25:00",
+    "uuid": "83f5baac-baf8-4a06-8739-d1e4aefd5788"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "上周林俊旸突然离职后，阿里于 3 月 9 日下午做出新管理安排：Qwen 模型一号位由阿里云 CTO 和通义实验室负责人周靖人代管，负责 Qwen 预训练的刘大一恒同时代管后训练和 Coding 团队，刘大一恒等向周靖人汇报 ...",
+    "id": "8rMAG12yNRO",
+    "order": 1773048175335,
+    "createdAt": "2026-03-09T09:22:55.000Z",
+    "publishDate": "2026-03-09T09:22:55.335Z",
+    "title": "消息称阿里云CTO周靖人代管千问模型一号位，刘大一恒管理更多团队",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 17:22:55",
+    "uuid": "67e75283-5191-45ee-afc3-badcd4a23b3c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国AI龙头MiniMax在港股市场大幅拉升，盘中最高冲至1000港元/股创上市以来新高，收盘涨23.77%报997港元，总市值超3100亿港元 ...",
+    "id": "8rM5KlDrYXQ",
+    "order": 1773047737908,
+    "createdAt": "2026-03-09T09:15:37.000Z",
+    "publishDate": "2026-03-09T09:15:37.908Z",
+    "title": "MiniMax发布龙虾新技能，股价暴涨超23%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 17:15:37",
+    "uuid": "deffdde5-a84f-4ad3-8570-4f094d5fc800"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "里昂发布研报，维持京东工业目标价21港元，重申“跑赢大市”评级 ...",
+    "id": "8rM9VWcff55",
+    "order": 1773047604635,
+    "createdAt": "2026-03-09T09:13:25.000Z",
+    "publishDate": "2026-03-09T09:13:24.635Z",
+    "title": "里昂：重申京东工业“跑赢大市”评级 目标价21港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 17:13:25",
+    "uuid": "98aadac0-9606-4a90-a5e1-ae37817d4037"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "新浪科技" },
       { "siteName": "IT 之家" },
@@ -387,6 +498,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "网易科技" },
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "网易科技" },
+      { "siteName": "微信公众号" }
+    ],
+    "summary": "本周日，热门智能体项目 OpenClaw 发布 2026.3.7 版本，其主线逐渐清晰，正从实验性智能体框架迈向成熟的 Agent 操作系统 ...",
+    "id": "8rLmfAAIlLv",
+    "order": 1773046580184,
+    "createdAt": "2026-03-09T06:21:45.000Z",
+    "publishDate": "2026-03-09T08:56:20.184Z",
+    "title": "OpenClaw 更新：支持 GPT-5.4，记忆热插拔，Star 量破 28 万",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 14:21:45",
+    "uuid": "13ca41eb-15bf-4cf3-b653-768dc25f7af3"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "新浪科技" },
       { "siteName": "格隆汇" },
@@ -682,6 +813,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "“十四五”时期，我国农业技术装备条件显著改善，农业现代化迈上新台阶。农业科技进步贡献率超64%，良种覆盖率超96%，农作物耕种收综合机械化率达76.7%，主要粮食作物全程机械化 ...",
+    "id": "8rLpVfhYQLS",
+    "order": 1773047766115,
+    "createdAt": "2026-03-09T04:23:29.000Z",
+    "publishDate": "2026-03-09T09:16:06.115Z",
+    "title": "农业农村部部长：去年农业领域使用无人机超30万架，居世界首位",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 12:23:29",
+    "uuid": "2e77d54d-3927-4a28-9e42-3c43ad7c63dd"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "新浪科技" },
       { "siteName": "凤凰科技" },
@@ -888,6 +1039,42 @@
     "up": false,
     "date": "2026-03-09 10:47:21",
     "uuid": "f79f0fd3-9ec9-4a15-ab37-48e31a9fe592"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "马来西亚KLCI指数日内下跌3%，至1666.15点。",
+    "id": "8rLe4kAcmON",
+    "order": 1773048072106,
+    "createdAt": "2026-03-09T02:45:28.000Z",
+    "publishDate": "2026-03-09T09:21:12.106Z",
+    "title": "马来西亚KLCI指数日内下跌3%，至1666.15点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 10:45:28",
+    "uuid": "46777d3d-df61-4a90-a5ad-f808d091c205"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "越南VN指数下跌6%，至1,661.37点。",
+    "id": "8rLiMVxfTQo",
+    "order": 1773047418194,
+    "createdAt": "2026-03-09T02:45:11.000Z",
+    "publishDate": "2026-03-09T09:10:18.194Z",
+    "title": "越南VN指数下跌6%，至1,661.37点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 10:45:11",
+    "uuid": "f354ef8f-786f-402b-93cf-c79ec71c3181"
   },
   {
     "newsArray": [
