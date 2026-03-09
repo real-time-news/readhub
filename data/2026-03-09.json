@@ -1,6 +1,131 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "黎巴嫩社会事务部长哈宁·赛义德8日称，在以色列持续袭击下，月初以来通过黎政府救助平台登记的流离失所人员约51.7万人，其中约11.7万人被安置在全国538个官方避难场所，她呼吁未登记人员尽快登记以便政府援助。",
+    "id": "8rLK7o8oZli",
+    "order": 1773065014296,
+    "createdAt": "2026-03-09T14:03:34.000Z",
+    "publishDate": "2026-03-09T14:03:34.296Z",
+    "title": "以色列袭击致黎巴嫩超50万民众流离失所",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 22:03:34",
+    "uuid": "9bb6e2e9-dfe6-43b9-bccd-81566ee96512"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "联想小新宣布，联想 AI 平板小新 Pro13 将搭载第四代骁龙 8s 处理器，安兔兔跑分超 262 万，高于同级别 8s Gen4 处理器设备 ...",
+    "id": "8rMKFJiRkkW",
+    "order": 1773064202682,
+    "createdAt": "2026-03-09T13:50:02.000Z",
+    "publishDate": "2026-03-09T13:50:02.682Z",
+    "title": "联想 AI 平板小新 Pro13 官宣搭载第四代骁龙 8s 处理器，3 月 18 日发布",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 21:50:02",
+    "uuid": "5aeb2acb-8f6f-4825-b05b-59a31b0a6df6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "3月9日，美股低开低走，三大指数均跌超1%，纳指跌1.06%，道指跌1.24%，标普500指数跌1.1%。",
+    "id": "8rMTWLHmaRg",
+    "order": 1773064082304,
+    "createdAt": "2026-03-09T13:48:03.000Z",
+    "publishDate": "2026-03-09T13:48:02.304Z",
+    "title": "美股三大指数均跌超1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 21:48:03",
+    "uuid": "ad03ec9a-f363-466d-b45c-3f72f34ad485"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "行情显示，比特币涨至68285.3美元，24小时内涨0.79%。以太坊涨至2015.31美元，24小时内涨2.47%。",
+    "id": "8rMDtkQV0rj",
+    "order": 1773063825917,
+    "createdAt": "2026-03-09T13:43:45.000Z",
+    "publishDate": "2026-03-09T13:43:45.917Z",
+    "title": "比特币重回6.8万美元上方",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 21:43:45",
+    "uuid": "5d2956db-d116-431f-b615-ea9864f6fd14"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "网易 LobsterAI（有道龙虾）0.2.2 版本正式接入企业微信及 QQ 机器人，叠加此前对钉钉、飞书移动端的支持，已实现主流 IM 全覆盖 ...",
+    "id": "8rMNsypzRRX",
+    "order": 1773063793412,
+    "createdAt": "2026-03-09T13:43:13.000Z",
+    "publishDate": "2026-03-09T13:43:13.412Z",
+    "title": "网易有道“龙虾”接入企业微信、QQ等主流即时通讯软件",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 21:43:13",
+    "uuid": "798b08b1-61f5-45ad-b1c9-7124e8de036f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "胜宏科技（300476）H股发行获中国证监会备案，收到境外发行上市备案通知书（国合函〔2026〕478号） ...",
+    "id": "8rMIA91KIbl",
+    "order": 1773063220333,
+    "createdAt": "2026-03-09T13:33:41.000Z",
+    "publishDate": "2026-03-09T13:33:40.333Z",
+    "title": "胜宏科技：H股发行获中国证监会备案批准",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 21:33:41",
+    "uuid": "867c0515-adf1-489b-aa38-592fd5c3feef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "钛媒体" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "TrendForce集邦咨询研究显示，2025年第四季全球智能手机生产总数达3.37亿支，季增2.7%，得益于苹果新机冲量 ...",
+    "id": "8rMCP4nE3Nb",
+    "order": 1773063844405,
+    "createdAt": "2026-03-09T13:04:25.000Z",
+    "publishDate": "2026-03-09T13:44:04.405Z",
+    "title": "机构：2025年第四季全球智能手机生产总数达3.37亿支，苹果、三星并列全球第一",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 21:04:25",
+    "uuid": "b364b17b-76a8-49f9-8002-ed4f71efe774"
+  },
+  {
+    "newsArray": [
       { "siteName": "钛媒体" },
       { "siteName": "网易科技" },
       { "siteName": "界面" },
@@ -133,6 +258,24 @@
   {
     "newsArray": [
       { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "深圳市龙岗区宣布将于3月14日下午2:30在深圳机器人剧场举办“千人龙虾大会”，大会由龙岗区联合Kimi打造，现场将有机器人炒龙虾、真龙虾品尝等活动。",
+    "id": "8rMKHQBgPZO",
+    "order": 1773064942983,
+    "createdAt": "2026-03-09T12:07:25.000Z",
+    "publishDate": "2026-03-09T14:02:22.983Z",
+    "title": "深圳龙岗将联合Kimi举办千人龙虾大会",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 20:07:25",
+    "uuid": "320e3206-b4f8-47a4-8fc9-638d709a2080"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
       { "siteName": "格隆汇" }
@@ -221,6 +364,24 @@
     "up": false,
     "date": "2026-03-09 19:44:17",
     "uuid": "7ed16380-137e-4d3b-a1f4-eaf4991ce4e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "欧盟委员会发言人表示，所有成员国都有85至90天的石油或等效物库存，对石油和天然气供应安全的担忧远不及对高能源价格的担忧，目前未看到石油或天然气供应方面的担忧或紧急情况。",
+    "id": "8rMJXlyipzW",
+    "order": 1773064885407,
+    "createdAt": "2026-03-09T11:42:10.000Z",
+    "publishDate": "2026-03-09T14:01:25.407Z",
+    "title": "欧盟：所有成员国都有85至90天的石油或等效物库存",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 19:42:10",
+    "uuid": "2164765c-389a-4e45-b1ac-69f178620f15"
   },
   {
     "newsArray": [
@@ -569,6 +730,25 @@
     "up": false,
     "date": "2026-03-09 17:55:09",
     "uuid": "644d4335-02f6-45d0-b0c9-a11a78f8455d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "近日，苹果官方发布搭载M4芯片的新款iPad Air，引发市场关注。同时，金山办公推出iPad版原生桌面级Office——WPS for Pad，成iPadOS生态首款原生桌面级办公应用。",
+    "id": "8rM9dAemssQ",
+    "order": 1773063159058,
+    "createdAt": "2026-03-09T09:51:43.000Z",
+    "publishDate": "2026-03-09T13:32:39.058Z",
+    "title": "WPS发布iPadOS首款原生桌面级Office",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 17:51:43",
+    "uuid": "b12cfb71-d464-4b2c-978f-f580c7f7f9b6"
   },
   {
     "newsArray": [
