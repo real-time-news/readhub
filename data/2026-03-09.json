@@ -1,6 +1,157 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "外交部发言人郭嘉昆主持例行记者会，有记者就国际油价暴涨相关问题提问，郭嘉昆建议向中方主管部门了解具体问题，强调能源安全对世界经济至关重要，各方有责任确保能源供应稳定畅通，中方将采取必要措施保障自身能源安全。",
+    "id": "8rM3pPzmq3y",
+    "order": 1773042467863,
+    "createdAt": "2026-03-09T07:47:48.000Z",
+    "publishDate": "2026-03-09T07:47:47.863Z",
+    "title": "外交部：能源安全对世界经济至关重要",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 15:47:48",
+    "uuid": "b15d4d44-13a1-45a0-a794-6d451017a81a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "最高人民法院刑事审判第三庭庭长汪斌称，涉AI电信网络诈骗形成精细黑灰产链条，跨区域化特征明显，打击治理难度增大 ...",
+    "id": "8rM2NYHnQsP",
+    "order": 1773042311417,
+    "createdAt": "2026-03-09T07:45:11.000Z",
+    "publishDate": "2026-03-09T07:45:11.417Z",
+    "title": "最高法：打击滥用AI换脸等行为，斩断为电诈提供“技术助攻”的链条",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 15:45:11",
+    "uuid": "2c2e6a66-8d71-4726-95be-80436e62c71d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "算力概念局部拉升，优刻得涨停，多只个股跟涨。消息面上，上周五腾讯云工程师为用户免费提供安装教学OpenClaw的一站式服务，“养龙虾”（OpenClaw昵称）成AI圈顶流 ...",
+    "id": "8rLtpiyV3vb",
+    "order": 1773042225489,
+    "createdAt": "2026-03-09T07:43:45.000Z",
+    "publishDate": "2026-03-09T07:43:45.489Z",
+    "title": "“养龙虾”火出圈，盘点A股核心受益股",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 15:43:45",
+    "uuid": "7a186f78-f38c-45ec-8c67-4781c88eef3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中国人口老龄化严峻，老年人口3.1亿，护理人员缺口大，养老机器人市场潜力万亿级可缓解人力短缺，但产业起步晚，面临政策协同不足等问题 ...",
+    "id": "8rM130yTgLJ",
+    "order": 1773041511851,
+    "createdAt": "2026-03-09T07:31:51.000Z",
+    "publishDate": "2026-03-09T07:31:51.851Z",
+    "title": "全国人大代表葛明华：建议加快发展养老机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 15:31:51",
+    "uuid": "c3fcc224-cd83-444d-b35a-75e6d65edc43"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "DoNews" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "2月底，拓竹科技收到被起诉法律文书，此前未收到泡泡玛特沟通需求。近期，拓竹科技创始人陶冶与泡泡玛特创始人王宁就侵权纠纷沟通，寻求和解、合作可能，法务等业务部门等待双方管理层沟通结果。",
+    "id": "8rLsQ6s23qu",
+    "order": 1773041292613,
+    "createdAt": "2026-03-09T07:28:12.000Z",
+    "publishDate": "2026-03-09T07:28:12.613Z",
+    "title": "泡泡玛特起诉拓竹，双方高层正在沟通",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 15:28:12",
+    "uuid": "6b5f85fc-30b2-4c7b-949a-57baeb21f5eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "微信公众号" }
+    ],
+    "summary": "企业微信支持接入OpenClaw，仅需3步即可快速上手 ...",
+    "id": "8rLwjz7kDce",
+    "order": 1773041258870,
+    "createdAt": "2026-03-09T07:27:38.000Z",
+    "publishDate": "2026-03-09T07:27:38.870Z",
+    "title": "企业微信支持接入OpenClaw，仅需3步即可快速上手",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 15:27:38",
+    "uuid": "d6155fd3-241e-4af3-9621-cbd1db02a26f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "上海国际能源交易中心公告，2026年2月处理异常交易行为8起，包括自成交超限7起、频繁报撤单超限1起，通过会员单位对相关客户提示 ...",
+    "id": "8rM2Oq7uAEI",
+    "order": 1773041087027,
+    "createdAt": "2026-03-09T07:24:47.000Z",
+    "publishDate": "2026-03-09T07:24:47.027Z",
+    "title": "上海国际能源交易中心：2月份处理异常交易行为8起",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 15:24:47",
+    "uuid": "dda7aac6-b10e-4d9e-ab00-3891008b4963"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "中华网" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "火山引擎正式上线 ArkClaw，这是一款云上 SaaS 版 OpenClaw，解决了本地部署“龙虾”（OpenClaw）的诸多痛点 ...",
+    "id": "8rLwkfUnmRy",
+    "order": 1773041088575,
+    "createdAt": "2026-03-09T07:11:32.000Z",
+    "publishDate": "2026-03-09T07:24:48.575Z",
+    "title": "火山引擎正式上线 ArkClaw，打开网页即可「养虾」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 15:11:32",
+    "uuid": "29a0fe7c-2408-4ee1-b443-afeed5d20e3c"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
@@ -69,6 +220,23 @@
     "up": false,
     "date": "2026-03-09 15:04:12",
     "uuid": "cd2a7ec8-564c-44f0-bebd-14d2cc5209c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "近日，中国传媒大学党委书记廖祥忠在全国两会期间发言引发关注。他透露去年学校已一次性调整停办16个本科专业方向，包括翻译、摄影等 ...",
+    "id": "8rLcHQm8XM3",
+    "order": 1773041162728,
+    "createdAt": "2026-03-09T06:22:20.000Z",
+    "publishDate": "2026-03-09T07:26:02.728Z",
+    "title": "中国传媒大学砍掉翻译、摄影等16个本科专业 直言教育要面向人机分工时代",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 14:22:20",
+    "uuid": "ea598ebd-3457-4e8e-a6cb-44b24c9ee360"
   },
   {
     "newsArray": [
@@ -625,6 +793,30 @@
     "up": false,
     "date": "2026-03-09 10:12:18",
     "uuid": "a448b4a7-85d5-4009-8d93-edf2ea467132"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "沪深两市成交额突破5000亿元，较上一日此时放量超1680亿元。",
+    "id": "8rLe4uWPpUk",
+    "order": 1773041235420,
+    "createdAt": "2026-03-09T02:05:03.000Z",
+    "publishDate": "2026-03-09T07:27:15.420Z",
+    "title": "沪深两市成交额突破5000亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-09 10:05:03",
+    "uuid": "11245962-4ca5-4874-a952-a3863bc49420"
   },
   {
     "newsArray": [
