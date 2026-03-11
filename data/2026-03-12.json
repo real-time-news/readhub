@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "奈飞拟斥资最高6亿美元收购本·阿弗莱克创立的人工智能电影制作公司InterPositive。",
+    "id": "8rQEXwW6BR8",
+    "order": 1773273151153,
+    "createdAt": "2026-03-11T23:52:31.000Z",
+    "publishDate": "2026-03-11T23:52:31.153Z",
+    "title": "奈飞拟斥资最高6亿美元收购人工智能电影制作公司InterPositive",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-12 07:52:31",
+    "uuid": "55357d40-40fc-434d-b25e-c9d5773a99c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "据知情人士透露，因伊朗战争冲击油价和全球市场，Pimco的大宗商品对冲基金本月迄今下跌约17%，使该基金今年以来跌幅扩大至约26% ...",
+    "id": "8rQAGDjpXvo",
+    "order": 1773272685232,
+    "createdAt": "2026-03-11T23:44:46.000Z",
+    "publishDate": "2026-03-11T23:44:45.232Z",
+    "title": "受伊朗战争冲击，Pimco大宗商品基金3月份暴跌17%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-12 07:44:46",
+    "uuid": "100c84fe-2afd-4fef-8f6a-9f69fff80957"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "据“美联储观察”，美联储3月降息25个基点概率为0.6%，维持利率不变概率为99.4%。4月累计降息25个基点概率11.9%，维持不变概率88.1%，累计降息50个基点概率0.1% ...",
+    "id": "8rQOUgBMjT0",
+    "order": 1773272622941,
+    "createdAt": "2026-03-11T23:43:42.000Z",
+    "publishDate": "2026-03-11T23:43:42.941Z",
+    "title": "美联储3月维持利率不变的概率为99.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-12 07:43:42",
+    "uuid": "4ff7f0ef-6f82-4d7d-b158-88ffacd7d35a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "腾讯玄武实验室针对龙虾数据安全保护推出端侧隐私保护技能HaS Anonymizer，其完全本地运行，不上传隐私数据到云端，使用Claude或GPT无合规风险，具备隐私扫描、脱敏、文档脱敏、图片脱敏及隐私还原等功能。",
+    "id": "8rQUDCj0ca2",
+    "order": 1773272524114,
+    "createdAt": "2026-03-11T23:42:04.000Z",
+    "publishDate": "2026-03-11T23:42:04.114Z",
+    "title": "腾讯推出龙虾数据安全保护Skill",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-12 07:42:04",
+    "uuid": "6a554f6d-beb0-4e02-91bf-3688f883e673"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" },
