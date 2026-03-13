@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在法国巴黎举行的第二届核能峰会上，中国宣布加入由法国等22个国家共同发起的《三倍核能宣言》，其核心目标是到2050年将全球核能装机增至2020年的三倍，助力实现全球净零排放及《巴黎协定》温控目标。",
+    "id": "8rSRiME7SDu",
+    "order": 1773379568340,
+    "createdAt": "2026-03-13T05:26:08.000Z",
+    "publishDate": "2026-03-13T05:26:08.340Z",
+    "title": "中国加入《三倍核能宣言》",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-13 13:26:08",
+    "uuid": "abf25e4d-8c1a-40f6-bf2f-71ac90178bce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "为深化医保支付方式改革、完善按病组（DRG）付费技术标准，国家医保局于2025年7月启动DRG付费3.0版分组调整工作，目前已完成第一阶段临床论证，各项工作有序推进 ...",
+    "id": "8rSUXfo0vjH",
+    "order": 1773379555494,
+    "createdAt": "2026-03-13T05:25:55.000Z",
+    "publishDate": "2026-03-13T05:25:55.494Z",
+    "title": "国家医保局：DRG付费3.0版分组方案临床论证工作有序推进",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-13 13:25:55",
+    "uuid": "0b12c44e-be74-47b9-9f8b-a63679fcba1a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "网易发文称，在国内监管部门指导推动下，苹果公司宣布下调中国区App Store佣金率，此次调整利于行业良性循环、实现双赢，对中国移动互联网应用生态繁荣有长远意义，网易将坚持用户导向，加码原创内容与技术研发，共建繁荣原创内容生态。",
+    "id": "8rST94NUUcE",
+    "order": 1773379360297,
+    "createdAt": "2026-03-13T05:22:40.000Z",
+    "publishDate": "2026-03-13T05:22:40.297Z",
+    "title": "网易回应苹果佣金下调：有利于促进行业良性循环、实现平台与开发者双赢",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-13 13:22:40",
+    "uuid": "9232ebba-edd2-4636-986a-ab21c6f88e8e"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -125,6 +179,25 @@
     "up": false,
     "date": "2026-03-13 12:02:27",
     "uuid": "fd06d5ab-f8c3-4701-8dd3-02eead114086"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "界面" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "雷军发文称，新一代小米SU7在第一代基础上经过2年多打磨，在安全、驾控、智能体验和豪华质感上有更大提升，但成本上升，肯定会涨价 ...",
+    "id": "8rSOsYaABIK",
+    "order": 1773379210023,
+    "createdAt": "2026-03-13T03:52:26.000Z",
+    "publishDate": "2026-03-13T05:20:10.023Z",
+    "title": "雷军：新一代SU7肯定会涨价",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-13 11:52:26",
+    "uuid": "bae18d03-6314-4b10-ac58-be32f1717a18"
   },
   {
     "newsArray": [
@@ -309,6 +382,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "脑机接口企业「阶梯医疗」近日获 5 亿元战略融资，由阿里巴巴领投，国投创合跟投，近一年累计融资 11 亿元 ...",
+    "id": "8rSBJKiYmoN",
+    "order": 1773379432725,
+    "createdAt": "2026-03-13T02:37:35.000Z",
+    "publishDate": "2026-03-13T05:23:52.725Z",
+    "title": "脑机接口公司阶梯医疗获 5 亿元战略融资 阿里领投、腾讯追加",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-13 10:37:35",
+    "uuid": "5a7bb208-3056-4107-91e4-3be7f4492269"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
@@ -350,6 +441,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "联商网" },
+      { "siteName": "联商网" },
+      { "siteName": "亿邦动力网" }
+    ],
+    "summary": "美团小象超市杭州首家线下店落地龙湖杭州紫荆天街，接替此前撤出的永辉超市三墩龙湖店，这是其全国第三家线下门店，也意味着杭州商超赛道迎来美团系玩家，区域生鲜零售格局将洗牌 ...",
+    "id": "8rREnBm7ajf",
+    "order": 1773379489164,
+    "createdAt": "2026-03-13T01:04:45.000Z",
+    "publishDate": "2026-03-13T05:24:49.164Z",
+    "title": "美团小象超市杭州首店敲定，接盘永辉",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-13 09:04:45",
+    "uuid": "19b680ab-11b5-4399-89f3-dc87474af200"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" }
@@ -381,6 +489,30 @@
     "up": false,
     "date": "2026-03-13 08:41:40",
     "uuid": "bcf0b56a-819b-4239-95c9-b1024c0a8ba0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "阿里云手机版OpenClaw“龙虾”上线，名为JVS Claw，也可通过阿里云网站访问，此前已开启免费内测 ...",
+    "id": "8rSC1NKaUnl",
+    "order": 1773379499820,
+    "createdAt": "2026-03-13T00:31:14.000Z",
+    "publishDate": "2026-03-13T05:24:59.820Z",
+    "title": "阿里上线手机版OpenClaw“龙虾”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-13 08:31:14",
+    "uuid": "4baca2a4-391f-40b2-bb49-3dab2582c43b"
   },
   {
     "newsArray": [
@@ -493,6 +625,23 @@
     "up": false,
     "date": "2026-03-13 08:05:35",
     "uuid": "086c34f2-08ce-41b6-85ba-de34aee3bea6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "马斯克回应网友关于何时能用上Digital Optimus的问题，称“6个月”。",
+    "id": "8rRcJUaL5wX",
+    "order": 1773379548432,
+    "createdAt": "2026-03-13T00:04:35.000Z",
+    "publishDate": "2026-03-13T05:25:48.432Z",
+    "title": "马斯克在回复网友何时能用上 Digital Optimus：6 个月",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-13 08:04:35",
+    "uuid": "a29ea2e7-b91f-407c-89e3-09bbdd3439d8"
   },
   {
     "newsArray": [
@@ -844,6 +993,29 @@
     "up": false,
     "date": "2026-03-13 03:04:37",
     "uuid": "ca45a15d-1c57-409b-ab82-357737deea66"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "每经网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉将xAI投资转化为对SpaceX的投资，获美国联邦贸易委员会（FTC）批准。",
+    "id": "8rRktMyFlDh",
+    "order": 1773379599723,
+    "createdAt": "2026-03-12T18:22:35.000Z",
+    "publishDate": "2026-03-13T05:26:39.723Z",
+    "title": "特斯拉获准将对xAI的投资转换为对SpaceX的持股",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-13 02:22:35",
+    "uuid": "fdb6b764-13ac-49a9-b615-d2bdbe237c48"
   },
   {
     "newsArray": [
