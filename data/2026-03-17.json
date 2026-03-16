@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "当地时间3月16日22时48分许，美国驻伊拉克大使馆防空系统启动拦截空中目标，目击者称一架无人机被成功拦截，这是巴格达“绿区”当晚第二次遭袭，稍早些时候“绿区”传出巨大爆炸声。",
+    "id": "8rYUAc2wnQ7",
+    "order": 1773693743689,
+    "createdAt": "2026-03-16T20:42:23.000Z",
+    "publishDate": "2026-03-16T20:42:23.689Z",
+    "title": "巴格达“绿区”再遭袭 美驻伊拉克大使馆启动防空系统",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 04:42:23",
+    "uuid": "70c0237d-1835-4c7d-adb9-2675b57e87d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美股三大指数集体高开，纳指涨1.06%，道指涨0.32%，标普500指数涨0.91%。Meta涨超2%，Nebius涨超10%，双方达成270亿美元AI算力供应协议 ...",
+    "id": "8rY35gZr23a",
+    "order": 1773692560244,
+    "createdAt": "2026-03-16T20:22:40.000Z",
+    "publishDate": "2026-03-16T20:22:40.244Z",
+    "title": "美股开盘：三大指数集体高开，Meta涨超2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 04:22:40",
+    "uuid": "a527e4f3-9455-4c2f-afce-19f426a19a82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "黄仁勋在GTC大会宣布推出专为OpenClaw深度优化的部署工具链NemoClaw，安装仅需两行命令，英伟达旨在让每台GPU服务器无缝接入OpenClaw生态，将算力与agent框架绑定 ...",
+    "id": "8rYYS3nqpKr",
+    "order": 1773692542662,
+    "createdAt": "2026-03-16T20:22:22.000Z",
+    "publishDate": "2026-03-16T20:22:22.662Z",
+    "title": "英伟达官方支持极简养虾",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 04:22:22",
+    "uuid": "8853848d-c513-4d9d-8366-bbf4d02e5410"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达宣布NVIDIA Vera Rubin平台开启“智能体AI（Agentic AI）”的下一个前沿，七款全新芯片已全面量产，用于扩展全球最大的人工智能工厂，并针对AI各阶段进行优化 ...",
+    "id": "8rYVd3iJkNZ",
+    "order": 1773692196379,
+    "createdAt": "2026-03-16T20:16:36.000Z",
+    "publishDate": "2026-03-16T20:16:36.379Z",
+    "title": "英伟达Vera Rubin开启“智能体AI”新前沿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 04:16:36",
+    "uuid": "986318c3-074e-4f05-b64d-3c0f6e6871f3"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
