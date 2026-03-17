@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "近日，西安凌骏汽车销售服务有限公司成立，法定代表人为胡晨，经营范围包括汽车销售等，股权穿透显示其由零跑汽车间接全资持股。",
+    "id": "8rZ9bAohLxJ",
+    "order": 1773735870340,
+    "createdAt": "2026-03-17T08:24:31.000Z",
+    "publishDate": "2026-03-17T08:24:30.340Z",
+    "title": "零跑汽车在西安成立汽车销售服务公司",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 16:24:31",
+    "uuid": "1e9944f2-60e6-45ca-b9e6-01658e70377a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "英伟达CEO黄仁勋在GTC大会上盛赞开源AI智能体OpenClaw，称企业需制定OpenClaw及智能体系统战略，它让行业抓住开源技术栈创造价值，其意义堪比Windows之于个人计算 ...",
+    "id": "8rYmmo2KNzF",
+    "order": 1773735711458,
+    "createdAt": "2026-03-17T08:21:51.000Z",
+    "publishDate": "2026-03-17T08:21:51.458Z",
+    "title": "黄仁勋谈“养龙虾”：盛赞OpenClaw 堪比Windows影响个人计算",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 16:21:51",
+    "uuid": "ecd3fbda-3eda-41d7-966d-db7a6d45fa41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "3月17日，苹果首席运营官Sabih Khan等高管现身深圳，上午走访了2024年投运的深圳福田保税区Apple应用研究实验室，该实验室邻近苹果在华重要生产和组装基地，能与近200家供应商紧密协作，样品运转最快一天 ...",
+    "id": "8rZMUKII81E",
+    "order": 1773734847225,
+    "createdAt": "2026-03-17T08:07:28.000Z",
+    "publishDate": "2026-03-17T08:07:27.225Z",
+    "title": "苹果首席运营官Sabih Khan现身深圳",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 16:07:28",
+    "uuid": "57dbd106-2f05-45c8-8067-9fd803f8b152"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "日常生活中，将插线板电线捆扎、一个插线板接多个电器易引发火灾，多个大功率电器连在同一插线板会使电源线电流过载产热，若电源线缠绕热量难散，可能点燃绝缘皮 ...",
+    "id": "8rYucOhdCta",
+    "order": 1773733913603,
+    "createdAt": "2026-03-17T07:51:53.000Z",
+    "publishDate": "2026-03-17T07:51:53.603Z",
+    "title": "使用插线板千万别捆起来：无法散热 容易引发爆燃",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 15:51:53",
+    "uuid": "d586b1a8-3a57-4ccb-8a17-231b856dad86"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "荷兰云基础设施巨头Nebius Group NV与Meta Platforms Inc.签署总额270亿美元战略合作协议，Nebius将提供价值120亿美元的专用人工智能算力，含全球首批大规模部署的Nvidia芯片，Meta承诺未来五年追加采购使交易规模达150亿美元 ...",
+    "id": "8rYkwJywais",
+    "order": 1773733851025,
+    "createdAt": "2026-03-17T07:50:51.000Z",
+    "publishDate": "2026-03-17T07:50:51.025Z",
+    "title": "Nebius与Meta达成270亿美元AI算力合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 15:50:51",
+    "uuid": "ced20636-5108-46ca-bc8e-7b027cc996c7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "预测师威尔德福德报告将Anthropic、谷歌和OpenAI并列排首位，xAI与Meta落后约7个月，法国Mistral落后约一年半 ...",
+    "id": "8rZH69Z1n1O",
+    "order": 1773734041606,
+    "createdAt": "2026-03-17T07:47:00.000Z",
+    "publishDate": "2026-03-17T07:54:01.606Z",
+    "title": "马斯克回应xAI落后：今年底追平头部AI企业 2029年遥遥领先",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 15:47:00",
+    "uuid": "1873b9ef-818d-4481-a20b-44fb600557e1"
+  },
+  {
+    "newsArray": [
       { "siteName": "科学网" },
       { "siteName": "科学网" },
       { "siteName": "医药魔方" }
@@ -50,6 +155,23 @@
     "up": false,
     "date": "2026-03-17 15:24:57",
     "uuid": "ae5e36fa-7a6a-4be1-b9c8-a8ca5fe16a81"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "鸟哥笔记" }
+    ],
+    "summary": "Meta 计划裁员超员工总数的 20%（或超 1.5 万人）以平衡 AI 相关开支，消息传出后盘前股价上涨 2.7%，此前周五曾暴跌近 4% ...",
+    "id": "8rXdMo1Rxe0",
+    "order": 1773734072712,
+    "createdAt": "2026-03-17T07:23:50.000Z",
+    "publishDate": "2026-03-17T07:54:32.712Z",
+    "title": "Meta盘前涨3% 计划裁员以抵消AI支出",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 15:23:50",
+    "uuid": "1e471967-1699-4877-b83b-c4c688f5606f"
   },
   {
     "newsArray": [
@@ -175,6 +297,27 @@
     "up": false,
     "date": "2026-03-17 15:11:53",
     "uuid": "ea886645-efe3-4322-bfa1-be3de617b528"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股“Token第一股”迅策(3317.HK)午后直线拉升，一度涨超17%，现报119港元。",
+    "id": "8rZCSh6ikpt",
+    "order": 1773734620296,
+    "createdAt": "2026-03-17T06:46:41.000Z",
+    "publishDate": "2026-03-17T08:03:40.296Z",
+    "title": "英伟达GTC引爆“Token第一股”迅策，一度涨超17%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 14:46:41",
+    "uuid": "73324797-4598-4b9d-9937-4702620ce6b4"
   },
   {
     "newsArray": [
@@ -445,6 +588,42 @@
     "up": false,
     "date": "2026-03-17 13:27:49",
     "uuid": "ecbec64b-03ba-4e6e-94b3-c607732d367c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国参议员沃伦正对Meta、微软、塔吉特、耐克、亚马逊的裁员事件展开调查。",
+    "id": "8rYOT6dLkgR",
+    "order": 1773734323669,
+    "createdAt": "2026-03-17T05:26:18.000Z",
+    "publishDate": "2026-03-17T07:58:43.669Z",
+    "title": "美参议员称正对Meta、微软、亚马逊等公司的裁员事件展开调查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 13:26:18",
+    "uuid": "57b710c1-961c-4939-96d1-6622f63fa58c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "医药魔方" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "瑞士制药巨头罗氏周一宣布大幅扩充全球人工智能基础设施，部署由英伟达最新技术驱动的大规模AI工厂，新增2176个英伟达Blackwell GPU，部署于美欧本地及混合云环境，使可用GPU总数超3500个，形成制药行业已公布的最大规模GPU算力集群 ...",
+    "id": "8rYbOaMZnAG",
+    "order": 1773735170300,
+    "createdAt": "2026-03-17T05:05:34.000Z",
+    "publishDate": "2026-03-17T08:12:50.300Z",
+    "title": "罗氏携手英伟达大幅扩充AI算力，构建行业最大规模AI工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-17 13:05:34",
+    "uuid": "52e6ed78-2b26-4e36-af91-ecaf31fe656c"
   },
   {
     "newsArray": [
