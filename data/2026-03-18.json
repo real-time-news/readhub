@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "亚马逊的Andy Jassy在内部全员会议上称，人工智能有望助力其云计算业务（AWS）实现6000亿美元的年销售额，这是他此前预期的两倍，他曾认为十年后AWS年化收入可能达3000亿美元左右，如今认为随着人工智能发展，AWS有机会至少达到该规模的两倍。",
+    "id": "8ra7g8xOr7R",
+    "order": 1773776573604,
+    "createdAt": "2026-03-17T19:42:54.000Z",
+    "publishDate": "2026-03-17T19:42:53.604Z",
+    "title": "报道：亚马逊预计AI将推动AWS销售额于2036年达到6000亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 03:42:54",
+    "uuid": "54462fb6-7ec8-4e63-87dd-69def445b035"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "3月17日，伊拉克石油部长哈扬·阿卜杜勒·加尼表示正与伊朗保持接触，争取部分油轮获准经霍尔木兹海峡通行，此前伊拉克作为OPEC成员国被迫将原油产量削减至原来的四分之一。",
+    "id": "8rZJbsCcxyb",
+    "order": 1773775285413,
+    "createdAt": "2026-03-17T19:21:25.000Z",
+    "publishDate": "2026-03-17T19:21:25.413Z",
+    "title": "伊拉克称正同伊朗沟通能否允许部分油轮通过霍尔木兹海峡",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 03:21:25",
+    "uuid": "5a179212-b494-44e5-92f0-e1f35637cadb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "无人机制造商Swarmer美国IPO首日盘中暂停交易。",
+    "id": "8rZrvkJg446",
+    "order": 1773775220793,
+    "createdAt": "2026-03-17T17:42:13.000Z",
+    "publishDate": "2026-03-17T19:20:20.793Z",
+    "title": "无人机制造商 Swarmer 美国 IPO 首日盘中暂停交易",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 01:42:13",
+    "uuid": "4489ec45-ecdb-4d40-954b-d2dc42d6c903"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
