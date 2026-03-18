@@ -1,6 +1,123 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "三星电子代工业务负责人称，将于2027年末生产特斯拉芯片。",
+    "id": "8radpyIiuaX",
+    "order": 1773803555570,
+    "createdAt": "2026-03-18T03:12:35.000Z",
+    "publishDate": "2026-03-18T03:12:35.570Z",
+    "title": "三星电子代工业务负责人：将于2027年末生产特斯拉芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 11:12:35",
+    "uuid": "c1bce49f-a030-46e6-83cc-8de2de35a8d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "创业板指开盘一度涨近1%后回落翻绿，深成指、沪指回落跌近0.5%，油气、化工等方向跌幅居前，沪深京三市近3200只个股下跌。",
+    "id": "8rafxxnuVSY",
+    "order": 1773803385876,
+    "createdAt": "2026-03-18T03:09:46.000Z",
+    "publishDate": "2026-03-18T03:09:45.876Z",
+    "title": "三大指数全部翻绿，沪深京三市下跌个股近3200只",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 11:09:46",
+    "uuid": "aee56ee1-5f7f-4fc9-848e-149c44fbd806"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "恒生科技指数延续下跌，跌幅扩大至1.0%，现报5055.81点。",
+    "id": "8rabhQdzjdT",
+    "order": 1773803227231,
+    "createdAt": "2026-03-18T03:07:07.000Z",
+    "publishDate": "2026-03-18T03:07:07.231Z",
+    "title": "恒生科技指数跌幅扩大至1.0%，现报5055.81点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 11:07:07",
+    "uuid": "6b0ac90e-4494-4cf9-906f-0add57a15d93"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "2026亚布力论坛年会于3月17日 - 19日在黑龙江亚布力举办，清华大学张亚勤出席演讲。他认为AI有数字、物理和生物智能三个维度，新一代人工智能是三者融合 ...",
+    "id": "8rZqYalBU1q",
+    "order": 1773803270630,
+    "createdAt": "2026-03-18T03:03:53.000Z",
+    "publishDate": "2026-03-18T03:07:50.630Z",
+    "title": "张亚勤：未来全球基础大模型不超10个，中美将各占三四个",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 11:03:53",
+    "uuid": "2091bf2e-a222-426e-8dea-bd5eb90b0389"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "有传言称港交所 IPO 将限制红筹架构公司，香港投行人士表示港交所 IPO 政策近期调整不涉及该领域，传言不可信 ...",
+    "id": "8rZi0GA2QD3",
+    "order": 1773803384564,
+    "createdAt": "2026-03-18T00:26:13.000Z",
+    "publishDate": "2026-03-18T03:09:44.564Z",
+    "title": "港交所IPO将限制红筹公司消息不属实",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 08:26:13",
+    "uuid": "b8e3dabc-430e-44b7-81a3-8250b3a6e905"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "网易科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "品玩" },
+      { "siteName": "牛透社" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "OpenAI推出两款小型模型GPT-5.4 mini与GPT-5.4 nano，以更低延迟和成本缩小与旗舰模型性能差距 ...",
+    "id": "8raDOiB65Vi",
+    "order": 1773803412258,
+    "createdAt": "2026-03-18T00:03:07.000Z",
+    "publishDate": "2026-03-18T03:10:12.258Z",
+    "title": "OpenAI发布GPT-5.4 mini与nano，以更低成本逼近旗舰模型性能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 08:03:07",
+    "uuid": "12ad302a-4a17-4ed6-bdc4-6f8892e13710"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -15,6 +132,23 @@
     "up": false,
     "date": "2026-03-18 07:51:48",
     "uuid": "1cb30703-d9cb-4cbd-ad04-d56366897d7d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "加拿大投资者斯蒂芬・史密斯即将收购《经济学人》杂志出版方 26.9% 的股份，他已与林恩・福雷斯特・德・罗斯柴尔德达成协议，将与其家族旗下的史密斯金融控股公司共同收购 ...",
+    "id": "8rZp7DuMTKg",
+    "order": 1773803458735,
+    "createdAt": "2026-03-17T23:47:22.000Z",
+    "publishDate": "2026-03-18T03:10:58.735Z",
+    "title": "加拿大金融家将收购《经济学人》杂志股权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 07:47:22",
+    "uuid": "963af6ea-d3b6-4768-a183-fd5d1fa013f6"
   },
   {
     "newsArray": [
@@ -37,6 +171,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "根据监管文件，若派拉蒙・天空之舞收购华纳兄弟探索的交易完成，华纳兄弟探索 CEO 大卫・扎斯拉夫将获约 8.868 亿美元报酬，包括股权、现金、福利和税务补偿等 ...",
+    "id": "8rZrzIYhPLs",
+    "order": 1773803549556,
+    "createdAt": "2026-03-17T23:32:27.000Z",
+    "publishDate": "2026-03-18T03:12:29.556Z",
+    "title": "若派拉蒙交易完成 华纳兄弟探索CEO将获最高8.87亿美元薪酬",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 07:32:27",
+    "uuid": "290207dc-2a47-49f0-8866-6a19bc0d59c2"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "速途网" },
       { "siteName": "36Kr" }
@@ -51,6 +202,40 @@
     "up": false,
     "date": "2026-03-18 07:28:50",
     "uuid": "abab4293-0bcc-4a40-abb4-d849b2089621"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "自动驾驶汽车软件公司Applied Intuition与英伟达合作，加速面向全球汽车制造商的L2+级驾驶辅助系统开发与部署，Applied Intuition成为开发基于英伟达硬件优化版L2+高速公路驾驶系统的OEM厂商的推荐软件供应商。",
+    "id": "8rZkmDVSOqY",
+    "order": 1773803530424,
+    "createdAt": "2026-03-17T23:27:05.000Z",
+    "publishDate": "2026-03-18T03:12:10.424Z",
+    "title": "Applied Intuition与英伟达就自动驾驶技术达成合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 07:27:05",
+    "uuid": "a5932618-a53d-4f74-929d-3509b26d8fad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "OpenAI正为最快于今年年底进行的上市做准备，公司将员工与投资者的注意力集中在企业级业务上。据悉，OpenAI最快将于今年第四季度进行IPO ...",
+    "id": "8raLyoTvKDK",
+    "order": 1773803613753,
+    "createdAt": "2026-03-17T23:26:30.000Z",
+    "publishDate": "2026-03-18T03:13:33.753Z",
+    "title": "OpenAI筹备年底前IPO，要求员工将ChatGPT打造成“生产力工具”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 07:26:30",
+    "uuid": "a9155696-8cf2-4d06-95fb-2cb2aaf0bc67"
   },
   {
     "newsArray": [
