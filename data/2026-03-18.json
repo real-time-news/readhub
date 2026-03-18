@@ -1,6 +1,189 @@
 [
   {
     "newsArray": [
+      { "siteName": "科学网" },
+      { "siteName": "央视新闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "近日，科研团队在冻土遥感监测领域取得重要进展，成功研制并发布全球高精度长时序冻融数据集，系统实现对全球特别是青藏高原地区冻融过程的连续、精细和长时序观测 ...",
+    "id": "8rabiMGqjbs",
+    "order": 1773814105464,
+    "createdAt": "2026-03-18T06:08:25.000Z",
+    "publishDate": "2026-03-18T06:08:25.464Z",
+    "title": "全球高精度长时序冻融数据集发布 冻土监测新进展",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 14:08:25",
+    "uuid": "ab179b91-35a7-4684-94db-566f493f2f46"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "近日，在多部门统筹推动下，人保财险联合18家保险机构，签发重庆市实施无人驾驶航空器责任保险强制投保试点的首张保单，为194架无人机提供4260万元风险保障，标志着全国首个低空经济领域责任保险强制投保机制在重庆正式构建 ...",
+    "id": "8rasq1Vum7K",
+    "order": 1773814086691,
+    "createdAt": "2026-03-18T06:08:07.000Z",
+    "publishDate": "2026-03-18T06:08:06.691Z",
+    "title": "全国首个低空经济领域责任保险强制投保机制在重庆构建",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 14:08:07",
+    "uuid": "9e52e29d-855e-4ca7-aed5-9ff8bbc7d909"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "德国正寻求大幅扩大AI基础设施，计划到2030年将数据中心容量至少翻倍、计算能力急剧增加，政府希望将AI处理能力扩大约4倍 ...",
+    "id": "8raAWSdl2E6",
+    "order": 1773813954223,
+    "createdAt": "2026-03-18T06:05:54.000Z",
+    "publishDate": "2026-03-18T06:05:54.223Z",
+    "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 14:05:54",
+    "uuid": "5a4e9d3c-8b8e-4c83-8c01-a3618dbb630d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "多晶硅主力合约日内跌幅扩大至5%，现报40130元/吨。",
+    "id": "8raspEBy7pa",
+    "order": 1773813915642,
+    "createdAt": "2026-03-18T06:05:16.000Z",
+    "publishDate": "2026-03-18T06:05:15.642Z",
+    "title": "多晶硅主力合约日内跌幅扩大至5%，现报40130元/吨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 14:05:16",
+    "uuid": "25365da0-2085-47a2-8bcb-1e31c596c210"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "法拉第未来宣布推出针对高管及员工的购股计划，部分高管及核心员工将递延2026年3 - 5月部分税后约50万美元基本薪酬用于购股，公司拟用该资金从公开市场回购普通股并转让给参与计划人员，以履行递延薪酬结算 ...",
+    "id": "8rai4tcNToa",
+    "order": 1773813761283,
+    "createdAt": "2026-03-18T06:02:41.000Z",
+    "publishDate": "2026-03-18T06:02:41.283Z",
+    "title": "反击非法卖空 法拉第未来推出高管及员工集体购股计划",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 14:02:41",
+    "uuid": "6c5fb79f-9ebf-4fb5-9b6f-b37db127ca60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "腾讯云AI Agent安全中心推出“密钥沙箱”，实现“Agent永不持有密钥”，通过该沙箱，Agent无需持有密钥即可完成云API调用，操作全程可审计，管理员能随时调整Agent能力边界，给权限但不给密钥。",
+    "id": "8rakFodTYgX",
+    "order": 1773812824788,
+    "createdAt": "2026-03-18T05:47:04.000Z",
+    "publishDate": "2026-03-18T05:47:04.788Z",
+    "title": "腾讯云推出“龙虾”密钥沙箱",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 13:47:04",
+    "uuid": "fccbfe32-22a7-4aff-a2b5-4eb909f1ec7f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "爱范儿" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "体育AI科技品牌XbotGo发布第三代旗舰新品猎鹰Falcon，其凭借高清双摄系统、AI追拍技术可实现全自动跟拍，将拍摄、运镜、剪辑自动化，适用于赛事记录、直播、剪辑及分析等场景。",
+    "id": "8raea5Lfmn8",
+    "order": 1773812751133,
+    "createdAt": "2026-03-18T05:45:52.000Z",
+    "publishDate": "2026-03-18T05:45:51.133Z",
+    "title": "XbotGo发布AI球场相机第三代旗舰新品",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 13:45:52",
+    "uuid": "9d59436e-bddf-4b6d-91cb-f8a751d3808c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "奇瑞汽车公告2025年度情况，集团大部分收入来自燃油车销售，集团收入3002.87亿元，同比增11.3%，公司拥有人应占利润190.19亿元，同比增34.6% ...",
+    "id": "8rapZesTdcU",
+    "order": 1773811482888,
+    "createdAt": "2026-03-18T05:24:43.000Z",
+    "publishDate": "2026-03-18T05:24:42.888Z",
+    "title": "奇瑞汽车：2025年公司拥有人应占利润同比增加34.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 13:24:43",
+    "uuid": "2323d4c9-673c-4383-8fc7-b5596f7b80e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "微软正考虑就一项价值500亿美元的交易对亚马逊和OpenAI采取法律行动，该交易或违反微软与OpenAI的独家云合作协议 ...",
+    "id": "8rapwOpCIWI",
+    "order": 1773811456443,
+    "createdAt": "2026-03-18T05:24:17.000Z",
+    "publishDate": "2026-03-18T05:24:16.443Z",
+    "title": "微软考虑就亚马逊与OpenAI的云交易采取法律行动",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 13:24:17",
+    "uuid": "a69987a2-d869-403a-b3de-cc3245173736"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "阿里巴巴港股午后短线拉升，现涨近2%，早盘一度跌超1%，美股夜盘涨超2%。阿里云因全球AI需求爆发、供应链涨价，宣布AI算力、存储等产品最高涨价34％。",
+    "id": "8rapGJdVs4v",
+    "order": 1773811434355,
+    "createdAt": "2026-03-18T05:23:54.000Z",
+    "publishDate": "2026-03-18T05:23:54.355Z",
+    "title": "阿里巴巴港股午后短线拉升 现涨近2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-18 13:23:54",
+    "uuid": "0e3e50e4-c3aa-4d7a-9272-6000ca2c6171"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
