@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "沪银期货主力合约日内跌超8%，现报18457元/千克。",
+    "id": "8rcXikQioUL",
+    "order": 1773900522572,
+    "createdAt": "2026-03-19T06:08:42.000Z",
+    "publishDate": "2026-03-19T06:08:42.572Z",
+    "title": "沪银期货主力合约日内跌超8%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-19 14:08:42",
+    "uuid": "a7733133-c7fd-4764-9511-f95fa52db14f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "阶跃星辰宣布桌面端 AI 助手上线本地智能体 StepClaw，该产品基于 OpenClaw 深度优化，旨在降低 AI 智能体部署门槛 ...",
+    "id": "8rcWJhhrtdI",
+    "order": 1773900503781,
+    "createdAt": "2026-03-19T06:08:25.000Z",
+    "publishDate": "2026-03-19T06:08:23.781Z",
+    "title": "阶跃AI桌面端正式上线本地 StepClaw，一键“领养”桌面级 AI 智能体",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-19 14:08:25",
+    "uuid": "5b992663-a3e5-4aa8-9990-f803c0f8f0b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "锡连续主力合约日内跌4%，现报364550.00元。",
+    "id": "8rarMiPhO1d",
+    "order": 1773900137143,
+    "createdAt": "2026-03-19T06:02:17.000Z",
+    "publishDate": "2026-03-19T06:02:17.143Z",
+    "title": "锡连续主力合约日内跌4%，现报364550.00元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-19 14:02:17",
+    "uuid": "bc294ed1-97d7-4d8e-a4e1-e54585767c98"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2026 年以来，公募基金发行市场暖意尽显，新发规模超 2800 亿元，为 2022 年以来同期新高 ...",
+    "id": "8rcQYCQlVkv",
+    "order": 1773897888386,
+    "createdAt": "2026-03-19T05:24:48.000Z",
+    "publishDate": "2026-03-19T05:24:48.386Z",
+    "title": "公募基金年内新发规模超2800亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-19 13:24:48",
+    "uuid": "9f5b46a0-08f9-4ba9-b6e3-64c740bfe892"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "和讯网" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "在华为中国合作伙伴大会上，华为中国政企业务副总裁许超透露，2025年华为交易伙伴超2.1万家，开拓客户超3.3万，订单交易量超15万笔 ...",
+    "id": "8rcIjuXlC61",
+    "order": 1773900269810,
+    "createdAt": "2026-03-19T05:04:43.000Z",
+    "publishDate": "2026-03-19T06:04:29.810Z",
+    "title": "华为中国政企业务首超千亿，合作伙伴业绩突破800亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-19 13:04:43",
+    "uuid": "87f1c5e2-cf01-48ee-84d5-721cbe3cd61c"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -33,6 +122,25 @@
     "up": false,
     "date": "2026-03-19 12:45:43",
     "uuid": "7862da94-ffd9-4b53-b28e-0e3044b27bb5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "瑞声科技（02018）发布2025年度业绩，期内收入318.17亿元，同比增16.4%。公司拥有人应占溢利25.12亿元，同比增39.8% ...",
+    "id": "8rcQYHKChny",
+    "order": 1773898259323,
+    "createdAt": "2026-03-19T04:44:50.000Z",
+    "publishDate": "2026-03-19T05:30:59.323Z",
+    "title": "瑞声科技发布年度业绩 股东应占溢利25.12亿元同比增加39.80%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-19 12:44:50",
+    "uuid": "50752bfd-15f0-4cf0-a902-2f6745a76b35"
   },
   {
     "newsArray": [
@@ -323,6 +431,26 @@
     "up": false,
     "date": "2026-03-19 10:36:01",
     "uuid": "58f0c3e5-17d6-481d-b788-41314a12ca8d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "尽管受伊朗战争干扰，沙特阿拉伯石油出口量恢复到正常水平一半以上，绕开霍尔木兹海峡的应急方案初见成效 ...",
+    "id": "8rbnzne2ZmS",
+    "order": 1773900478204,
+    "createdAt": "2026-03-19T01:32:00.000Z",
+    "publishDate": "2026-03-19T06:07:58.204Z",
+    "title": "绕开霍尔木兹另谋出路，沙特恢复逾五成原油出口",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-19 09:32:00",
+    "uuid": "8c121934-9ca3-4999-a8dc-2b42b4e07eb5"
   },
   {
     "newsArray": [
