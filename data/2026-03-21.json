@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "awtmt.com_news" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "微软正考虑就亚马逊与OpenAI高达500亿美元的合作协议提起诉讼，认为协议中“亚马逊成为OpenAI Frontier平台独家第三方云分发提供商”等条款，可能违反其与OpenAI的独家供应协议，争议焦点是“有状态运行时环境”（SRE）是否构成违约，微软认为该环境侵犯其独家权益，亚马逊已指示员工避免使用敏感表述，三方仍在谈判以避免诉讼。",
+    "id": "8re1C64JtPB",
+    "order": 1774027900526,
+    "createdAt": "2026-03-20T17:31:41.000Z",
+    "publishDate": "2026-03-20T17:31:40.526Z",
+    "title": "微软拟起诉，亚马逊与OpenAI 500亿美元合作陷独家协议纠纷",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-21 01:31:41",
+    "uuid": "d12be1d2-55e7-4729-946d-9a58b868fbfe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "WTI原油日内涨幅扩大至1.00%，现报96.51美元/桶。",
+    "id": "8reVCk8jjEV",
+    "order": 1774027363893,
+    "createdAt": "2026-03-20T17:22:43.000Z",
+    "publishDate": "2026-03-20T17:22:43.893Z",
+    "title": "WTI原油日内涨幅扩大至1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-21 01:22:43",
+    "uuid": "f347e323-be50-484c-8c1c-0cf3bebfb1e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "周五（3月20日）欧市尾盘，英国10年期国债收益率涨16.2个基点，报5.005%，本周累计涨17.7个基点，呈V形反转 ...",
+    "id": "8rewO1xULS5",
+    "order": 1774027350198,
+    "createdAt": "2026-03-20T17:22:31.000Z",
+    "publishDate": "2026-03-20T17:22:30.198Z",
+    "title": "英国两年期国债收益率本周涨超44个基点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-21 01:22:31",
+    "uuid": "88d3bfb1-967a-4039-834b-ba1f52ea5e7c"
+  },
+  {
+    "newsArray": [
       { "siteName": "中国科技网" },
       { "siteName": "科学网" },
       { "siteName": "中国科技网" }
