@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "3 月 19 日，日本东京电力公司发布新视频，显示福岛第一核电站 3 号机组反应堆压力容器底部存在孔洞，附着可能是堆芯熔毁后的核残渣 ...",
+    "id": "8rd8vpyl0Kt",
+    "order": 1773980185121,
+    "createdAt": "2026-03-20T04:16:25.000Z",
+    "publishDate": "2026-03-20T04:16:25.121Z",
+    "title": "福岛第一核电站首次拍摄到 3 号机组反应堆压力容器底部影像",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 12:16:25",
+    "uuid": "a99a9382-59e9-4b2f-8d41-f9ae308c0898"
+  },
+  {
+    "newsArray": [
+      { "siteName": "艾瑞网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AI 圈高频词“token”成为科技公司 CEO 讨论焦点。在 GTC 2026 大会上，英伟达 CEO 黄仁勋将其推向现实应用，提出可作为工程师薪酬一部分，认为能提升生产效率 ...",
+    "id": "8rckZrn1SE0",
+    "order": 1773979495296,
+    "createdAt": "2026-03-20T04:04:56.000Z",
+    "publishDate": "2026-03-20T04:04:55.296Z",
+    "title": "科技大佬齐话 token：黄仁勋建议将其纳入工程师薪资，奥尔特曼称将成全民收入",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 12:04:56",
+    "uuid": "a691c635-628f-425f-a17c-02f82b826bf4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "港股光通信概念股走强，长飞光纤光缆涨近7%，剑桥科技涨6%，京信通信涨近2% ...",
+    "id": "8rdu1Jbfl81",
+    "order": 1773979682095,
+    "createdAt": "2026-03-20T03:20:52.000Z",
+    "publishDate": "2026-03-20T04:08:02.095Z",
+    "title": "港股光通信概念股走强，长飞光纤光缆涨近7%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 11:20:52",
+    "uuid": "ee470484-5b24-41eb-9245-3e10e2656abf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "小米春季新品发布会于 3 月 19 日晚举行，在会后媒体沟通会上，雷军表示要积极拥抱 AI 时代，小米在 AI 领域全面布局，力争在模型领域成为国内乃至全球第一阵营选手 ...",
+    "id": "8rd8ztXtpaJ",
+    "order": 1773979494940,
+    "createdAt": "2026-03-20T01:46:54.000Z",
+    "publishDate": "2026-03-20T04:04:54.940Z",
+    "title": "雷军称小米很快会做电脑“龙虾”，手机“龙虾”已开启封测",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 09:46:54",
+    "uuid": "7fd9a4df-0b9f-4505-a2b9-61328082420e"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
@@ -74,6 +145,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "周四一项裁决显示，罗马一家法院撤销了意大利数据保护局于 2024 年 12 月对 ChatGPT 开发商 OpenAI 处以的 1500 万欧元（约 1700 万美元）罚款，理由是其涉嫌非法使用个人数据，当时 OpenAI 称处罚“过重”并上诉 ...",
+    "id": "8rd6F7pgWA4",
+    "order": 1773979520536,
+    "createdAt": "2026-03-20T01:25:11.000Z",
+    "publishDate": "2026-03-20T04:05:20.536Z",
+    "title": "意大利法院撤销对 OpenAI 的 1500 万欧元隐私罚款",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 09:25:11",
+    "uuid": "602f1b24-0052-41bd-8954-29838f36d6e6"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "钛媒体" },
@@ -112,6 +200,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "雷科技" }
+    ],
+    "summary": "猎豹移动董事长傅盛凌晨在朋友圈发文，所指人物为360集团创始人周鸿祎，称有人曾承诺还至少一亿让其停止香港官司，自己同意后对方A股上市却不再回应 ...",
+    "id": "8rdn2HHXRjn",
+    "order": 1773979563694,
+    "createdAt": "2026-03-20T01:05:26.000Z",
+    "publishDate": "2026-03-20T04:06:03.694Z",
+    "title": "傅盛朋友圈开撕周鸿祎：你欠一个亿未还，还删我",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 09:05:26",
+    "uuid": "58817523-50ea-4b4d-93bf-8fb4a6ed763f"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -129,6 +236,42 @@
     "up": false,
     "date": "2026-03-20 09:03:56",
     "uuid": "5248cb47-fdf0-4ef3-940c-06f356b11526"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "瑞银分析师Joseph Spak预测特斯拉第一季度交付量为34.5万辆，低于其此前36万辆的预测，也低于Visible Alpha的37.1万辆共识预期，但符合买方机构33万至35万辆的预期区间 ...",
+    "id": "8rdKJdhun2D",
+    "order": 1773979641815,
+    "createdAt": "2026-03-20T00:52:38.000Z",
+    "publishDate": "2026-03-20T04:07:21.815Z",
+    "title": "瑞银将特斯拉第一季度交付量预期下调至34.5万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 08:52:38",
+    "uuid": "39667ad7-4df1-450f-82b7-c354d90e5163"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "成都先衍生物技术有限公司宣布完成 1.5 亿元 A 轮融资，由道远资本、启申创投联合领投，多家机构跟投，老股东持续追投，凯乘资本担任独家财务顾问 ...",
+    "id": "8rdmv57W9qQ",
+    "order": 1773979666131,
+    "createdAt": "2026-03-20T00:14:27.000Z",
+    "publishDate": "2026-03-20T04:07:46.131Z",
+    "title": "先衍生物完成 1.5 亿元 A 轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 08:14:27",
+    "uuid": "a8fd6404-5d5c-48d2-b922-8ac2b4457bff"
   },
   {
     "newsArray": [
@@ -184,6 +327,26 @@
   },
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "和讯网" },
+      { "siteName": "网易科技" },
+      { "siteName": "和讯网" },
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "豆包正在做灰度测试 AI 电商功能「一句话购物」，用户打开豆包说出需求，它便会匹配商品、生成选购建议并附带链接，购物链路简单清晰 ...",
+    "id": "8rdib0o8ZjZ",
+    "order": 1773979709926,
+    "createdAt": "2026-03-19T23:44:12.000Z",
+    "publishDate": "2026-03-20T04:08:29.926Z",
+    "title": "豆包开启 AI 购物内测",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 07:44:12",
+    "uuid": "65183866-6bba-4ea3-b176-2a9ec076fca2"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "新浪科技" },
@@ -199,6 +362,24 @@
     "up": false,
     "date": "2026-03-20 07:43:30",
     "uuid": "c886a005-dbcc-4626-9f8e-f5909999bbcd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "巴克莱银行苹果分析师披露，苹果折叠屏iPhone Fold 9月与iPhone 18 Pro系列亮相，出货推迟到12月，复刻2017年iPhone X上市节奏 ...",
+    "id": "8rdhvp7Jg37",
+    "order": 1773979724743,
+    "createdAt": "2026-03-19T23:42:25.000Z",
+    "publishDate": "2026-03-20T04:08:44.743Z",
+    "title": "苹果首款折叠屏 iPhone Fold 预计 9 月发布：12 月才能出货",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-20 07:42:25",
+    "uuid": "accb64ff-94a2-4ffe-b14a-d9161a230af8"
   },
   {
     "newsArray": [
