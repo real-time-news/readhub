@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "OpenAI计划于2026年底前将员工人数增加近一倍至8000人，以加快向企业销售产品步伐，缩小与竞争对手Anthropic的差距。",
+    "id": "8rgIhmOw2nG",
+    "order": 1774095862407,
+    "createdAt": "2026-03-21T12:24:22.000Z",
+    "publishDate": "2026-03-21T12:24:22.407Z",
+    "title": "OpenAI计划在年底前将员工人数增加近一倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-21 20:24:22",
+    "uuid": "cce3e09b-7db0-4e4f-b7be-be211b1704bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "受国际局势影响，澳大利亚柴油价格大幅上涨，3月21日走访发现新南威尔士州近百家加油站柴油售罄，2月28日至3月21日，该州柴油均价从1.833澳元/升涨至2.825澳元/升。",
+    "id": "8rgHGenLHGY",
+    "order": 1774094566471,
+    "createdAt": "2026-03-21T12:02:46.000Z",
+    "publishDate": "2026-03-21T12:02:46.471Z",
+    "title": "中东冲突持续影响油价，悉尼部分加油站柴油售罄",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-21 20:02:46",
+    "uuid": "c9283192-00e7-4416-88f2-c76615d6c7e3"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "钛媒体" },
       { "siteName": "凤凰科技" },
@@ -53,6 +90,24 @@
     "up": false,
     "date": "2026-03-21 18:43:39",
     "uuid": "b5d73ec1-13b9-482d-801a-f8ce59fd33eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "中关村在线_ZOL企业站" }
+    ],
+    "summary": "华为云推出柔性智算操作系统FlexNPU，其核心价值是无需为大模型推理闲置算力、小模型推理独占算力浪费及昂贵的故障重算买单，实现AI算力分配供给从“资源模式”到“效率模式”的转变。",
+    "id": "8rgA5hhIxah",
+    "order": 1774094495442,
+    "createdAt": "2026-03-21T10:43:12.000Z",
+    "publishDate": "2026-03-21T12:01:35.442Z",
+    "title": "华为云发布柔性智算操作系统FlexNPU",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-21 18:43:12",
+    "uuid": "a6b904c5-5e65-40cb-a545-ef6df23b2cc0"
   },
   {
     "newsArray": [
