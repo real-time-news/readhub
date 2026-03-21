@@ -1,6 +1,62 @@
 [
   {
     "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "此前，AI编程平台Cursor发布的Composer 2模型被指本质是Kimi K2.5，舆论发酵后马斯克也指出这一点 ...",
+    "id": "8rfixxp7lJl",
+    "order": 1774071106600,
+    "createdAt": "2026-03-21T05:31:46.000Z",
+    "publishDate": "2026-03-21T05:31:46.600Z",
+    "title": "月之暗面回应“Cursor套壳Kimi K2.5”事件：属授权商业合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-21 13:31:46",
+    "uuid": "98028365-602f-4816-b197-2bdd857c821d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "消息人士称，美国正制定战略方案以夺取伊朗“核储备”。",
+    "id": "8rfog9P0PnO",
+    "order": 1774070700303,
+    "createdAt": "2026-03-21T05:25:00.000Z",
+    "publishDate": "2026-03-21T05:25:00.303Z",
+    "title": "消息人士称美国正计划夺取伊朗“核储备”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-21 13:25:00",
+    "uuid": "65c1e38f-a09b-48a4-bc1e-00ebc9e8e874"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国宇航局宣布“太空发射系统”（SLS）火箭及“猎户座”飞船已重返佛罗里达州 39B 发射台，准备执行 50 多年来的首次载人绕月任务 ...",
+    "id": "8rfWxtMi68a",
+    "order": 1774069344945,
+    "createdAt": "2026-03-21T05:02:25.000Z",
+    "publishDate": "2026-03-21T05:02:24.945Z",
+    "title": "美国载人绕月火箭重返发射台：修复泄漏故障，瞄准 4 月 1 日升空",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-21 13:02:25",
+    "uuid": "2a19f7ce-d559-42a8-b32e-d36e86ddf6d6"
+  },
+  {
+    "newsArray": [
       { "siteName": "雷科技" },
       { "siteName": "快科技" },
       { "siteName": "猎云网" }
