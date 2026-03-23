@@ -1,6 +1,148 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "韩国最早将于5月推出个股两倍杠杆ETF，首批标的为三星电子和SK海力士。韩国金融服务委员会本月将发布具体细则，包括对标的资产的市值、交易量要求及衍生品对冲相关规定 ...",
+    "id": "8rilbVqSBpp",
+    "order": 1774251854798,
+    "createdAt": "2026-03-23T07:44:14.000Z",
+    "publishDate": "2026-03-23T07:44:14.798Z",
+    "title": "韩媒：三星、SK海力士两倍杠杆ETF将于5月在韩国上市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 15:44:14",
+    "uuid": "c548445b-d23e-4154-975a-2d756ebfb260"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "大模型企业MiniMax将Coding Plan全面升级为Token Plan，这是全球首个支持全模态模型的统一订阅计划 ...",
+    "id": "8rj00P7HE5K",
+    "order": 1774251477108,
+    "createdAt": "2026-03-23T07:37:58.000Z",
+    "publishDate": "2026-03-23T07:37:57.108Z",
+    "title": "MiniMax发布全球首个支持全模态模型的订阅计划Token Plan",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 15:37:58",
+    "uuid": "0c0bca3b-c197-4519-9487-f513ab7d51e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "广东省发展改革委印发《广东省加快应用场景创新工作方案》，提出优先将重大应用场景项目创新产品纳入首台（套）目录，修订省首台（套）重大技术装备推广应用指导目录时，支持相关创新产品纳入征集范围，对符合要求的装备产品，销售后按规定对研制企业进行奖励。",
+    "id": "8rjH6HuOTJP",
+    "order": 1774251010491,
+    "createdAt": "2026-03-23T07:30:11.000Z",
+    "publishDate": "2026-03-23T07:30:10.491Z",
+    "title": "广东：优先将重大应用场景项目创新产品纳入首台（套）目录",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 15:30:11",
+    "uuid": "a237077e-088a-4c0e-972e-364e5bad5104"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "美国AI编程助手Cursor上周发布Composer 2模型，宣称有“前沿级编程智能”，但X平台用户Fynn指出该模型是中国AI公司月之暗面开源模型Kimi 2.5的衍生版本，仅做了强化学习训练，这一发现令业界意外。",
+    "id": "8rirL77XF0l",
+    "order": 1774250963993,
+    "createdAt": "2026-03-23T07:29:23.000Z",
+    "publishDate": "2026-03-23T07:29:23.993Z",
+    "title": "Cursor 承认其 Composer 2 模型基于月之暗面 Kimi K2.5 构建",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 15:29:23",
+    "uuid": "1d6ea2b5-6d7b-4ecf-bc96-36110cf4440c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "在中国发展高层论坛2026年年会上，强脑科技创始人兼CEO韩璧丞表示，脑机接口技术正迎来关键突破期，未来几年有望解决睡眠障碍、ADHD等脑疾病问题 ...",
+    "id": "8rj73C1hRRE",
+    "order": 1774250505054,
+    "createdAt": "2026-03-23T07:21:46.000Z",
+    "publishDate": "2026-03-23T07:21:45.054Z",
+    "title": "强脑科技创始人：脑机接口在几年内解决脑疾病问题",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 15:21:46",
+    "uuid": "01f5fb3a-3853-4560-b59e-e807faf95f0f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "网易云音乐宣布全面接入OpenClaw，将音乐推荐、搜索等基础能力封装成标准化CLI及自动化Skill，成为业内首个向AI Agent开放核心音乐服务能力的平台 ...",
+    "id": "8rj5fsFvmCy",
+    "order": 1774250448158,
+    "createdAt": "2026-03-23T07:14:38.000Z",
+    "publishDate": "2026-03-23T07:20:48.158Z",
+    "title": "网易云音乐全面接入OpenClaw",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 15:14:38",
+    "uuid": "ec8ca946-5e79-49a2-97a0-03bdc1452e6c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "丙烯主力合约触及涨停，涨幅13%，报9908元/吨。",
+    "id": "8rjCkHorCAE",
+    "order": 1774249791751,
+    "createdAt": "2026-03-23T07:09:51.000Z",
+    "publishDate": "2026-03-23T07:09:51.751Z",
+    "title": "丙烯主力合约触及涨停，涨幅13%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 15:09:51",
+    "uuid": "61d837e8-f1fd-4c48-af7c-bd9fded7bad0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "广州白云区一栋近40年楼龄的住宅楼加装电梯引发邻里纠纷。前期唯一反对的业主张叔，在电梯建成后提出补交约1.9万元使用电梯遭全楼拒绝，随后将邻居告上法庭 ...",
+    "id": "8rhGhMsA96A",
+    "order": 1774250721871,
+    "createdAt": "2026-03-23T06:47:51.000Z",
+    "publishDate": "2026-03-23T07:25:21.871Z",
+    "title": "业主反对加装电梯后反悔 提出补交1.9万元遭全楼拒绝",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 14:47:51",
+    "uuid": "f6f4e0de-8506-4d00-bdf0-e26d861f05af"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -339,6 +481,28 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "市场早盘低开调整，三大指数均跌超2%，沪指跌破3900点，沪深两市半日成交额1.46万亿，较上一交易日放量155亿。全市场近5000只个股下跌，题材弱势轮动，情绪降至冰点 ...",
+    "id": "8rj1IhUW0IL",
+    "order": 1774251454156,
+    "createdAt": "2026-03-23T03:44:23.000Z",
+    "publishDate": "2026-03-23T07:37:34.156Z",
+    "title": "午评：沪指跌超2%失守3900点 全市场近5000只个股下挫",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 11:44:23",
+    "uuid": "2d167be8-0b1e-440e-a37b-01e473830f49"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
       { "siteName": "网易科技" }
@@ -505,6 +669,25 @@
     "up": false,
     "date": "2026-03-23 11:10:38",
     "uuid": "9481f1f6-b74b-4065-a997-0ff81fb46e42"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "2026北京亦庄半程马拉松暨人形机器人半程马拉松赛事相关信息发布，赛事由多单位共同主办。本届新增机器人“巴图鲁”挑战赛，赛道设多元场景和17项挑战障碍，检验机器人稳定性与灵活度 ...",
+    "id": "8rix2hDVvWx",
+    "order": 1774250125791,
+    "createdAt": "2026-03-23T03:09:01.000Z",
+    "publishDate": "2026-03-23T07:15:25.791Z",
+    "title": "2026人形机器人半程马拉松新增机器人“巴图鲁”挑战赛",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 11:09:01",
+    "uuid": "323ea9da-56ed-4569-b019-269c973fab13"
   },
   {
     "newsArray": [
