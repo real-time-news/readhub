@@ -1,6 +1,115 @@
 [
   {
     "newsArray": [
+      { "siteName": "i黑马" },
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "近日，腾讯开启“腾讯AI问股”小程序限量内测，该产品由腾讯科技（北京）有限公司开发，利用AI大模型为投资者提供证券专业咨询服务，仅对受邀用户开放 ...",
+    "id": "8rix20ZQQt5",
+    "order": 1774270381838,
+    "createdAt": "2026-03-23T12:53:01.000Z",
+    "publishDate": "2026-03-23T12:53:01.838Z",
+    "title": "腾讯内测“AI问股”小程序:大模型全面接入证券咨询服务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 20:53:01",
+    "uuid": "b2ae4774-790a-483f-a114-6dc980105e51"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "OpenAI聘请前Meta高管Dave Dugan为全球广告解决方案副总裁。",
+    "id": "8rjbqGjpAzw",
+    "order": 1774268712987,
+    "createdAt": "2026-03-23T12:25:13.000Z",
+    "publishDate": "2026-03-23T12:25:12.987Z",
+    "title": "OpenAI聘请前Meta高管Dave Dugan为全球广告解决方案副总裁",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 20:25:13",
+    "uuid": "7d617786-a256-4c3b-b200-7c4bda1b78d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "尽管市场担忧4月原油短缺，但韩国认为凭借现有储备和替代供应，原油供应可控。来自阿联酋的2400万桶原油3月底陆续运抵，政府准备4月中旬释放石油储备，届时私人库存预计耗尽。",
+    "id": "8rj76YRoUtK",
+    "order": 1774268665877,
+    "createdAt": "2026-03-23T12:24:26.000Z",
+    "publishDate": "2026-03-23T12:24:25.877Z",
+    "title": "韩国官员称原油供应仍可控，政府准备在4月中旬释放石油储备",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 20:24:26",
+    "uuid": "23b8ff36-eaa3-49f7-b9c9-f578523a61e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "碧桂园公告，预计2025年度利润约10亿 - 22亿元，2024年损失约351.45亿元，本年度转亏为盈主要因完成债务重组录得非现金收益 ...",
+    "id": "8rjb7KtgGhm",
+    "order": 1774268543742,
+    "createdAt": "2026-03-23T12:22:23.000Z",
+    "publishDate": "2026-03-23T12:22:23.742Z",
+    "title": "碧桂园：预计2025年利润为10亿元至22亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 20:22:23",
+    "uuid": "a0eab31b-0c43-4b9f-82bb-02ce28ed7e2a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中国证监会国际合作司发布剂泰科技（北京）股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超273,495,000股境外上市普通股在港交所上市，39名股东拟将合计851,697,111股境内未上市股份转为境外上市股份并在港交所流通。",
+    "id": "8rjYvVxJxzn",
+    "order": 1774267507742,
+    "createdAt": "2026-03-23T11:45:00.000Z",
+    "publishDate": "2026-03-23T12:05:07.742Z",
+    "title": "剂泰科技港股IPO获中国证监会备案",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 19:45:00",
+    "uuid": "3d5df2f3-31ec-429e-9510-8bca43e08a25"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国际油价持续下跌，WTI原油期货跌超13%，报85.05美元/桶。布伦特原油期货跌超13%，报92.275美元/桶。",
+    "id": "8rjYAaTAJnZ",
+    "order": 1774268462121,
+    "createdAt": "2026-03-23T11:43:35.000Z",
+    "publishDate": "2026-03-23T12:21:02.121Z",
+    "title": "国际油价持续下跌 美油布油均跌超13%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-23 19:43:35",
+    "uuid": "397a4233-66d9-45e4-a7fd-21de302ac12f"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
