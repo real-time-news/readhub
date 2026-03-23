@@ -1,6 +1,79 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果公司官宣 2026 年 6 月 9 日至 12 日举办全球开发者大会（WWDC26） ...",
+    "id": "8rkKpHdsBgX",
+    "order": 1774309657626,
+    "createdAt": "2026-03-23T23:47:38.000Z",
+    "publishDate": "2026-03-23T23:47:37.626Z",
+    "title": "苹果 WWDC26 前瞻：iOS 27 迎“雪豹”式优化，AI 版 Siri 史诗级进化",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 07:47:38",
+    "uuid": "b60b8910-f7cb-4a30-8cd8-e7b389549902"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "马斯克宣布建造“Terafab”芯片工厂计划，该工厂最终每年将生产1太瓦计算能力，目标是每年制造1000亿至2000亿颗先进的2纳米芯片 ...",
+    "id": "8rjFfqrUpAC",
+    "order": 1774309340149,
+    "createdAt": "2026-03-23T23:42:21.000Z",
+    "publishDate": "2026-03-23T23:42:20.149Z",
+    "title": "外媒：马斯克宣布将建超级芯片工厂，目标每年制造1000亿至2000亿颗2纳米芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 07:42:21",
+    "uuid": "9f052b48-5c95-4bca-b8d5-1995687915e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "雅诗兰黛正就收购西班牙美妆时尚集团Puig进行磋商，交易将打造年销售额约200亿美元的化妆品巨头，两家公司均未透露具体条款，Puig总部位于西班牙，市值约90亿欧元。",
+    "id": "8rkCCuxYKgP",
+    "order": 1774308257091,
+    "createdAt": "2026-03-23T23:24:18.000Z",
+    "publishDate": "2026-03-23T23:24:17.091Z",
+    "title": "雅诗兰黛洽谈收购西班牙Puig，意欲打造美妆巨头",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 07:24:18",
+    "uuid": "5db05a81-61eb-43ff-b9e2-b3b902f0bbff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "在类似IPO招股书的文件中，OpenAI向潜在投资者指出，与微软的紧密关系可能对业务构成潜在风险，微软为其提供了“相当大一部分融资与算力支持” ...",
+    "id": "8rkNes4LW48",
+    "order": 1774308243210,
+    "createdAt": "2026-03-23T23:24:04.000Z",
+    "publishDate": "2026-03-23T23:24:03.210Z",
+    "title": "OpenAI在投资者文件中将对微软的依赖列为风险",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 07:24:04",
+    "uuid": "807035f4-1ab6-44a6-99dd-876fbc4ad6f6"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
