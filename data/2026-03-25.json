@@ -1,6 +1,74 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "据“美联储观察”，美联储4月加息25个基点概率为9.3%，维持利率不变概率为90.7%。到6月累计加息25个基点概率为17.1%，维持利率不变概率为80.2%。",
+    "id": "8rlyFq3TRks",
+    "order": 1774392173749,
+    "createdAt": "2026-03-24T22:42:54.000Z",
+    "publishDate": "2026-03-24T22:42:53.749Z",
+    "title": "美联储4月维持利率不变的概率为90.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 06:42:54",
+    "uuid": "7a16175c-2b75-4c3a-aee3-0dc084ae1c74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "3月25日，WTI 5月原油期货收涨4.22美元，涨幅近4.79%，报92.35美元/桶。布伦特5月原油期货收涨4.55美元，涨幅超4.55%，报104.49美元/桶 ...",
+    "id": "8rlpfXovY6V",
+    "order": 1774391068272,
+    "createdAt": "2026-03-24T22:24:28.000Z",
+    "publishDate": "2026-03-24T22:24:28.272Z",
+    "title": "美国原油期货收涨约4.8%，中东油价则跌约14.1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 06:24:28",
+    "uuid": "b81089cc-c1f5-440d-ba84-cdb02e37068b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "aibase" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "美国人工智能企业Anthropic宣布旗下Claude模型可操纵用户电脑完成任务，如打开应用程序、浏览网页、填写电子表格等，该功能已在macOS版Claude Cowork和Claude Code中提供 ...",
+    "id": "8rkwhU9VdtO",
+    "order": 1774391036045,
+    "createdAt": "2026-03-24T22:23:57.000Z",
+    "publishDate": "2026-03-24T22:23:56.045Z",
+    "title": "智能体大战升温：Claude可代用户操作电脑 AI代理走向实用化",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 06:23:57",
+    "uuid": "1722aaa1-53db-4ee9-930a-8cd177615fbd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Epic Games 首席执行官 Tim Sweeney 发内部邮件宣布裁员 1000 人，主因是《堡垒之夜》玩家活跃度下滑，公司支出高于收入，需降本增效 ...",
+    "id": "8rlTsNg6p8G",
+    "order": 1774390964435,
+    "createdAt": "2026-03-24T22:22:44.000Z",
+    "publishDate": "2026-03-24T22:22:44.435Z",
+    "title": "曝 Epic 宣布裁员 1000 人，《堡垒之夜》玩家活跃度下滑成主因",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 06:22:44",
+    "uuid": "2575220e-af63-40b1-b3e1-3f6e6c80e235"
+  },
+  {
+    "newsArray": [
       { "siteName": "awtmt.com_news" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
