@@ -1,6 +1,128 @@
 [
   {
     "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Meta近日收购人工智能初创公司Dreamer的核心团队，交易金额未披露。此次“人才收购”旨在加强其超级智能实验室在自主智能体领域的研发实力，Dreamer多位核心成员将加入Meta ...",
+    "id": "8rk3fcI7vB0",
+    "order": 1774339741331,
+    "createdAt": "2026-03-24T08:09:01.000Z",
+    "publishDate": "2026-03-24T08:09:01.331Z",
+    "title": "Meta收购AI初创公司Dreamer核心团队以强化智能体研发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 16:09:01",
+    "uuid": "6bfe67a4-4161-47ad-a893-e4c82d9e0a45"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "实测苹果 MacBook Neo 的极限内存承受力，测试者同时打开 60 个应用程序，macOS 系统未崩溃，播放流媒体视频也流畅，反驳了“8GB 内存绝对不够用”的论调，证明其足以应对多数普通用户甚至部分极端的应用多开需求，但有更高专业需求的用户，M5 MacBook Air 是更好选择。",
+    "id": "8rkbH4ujjys",
+    "order": 1774338849065,
+    "createdAt": "2026-03-24T07:54:09.000Z",
+    "publishDate": "2026-03-24T07:54:09.065Z",
+    "title": "苹果MacBook Neo同时打开60个应用仍能流畅播放视频",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 15:54:09",
+    "uuid": "e8158418-0c22-404a-b2c0-bfce7e45863c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "港股AI应用产业链持续拉升，MINIMAX - WP涨超12%，智谱涨超10%，金山云、腾讯控股、阿里巴巴 - W涨超3%。",
+    "id": "8rkxNEKJFJ2",
+    "order": 1774339483359,
+    "createdAt": "2026-03-24T07:53:28.000Z",
+    "publishDate": "2026-03-24T08:04:43.359Z",
+    "title": "港股AI应用产业链持续拉升，MINIMAX涨超12%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 15:53:28",
+    "uuid": "03d5ad85-242f-4c1d-a4eb-9e5962c46624"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "恒生科技指数涨幅扩大至2.5%，科指成分股中，华虹半导体涨近5%，腾讯控股、比亚迪股份、理想汽车、蔚来涨近4%，阿里巴巴、小鹏汽车涨超3%。",
+    "id": "8rkuZosx3wH",
+    "order": 1774339986431,
+    "createdAt": "2026-03-24T07:52:39.000Z",
+    "publishDate": "2026-03-24T08:13:06.431Z",
+    "title": "恒生科技指数涨幅扩大至2.5%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 15:52:39",
+    "uuid": "6c40efbb-e1c3-4987-991d-e46fae1c7b4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LG 显示率先实现支持最低 1Hz 刷新率的 LCD 笔记本屏幕量产，搭载相应面板的 2026 款戴尔 XPS 14/16 笔记本已上市 ...",
+    "id": "8rkL7TkKg9d",
+    "order": 1774338555706,
+    "createdAt": "2026-03-24T07:49:16.000Z",
+    "publishDate": "2026-03-24T07:49:15.706Z",
+    "title": "LG 显示宣布已率先实现支持最低 1Hz 刷新率的 LCD 笔记本屏幕量产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 15:49:16",
+    "uuid": "45552ff0-7afd-45b2-bd60-3b39d24755ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "SK海力士公司计划在美国上市筹集10万亿至15万亿韩元（约合100亿美元）资金，用于建设人工智能基础设施、在韩国龙仁市建设半导体集群及扩大存储产品产能 ...",
+    "id": "8rkuamP2OtM",
+    "order": 1774339507185,
+    "createdAt": "2026-03-24T07:48:15.000Z",
+    "publishDate": "2026-03-24T08:05:07.185Z",
+    "title": "SK海力士计划通过赴美上市筹资约100亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 15:48:15",
+    "uuid": "023e24b9-55ea-4e1b-a8d3-acddc4356ee3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "工会周二声明，三星电子管理层与韩国员工工会同意重启奖金谈判，该工会代表近9万名员工，占韩国本土员工总数七成以上，工会上周投票授权罢工，使三星面临生产中断风险。",
+    "id": "8rkt58ThtSc",
+    "order": 1774338362453,
+    "createdAt": "2026-03-24T07:46:02.000Z",
+    "publishDate": "2026-03-24T07:46:02.453Z",
+    "title": "工会称三星电子与工会将重启奖金相关谈判",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 15:46:02",
+    "uuid": "8fbd4135-2189-4fe2-9b6a-6d88077d0ce6"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "网易科技" },
       { "siteName": "雷锋网" },
@@ -50,6 +172,25 @@
     "up": false,
     "date": "2026-03-24 15:28:14",
     "uuid": "6f4de674-de4e-4e81-8fc7-0fb861a7f40a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "开源中国" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "发布会上指出，到今年3月，我国日均词元调用量超140万亿，较2024年初增长1000多倍，较2025年底增长40%多，表明中国人工智能发展进入快速增长阶段，产业竞争力显著增强，Token出海是标志之一 ...",
+    "id": "8rklwqC5NPN",
+    "order": 1774338464409,
+    "createdAt": "2026-03-24T07:09:04.000Z",
+    "publishDate": "2026-03-24T07:47:44.409Z",
+    "title": "我国日均词元调用量超140万亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 15:09:04",
+    "uuid": "6cadc5ef-c258-45b2-9fc2-eabc3cad13aa"
   },
   {
     "newsArray": [
@@ -104,6 +245,24 @@
     "up": false,
     "date": "2026-03-24 15:06:30",
     "uuid": "004bf3e0-407b-4708-b6d2-447d89c681ba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "雷科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "汽车互联网服务平台汽车之家多个平台社交账号被禁止关注，微博因违反法律法规或《微博社区公约》，抖音、快手、B站等提示“账号异常”或“违反社区规定”，仅微博账号客服有回复 ...",
+    "id": "8rkj7XunydJ",
+    "order": 1774339486004,
+    "createdAt": "2026-03-24T06:46:26.000Z",
+    "publishDate": "2026-03-24T08:04:46.004Z",
+    "title": "汽车之家多个平台社交账号被禁止关注",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 14:46:26",
+    "uuid": "5684d54c-e505-4e8e-b4fd-971e44722d30"
   },
   {
     "newsArray": [
