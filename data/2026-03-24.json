@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "商汤在港交所公告，2025年度集团总收入50.146亿元，同比增长32.9%。净亏损同比收窄58.6%至17.82亿元、经调整净亏损同比收窄54.3%至19.561亿元 ...",
+    "id": "8rl7RpMq7xA",
+    "order": 1774346799386,
+    "createdAt": "2026-03-24T10:06:40.000Z",
+    "publishDate": "2026-03-24T10:06:39.386Z",
+    "title": "商汤：2025年经调整净亏损同比收窄54.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 18:06:40",
+    "uuid": "d3a9b163-3bdd-402f-a6ff-8e780511e9fc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "在2026玄铁RISC - V生态大会上，阿里发布RISC - V CPU玄铁C950，结合新引擎可实现通用与AI推理一体高性能计算，流畅运行Qwen3千亿参数模型 ...",
+    "id": "8rkuYWXcSHU",
+    "order": 1774346743692,
+    "createdAt": "2026-03-24T10:05:44.000Z",
+    "publishDate": "2026-03-24T10:05:43.692Z",
+    "title": "千问加入玄铁RISC-V无剑联盟，阿里加速“芯模协同”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 18:05:44",
+    "uuid": "ac2da315-14b5-4f29-8d5e-1a7f16c0b82b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "平安好医生（01833.HK）公布2025年年度业绩报告，总收入54.68亿元，同比增长13.7%，归母利润3.8亿元，同比增长366.1%，调整后净利润4.14亿元，同比增长161.3% ...",
+    "id": "8rl7OrrAXE9",
+    "order": 1774346696510,
+    "createdAt": "2026-03-24T10:04:56.000Z",
+    "publishDate": "2026-03-24T10:04:56.510Z",
+    "title": "平安好医生2025年报：净利润3.8亿元，同比增366%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 18:04:56",
+    "uuid": "fdde06b5-6468-4a0a-8e64-d859e1eabc3c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "联商网" },
+      { "siteName": "猎云网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "蜜雪集团发布管理层调整公告，原集团 CEO 张红甫出任集团联席董事长，卸任首席执行官，继续担任执行董事 ...",
+    "id": "8rkkYEycU1n",
+    "order": 1774346695023,
+    "createdAt": "2026-03-24T09:50:44.000Z",
+    "publishDate": "2026-03-24T10:04:55.023Z",
+    "title": "蜜雪冰城高管变动：张红甫卸任CEO，90后张渊接任",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 17:50:44",
+    "uuid": "58a413da-c942-4a21-b6e5-2e1f27c02586"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "招商银行因近期黄金市场波动加剧，自 3 月 23 日起将黄金账户业务买卖交易点差调整至 5 元 / 克，买入方向点差增加 2 元 / 克，卖出方向点差不变，调整后的点差方案预计运行至 6 月 27 日 ...",
+    "id": "8rkhnvLYeE9",
+    "order": 1774346745835,
+    "createdAt": "2026-03-24T09:49:26.000Z",
+    "publishDate": "2026-03-24T10:05:45.835Z",
+    "title": "招商银行上调黄金账户点差至5元/克，客服回应：为顺应市场环境",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 17:49:26",
+    "uuid": "59a0ba19-c846-4d8d-b79d-f6d023153e96"
+  },
+  {
+    "newsArray": [
+      { "siteName": "科学网" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "截至目前，国家重大科技基础设施郭守敬望远镜（LAMOST）发布的光谱数突破三千万条，继续稳居国际上发布光谱数量最多的巡天项目，其光谱已汇集成LAMOST DR13（v1.0版本）数据集，正式面向国内天文学家与国际合作者发布。",
+    "id": "8rl3pnU8Iof",
+    "order": 1774345765996,
+    "createdAt": "2026-03-24T09:49:25.000Z",
+    "publishDate": "2026-03-24T09:49:25.996Z",
+    "title": "郭守敬望远镜发布光谱数突破三千万条",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 17:49:25",
+    "uuid": "8bbdb68d-e0d1-4f3d-b430-a8bdef874323"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "西湖大学孵化的西湖机器人公司在杭州发布人形机器人“Titan o1”（泰坦o1），其搭载全球机器人领域首个动作泛化大模型GAE，该技术为不同厂家机器人装上通用“小脑”，使机器人能突破时空限制实时模仿人类动作，实现手脚协同。",
+    "id": "8rjkPhRqexa",
+    "order": 1774345595188,
+    "createdAt": "2026-03-24T09:46:35.000Z",
+    "publishDate": "2026-03-24T09:46:35.188Z",
+    "title": "西湖大学发布全球首个机器人动作泛化大模型 GAE",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 17:46:35",
+    "uuid": "9a188d85-bea5-491f-b204-e9ee2aba6b5a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "小米集团公告2025年业绩：全年营收4572.9亿元，同比增25%。调整后净利润391.7亿元，比上年增长44%，超市场预估。手机×AIoT分部收入3512亿元，同比增5.4% ...",
+    "id": "8rl5E7C96qm",
+    "order": 1774345401191,
+    "createdAt": "2026-03-24T09:43:22.000Z",
+    "publishDate": "2026-03-24T09:43:21.191Z",
+    "title": "小米集团：2025年全年营收4573亿元，同比增长25%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 17:43:22",
+    "uuid": "007fc228-6cc0-4464-bfed-47b412486a57"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "AMZ123" }
+    ],
+    "summary": "在岸人民币兑美元收盘报6.8877，较上一交易日上涨185点。",
+    "id": "8rl1iEAIepd",
+    "order": 1774345758792,
+    "createdAt": "2026-03-24T09:22:34.000Z",
+    "publishDate": "2026-03-24T09:49:18.792Z",
+    "title": "在岸人民币兑美元收报6.8877，较上一交易日上涨185点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 17:22:34",
+    "uuid": "a5442d4a-680f-4036-9fe4-b9c1d9665882"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "猎云网" },
       { "siteName": "格隆汇" }
@@ -845,6 +1022,24 @@
     "up": false,
     "date": "2026-03-24 11:46:59",
     "uuid": "2e7db39e-f9b0-4391-92ad-01cdf39cf34d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "梅赛德斯 - 奔驰集团董事会主席康林松表示，公司在全球150个市场运营，最终目标是零排放。至20年代末，将为每个细分市场提供纯电车型，也会提供高效电气化内燃机车型 ...",
+    "id": "8rkdUIuGzwb",
+    "order": 1774346861241,
+    "createdAt": "2026-03-24T03:26:51.000Z",
+    "publishDate": "2026-03-24T10:07:41.241Z",
+    "title": "梅赛德斯-奔驰康林松：至20年代末将向全球每个市场提供纯电车型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-24 11:26:51",
+    "uuid": "c28c55ba-729a-4c14-83f1-7d83e6b3c5f1"
   },
   {
     "newsArray": [
