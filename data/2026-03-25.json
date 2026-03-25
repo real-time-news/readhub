@@ -1,6 +1,164 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "日经225指数涨破54000点关口，目前涨逾3.3%。",
+    "id": "8rm9jZQrScw",
+    "order": 1774406751142,
+    "createdAt": "2026-03-25T02:45:51.000Z",
+    "publishDate": "2026-03-25T02:45:51.142Z",
+    "title": "日股涨破54000点关口",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 10:45:51",
+    "uuid": "03dc5279-7f8c-41bf-b416-8f1c377a6b10"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "字节跳动旗下云计算品牌火山引擎自2026年春节以来，云端大模型日均调用量突破100万亿Tokens，不到两个月增长超60%，使字节跳动成为全球仅有的日均Token消耗量超百万亿的三家公司之一 ...",
+    "id": "8rmFObMIJdT",
+    "order": 1774406695081,
+    "createdAt": "2026-03-25T02:44:55.000Z",
+    "publishDate": "2026-03-25T02:44:55.081Z",
+    "title": "火山引擎云端大模型日均调用量破百万亿Tokens，跻身全球前三",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 10:44:55",
+    "uuid": "c6fbc705-a791-4a36-8914-66fef98ac7b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "亚马逊宣布收购初创公司Fauna Robotics，该公司正在开发身高约107公分、拥有手臂和腿，能与人互动、行走、抓取物品和跳舞的人形机器人Sprout。",
+    "id": "8rmB6vX6x6C",
+    "order": 1774406560106,
+    "createdAt": "2026-03-25T02:42:40.000Z",
+    "publishDate": "2026-03-25T02:42:40.106Z",
+    "title": "亚马逊收购Fauna Robotics，进军消费级人形机器人市场",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 10:42:40",
+    "uuid": "271de28c-4a26-46f3-9676-778eb4955638"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "新浪科技" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "信达生物（01801）发布公告，其与礼来制药2026年2月8日签署的推动肿瘤学及免疫学领域新药研发的战略合作协议，已获联邦贸易委员会提前批准，所有先决条件均达成，该协议于香港时间2026年3月24日生效 ...",
+    "id": "8rm5icAmjx5",
+    "order": 1774406939681,
+    "createdAt": "2026-03-25T02:37:40.000Z",
+    "publishDate": "2026-03-25T02:48:59.681Z",
+    "title": "信达生物与礼来制药的战略合作已生效 澄清非收购交易",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 10:37:40",
+    "uuid": "26b4181c-7ab4-47e2-ab14-643b04edea68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "全球AI云平台服务提供商涂鸦智能发布AI助理TuyaClaw，旨在降低AI Agent使用门槛，实现数字世界任务与物理世界设备控制联动 ...",
+    "id": "8rkj4J0UfcR",
+    "order": 1774405603078,
+    "createdAt": "2026-03-25T02:26:43.000Z",
+    "publishDate": "2026-03-25T02:26:43.078Z",
+    "title": "涂鸦智能发布AI助理TuyaClaw",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 10:26:43",
+    "uuid": "671988bf-b727-4ac0-9d24-aadf93acadf6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "驰为就 CoreBook X、CoreBook Plus 笔记本“虚标”CPU 事件发布声明，称因生产失误，部分笔记本被错误装配不符合规格的处理器 ...",
+    "id": "8rl7Nyh1iyC",
+    "order": 1774405585303,
+    "createdAt": "2026-03-25T02:26:25.000Z",
+    "publishDate": "2026-03-25T02:26:25.303Z",
+    "title": "驰为回应笔记本CPU虚标事件：系生产过程失误，将全额退款",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 10:26:25",
+    "uuid": "75e94d82-cb15-4158-858a-483d3a09ad35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "今天（25日），中船大连造船建造的30.7万吨超大型油船“君望”轮即将交付 ...",
+    "id": "8rmFPbSBopO",
+    "order": 1774405520475,
+    "createdAt": "2026-03-25T02:25:20.000Z",
+    "publishDate": "2026-03-25T02:25:20.475Z",
+    "title": "我国自研新一代超大型油船今天交付",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 10:25:20",
+    "uuid": "15707be0-e4f5-45c1-9cde-abaa74e53eb7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "今天（25 日）上午，2026 中关村论坛年会在北京开幕，为期 5 天，主题为“科技创新与产业创新深度融合”，设置五大板块、百余场活动，有来自 100 多个国家和地区的上千名嘉宾参与 ...",
+    "id": "8rm8J7CA6PN",
+    "order": 1774404503694,
+    "createdAt": "2026-03-25T02:07:27.000Z",
+    "publishDate": "2026-03-25T02:08:23.694Z",
+    "title": "2026中关村论坛年会今天开幕",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 10:07:27",
+    "uuid": "308c528c-f78c-4bfd-9f2e-b947f29c5f8b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "香港恒生指数开盘涨0.87%，恒生科技指数涨0.99%，智谱涨超4%，天齐锂业涨超3%，理想汽车、泡泡玛特涨超2%，小米集团跌近2%。",
+    "id": "8rmBteSF9H9",
+    "order": 1774405347351,
+    "createdAt": "2026-03-25T01:45:42.000Z",
+    "publishDate": "2026-03-25T02:22:27.351Z",
+    "title": "香港恒生指数开盘涨0.87%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 09:45:42",
+    "uuid": "011c0acb-1fd3-4e5c-8d5f-03ba630a11b7"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
