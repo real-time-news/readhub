@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "量子位" }
+    ],
+    "summary": "如今已有公司招聘“龙虾官”，招聘网站上“OpenClaw”标签下岗位不少，招聘标语目标明确，且“养虾工程师”等岗位在多地有需求。热招龙虾人才的公司涉及多领域，薪资可观 ...",
+    "id": "8rmv1F0PaTe",
+    "order": 1774452758180,
+    "createdAt": "2026-03-25T15:32:39.000Z",
+    "publishDate": "2026-03-25T15:32:38.180Z",
+    "title": "第一批“首席龙虾官” 月薪6万",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 23:32:39",
+    "uuid": "5d10880d-54fa-47e0-aa27-c292218f3485"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "3月25日22时53分，内蒙古锡林郭勒盟多伦县（北纬42.47度，东经116.76度）发生4.2级地震，震源深度12千米。",
+    "id": "8rn7lextlNZ",
+    "order": 1774452216101,
+    "createdAt": "2026-03-25T15:23:37.000Z",
+    "publishDate": "2026-03-25T15:23:36.101Z",
+    "title": "内蒙古锡林郭勒盟多伦县发生4.2级地震",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 23:23:37",
+    "uuid": "7928962a-b7f5-412b-a7b9-a4f5edec3340"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国内商品期市夜盘收盘涨跌参半，化工品涨幅居前，甲醇涨3.01%。农副产品全部上涨，玉米淀粉涨0.54%。油脂油料多数上涨，豆粕涨0.27%。能源品跌幅居前，低硫燃料油跌3.02% ...",
+    "id": "8rn7kc5Q97D",
+    "order": 1774452181083,
+    "createdAt": "2026-03-25T15:23:01.000Z",
+    "publishDate": "2026-03-25T15:23:01.083Z",
+    "title": "国内商品期市夜盘收盘涨跌参半 化工品涨幅居前甲醇涨3%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 23:23:01",
+    "uuid": "91ea92ea-eeec-4f88-838a-0332c4d376b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "WTI原油跌3.05%，报89.535美元/桶。布伦特原油跌3.34%，报96.884美元/桶。标普500指数涨幅收窄至0.5%，此前一度涨1.2%。",
+    "id": "8rmzGAcngEk",
+    "order": 1774452139551,
+    "createdAt": "2026-03-25T15:22:19.000Z",
+    "publishDate": "2026-03-25T15:22:19.551Z",
+    "title": "国际原油日内跌幅收窄至3%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 23:22:19",
+    "uuid": "622a6f23-9f69-4ea1-9566-620a8fef53c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "印度信息部长Ashwini Vaishnaw称，印度内阁已批准修订后的气候目标，作为修订后的“国家自主贡献”（NDCs）一部分，涵盖至2035年的五年期目标 ...",
+    "id": "8rmqbi6hPnR",
+    "order": 1774451152356,
+    "createdAt": "2026-03-25T15:05:52.000Z",
+    "publishDate": "2026-03-25T15:05:52.356Z",
+    "title": "印度计划到2035年将GDP排放强度降低47%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 23:05:52",
+    "uuid": "a966f42d-bdd2-4166-84d8-c175371f0d89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "开源中国" },
+      { "siteName": "创业邦" }
+    ],
+    "summary": "近日，NeurIPS 在征稿通知中禁止受美国制裁机构名单中的部分组织投稿，引发计算机学术界广泛关注与强烈不满 ...",
+    "id": "8rmf83s4vq6",
+    "order": 1774451135345,
+    "createdAt": "2026-03-25T15:05:35.000Z",
+    "publishDate": "2026-03-25T15:05:35.345Z",
+    "title": "中国计算机学会关于 NeurIPS 禁止部分机构参与投稿的声明",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-25 23:05:35",
+    "uuid": "ae89fcf8-0fb3-4874-b1c8-0f7b82a86ab1"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "界面" },
       { "siteName": "格隆汇" }
