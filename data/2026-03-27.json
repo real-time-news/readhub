@@ -1,6 +1,151 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上汽集团首位人形机器人员工“能仔1号”正式在别克至境E7电池量产线上岗，承担电芯抓取、上料等核心工序，这是上汽首个投入量产产线应用的人形机器人案例 ...",
+    "id": "8rpp01eRzbG",
+    "order": 1774592709395,
+    "createdAt": "2026-03-27T06:25:09.000Z",
+    "publishDate": "2026-03-27T06:25:09.395Z",
+    "title": "上汽集团首个人形机器人投入产线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-27 14:25:09",
+    "uuid": "18898151-3d2e-4799-9c1a-2b13607ec209"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "诺和诺德宣布，美国食品药品监督管理局（FDA）正式批准其Awiqli®（依柯胰岛素注射液：700单位/毫升）上市，该药物用于辅助饮食和运动，改善成人2型糖尿病患者血糖控制，获批后可将每周多达七次的常规基础胰岛素注射大幅缩减至仅需一次。",
+    "id": "8rpbCBFRWLM",
+    "order": 1774592598990,
+    "createdAt": "2026-03-27T06:23:18.000Z",
+    "publishDate": "2026-03-27T06:23:18.990Z",
+    "title": "诺和诺德“周制剂”胰岛素获美国FDA批准上市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-27 14:23:18",
+    "uuid": "28c44735-eabd-4441-8ea8-7a91086d72cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "非营利组织 AI Commons Project 与 What We Will 联合推出首个“AI 红利”基本收入试验计划，为受生成式 AI 影响失业的劳工提供经济支持与职涯转型协助 ...",
+    "id": "8roK29cOTLi",
+    "order": 1774591471615,
+    "createdAt": "2026-03-27T06:04:31.000Z",
+    "publishDate": "2026-03-27T06:04:31.615Z",
+    "title": "首个 AI 失业补助计划启动:每月发1000美元并提供再培训支持",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-27 14:04:31",
+    "uuid": "0c320c62-ef33-4c0f-ac14-effe10871779"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "沪深两市成交额突破1万亿，较上一日此时缩量超900亿，预计全天成交金额近1.8万亿。",
+    "id": "8rpdVpF9Wd2",
+    "order": 1774591423182,
+    "createdAt": "2026-03-27T06:03:43.000Z",
+    "publishDate": "2026-03-27T06:03:43.182Z",
+    "title": "沪深两市成交额突破1万亿 较上一日此时缩量超900亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-27 14:03:43",
+    "uuid": "bd2f8936-e4fb-41d1-8ed2-07acdfd2d8b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "小米机器人发布具身智能领域最新阶段性成果，展示针对工业作业场景深度优化的全掌触觉仿生手。该仿生手形态高度拟人化，体积较前代压缩60%，增加64%自由度，全掌触觉传感器覆盖面积扩展 ...",
+    "id": "8rpdWMwJDyq",
+    "order": 1774590425710,
+    "createdAt": "2026-03-27T05:47:05.000Z",
+    "publishDate": "2026-03-27T05:47:05.710Z",
+    "title": "小米发布全掌触觉仿生手:体积压缩60%并引入仿生汗腺散热技术",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-27 13:47:05",
+    "uuid": "f2c0d17f-dd3e-4999-9597-6a7d1856d33e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "中国科学技术协会3月27日发布声明，自2026年3月27日起，停止受理学者参加2026年NeurIPS会议资助申请，申请转至国内相应学术会议资助或面向符合条件的国际会议开放 ...",
+    "id": "8rpUYcQmOEA",
+    "order": 1774590303109,
+    "createdAt": "2026-03-27T05:45:04.000Z",
+    "publishDate": "2026-03-27T05:45:03.109Z",
+    "title": "中国科协停止受理参加NeurIPS会议资助申请",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-27 13:45:04",
+    "uuid": "b86a412d-c841-482b-a09e-fc20c2f91b0b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "港股锂电股走强，赣锋锂业涨7.43%、天齐锂业涨5.02%、比亚迪股份涨4.48%，消息显示碳酸锂期货持续走强，涨4.02%，报163500元。",
+    "id": "8rpdW1yXzMV",
+    "order": 1774590234369,
+    "createdAt": "2026-03-27T05:27:35.000Z",
+    "publishDate": "2026-03-27T05:43:54.369Z",
+    "title": "港股锂电股走强，赣锋锂业涨超7%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-27 13:27:35",
+    "uuid": "3b80c970-897c-4dca-b291-160dcbcc047d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "业内人士称，氦气现货价格飙升超50%，三星电子、SK海力士、东部高科等半导体制造商采购部门每天检查关键材料供应情况和价格波动，以防生产中断。",
+    "id": "8rpm40Vo5OM",
+    "order": 1774592154055,
+    "createdAt": "2026-03-27T05:24:33.000Z",
+    "publishDate": "2026-03-27T06:15:54.055Z",
+    "title": "消息称氦气现货价急涨50% 三星、SK海力士等大厂紧盯制程材料供应",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-27 13:24:33",
+    "uuid": "3ec856b2-ee28-4db0-b6c6-96a102dc5f8b"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -53,6 +198,25 @@
     "up": false,
     "date": "2026-03-27 13:05:39",
     "uuid": "eab93a5a-22a0-4b37-a5fa-63cccb95be7b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "在3月26日举行的2026中关村论坛年会RISC - V生态科技论坛上，中国科学院发布我国科研团队芯片产业攻关重要成果：基于第五代精简指令集RISC - V的“香山”开源计算系统和“如意”原生操作系统 ...",
+    "id": "8rpjYhbSZFl",
+    "order": 1774590696851,
+    "createdAt": "2026-03-27T05:05:05.000Z",
+    "publishDate": "2026-03-27T05:51:36.851Z",
+    "title": "我国芯片研发重要成果“香山”“如意”系统发布",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-27 13:05:05",
+    "uuid": "b27ee478-bd14-4f3e-8e19-a7786085c5eb"
   },
   {
     "newsArray": [
