@@ -1,6 +1,134 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "知名开源HTTP客户端库axios近日遭遇严重供应链安全事件，攻击者劫持其核心维护者的npm账户，发布两个恶意版本（1.14.1和0.30.4），在数百万下载量的开源包中植入跨平台远程访问木马（RAT），网络安全公司StepSecurity第一时间发现并披露该攻击，此次攻击展现出极高的专业性和预谋性。",
+    "id": "8rwLRCO7ZEG",
+    "order": 1774939969423,
+    "createdAt": "2026-03-31T06:52:49.000Z",
+    "publishDate": "2026-03-31T06:52:49.423Z",
+    "title": "开源 HTTP 客户端库 Axios 遭供应链劫持，恶意版本植入跨平台木马",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-31 14:52:49",
+    "uuid": "b48e2770-0c0e-42c1-b0bd-15f0903d1a41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "前2个月，我国软件业务收入21534亿元，同比增长11.7%。利润总额2693亿元，同比增长7.3%。业务出口103.8亿美元，同比增长12.7%。",
+    "id": "8rwVOy73XEK",
+    "order": 1774939874938,
+    "createdAt": "2026-03-31T06:51:14.000Z",
+    "publishDate": "2026-03-31T06:51:14.938Z",
+    "title": "工信部：前2个月我国软件业务收入21534亿元，同比增长11.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-31 14:51:14",
+    "uuid": "dcaed9e9-a751-44e6-99eb-70774ffccabb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近日，安徽省新能创业投资有限责任公司发生工商变更，新增皖能电力为股东，注册资本由约38.3亿人民币增至约78.2亿人民币 ...",
+    "id": "8rwVOwHnaKZ",
+    "order": 1774939990302,
+    "createdAt": "2026-03-31T06:47:25.000Z",
+    "publishDate": "2026-03-31T06:53:10.302Z",
+    "title": "皖能电力旗下新能创业投资公司增资至78.2亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-31 14:47:25",
+    "uuid": "786a8b1f-a418-4e7d-9051-b74275b4862f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2025年中国线路板产业总投资额约1053亿元，较2024年同比提升2.9%，投资项目数量回落但单个项目投资体量大幅提升，最大单笔投资规模同步增长 ...",
+    "id": "8rwSaVyrHxK",
+    "order": 1774937254562,
+    "createdAt": "2026-03-31T06:07:35.000Z",
+    "publishDate": "2026-03-31T06:07:34.562Z",
+    "title": "报告：2025年中国线路板产业投资同比增长约3% AI算力PCB成增长核心引擎",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-31 14:07:35",
+    "uuid": "7db8cffd-900a-46f8-a89a-096d0f92d3c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "C114 通信网" },
+      { "siteName": "创业邦" }
+    ],
+    "summary": "3月27 - 29日，2026全球开发者先锋大会在上海徐汇西岸国际会展中心举办，主论坛于28日下午举行 ...",
+    "id": "8ruanSsJBjW",
+    "order": 1774939289326,
+    "createdAt": "2026-03-31T06:06:57.000Z",
+    "publishDate": "2026-03-31T06:41:29.326Z",
+    "title": "宁智毋庸，创领未来——2026全球开发者先锋大会在沪举办",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-31 14:06:57",
+    "uuid": "30bc36ea-4ffa-4191-bb17-accf34b93245"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "网易科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "支付宝发布国内首个“支付集成Skill”，将基础支付能力封装为标准化组件 ...",
+    "id": "8rwPlrppbOh",
+    "order": 1774937018244,
+    "createdAt": "2026-03-31T06:03:38.000Z",
+    "publishDate": "2026-03-31T06:03:38.244Z",
+    "title": "支付宝发布国内首个“支付集成Skill”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-31 14:03:38",
+    "uuid": "2047904e-d61b-4c7b-a7cf-219cf0930849"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "联想集团宣布与大卫・贝克汉姆达成全球合作，大卫·贝克汉姆将深度参与联想“AI+体育”解决方案的落地和探索。",
+    "id": "8rwPimxRQOW",
+    "order": 1774939662069,
+    "createdAt": "2026-03-31T05:45:37.000Z",
+    "publishDate": "2026-03-31T06:47:42.069Z",
+    "title": "联想集团宣布与大卫·贝克汉姆达成全球合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-31 13:45:37",
+    "uuid": "23b6972f-6c4b-442d-97b5-716bee3560b6"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
@@ -155,6 +283,24 @@
     "up": false,
     "date": "2026-03-31 13:22:30",
     "uuid": "aadd80c2-3fb3-40e9-afe1-414dcc235d64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "每经网" },
+      { "siteName": "快科技" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "2026年3月，成立仅两年的中国品牌“张雪机车”在世界顶级摩托车赛事（WSBK）上力压国际品牌，连续两次为中国捧起冠军奖杯，打破欧美日摩托厂商对WSBK中量级组别的垄断 ...",
+    "id": "8rwHBJ4rNZz",
+    "order": 1774937226711,
+    "createdAt": "2026-03-31T05:07:45.000Z",
+    "publishDate": "2026-03-31T06:07:06.711Z",
+    "title": "“张雪机车”两连冠创造历史，老板张雪的企业估值超10亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-31 13:07:45",
+    "uuid": "28ef75c7-213f-4c83-963d-5b2a155809e0"
   },
   {
     "newsArray": [
@@ -368,6 +514,24 @@
     "up": false,
     "date": "2026-03-31 11:24:56",
     "uuid": "698fadf3-7b14-4df6-a5e9-be4158e60ab8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "OPPO 宣布自 4 月 1 日起，realme 将全面接入 OPPO 售后服务网络，两大品牌服务体系深度整合 ...",
+    "id": "8rwEKFJEx2r",
+    "order": 1774937760346,
+    "createdAt": "2026-03-31T03:16:44.000Z",
+    "publishDate": "2026-03-31T06:16:00.346Z",
+    "title": "OPPO 宣布 4 月 1 日起全面支持 realme 售后服务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-03-31 11:16:44",
+    "uuid": "edc0aa85-5ad3-493f-94b9-b6ce49abbf72"
   },
   {
     "newsArray": [
