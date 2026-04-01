@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "3月31日，上海芯三维半导体有限公司成立，法定代表人为王永，注册资本4.32亿美元，经营范围包括集成电路制造、销售及进出口等，由中芯国际控股有限公司全资持股。",
+    "id": "8rxqPwusSnd",
+    "order": 1775031050051,
+    "createdAt": "2026-04-01T08:10:50.000Z",
+    "publishDate": "2026-04-01T08:10:50.051Z",
+    "title": "上海芯三维半导体有限公司成立，注册资本4.32亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-01 16:10:50",
+    "uuid": "7cf2df0a-c141-4bbd-9db0-a54eeddb2ac5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "杰富瑞将法拉利评级从“持有”上调至“买入”，目标价由348美元上调至400美元。",
+    "id": "8ry4bJyVzpV",
+    "order": 1775030943348,
+    "createdAt": "2026-04-01T08:09:03.000Z",
+    "publishDate": "2026-04-01T08:09:03.348Z",
+    "title": "杰富瑞：将法拉利评级上调至“买入”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-01 16:09:03",
+    "uuid": "399cd4e0-1134-4b18-8dba-56bf82be4e11"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "自伊朗战争爆发以来，全球央行已抛售815亿美元美债。截至3月25日，全球央行和其他官方机构托管在纽约联邦储备银行的美债总额降至2.69万亿美元，为2012年4月以来最低，较2月25日下降，且持仓总额已连续六周减少。",
+    "id": "8rxuijKSWws",
+    "order": 1775030767475,
+    "createdAt": "2026-04-01T08:06:07.000Z",
+    "publishDate": "2026-04-01T08:06:07.475Z",
+    "title": "自伊朗战争爆发以来 全球央行已抛售815亿美元的美债",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-01 16:06:07",
+    "uuid": "94e2fc7f-b077-440d-b90e-b0280cba20af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "马斯克发文宣布特斯拉停产 Model S 和 Model X 两款车型，停止接受新车定制订单，消费者只能购买库存现车，美中官网商品卡点击后跳转现车库存页面 ...",
+    "id": "8ryDsymkl8g",
+    "order": 1775030687453,
+    "createdAt": "2026-04-01T08:04:47.000Z",
+    "publishDate": "2026-04-01T08:04:47.453Z",
+    "title": "特斯拉Model S/X车型官宣停产，仅剩库存车可供选购",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-01 16:04:47",
+    "uuid": "d7fbb177-8613-4e90-8874-3a5951f5b325"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国务院国资委3月31日召开中央企业法治工作会议，指出“十四五”时期中央企业法治建设成效明显，“十五五”时期要围绕增强核心功能、提升核心竞争力深化法治央企建设，为发挥骨干和支柱作用提供法治保障 ...",
+    "id": "8ryEb5ijoAs",
+    "order": 1775029598656,
+    "createdAt": "2026-04-01T07:46:38.000Z",
+    "publishDate": "2026-04-01T07:46:38.656Z",
+    "title": "国务院国资委召开中央企业法治工作会议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-01 15:46:38",
+    "uuid": "dd679e25-3a51-4dcf-aef1-99af2159b95e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果近日将氛围编程应用Anything从App Store下架，理由是违反应用商店规定，这意味着其对该类应用的打击升级。此前苹果已禁止此类应用更新，但允许旧版本留存 ...",
+    "id": "8rwy4C8PVP7",
+    "order": 1775030597622,
+    "createdAt": "2026-04-01T07:09:02.000Z",
+    "publishDate": "2026-04-01T08:03:17.622Z",
+    "title": "苹果将一款Vibe Coding应用下架App Store",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-01 15:09:02",
+    "uuid": "b8d4ac44-7ceb-40c7-a59b-56f5a0c6f1a6"
+  },
+  {
+    "newsArray": [
       { "siteName": "中华网" },
       { "siteName": "快科技" },
       { "siteName": "快科技" }
@@ -109,6 +214,23 @@
     "up": false,
     "date": "2026-04-01 14:22:12",
     "uuid": "53d183a6-d72c-4dd7-a5ef-87dca0edf0ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "阿布扎比投资控股集团2PointZero旗下子公司ePointZero将以22.5亿美元收购美国天然气基础设施公司Traverse Midstream Partners全部股权，交易尚待监管机构批准。",
+    "id": "8ry6nBFM7SY",
+    "order": 1775030643736,
+    "createdAt": "2026-04-01T06:05:31.000Z",
+    "publishDate": "2026-04-01T08:04:03.736Z",
+    "title": "阿布扎比投资控股集团以22.5亿美元收购美国一天然气基础设施公司全部股权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-01 14:05:31",
+    "uuid": "750aa673-b556-4a8f-9075-5c538273412f"
   },
   {
     "newsArray": [
@@ -226,6 +348,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "“橡鹿机器人”今日宣布完成3亿元融资，由亦庄国投管理的产业升级基金领投，琥珀、九安、海棠跟投，此前已获源码、IDG、腾讯、京东等机构加持。",
+    "id": "8rxrnTOL01F",
+    "order": 1775030697823,
+    "createdAt": "2026-04-01T05:22:51.000Z",
+    "publishDate": "2026-04-01T08:04:57.823Z",
+    "title": "“橡鹿机器人”完成3亿元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-01 13:22:51",
+    "uuid": "2c0109d8-52f1-4ae5-a249-5425a947c1cf"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "IT 之家" },
       { "siteName": "格隆汇" }
@@ -294,6 +433,23 @@
     "up": false,
     "date": "2026-04-01 13:03:12",
     "uuid": "6c5620e4-9f39-4832-b2a6-c85d57c9ed57"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "名创优品旗下潮玩品牌 TOP TOY（大潮玩国际集团有限公司）于 3 月 31 日重新向港交所递交上市申请书，这是继 2025 年 9 月首次递表失效后第二次冲击港股市场 ...",
+    "id": "8rxeC1Ss0no",
+    "order": 1775030715564,
+    "createdAt": "2026-04-01T04:46:01.000Z",
+    "publishDate": "2026-04-01T08:05:15.564Z",
+    "title": "名创优品旗下TOP TOY再度递表港交所，自研产品收入占比超55%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-01 12:46:01",
+    "uuid": "136f32d4-f6de-4d18-9d98-df4fb0be2f25"
   },
   {
     "newsArray": [
