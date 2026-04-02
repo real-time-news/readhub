@@ -1,6 +1,116 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国于当地时间 4 月 1 日 18 时 24 分（北京时间 4 月 2 日 6 时 24 分）执行发射“阿耳忒弥斯 2 号”载人绕月任务，火箭成功升空，飞船已脱离地球大气层 ...",
+    "id": "8rzJPCVm2yO",
+    "order": 1775111195177,
+    "createdAt": "2026-04-02T06:26:36.000Z",
+    "publishDate": "2026-04-02T06:26:35.177Z",
+    "title": "美国“阿耳忒弥斯 2 号”载人绕月任务成功升空",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 14:26:36",
+    "uuid": "39665416-e6a5-429a-9f5c-b32e85cb9f79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "亿邦动力网" },
+      { "siteName": "亿邦动力网" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "美的集团3月30日发布的2025年年度报告显示，全年营收4585亿元，同比增长12.08%，归母净利润439.5亿元，同比增长14.03%，两项指标均创历史新高 ...",
+    "id": "8rxtBaABOBQ",
+    "order": 1775111093352,
+    "createdAt": "2026-04-02T06:24:53.000Z",
+    "publishDate": "2026-04-02T06:24:53.352Z",
+    "title": "美的集团营收净利双创新高 440亿分红回购计划全额分配净利润",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 14:24:53",
+    "uuid": "7af36990-06a4-4a2d-89ec-ce973215ec68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "卡塔尔航空宣布自5月16日起恢复多哈到杭州、重庆和成都航线，已恢复到北京、上海、广州和香港的定期客运航班 ...",
+    "id": "8ryG6kHWYxf",
+    "order": 1775112128426,
+    "createdAt": "2026-04-02T06:24:32.000Z",
+    "publishDate": "2026-04-02T06:42:08.426Z",
+    "title": "卡塔尔航空将恢复更多中国航线，中国航司仍停飞",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 14:24:32",
+    "uuid": "27dab971-e54b-4ec6-b8d9-1232d6181e0e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "aibase" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "阶跃星辰宣布最新模型Step 3.5 Flash 2603上线，新增low think mode，面向所有Step Plan用户开放 ...",
+    "id": "8rzmRXi7LuK",
+    "order": 1775110932517,
+    "createdAt": "2026-04-02T06:22:12.000Z",
+    "publishDate": "2026-04-02T06:22:12.517Z",
+    "title": "阶跃星辰上线Step 3.5 Flash新版本，新增低推理模式",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 14:22:12",
+    "uuid": "5d33e051-8d56-4426-b030-43ee3589ec1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果将 2019 款 iPad Air 3 全系机型列入“过时产品”名单，涵盖所有 Wi-Fi 与蜂窝网络版本，该平板于 2020 年停售，距停售已超五年 ...",
+    "id": "8rzPYgqFIDK",
+    "order": 1775110269746,
+    "createdAt": "2026-04-02T06:11:10.000Z",
+    "publishDate": "2026-04-02T06:11:09.746Z",
+    "title": "苹果 2019 款 iPad Air 3 全系已列入过时产品名单",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 14:11:10",
+    "uuid": "39984748-0437-4760-82fc-5e353f7e2a1d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "广州市发展改革委就《广州市现代化基础设施发展“十五五”规划（征求意见稿）》公开征求意见，目标到2030年基本建成现代化基础设施体系，为广州建设中心型世界城市提供支撑 ...",
+    "id": "8rzmQ6qFe2q",
+    "order": 1775111124149,
+    "createdAt": "2026-04-02T06:10:07.000Z",
+    "publishDate": "2026-04-02T06:25:24.149Z",
+    "title": "广州：目标到2030年，基本建成现代化基础设施体系",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 14:10:07",
+    "uuid": "cf8c2cbc-12ab-470f-aa56-63f89d827cd0"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
@@ -219,6 +329,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "澳大利亚总理阿尔巴尼斯周四将宣布向运输运营商、化肥生产商等关键企业提供至多10亿澳元（6.93亿美元）无息贷款，助其应对飙升的燃料成本，贷款将提供给对维持关键供应链至关重要的企业以渡财务难关，此前一天阿尔巴尼斯曾警告中东冲突经济影响将持续数月，波及家庭和企业。",
+    "id": "8rzMhjdfeEI",
+    "order": 1775110853662,
+    "createdAt": "2026-04-02T03:23:34.000Z",
+    "publishDate": "2026-04-02T06:20:53.662Z",
+    "title": "澳大利亚将向关键企业提供10亿澳元无息贷款，以缓解燃料成本压力",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 11:23:34",
+    "uuid": "60c6ecaf-7259-41da-9454-400822d9e1ac"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -233,6 +361,27 @@
     "up": false,
     "date": "2026-04-02 11:12:23",
     "uuid": "d025acc0-1dd1-4f3f-b083-c7ee16b772ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "沪深两市成交额突破1万亿，较上一日此时缩量超1300亿。",
+    "id": "8rzZW0lLJ7E",
+    "order": 1775110211400,
+    "createdAt": "2026-04-02T03:11:15.000Z",
+    "publishDate": "2026-04-02T06:10:11.400Z",
+    "title": "沪深两市成交额突破1万亿，较上一日此时缩量超1300亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 11:11:15",
+    "uuid": "5d3638c7-2b10-4ded-9b15-219d98fabf2b"
   },
   {
     "newsArray": [
@@ -253,6 +402,26 @@
     "up": false,
     "date": "2026-04-02 10:55:36",
     "uuid": "aa648ebc-b594-4358-8261-d33c0450a83f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "COMEX白银期货持续走低，跌超5%，现报72.27美元/盎司。",
+    "id": "8rzSMVEJj4P",
+    "order": 1775110889610,
+    "createdAt": "2026-04-02T02:45:04.000Z",
+    "publishDate": "2026-04-02T06:21:29.610Z",
+    "title": "COMEX白银期货持续走低跌超5%，现报72.27美元/盎司",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 10:45:04",
+    "uuid": "ebb7fafc-85c8-4579-a87e-33f5c38adf44"
   },
   {
     "newsArray": [
@@ -740,6 +909,24 @@
     "up": false,
     "date": "2026-04-02 03:22:21",
     "uuid": "ec524708-e685-4454-b093-6e1ee6169111"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "4月1日，国际能源署、国际货币基金组织和世界银行负责人发表联合声明，同意成立协调小组，以应对中东战事对能源和经济的影响。",
+    "id": "8ryvUZy1Zj0",
+    "order": 1775110222142,
+    "createdAt": "2026-04-01T17:43:00.000Z",
+    "publishDate": "2026-04-02T06:10:22.142Z",
+    "title": "三国际机构决定成立协调小组应对中东战争的经济影响",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-02 01:43:00",
+    "uuid": "6786f288-3d6f-436b-9861-c5b7e27df871"
   },
   {
     "newsArray": [
