@@ -1,6 +1,164 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "界面" }
+    ],
+    "summary": "中央气象台发布重要天气提示，预计4月8日至17日，江汉、江淮西部、江南、华南北部及重庆、贵州东部等地多降雨和强对流天气，雨日6 - 10天，累计降水量50 - 90毫米，部分地区100 - 150毫米，主要降水过程有3次 ...",
+    "id": "8s8JD1cosNW",
+    "order": 1775634523442,
+    "createdAt": "2026-04-08T07:48:43.000Z",
+    "publishDate": "2026-04-08T07:48:43.442Z",
+    "title": "中央气象台：未来十天南方地区多降雨和强对流天气",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 15:48:43",
+    "uuid": "ea9bb16b-0fcf-4fc6-bcd6-f810c1e30d09"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国家邮政局通告，2025 年快递服务全程平均时限为 51.22 小时，同比缩短 2.66 小时 ...",
+    "id": "8s9qwH9A0de",
+    "order": 1775634477687,
+    "createdAt": "2026-04-08T07:47:57.000Z",
+    "publishDate": "2026-04-08T07:47:57.687Z",
+    "title": "国家邮政局：2025年快递服务全程平均时限为51.22小时，同比缩短2.66小时",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 15:47:57",
+    "uuid": "20e827f9-ad5a-448c-a303-fd7512a89173"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "华海清科公告，近日第1000台CMP装备正式出机并发往国内集成电路龙头企业，其CMP装备已批量进入国内先进制程大生产线，部分核心技术指标超越国际先进水平。",
+    "id": "8s9qwQ7ECS6",
+    "order": 1775634428529,
+    "createdAt": "2026-04-08T07:47:08.000Z",
+    "publishDate": "2026-04-08T07:47:08.529Z",
+    "title": "华海清科：第1000台CMP装备正式出机，批量进入国内先进制程大生产线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 15:47:08",
+    "uuid": "61fc90dc-bf01-4873-a107-ac7eb6a0b0bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "运动相机制造商GoPro向美国证监会提交文件披露，公司董事会批准一项重组计划以降低运营成本、提高运营杠杆，预计在全球裁员约145人，占一季度末员工总数（631人）的23%，裁员二季度开始，年底基本完成，该计划预计产生1150万至1500万美元总费用。",
+    "id": "8s9qvWgL3WH",
+    "order": 1775634442200,
+    "createdAt": "2026-04-08T07:45:38.000Z",
+    "publishDate": "2026-04-08T07:47:22.200Z",
+    "title": "GoPro将全球裁员23%以削减成本",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 15:45:38",
+    "uuid": "90f91e43-5551-4af4-810e-5291114ca796"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "一位要求匿名的地区官员透露，美伊为期两周的停火计划包括允许伊朗和阿曼对通过霍尔木兹海峡的船只收取费用，伊朗将把通行费用于重建工作，尚不清楚阿曼如何使用筹集资金 ...",
+    "id": "8s9OQ90FWiR",
+    "order": 1775634196523,
+    "createdAt": "2026-04-08T07:43:16.000Z",
+    "publishDate": "2026-04-08T07:43:16.523Z",
+    "title": "停火协议准许伊朗与阿曼对霍尔木兹海峡的通行进行收费",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 15:43:16",
+    "uuid": "3e11d8e6-66ad-480a-8af5-77593579f8cd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "今年美股IPO市场预计迎来SpaceX、Anthropic和OpenAI等公司，但超大估值或吸干投资者需求 ...",
+    "id": "8s9meEZEFQM",
+    "order": 1775633574643,
+    "createdAt": "2026-04-08T07:32:55.000Z",
+    "publishDate": "2026-04-08T07:32:54.643Z",
+    "title": "SpaceX太抢风头，美股分析师担忧美国IPO市场或反受其累",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 15:32:55",
+    "uuid": "76f57442-1616-4d28-8f52-f17b5b2fd11b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "智元Genie Sim3.0一站式仿真开发平台迎来新升级，通过全流程仿真加速模型训练验证，提升研发效率，推动具身智能创新应用 ...",
+    "id": "8s9mcZTiRYB",
+    "order": 1775633509738,
+    "createdAt": "2026-04-08T07:31:49.000Z",
+    "publishDate": "2026-04-08T07:31:49.738Z",
+    "title": "智元仿真平台Genie Sim 3.0迎来新升级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 15:31:49",
+    "uuid": "8e815eca-ebd5-4a7e-8493-83543a0c7849"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "智谱AI推出全球顶尖开源旗舰模型GLM - 5.1，其核心突破是实现“长程任务”能力，可在无人工干预下持续独立工作超8小时，使AI模型迈入“小时级”自主工作新阶段 ...",
+    "id": "8s9TLJ2ZNAs",
+    "order": 1775633336144,
+    "createdAt": "2026-04-08T07:28:56.000Z",
+    "publishDate": "2026-04-08T07:28:56.144Z",
+    "title": "GLM-5.1开源：实现8小时长程任务持续工作的里程碑式突破",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 15:28:56",
+    "uuid": "c04bb347-61af-4896-8285-2fa677c71b05"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "伊拉克民航局宣布，伊拉克领空及境内所有机场即日起（当地时间8日）重新开放。",
+    "id": "8s9pVrl19Jl",
+    "order": 1775633292404,
+    "createdAt": "2026-04-08T07:28:12.000Z",
+    "publishDate": "2026-04-08T07:28:12.404Z",
+    "title": "伊拉克宣布开放领空及境内所有机场",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 15:28:12",
+    "uuid": "fb9267c3-ba45-4c1b-aa7b-76fdd27bc3f5"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
@@ -539,6 +697,25 @@
     "up": false,
     "date": "2026-04-08 09:27:00",
     "uuid": "46caec3b-39e4-4668-b510-1177a0391f30"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "纳斯达克100指数期货涨幅扩大至3%。",
+    "id": "8s9OOQNJnJc",
+    "order": 1775635318161,
+    "createdAt": "2026-04-08T01:06:20.000Z",
+    "publishDate": "2026-04-08T08:01:58.161Z",
+    "title": "纳斯达克100指数期货涨幅扩大至3%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-08 09:06:20",
+    "uuid": "bc828aa1-5b81-43c0-bbfe-dac2283b9646"
   },
   {
     "newsArray": [
