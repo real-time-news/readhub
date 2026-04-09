@@ -1,6 +1,151 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "MiniMax宣布发布面向AI Agent的命令行工具MMX - CLI，接入后Agent可在Claude Code、OpenClaw等环境中原生调用MiniMax全模态模型，无需适配繁琐接口和额外编写MCP Server。",
+    "id": "8sBCakLkySk",
+    "order": 1775705321294,
+    "createdAt": "2026-04-09T03:28:41.000Z",
+    "publishDate": "2026-04-09T03:28:41.294Z",
+    "title": "MiniMax发布面向AI Agent的命令行工具“MMX-CLI”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 11:28:41",
+    "uuid": "127d4d8d-87b0-4ae3-8eb7-54f1ca9cb1bc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国防科技大学和中科院金属所联合研究团队在新型高性能二维半导体晶圆级生长和可控掺杂领域取得重要突破，有望为后摩尔时代自主可控芯片技术提供关键支撑，成果近日发表于《国家科学评论》。",
+    "id": "8sBDEnbDcrR",
+    "order": 1775705259408,
+    "createdAt": "2026-04-09T03:27:39.000Z",
+    "publishDate": "2026-04-09T03:27:39.408Z",
+    "title": "新型高性能二维半导体材料研发获突破",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 11:27:39",
+    "uuid": "2d69a18b-e0b2-4952-9a91-020679f50554"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国总统特朗普8日在社交媒体发文称，《纽约时报》和美国有线电视新闻网报道的关于伊朗停火谈判的“10项条款”完全虚假，是诋毁参与和平进程人员的捏造骗局。",
+    "id": "8sBDGlpnugt",
+    "order": 1775705840679,
+    "createdAt": "2026-04-09T03:25:59.000Z",
+    "publishDate": "2026-04-09T03:37:20.679Z",
+    "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 11:25:59",
+    "uuid": "9b96bd1b-fa59-4320-b6fb-4a701461559c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "深圳莫廷医疗科技股份有限公司宣布完成近亿元B轮融资，由中国风险投资有限公司领投，老股东国科投资、BV百度风投超额追加投资 ...",
+    "id": "8s9KuVwCLYD",
+    "order": 1775705879176,
+    "createdAt": "2026-04-09T03:13:36.000Z",
+    "publishDate": "2026-04-09T03:37:59.176Z",
+    "title": "莫廷医疗完成近亿元 B 轮融资，聚焦眼科自主创新",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 11:13:36",
+    "uuid": "6fb3a619-fcd0-4cbc-a0b5-8638bfd27534"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "老铺黄金在多地招聘驻店客服经理，要求有6年及以上航空公司空乘经验、3年以上正式乘务长任职经历，杭州大厦购物中心店与上海新天地店明确限定空乘背景，月薪2.5万—3.5万元 ...",
+    "id": "8sAFF9HYTHM",
+    "order": 1775705904260,
+    "createdAt": "2026-04-09T03:09:26.000Z",
+    "publishDate": "2026-04-09T03:38:24.260Z",
+    "title": "老铺黄金挖角空少空姐：年薪最高 45.5 万",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 11:09:26",
+    "uuid": "98543cdc-2bae-42fd-b65e-ceec86f29723"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "牛透社" },
+      { "siteName": "智源社区" }
+    ],
+    "summary": "谷歌公司发布人工智能聊天机器人 Gemini 的新功能 “notebooks”，可帮助用户集中管理特定主题相关内容，允许整合文件、历史对话记录及自定义指令等资料至笔记本，作为对话上下文供 Gemini 调用，还能与谷歌的 NotebookLM 同步 ...",
+    "id": "8sAqMGbGfdm",
+    "order": 1775704129173,
+    "createdAt": "2026-04-09T03:08:50.000Z",
+    "publishDate": "2026-04-09T03:08:49.173Z",
+    "title": "谷歌发布 Gemini 新功能“notebooks”以集中管理特定主题内容",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 11:08:50",
+    "uuid": "eff5c4fc-78b8-405d-9c9a-35bb0d074036"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "埃隆·马斯克称特斯拉库存中仅剩几百台 Model S 与 Model X，全新 Model S 与 Model X 已停止生产，定制订单也已关停，全球仅存约几百台工厂库存车且库存正快速清空 ...",
+    "id": "8sB7dAwSKH7",
+    "order": 1775702662033,
+    "createdAt": "2026-04-09T02:44:22.000Z",
+    "publishDate": "2026-04-09T02:44:22.033Z",
+    "title": "马斯克：特斯拉 Model S/X 库存仅剩数百台",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 10:44:22",
+    "uuid": "f7850a56-65f2-4e07-bbd8-1ef05425a8d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "当地时间周三，约 60 台特斯拉 Cybercab 现身得州超级工厂生产厂区外，似乎已正式启动量产，可能很快加入特斯拉产品线 ...",
+    "id": "8sB7dDjK2UR",
+    "order": 1775702577199,
+    "createdAt": "2026-04-09T02:42:57.000Z",
+    "publishDate": "2026-04-09T02:42:57.199Z",
+    "title": "特斯拉 Cybercab 量产启动：60 台实车现身得州工厂，配备方向盘",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 10:42:57",
+    "uuid": "e3a55556-9f10-4cfd-836a-de8b0ec669fb"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" }
@@ -15,6 +160,24 @@
     "up": false,
     "date": "2026-04-09 08:16:42",
     "uuid": "fe6ea291-ee70-4bc8-9451-fb94e382a22f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "当地时间4月8日，谷歌宣布语音翻译功能已登陆Meet安卓和iOS应用，该功能可将音频近乎实时翻译成其他语言，目前支持英语与西班牙语、法语、德语、葡萄牙语和意大利语之间的双向翻译，一次会议中只能有一种语言对处于活动状态。",
+    "id": "8sAz0iUTtOV",
+    "order": 1775702205481,
+    "createdAt": "2026-04-09T00:14:06.000Z",
+    "publishDate": "2026-04-09T02:36:45.481Z",
+    "title": "谷歌：语音翻译功能现已向Meet移动设备推出",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 08:14:06",
+    "uuid": "876741f2-b9f6-4720-acd2-fbd5c759c645"
   },
   {
     "newsArray": [
@@ -144,6 +307,27 @@
     "up": false,
     "date": "2026-04-09 08:06:29",
     "uuid": "96c45d44-cf15-4921-a67e-623a7e880480"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "群核科技（Manycore Tech）在港交所公告，拟全球发售160,619,000股H股，其中香港发售16,062,000股，国际发售144,557,000股，发售价最高每股7.62港元，预期H股2026年4月17日在香港联交所开始买卖。",
+    "id": "8sAxXqO93N6",
+    "order": 1775702765558,
+    "createdAt": "2026-04-09T00:05:53.000Z",
+    "publishDate": "2026-04-09T02:46:05.558Z",
+    "title": "群核科技：拟全球发售1.61亿股H股，发售价不超7.62港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-09 08:05:53",
+    "uuid": "4f2ed1e4-6de2-4613-9d48-3f74512e3603"
   },
   {
     "newsArray": [
