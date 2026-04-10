@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "健康界" },
+      { "siteName": "健康界" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家卫生健康委等部门4月9日发布《健全社会心理服务体系和危机干预机制实施方案》，提出到2030年，覆盖全人群、全生命周期的社会心理服务体系和危机干预机制基本健全。",
+    "id": "8sBdMhxWPZ9",
+    "order": 1775804255023,
+    "createdAt": "2026-04-10T06:57:35.000Z",
+    "publishDate": "2026-04-10T06:57:35.023Z",
+    "title": "2030年基本健全社会心理服务体系和危机干预机制",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 14:57:35",
+    "uuid": "77df1116-213f-4909-9a3d-1f2b4b64ecb3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "软银集团发行面向散户投资者的4180亿日元（26亿美元）35年期次级日元混合债券，起初5年票面利率4.97%，为该公司此类债券最高利率，5年后可赎回。",
+    "id": "8sD6mGJvSH3",
+    "order": 1775803920251,
+    "createdAt": "2026-04-10T06:52:00.000Z",
+    "publishDate": "2026-04-10T06:52:00.251Z",
+    "title": "软银集团以创纪录4.97%利率发行日元零售债券",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 14:52:00",
+    "uuid": "d6115772-82d8-456c-bd9d-42e23a614ab5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "伯克希尔·哈撒韦发行2723亿日元债券，为巴菲特卸任CEO后首笔日元债交易，该交易分六个期限品种，3年至30年期不等，其中10年期债券发行利差为基准利率加90个基点，票面利率3.084%，高于2025年11月上一笔日元债中10年期债券的票面利率 ...",
+    "id": "8sCoBCnbhrC",
+    "order": 1775803631602,
+    "createdAt": "2026-04-10T06:47:11.000Z",
+    "publishDate": "2026-04-10T06:47:11.602Z",
+    "title": "伯克希尔发行2723亿日元债券 系巴菲特卸任后首次",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 14:47:11",
+    "uuid": "f4c41686-57b2-4a5e-8fe1-1843df40f4fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "近日，江苏南通警方摧毁一个利用“外挂”技术抢票的犯罪团伙。犯罪嫌疑人张某仓开发抢票软件，伙同蔡某基等四人抢票牟利 8 万余元，张某仓绕过服务器防护非法获取核心数据，涉嫌非法获取计算机信息系统数据罪，已被提起公诉 ...",
+    "id": "8sChNka45R9",
+    "order": 1775802910649,
+    "createdAt": "2026-04-10T06:35:11.000Z",
+    "publishDate": "2026-04-10T06:35:10.649Z",
+    "title": "利用“外挂”抢票牟利，1 人被提起公诉 4 人被罚",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 14:35:11",
+    "uuid": "23f996c2-577f-43c8-9ccd-b57cb990327f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "谷歌为 Gemini AI 聊天机器人增添交互式 3D 模型和模拟功能，旨在帮助用户在学习和研究科学概念时通过动态可视化加深理解 ...",
+    "id": "8sCmmpEaeMY",
+    "order": 1775802838029,
+    "createdAt": "2026-04-10T06:33:59.000Z",
+    "publishDate": "2026-04-10T06:33:58.029Z",
+    "title": "​谷歌 Gemini AI 新增互动 3D 模型功能，提升科学学习体验",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 14:33:59",
+    "uuid": "16d2c1ce-f6a8-40a5-8928-a87de2171a24"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "北京智源人工智能研究院、北京邮电大学与中国信息通信研究院联合发布 ClawKeeper v1.0 安全框架，采用技能、插件、观察者三位一体防御架构，已在 GitHub 开源。",
+    "id": "8sCzdNHXBti",
+    "order": 1775802694991,
+    "createdAt": "2026-04-10T06:31:35.000Z",
+    "publishDate": "2026-04-10T06:31:34.991Z",
+    "title": "智源发布安全框架ClawKeeper",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 14:31:35",
+    "uuid": "12f98d99-3850-49ce-8054-0bbb37239943"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -132,6 +238,51 @@
     "up": false,
     "date": "2026-04-10 12:11:02",
     "uuid": "54a53d01-244a-4bf9-b80c-5f43314214a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "沪深两市成交额突破1万亿，较上一日此时放量近200亿，预计全天成交金额超2.2万亿。",
+    "id": "8sCoCm62wAY",
+    "order": 1775802706629,
+    "createdAt": "2026-04-10T02:49:22.000Z",
+    "publishDate": "2026-04-10T06:31:46.629Z",
+    "title": "沪深两市成交额突破1万亿，较上一日此时放量近200亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 10:49:22",
+    "uuid": "565ccbde-4336-4ad1-8495-a46518284dbf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中信证券（06030）早盘高开逾9%，截至发稿，股价涨9.42%，报27.18港元，成交额1.55亿港元 ...",
+    "id": "8sClOXIznzX",
+    "order": 1775802964018,
+    "createdAt": "2026-04-10T02:14:43.000Z",
+    "publishDate": "2026-04-10T06:36:04.018Z",
+    "title": "中信证券早盘高开逾9% 第一季度归母净利润102.16亿元同比增加54.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 10:14:43",
+    "uuid": "df3bc8d1-7623-4d4f-906a-cf01b3d300d4"
   },
   {
     "newsArray": [
