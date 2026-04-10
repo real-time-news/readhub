@@ -1,6 +1,140 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "3月进入樱花季，53条中日航线取消全部航班，较2月取消数量增加。3月中国大陆赴日本共2691个航班取消，取消率49.6%，较2月增长1.1个百分点。",
+    "id": "8sCzIg7GUzB",
+    "order": 1775797723542,
+    "createdAt": "2026-04-10T05:08:44.000Z",
+    "publishDate": "2026-04-10T05:08:43.542Z",
+    "title": "53条中日航线3月取消全部航班",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 13:08:44",
+    "uuid": "26fe728b-9999-4071-9133-53887abeaaa9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国贸易代表格里尔表示，特朗普政府不打算调整针对中国汽车硬件和软件的限制措施，这些措施已将中国汽车排除在美国市场之外 ...",
+    "id": "8sCiTAPhaIl",
+    "order": 1775797579776,
+    "createdAt": "2026-04-10T05:06:19.000Z",
+    "publishDate": "2026-04-10T05:06:19.776Z",
+    "title": "美贸易代表料不调整中国汽车进入限制规定",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 13:06:19",
+    "uuid": "0ff39b33-776f-4894-8e67-521e624cb323"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "Omdia 数据显示，2026 年第一季度全球台式机、笔记本和工作站总出货量达 6480 万台，同比增长 3.2%，其中笔记本出货量 5080 万台，同比增长 2.6%，台式机出货量 1400 万台，同比增长 5.4% ...",
+    "id": "8sC2elmqIXy",
+    "order": 1775796614421,
+    "createdAt": "2026-04-10T04:50:15.000Z",
+    "publishDate": "2026-04-10T04:50:14.421Z",
+    "title": "Omdia：Q1 全球 PC 出货量同比增长 3.2%，内存 SSD 涨价挤压全年利润",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 12:50:15",
+    "uuid": "cd66d45f-68bb-450c-b6e8-f9c41605ef62"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "阿里巴巴称，HappyHorse是阿里ATH旗下创新事业部研发的模型，正处内测，近期将开放API ...",
+    "id": "8sCxS2SMGsJ",
+    "order": 1775796498522,
+    "createdAt": "2026-04-10T04:48:18.000Z",
+    "publishDate": "2026-04-10T04:48:18.522Z",
+    "title": "阿里：HappyHorse模型正处于内测中，近期开放API",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 12:48:18",
+    "uuid": "fe0bec41-59d8-43b9-8455-809b7ecc7e1d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "AMZ123" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "亚马逊近日否认2026年5月裁员1.4万人的传闻，称消息无事实依据 ...",
+    "id": "8sBDHF3Lupm",
+    "order": 1775795727157,
+    "createdAt": "2026-04-10T04:28:16.000Z",
+    "publishDate": "2026-04-10T04:35:27.157Z",
+    "title": "亚马逊否认5月裁员1.4万人传闻，但承认内部正进行深度重组",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 12:28:16",
+    "uuid": "eaa12624-bf63-4b09-96f0-c6a41d8ce7dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "海底捞公告，控股股东、执行董事、董事会主席兼首席执行官张勇计划自公告日起12个月内以自有资金或通过其控制的实体在公开市场增持公司股份，金额不少于1亿港元 ...",
+    "id": "8sCw2YtHAPM",
+    "order": 1775795196705,
+    "createdAt": "2026-04-10T04:26:36.000Z",
+    "publishDate": "2026-04-10T04:26:36.705Z",
+    "title": "海底捞：控股股东张勇拟增持不少于1亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 12:26:36",
+    "uuid": "fa4481dc-0226-40d3-9f17-34c51012d872"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "4月10日，杭州2宗涉宅用地出让，均溢价20%以上成交，总成交金额14.92亿元。西湖区地块经73轮竞价，由滨江集团以9.63亿元竞得，成交楼面价19129元/㎡，溢价率59.67% ...",
+    "id": "8sBKRgAxhyU",
+    "order": 1775794261364,
+    "createdAt": "2026-04-10T04:11:02.000Z",
+    "publishDate": "2026-04-10T04:11:01.364Z",
+    "title": "杭州2宗涉宅用地均溢价20%以上成交",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 12:11:02",
+    "uuid": "54a53d01-244a-4bf9-b80c-5f43314214a5"
+  },
+  {
+    "newsArray": [
       { "siteName": "网易科技" },
       { "siteName": "IT 之家" },
       { "siteName": "华尔街见闻" },
@@ -194,6 +328,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "苹果公司宣布将永久关闭位于马里兰州陶森、康涅狄格州特朗布尔购物中心以及圣地亚哥附近北县购物中心的三家零售店，其中陶森门店将于 6 月关闭且无新店替代，关闭原因是该购物中心“多家零售商撤离及经营状况持续下滑” ...",
+    "id": "8sCclQ3KDsr",
+    "order": 1775794194868,
+    "createdAt": "2026-04-10T00:10:13.000Z",
+    "publishDate": "2026-04-10T04:09:54.868Z",
+    "title": "苹果将关闭美国首家成立工会的零售店",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 08:10:13",
+    "uuid": "1dd4fb76-727c-488b-b026-76982f60e920"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
@@ -261,6 +412,24 @@
     "up": false,
     "date": "2026-04-10 07:31:56",
     "uuid": "461a9b17-0947-426a-8051-5df4ae8a3067"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国佛罗里达州总检察长办公室计划就ChatGPT在去年佛罗里达州立大学致命枪击案中所扮演的角色对OpenAI展开调查，要求其就伤害未成年人、危及民众安全等行为作出解释，调查期间将发出传票 ...",
+    "id": "8sCPt64VYrg",
+    "order": 1775794218101,
+    "createdAt": "2026-04-09T23:31:28.000Z",
+    "publishDate": "2026-04-10T04:10:18.101Z",
+    "title": "美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 07:31:28",
+    "uuid": "6f3ef098-2dee-4ea2-b855-797bcf92e5c9"
   },
   {
     "newsArray": [
