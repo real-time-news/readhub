@@ -1,6 +1,97 @@
 [
   {
     "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "微信公众号" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "无问芯穹正式推出InfiniClaw Box，该产品具备多信源融合与全模态数据适配能力，采用端云一体三段式安全脱敏推理架构，依托企业级Token工厂兼顾多专业场景需求与高性价比Token消耗，内置80余个垂类场景专业Skills，拓展了端侧智能生产与应用范围。",
+    "id": "8sD14nR0zLg",
+    "order": 1775822537930,
+    "createdAt": "2026-04-10T12:02:17.000Z",
+    "publishDate": "2026-04-10T12:02:17.930Z",
+    "title": "无问芯穹正式推出InfiniClaw Box",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 20:02:17",
+    "uuid": "04d9260b-1f66-4835-a1ec-4c55785bbd9a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "雷锋网" }
+    ],
+    "summary": "4月10日，DesignArena最新发布的排行榜显示，在Video to Video（视频编辑）功能上，阿里巴巴最新大模型Wan2.7以1334Elo评分高居榜首，大幅领先第二名Grok Imagine（1266分），优势达68分 ...",
+    "id": "8sDL2TCnWYK",
+    "order": 1775821803450,
+    "createdAt": "2026-04-10T11:50:03.000Z",
+    "publishDate": "2026-04-10T11:50:03.450Z",
+    "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 19:50:03",
+    "uuid": "75f12681-22db-4ea9-b826-8da40c86f4b4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "生成式人工智能巨头 Anthropic 正在评估自研 AI 芯片的可行性。得益于 Claude 系列模型的强劲表现，其年化收入截至 2026 年 4 月突破 300 亿美元，雄厚资金为芯片研发提供底气 ...",
+    "id": "8sCjtl7Wr8R",
+    "order": 1775821744649,
+    "createdAt": "2026-04-10T11:49:04.000Z",
+    "publishDate": "2026-04-10T11:49:04.649Z",
+    "title": "年收入突破 300 亿美元：Anthropic 拟自研 AI 芯片打破算力瓶颈",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 19:49:04",
+    "uuid": "bdd389c7-2f37-4f90-b45c-3b778bdd4f2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "金融界" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "近日，京东云“龙虾天团”新成员 JoyClaw 亮相，它是一款更“懂”用户的 AI 个人助理，融合 OpenClaw 原生能力与社区生态，经预配置优化与安全合规检测，为用户带来低门槛、高安全的使用体验 ...",
+    "id": "8sBkRrPmvW4",
+    "order": 1775821624794,
+    "createdAt": "2026-04-10T11:47:05.000Z",
+    "publishDate": "2026-04-10T11:47:04.794Z",
+    "title": "龙虾天团迎新成员，京东云JoyClaw已上线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 19:47:05",
+    "uuid": "2b49027e-2efb-4e10-8148-fcb30a0d559d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "李强主持召开经济形势专家和企业家座谈会。",
+    "id": "8sDQlLhEPR8",
+    "order": 1775820562326,
+    "createdAt": "2026-04-10T11:29:22.000Z",
+    "publishDate": "2026-04-10T11:29:22.326Z",
+    "title": "李强主持召开经济形势专家和企业家座谈会",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 19:29:22",
+    "uuid": "2e3e1032-f8ef-4e17-bff9-b939134c53cb"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -66,6 +157,24 @@
     "up": false,
     "date": "2026-04-10 19:09:09",
     "uuid": "cc17fbce-fbe2-4770-8511-cb88e8b579fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "首钢股份(000959.SZ)公告，决定终止筹划发行可转换公司债券及支付现金购买资产并募集配套资金事项，拟购买控股子公司首钢智新部分股权，终止原因是各相关方未能就交易方案核心条款、交易节奏达成一致 ...",
+    "id": "8sDPKOWXTL6",
+    "order": 1775820658060,
+    "createdAt": "2026-04-10T11:07:31.000Z",
+    "publishDate": "2026-04-10T11:30:58.060Z",
+    "title": "首钢股份：终止筹划发行可转债及支付现金购买资产事项 4月13日开市起复牌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 19:07:31",
+    "uuid": "7061f49d-b7b0-4a93-bb09-a493ab692a73"
   },
   {
     "newsArray": [
@@ -1362,6 +1471,24 @@
     "up": false,
     "date": "2026-04-10 06:51:04",
     "uuid": "2411eb05-f6a0-4ea7-b4c7-91f5b44c2c39"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "和讯网" }
+    ],
+    "summary": "宇树科技最新款机器人R1现身阿里西溪园区引围观。内部消息称双方正筹备出海合作项目，预计4月中旬在深圳品牌大会正式发布，该项目或将落地阿里速卖通，速卖通正与多品牌合作推定制化深度出海方案，为中国品牌提供出海解决方案。",
+    "id": "8sBBtWkPtVy",
+    "order": 1775821013181,
+    "createdAt": "2026-04-09T21:59:18.000Z",
+    "publishDate": "2026-04-10T11:36:53.181Z",
+    "title": "宇树和阿里将有出海战略级合作，或将落地速卖通",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-10 05:59:18",
+    "uuid": "ed44aeab-77d5-4fef-bbcb-a7c748399337"
   },
   {
     "newsArray": [
