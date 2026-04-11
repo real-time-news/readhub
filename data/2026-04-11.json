@@ -1,6 +1,102 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "今年第4号台风“森拉克”（强热带风暴级）11日5时位于美国关岛东南约920公里的西北太平洋洋面，中心附近最大风力10级，最低气压982百帕 ...",
+    "id": "8sD6mqbk7ET",
+    "order": 1775868416666,
+    "createdAt": "2026-04-11T00:46:56.000Z",
+    "publishDate": "2026-04-11T00:46:56.666Z",
+    "title": "“森拉克”将继续增强 最强可达超强台风级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-11 08:46:56",
+    "uuid": "870337fa-0af1-4abf-a299-287211a7becc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "XChat官方预告，将于4月17日在苹果iPhone/iPad平台推出独立消息应用XChat，该应用主打隐私安全，采用端到端加密技术，无广告且不追踪用户数据。",
+    "id": "8sEHzSKaLT8",
+    "order": 1775867163242,
+    "createdAt": "2026-04-11T00:26:04.000Z",
+    "publishDate": "2026-04-11T00:26:03.242Z",
+    "title": "马斯克XChat将于4月17日推出",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-11 08:26:04",
+    "uuid": "552f0096-bb89-442d-8dd0-61b17b6147d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "全天候科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Anthropic在Claude博客就人工智能时代网络安全防御实践提出一系列建议，强调因与Claude Mythos同等能力水平的模型“很快会被广泛获取”，现阶段需加速采取防御行动 ...",
+    "id": "8sEGD29MVDL",
+    "order": 1775866065534,
+    "createdAt": "2026-04-11T00:07:45.000Z",
+    "publishDate": "2026-04-11T00:07:45.534Z",
+    "title": "Anthropic发布网络安全建议，承诺随项目推进持续更新指引",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-11 08:07:45",
+    "uuid": "f206d862-98dd-4287-a1c9-de949a048c25"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "荷兰监管机构批准使用特斯拉Model 3的FSD（监督版）系统，该软件在人类监督下可处理高速和城市道路大部分驾驶任务，这是该技术首次在欧洲获监管批准，或为其获其他欧洲监管机构认可铺平道路 ...",
+    "id": "8sE943N1Flg",
+    "order": 1775866032438,
+    "createdAt": "2026-04-11T00:07:13.000Z",
+    "publishDate": "2026-04-11T00:07:12.438Z",
+    "title": "打开首个欧洲市场 特斯拉FSD获荷兰批准",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-11 08:07:13",
+    "uuid": "adad92c2-ee64-4e26-b93f-0ed51091a3d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "全天候科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "执行美国“阿耳忒弥斯2号”载人绕月飞行任务的“猎户座”飞船于美东时间10日晚成功完成服务舱与返回舱分离，返回舱即将进入大气层。",
+    "id": "8sEHdnNCNo4",
+    "order": 1775865990269,
+    "createdAt": "2026-04-11T00:06:30.000Z",
+    "publishDate": "2026-04-11T00:06:30.269Z",
+    "title": "美国载人绕月飞船返回舱即将进入大气层",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-11 08:06:30",
+    "uuid": "4d5a568d-4289-40f8-ade8-2751b43d5d73"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
