@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "联合国难民署14日称，安达曼海发生船只倾覆事故，约250人失踪。",
+    "id": "8sKLWVXp3MX",
+    "order": 1776193603040,
+    "createdAt": "2026-04-14T19:06:43.000Z",
+    "publishDate": "2026-04-14T19:06:43.040Z",
+    "title": "安达曼海发生船只倾覆事故约250人失踪",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-15 03:06:43",
+    "uuid": "e0af94f0-760a-4100-90f7-67dcbc4b8be9"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -15,5 +32,25 @@
     "up": false,
     "date": "2026-04-15 01:46:17",
     "uuid": "0a621b73-71ac-42a3-99a1-8c8ec0322f36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "菲律宾能源部长莎伦·加林表示，该国已请求美国延长购买俄罗斯石油及石油产品的豁免许可，对延长已于4月11日到期的豁免持乐观态度，同时也在准备替代供应方案 ...",
+    "id": "8sK1bLFgDUV",
+    "order": 1776194796607,
+    "createdAt": "2026-04-14T17:06:32.000Z",
+    "publishDate": "2026-04-14T19:26:36.607Z",
+    "title": "菲律宾寻求美国延长购买俄罗斯石油的豁免",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-15 01:06:32",
+    "uuid": "089de526-d3c9-49fa-aef0-1accdb9f6e19"
   }
 ]
