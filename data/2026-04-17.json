@@ -1,6 +1,76 @@
 [
   {
     "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医谷网" },
+      { "siteName": "科学网" }
+    ],
+    "summary": "拜耳宣布国家药监局批准肺癌新型靶向治疗药物赫新诺（塞伐艾替尼片）单药治疗特定肺癌患者。2022年肺癌新增病例多，是全球第一大癌症且致死率高 ...",
+    "id": "8sN8sdPq7aC",
+    "order": 1776383503096,
+    "createdAt": "2026-04-16T23:51:43.000Z",
+    "publishDate": "2026-04-16T23:51:43.096Z",
+    "title": "塞伐艾替尼片治疗HER2突变非小细胞肺癌在华获批",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 07:51:43",
+    "uuid": "700051a9-a60e-42e8-9ceb-4b64c78f1f79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "据知情人士透露，SpaceX已将授予员工的股票归属日期从预期的5月提前至最早下周，此时该公司正筹备目标估值超2万亿美元的首次公开募股 ...",
+    "id": "8sO53Y1DC1u",
+    "order": 1776382361951,
+    "createdAt": "2026-04-16T23:32:42.000Z",
+    "publishDate": "2026-04-16T23:32:41.951Z",
+    "title": "SpaceX加速员工期权归属 最早下周释放股权激励",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 07:32:42",
+    "uuid": "c78e2c3b-6bed-4017-a816-64b9ca82bd37"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "今年以来，公募机构自购动作活跃。截至4月16日，年内累计自购237次，合计净申购金额13.28亿元 ...",
+    "id": "8sODdMrQKZp",
+    "order": 1776382211898,
+    "createdAt": "2026-04-16T23:30:11.000Z",
+    "publishDate": "2026-04-16T23:30:11.898Z",
+    "title": "公募年内累计自购237次 合计金额超13亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 07:30:11",
+    "uuid": "332df8aa-b3ec-4707-8aba-946b17ba3ae4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2026年4月16日（联交所交易时段后），商汤与配售代理订立配售协议，配售代理将尽力促使不少于六名承配人认购17亿股配售股份，配售价为每股1.91港元，较当日收市价折让约8.61% ...",
+    "id": "8sOCD4axJgz",
+    "order": 1776383214651,
+    "createdAt": "2026-04-16T23:28:01.000Z",
+    "publishDate": "2026-04-16T23:46:54.651Z",
+    "title": "商汤：拟折价8.61%配售17亿股股份，净筹约32亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 07:28:01",
+    "uuid": "80b5a244-3c58-4d74-9cfe-0ebb13cdadf7"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "界面" },
       { "siteName": "财联社" }
@@ -33,6 +103,63 @@
     "up": false,
     "date": "2026-04-17 06:26:26",
     "uuid": "1d1654a0-166d-4e54-9797-a11d07d89957"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉（TSLA）日益依赖内部需求支撑Cybertruck销量，第四季度美国注册的Cybertruck中近五分之一被马斯克商业生态系统内部消化，若剔除内部购买，该季度注册量将降51%，零售兴趣下滑明显 ...",
+    "id": "8sNPdONoRZj",
+    "order": 1776382364090,
+    "createdAt": "2026-04-16T22:06:42.000Z",
+    "publishDate": "2026-04-16T23:32:44.090Z",
+    "title": "特斯拉Cybertruck注册数据显示：马斯克旗下公司购入量超18%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 06:06:42",
+    "uuid": "7827451c-7473-4780-922b-cf52c43228b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI发布Codex更新，公告称Codex可与用户协同操作电脑，兼容更多工具和应用，能生成图像、记住偏好、从以往操作中学习并承担持续性与重复性工作，此次更新将向使用ChatGPT登录的Codex桌面应用用户逐步推送 ...",
+    "id": "8sNqmlSqJGv",
+    "order": 1776382515681,
+    "createdAt": "2026-04-16T21:26:06.000Z",
+    "publishDate": "2026-04-16T23:35:15.681Z",
+    "title": "OpenAI发布Codex更新，可与用户协同操作电脑进行持续性工作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 05:26:06",
+    "uuid": "6126e479-c35c-4b22-b3ab-8d2d0ee8c059"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "OpenAI推出旨在加速药物发现的人工智能模型GPT - Rosalind早期版本，加入科技公司用AI推动科学突破行列 ...",
+    "id": "8sNwUzZPXjf",
+    "order": 1776381319718,
+    "createdAt": "2026-04-16T20:46:29.000Z",
+    "publishDate": "2026-04-16T23:15:19.718Z",
+    "title": "OpenAI推出药物研发AI模型 挑战谷歌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 04:46:29",
+    "uuid": "6154a159-7314-4cb4-9d02-84172f86ce83"
   },
   {
     "newsArray": [
