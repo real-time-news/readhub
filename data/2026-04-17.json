@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "大立光第一季度营收155.4亿元台币，同比增长6.6%，预估140.8亿元台币。净利润61.2亿元台币，同比下降5%，预估53.1亿元台币 ...",
+    "id": "8sOHuu2yckg",
+    "order": 1776388598520,
+    "createdAt": "2026-04-17T01:16:38.000Z",
+    "publishDate": "2026-04-17T01:16:38.520Z",
+    "title": "大立光第一季度营收155.4亿元台币 同比增长6.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 09:16:38",
+    "uuid": "e535f997-89d0-4295-b922-c98888f623f8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "黎巴嫩军方17日称，当前停火存在违规情况，记录多起以军袭击事件，部分村庄仍遭间歇性炮击。",
+    "id": "8sOF4QPo5zP",
+    "order": 1776388056822,
+    "createdAt": "2026-04-17T01:07:37.000Z",
+    "publishDate": "2026-04-17T01:07:36.822Z",
+    "title": "黎军方称停火后仍有以军袭击发生",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 09:07:37",
+    "uuid": "4f8dad05-1f5f-4cac-8edb-ca5944a52ec0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "AMD 公司昨日股价达 278 美元，市值触及 4540 亿美元创历史新高。因 ASML 和台积电本周财报强劲，提振科技行业投资情绪，AI 供应链相关公司股价与市值集体走高 ...",
+    "id": "8sOGWp7WZn2",
+    "order": 1776386852130,
+    "createdAt": "2026-04-17T00:47:32.000Z",
+    "publishDate": "2026-04-17T00:47:32.130Z",
+    "title": "AMD 市值触及 4540 亿美元，创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 08:47:32",
+    "uuid": "4ed2e0fb-4fdf-4a29-b63b-2389b357cb5d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉 Model S 和 Model X 的生产将以 350 辆签名版车型收尾，每辆车附带专属权益、定价高昂，购车者自交付日起至少一年内不得转售 ...",
+    "id": "8sNFFpIbHWL",
+    "order": 1776387333839,
+    "createdAt": "2026-04-17T00:29:09.000Z",
+    "publishDate": "2026-04-17T00:55:33.839Z",
+    "title": "特斯拉禁止一年内转售 Model S/X 签名版，违者罚款 5 万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 08:29:09",
+    "uuid": "e8bf4703-c940-43fe-a701-aaceab790f88"
+  },
+  {
+    "newsArray": [
       { "siteName": "医药魔方" },
       { "siteName": "医谷网" },
       { "siteName": "科学网" }
@@ -32,6 +101,42 @@
     "up": false,
     "date": "2026-04-17 07:32:42",
     "uuid": "c78e2c3b-6bed-4017-a816-64b9ca82bd37"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "时隔一个月，A股两融余额重返2.65万亿元，截至4月15日已连续7个交易日增长，近4个交易日单日增量超百亿元，杠杆资金主要涌入电子等科技品种 ...",
+    "id": "8sO9L5UMcFE",
+    "order": 1776384914067,
+    "createdAt": "2026-04-16T23:32:21.000Z",
+    "publishDate": "2026-04-17T00:15:14.067Z",
+    "title": "两融余额七连增 杠杆资金加码科技品种",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 07:32:21",
+    "uuid": "fa641903-93d8-40a0-ab47-7e1ec7af1b0d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "港股市场成为基金公司布局重点，截至4月16日，今年已有46只港股主题基金成立，数量较去年同期倍增，11只正在发行，4只即将发行 ...",
+    "id": "8sO9L9Ndeo6",
+    "order": 1776385708678,
+    "createdAt": "2026-04-16T23:31:54.000Z",
+    "publishDate": "2026-04-17T00:28:28.678Z",
+    "title": "港股主题基金年内已成立46只",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 07:31:54",
+    "uuid": "de67aaa6-f798-468f-b33f-562edad8dee0"
   },
   {
     "newsArray": [
@@ -160,6 +265,26 @@
     "up": false,
     "date": "2026-04-17 04:46:29",
     "uuid": "6154a159-7314-4cb4-9d02-84172f86ce83"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "Stellantis 与微软宣布达成一项五年战略合作协议，共同开发人工智能、网络安全及工程技术能力 ...",
+    "id": "8sNWpP6azip",
+    "order": 1776387019430,
+    "createdAt": "2026-04-16T19:46:43.000Z",
+    "publishDate": "2026-04-17T00:50:19.430Z",
+    "title": "Stellantis与微软签署五年合作协议，全力推进人工智能布局",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-17 03:46:43",
+    "uuid": "48bdf579-8f91-4464-952f-34eedbec8f08"
   },
   {
     "newsArray": [
