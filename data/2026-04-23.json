@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "周三（4月22日）纽约尾盘，ICE美元指数涨0.19%，报98.585点，交投区间98.211 - 98.610点 ...",
+    "id": "8sXvLMJxzAF",
+    "order": 1776887265607,
+    "createdAt": "2026-04-22T19:47:45.000Z",
+    "publishDate": "2026-04-22T19:47:45.607Z",
+    "title": "美元指数涨约0.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-23 03:47:45",
+    "uuid": "ff13ac52-94a5-4b3e-b3cf-0664854c7292"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "为节约成本，台积电将推迟至2029年后部署阿斯麦最先进的芯片生产光刻机，这或给阿斯麦带来潜在挫折 ...",
+    "id": "8sXtu8lMgYC",
+    "order": 1776887196112,
+    "createdAt": "2026-04-22T19:46:36.000Z",
+    "publishDate": "2026-04-22T19:46:36.112Z",
+    "title": "台积电：阿斯麦最新芯片制造设备过于昂贵，将推迟购买",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-23 03:46:36",
+    "uuid": "536da284-e39b-4714-b98e-3b9c0564657f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "知情人士透露，SpaceX是参与开发唐纳德·特朗普总统“金穹顶”计划操作系统的公司之一，该计划专注整合军事行动中的卫星通信 ...",
+    "id": "8sXr3FtbAqb",
+    "order": 1776883564905,
+    "createdAt": "2026-04-22T18:46:04.000Z",
+    "publishDate": "2026-04-22T18:46:04.905Z",
+    "title": "SpaceX受邀加入开发“金穹顶”软件的行业团队",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-23 02:46:04",
+    "uuid": "1c19693e-f4ae-41a5-b177-fc9b71de7d14"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
@@ -15,6 +66,23 @@
     "up": false,
     "date": "2026-04-23 02:26:13",
     "uuid": "39f33201-70ee-4899-897f-f3aadfeaacbe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "专注于为AI应用提供大规模数据管理软件基础设施的Vast Data完成10亿美元F轮融资，公司估值达300亿美元，由Drive Capital和Access Industries领投，英伟达等机构参投 ...",
+    "id": "8sXh2TnaJph",
+    "order": 1776884518793,
+    "createdAt": "2026-04-22T18:06:16.000Z",
+    "publishDate": "2026-04-22T19:01:58.793Z",
+    "title": "英伟达参投Vast Data，后者估值达300亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-23 02:06:16",
+    "uuid": "a3b45b90-d9dc-4964-8e01-c3bbe10acb63"
   },
   {
     "newsArray": [
