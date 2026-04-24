@@ -1,6 +1,180 @@
 [
   {
     "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "A股上市公司万兴科技在AIGC领域持续发力，旗下绘图创意软件“万兴脑图”（原名亿图脑图）上线全新功能万兴脑图AI，成为国内首款支持AI Agent功能的专业思维导图软件 ...",
+    "id": "8sa4JXELGST",
+    "order": 1777009745157,
+    "createdAt": "2026-04-24T05:49:05.000Z",
+    "publishDate": "2026-04-24T05:49:05.157Z",
+    "title": "万兴科技推出万兴脑图 AI，开创思维导图新纪元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 13:49:05",
+    "uuid": "64152c13-9882-418d-856e-66400cf08ec6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2025年阿里云以32.8%的市场份额稳居中国云市场第一，同比提升2.7个百分点，收入增速34.4%远超行业整体水平，AI需求推动其领先优势持续扩大 ...",
+    "id": "8sa792fz1Hs",
+    "order": 1777009725692,
+    "createdAt": "2026-04-24T05:48:45.000Z",
+    "publishDate": "2026-04-24T05:48:45.692Z",
+    "title": "Gartner：阿里云市场份额升至32.8%，再度扩大中国第一优势",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 13:48:45",
+    "uuid": "193f30ca-ac04-4adb-b1a9-bcdbc5ef4709"
+  },
+  {
+    "newsArray": [
+      { "siteName": "牛透社" },
+      { "siteName": "网易科技" },
+      { "siteName": "雷锋网" }
+    ],
+    "summary": "美团已悄然启动新一代万亿级大模型的测试邀请，该模型完全基于国产化算力集群完成训练，或在采用国产算力训练万亿级模型方面实现突破，目前仅面向受邀用户开放。",
+    "id": "8sa7pSBPEz2",
+    "order": 1777009712216,
+    "createdAt": "2026-04-24T05:48:33.000Z",
+    "publishDate": "2026-04-24T05:48:32.216Z",
+    "title": "美团启动万亿级大模型测试，基于国产算力集群完成训练",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 13:48:33",
+    "uuid": "36b759ec-02ab-4782-a728-92ac4620b3b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "蓝点网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "Bitwarden CLI 的 npm 包遭供应链攻击，恶意版本 2026.4.0 用于窃取开发者 npm 令牌、SSH 密钥及云凭证等 ...",
+    "id": "8sa2qfJ4mWf",
+    "order": 1777009658781,
+    "createdAt": "2026-04-24T05:47:38.000Z",
+    "publishDate": "2026-04-24T05:47:38.781Z",
+    "title": "Bitwarden CLI npm 包遭供应链攻击：影响约 1.5 小时，可窃取开发者凭证",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 13:47:38",
+    "uuid": "a547389c-b15e-48d3-ada7-384bef195003"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "北汽新能源旗下极狐汽车在 2026 北京车展举行发布会，极狐 S3 正式开启预售，公布了不同版本车型的价格，包括充电版和换电版，换电版有电池租赁和整车买断两种方式 ...",
+    "id": "8sa4JnINhsx",
+    "order": 1777008998178,
+    "createdAt": "2026-04-24T05:36:38.000Z",
+    "publishDate": "2026-04-24T05:36:38.178Z",
+    "title": "北汽极狐 S3 预售：可选纯电 / 增程 / 换电版本，电池租赁 6.48 万元起",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 13:36:38",
+    "uuid": "ae0bde95-7825-4f36-87e9-3d66844ed796"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "4月22日晚，鸿蒙智行春季新品发布会上，问界M6正式发布，全新一代问界M9开启预售，起售价49.98万元，Ultimate领世加长版起售价66.98万元 ...",
+    "id": "8sYk5liAFb9",
+    "order": 1777008971313,
+    "createdAt": "2026-04-24T05:36:11.000Z",
+    "publishDate": "2026-04-24T05:36:11.313Z",
+    "title": "鸿蒙智行发布问界M6等多款产品",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 13:36:11",
+    "uuid": "3f62f605-025f-45c5-bef8-9f67095b95e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "汇顶科技公告，2026年第一季度营收9.69亿元，同比降8.95%。归母净利润1.17亿元，同比降40.01%。",
+    "id": "8sYmEcrXQb3",
+    "order": 1777008432334,
+    "createdAt": "2026-04-24T05:27:12.000Z",
+    "publishDate": "2026-04-24T05:27:12.334Z",
+    "title": "汇顶科技：Q1净利1.17亿元，同比下降40.01%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 13:27:12",
+    "uuid": "8b126fe5-f89b-4e81-b23c-b7143570326c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "阶跃发布新一代自动语音识别模型StepAudio 2.5 ASR，该模型率先将大语言模型推理加速技术引入语音识别领域，在推理速度与转写精度上显著提升，面向会议转写等场景。",
+    "id": "8saEGswi2Xs",
+    "order": 1777007342674,
+    "createdAt": "2026-04-24T05:09:03.000Z",
+    "publishDate": "2026-04-24T05:09:02.674Z",
+    "title": "阶跃发布新一代自动语音识别模型StepAudio 2.5 ASR",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 13:09:03",
+    "uuid": "5f0176a5-4aeb-406d-a1fc-a7c4f01f9552"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "韩国起亚第一季度销售额29.50万亿韩元（预估29.33万亿韩元），营业利润2.21万亿韩元（预估2.3万亿韩元），净利润1.83万亿韩元（预估1.93万亿韩元）。",
+    "id": "8saEGEJW39C",
+    "order": 1777007301609,
+    "createdAt": "2026-04-24T05:08:21.000Z",
+    "publishDate": "2026-04-24T05:08:21.609Z",
+    "title": "韩国起亚Q1营业利润2.21万亿韩元超预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 13:08:21",
+    "uuid": "a679a5b6-2d68-4b51-9d84-3b1788e5b397"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "港股大模型概念股智谱、Minimax在Deepseek V4发布后扩大跌势，分别一度跌6.3%和3.9%。",
+    "id": "8sa8YlMdCNp",
+    "order": 1777008521063,
+    "createdAt": "2026-04-24T04:36:32.000Z",
+    "publishDate": "2026-04-24T05:28:41.063Z",
+    "title": "智谱、Minimax在Deepseek V4发布后扩大跌势",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-24 12:36:32",
+    "uuid": "b4a1e044-b9e2-45f2-8f43-b7e9686feede"
+  },
+  {
+    "newsArray": [
       { "siteName": "手机中国" },
       { "siteName": "站长之家" },
       { "siteName": "快科技" }
