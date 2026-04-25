@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "昨日，江苏如东洋口港中石油江苏LNG接收站累计输出天然气量突破1000亿立方米，为保障国家能源安全和长三角区域经济社会发展提供有力支撑，该接收站拥有6座LNG储罐，总罐容108万立方米。",
+    "id": "8scDB9hgfmZ",
+    "order": 1777110953040,
+    "createdAt": "2026-04-25T09:55:53.000Z",
+    "publishDate": "2026-04-25T09:55:53.040Z",
+    "title": "江苏如东能源岛LNG输出量突破1000亿立方米",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-25 17:55:53",
+    "uuid": "f724449a-ddd1-429a-8b26-8a50835d8a56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智源社区" },
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "DeepSeek发布DeepSeek-V4-Pro 1.6T旗舰模型及DeepSeek-V4-Flash 284B高效模型，智源研究院牵头研发的众智FlagOS对其进行全量适配，已完成DeepSeek-V4-Flash在8款以上AI芯片的适配与推理部署，正推进DeepSeek-V4-Pro迁移适配 ...",
+    "id": "8sadGWkwSmN",
+    "order": 1777109856488,
+    "createdAt": "2026-04-25T09:37:36.000Z",
+    "publishDate": "2026-04-25T09:37:36.488Z",
+    "title": "智源：FlagOS完成DeepSeekV4八款芯片Day0 适配，实现三重技术突破",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-25 17:37:36",
+    "uuid": "e4b9d000-4228-453e-9849-6d2a5690c0bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "北京车展上，前DeepSeek多模态技术核心研究员阮翀以元戎启行首席科学家身份首次公开亮相 ...",
+    "id": "8scAJGNJkUS",
+    "order": 1777109808487,
+    "createdAt": "2026-04-25T09:36:49.000Z",
+    "publishDate": "2026-04-25T09:36:48.487Z",
+    "title": "元戎启行全面押注大模型自动驾驶",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-25 17:36:49",
+    "uuid": "7ad001e0-4252-4002-9018-26237a0fa462"
+  },
+  {
+    "newsArray": [
       { "siteName": "雷锋网" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
