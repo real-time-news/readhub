@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "金融界" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "亚马逊发布 2026 年第一季度财报，总营收 1815.19 亿美元，同比增长 17% ...",
+    "id": "8sjkYTtkiJK",
+    "order": 1777505443641,
+    "createdAt": "2026-04-29T23:30:43.641Z",
+    "publishDate": "2026-04-29T23:30:43.641Z",
+    "title": "亚马逊第一季度净利润同比增长 77% 投资 Anthropic 获益 168 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-30 07:30:43",
+    "uuid": "44b7911f-c17c-4d9a-b521-4dddd6476d63"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "Meta 发布 2026 年第一季度财报，总营收 563.11 亿美元，同比增长 33%。净利润 267.73 亿美元，同比增长 61% ...",
+    "id": "8sjj6b7LAWF",
+    "order": 1777503309202,
+    "createdAt": "2026-04-29T22:55:09.202Z",
+    "publishDate": "2026-04-29T22:55:09.202Z",
+    "title": "Meta 第一季度净利润同比增长 61% 盘后下跌超 5%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-30 06:55:09",
+    "uuid": "6f4bd9f5-80e1-4487-814b-a9f3e1063665"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "微信公众号" },
+      { "siteName": "创业邦" }
+    ],
+    "summary": "灵心巧手（北京）科技股份有限公司正式宣布完成 B+ 轮融资，未公布具体规模，由中关村科学城基金等知名投资机构和产业方投资，老股东持续加注 ...",
+    "id": "8sj7xtjDWvE",
+    "order": 1777503309203,
+    "createdAt": "2026-04-29T22:55:09.203Z",
+    "publishDate": "2026-04-29T22:55:09.203Z",
+    "title": "灵心巧手完成 B+ 轮融资，推进产能爬坡提升产线水平",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-30 06:55:09",
+    "uuid": "c91df40a-e8a0-4e30-aca1-96e3b6d86820"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美股三大指数收盘涨跌不一，纳指涨 0.04%，道指跌 0.57%，标普 500 指数跌 0.04%。热门科技股涨跌不一，亚马逊、博通涨超 1%，微软、英伟达跌超 1% ...",
+    "id": "8sjZ6WSEopD",
+    "order": 1777503014457,
+    "createdAt": "2026-04-29T22:50:14.457Z",
+    "publishDate": "2026-04-29T22:50:14.457Z",
+    "title": "美股三大指数收盘涨跌不一，苹果概念、存储概念股大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-30 06:50:14",
+    "uuid": "d9d063b9-d7f0-4d11-8803-3545f8a1f965"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "福特汽车第一季度总营收 433 亿美元，同比增长 6.4%，调整后每股收益 0.66 美元（上年同期 0.14 美元，预估 0.19 美元），调整后息税前利润 35 亿美元（上年同期 10 亿美元，预估 12.6 亿美元）。",
+    "id": "8sjaXLwuRmU",
+    "order": 1777503009501,
+    "createdAt": "2026-04-29T22:50:09.501Z",
+    "publishDate": "2026-04-29T22:50:09.501Z",
+    "title": "福特汽车第一季度总营收 433 亿美元 同比增长 6.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-30 06:50:09",
+    "uuid": "b006fda9-c739-4fea-8dcf-8f74ff6ecfe4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "GitHub 是开发者领域主流平台，被微软收购后保持增长，2025 年初 AI 编程热潮推高其使用量，智能体成主流后用户规模爆发式增长 ...",
+    "id": "8siv5U5qGRP",
+    "order": 1777503009503,
+    "createdAt": "2026-04-29T22:50:09.503Z",
+    "publishDate": "2026-04-29T22:50:09.503Z",
+    "title": "AI 编程热潮推动 GitHub 爆发增长，平台频发故障后启动底层基础设施重构",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-30 06:50:09",
+    "uuid": "e09d3ce2-634b-4bb6-b030-769a919d8cdd"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "全天候科技" },
       { "siteName": "华尔街见闻" }
