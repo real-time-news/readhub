@@ -1,6 +1,151 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "A 股三大指数午间休盘集体上涨，沪指涨 0.4%，深成指涨 1.58%，创业板指涨 2.27%。新能源产业链大涨，光伏、锂矿领涨，德方纳米等涨停，固德威涨超 10% ...",
+    "id": "8siR5RWkO6R",
+    "order": 1777434623297,
+    "createdAt": "2026-04-29T03:50:23.297Z",
+    "publishDate": "2026-04-29T03:50:23.297Z",
+    "title": "A 股三大指数午间休盘集体上涨，新能源产业链大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 11:50:23",
+    "uuid": "aee5aeb2-2bfb-4136-bf42-fc7280a68b9a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "4 月 28 日晚间东方甄选公告，依据 2023 年股份激励计划，向 302 名董事、高管及核心员工授出 1930.14 万股股份奖励，占已发行股份 1.82%，当日收盘价 28.44 港元 / 股 ...",
+    "id": "8si9vU8uARS",
+    "order": 1777434022170,
+    "createdAt": "2026-04-29T03:40:22.170Z",
+    "publishDate": "2026-04-29T03:40:22.170Z",
+    "title": "东方甄选：依据股份激励计划奖励 302 人，俞敏洪获 180 万股",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 11:40:22",
+    "uuid": "8e961846-070d-4add-a28f-c8280c6f23f7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "联商网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "星巴克第二财季净营收 95 亿美元，同比增长 8.4%，预估 91.4 亿美元。经营利润 8.281 亿美元，同比增长 38%，预估 7.577 亿美元 ...",
+    "id": "8shvcl9VLxD",
+    "order": 1777433709712,
+    "createdAt": "2026-04-29T03:35:09.712Z",
+    "publishDate": "2026-04-29T03:35:09.712Z",
+    "title": "星巴克第二财季净营收 95 亿美元 同比增长 8.4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 11:35:09",
+    "uuid": "45db29ef-b16e-497c-bd53-d0cb91d28080"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "品玩" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "腾讯 ima 推出知识 Agent——copilot，支持用户创建专属 Agent。copilot 内置记忆系统，通过四大模块记住用户背景、习惯与推进事项，实现跨场景连续调用，减少重复输入。",
+    "id": "8siOCtOOiRV",
+    "order": 1777433437826,
+    "createdAt": "2026-04-29T03:30:37.855Z",
+    "publishDate": "2026-04-29T03:30:37.826Z",
+    "title": "腾讯 ima 推出全新知识 Agent——copilot",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 11:30:37",
+    "uuid": "8109f184-7622-4941-b087-1b61388edbe3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国台办发言人陈斌华表示，「闽超」今年开赛人气火爆，揭幕战吸引 5.1 万余名观众创福建省单场体育赛事现场观众人数记录 ...",
+    "id": "8siODE4HDqx",
+    "order": 1777433427786,
+    "createdAt": "2026-04-29T03:30:27.786Z",
+    "publishDate": "2026-04-29T03:30:27.786Z",
+    "title": "国台办：「闽超」成为具有两岸融合特色的赛事",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 11:30:27",
+    "uuid": "1d67cfec-eedc-492e-8bee-ea8d5bd9afd8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "第九届数字中国建设峰会消息，2025 年我国数字经济核心产业增加值占 GDP 比重 10.5% 以上，数据要素价值加快释放，全国数据生产量达 52.26 泽字节，同比增长 27.28%，数字基础设施加快迭代升级。",
+    "id": "8siMn7HiBRr",
+    "order": 1777432222669,
+    "createdAt": "2026-04-29T03:10:22.669Z",
+    "publishDate": "2026-04-29T03:10:22.669Z",
+    "title": "2025 年我国数据生产量达 52.26 泽字节",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 11:10:22",
+    "uuid": "cf40a311-ad17-4b72-872c-016fdc7e23ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "源杰科技盘中涨超 5%，报 1525.54 元 / 股，股价再创新高，总市值突破 1300 亿元，成交额超 30 亿元。",
+    "id": "8siNUbTjZWW",
+    "order": 1777432221903,
+    "createdAt": "2026-04-29T03:10:21.903Z",
+    "publishDate": "2026-04-29T03:10:21.903Z",
+    "title": "源杰科技盘中涨超 5%，股价再创新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 11:10:21",
+    "uuid": "44daecde-b909-4db5-81b6-abff30e46f2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI 与 Anthropic 向美国众议院国土安全委员会工作人员专项汇报旗下具备网络攻防能力的新一代 AI 模型及对网络安全的影响，这是美国立法机构首次就新型 AI 模型网络威胁与两大 AI 巨头开展专项沟通会议之一，重点关注防护薄弱的关键基础设施领域安全风险 ...",
+    "id": "8si2lQMwcbS",
+    "order": 1777431592870,
+    "createdAt": "2026-04-29T00:30:30.594Z",
+    "publishDate": "2026-04-29T02:59:52.870Z",
+    "title": "OpenAI 和 Anthropic 就高阶网络安全 AI 模型与美国众议院委员会展开会晤",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 08:30:30",
+    "uuid": "cd4bd8f8-95f9-46b1-87db-9f7d7524aeb2"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "钛媒体" },
       { "siteName": "界面" },
@@ -52,6 +197,26 @@
     "up": false,
     "date": "2026-04-29 07:55:14",
     "uuid": "c66d8f33-b261-408e-aede-67986ef6ec38"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "牛透社" }
+    ],
+    "summary": "OpenAI 预计，其更便宜、含广告的套餐将吸引新用户，促使数千万付费订阅用户降级。今年消费者订阅用户将增长一倍以上达 1.22 亿，2030 年增至 3.06 亿 ...",
+    "id": "8si5eiyy2kF",
+    "order": 1777431610538,
+    "createdAt": "2026-04-28T23:45:16.932Z",
+    "publishDate": "2026-04-29T03:00:10.538Z",
+    "title": "OpenAI 预计用户将大幅转向更便宜的 ChatGPT 套餐",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 07:45:16",
+    "uuid": "586c8eca-e6b4-4e49-b77e-fb3be002f8f5"
   },
   {
     "newsArray": [
@@ -120,6 +285,32 @@
     "up": false,
     "date": "2026-04-29 05:10:14",
     "uuid": "a64bbc95-eaa4-4431-93c8-9df4e0b02d52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "格隆汇" },
+      { "siteName": "手机中国" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "aibase" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "苹果计划今年在 iOS 27 中借助人工智能全面革新 iPhone、iPad 和 Mac 内置的照片编辑功能，开发由 Apple Intelligence 平台驱动的新工具，如「扩展」「增强」「重新构图」等，用户借助设备端人工智能模型处理图像通常只需几秒。",
+    "id": "8shn2lufBIE",
+    "order": 1777431655222,
+    "createdAt": "2026-04-28T20:30:34.515Z",
+    "publishDate": "2026-04-29T03:00:55.222Z",
+    "title": "苹果计划今年在 iOS 27 中借助人工智能全面革新照片编辑功能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 04:30:34",
+    "uuid": "148c31e6-775a-4cc0-8537-9c8838b85ecf"
   },
   {
     "newsArray": [
