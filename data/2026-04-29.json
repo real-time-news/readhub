@@ -1,6 +1,189 @@
 [
   {
     "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "科大讯飞正式发布星火 X2-Flash 模型并开放 API 调用，该模型采用 MoE 架构，总参数 30B，最大支持 256K 上下文，在智能体、代码等能力上大幅提升，实测效果接近万亿级参数模型，Tokens 消耗成本降至主流大尺寸模型的三分之一 ...",
+    "id": "8sigRCpTqKq",
+    "order": 1777451449472,
+    "createdAt": "2026-04-29T08:30:49.472Z",
+    "publishDate": "2026-04-29T08:30:49.472Z",
+    "title": "讯飞星火发布 X2-Flash，国产算力实现大模型降本增效突破",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 16:30:49",
+    "uuid": "12dfdfce-fe21-4256-9510-79cdb633f0cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "财达证券（600906.SH）公告，2026 年第一季度实现营业收入 7.35 亿元，同比增长 51.06% ...",
+    "id": "8sijhrVa86i",
+    "order": 1777451437899,
+    "createdAt": "2026-04-29T08:30:37.898Z",
+    "publishDate": "2026-04-29T08:30:37.899Z",
+    "title": "财达证券：第一季度净利润同比增长 114.53%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 16:30:37",
+    "uuid": "dbc36f00-2e10-466e-ac57-f0da6db9f070"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "拓普集团公告显示，2026 年第一季度营业收入 66.28 亿元，同比增长 14.92%。归属于上市公司股东的净利润 5.52 亿元，同比下降 2.42%。",
+    "id": "8sijeuVQ0pG",
+    "order": 1777450514440,
+    "createdAt": "2026-04-29T08:15:14.440Z",
+    "publishDate": "2026-04-29T08:15:14.440Z",
+    "title": "拓普集团：第一季度净利润同比下降 2.42%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 16:15:14",
+    "uuid": "202e173f-ccda-4adc-afe9-a40568448768"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "芯碁微装公告，2026 年第一季度营收 5.15 亿元，同比增长 112.48%，归母净利润 1.08 亿元，同比增长 108.98% ...",
+    "id": "8sijeonjokq",
+    "order": 1777450213216,
+    "createdAt": "2026-04-29T08:10:13.216Z",
+    "publishDate": "2026-04-29T08:10:13.216Z",
+    "title": "芯碁微装：第一季度净利润同比增长 108.98%，高端 PCB 设备量价齐升",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 16:10:13",
+    "uuid": "db499f0d-556b-412c-8520-2a0b811b54cd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "据悉，友邦保险聘请包括麦肯锡和美世在内的多家顾问对公司进行全面业务评估，顾问公司将评估其业务、员工、组织结构和营运效率，友邦也在寻找潜在收购目标，此次评估由非执行主席杜嘉祺发起，由首席策略总监等高层监督。",
+    "id": "8siTvaUbbiq",
+    "order": 1777449316632,
+    "createdAt": "2026-04-29T07:55:16.632Z",
+    "publishDate": "2026-04-29T07:55:16.632Z",
+    "title": "友邦保险据报聘麦肯锡、美世等顾问公司进行全面业务评估",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 15:55:16",
+    "uuid": "396d8cac-6079-45ad-bfd6-4a914660f299"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenAI 在 1 月 16 日宣布推出每月 8 美元的「ChatGPT Go」低价订阅服务，该服务自去年 8 月已在 171 个国家推出 ...",
+    "id": "8si2lZ385Dn",
+    "order": 1777449316658,
+    "createdAt": "2026-04-29T07:55:16.658Z",
+    "publishDate": "2026-04-29T07:55:16.658Z",
+    "title": "OpenAI 预计 ChatGPT 订阅用户将达到 1.22 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 15:55:16",
+    "uuid": "095d4ded-3771-4f3b-80c8-3d77b5d0bcf3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "一季度我国海洋经济实现良好开局，高质量发展向新向优，海洋生产总值 2.6 万亿元，同比增长 5.4% ...",
+    "id": "8signsbKKb4",
+    "order": 1777449012335,
+    "createdAt": "2026-04-29T07:50:12.335Z",
+    "publishDate": "2026-04-29T07:50:12.335Z",
+    "title": "一季度我国海洋经济实现良好开局 生产总值 2.6 万亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 15:50:12",
+    "uuid": "6d25d3f5-2bf4-4715-8690-8197e2bbe0c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "美国上周要求多家芯片设备公司停止向中国第二大芯片制造商华虹半导体发货，中方多次表明在美输华芯片问题上的原则立场，希望美方以实际行动维护全球产供链稳定畅通。",
+    "id": "8siR5TQXv5E",
+    "order": 1777449012338,
+    "createdAt": "2026-04-29T07:50:12.338Z",
+    "publishDate": "2026-04-29T07:50:12.338Z",
+    "title": "报道称美国暂停向华虹供应半导体设备，外交部回应",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 15:50:12",
+    "uuid": "5660f5b1-9404-4db5-8b39-8a2de3c375a9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软计划升级 Windows 11 系统中的时钟应用，新测试版采用圆角设计，任务面板占半屏，支持排序并能衔接 Microsoft To Do 应用 ...",
+    "id": "8siYvQNveJn",
+    "order": 1777448419048,
+    "createdAt": "2026-04-29T07:40:19.048Z",
+    "publishDate": "2026-04-29T07:40:19.048Z",
+    "title": "微软酝酿 Win11 新版时钟应用：专注模式支持「反思」，任务集成 AI 建议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 15:40:19",
+    "uuid": "6f18a750-c33d-42a7-98a5-9d0ce01546c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "金融界" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "彭博亿万富翁指数显示，截至今年 3 月，三星李氏家族财富总额从一年前约 201 亿美元翻倍至 455 亿美元 ...",
+    "id": "8si9veU81HF",
+    "order": 1777448419048,
+    "createdAt": "2026-04-29T07:40:19.048Z",
+    "publishDate": "2026-04-29T07:40:19.048Z",
+    "title": "AI 造富，三星家族财富一年翻倍至 3000 亿跃居亚洲第三",
+    "type": "topic",
+    "up": false,
+    "date": "2026-04-29 15:40:19",
+    "uuid": "fa032727-a045-42c9-8cf7-e3acb8a9ded1"
+  },
+  {
+    "newsArray": [
       { "siteName": "站长之家" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" },
