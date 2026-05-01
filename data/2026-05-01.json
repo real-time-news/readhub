@@ -1,6 +1,97 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "4 月，奇瑞集团销量 251,386 辆，同比增长 25.2%。出口 177,573 辆，同比增长 102.4%。新能源汽车销量 100,276 辆，同比增长 63.8%。",
+    "id": "8smKJl0cRXa",
+    "order": 1777640112771,
+    "createdAt": "2026-05-01T12:55:12.771Z",
+    "publishDate": "2026-05-01T12:55:12.771Z",
+    "title": "奇瑞集团 4 月销量 25.1 万辆，同比增长 25.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-01 20:55:12",
+    "uuid": "c549da73-eab8-45a9-9970-138fefccaf4e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "伊朗将与美国谈判的最新提议递交给巴基斯坦，受此消息影响，国际油价短线下挫，现货金银拉升，黄金突破 4600 美元 / 盎司。",
+    "id": "8smNU0sdHsE",
+    "order": 1777639809752,
+    "createdAt": "2026-05-01T12:50:09.752Z",
+    "publishDate": "2026-05-01T12:50:09.752Z",
+    "title": "伊媒：伊朗已提交与美谈判新提案",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-01 20:50:09",
+    "uuid": "0d952f9e-28ea-4c22-8f8d-aa79bfe869b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "ARGUS Research 将高通公司目标股价从 180 美元上调至 220 美元。",
+    "id": "8smKbMJTCUA",
+    "order": 1777639809758,
+    "createdAt": "2026-05-01T12:50:09.758Z",
+    "publishDate": "2026-05-01T12:50:09.758Z",
+    "title": "ARGUS Research 将高通公司目标股价上调至 220 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-01 20:50:09",
+    "uuid": "60733bef-e514-4fb8-b0df-81a42612545f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "诺和诺德表示，将于 5 月 4 日在美国推出用于治疗 2 型糖尿病的 Ozempic 口服片剂。",
+    "id": "8smM2NEM0yN",
+    "order": 1777638913705,
+    "createdAt": "2026-05-01T12:35:13.705Z",
+    "publishDate": "2026-05-01T12:35:13.705Z",
+    "title": "诺和诺德：将于 5 月 4 日在美国推出用于治疗 2 型糖尿病的 Ozempic 口服片剂",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-01 20:35:13",
+    "uuid": "80c40056-e448-4a07-a0e7-999c41ae2aa7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "微信公众号" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "中信建投分析师称，此前卡塔尔、安哥拉等国退出 OPEC 对油价短期有扰动、中期影响有限，但其体量和逻辑与阿联酋差异大 ...",
+    "id": "8slWbNZgB6I",
+    "order": 1777638633931,
+    "createdAt": "2026-05-01T12:30:33.915Z",
+    "publishDate": "2026-05-01T12:30:33.931Z",
+    "title": "中信建投：霍尔木兹海峡封锁是核心矛盾 阿联酋退出 OPEC 对油价的压制短期效果有限",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-01 20:30:33",
+    "uuid": "de0336f3-2426-4135-a5e2-17253d45c286"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
