@@ -1,6 +1,43 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英特尔股价一度涨超 6%，站上 100 美元 / 股，总市值突破 5000 亿美元创历史新高，4 月累计大涨 114% ...",
+    "id": "8smXTIDmzJU",
+    "order": 1777649422531,
+    "createdAt": "2026-05-01T15:30:22.531Z",
+    "publishDate": "2026-05-01T15:30:22.531Z",
+    "title": "英特尔股价突破 100 美元创历史新高，市值飙升至超 5000 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-01 23:30:22",
+    "uuid": "14c1a133-80ff-4b31-b0f7-7d099611022b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国证券交易委员会（SEC）一项允许上市公司将财报披露频率由每季度一次降至每半年一次的计划已通过白宫审查，接近落地 ...",
+    "id": "8smW3AX1Mtr",
+    "order": 1777648220579,
+    "createdAt": "2026-05-01T15:10:20.618Z",
+    "publishDate": "2026-05-01T15:10:20.579Z",
+    "title": "美国 SEC 改财报为半年披露的提案通过白宫审查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-01 23:10:20",
+    "uuid": "9f9b76b9-6582-43c3-89e6-8a251e528677"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
