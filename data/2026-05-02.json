@@ -1,6 +1,152 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "特斯拉最新文件显示，因企业对高知名度高管安全威胁担忧加剧，2025 年为马斯克支付安保费用约 480 万美元，较前一年增长 71% ...",
+    "id": "8snBTwq7nC4",
+    "order": 1777684228592,
+    "createdAt": "2026-05-02T01:10:28.591Z",
+    "publishDate": "2026-05-02T01:10:28.592Z",
+    "title": "特斯拉去年为马斯克支付安保费 480 万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-02 09:10:28",
+    "uuid": "92dd5f6c-e364-47c9-a639-5c8a74cadac4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "4 月，上海二手房（含商业）累计网签量达 28742 套，创近 10 年来 4 月单月成交最高值，打破 2019 年 4 月同期纪录 ...",
+    "id": "8snELU81kJg",
+    "order": 1777684220036,
+    "createdAt": "2026-05-02T01:10:20.036Z",
+    "publishDate": "2026-05-02T01:10:20.036Z",
+    "title": "上海 4 月二手房网签量创近 10 年同期新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-02 09:10:20",
+    "uuid": "2845d7d6-5328-4aaf-b929-e80632f4b6ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美股三大指数收盘涨跌不一，道指跌 0.31%，本周累涨 0.55%。纳指涨 0.89%，本周累涨 1.12%。标普 500 指数涨 0.29%，本周累涨 0.91% ...",
+    "id": "8sn2uTYI92r",
+    "order": 1777683661152,
+    "createdAt": "2026-05-02T01:01:01.152Z",
+    "publishDate": "2026-05-02T01:01:01.152Z",
+    "title": "美股三大指数收盘涨跌不一 热门科技股多数上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-02 09:01:01",
+    "uuid": "f9a4f2dc-402a-44ac-ac20-25899683bd72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "美国海军与多米诺数据实验室公司合作，通过人工智能技术在霍尔木兹海峡开展扫雷工作。该公司根据合同用人工智能技术训练水下无人机识别新型水雷，其技术可将水下无人机训练时间从 6 个月缩短至数日。",
+    "id": "8snCvJ0wAbm",
+    "order": 1777683013432,
+    "createdAt": "2026-05-02T00:50:13.432Z",
+    "publishDate": "2026-05-02T00:50:13.432Z",
+    "title": "美军使用 AI 技术在霍尔木兹海峡扫雷",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-02 08:50:13",
+    "uuid": "1c050477-d003-4fd1-b028-8974adabb305"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "5 月 2 日 8 时至 3 日 8 时，贵州南部、广西北部等地部分地区有大到暴雨，广西东北部等地局地有大暴雨，部分地区伴有短时强降水，局地有雷暴大风或冰雹等强对流天气。",
+    "id": "8snA3T9RamT",
+    "order": 1777683013434,
+    "createdAt": "2026-05-02T00:50:13.434Z",
+    "publishDate": "2026-05-02T00:50:13.434Z",
+    "title": "暴雨蓝色预警：贵州、广西等地部分地区有大到暴雨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-02 08:50:13",
+    "uuid": "e8a3e3ed-2629-40a5-ad96-58b37553473d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "医药魔方" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "Arvinas 公司与辉瑞共同宣布，美国 FDA 批准 VEPPANU（vepdegestrant）用于治疗经 FDA 授权检测确定的、雌激素受体阳性（ER+）/ 人表皮生长因子受体 2 阴性（HER2 -）、雌激素受体 1（ESR1）突变晚期或转移性乳腺癌成年患者，且患者需在接受至少一种内分泌治疗后出现疾病进展，这是 FDA 首次批准蛋白降解靶向嵌合体（PROTAC）疗法。",
+    "id": "8smocbw2yzb",
+    "order": 1777681830010,
+    "createdAt": "2026-05-02T00:30:30.010Z",
+    "publishDate": "2026-05-02T00:30:30.010Z",
+    "title": "辉瑞与 Arvinas 公司乳腺癌新药获得美国 FDA 批准",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-02 08:30:30",
+    "uuid": "ef55d66d-b728-4ba5-87b1-f259465c5e3a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌母公司 Alphabet 本周财报电话会议上，首席商务官 Philipp Schindler 表示 Gemini 未来可能会出现广告，称广告是产品规模化、覆盖数十亿用户的重要手段，执行得当能提供有用商业信息 ...",
+    "id": "8sn6r8B49X2",
+    "order": 1777681830010,
+    "createdAt": "2026-05-02T00:30:30.010Z",
+    "publishDate": "2026-05-02T00:30:30.010Z",
+    "title": "谷歌将为 Gemini 投放广告，目前处于准备阶段",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-02 08:30:30",
+    "uuid": "42637525-c303-4838-ac42-dc2d8418eff8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果公司发布 2026 财年第二财季财报，即将上任的首席执行官约翰・特纳斯首次在财报电话会议公开亮相 ...",
+    "id": "8smOuXoHUNu",
+    "order": 1777680619916,
+    "createdAt": "2026-05-02T00:10:19.916Z",
+    "publishDate": "2026-05-02T00:10:19.916Z",
+    "title": "库克卸任前寄语：建议新 CEO 把时间花在对的地方",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-02 08:10:19",
+    "uuid": "cfc1f45c-9251-4b1c-9a70-a307258c0ff6"
+  },
+  {
+    "newsArray": [
       { "siteName": "快科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "IT 之家" }
