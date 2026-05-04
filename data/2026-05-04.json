@@ -1,6 +1,128 @@
 [
   {
     "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "南非卫生部 3 日晚证实，大西洋上一艘邮轮暴发「严重急性呼吸道疾病」，已造成两人死亡。",
+    "id": "8sqE8thI1oz",
+    "order": 1777872629725,
+    "createdAt": "2026-05-04T05:30:29.725Z",
+    "publishDate": "2026-05-04T05:30:29.725Z",
+    "title": "南非卫生部：大西洋一邮轮暴发呼吸道疾病致两人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-04 13:30:29",
+    "uuid": "63e07ff3-97bc-4dab-ad32-173464eb768a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "苹果发布 2026 财年第二季度财报，营收两位数同比增长，研发投入迎来历史性突破，单季度研发费用达 114 亿美元，同比增长 34%，刷新最高纪录 ...",
+    "id": "8spqYfpc0BL",
+    "order": 1777869623474,
+    "createdAt": "2026-05-04T04:40:23.474Z",
+    "publishDate": "2026-05-04T04:40:23.474Z",
+    "title": "苹果研发投入破历史纪录：单季同比大增 34% 直追行业步伐",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-04 12:40:23",
+    "uuid": "ecea6b9b-8cde-488f-b8c1-c174c3676a68"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "据报道，阿拉伯石油输出国组织 3 日发布声明，确认阿联酋已正式退出该组织，其退出决定自 2026 年 5 月 1 日起生效 ...",
+    "id": "8sqmReKsEoG",
+    "order": 1777869038756,
+    "createdAt": "2026-05-04T04:30:38.756Z",
+    "publishDate": "2026-05-04T04:30:38.756Z",
+    "title": "阿联酋退出阿拉伯石油输出国组织",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-04 12:30:38",
+    "uuid": "ab46390b-3000-46d7-a07b-2ddcc7f59ffe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "5 月 4 日，业内匿名消息人士称台积电可能重启龙潭晶圆厂计划，预期导入次世代埃米级制程，若重启预计带动 5000 亿至 6000 亿新台币（约 190 亿美元）投资 ...",
+    "id": "8sqdXPMboMK",
+    "order": 1777867818583,
+    "createdAt": "2026-05-04T04:10:18.583Z",
+    "publishDate": "2026-05-04T04:10:18.583Z",
+    "title": "台积电或重启龙潭晶圆厂建设计划 投资达 190 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-04 12:10:18",
+    "uuid": "20d42380-da69-463e-bade-d472dfa2a235"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美元兑日元跌幅扩大，跌破 156，日内跌 0.68%。",
+    "id": "8sqLHxRc3Nz",
+    "order": 1777867818585,
+    "createdAt": "2026-05-04T04:10:18.585Z",
+    "publishDate": "2026-05-04T04:10:18.585Z",
+    "title": "美元兑日元跌幅扩大，跌破 156，日内跌 0.68%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-04 12:10:18",
+    "uuid": "a3dc5257-ec76-4aec-83ad-3eed9bcf4003"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "杰富瑞将 Alphabet 的目标价从 400 美元上调至 445 美元。",
+    "id": "8sql1MYmIqR",
+    "order": 1777867818587,
+    "createdAt": "2026-05-04T04:10:18.587Z",
+    "publishDate": "2026-05-04T04:10:18.587Z",
+    "title": "杰富瑞上调 Alphabet 目标价至 445 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-04 12:10:18",
+    "uuid": "e3ea58d9-48b8-4c2b-9533-85a24f4dfc4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "普通搜索引擎需用户甄别信息可信度，而依托搜索能力的人工智能聊天机器人会将漏洞百出的网络素材包装成确凿答案 ...",
+    "id": "8sqdAlC6vcy",
+    "order": 1777866027913,
+    "createdAt": "2026-05-04T03:40:27.913Z",
+    "publishDate": "2026-05-04T03:40:27.913Z",
+    "title": "仅花 12 美元，工程师成功欺骗 AI 将虚构赛事奉为事实",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-04 11:40:27",
+    "uuid": "810f3d7a-429f-48e3-88a3-1adaeee8f393"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
