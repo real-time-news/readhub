@@ -1,6 +1,125 @@
 [
   {
     "newsArray": [
+      { "siteName": "凤凰科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenAI 让广告商更易在 ChatGPT 购买广告，其自助式广告管理工具面向美国广告商推出测试版，品牌还可通过新广告技术合作伙伴 Pacvue、Kargo 及 StackAdapt 购买广告 ...",
+    "id": "8stNx11TQfA",
+    "order": 1778025016399,
+    "createdAt": "2026-05-05T23:50:16.399Z",
+    "publishDate": "2026-05-05T23:50:16.399Z",
+    "title": "OpenAI 向自助服务平台开放 ChatGPT 广告",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-06 07:50:16",
+    "uuid": "cc874c4f-53e6-4e18-aba5-cf45147bf9be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "AMD 预计到 2030 年 CPU 市场年增长超 35%，第二季度 CPU 收入增长超 70%，Meta 芯片出货预计下半年如期启动 ...",
+    "id": "8stcF4y8M1j",
+    "order": 1778024421550,
+    "createdAt": "2026-05-05T23:40:21.550Z",
+    "publishDate": "2026-05-05T23:40:21.550Z",
+    "title": "AMD：预计到 2030 年 CPU 市场年增长超过 35%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-06 07:40:21",
+    "uuid": "36f2933a-290a-4709-83a9-fb041c114021"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "据「美联储观察」，美联储到 6 月维持利率不变的概率为 96.0%，累计降息 25 个基点的概率为 4.0% ...",
+    "id": "8stgWXyWsPo",
+    "order": 1778024113870,
+    "createdAt": "2026-05-05T23:35:13.870Z",
+    "publishDate": "2026-05-05T23:35:13.870Z",
+    "title": "美联储 6 月维持利率不变的概率为 96.0%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-06 07:35:13",
+    "uuid": "408ab31a-696e-4feb-85aa-5c7cafa50f5c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "黑石集团、KKR 正与 Alphabet 谈判，以便其拥有的公司接入谷歌 AI 模型，Alphabet 也在与 EQT 讨论获取谷歌 AI 模型事宜。",
+    "id": "8stIFj9EFaf",
+    "order": 1778023846072,
+    "createdAt": "2026-05-05T23:30:46.072Z",
+    "publishDate": "2026-05-05T23:30:46.072Z",
+    "title": "黑石集团、KKR 正就接入谷歌的 AI 模型与 Alphabet 进行谈判",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-06 07:30:46",
+    "uuid": "be004951-79eb-4bc8-9170-2673c4f95610"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Meta Platforms 正开发名为「Hatch」的人工智能代理，目标 6 月底前内部测试，还将在 Instagram 上推出基于代理的购物工具。",
+    "id": "8sthyLT5iyY",
+    "order": 1778023846073,
+    "createdAt": "2026-05-05T23:30:46.073Z",
+    "publishDate": "2026-05-05T23:30:46.073Z",
+    "title": "Meta 正开发人工智能代理「Hatch」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-06 07:30:46",
+    "uuid": "2e9ed783-e39b-4436-be56-3fc102042d39"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Strategy 一季度营收 1.243 亿美元，高于 IBES 预期的 0.0494 亿美元。每股收益（EPS）为 38.25 美元，而 IBES 预期美股亏损 0.17 美元 ...",
+    "id": "8stZOivsM4i",
+    "order": 1778023220313,
+    "createdAt": "2026-05-05T23:20:20.313Z",
+    "publishDate": "2026-05-05T23:20:20.313Z",
+    "title": "Strategy 一季度营收 1.243 亿美元 高于市场预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-06 07:20:20",
+    "uuid": "8979ec08-9347-451b-ac8d-7f5460d38dd0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国际原油期货结算价大幅收跌近 4%，WTI 原油期货 6 月合约跌 3.9%，报 102.27 美元 / 桶 ...",
+    "id": "8stZORP0H1b",
+    "order": 1778022617028,
+    "createdAt": "2026-05-05T23:10:17.028Z",
+    "publishDate": "2026-05-05T23:10:17.028Z",
+    "title": "国际原油期货结算价大幅收跌近 4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-06 07:10:17",
+    "uuid": "fc5c19af-3cb6-475a-9b4a-83e138d4a035"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
