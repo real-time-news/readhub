@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "恒生科技指数涨超 3%，现报 5118.810 点。恒生指数现涨 1.559%。",
+    "id": "8svhaDRo10V",
+    "order": 1778126112854,
+    "createdAt": "2026-05-07T03:55:12.854Z",
+    "publishDate": "2026-05-07T03:55:12.854Z",
+    "title": "恒生科技指数涨超 3%，现报 5118.810 点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 11:55:12",
+    "uuid": "858b1a8e-6a54-4707-91f5-235d2c0f0933"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "A 股三大指数午间休盘集体上涨，沪指涨 0.25%，深成指涨 0.71%，创业板指涨 0.98%。通信设备、汽车零部件、半导体板块领涨，长飞光纤等涨幅居前 ...",
+    "id": "8sviJUe7f5A",
+    "order": 1778126112858,
+    "createdAt": "2026-05-07T03:55:12.854Z",
+    "publishDate": "2026-05-07T03:55:12.858Z",
+    "title": "A 股三大指数午间休盘集体上涨，半导体板块走强",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 11:55:12",
+    "uuid": "a3a30dc3-62a9-4862-8537-b7acf44a0422"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "教育部召开发布会介绍 2026 年世界数字教育大会筹备情况，大会将于 5 月 11 日 —13 日在浙江杭州举行，由教育部和浙江省人民政府共同主办，主题是「人工智能 + 教育：变革 发展 治理」，将邀中外嘉宾探讨人工智能推动教育变革、发展及构建全球治理新格局。",
+    "id": "8sve1rSRFdp",
+    "order": 1778124311320,
+    "createdAt": "2026-05-07T03:25:11.320Z",
+    "publishDate": "2026-05-07T03:25:11.320Z",
+    "title": "聚焦「人工智能 + 教育」世界数字教育大会本月将在杭州举行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 11:25:11",
+    "uuid": "7f3f25b7-5768-4048-9758-8ed2732c5e96"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "别克官方宣布，至境 E7 上市两周累计交付量突破 5000 台，上市 90 分钟大定数量突破 10797 台 ...",
+    "id": "8sulhIGcYqB",
+    "order": 1778124025622,
+    "createdAt": "2026-05-07T03:20:25.622Z",
+    "publishDate": "2026-05-07T03:20:25.622Z",
+    "title": "别克至境 E7 上市两周交付超 5000 台 置换权益价 15.49 万元起",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 11:20:25",
+    "uuid": "6ea9f5e1-15ec-4623-8497-2fa315261ca9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "在生成式 AI 迈向「自动化执行」阶段，谷歌加速内部技术栈整合 ...",
+    "id": "8svQQaEu1a1",
+    "order": 1778123421349,
+    "createdAt": "2026-05-07T03:10:21.349Z",
+    "publishDate": "2026-05-07T03:10:21.349Z",
+    "title": "谷歌 AI 战略再「变阵」：网页代理项目 Project Mariner 正式谢幕",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 11:10:21",
+    "uuid": "9cf0e1e3-089c-4d78-904d-09e6fd227bc5"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
@@ -15,6 +103,27 @@
     "up": false,
     "date": "2026-05-07 07:50:13",
     "uuid": "884d11d0-e944-495c-99ac-84a8cd179e29"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "aibase" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "OpenAI 宣布与 AMD、博通、英特尔、微软及英伟达合作，正式发布「多路径可靠连接」（MRC）新型开放网络协议，该协议可提升大型 AI 训练集群运行速度与可靠性，优化计算效率，目前已全面部署于 OpenAI 用于训练前沿模型的大型超级计算机中。",
+    "id": "8sun87cUcla",
+    "order": 1778123119184,
+    "createdAt": "2026-05-06T23:20:16.804Z",
+    "publishDate": "2026-05-07T03:05:19.184Z",
+    "title": "OpenAI 联合多家巨头发布 MRC 开放网络协议，助力超大规模 AI 集群提速减耗",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 07:20:16",
+    "uuid": "9204dc1f-5f95-46b4-bffd-27d1ffd123e8"
   },
   {
     "newsArray": [
@@ -86,6 +195,45 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "至少 30 年来，苹果每赚一美元投入研发的资金首次超 10 美分，第一季度研发支出占营收比例达 10.3%，增速是营收增速两倍 ...",
+    "id": "8sunqVKVwMr",
+    "order": 1778123144708,
+    "createdAt": "2026-05-06T21:30:32.160Z",
+    "publishDate": "2026-05-07T03:05:44.708Z",
+    "title": "全力布局 AI，苹果研发支出占营收比例 30 年来首次突破 10%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 05:30:32",
+    "uuid": "28f98552-28cb-4948-9ad3-c4a6ff240a36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "人工智能公司 Scale AI 获美国国防部价值 5 亿美元合同，为空军「可生存机载作战中心」项目开发「代理型人工智能」系统，较 2025 年 9 月的 1 亿美元合同规模扩张五倍 ...",
+    "id": "8svEIGuD19e",
+    "order": 1778123149415,
+    "createdAt": "2026-05-06T21:10:13.110Z",
+    "publishDate": "2026-05-07T03:05:49.415Z",
+    "title": "Meta 支持的 Scale AI 获五角大楼 5 亿美元 AI 合同",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 05:10:13",
+    "uuid": "acb09a37-a51f-4a4f-ba32-3c054e04734a"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
@@ -139,6 +287,39 @@
   {
     "newsArray": [
       { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "aibase" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "开源中国" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "马斯克周三宣布，xAI将解散，不再作为一家独立公司运营，并将与SpaceX合并，更名为SpaceXAI。",
+    "id": "8sv8DimNXPA",
+    "order": 1778123242059,
+    "createdAt": "2026-05-06T19:50:11.071Z",
+    "publishDate": "2026-05-07T03:07:22.059Z",
+    "title": "马斯克：xAI 作为独立公司将被解散，更名为 SpaceXAI",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 03:50:11",
+    "uuid": "fe508566-91eb-429d-8ba1-ad00cc4bcc3a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" }
@@ -153,6 +334,23 @@
     "up": false,
     "date": "2026-05-07 02:50:16",
     "uuid": "7612ba9a-77e2-4aa1-896e-ac8687b381de"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "SpaceXAI 与 Anthropic 签署协议，向后者提供对超级计算机 Colossus 1 的访问权限。Colossus 可为人工智能相关工作负载提供大规模算力支持 ...",
+    "id": "8suvhVgjYew",
+    "order": 1778123265644,
+    "createdAt": "2026-05-06T17:10:10.858Z",
+    "publishDate": "2026-05-07T03:07:45.644Z",
+    "title": "SpaceXAI 与 Anthropico 达成算力合作伙伴关系",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-07 01:10:10",
+    "uuid": "615d3ba3-c58f-410c-b035-e75850f203e7"
   },
   {
     "newsArray": [
