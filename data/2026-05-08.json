@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "本田汽车预计将在截至 3 月的财年报告中公布约 4000 亿日元的营业亏损。",
+    "id": "8sxhFNGmUdd",
+    "order": 1778229914927,
+    "createdAt": "2026-05-08T08:45:14.927Z",
+    "publishDate": "2026-05-08T08:45:14.927Z",
+    "title": "本田 2025 财年预计将出现约 4000 亿日元营业亏损",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 16:45:14",
+    "uuid": "cad3772d-cd35-4bf1-b78a-5a853023e78e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "由我国民营船企建造的首制 10 万立方米超大型乙烷运输船「鑫福 137」于 5 月 8 日在长江泰州段出江试航，标志我国民营造船在高端特种船舶建造领域再攀高峰 ...",
+    "id": "8sxhEESiKvf",
+    "order": 1778229627245,
+    "createdAt": "2026-05-08T08:40:27.245Z",
+    "publishDate": "2026-05-08T08:40:27.245Z",
+    "title": "民营造船新突破 我国 10 万立方米超大型乙烷运输船出江试航",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 16:40:27",
+    "uuid": "b3535e09-99b4-4c5d-b409-d70deb7785d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "17 家全国性行业协会商会在相关部门指导下，在北京共同发布《国内贸易交易指引（试行）》，为国内贸易企业提供行为规范，助力全国统一大市场建设，该指引聚焦国内贸易全流程，对各环节进行明确和规定。",
+    "id": "8sxhDxPvjfQ",
+    "order": 1778229324536,
+    "createdAt": "2026-05-08T08:35:24.536Z",
+    "publishDate": "2026-05-08T08:35:24.536Z",
+    "title": "助力统一大市场建设 国内贸易交易指引今日发布",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 16:35:24",
+    "uuid": "c299f913-dccc-45aa-badb-719dd2d2d964"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "aibase" },
+      { "siteName": "医药魔方" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国内 AI 芯片赛道有重磅进展，2026 年 5 月 7 日，昆仑芯（北京）科技股份有限公司启动科创板上市辅导，由中国国际金融担任辅导机构，预计持续至 2026 年下半年 ...",
+    "id": "8sxbESXsHge",
+    "order": 1778229331522,
+    "createdAt": "2026-05-08T07:35:11.563Z",
+    "publishDate": "2026-05-08T08:35:31.522Z",
+    "title": "百度旗下 AI 芯片领军者昆仑芯启动科创板 IPO",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 15:35:11",
+    "uuid": "1467bf36-8e12-40ba-a2e2-4701afc2b2f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" },
+      { "siteName": "界面" }
+    ],
+    "summary": "智谱 AI 完成对北京红钻科技 100% 控股，以不超 3.61 亿元代价将中关村软件园钻石大厦收入囊中，该大厦总建筑面积约 2.27 万平方米，地处中关村软件园核心 ...",
+    "id": "8sxXEeDFIDX",
+    "order": 1778229386133,
+    "createdAt": "2026-05-08T07:15:26.997Z",
+    "publishDate": "2026-05-08T08:36:26.133Z",
+    "title": "智谱斥资 3.61 亿购入总部大厦",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 15:15:26",
+    "uuid": "beb09584-4a82-460a-9d9d-5f0b1da7b111"
+  },
+  {
+    "newsArray": [
+      { "siteName": "和讯网" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "人民网针对豆包付费模式发表评论观点。智能助手「豆包」推出付费会员模式，是国产大模型从「免费烧钱」转向「价值变现」的信号，但大模型收费是否为商业模型未来发展必选方向尚无定论 ...",
+    "id": "8sxIwIkqgEE",
+    "order": 1778229508865,
+    "createdAt": "2026-05-08T07:10:19.637Z",
+    "publishDate": "2026-05-08T08:38:28.865Z",
+    "title": "央媒评「豆包」推出付费模式：探索商业化路径无可厚非，但应兼顾用户消费能力",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 15:10:19",
+    "uuid": "eb0f9868-3938-4e14-9ee5-b14c6e9d7612"
+  },
+  {
+    "newsArray": [
       { "siteName": "站长之家" },
       { "siteName": "36Kr" },
       { "siteName": "快科技" }
@@ -15,6 +120,23 @@
     "up": false,
     "date": "2026-05-08 14:55:14",
     "uuid": "1fb50506-bbce-4c02-9ac0-38de6c6cef89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Anthropic 宣布 Claude for Microsoft 365 面向所有付费用户开放，将 Claude 深度集成至 Excel、PowerPoint 和 Word 中，实现跨应用上下文共享，改变传统文档处理工作流 ...",
+    "id": "8sxVojULgAD",
+    "order": 1778229533016,
+    "createdAt": "2026-05-08T06:50:28.534Z",
+    "publishDate": "2026-05-08T08:38:53.016Z",
+    "title": "Anthropic 推出 Claude for Microsoft 365，实现跨应用无缝协作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 14:50:28",
+    "uuid": "3980e300-4568-47a2-8eaf-4bffacb17750"
   },
   {
     "newsArray": [
@@ -141,6 +263,25 @@
     "up": false,
     "date": "2026-05-08 14:10:22",
     "uuid": "67ca5cc8-77c2-4086-8572-38b54997d285"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "凤凰科技" }
+    ],
+    "summary": "近日，吉利控股集团董事长李书福一行到访珠海格力电器总部，李书福邀请董明珠出任「极氪品质体验官」并颁发聘书。董明珠是极氪 009 光辉车主，多次公开为极氪品质点赞 ...",
+    "id": "8sxNGIVVmxn",
+    "order": 1778229552722,
+    "createdAt": "2026-05-08T06:05:11.865Z",
+    "publishDate": "2026-05-08T08:39:12.722Z",
+    "title": "应李书福邀请，董明珠正式出任「极氪品质体验官」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 14:05:11",
+    "uuid": "91c7139d-a902-41bc-b718-5dcb30f6cb7f"
   },
   {
     "newsArray": [
@@ -278,6 +419,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "酒店行业「傍名牌」并非个例。近日，大连「全李酒店」被质疑碰瓷全季酒店，该酒店原是全季加盟店，合约到期后更名并保留原招牌样式，后紧急更名 ...",
+    "id": "8sxG5jOIMcJ",
+    "order": 1778229578179,
+    "createdAt": "2026-05-08T04:50:23.554Z",
+    "publishDate": "2026-05-08T08:39:38.179Z",
+    "title": "继「全李酒店」后，多地被曝「又庭酒店」碰瓷汉庭",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 12:50:23",
+    "uuid": "73acf0ce-16c5-435a-89e8-85ed39e959bd"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "DoNews" },
       { "siteName": "格隆汇" },
@@ -331,6 +489,24 @@
     "up": false,
     "date": "2026-05-08 12:20:21",
     "uuid": "dfa5bb5e-f0e8-4103-9f30-5211fba14eff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "小米汽车近日人事调整，汽车部副总裁宋钢分管生产制造部、智能制造部、体系运营部。宋钢曾任职特斯拉，2024 年加入远景能源，今年 4 月出任小米集团汽车部副总裁、参谋长 ...",
+    "id": "8sxG3PaCBt8",
+    "order": 1778229609858,
+    "createdAt": "2026-05-08T04:15:25.143Z",
+    "publishDate": "2026-05-08T08:40:09.858Z",
+    "title": "小米汽车高层调整：宋钢分管生产与智能制造，曾任特斯拉上海工厂厂长",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 12:15:25",
+    "uuid": "5496ea8e-70f6-4179-82cd-33a2147ec384"
   },
   {
     "newsArray": [
