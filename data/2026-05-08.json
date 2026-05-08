@@ -1,6 +1,169 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "深证成指、创业板指双双跌超 1%，上证指数跌 0.58%，科创 50 指数跌超 3%，氟化工、存储芯片、有色金属等板块跌幅居前。",
+    "id": "8sxL44mNC6Y",
+    "order": 1778211311338,
+    "createdAt": "2026-05-08T03:35:11.338Z",
+    "publishDate": "2026-05-08T03:35:11.338Z",
+    "title": "深证成指、创业板指双双跌超 1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 11:35:11",
+    "uuid": "67c58ded-8e13-4c13-a050-efc140e97c25"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "高盛发布研报称，美图公司公布影像与设计产品收入同比升 34% 至 8.52 亿元，首季生产力工具和休闲工具收入同比分别增长 45%、36%，付费订户数量增长是关键驱动因素，截至 2026 年 3 月底达 1790 万户 ...",
+    "id": "8sxKMQdp3FQ",
+    "order": 1778211311338,
+    "createdAt": "2026-05-08T03:35:11.338Z",
+    "publishDate": "2026-05-08T03:35:11.338Z",
+    "title": "高盛：维持美图公司 (01357)「买入」评级 AI 代理整合带动需求",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 11:35:11",
+    "uuid": "f4da367f-f8c4-42a6-97fb-66f81a3c7b36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "过去六个月，个人电脑主要组件价格全面上涨，其中内存模块和固态硬盘涨幅最大。四大主板厂商均下调年度销售目标，总体出货量将萎缩 28% ...",
+    "id": "8sxLm0fhlNK",
+    "order": 1778211031527,
+    "createdAt": "2026-05-08T03:30:31.527Z",
+    "publishDate": "2026-05-08T03:30:31.527Z",
+    "title": "芯片短缺冲击电脑主板市场 四大主板厂商下调年度销售目标",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 11:30:31",
+    "uuid": "2b6bc949-f94a-46a1-b969-044469d8be45"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "英伟达 CEO 黄仁勋大力赞扬与康宁公司的新合作项目，称其为美国重建技术供应链带来重要机遇。他表示下一代 AI 基础设施需大量光学连接，因计算需求增长，铜线已无法满足 ...",
+    "id": "8sxFKsZxAFN",
+    "order": 1778210445782,
+    "createdAt": "2026-05-08T02:15:16.817Z",
+    "publishDate": "2026-05-08T03:20:45.782Z",
+    "title": "英伟达 CEO 黄仁勋：下一代 AI 基础设施将需要大量的光学连接 铜线已无法满足需求",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 10:15:16",
+    "uuid": "2ec14e89-8ccf-4704-9a84-ed7d8eada1f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "多位网友发帖称更新微信版本后，未读语音消息显示为灰色而非红色，吐槽易误认已读。腾讯客服回应，iOS 客户端该功能正在逐步开放，未看到未读标识可能是暂未获灰度权限，建议稍后尝试 ...",
+    "id": "8sx64AzdPZO",
+    "order": 1778210493521,
+    "createdAt": "2026-05-08T01:35:17.745Z",
+    "publishDate": "2026-05-08T03:21:33.521Z",
+    "title": "微信未读语音消息由红变灰被吐槽，腾讯客服回应称 iOS 端逐步开放",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 09:35:17",
+    "uuid": "556ed74c-584c-45ba-bb30-f5ed453448f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "这三款模型分别是 GPT‑Realtime‑2、GPT‑Realtime‑Translate 和 GPT‑Realtime‑Whisper，各自针对不同的应用场景 ...",
+    "id": "8sx64COUfN9",
+    "order": 1778210503577,
+    "createdAt": "2026-05-08T01:35:11.176Z",
+    "publishDate": "2026-05-08T03:21:43.577Z",
+    "title": "​OpenAI 发布三款实时语音模型，针对推理对话、实时翻译和实时转录",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 09:35:11",
+    "uuid": "7f769ab2-0e42-401c-8b31-0d5f4bfac09e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "全天候科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英伟达将向数据中心开发商 IREN Ltd．投资多达 21 亿美元，双方达成更广泛合作以加快人工智能基础设施建设 ...",
+    "id": "8swucEnc0K1",
+    "order": 1778210554997,
+    "createdAt": "2026-05-08T00:30:33.999Z",
+    "publishDate": "2026-05-08T03:22:34.997Z",
+    "title": "英伟达将向数据中心公司 IREN 投资多达 21 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 08:30:33",
+    "uuid": "330fc058-51e5-48ab-8828-0b852184ab70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英伟达和康宁公司的 CEO 证实，除至多 32 亿美元股权投资外，英伟达还额外出资数十亿美元助力康宁新建工厂，英伟达已向康宁支付数十亿美元预付款，此前宣布股权投资时未披露该款项 ...",
+    "id": "8sx7UFfuZXH",
+    "order": 1778210564213,
+    "createdAt": "2026-05-08T00:20:24.032Z",
+    "publishDate": "2026-05-08T03:22:44.213Z",
+    "title": "英伟达出资数十亿美元助力康宁新建工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 08:20:24",
+    "uuid": "9fff1333-9698-457d-87f8-d58cdfb1f1d7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "浙江翼菲智能科技拟筹资 7.5 亿港元，股票将于 5 月 18 日挂牌交易。",
+    "id": "8sx1m6XbiIi",
+    "order": 1778210569354,
+    "createdAt": "2026-05-08T00:10:19.204Z",
+    "publishDate": "2026-05-08T03:22:49.354Z",
+    "title": "浙江翼菲智能科技香港 IPO 拟筹资 7.5 亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 08:10:19",
+    "uuid": "b69619e1-7c10-40b5-94b6-c3cd943c934c"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "晚点LatePost" },
       { "siteName": "网易科技" }
@@ -32,6 +195,24 @@
     "up": false,
     "date": "2026-05-08 06:30:53",
     "uuid": "eae35ea4-8f9e-471a-9852-ee363c758900"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "网易科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "SpaceX 资本投资账单以数十亿美元速度增长，正为大型公开募股（IPO）做准备 ...",
+    "id": "8svfSABI9Xj",
+    "order": 1778210675152,
+    "createdAt": "2026-05-07T21:30:49.889Z",
+    "publishDate": "2026-05-08T03:24:35.152Z",
+    "title": "马斯克再下注：SpaceX IPO 倒计时 拟投 1190 亿美元建 Terafab 芯片厂",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-08 05:30:49",
+    "uuid": "3dca29f7-8af5-4009-a78d-d727d3ea56d4"
   },
   {
     "newsArray": [
