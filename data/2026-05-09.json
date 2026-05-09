@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "纽约证券交易所（NYSE）计划在华尔街开设一家私人会员制俱乐部，目前正争取美国私营科技巨头的大型上市项目（IPO），知情人士称其准备在今年夏季推出这家「仅限受邀参加」的俱乐部，俱乐部设在曾存放股票证书的翻修保险库内。",
+    "id": "8szW90GMDiW",
+    "order": 1778325019788,
+    "createdAt": "2026-05-09T11:10:19.788Z",
+    "publishDate": "2026-05-09T11:10:19.788Z",
+    "title": "纽交所计划在华尔街开设私人会员制俱乐部",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 19:10:19",
+    "uuid": "8cdce4fd-1b18-4885-9b72-611dd193288d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "2 月 28 日美以伊战事开始后，霍尔木兹海峡通行持续受阻。当地时间 5 月 8 日，德国航运巨头赫伯罗特公司高管称战事爆发以来该公司平均每周增加至少 5000 万美元额外成本。",
+    "id": "8szXXkLMWtt",
+    "order": 1778325019820,
+    "createdAt": "2026-05-09T11:10:19.854Z",
+    "publishDate": "2026-05-09T11:10:19.820Z",
+    "title": "霍尔木兹海峡受阻，德航运巨头称每周额外花费超 5000 万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 19:10:19",
+    "uuid": "41d8f81f-f697-476e-87cc-c923cca81f39"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "近日，保时捷宣布关闭电池公司 Cellforce Group、电动自行车驱动系统公司 Porsche eBike Performance 以及车载网络软件公司 Cetitec，这是新任 CEO Michael Leiters 推动战略重组的一部分，旨在将资源重新集中于核心整车业务 ...",
+    "id": "8szMpevC0L3",
+    "order": 1778325013665,
+    "createdAt": "2026-05-09T11:10:13.665Z",
+    "publishDate": "2026-05-09T11:10:13.665Z",
+    "title": "保时捷关闭三家子公司 收缩战线聚焦核心整车业务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 19:10:13",
+    "uuid": "060e45d5-3a74-4745-9101-768aa6449c13"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "AMD 中国宣布，AMD AI 开发者日 2026 将于 5 月 19 日在上海举办，AMD 董事会主席兼首席执行官苏姿丰将出席本次开发者日，并发表主题演讲。",
+    "id": "8szW8EEk3FY",
+    "order": 1778325576488,
+    "createdAt": "2026-05-09T10:50:20.083Z",
+    "publishDate": "2026-05-09T11:19:36.488Z",
+    "title": "苏姿丰确认将出席在上海举办的 AMD AI 开发者日",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 18:50:20",
+    "uuid": "022cf9ed-df14-4a13-b510-922e61c8483c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "千里科技计划与北汽合资，年内落地，具体方案仍在讨论，该计划去年就已策划，目的是弱化「吉利系」标签以获更多车企订单。知情人士称，千里智驾不能只做吉利生意，要做大做强需拿更多订单 ...",
+    "id": "8szNuJarWKe",
+    "order": 1778325582369,
+    "createdAt": "2026-05-09T10:30:37.931Z",
+    "publishDate": "2026-05-09T11:19:42.369Z",
+    "title": "消息称千里科技拟与北汽合资，千里智驾 CEO 陈奇将离职",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 18:30:37",
+    "uuid": "c3da4ab6-9b55-4669-89b7-0c5b9eaabe76"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
       { "siteName": "新浪科技" },
@@ -39,6 +125,34 @@
     "up": false,
     "date": "2026-05-09 17:55:10",
     "uuid": "1d10e6d5-4734-4ae9-bbb1-77693f1c673c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "中华网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国际投行麦格理证券预测，若 SK 海力士 2027 年营业利润达 447 万亿韩元，按营业利润 10% 和约 3.5 万名员工总数计算，人均奖金约 12.9 亿韩元，接近 610 万人民币 ...",
+    "id": "8sys6hU8BNe",
+    "order": 1778325617040,
+    "createdAt": "2026-05-09T09:50:13.399Z",
+    "publishDate": "2026-05-09T11:20:17.040Z",
+    "title": "SK 海力士回应员工人均奖金达 610 万人民币：业绩未定，无法预测",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 17:50:13",
+    "uuid": "0ada631f-743d-4c6e-966e-bdd2bb2138d9"
   },
   {
     "newsArray": [
@@ -150,6 +264,32 @@
     "up": false,
     "date": "2026-05-09 16:55:18",
     "uuid": "7bd4d96d-81c7-44aa-ba7d-a8dbaa6ca0eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "和讯网" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "4 月，DeepSeek 展开巨额融资计划，吸引腾讯和阿里巴巴。有消息称阿里巴巴与 DeepSeek 谈崩，市场人士 5 月 9 日透露，阿里应该没有进行谈判。",
+    "id": "8szNYQlOyXq",
+    "order": 1778325666321,
+    "createdAt": "2026-05-09T08:50:17.452Z",
+    "publishDate": "2026-05-09T11:21:06.321Z",
+    "title": "网传 DeepSeek 融资与阿里谈崩，市场人士：双方应该没有进行谈判",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 16:50:17",
+    "uuid": "3ccbeea7-97a5-4fb0-81f1-6828eae87b69"
   },
   {
     "newsArray": [
