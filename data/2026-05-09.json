@@ -1,6 +1,161 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "到 2028 年，安徽计划培育建设 30 家省级制造业中试平台，以打通科技成果转化「最后一公里」 ...",
+    "id": "8szF0GmVhIy",
+    "order": 1778319030907,
+    "createdAt": "2026-05-09T09:30:30.983Z",
+    "publishDate": "2026-05-09T09:30:30.907Z",
+    "title": "安徽到 2028 年将建 30 家省级制造业中试平台",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 17:30:30",
+    "uuid": "9c764bbd-63ca-4b08-85ee-132188001033"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "为加强金融法治建设，完善中央银行法律法规体系，中国人民银行拟制定《全国统一集中账户管理系统业务处理办法》并向社会公开征求意见。",
+    "id": "8szQOfDJdzC",
+    "order": 1778319030971,
+    "createdAt": "2026-05-09T09:30:30.971Z",
+    "publishDate": "2026-05-09T09:30:30.971Z",
+    "title": "央行就《全国统一集中账户管理系统业务处理办法（征求意见稿）》公开征求意见",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 17:30:30",
+    "uuid": "cb754dd7-2150-4aa4-980b-eabce20a23f5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "京东快递推出「顺手寄」服务，用户查收快递时可一键顺手寄件下单。",
+    "id": "8szLm5nCeJ6",
+    "order": 1778318117602,
+    "createdAt": "2026-05-09T09:15:17.602Z",
+    "publishDate": "2026-05-09T09:15:17.602Z",
+    "title": "京东快递推出「顺手寄」服务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 17:15:17",
+    "uuid": "dd034999-8f52-4fe9-89ea-10b1fd9a6621"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智源社区" },
+      { "siteName": "量子位" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "Redis 创始人 Salvatore Sanfilippo 发布 ds4，这是专为 DeepSeek V4 Flash 打造的本地推理引擎，定位明确，非通用 GGUF 运行器、其他运行时封装或框架，而是窄而深的专用实现，核心设计围绕 Metal GPU，CPU 路径仅用于调试。",
+    "id": "8sxam07ZLmQ",
+    "order": 1778316918658,
+    "createdAt": "2026-05-09T08:55:18.658Z",
+    "publishDate": "2026-05-09T08:55:18.658Z",
+    "title": "Redis 之父发布 DeepSeek V4 Flash 专用推理引擎 ds4",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 16:55:18",
+    "uuid": "7bd4d96d-81c7-44aa-ba7d-a8dbaa6ca0eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "钛媒体" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "工信部印发通知，正式启动人工智能科技伦理审查与服务先导计划，依托国家人工智能产业创新应用先导区所在省份，率先探索落地路径，健全治理机制，支撑人工智能负责任创新和产业高质量发展。",
+    "id": "8szM8cqasuZ",
+    "order": 1778316617482,
+    "createdAt": "2026-05-09T08:50:17.482Z",
+    "publishDate": "2026-05-09T08:50:17.482Z",
+    "title": "工信部启动人工智能科技伦理审查与服务先导计划 加快推动审查工作落地实施",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 16:50:17",
+    "uuid": "c6ecf533-f4d7-4154-96dd-ae8901dfb542"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "涉汉坦病毒疫情的「洪迪厄斯」号邮轮预计当地时间 10 日凌晨 3 时至 5 时停泊在西班牙加那利群岛特内里费岛海域，清晨抵达格拉纳迪利亚港，乘客撤离行动预计当天中午开始 ...",
+    "id": "8szNYmUZDs7",
+    "order": 1778316617484,
+    "createdAt": "2026-05-09T08:50:17.484Z",
+    "publishDate": "2026-05-09T08:50:17.484Z",
+    "title": "涉疫邮轮预计 10 日抵达西班牙加那利群岛 多方协调乘客撤离",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 16:50:17",
+    "uuid": "81037fa1-c97b-41b6-8cfa-65daec89a041"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "市场监管总局（国家标准委）批准发布 402 项重要国家标准及标准修改单，涉及新兴领域、生态环保等方面，发布后将在推动产业发展、提升生活品质、保障安全等方面发挥重要作用。",
+    "id": "8szLP0tHx4z",
+    "order": 1778315709070,
+    "createdAt": "2026-05-09T08:35:09.070Z",
+    "publishDate": "2026-05-09T08:35:09.070Z",
+    "title": "涉及新兴领域等方面，市场监管总局批准发布一批重要国家标准",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 16:35:09",
+    "uuid": "83964b1e-86ac-4371-9dfb-fb17eb4cb350"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "因内存芯片成本上涨和字节跳动加速布局人工智能，该公司今年 AI 基础设施支出计划增加 25% 至 2000 亿元人民币。",
+    "id": "8szM7lNC3em",
+    "order": 1778315425894,
+    "createdAt": "2026-05-09T08:30:25.894Z",
+    "publishDate": "2026-05-09T08:30:25.894Z",
+    "title": "字节跳动据悉计划将 AI 基础设施支出增加 25%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-09 16:30:25",
+    "uuid": "3adc8d4c-6cd1-4744-ac8c-18e2fae7f986"
+  },
+  {
+    "newsArray": [
       { "siteName": "凤凰科技" },
       { "siteName": "凤凰科技" },
       { "siteName": "DoNews" }
