@@ -2,6 +2,40 @@
   {
     "newsArray": [
       { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI 与金融数据平台 Plaid 达成合作，借助后者覆盖美国多数消费者银行账户的数据网络，使 ChatGPT 能提供基于真实财务状况的个性化理财建议，标志着 AI 平台在个人金融服务领域渗透进入新阶段 ...",
+    "id": "8t9qQiilktW",
+    "order": 1778878215734,
+    "createdAt": "2026-05-15T20:50:15.734Z",
+    "publishDate": "2026-05-15T20:50:15.734Z",
+    "title": "OpenAI 携手 Plaid，向大众提供个性化财务建议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-16 04:50:15",
+    "uuid": "0898c93b-6379-45b0-bc72-230eb0f1c37a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国证交会文件显示，伯克希尔哈撒韦清仓亚马逊股份。",
+    "id": "8tA8z9B6Te8",
+    "order": 1778877344223,
+    "createdAt": "2026-05-15T20:30:36.292Z",
+    "publishDate": "2026-05-15T20:35:44.223Z",
+    "title": "伯克希尔哈撒韦清仓亚马逊股份",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-16 04:30:36",
+    "uuid": "882cf3aa-86f1-47fc-acec-6d95c3c57b88"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
     ],
@@ -53,5 +87,22 @@
     "up": false,
     "date": "2026-05-16 02:50:17",
     "uuid": "01895477-2aaf-4a6b-a684-059e9b731be1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "本周通胀数据超预期，投资者周五大幅押注美联储年底前转向加息模式，这给即将上任的央行主席凯文・沃什带来政策两难 ...",
+    "id": "8t9QkRtkRLf",
+    "order": 1778877454813,
+    "createdAt": "2026-05-15T16:50:12.619Z",
+    "publishDate": "2026-05-15T20:37:34.813Z",
+    "title": "市场开始预期美联储将于年末年初加息",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-16 00:50:12",
+    "uuid": "b4eda6d2-2253-47d1-ab31-4f9f0dc0f06e"
   }
 ]
