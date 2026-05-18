@@ -1,6 +1,112 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英特尔 CEO 陈立武做客 CNBC 时表示 PC 业务仍至关重要，回应了市场对英特尔向代工模式转型、传统 CPU 业务被边缘化的担忧 ...",
+    "id": "8tFJ8mhFLtV",
+    "order": 1779147624521,
+    "createdAt": "2026-05-18T23:40:24.521Z",
+    "publishDate": "2026-05-18T23:40:24.521Z",
+    "title": "英特尔 CEO 陈立武：PC 业务仍至关重要，14A 芯片 2029 年量产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-19 07:40:24",
+    "uuid": "a7089c53-d2b8-4a16-bcbe-62b1f0c226f2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "我国首个地热能超临界二氧化碳取热项目在河南郑州正式投产，标志着我国地热能高效开发利用领域实现新突破。",
+    "id": "8tFJ9S8OkBb",
+    "order": 1779147049463,
+    "createdAt": "2026-05-18T23:30:49.463Z",
+    "publishDate": "2026-05-18T23:30:49.463Z",
+    "title": "我国首个二氧化碳地热能项目投产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-19 07:30:49",
+    "uuid": "36a62958-882e-456b-9780-38b75740669d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "韩国央行预计三星电子罢工将拉低韩国 GDP 增速 0.5 个百分点。",
+    "id": "8tFJ9Tr7v5u",
+    "order": 1779147035970,
+    "createdAt": "2026-05-18T23:30:35.970Z",
+    "publishDate": "2026-05-18T23:30:35.970Z",
+    "title": "韩国央行预计三星电子罢工将拉低韩国 GDP 增速 0.5 个百分点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-19 07:30:35",
+    "uuid": "3ec2526d-3f50-4c83-8861-84a542ed0612"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "花旗预计，铝库存将在未来 6 至 12 个月降至历史新低，今年铝市场将现近 270 万吨供应短缺，即便需求疲软 ...",
+    "id": "8tFDQKcMMR9",
+    "order": 1779146416664,
+    "createdAt": "2026-05-18T23:20:16.664Z",
+    "publishDate": "2026-05-18T23:20:16.664Z",
+    "title": "花旗：铝库存将在未来 6 至 12 个月内降至历史新低",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-19 07:20:16",
+    "uuid": "85e38f20-560d-4382-b220-a4e138a82770"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "知情人士透露，美国证券交易委员会（SEC）预计最快本周发布针对代币化股票的「创新豁免」政策，为投资者押注上市公司命运创造新框架 ...",
+    "id": "8tFHiWR6dyw",
+    "order": 1779145812643,
+    "createdAt": "2026-05-18T23:10:12.643Z",
+    "publishDate": "2026-05-18T23:10:12.643Z",
+    "title": "美国 SEC 将推股票「代币化」交易方案，开辟加密交易新战场",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-19 07:10:12",
+    "uuid": "18eb9fb3-fa41-4f87-bbf1-b279eb1110ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "科学网" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "韩国延世大学研究团队研发出一款可能用于治疗抑郁症的智能隐形眼镜，其在小鼠实验中产生类似抗抑郁药物的疗效。该研究成果已发表 ...",
+    "id": "8tDwSkBAvSp",
+    "order": 1779145812643,
+    "createdAt": "2026-05-18T23:10:12.643Z",
+    "publishDate": "2026-05-18T23:10:12.643Z",
+    "title": "智能隐形眼镜有望用于治疗抑郁症",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-19 07:10:12",
+    "uuid": "7e33733c-aa52-4f2e-9889-4a7b373a5230"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
