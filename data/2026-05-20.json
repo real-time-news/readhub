@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "在 2026 谷歌 I/O 开发者大会上，谷歌宣布推出科研版 Gemini 模型 ——Gemini for Science，它能追踪最新论文、转化研究目标为代码、生成新假设 ...",
+    "id": "8tGgctsy8VS",
+    "order": 1779217819446,
+    "createdAt": "2026-05-19T19:10:19.446Z",
+    "publishDate": "2026-05-19T19:10:19.446Z",
+    "title": "谷歌推出科研版 Gemini，能追踪论文、写实验代码",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-20 03:10:19",
+    "uuid": "2a28eff9-db9b-4dbe-8500-bda1d618c158"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "谷歌表示，Gemini 3.5 Flash 是面向大规模生产环境的模型，目前顶级谷歌云客户每天处理约 1 万亿个 token，若这些客户将 80% 工作负载从其他前沿模型迁移到 3.5 Flash，每年可节省超 10 亿美元，这些成本节约可重新投入企业发展。",
+    "id": "8tGcbIa24xS",
+    "order": 1779214216361,
+    "createdAt": "2026-05-19T18:10:16.361Z",
+    "publishDate": "2026-05-19T18:10:16.361Z",
+    "title": "谷歌称 Gemini 3.5 Flash 可助客户年省超 10 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-20 02:10:16",
+    "uuid": "f1cb5236-b243-4eb6-abc0-18a26afb39cc"
+  }
+]
