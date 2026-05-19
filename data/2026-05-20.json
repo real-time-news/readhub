@@ -1,6 +1,25 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "谷歌正在对其旗舰产品 Google 搜索进行以 AI 为核心的全面升级，基于新的 Gemini 3.5 Flash 模型，「AI 模式」和「AI 概览」将嵌入搜索框，搜索功能还将引入新一代智能代理 AI 助手 Gemini Spark，可执行任务或完成商品购买，Gemini 还能根据搜索请求定制生成图像、视频或代码，谷歌搜索负责人称这是搜索框 25 年来最大的一次升级。",
+    "id": "8tGdh1Cswlr",
+    "order": 1779219913973,
+    "createdAt": "2026-05-19T19:45:13.973Z",
+    "publishDate": "2026-05-19T19:45:13.973Z",
+    "title": "谷歌搜索宣布大改版 AI 模式与代理助手全面嵌入",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-20 03:45:13",
+    "uuid": "00c25962-72c1-490c-b864-3fb2c77ddc12"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "IT 之家" },
       { "siteName": "格隆汇" }
