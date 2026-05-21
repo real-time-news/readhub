@@ -1,6 +1,133 @@
 [
   {
     "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "伊朗总统佩泽希齐扬表示，在近期特殊局势和战时条件下，伊朗石油行业确保国家燃料生产和供应链未出现中断。",
+    "id": "8tHovUjV2yY",
+    "order": 1779353118647,
+    "createdAt": "2026-05-21T08:45:18.647Z",
+    "publishDate": "2026-05-21T08:45:18.647Z",
+    "title": "伊朗总统称战争期间能源生产供应未中断",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 16:45:18",
+    "uuid": "f94014c4-7597-4bbd-a14f-0cd8d8160798"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉官推公布监督版 FSD 可在中国使用，小鹏集团通用智能中心负责人刘先明表示欢迎竞争，称小鹏优势在于中国本地化场景适配、数据积累和算力优化，双方将互相促进 ...",
+    "id": "8tJ5teK6ccU",
+    "order": 1779352827154,
+    "createdAt": "2026-05-21T08:40:27.154Z",
+    "publishDate": "2026-05-21T08:40:27.154Z",
+    "title": "小鹏刘先明：特斯拉 FSD 入华是好事，能形成良性竞争",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 16:40:27",
+    "uuid": "01ab8eb4-28dd-43f5-bbd1-53c18ea877a5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" }
+    ],
+    "summary": "2026 上海国际碳中和技术、产品与成果博览会将于 6 月 10 日至 12 日在上海新国际博览中心举办，聚焦「零碳变革，要素赋能」，由主题展览、系列活动、贸易对接三大板块构成，展会规模 4 万平方米，汇聚近 300 家企业 ...",
+    "id": "8tHnUGGhArY",
+    "order": 1779352827157,
+    "createdAt": "2026-05-21T08:40:27.153Z",
+    "publishDate": "2026-05-21T08:40:27.157Z",
+    "title": "2026 上海国际碳中和博览会将在 6 月举办",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 16:40:27",
+    "uuid": "2c415b3c-287c-40a3-bb25-6bc1a705a5f9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "若 SpaceX 以 2 万亿美元估值上市，马斯克身家或达 1.1 万亿美元，成为人类历史上首个万亿美元富豪。SpaceX 为马斯克设定的终极考核目标是实现一百万火星移民。",
+    "id": "8tIoQqziWam",
+    "order": 1779352942382,
+    "createdAt": "2026-05-21T08:40:27.156Z",
+    "publishDate": "2026-05-21T08:42:22.382Z",
+    "title": "马斯克将成为史上首个万亿美元富豪",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 16:40:27",
+    "uuid": "910d533c-ca6b-476f-bcb2-4a509d08f0ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "李蓓掌管的半夏投资最新管理规模从 50 亿元～100 亿元回落至 20 亿元～50 亿元，此变化发生在旗下产品净值大幅修复并创历史新高的背景下，反映出投资者经历长期浮亏后的回本离场心理。",
+    "id": "8tJFNTgghVM",
+    "order": 1779352963331,
+    "createdAt": "2026-05-21T08:35:13.840Z",
+    "publishDate": "2026-05-21T08:42:43.331Z",
+    "title": "李蓓掌管的半夏投资管理规模缩水至 50 亿元以下",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 16:35:13",
+    "uuid": "d2aa3bf7-edcf-48f7-a38b-bee0d91385c3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "工信部通报 31 款 App 及 SDK 存在侵害用户权益行为，包括「红苹果短剧」等，要求相关方落实整改，对整改不到位的将依法处置。",
+    "id": "8tJE7OBVoEJ",
+    "order": 1779353004017,
+    "createdAt": "2026-05-21T08:10:18.071Z",
+    "publishDate": "2026-05-21T08:43:24.017Z",
+    "title": "工信部通报 31 款侵权 App，「红苹果短剧」等在列",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 16:10:18",
+    "uuid": "5da9a187-2c0e-400a-a6a3-0e3eb82d0739"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "OpenAI 称其全新通用推理模型推导出原创数学证明，推翻了保罗・埃尔德什 1946 年提出的著名几何学未解猜想，该模型并非专门为解决数学问题打造 ...",
+    "id": "8tIrGT9UE7T",
+    "order": 1779353088527,
+    "createdAt": "2026-05-21T07:15:20.693Z",
+    "publishDate": "2026-05-21T08:44:48.527Z",
+    "title": "OpenAI 宣布攻克 80 年数学难题 AI 首次自主证明 Erdős 开放问题",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 15:15:20",
+    "uuid": "381d1b6b-919e-4a2f-8adb-244d7ce30376"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "钛媒体" },
@@ -185,6 +312,67 @@
     "up": false,
     "date": "2026-05-21 12:31:29",
     "uuid": "05805d28-5dd8-48ac-a8b8-94897818dfce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AI 六小龙之一的月之暗面正拆除 VIE 与红筹结构，计划以香港为上市地点扫清监管障碍，其核心动作包括解散开曼群岛母公司之下的相关结构 ...",
+    "id": "8tIu5VeKJUZ",
+    "order": 1779353234512,
+    "createdAt": "2026-05-21T03:55:12.723Z",
+    "publishDate": "2026-05-21T08:47:14.512Z",
+    "title": "月之暗面拆除 VIE 架构，估值超 200 亿美元冲刺香港 IPO",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 11:55:12",
+    "uuid": "20ed98c9-06d8-4c0f-a73a-48f564514a74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "网易科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "5 月 20 日，阿里巴巴集团主席蔡崇信与首席执行官吴泳铭联合发布致股东信称，即时零售已成为淘宝和天猫平台升级的核心战略支柱，其在利用 AI 驱动获取新用户、增强用户粘性、满足多元消费需求、提升交易量和商业化水平方面具有战略意义。",
+    "id": "8tIwxtG6Aqf",
+    "order": 1779353274524,
+    "createdAt": "2026-05-21T03:55:12.725Z",
+    "publishDate": "2026-05-21T08:47:54.524Z",
+    "title": "阿里股东信：即时零售已成为淘宝天猫核心战略支柱",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 11:55:12",
+    "uuid": "8aff6498-1dba-4877-862c-493c19f253d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "摩根大通全球投资银行联席主管表示，全球 IPO 市场有望迎来自 2021 年以来最活跃的一年，其中香港和内地的增长预计尤为显著，推动投资和 IPO 的关键长期主题包括人工智能、机器人和医疗保健。",
+    "id": "8tIrEmyhUR2",
+    "order": 1779353335776,
+    "createdAt": "2026-05-21T02:35:14.588Z",
+    "publishDate": "2026-05-21T08:48:55.776Z",
+    "title": "摩通投行高管：香港及内地 IPO 活动料显著增加",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-21 10:35:14",
+    "uuid": "361ba073-189c-4216-8f86-5b452a247f2d"
   },
   {
     "newsArray": [
