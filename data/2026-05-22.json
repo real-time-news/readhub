@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "OpenAI 第一季度收入 57 亿美元，领先 Anthropic 10 亿美元，2 月份年化收入达 250 亿美元，其增长主要来自 Codex、商业销售及广告驱动 ...",
+    "id": "8tJzGsu0ObN",
+    "order": 1779389418449,
+    "createdAt": "2026-05-21T18:50:18.449Z",
+    "publishDate": "2026-05-21T18:50:18.449Z",
+    "title": "报道：OpenAI 在第一季度创造 57 亿美元收入",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-22 02:50:18",
+    "uuid": "e184dc70-dc56-42db-b8d5-5b1991e15216"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "受全球 AI 算力需求推动，Arm 总市值首次突破 3000 亿美元。5 月 21 日美股盘初，其股价一度飙升 11% 至历史新高 284.49 美元，前一交易日已大涨 15.05% ...",
+    "id": "8tJggx0EhDT",
+    "order": 1779388236759,
+    "createdAt": "2026-05-21T18:30:36.759Z",
+    "publishDate": "2026-05-21T18:30:36.759Z",
+    "title": "Arm 总市值首破 3000 亿美元大关，孙正义豪赚 2200 亿美元创造投资神话",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-22 02:30:36",
+    "uuid": "e396ef26-a2f3-489c-a86b-c223e6aa77c3"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
