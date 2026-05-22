@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "5 月 23 日，在岸人民币兑美元北京时间 03:00 收报 6.7978 元，较周四夜盘收盘跌 18 点，成交量 466.56 亿美元。",
+    "id": "8tLh1nmSlpB",
+    "order": 1779489027413,
+    "createdAt": "2026-05-22T22:30:27.413Z",
+    "publishDate": "2026-05-22T22:30:27.413Z",
+    "title": "在岸人民币兑美元较周四夜盘收盘跌 18 点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-23 06:30:27",
+    "uuid": "fb6d4c35-d0d9-4654-9d74-b09101eb0172"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "5 月 23 日，WTI 6 月原油期货收涨 0.26% 报 96.60 美元 / 桶，布伦特 7 月原油期货收涨 0.94% 报 103.54 美元 / 桶 ...",
+    "id": "8tKt3NS2nJr",
+    "order": 1779489027414,
+    "createdAt": "2026-05-22T22:30:27.414Z",
+    "publishDate": "2026-05-22T22:30:27.414Z",
+    "title": "WTI 6 月原油期货收涨 0.26%，报 96.60 美元 / 桶",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-23 06:30:27",
+    "uuid": "6cf5ac5d-c4a9-430d-90dc-e248ce0b78c6"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
