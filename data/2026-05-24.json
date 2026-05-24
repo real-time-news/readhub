@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "钛媒体" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "今年以来中国工业机器人出口强劲，4 月单月出口量突破 2.5 万台，同比增长接近 90%，移动机器人竞争力突出 ...",
+    "id": "8tOdyCjgFKy",
+    "order": 1779631811111,
+    "createdAt": "2026-05-24T14:10:11.111Z",
+    "publishDate": "2026-05-24T14:10:11.111Z",
+    "title": "移动机器人加速出海，中国工业机器人出口量暴增 9 成",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-24 22:10:11",
+    "uuid": "199a96da-784b-4616-8f88-64ffb5ce4223"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "埃隆・马斯克被指或放弃特斯拉推动经济全面电气化及地面太阳能产业的规划。其旗下 xAI 依靠化石能源为数据中心供电，且未大规模采购特斯拉太阳能板 ...",
+    "id": "8tO9xdPKqQi",
+    "order": 1779630610842,
+    "createdAt": "2026-05-24T13:50:10.842Z",
+    "publishDate": "2026-05-24T13:50:10.842Z",
+    "title": "马斯克放弃地面太阳能，重心转向太空光伏",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-24 21:50:10",
+    "uuid": "58068d62-4e7a-4caf-b8f1-add2abba3572"
+  },
+  {
+    "newsArray": [
       { "siteName": "和讯网" },
       { "siteName": "凤凰科技" },
       { "siteName": "创业邦" }
