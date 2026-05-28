@@ -1,6 +1,191 @@
 [
   {
     "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "微信 PC 端更新至 4.1.10 版本，新增发消息时支持「边写边译」为指定语言的功能，操作上在输入框右键点击「边写边译」即可开启，支持简体中文、繁体中文、英文、日文、韩语，可切换语言 ...",
+    "id": "8tUF5EUbaNB",
+    "order": 1779955837578,
+    "createdAt": "2026-05-28T08:10:37.578Z",
+    "publishDate": "2026-05-28T08:10:37.578Z",
+    "title": "微信 PC 端新增「边写边译」功能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 16:10:37",
+    "uuid": "f16f8dfb-d639-4375-a94b-7dff2817a8d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国内首个肿瘤心脏病研究机构复旦大学肿瘤心脏病研究所（筹）5 月 28 日正式揭牌，旨在推动中国肿瘤心脏病学系统化、规范化发展，整合资源推动基础研究向临床诊疗转化，提升肿瘤患者长期生存质量 ...",
+    "id": "8tUq9Dm4NvX",
+    "order": 1779955837616,
+    "createdAt": "2026-05-28T08:10:37.615Z",
+    "publishDate": "2026-05-28T08:10:37.616Z",
+    "title": "国内首个肿瘤心脏病研究机构揭牌 将推动基础研究向临床诊疗转化",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 16:10:37",
+    "uuid": "8b8da70a-b65e-4b00-81b3-825af02d6abf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "多米尼加不公平贸易和保障措施监管委员会发布第 CDC-RD-AD-009-2026 号公告称，应多米尼加生产商 Metaldom，S.A. 和 Ecoacero，S.R.L. 申请，对原产于中国的螺纹钢 (又名：钢筋混凝土或混凝土用钢棒) 启动反倾销第二次日落复审调查 ...",
+    "id": "8tUp1iJzcQl",
+    "order": 1779954646339,
+    "createdAt": "2026-05-28T07:50:46.339Z",
+    "publishDate": "2026-05-28T07:50:46.339Z",
+    "title": "多米尼加对原产于中国的螺纹钢启动反倾销日落复审调查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 15:50:46",
+    "uuid": "76725ad6-1698-4a0c-8e4e-d2815887a52b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "LG 电子高管在北京与海信高管就业务重组计划进行协调磋商，包括出售电视业务部门的可能性。LG 电子近年全球电视出货量占比约 10%，低于 TCL、海信等竞争对手 ...",
+    "id": "8tUXBUMEyjW",
+    "order": 1779954646988,
+    "createdAt": "2026-05-28T07:50:46.988Z",
+    "publishDate": "2026-05-28T07:50:46.988Z",
+    "title": "消息称 LG 电子就出售电视业务与海信交涉",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 15:50:46",
+    "uuid": "454fcb86-1309-4542-809f-c0d681dfbdbd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "牛透社" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "AI 路由与基础设施平台 OpenRouter 完成 1.13 亿美元 B 轮融资，由 CapitalG 领投，NVentures、ServiceNow、MongoDB、Snowflake、Databricks 及现有投资方 a16z、Menlo Ventures 参与 ...",
+    "id": "8tSigLqgNPw",
+    "order": 1779954636914,
+    "createdAt": "2026-05-28T07:50:36.914Z",
+    "publishDate": "2026-05-28T07:50:36.914Z",
+    "title": "OpenRouter 完成 1.13 亿美元 B 轮融资：打造多模型时代的「流量枢纽」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 15:50:36",
+    "uuid": "84c31e51-20ec-4366-9dc5-486b51fa65ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达发布开源 AI 框架 Polar，帮助 Codex 等智能体框架接入广义相对策略优化（GRPO）训练方法，不影响原有工具调用、上下文组织和补丁提交方式 ...",
+    "id": "8tUUHoPQ6ar",
+    "order": 1779954636924,
+    "createdAt": "2026-05-28T07:50:36.924Z",
+    "publishDate": "2026-05-28T07:50:36.924Z",
+    "title": "英伟达推出开源 AI 框架 Polar，Codex 性能提升近 600%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 15:50:36",
+    "uuid": "439db598-6d52-43b3-9d8f-24b9fc1cac6a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "阿里 Qoder 上线全托管 AI Agent 运行平台 Cloud Agents，提供 Agent 底座、模型服务及运行环境等全栈 Agent 能力，企业可通过 API 调用，将 Agent 上线时间从 1 个月缩短至 1 天 ...",
+    "id": "8tUlqndQpjp",
+    "order": 1779956159698,
+    "createdAt": "2026-05-28T07:31:29.014Z",
+    "publishDate": "2026-05-28T08:15:59.698Z",
+    "title": "阿里 Qoder 推出 Cloud Agents，Agent 上线仅需 1 天",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 15:31:29",
+    "uuid": "98d65332-f4db-466a-b6b6-b52690ad6f77"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "针对投资者关于「网传京东方正在恰谈兼并收购深天马事宜，请问是否属实」... 的提问，深天马Ａ在互动平台回应，相关说法不属实。",
+    "id": "8tUohk80eDn",
+    "order": 1779953487006,
+    "createdAt": "2026-05-28T07:31:27.006Z",
+    "publishDate": "2026-05-28T07:31:27.006Z",
+    "title": "深天马Ａ回应「京东方恰谈兼并收购传闻」：相关说法不属实",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 15:31:27",
+    "uuid": "457ef15c-a8b8-4c95-9f1b-f00be70ef656"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "SpaceX 首席执行官马斯克周四表示，SpaceX 仅同意将 Colossus AI 训练数据中心集群租赁给 Anthropic 六个月，但他补充说，该协议「有可能」延长至数年 ...",
+    "id": "8tUkPpKcyVq",
+    "order": 1779956178197,
+    "createdAt": "2026-05-28T07:31:27.005Z",
+    "publishDate": "2026-05-28T08:16:18.197Z",
+    "title": "马斯克：SpaceX 与 Anthropic 达成的 Colossus AI 租赁协议仅为期六个月",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 15:31:27",
+    "uuid": "93b32be4-da0e-4672-87d6-11898c654078"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "5 月 28 日，商务部新闻发言人何亚东在例行新闻发布会上表示，关税是中美经贸关系关键问题之一，在两国元首战略引领下，中美经贸团队围绕关税问题深入沟通并就有关双边关税做出安排，希望美方信守承诺，为双方拓展经贸合作创造积极条件，同时双方原则同意在贸易理事会项下讨论同等规模产品对等降税框架安排，规模各为 300 亿美元或更多，双方经贸团队将保持密切沟通，商定具体安排并尽快推动实施。",
+    "id": "8tUohIjiazi",
+    "order": 1779953476567,
+    "createdAt": "2026-05-28T07:31:16.566Z",
+    "publishDate": "2026-05-28T07:31:16.567Z",
+    "title": "商务部回应中美关税谈判进展：双方经贸团队将商定具体安排并尽快推动实施",
+    "type": "topic",
+    "up": false,
+    "date": "2026-05-28 15:31:16",
+    "uuid": "8f4d5e2b-3f26-4d56-acc5-73f6d5a9e066"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "界面" },
       { "siteName": "财联社" },
