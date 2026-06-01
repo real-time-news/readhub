@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "比亚迪自研智驾芯片及智驾安全兜底，将提升智驾竞争力，公司智能驾驶能力全面进化 ...",
+    "id": "8tbMfj7JiSD",
+    "order": 1780296347625,
+    "createdAt": "2026-06-01T06:45:47.625Z",
+    "publishDate": "2026-06-01T06:45:47.625Z",
+    "title": "东方证券：维持比亚迪「买入」评级，自研智驾芯片及智驾安全兜底",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 14:45:47",
+    "uuid": "decfa26b-23c5-44c9-b969-b10bae54071e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "6 月 1 日上海市新闻发布会介绍《上海市服务业发展「十五五」规划》相关情况，上海市经济信息化委副主任葛东波表示，预计到 2030 年，上海市软件和信息服务业营收规模有望达到 3 万亿元左右，行业增加值突破 1 万亿元 ...",
+    "id": "8tbO2nOFCN1",
+    "order": 1780296340689,
+    "createdAt": "2026-06-01T06:45:40.689Z",
+    "publishDate": "2026-06-01T06:45:40.689Z",
+    "title": "上海：将集中力量 重点突破工业软件、基础软件等领域的底层关键核心技术",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 14:45:40",
+    "uuid": "2c651ee1-0b7d-41e9-a9eb-dc3f95e593be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "我国在建纬度最高的高速铁路哈尔滨至伊春高铁迎来重要节点，6 月 1 日开行首趟动车组测试列车，通车后哈尔滨至伊春旅客列车运行时间将由 7 小时压缩至 2 小时以内，对助力东北全面振兴、推动沿线冰雪旅游和生态资源开发、完善区域路网布局具有重要意义。",
+    "id": "8tbLVPn4z3d",
+    "order": 1780296052360,
+    "createdAt": "2026-06-01T06:40:52.360Z",
+    "publishDate": "2026-06-01T06:40:52.360Z",
+    "title": "我国最北高铁哈伊高铁开行首趟动车组测试列车",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 14:40:52",
+    "uuid": "74a8a2a7-eacd-4faf-b635-e5a4736faccd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI 宣布成立「OpenAI Robotics」团队，目标打造能在物理世界帮助人类的 AI，将机器人定位为近期战略重点，近期聚焦建筑和物理基础设施领域的技工辅助，而非家用或消费级机器人 ...",
+    "id": "8tb9tA5eK2P",
+    "order": 1780296101550,
+    "createdAt": "2026-06-01T06:31:01.141Z",
+    "publishDate": "2026-06-01T06:41:41.550Z",
+    "title": "OpenAI 正式成立机器人团队，进军实体世界 AI",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 14:31:01",
+    "uuid": "63f7eca7-e942-4042-a0b6-7fbba9ea3a06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "追觅近期开放 Pre-IPO 轮直接融资，投前估值或约 700 亿元，单笔投资门槛最低 3.5 亿元，融资窗口预计 7 月初关闭，释放份额区间 5% 至 10%，对应融资规模约 35 亿至 70 亿元 ...",
+    "id": "8tbMenVb6kD",
+    "order": 1780295453963,
+    "createdAt": "2026-06-01T06:30:53.963Z",
+    "publishDate": "2026-06-01T06:30:53.963Z",
+    "title": "追觅开放融资 单笔投资门槛最低 3.5 亿 Pre-IPO 轮投前估值或 700 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 14:30:53",
+    "uuid": "f012d4a8-1fae-4eeb-8e27-dc18b8dddb9b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "AMZ123" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "2026 年台北国际电脑展期间，英伟达 CEO 黄仁勋宣布公司将进入个人电脑处理器市场，推出与联发科联合研发的基于 Arm 架构的「RTX Spark」超级芯片，该芯片集成 CPU 与 RTX 显卡单元，支持运行微软 Windows on Arm 操作系统，旨在打破英特尔在 PC 处理器领域的主导地位并推动 AI PC 市场普及，戴尔、联想等主流 PC 厂商自今年秋季起将陆续推出搭载该芯片的笔记本电脑和台式机产品，此举标志着英伟达正从独立 GPU 供应商向全栈 PC 计算平台提供商延伸业务布局。",
+    "id": "8tbLD0Qrl1d",
+    "order": 1780296142300,
+    "createdAt": "2026-06-01T06:25:20.952Z",
+    "publishDate": "2026-06-01T06:42:22.300Z",
+    "title": "英伟达宣布进军 PC 处理器市场，正面挑战苹果与英特尔",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 14:25:20",
+    "uuid": "6e4c25a0-6416-497e-906a-adf0fa3ea960"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "创业邦" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "通用人工智能公司 VAST 近日宣布完成 A+ 及 A++ 两轮融资，合计近 2 亿美元 ...",
+    "id": "8tb5Zqphwd8",
+    "order": 1780294861351,
+    "createdAt": "2026-06-01T06:21:01.351Z",
+    "publishDate": "2026-06-01T06:21:01.351Z",
+    "title": "通用人工智能公司 VAST 获近 2 亿美元 A 轮系列融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 14:21:01",
+    "uuid": "d98785f4-289f-4234-a0a5-c4ddabf334be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英伟达计划与中国宇树科技及美国、欧洲、韩国的人形机器人制造商合作，打造研究用途机器人。",
+    "id": "8tbLClp5kxg",
+    "order": 1780294545352,
+    "createdAt": "2026-06-01T06:15:45.352Z",
+    "publishDate": "2026-06-01T06:15:45.352Z",
+    "title": "英伟达将与宇树科技等全球人形机器人制造商合作开发研究用途机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 14:15:45",
+    "uuid": "4dcf8e2d-bb2b-4b72-87bb-83f60e210d50"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "DoNews" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "零跑汽车 2026 年 5 月交付量达 81569 台，同比增长 81%。",
+    "id": "8tbMeatroWU",
+    "order": 1780294545354,
+    "createdAt": "2026-06-01T06:15:45.354Z",
+    "publishDate": "2026-06-01T06:15:45.354Z",
+    "title": "零跑汽车：5 月交付 81569 台，同比增 81%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 14:15:45",
+    "uuid": "e4aa8846-18c6-4004-bef5-f7fc84208db9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美图公司 (1357.HK) 今日盘中飙升近 20%，报 5.23 港元，成交额近 10 亿港元。2026 年 4 月旗下应用总收入同比增长 45%，海外多款产品增长强劲 ...",
+    "id": "8tbBAjjMWH6",
+    "order": 1780293028231,
+    "createdAt": "2026-06-01T05:50:28.231Z",
+    "publishDate": "2026-06-01T05:50:28.231Z",
+    "title": "美图公司飙升近 20%，旗下 AI 应用 4 月收入同比增长 45%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-01 13:50:28",
+    "uuid": "b00a0932-dd1e-4d21-847a-fe21cd54c690"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "同花顺财经" },
