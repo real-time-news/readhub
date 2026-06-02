@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "雷科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "微软计划在本周 Build 开发者大会上集中展示多款自研 AI 模型，覆盖代码编写、逻辑推理等各类应用场景，希望开发者不只将其视作 OpenAI 的头号合作伙伴。",
+    "id": "8tdjqrpBPDI",
+    "order": 1780433128805,
+    "createdAt": "2026-06-02T20:45:28.805Z",
+    "publishDate": "2026-06-02T20:45:28.805Z",
+    "title": "不止当 OpenAI 合伙人，微软将在 Build 大会亮出自研 AI 模型矩阵",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 04:45:28",
+    "uuid": "ee7ed777-fdc3-4bec-aec2-61db5f97ab06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "微软推出新一代量子芯片 Majorana 2，采用全新材料栈和新一代量子比特，可靠性相比上一代提升 1000 倍 ...",
+    "id": "8tdtoaowRO6",
+    "order": 1780427114779,
+    "createdAt": "2026-06-02T19:05:14.779Z",
+    "publishDate": "2026-06-02T19:05:14.779Z",
+    "title": "微软推出量子芯片 Majorana 2，剑指 2029 年打造实用机器",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 03:05:14",
+    "uuid": "3fa974f9-4e3e-4a61-9fda-3fc66455ebad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "微软首席执行官宣布推出 Cobalt 200 芯片预览版。",
+    "id": "8tdmhxZ8wgY",
+    "order": 1780425927656,
+    "createdAt": "2026-06-02T18:45:27.656Z",
+    "publishDate": "2026-06-02T18:45:27.656Z",
+    "title": "微软首席执行官宣布推出 Cobalt 200 芯片预览版",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 02:45:27",
+    "uuid": "257b77c9-ba31-49a9-903c-b6e7a79839a6"
+  },
+  {
+    "newsArray": [
       { "siteName": "医药魔方" },
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" }
