@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "安克创新科技股份有限公司向港交所提交上市申请书，联席保荐人为中金公司、高盛、摩根大通。",
+    "id": "8tfJ2cujiyT",
+    "order": 1780499118458,
+    "createdAt": "2026-06-03T15:05:18.458Z",
+    "publishDate": "2026-06-03T15:05:18.458Z",
+    "title": "安克创新科技股份有限公司向港交所提交上市申请书",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 23:05:18",
+    "uuid": "4a5c3437-e6df-4c64-b9b5-9c3c7ccdd617"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英国国防部 3 日称，当天早些时候发生的英国皇家海军直升机坠毁事件已造成 3 名英国皇家海军成员死亡。",
+    "id": "8texsjA6UJZ",
+    "order": 1780499118461,
+    "createdAt": "2026-06-03T15:05:18.461Z",
+    "publishDate": "2026-06-03T15:05:18.461Z",
+    "title": "英国皇家海军直升机坠毁致 3 人死亡",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 23:05:18",
+    "uuid": "f0ecdd40-e85b-45f1-a1bb-1891dfdac311"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "大连理工大学机械学院高性能精密成形团队基于国际首创的「超低温成形技术」，成功实现直径超 2 米的光板整体推进剂贮箱箱底量产，将制造周期缩短 90% 以上，有望为商业航天高频次发射降本增效。",
+    "id": "8tf1ucQJK3I",
+    "order": 1780497318384,
+    "createdAt": "2026-06-03T14:35:18.383Z",
+    "publishDate": "2026-06-03T14:35:18.384Z",
+    "title": "我国火箭推进剂贮箱箱底实现量产 制作周期大幅缩短",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 22:35:18",
+    "uuid": "af6cd0e2-2f0d-43e8-a71a-7f07f313a6cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "宏利人寿保险（国际）有限公司与阿里云智能集团签署战略合作备忘录，双方将围绕保险业务全场景加速 AI 技术规模化应用，共建联合 AI 中心，基于阿里云全栈 AI 与云计算能力孵化下一代 AI 应用，将 AI 嵌入反欺诈识别、服务个性化等核心场景，提升客户体验与运营效率，建立长期协作框架，深化在千问大模型、智算平台等核心能力上的协同，加速 AI 在保险全业务链的深度落地，推动金融 AI 生态共建共赢。",
+    "id": "8teyalPQI8N",
+    "order": 1780497044724,
+    "createdAt": "2026-06-03T14:30:44.724Z",
+    "publishDate": "2026-06-03T14:30:44.724Z",
+    "title": "阿里云与宏利香港达成战略合作 孵化保险行业 AI 应用",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 22:30:44",
+    "uuid": "4d8b2d50-59cb-4de9-83c0-6c7607857438"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "谷歌母公司 Alphabet 本次股权融资总规模为 847.5 亿美元，高于此前宣布的 800 亿美元。公司以每股 355.1982 美元的价格发行 2550 万股 A 类普通股 ...",
+    "id": "8tfDGoFniVE",
+    "order": 1780495832638,
+    "createdAt": "2026-06-03T14:10:32.638Z",
+    "publishDate": "2026-06-03T14:10:32.638Z",
+    "title": "谷歌母公司 Alphabet 将股权融资规模增至 847.5 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 22:10:32",
+    "uuid": "d6c9f7d8-7845-4fec-92fa-580c99431edf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "杭州 4 宗涉宅用地 6 月 3 日出让，总土地出让面积 106196 平方米，总规划建筑面积 249801.70 平方米，总起始价 32.58 亿元，最终总成交金额 46.23 亿元，其中 2 宗溢价近 25% 成交，1 宗溢价近 36% 成交，1 宗溢价超 61% 成交。",
+    "id": "8teXv82kDxv",
+    "order": 1780494631479,
+    "createdAt": "2026-06-03T13:50:31.479Z",
+    "publishDate": "2026-06-03T13:50:31.479Z",
+    "title": "杭州 4 宗涉宅用地 46.23 亿元成交 最高溢价率超 61%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 21:50:31",
+    "uuid": "519a730f-160b-41de-8325-4ecd3e2a319c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "Kimi Work Beta 版开启内测，随 Kimi 最新测试版 Mac 和 Windows 客户端推出 ...",
+    "id": "8tfBTA9jNNP",
+    "order": 1780494631482,
+    "createdAt": "2026-06-03T13:50:31.482Z",
+    "publishDate": "2026-06-03T13:50:31.482Z",
+    "title": "月之暗面 Kimi Work Beta 版开启内测：面向知识工作者的通用型本地 Agent",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 21:50:31",
+    "uuid": "9e3c0cb8-6c46-4fd6-af25-5792202d02ad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "阳光电源今日发布 PowerMatrix™矩阵逆变器及以其为核心的矩阵逆变系统。该矩阵逆变器集成光伏逆变、储能变流、能量路由与构网控制，是面向新型电力系统的核心能量节点 ...",
+    "id": "8tfAVAqqQWT",
+    "order": 1780494631487,
+    "createdAt": "2026-06-03T13:50:31.487Z",
+    "publishDate": "2026-06-03T13:50:31.487Z",
+    "title": "阳光电源发布 PowerMatrix 矩阵逆变器 破局行业「不可能三角」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 21:50:31",
+    "uuid": "c3b9869c-3ffe-445f-b78f-fc41f0b2c207"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Kimi 发布桌面端产品 Kimi Work，是面向知识工作者的通用型本地 Agent，可在电脑上拆解任务、调用工具、使用浏览器、创建和整理文件夹，并完成文档、表格、PPT 等工作产物的交付，由 Kimi Code 深度参与开发，支持 13 小时连续编码、300 个子 Agent 并行协作及 4000 余次自主工具调用。",
+    "id": "8tfAVv0Men3",
+    "order": 1780494320065,
+    "createdAt": "2026-06-03T13:45:20.065Z",
+    "publishDate": "2026-06-03T13:45:20.065Z",
+    "title": "Kimi 发布桌面端产品 Kimi Work，定位通用型本地 Agent",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 21:45:20",
+    "uuid": "650835e2-bc3f-43af-8b3c-d52c23214980"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "在 2026 华为智能光伏战略 & 新品发布会上，华为发布全新一代组串式构网 PCS 解决方案、FusionSolar Agent 智能体技术架构等新品 ...",
+    "id": "8tf91stal1C",
+    "order": 1780492852827,
+    "createdAt": "2026-06-03T13:20:52.827Z",
+    "publishDate": "2026-06-03T13:20:52.827Z",
+    "title": "华为发布新一代组串式构网 PCS 解决方案",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-03 21:20:52",
+    "uuid": "de941da7-185a-488f-94bd-e19a45cc7d09"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
       { "siteName": "36Kr" }
