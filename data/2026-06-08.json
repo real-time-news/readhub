@@ -1,6 +1,205 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "恒指开盘跌 1.52%，恒生科技指数跌 2.43%。煤炭、国防军工板块领涨，大陆航空科技控股涨超 14%，中煤能源涨近 1% ...",
+    "id": "8tmgOI9wpRU",
+    "order": 1780883441735,
+    "createdAt": "2026-06-08T01:50:41.735Z",
+    "publishDate": "2026-06-08T01:50:41.735Z",
+    "title": "恒指开盘跌 1.52%，恒生科技指数跌 2.43%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 09:50:41",
+    "uuid": "3c5809ad-ebb9-4a8d-a3b6-ece7088cc6ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "界面" }
+    ],
+    "summary": "A 股三大指数集体低开，沪指低开 2.21%，深成指低开 3.13%，创业板指低开 3.48%。电脑硬件、通信设备、半导体板块跌幅居前，江波龙跌超 9%，华虹宏力、长飞光纤跌超 8% ...",
+    "id": "8tmgNyrDz3L",
+    "order": 1780883441736,
+    "createdAt": "2026-06-08T01:50:41.736Z",
+    "publishDate": "2026-06-08T01:50:41.736Z",
+    "title": "A 股三大指数集体低开，半导体板块跌幅居前",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 09:50:41",
+    "uuid": "eb34068d-59ef-4b55-a731-0e501771ef79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌 Gemini 存在「伪上下文对齐」安全漏洞，黑客可通过 WhatsApp、短信等渠道发送含特殊构造内容的通知信息，利用多语言混淆或静音超链接隐藏恶意指令，诱导 Gemini 误判用户授权并执行未经授权操作，可能导致智能家庭设备被非法操控、用户通讯录被篡改等安全风险，该漏洞已通过改进内容分类器机制缓解。",
+    "id": "8tlUiW5EUBe",
+    "order": 1780883441737,
+    "createdAt": "2026-06-08T01:50:41.737Z",
+    "publishDate": "2026-06-08T01:50:41.737Z",
+    "title": "谷歌 Gemini 语音助理曝漏洞，黑客利用特殊构造通知信息为 AI「下毒」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 09:50:41",
+    "uuid": "15a22121-c635-4941-b9a4-093c17c8ff7c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "截至 6 月 5 日，上交所融资余额报 14654.47 亿元，较前一交易日减少 112.97 亿元。深交所融资余额报 14114.03 亿元，较前一交易日减少 27.46 亿元 ...",
+    "id": "8tmdWiUj3n7",
+    "order": 1780882259818,
+    "createdAt": "2026-06-08T01:30:59.818Z",
+    "publishDate": "2026-06-08T01:30:59.818Z",
+    "title": "两市融资余额较上日减少 140.43 亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 09:30:59",
+    "uuid": "3e7cdcac-f87d-4687-bca7-fd15d9a255eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "菲律宾棉兰老岛海域 6 月 8 日发生地震，自然资源部海啸预警中心判断可能引发区域海啸，但不会对我国沿岸造成灾害性影响。",
+    "id": "8tmZGkMZG1s",
+    "order": 1780882252708,
+    "createdAt": "2026-06-08T01:30:52.708Z",
+    "publishDate": "2026-06-08T01:30:52.708Z",
+    "title": "菲律宾地震或引发海啸 自然资源部：不会对我国沿岸造成灾害性影响",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 09:30:52",
+    "uuid": "6107a6d4-ae25-4459-af48-ef317c9ce2ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "韩国 KOSPI 指数恢复交易，日内跌幅收窄至 6.6%。",
+    "id": "8tmacy40tJd",
+    "order": 1780879811975,
+    "createdAt": "2026-06-08T00:50:11.975Z",
+    "publishDate": "2026-06-08T00:50:11.975Z",
+    "title": "韩国 KOSPI 指数恢复交易，日内跌幅收窄至 6.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 08:50:11",
+    "uuid": "5168d7bb-769e-4b2a-b18d-51605ed4dda8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "日经 225 指数持续下挫，跌幅扩大至 3%。",
+    "id": "8tmaciip4RM",
+    "order": 1780878331430,
+    "createdAt": "2026-06-08T00:25:31.430Z",
+    "publishDate": "2026-06-08T00:25:31.430Z",
+    "title": "日经 225 指数跌幅扩大至 3%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 08:25:31",
+    "uuid": "5cb49277-1b9f-4d36-a3c4-3de99ef4f47c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "韩国 KOSPI 指数于当地时间 6 月 8 日 09 时 03 分 42 秒因较前一交易日收盘价下跌 8.40% 触发一级熔断机制，市场暂停交易 20 分钟 ...",
+    "id": "8tmacZU0Xx4",
+    "order": 1780878331493,
+    "createdAt": "2026-06-08T00:25:31.493Z",
+    "publishDate": "2026-06-08T00:25:31.493Z",
+    "title": "韩国 KOSPI 指数暴跌逾 8% 触发熔断，今日开盘停牌 20 分钟",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 08:25:31",
+    "uuid": "43c86970-30ac-4a0b-aadc-48f75fb7ee40"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "国家网信办、市场监管总局联合印发《网络测评活动规范》，旨在规范网络测评活动，维护公平市场竞争秩序，保护公民、法人和其他组织合法权益。",
+    "id": "8tmacTsr7s8",
+    "order": 1780878331495,
+    "createdAt": "2026-06-08T00:25:31.496Z",
+    "publishDate": "2026-06-08T00:25:31.495Z",
+    "title": "两部门联合印发《网络测评活动规范》",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 08:25:31",
+    "uuid": "c80956cf-800b-4d15-82ab-ade795052d92"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "日经 225 指数持续下挫，跌幅扩大至 3%。",
+    "id": "8tmacZI5OUL",
+    "order": 1780878331496,
+    "createdAt": "2026-06-08T00:25:31.496Z",
+    "publishDate": "2026-06-08T00:25:31.496Z",
+    "title": "日经 225 指数跌幅扩大至 3%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-08 08:25:31",
+    "uuid": "f5bfb8c0-0d5b-4059-80ab-524585fca6aa"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "新浪科技" },
       { "siteName": "36Kr" },
