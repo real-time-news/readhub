@@ -1,6 +1,96 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "以伊战事缓和，美股三大股指走高，纳指盘初涨 1.39%，标普 500 指数涨 0.85%，道指涨 0.36%。科技股集体反弹，英伟达涨超 2%，美光科技涨超 8% ...",
+    "id": "8tnVoPsYLmV",
+    "order": 1780950325608,
+    "createdAt": "2026-06-08T20:25:25.608Z",
+    "publishDate": "2026-06-08T20:25:25.608Z",
+    "title": "美股三大股指集体高开，英特尔大涨超 11%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 04:25:25",
+    "uuid": "e591f1fc-cba0-4f50-9e43-485b565d65ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "截至 6 月 7 日，本轮埃博拉疫情累计确诊 563 例，其中刚果（金）544 例、死亡 88 例，乌干达 19 例、死亡 2 例。",
+    "id": "8tnslHCpbbc",
+    "order": 1780945534414,
+    "createdAt": "2026-06-08T19:05:34.414Z",
+    "publishDate": "2026-06-08T19:05:34.414Z",
+    "title": "非洲疾控中心：本轮埃博拉疫情确诊病例升至 563 例",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 03:05:34",
+    "uuid": "9f9db113-e9af-4e9e-ab5e-bab38e2fd788"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "SpaceX 的首次公开募股（IPO）已获得大幅超额认购，市场需求强劲 ...",
+    "id": "8tnfqquiFLb",
+    "order": 1780944337503,
+    "createdAt": "2026-06-08T18:45:37.503Z",
+    "publishDate": "2026-06-08T18:45:37.503Z",
+    "title": "SpaceX IPO 获大幅超额认购，机构认购将于周三截止",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 02:45:37",
+    "uuid": "75d8d136-3654-4001-866c-4add21e85614"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "在 WWDC26 上，苹果宣布 Apple Intelligence 与谷歌合作引入 Gemini 大模型并带来全新 AI 架构，新版苹果 AI 由 Gemini 提供技术，能在设备端及云端服务器运行，新 Apple Intelligence 第二代设备端模型支持听写、自然语言理解、更生动的语音表达、屏幕感知功能等，隐私保护默认设置不妥协，采用端云结合，任何人无法访问数据。",
+    "id": "8tnmxHVNGX0",
+    "order": 1780948991658,
+    "createdAt": "2026-06-08T18:05:24.535Z",
+    "publishDate": "2026-06-08T20:03:11.658Z",
+    "title": "苹果 Apple Intelligence 与谷歌合作引入 Gemini",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 02:05:24",
+    "uuid": "98575749-6e57-408e-b359-23c89a77762e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "6 月 9 日，苹果在 WWDC26 全球开发者大会上发布「Siri AI」，其比之前的智能助手版本更具对话性，功能更强大 ...",
+    "id": "8tnoStVlqeL",
+    "order": 1780949049858,
+    "createdAt": "2026-06-08T18:05:24.533Z",
+    "publishDate": "2026-06-08T20:04:09.858Z",
+    "title": "苹果推出 Siri AI，有独立 App",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 02:05:24",
+    "uuid": "246ea611-bafd-4bf5-b9ed-e2ce0ef40f53"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "雷锋网" },
       { "siteName": "IT 之家" }
@@ -15,6 +105,24 @@
     "up": false,
     "date": "2026-06-09 01:45:34",
     "uuid": "90f57892-59be-4413-90d3-38b47732c67c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "6 月 9 日凌晨，苹果召开 WWDC26 全球开发者大会，公布全新 macOS 版本 ——macOS Golden Gate ...",
+    "id": "8tnlV4VkhT0",
+    "order": 1780949144658,
+    "createdAt": "2026-06-08T17:30:51.233Z",
+    "publishDate": "2026-06-08T20:05:44.658Z",
+    "title": "苹果 macOS 27 命名为 Golden Gate，设计细节更新",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 01:30:51",
+    "uuid": "93ca1953-eabb-42a8-a767-ba1541155bc4"
   },
   {
     "newsArray": [
