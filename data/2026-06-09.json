@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2026 年全球开发者大会上，苹果克雷格・费德里吉抨击「为了 AI 而追求 AI」的功利现状，认为真正有用的 AI 必须围绕用户和用户需求展开，他表示新一代 Apple Intelligence 技术让苹果产品更加个性化、更加实用。",
+    "id": "8tnnH0rOIAb",
+    "order": 1780962343256,
+    "createdAt": "2026-06-08T23:45:43.256Z",
+    "publishDate": "2026-06-08T23:45:43.256Z",
+    "title": "苹果抨击「为 AI 而 AI」，称有用 AI 需以用户为中心",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 07:45:43",
+    "uuid": "0ed9b416-2b97-4951-a2f9-f100d3cc194f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "当地时间 6 月 8 日上午，苹果在 ApplePark 举行 WWDC2026，发布 SiriAI 等一系列针对 AI 功能的更新 ...",
+    "id": "8tnqq87Fodk",
+    "order": 1780961462050,
+    "createdAt": "2026-06-08T23:31:02.050Z",
+    "publishDate": "2026-06-08T23:31:02.050Z",
+    "title": "苹果：中国大陆暂不提供最新 Siri AI",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 07:31:02",
+    "uuid": "d0d5ceda-b2c3-4319-b190-d2c7adb08cfa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI 于 6 月 9 日发布博文宣布已向美国证券交易委员会递交保密版 S-1 注册草案，为未来上市预留通道，称文件迟早会泄露故主动发布消息，强调尚未作出上市决定且可能还需一段时间 ...",
+    "id": "8to45ja0sIC",
+    "order": 1780961462051,
+    "createdAt": "2026-06-08T23:31:02.051Z",
+    "publishDate": "2026-06-08T23:31:02.051Z",
+    "title": "OpenAI 已提交 S-1 草案，释放潜在 IPO 上市信号",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 07:31:02",
+    "uuid": "00b77111-134b-4e74-81f0-8b717e4259ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI 于 6 月 8 日向美国证监会秘密提交 IPO 的 S-1 草案，称尚未决定上市时间，提交文件是为在上市更符合公司利益时拥有更快进入公开市场的选项，此前有报道称其正与高盛和摩根士丹利合作争取最快今年秋季上市。",
+    "id": "8to2eqQpLXq",
+    "order": 1780961124850,
+    "createdAt": "2026-06-08T23:25:24.850Z",
+    "publishDate": "2026-06-08T23:25:24.850Z",
+    "title": "OpenAI 向美国证监会秘密提交 IPO 文件，尚未决定上市时间",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 07:25:24",
+    "uuid": "8af2bb87-4e85-442d-a35d-736fbe7e9236"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "金融界" },
       { "siteName": "格隆汇" }
