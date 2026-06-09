@@ -1,6 +1,177 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "国家互联网应急中心发现部分智能体技能包以「大模型越狱」「挖矿赚钱」等名义传播，诱导用户突破大模型安全限制或进行非法挖矿，可能导致模型生成违法信息、用户账号封禁、设备性能下降及卷入违法犯罪活动等风险 ...",
+    "id": "8tp0pI63CmI",
+    "order": 1781004349038,
+    "createdAt": "2026-06-09T11:25:49.038Z",
+    "publishDate": "2026-06-09T11:25:49.038Z",
+    "title": "国家互联网应急中心预警：部分智能体 Skills 存在「越狱」攻击与恶意挖矿风险",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 19:25:49",
+    "uuid": "fa4313f0-4987-47c6-8a82-baa1a2b7365f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "欧盟委员会数字经济事务发言人托马斯・雷尼耶就苹果 Siri AI 事件回应称，苹果未能达到《数字市场法》（DMA）的互操作性要求，其申请的至少 18 个月豁免期被拒绝，欧盟法律不可谈判，强调任何守门人不得封闭市场 ...",
+    "id": "8towjN0Z7UH",
+    "order": 1781003487557,
+    "createdAt": "2026-06-09T11:11:27.557Z",
+    "publishDate": "2026-06-09T11:11:27.557Z",
+    "title": "欧盟回应苹果 Siri AI 争议：法律不可谈判，苹果未能达到互操作性要求",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 19:11:27",
+    "uuid": "95eb7419-28f3-413d-b689-12d9602e3c33"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "因受《数字市场法》影响，苹果宣布 Siri AI 不会随 iOS 27、macOS 27 等系统更新面向欧洲市场上线，欧盟用户暂时无法使用回看对话的独立应用、扩展后的视觉智能等 Siri AI 能力 ...",
+    "id": "8tnti0JVoni",
+    "order": 1781003486806,
+    "createdAt": "2026-06-09T11:11:26.806Z",
+    "publishDate": "2026-06-09T11:11:26.806Z",
+    "title": "因隐私安全分歧，苹果 Siri AI 缺席欧盟版 iOS 27 首发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 19:11:26",
+    "uuid": "726e9ce1-4359-4b38-b3c4-f2a3fd03b330"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "微软因遭遇黑客的供应链攻击，紧急切断了 GitHub 上至少 70 个开源项目的访问权限，黑客旨在通过 AI 编码应用窃取用户密码及敏感凭证 ...",
+    "id": "8toLFkXpPal",
+    "order": 1781002295826,
+    "createdAt": "2026-06-09T10:51:35.826Z",
+    "publishDate": "2026-06-09T10:51:35.826Z",
+    "title": "微软数十个开源 AI 工具遭供应链攻击，大量开发者凭证被窃",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 18:51:35",
+    "uuid": "6a172b08-d523-49ad-8001-2d510d1aa871"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" }
+    ],
+    "summary": "科大讯飞将在香港举办 2026 SpaceMind 全球发布会，计划发布智能空间 Agentic 架构 SpaceMind ...",
+    "id": "8tov0lEMdef",
+    "order": 1781001953445,
+    "createdAt": "2026-06-09T10:45:53.445Z",
+    "publishDate": "2026-06-09T10:45:53.445Z",
+    "title": "科大讯飞将发布智能空间 Agentic 架构 SpaceMind",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 18:45:53",
+    "uuid": "d5604bf8-389b-441a-b86e-7d54db6038ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "多位知情人士透露，数据库管理软件厂商 Databricks 正洽谈新一轮融资，或于下月启动，完成后估值有望达 1650 亿至 1750 亿美元，较去年年底计入募资后的 1340 亿美元大幅提升 ...",
+    "id": "8toKATcZJqI",
+    "order": 1781002921448,
+    "createdAt": "2026-06-09T10:45:53.556Z",
+    "publishDate": "2026-06-09T11:02:01.448Z",
+    "title": "Databricks 洽谈新一轮融资 估值或超 1650 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 18:45:53",
+    "uuid": "846ae2d8-20c8-406e-b98a-1165efe9a60c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI 已秘密提交 IPO 申请，其首席执行官山姆・奥尔特曼旗下另一家公司 Tools for Humanity 正进行裁员 ...",
+    "id": "8toOoACqTYT",
+    "order": 1781002944008,
+    "createdAt": "2026-06-09T10:45:52.869Z",
+    "publishDate": "2026-06-09T11:02:24.008Z",
+    "title": "奥尔特曼估值 25 亿美元的眼球扫描公司却被曝裁员",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 18:45:52",
+    "uuid": "5b1c4462-4baa-4691-8a14-f6a13c82c919"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "菲利华拟与武汉长盈通光电技术股份有限公司、湖北长翼共盈创业投资基金合伙企业共同出资设立湖北聚通石英新材料有限公司，合作建设光纤配套用高纯精密石英材料项目，主要生产光纤配套用衬管、套管等产品，预计产能 70 吨 / 年 ...",
+    "id": "8towipczk7j",
+    "order": 1781001950071,
+    "createdAt": "2026-06-09T10:45:50.071Z",
+    "publishDate": "2026-06-09T10:45:50.071Z",
+    "title": "菲利华：拟设立合资公司投资建设光纤配套用高纯精密石英材料项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 18:45:50",
+    "uuid": "17b7262c-72a0-426a-9c65-6e7d22585439"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "电商报" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "小马智行与 Bolt、Stellantis 在卢森堡联合启动自动驾驶出行试点项目，验证小马智行第七代自动驾驶车辆在实际交通环境中的安全性、性能表现及监管合规就绪度 ...",
+    "id": "8togiYMTVdT",
+    "order": 1781001725877,
+    "createdAt": "2026-06-09T10:42:05.877Z",
+    "publishDate": "2026-06-09T10:42:05.877Z",
+    "title": "小马智行与 Bolt、Stellantis 在卢森堡启动自动驾驶出行试点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 18:42:05",
+    "uuid": "51b83d57-91dd-443c-844e-3ccb81455b29"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "阿斯利康口服小分子 GLP-1 受体激动剂 Elecoglipron 在 VISTA IIb 期和 SOLSTICE IIb 期研究中均取得阳性结果，结果在 2026 年美国糖尿病协会年会上公布。",
+    "id": "8tnyPUA8DW3",
+    "order": 1781001095230,
+    "createdAt": "2026-06-09T10:31:35.220Z",
+    "publishDate": "2026-06-09T10:31:35.230Z",
+    "title": "阿斯利康口服减肥药取得 2 项 II 期临床阳性结果",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-09 18:31:35",
+    "uuid": "88288b09-c135-4139-babc-36456277e56b"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "量子位" },
       { "siteName": "格隆汇" },
