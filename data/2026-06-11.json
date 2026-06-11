@@ -1,6 +1,198 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "甲骨文 CFO 表示，截至 5 月 31 日的财年末，公司剩余履约义务规模达 6380 亿美元，同比激增 363%，预计其中 12% 将在未来 12 个月内确认为收入，另有 34% 将在未来 13 至 36 个月内确认 ...",
+    "id": "8trdgiAZm2V",
+    "order": 1781141482437,
+    "createdAt": "2026-06-11T01:31:22.437Z",
+    "publishDate": "2026-06-11T01:31:22.437Z",
+    "title": "甲骨文 CFO：公司积压订单达 6380 亿美元 体现市场对 AI 基建和云服务的需求旺盛",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 09:31:22",
+    "uuid": "3a4805a0-e6d9-4e72-a626-af37410f82d7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI CEO 山姆・奥特曼通过 Slack 告知员工，预计公司将在「未来一年内」进行首次公开募股（IPO），此前提交招股说明书是为保留更早上市的可选性 ...",
+    "id": "8trNy4BobuT",
+    "order": 1781141181979,
+    "createdAt": "2026-06-11T01:26:21.979Z",
+    "publishDate": "2026-06-11T01:26:21.979Z",
+    "title": "报道：奥特曼预计 OpenAI 将于未来一年内 IPO，GPT-5.6 或将本月发布",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 09:26:21",
+    "uuid": "cc091544-dca1-4cea-b024-e02334c1e85d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "天马微电子今日公布新一代 OLED 发光材料，结合全球首发的 NFB（新荧光蓝）技术和新一代 PSF（磷光敏化荧光）技术 ...",
+    "id": "8tqaxmmwQ0B",
+    "order": 1781140912904,
+    "createdAt": "2026-06-11T01:21:52.904Z",
+    "publishDate": "2026-06-11T01:21:52.904Z",
+    "title": "天马公布新一代 OLED 发光材料，全球首发新荧光蓝（NFB）技术",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 09:21:52",
+    "uuid": "1d3370da-ac21-49ce-821c-dd0ebab504bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "截至 6 月 10 日，上交所融资余额报 14478.58 亿元，较前一交易日减少 43.65 亿元。深交所融资余额报 14011.81 亿元，较前一交易日减少 37.26 亿元 ...",
+    "id": "8trcH0BvQ6u",
+    "order": 1781140270163,
+    "createdAt": "2026-06-11T01:11:10.163Z",
+    "publishDate": "2026-06-11T01:11:10.163Z",
+    "title": "两市融资余额减少 80.91 亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 09:11:10",
+    "uuid": "c44d6be6-4684-4b7e-a457-83d8b6010873"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "2026 年 6 月 11 日凌晨 1 时 40 分许，广西桂林市兴安县兴安镇灵湘路发生一起爆炸事件 ...",
+    "id": "8trcHBZaDTM",
+    "order": 1781140270225,
+    "createdAt": "2026-06-11T01:11:10.225Z",
+    "publishDate": "2026-06-11T01:11:10.225Z",
+    "title": "广西桂林兴安县凌晨发生爆炸事件 造成 7 死 17 伤",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 09:11:10",
+    "uuid": "9146f154-fe62-4798-8742-c4132bada9d8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "A 股 35 只旅游酒店股中，21 股获机构评级，14 股评级机构数达 5 家及以上，锦江酒店、首旅酒店、宋城演艺居前 ...",
+    "id": "8trap7XSdx5",
+    "order": 1781140267303,
+    "createdAt": "2026-06-11T01:11:07.302Z",
+    "publishDate": "2026-06-11T01:11:07.303Z",
+    "title": "暑期出行预订火热，机构预测 7 股营收高增长",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 09:11:07",
+    "uuid": "b28d588c-fe34-4c54-9eb9-a693c364b3c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "工业和信息化部办公厅、文化和旅游部办公厅组织开展 2026 消费名品全国行，活动时间 2026 年 5 月 —2027 年 4 月 ...",
+    "id": "8trcGdNlq5M",
+    "order": 1781140267319,
+    "createdAt": "2026-06-11T01:11:07.319Z",
+    "publishDate": "2026-06-11T01:11:07.319Z",
+    "title": "两部门：深入实施「人工智能 + 三品」专项行动 建设一批行业大模型和高质量数据集",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 09:11:07",
+    "uuid": "6ecc3d25-21e3-420d-a8df-7ee107fd44cb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "韩国海关数据显示，6 月前 10 天出口额同比增长 86% 至 286 亿美元，进口额同比增长 35.6% 至 234 亿美元，贸易顺差 52 亿美元。",
+    "id": "8trZMPOmwzl",
+    "order": 1781138756193,
+    "createdAt": "2026-06-11T00:45:56.193Z",
+    "publishDate": "2026-06-11T00:45:56.193Z",
+    "title": "韩国 6 月前 10 天出口额同比飙升 86%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 08:45:56",
+    "uuid": "fb40aa6d-c402-4bea-b3d2-3426fb40cbe7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "韩国综指跌幅扩大至 3%，现报 7461.2 点。",
+    "id": "8tpxNxI6J2o",
+    "order": 1781137876131,
+    "createdAt": "2026-06-11T00:31:16.131Z",
+    "publishDate": "2026-06-11T00:31:16.131Z",
+    "title": "韩国综指跌幅扩大至 3%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 08:31:16",
+    "uuid": "ad2ab1d3-2649-4adc-bab8-7f0300deed29"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "韩国 KOSPI 指数跌超 4%，现报 7412.30 点。日经 225 指数跌破 63000 点，创 5 月 22 日以来最低水平，日内跌近 2%。",
+    "id": "8trZNrT1YvX",
+    "order": 1781137876203,
+    "createdAt": "2026-06-11T00:31:16.203Z",
+    "publishDate": "2026-06-11T00:31:16.203Z",
+    "title": "韩国 KOSPI 指数跌超 4% 日经 225 指数跌近 2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-11 08:31:16",
+    "uuid": "a0a358b3-7c78-4209-9e16-d8fa34489a6d"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
