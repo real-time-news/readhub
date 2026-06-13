@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "腾讯网" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国政府以国家安全为由下令 Anthropic 禁止外国公民访问其最先进的 AI 模型，该指令适用于所有外国公民（包括其外籍员工），Anthropic 因此暂停所有用户对 Fable 5 和 Mythos 5 模型的访问，其其它模型访问不受影响，Anthropic 已要求 AWS 禁止所有地区所有用户对相关模型的访问，其多位核心成员出生于美国境外。",
+    "id": "8tuysaKo4dd",
+    "order": 1781367945488,
+    "createdAt": "2026-06-13T16:25:45.487Z",
+    "publishDate": "2026-06-13T16:25:45.488Z",
+    "title": "因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-14 00:25:45",
+    "uuid": "343032e8-0bad-4a5a-893e-016d66665962"
+  }
+]
