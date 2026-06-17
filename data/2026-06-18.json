@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "苹果公司正筹备于 2027 年春季推出第二代 iPhone Air，内部代号 V62，原型增加第二颗后置超广角摄像头，目前在内部进行高级测试，保留现有外观设计，同时努力改善电池续航，续航提升原因尚未明确。",
+    "id": "8u2tCZ3Uvd9",
+    "order": 1781727055441,
+    "createdAt": "2026-06-17T20:10:55.441Z",
+    "publishDate": "2026-06-17T20:10:55.441Z",
+    "title": "苹果筹备第二代 iPhone Air，预计 2027 年春季推出",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-18 04:10:55",
+    "uuid": "e1f22bb3-9173-49ee-b37e-98ca5215aded"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Stifel 表示，美联储最新点阵图显示大部分官员因通胀忧虑预计今年余下时间货币政策将维持停滞，市场普遍预期联邦公开市场委员会周三将维持基准贷款利率于 3.50% 至 3.75% 不变，为连续第四次按兵不动，首席经济师 Lindsey Piegza 指出，委员会料将自声明中移除宽松倾向，改为示意下次行动无论减息或加息的机率相若。",
+    "id": "8u1e1UzsCyL",
+    "order": 1781720746623,
+    "createdAt": "2026-06-17T18:25:46.623Z",
+    "publishDate": "2026-06-17T18:25:46.623Z",
+    "title": "Stifel：美联储点阵图或显示货币政策至年底维持停滞",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-18 02:25:46",
+    "uuid": "71f0be21-d92c-4d8f-990b-361c86ab828a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "阿斯麦控股首席执行官 Christophe Fouquet 表示，在服务于马斯克旗下的 Terafab 等新项目时，公司必须确保自身不会遭遇供应瓶颈，认为 Terafab 确实是一个重大的晶圆厂项目。",
+    "id": "8u2cfCLNGlO",
+    "order": 1781719838984,
+    "createdAt": "2026-06-17T18:10:38.984Z",
+    "publishDate": "2026-06-17T18:10:38.984Z",
+    "title": "阿斯麦警告：马斯克 Terafab 项目可能面临供应限制",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-18 02:10:38",
+    "uuid": "8a63a85c-be5c-49af-b7de-fbbb091489a6"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "同花顺财经" },
       { "siteName": "华尔街见闻" }
@@ -139,6 +190,23 @@
   {
     "newsArray": [
       { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "影石创新中国区负责人袁跃称，在与友商互诉专利侵权后遭遇黑水军有组织攻击，24 小时内多个平台涌现 1490 余个异常账号发布雷同评论 ...",
+    "id": "8u2KvUzxkYM",
+    "order": 1781722222034,
+    "createdAt": "2026-06-17T17:01:14.663Z",
+    "publishDate": "2026-06-17T18:50:22.034Z",
+    "title": "影石高管发声：专利诉讼期间遭遇黑水军攻击，异常账号集体涌现",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-18 01:01:14",
+    "uuid": "835fa009-ec47-49da-9ead-0b81bb47fe97"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
       { "siteName": "同花顺财经" },
       { "siteName": "格隆汇" }
     ],
@@ -169,5 +237,22 @@
     "up": false,
     "date": "2026-06-18 01:01:14",
     "uuid": "05073c29-b2de-4e5c-ad53-336816ea9bba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "雷锋网" }
+    ],
+    "summary": "阿里发布开放式世界模型产品 HappyOyster 1.0，该产品深度学习物理世界状态转移规律，能主动推演因果链并保持长程一致性，具备世界探索和实时导演两大核心能力，升级了攻击、跳跃、剧情回溯等交互功能，用户可通过一句话或一张图生成可互动、探索、改变的 AI 数字世界 ...",
+    "id": "8u2ch4NuHbm",
+    "order": 1781722233805,
+    "createdAt": "2026-06-17T16:30:50.039Z",
+    "publishDate": "2026-06-17T18:50:33.805Z",
+    "title": "阿里发布世界模型 HappyOyster 1.0，用户可实时探索、导演并重塑 AI 世界",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-18 00:30:50",
+    "uuid": "72e122d2-dc1e-4cd3-8764-9d4d545d0efe"
   }
 ]
