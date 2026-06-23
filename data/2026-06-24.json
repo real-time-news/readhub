@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "埃隆・马斯克旗下火箭公司 SpaceX 股价涨势急转直下，预计周二开盘下跌约 3%，连续第四个交易日走低，开盘价预计 150 美元，较上周二盘中高点 225 美元跌去超 30%，市值较上周二收盘时蒸发约 4000 亿美元 ...",
+    "id": "8uCP1udV3Fh",
+    "order": 1782245504330,
+    "createdAt": "2026-06-23T20:11:44.330Z",
+    "publishDate": "2026-06-23T20:11:44.330Z",
+    "title": "SpaceX 或迎连续第四个交易日走低，并导致 4000 亿美元市值蒸发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 04:11:44",
+    "uuid": "f1e1c318-444f-4c00-bcb8-30c15da3bec7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "6 月 23 日纽约尾盘，ICE 美元指数涨 0.35% 报 101.376 点，交投区间 100.952-101.433 点，持续走高逼近 2025 年 5 月 12 日、4 月 7 日及 3 月 26 日顶部 ...",
+    "id": "8uCp2fQRVsf",
+    "order": 1782245504331,
+    "createdAt": "2026-06-23T20:11:44.331Z",
+    "publishDate": "2026-06-23T20:11:44.331Z",
+    "title": "美元指数涨超 0.3%，一度创去年 5 月以来新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 04:11:44",
+    "uuid": "798923d6-cc90-4254-94e4-094331fa3fb2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI 推出名为「修补地球」的计划，与网络安全公司 Trail of Bits 合作，旨在助力开源社区提升网络安全防护能力、防范代码漏洞 ...",
+    "id": "8uBXOEcBg5i",
+    "order": 1782240081004,
+    "createdAt": "2026-06-23T18:41:21.004Z",
+    "publishDate": "2026-06-23T18:41:21.004Z",
+    "title": "OpenAI 推出「修补地球」计划，用 AI 助力开源社区提升网络安全",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 02:41:21",
+    "uuid": "86da29cb-dae3-41e2-b92e-0d91fedeb8b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "人工智能在医疗垂直领域应用获重要进展，新一代医疗增强大模型 Baichuan-M4 推出 ...",
+    "id": "8uBdp6dKdYD",
+    "order": 1782240081005,
+    "createdAt": "2026-06-23T18:41:21.005Z",
+    "publishDate": "2026-06-23T18:41:21.005Z",
+    "title": "百川智能发布 M4 模型，实现「真人医生」式主动问诊",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 02:41:21",
+    "uuid": "389a6846-48e9-4627-9f87-8dcc1b79997d"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
