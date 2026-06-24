@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "布伦特原油期货 8 月合约日内跌幅扩大至 4%，报 73.95 美元 / 桶。",
+    "id": "8uDxMczfYKb",
+    "order": 1782307557297,
+    "createdAt": "2026-06-24T13:25:57.297Z",
+    "publishDate": "2026-06-24T13:25:57.297Z",
+    "title": "布伦特原油期货 8 月合约日内跌幅扩大至 4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 21:25:57",
+    "uuid": "72a30c99-886c-4b4f-90e8-11dbabdfa298"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "博通 CEO 称 OpenAI 新芯片可节省 50% 成本，博通预计将比预期更快部署 OPENAI 芯片，博通美股盘前上涨 3%。",
+    "id": "8uE1l8siRwC",
+    "order": 1782307557298,
+    "createdAt": "2026-06-24T13:25:57.298Z",
+    "publishDate": "2026-06-24T13:25:57.298Z",
+    "title": "OpenAI 和博通发布 AI 芯片，旨在更快、更经济地运行模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 21:25:57",
+    "uuid": "4ac2bf24-a60b-4e05-a8b0-6bd02a71d91c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "十四届全国人大常委会第二十三次会议 23 日上午在北京人民大会堂举行第一次全体会议，赵乐际委员长主持 ...",
+    "id": "8uCRAjKRdPT",
+    "order": 1782306930684,
+    "createdAt": "2026-06-24T13:15:30.684Z",
+    "publishDate": "2026-06-24T13:15:30.684Z",
+    "title": "十四届全国人大常委会第二十三次会议在京举行 审议商标法修订草案等 赵乐际主持",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 21:15:30",
+    "uuid": "76c84847-a5f0-4c6b-8011-a1d5b57e8b04"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Meta 与微软在最近财季承诺数百亿美元额外数据中心租赁支出，推动大型云计算公司未来数据中心租赁承诺总额突破 8500 亿美元，进一步推高行业 AI 投入规模。",
+    "id": "8uE1QSmIhCw",
+    "order": 1782306691252,
+    "createdAt": "2026-06-24T13:11:31.252Z",
+    "publishDate": "2026-06-24T13:11:31.252Z",
+    "title": "Meta 与微软领跑 带动数据中心租赁承诺突破 8500 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 21:11:31",
+    "uuid": "fb806746-8c32-4352-a0a5-32bcac8ee3a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "兴业科技股票交易异常波动，澄清拟收购的磷化铟业务尚需董事会审议且存在不确定性，该业务规模小，对公司当期营收和净利润影响极小，公司主业为天然皮革材料加工，无半导体新材料领域经验，股价已脱离当前业绩，存在大幅波动风险。",
+    "id": "8uDzwuh2CSU",
+    "order": 1782306691259,
+    "createdAt": "2026-06-24T13:11:31.259Z",
+    "publishDate": "2026-06-24T13:11:31.259Z",
+    "title": "4 连板兴业科技：股票交易异常波动 收购磷化铟业务影响极小",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 21:11:31",
+    "uuid": "749383a6-871d-494d-84ce-e59a4cf74979"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "凤凰科技" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "我国成功研制全球首款可产生百万级原子光镊阵列的超表面芯片，突破了长期制约中性原子量子计算规模化扩展的核心光学瓶颈，为迈向百万比特量级通用容错量子计算补齐前置硬件能力。",
+    "id": "8uBmPZeLsH1",
+    "order": 1782306362559,
+    "createdAt": "2026-06-24T13:06:02.559Z",
+    "publishDate": "2026-06-24T13:06:02.559Z",
+    "title": "我国成功研制全球首款可产生百万级原子光镊阵列的超表面芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 21:06:02",
+    "uuid": "0bbaa5ce-62c0-466a-8f69-157c898ed46b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "ISC 2026 国际高性能计算大会发布最新 IO500 全球存储性能榜单，中科曙光 ParaStor F9000 分布式全闪存储包揽生产型全节点和 10 节点榜单双料冠军 ...",
+    "id": "8uDxL2K4ezl",
+    "order": 1782304877679,
+    "createdAt": "2026-06-24T12:41:17.679Z",
+    "publishDate": "2026-06-24T12:41:17.679Z",
+    "title": "中科曙光获 IO500 全球存储性能双榜第一",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 20:41:17",
+    "uuid": "8ea1515d-6a16-4d89-92c9-a3b747bbba97"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "德尔玛持股 5% 以上股东磐茂投资拟在公告披露之日起十五个交易日后的三个月内，以集中竞价及大宗交易方式合计减持公司股份不超过 2296.26 万股，占公司扣除回购股份后总股本的 5%。",
+    "id": "8uDxKF8vZkU",
+    "order": 1782304877689,
+    "createdAt": "2026-06-24T12:41:17.689Z",
+    "publishDate": "2026-06-24T12:41:17.689Z",
+    "title": "德尔玛：持股 5% 以上股东磐茂投资拟减持不超 5% 股份",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 20:41:17",
+    "uuid": "9313e186-5a1f-4afb-a5a7-83885e5fe66a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国产稀释制冷机 ez-Q F1500 首台 6 月 24 日正式下线，为我国后续千比特可纠错超导量子计算机的研制奠定基础。",
+    "id": "8uDyaW9zdPK",
+    "order": 1782304877693,
+    "createdAt": "2026-06-24T12:41:17.693Z",
+    "publishDate": "2026-06-24T12:41:17.693Z",
+    "title": "国产单核心大冷量稀释制冷机成功下线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 20:41:17",
+    "uuid": "5725c1aa-65d4-4544-b897-3f476721da41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "圣邦股份确定 H 股发行价格为每股 85.20 港元，预计于 2026 年 6 月 26 日在香港联交所主板挂牌上市交易。",
+    "id": "8uDxKKgxPOi",
+    "order": 1782303104894,
+    "createdAt": "2026-06-24T12:11:44.894Z",
+    "publishDate": "2026-06-24T12:11:44.894Z",
+    "title": "圣邦股份：确定 H 股发行价格为每股 85.20 港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-24 20:11:44",
+    "uuid": "6d22d5c2-c7d8-4800-9aac-9503970bcf87"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "36Kr" }
