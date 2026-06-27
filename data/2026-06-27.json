@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "界面" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "委内瑞拉全国代表大会主席豪尔赫・罗德里格斯 26 日表示，该国 24 日发生的强震遇难人数已升至 920 人。拉美和加勒比国家共同体向遇难者表示哀悼，呼吁成员国参与救援。",
+    "id": "8uHi3uSUIAI",
+    "order": 1782517575738,
+    "createdAt": "2026-06-26T23:46:15.738Z",
+    "publishDate": "2026-06-26T23:46:15.738Z",
+    "title": "委强震遇难人数攀升 拉共体呼吁成员国参与救援",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-27 07:46:15",
+    "uuid": "59c4ef42-4fd8-47b5-9bad-902a76c4c535"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "市场监管总局正会同相关部门加快智能体等前沿技术领域标准制定速度，动态完善适配产业发展的人工智能国家标准矩阵 ...",
+    "id": "8uHCkSNPTSX",
+    "order": 1782517244539,
+    "createdAt": "2026-06-26T23:40:44.539Z",
+    "publishDate": "2026-06-26T23:40:44.539Z",
+    "title": "我国加快智能体等前沿技术领域标准制定速度",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-27 07:40:44",
+    "uuid": "932ce23c-079f-483c-9a3a-342a3b237a21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美股三大指数收盘集体下跌，道指跌 0.09%，纳指跌 0.24%，标普 500 指数跌 0.06% ...",
+    "id": "8uHqfoVJCTP",
+    "order": 1782515429653,
+    "createdAt": "2026-06-26T23:10:29.653Z",
+    "publishDate": "2026-06-26T23:10:29.653Z",
+    "title": "纳指收跌 0.2% 芯片股下挫 西部数据大跌 13%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-27 07:10:29",
+    "uuid": "26b93803-2883-4a95-a0d7-4060ac3477d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国政府已于周五解除对 Anthropic 旗下人工智能模型 Claude Mythos 5 的禁令，允许该公司向 100 多家美国机构发布该模型，包括大型企业和政府机构 ...",
+    "id": "8uHlK0DvaDz",
+    "order": 1782515428192,
+    "createdAt": "2026-06-26T23:10:28.192Z",
+    "publishDate": "2026-06-26T23:10:28.192Z",
+    "title": "报道：美国向部分美国企业开放 Anthropic 的 Mythos 模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-27 07:10:28",
+    "uuid": "f4385306-c874-403d-b3ac-49d2454388dd"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" },
