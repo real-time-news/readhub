@@ -3,6 +3,23 @@
     "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "一个勒索软件组织从苹果印度供应商塔塔电子窃取数据后，在暗网上发布了苹果即将推出的 iPhone 18 Pro 机型照片及敏感零部件和供应商名单，威胁到苹果的 iPhone 生产体系 ...",
+    "id": "8uMhrUP6xqd",
+    "order": 1782763897699,
+    "createdAt": "2026-06-29T20:11:37.699Z",
+    "publishDate": "2026-06-29T20:11:37.699Z",
+    "title": "苹果 iPhone 18 Pro 供应链机密遭暗网曝光，涉印度供应商塔塔泄密事件",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-30 04:11:37",
+    "uuid": "c9ad681a-9ac1-4dec-b869-f64858413508"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
     ],
     "summary": "美股费城半导体指数涨超 3%，成分股中应用材料涨超 11%，科磊涨近 10%，阿斯麦涨超 4%。",
@@ -32,5 +49,25 @@
     "up": false,
     "date": "2026-06-30 00:41:55",
     "uuid": "83586ed7-5d9e-4c0e-b58b-d10f3f7ba275"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "内部文件显示，Meta Platforms 因担心模型蒸馏风险，对 Claude 和 Codex 的使用施加限制。",
+    "id": "8uMLOeR9ZGf",
+    "order": 1782764419416,
+    "createdAt": "2026-06-29T16:11:46.475Z",
+    "publishDate": "2026-06-29T20:20:19.416Z",
+    "title": "Meta 因担心模型蒸馏风险 对 Claude 和 Codex 使用施加限制",
+    "type": "topic",
+    "up": false,
+    "date": "2026-06-30 00:11:46",
+    "uuid": "38204771-58ac-4959-9125-95ec0755259f"
   }
 ]
