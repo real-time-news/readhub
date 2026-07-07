@@ -1,6 +1,180 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "富时中国 A50 指数期货跌幅扩大至 1%。",
+    "id": "8uYm3y7bMoi",
+    "order": 1783401955301,
+    "createdAt": "2026-07-07T05:25:55.301Z",
+    "publishDate": "2026-07-07T05:25:55.301Z",
+    "title": "富时中国 A50 指数期货跌 1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 13:25:55",
+    "uuid": "abf38e61-6eb4-4b73-bc2f-7ec9a3c6a53d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "针对外媒关于 Kyber 机架平台可能延期至 2028 年推出的报道，英伟达发言人回应称路线图保持不变 ...",
+    "id": "8uYv2ZovtwX",
+    "order": 1783401359627,
+    "createdAt": "2026-07-07T05:15:59.627Z",
+    "publishDate": "2026-07-07T05:15:59.627Z",
+    "title": "英伟达回应「Kyber 机架平台延后」消息：我们的路线图保持不变",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 13:15:59",
+    "uuid": "480aa9cb-ae3e-4564-b9ec-e656e1c0968d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股三大指数今日低开，恒指跌 0.2%，国指跌 0.41%，恒生科技指数跌 0.37% ...",
+    "id": "8uYoC2lYUgt",
+    "order": 1783401357450,
+    "createdAt": "2026-07-07T05:15:57.450Z",
+    "publishDate": "2026-07-07T05:15:57.450Z",
+    "title": "港股早评：三大指数低开，三星业绩「利好落地」半导体普跌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 13:15:57",
+    "uuid": "16ad8d46-ba18-451e-9a9e-b050558a0b3d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "国家发展改革委表示，目前我国人工智能原生办公智能体月访问量超 2000 万次，日均词元调用量达数百万亿次，较去年大幅提升。",
+    "id": "8uYvjojSG6a",
+    "order": 1783401357452,
+    "createdAt": "2026-07-07T05:15:57.452Z",
+    "publishDate": "2026-07-07T05:15:57.452Z",
+    "title": "国家发改委：目前我国人工智能原生办公智能体月访问量超 2000 万次",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 13:15:57",
+    "uuid": "3eb422a2-3185-49a8-8bdb-5c67fba66999"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "韩国交易所因 KOSPI 200 期货下跌 5% 启动 KOSPI 熔断机制，程序化交易暂停 5 分钟。",
+    "id": "8uYoEGkatyG",
+    "order": 1783401064882,
+    "createdAt": "2026-07-07T05:11:04.882Z",
+    "publishDate": "2026-07-07T05:11:04.882Z",
+    "title": "韩国交易所启动熔断机制 程序化交易暂停 5 分钟",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 13:11:04",
+    "uuid": "0f840ba0-ca7e-4d2d-a564-859b4fe2bd5f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "受持续热浪影响，西班牙多地发生山火并蔓延。加泰罗尼亚自治区逾 4 万人受影响，其中巴塞罗那省两处山火一度失控致超 4 万人就地避险，列伊达省一处山火已得到控制，该自治区启动最高级别森林火险预警 ...",
+    "id": "8uZ14P8GAZM",
+    "order": 1783400736137,
+    "createdAt": "2026-07-07T05:05:36.137Z",
+    "publishDate": "2026-07-07T05:05:36.137Z",
+    "title": "西班牙多地山火蔓延加泰罗尼亚地区逾 4 万人受影响",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 13:05:36",
+    "uuid": "91e96f12-eee4-40c7-a0d9-fe8bfa42db34"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "近日，深圳无界智航科技有限公司发生工商变更，新增百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，穆世龙卸任法定代表人由熊祺接任，注册资本由 60 万人民币增至约 564.4 万人民币 ...",
+    "id": "8uZ14DUQEnC",
+    "order": 1783399309038,
+    "createdAt": "2026-07-07T04:41:49.038Z",
+    "publishDate": "2026-07-07T04:41:49.038Z",
+    "title": "百度旗下基金等入股无界智航",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 12:41:49",
+    "uuid": "22f05f6b-806c-4c37-a796-02488a3f35c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "必和必拓获智利埃斯康迪达铜矿扩张项目首个重大环保批准，标志着总价 147 亿美元的系列工程正式启动。",
+    "id": "8uYuNhZdPfT",
+    "order": 1783399303267,
+    "createdAt": "2026-07-07T04:41:43.267Z",
+    "publishDate": "2026-07-07T04:41:43.267Z",
+    "title": "必和必拓获批启动智利 150 亿美元铜矿扩张",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 12:41:43",
+    "uuid": "aee35c5a-626e-4ce4-ae28-1627dd2b19b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "36Kr" },
+      { "siteName": "aibase" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "蚂蚁集团旗下灵波科技发布空间感知模型 LingBot-Depth 2.0，该模型经 1.5 亿规模数据训练，在多方面实现全面升级 ...",
+    "id": "8uYv4yIYvLn",
+    "order": 1783397738146,
+    "createdAt": "2026-07-07T04:15:38.146Z",
+    "publishDate": "2026-07-07T04:15:38.146Z",
+    "title": "蚂蚁灵波发布空间感知模型 LingBot-Depth 2.0",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 12:15:38",
+    "uuid": "ebfc0a66-4124-4276-92a9-bc365892e234"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "招商证券国际指出，腾讯正式发布混元 Hy3 大模型，为 Hy3preview 的正式迭代版本，沿用 295B 总参数 / 21B 激活参数的 MoE 架构、256K 上下文 ...",
+    "id": "8uYv30YdJZU",
+    "order": 1783397738149,
+    "createdAt": "2026-07-07T04:15:38.149Z",
+    "publishDate": "2026-07-07T04:15:38.149Z",
+    "title": "大行评级丨招商证券国际：维持腾讯「增持」评级，AI 资产的隐含价值将迎来重估",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-07 12:15:38",
+    "uuid": "b32d2529-5039-43ec-ac01-0b7fc4864306"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" }
