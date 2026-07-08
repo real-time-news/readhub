@@ -1,6 +1,82 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美联储 6 月会议纪要显示，第二季度实际 GDP 增长稳健，实际私人国内最终支出回升且增速超 GDP，实际消费支出表现强劲 ...",
+    "id": "8ubeL879pmg",
+    "order": 1783539694500,
+    "createdAt": "2026-07-08T19:41:34.500Z",
+    "publishDate": "2026-07-08T19:41:34.500Z",
+    "title": "美联储会议纪要：AI 持续推动数据中心、高科技设备和软件的实际投资支出",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 03:41:34",
+    "uuid": "d27739f4-8221-4f3b-9903-30bcec9b62de"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国 5 月消费者信贷环比减少 1.8245 亿美元，预估为增加 175 亿美元。",
+    "id": "8ubg9jGvcq0",
+    "order": 1783538770856,
+    "createdAt": "2026-07-08T19:26:10.856Z",
+    "publishDate": "2026-07-08T19:26:10.856Z",
+    "title": "美国 5 月消费者信贷环比减少 1.8245 亿美元，预估为增加 175 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 03:26:10",
+    "uuid": "fe47f91d-045b-44f6-8451-63b273bbe648"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "OpenAI发布全新的语音模型GPT-Live，同步升级ChatGPT语音模式（ChatGPT Voice） ...",
+    "id": "8ubXHzJdPXV",
+    "order": 1783537769448,
+    "createdAt": "2026-07-08T18:40:57.141Z",
+    "publishDate": "2026-07-08T19:09:29.448Z",
+    "title": "OpenAI推出GPT-Live语音模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 02:40:57",
+    "uuid": "b67d9fd8-050e-410d-8271-5f21d3b681f7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "SpaceXAI 与 AI 编程初创公司 Cursor 联合发布 Grok4.5 人工智能模型，旨在缩小与行业竞争对手的差距，可处理软件工程、法律、金融服务等复杂长期任务，还增强了网络安全能力。",
+    "id": "8uba2jSUJWU",
+    "order": 1783534246375,
+    "createdAt": "2026-07-08T18:10:46.375Z",
+    "publishDate": "2026-07-08T18:10:46.375Z",
+    "title": "SpaceXAI 与 Cursor 联合发布 Grok AI 模型，主打法律与金融任务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 02:10:46",
+    "uuid": "8dfebd65-c2f6-47cc-a5d9-086dcf365fbe"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
