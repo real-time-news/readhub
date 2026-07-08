@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "工信部网络安全威胁和漏洞信息共享平台监测发现，美国 Anthropic 公司开发的 AI 编程工具 Claude Code（2.1.91 至 2.1.196 版本）存在安全后门隐患，其内置监控机制可未经用户同意回传用户地域、身份标识等敏感信息 ...",
+    "id": "8uamIPf3hTN",
+    "order": 1783491382008,
+    "createdAt": "2026-07-08T06:16:22.008Z",
+    "publishDate": "2026-07-08T06:16:22.008Z",
+    "title": "工信部发布关于防范 AI 编程工具 Claude Code 安全后门隐患的风险提示",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 14:16:22",
+    "uuid": "8e6c012b-539f-404e-835a-c09f3e9efb64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "快科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家疾控局、国家卫生健康委联合印发《国家免疫规划疫苗儿童免疫程序及说明（2026 年版）》，明确国家免疫规划疫苗可按程序或补种原则同时接种 ...",
+    "id": "8uaUxQYMJcw",
+    "order": 1783491382246,
+    "createdAt": "2026-07-08T06:16:22.246Z",
+    "publishDate": "2026-07-08T06:16:22.246Z",
+    "title": "双价 HPV 疫苗纳入国家免疫规划 13 周岁女孩可免费接种",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 14:16:22",
+    "uuid": "b00b452b-0a52-4e64-9cc8-b99a31ee3ada"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "*ST 闻泰 (600745.SH) 直线拉升大涨近 8%，消息面上，7 月 7 日中荷经贸混委会第 18 次会议召开，中方希望荷方为中国企业赴荷投资营造公平环境，保持半导体产供链稳定，推动解决有关企业纠纷。",
+    "id": "8uakFWfkX8Z",
+    "order": 1783491382926,
+    "createdAt": "2026-07-08T06:16:22.926Z",
+    "publishDate": "2026-07-08T06:16:22.926Z",
+    "title": "*ST 闻泰拉升涨近 8%，商务部促荷方保持半导体供应链稳定，推动妥善解决企业纠纷",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 14:16:22",
+    "uuid": "db7100d3-bf71-4585-818a-b844d7192b67"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中老铁路自 2021 年 12 月 3 日开通运营以来，跨境货物运输量节节攀升，截至 7 月 8 日累计突破 2000 万吨，开行跨境货物列车超 2.3 万列，今年以来日均运输跨境货物 1.7 万吨，同比稳定增长，全线累计货物运输量也突破 2000 万吨大关。",
+    "id": "8uahrC2UvNa",
+    "order": 1783491381601,
+    "createdAt": "2026-07-08T06:16:21.601Z",
+    "publishDate": "2026-07-08T06:16:21.601Z",
+    "title": "中老铁路跨境货物运输量突破 2000 万吨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 14:16:21",
+    "uuid": "e5d999a2-05cb-44de-9dfd-4ea9775b180f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Marshall 推出音质和易用性均有提升的家用蓝牙音箱新品 Acton IV 和 Stanmore IV，国行定价分别为 2499 元和 3499 元 ...",
+    "id": "8uaZb1QxHHT",
+    "order": 1783491381909,
+    "createdAt": "2026-07-08T06:16:21.909Z",
+    "publishDate": "2026-07-08T06:16:21.909Z",
+    "title": "音质升级：Marshall 推出家用蓝牙音箱 Acton IV、Stanmore IV",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 14:16:21",
+    "uuid": "1a11753f-33fc-42ee-8521-2bf7eeec0ece"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "沪深两市成交额突破 1.5 万亿，较上一日此时放量超 300 亿，预计全天成交金额超 2.5 万亿。",
+    "id": "8uaaZe10x0v",
+    "order": 1783491380353,
+    "createdAt": "2026-07-08T06:16:20.353Z",
+    "publishDate": "2026-07-08T06:16:20.353Z",
+    "title": "沪深两市成交额突破 1.5 万亿 较上一日此时放量超 300 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 14:16:20",
+    "uuid": "ff8de422-c1bd-401f-a06f-92781f5eed64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "港股高开高走，恒生科技指数午后大涨 5%，恒生指数涨超 3%。智谱涨超 14%，阿里巴巴-W 涨超 12%，联想集团、快手-W、小米集团-W 涨超 8%。",
+    "id": "8uai6nENrB9",
+    "order": 1783491380355,
+    "createdAt": "2026-07-08T06:16:20.355Z",
+    "publishDate": "2026-07-08T06:16:20.355Z",
+    "title": "港股高开高走，恒生科技指数午后大涨 5%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 14:16:20",
+    "uuid": "cf5a1331-0728-4e58-86fd-19044d842ebe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "7 月 7 日，商务部部长王文涛与荷兰外贸与发展合作大臣舍尔茨玛在北京共同主持召开中荷经贸混委会第 18 次会议，双方就中荷、中欧经贸关系坦诚深入交换意见 ...",
+    "id": "8uajBPssGog",
+    "order": 1783489581327,
+    "createdAt": "2026-07-08T05:46:21.327Z",
+    "publishDate": "2026-07-08T05:46:21.327Z",
+    "title": "中荷经贸混委会第 18 次会议在京举行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 13:46:21",
+    "uuid": "db3f3d38-724e-4cbd-a7ad-679ecaef9722"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "7 月 8 日，我国起吊能力最大的全回转半潜起重船「四航永盛」号在广东江门正式交付投用 ...",
+    "id": "8uajBJuA8wK",
+    "order": 1783489581327,
+    "createdAt": "2026-07-08T05:46:21.327Z",
+    "publishDate": "2026-07-08T05:46:21.327Z",
+    "title": "我国起吊能力最大全回转半潜起重船今天交付投用",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 13:46:21",
+    "uuid": "4244d1d4-6c99-4002-8b42-48cde4a30c3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "午后华为算力（核心股）概念持续走强，广电运通封涨停，荣联科技、恒为科技此前涨停，并行科技等多股跟涨 ...",
+    "id": "8uakERZbSmd",
+    "order": 1783489581328,
+    "createdAt": "2026-07-08T05:46:21.328Z",
+    "publishDate": "2026-07-08T05:46:21.328Z",
+    "title": "华为算力概念持续走强 广电运通等多股涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-08 13:46:21",
+    "uuid": "f04787a0-0ea3-478f-b8b9-48831087ed5e"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" }
