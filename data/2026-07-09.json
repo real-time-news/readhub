@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "同花顺各类信息服务基于人工智能算法，如有出入请以证监会指定上市公司信息披露平台为准。",
+    "id": "8ucxRN19y5D",
+    "order": 1783604753090,
+    "createdAt": "2026-07-09T13:45:53.090Z",
+    "publishDate": "2026-07-09T13:45:53.090Z",
+    "title": "MiniMax 拟发行 65 亿港元可转换债券，2027 年到期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 21:45:53",
+    "uuid": "3315f29a-a232-4aa9-9d1d-9c75d90f88cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "阳光电源发布面向 AIDC 的核心供电设备 EnerNeo 固态变压器，该设备输入电压等级 10-13.8 kVac，兼容亚洲及北美等主要电力市场，输出电压等级为 800 Vdc ...",
+    "id": "8ucYA2zDbEz",
+    "order": 1783604464245,
+    "createdAt": "2026-07-09T13:41:04.245Z",
+    "publishDate": "2026-07-09T13:41:04.245Z",
+    "title": "阳光电源发布 AIDC 固态变压器新品 兼容亚洲及北美等主要电力市场",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 21:41:04",
+    "uuid": "c8bc2200-345d-4f33-bcce-4bb0af8dc482"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "通业科技公告，持股 5% 以上股东天津英伟达创业投资合伙企业 (有限合伙) 持有公司 19.77% 股份，计划自公告披露之日起 15 个交易日后的 3 个月内，通过集中竞价、大宗交易方式减持不超过总股本 3% 的股份，其中集中竞价任意连续 90 个自然日内减持不超总股本 1%，大宗交易不超总股本 2%，减持原因为自身资金需求，价格依市场价确定。",
+    "id": "8uct9UAhPWx",
+    "order": 1783604464467,
+    "createdAt": "2026-07-09T13:41:04.467Z",
+    "publishDate": "2026-07-09T13:41:04.467Z",
+    "title": "通业科技：股东天津英伟达拟减持不超过 3% 股份",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 21:41:04",
+    "uuid": "4c525e62-73fb-4762-906c-042aeafa2cc0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "芯原股份公告，持股 5.0941% 的股东国家集成电路产业投资基金股份有限公司，计划于 2026 年 7 月 31 日至 10 月 30 日通过集中竞价交易方式减持不超 105.18 万股（占比不超 0.20%），减持原因为自身经营管理需要。",
+    "id": "8ucvIYR1l3J",
+    "order": 1783603541311,
+    "createdAt": "2026-07-09T13:25:41.311Z",
+    "publishDate": "2026-07-09T13:25:41.311Z",
+    "title": "芯原股份：国家集成电路基金拟减持不超过 0.20% 股份",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 21:25:41",
+    "uuid": "bbac235c-6aba-4de7-be6f-6ff681cde83a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "ST 银江 (300020.SZ) 及控股股东银江科技集团有限公司于 2026 年 7 月 9 日因涉嫌信息披露违法违规被证监会立案，目前公司生产经营正常，该事项不会对公司生产经营产生重大影响。",
+    "id": "8uctqLfb8UB",
+    "order": 1783602949387,
+    "createdAt": "2026-07-09T13:15:49.386Z",
+    "publishDate": "2026-07-09T13:15:49.387Z",
+    "title": "ST 银江：因涉嫌信息披露违法违规 公司及控股股东被证监会立案",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 21:15:49",
+    "uuid": "d4faaf6e-73b9-4634-87a7-4097f8537faa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "大疆首款垂直起降运载无人机 DJI EV50 在珠峰北坡抵御极寒、强风与超低气压，抵达 8861 米作业高度，在为期 12 天的科考任务中累计完成 32 架次起降，最大连续爬升高度 3730 米，帮助科考队首次完成对流层高层大气污染物精细化采样，补齐高空环境监测数据缺口。",
+    "id": "8ucPAuPFyDO",
+    "order": 1783602679750,
+    "createdAt": "2026-07-09T13:11:19.750Z",
+    "publishDate": "2026-07-09T13:11:19.750Z",
+    "title": "大疆无人机飞上珠峰高空探大气，抵达 8861 米最高飞行海拔",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 21:11:19",
+    "uuid": "f029a139-ddc4-49f2-aad1-3709ffcbc2ff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "199IT" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "CounterPoint Research 最新报告显示，全球消费级 WiFi CPE 赛道进入存量调整阶段，今年一季度全球零售端该类设备总出货量同比降 6%，较 2021 年峰值累计下滑近 34% ...",
+    "id": "8ucGYXBRRty",
+    "order": 1783602677078,
+    "createdAt": "2026-07-09T13:11:17.078Z",
+    "publishDate": "2026-07-09T13:11:17.078Z",
+    "title": "Counterpoint：2026 年 Q1 全球 WiFi CPE 出货量同比降 6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 21:11:17",
+    "uuid": "fb7a34b7-df3e-4fca-aebb-393306acee1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "199IT" },
+      { "siteName": "199IT" },
+      { "siteName": "199IT" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "2026 年第二季度全球 PC 出货量同比降 4.9% 至 6820 万台，系连续九个季度增长后首次下滑，主因是内存芯片短缺促使厂商提前压货 ...",
+    "id": "8uc2kXOotEa",
+    "order": 1783602677094,
+    "createdAt": "2026-07-09T13:11:17.094Z",
+    "publishDate": "2026-07-09T13:11:17.094Z",
+    "title": "IDC：第二季度全球 PC 出货量同比下降 4.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 21:11:17",
+    "uuid": "5c39d998-7f74-460c-b210-ebc3e05faff6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "证监会同意上海燧原科技股份有限公司首次公开发行股票注册及科创板上市的注册申请。",
+    "id": "8ucot709NPF",
+    "order": 1783599334568,
+    "createdAt": "2026-07-09T12:15:34.568Z",
+    "publishDate": "2026-07-09T12:15:34.568Z",
+    "title": "燧原科技科创板 IPO 申请获证监会同意注册批复",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 20:15:34",
+    "uuid": "6cacf4ba-6076-4290-957d-2cb533d6e22f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华神科技 (000790.SZ) 公告，公司 2026 年度向特定对象发行股票申请获深交所上市审核中心审核通过。",
+    "id": "8ucqzH3kW7e",
+    "order": 1783599332794,
+    "createdAt": "2026-07-09T12:15:32.794Z",
+    "publishDate": "2026-07-09T12:15:32.794Z",
+    "title": "华神科技：向特定对象发行股票申请获深交所审核通过",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-09 20:15:32",
+    "uuid": "099b80c6-09f1-4252-a13d-18fa117fc2ba"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "金融界" },
       { "siteName": "同花顺财经" },
