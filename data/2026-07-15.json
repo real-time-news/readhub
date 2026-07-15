@@ -1,6 +1,171 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "蓝点网" }
+    ],
+    "summary": "马斯克旗下的 AI 编程辅助代码编辑器 Cursor 存在可执行任意代码的安全漏洞，攻击者在仓库顶层放置恶意 git.exe，Cursor 会无提示优先或直接执行该文件 ...",
+    "id": "8umRE6oHtGk",
+    "order": 1784103630979,
+    "createdAt": "2026-07-15T08:20:30.979Z",
+    "publishDate": "2026-07-15T08:20:30.979Z",
+    "title": "马斯克旗下 AI 编程工具 Cursor 曝安全漏洞：可执行任意代码，报告 7 个月未修复",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-15 16:20:30",
+    "uuid": "9385102d-4e93-4cd4-a378-a7555f72b0a4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "金山办公即将推出主打个人专业办公助理的独立 AI 原生办公智能体 —— 灵犀专业版，该产品将率先上线 PC 版，可理解用户个人工作上下文，联动调用 WPS 文档内核与各类外部工具，将指令转化为可编辑、可追溯、支持多人协作的实体办公成果。",
+    "id": "8umP2oPYNB1",
+    "order": 1784103629737,
+    "createdAt": "2026-07-15T08:20:29.737Z",
+    "publishDate": "2026-07-15T08:20:29.737Z",
+    "title": "金山办公将推出独立 AI 办公智能体灵犀专业版，率先上线 PC 端",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-15 16:20:29",
+    "uuid": "23453d9d-006b-4b7b-ae4a-04f678884425"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "巴克莱银行分析师称存储芯片供应短缺将持续较长时间，2027 年进一步加剧、2028 年改善有限，存储芯片板块股票被严重低估 ...",
+    "id": "8umVTTA5ngW",
+    "order": 1784103323258,
+    "createdAt": "2026-07-15T08:15:23.258Z",
+    "publishDate": "2026-07-15T08:15:23.258Z",
+    "title": "华尔街看好 SK 海力士 ADR 上涨空间 称存储芯片短缺或持续",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-15 16:15:23",
+    "uuid": "52189862-19c5-4af5-8147-25a9fcc51f4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "白鲸出海" },
+      { "siteName": "速途网" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "完美世界发布 2026 年半年度业绩预告，上半年预计归母净亏损 8000 万元至 1.2 亿元，扣非净亏损 1.8 亿元至 2.2 亿元 ...",
+    "id": "8ul9vmTNF7f",
+    "order": 1784103322997,
+    "createdAt": "2026-07-15T08:15:22.997Z",
+    "publishDate": "2026-07-15T08:15:22.997Z",
+    "title": "完美世界 2026 中报预告：《异环》市场表现良好 多元储备后劲充足",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-15 16:15:22",
+    "uuid": "8f7a1c97-4f74-4018-8dbe-6769ce58723c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子公布用于下一代 Galaxy 折叠手机的 Flex Titanium 钛基显示技术，该技术可降低折痕可见度、提升耐用性，还能实现设备更轻薄设计与更高能效，将首次应用于 7 月 22 日在伦敦发布的第八代折叠屏智能手机 ...",
+    "id": "8ulyzN81KSq",
+    "order": 1784103321536,
+    "createdAt": "2026-07-15T08:15:21.536Z",
+    "publishDate": "2026-07-15T08:15:21.536Z",
+    "title": "三星发布钛金属折叠屏技术 下一代 Galaxy Fold 手机折痕更浅、更耐用",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-15 16:15:21",
+    "uuid": "375ccb4a-2255-4a7d-8bb6-3f16551710c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家能源局发布数据显示，6 月份全社会用电量 8981 亿千瓦时，同比增长 3.7%。分产业看，第一产业用电量 136 亿千瓦时，同比增 2.0% ...",
+    "id": "8umVTbkbHha",
+    "order": 1784103028251,
+    "createdAt": "2026-07-15T08:10:28.251Z",
+    "publishDate": "2026-07-15T08:10:28.251Z",
+    "title": "国家能源局：1-6 月份全社会用电量同比增长 5.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-15 16:10:28",
+    "uuid": "dc9b5a99-44ab-49ea-b2b3-baf9f760ae41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中国人民银行新闻发言人、副行长邹澜 15 日在国新办新闻发布会上表示，下一步将继续平稳有序推动货币政策操作框架改革完善，更好引导市场隔夜利率在政策利率附近平稳运行 ...",
+    "id": "8umV7q4EZwt",
+    "order": 1784101843220,
+    "createdAt": "2026-07-15T07:50:43.220Z",
+    "publishDate": "2026-07-15T07:50:43.220Z",
+    "title": "央行：研究逐步增加隔夜逆回购的操作频率",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-15 15:50:43",
+    "uuid": "2c79268c-f5b4-495f-952a-f9aaeae18ca9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "中国人民银行新闻发言人、副行长邹澜 7 月 15 日在国新办新闻发布会上表示，向前看影响人民币汇率的因素多元，升贬值因素均存在，人民币汇率预计将继续双向波动。",
+    "id": "8umV7DVcsTG",
+    "order": 1784101843676,
+    "createdAt": "2026-07-15T07:50:43.676Z",
+    "publishDate": "2026-07-15T07:50:43.676Z",
+    "title": "央行：人民币汇率预计会继续双向波动",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-15 15:50:43",
+    "uuid": "98dfd7a8-1261-43f2-b3d2-0be855aab4b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家统计局表示，上半年我国新兴产业发展壮大，规模以上高技术制造业、数字产品制造业增加值分别增长 13.3% 和 12.3%，增速较一季度加快 ...",
+    "id": "8umOKEuKMW2",
+    "order": 1784101841357,
+    "createdAt": "2026-07-15T07:50:41.357Z",
+    "publishDate": "2026-07-15T07:50:41.357Z",
+    "title": "国家统计局：上半年我国芯片日均产量超 15 亿块",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-15 15:50:41",
+    "uuid": "3f9c5995-35c5-48c8-9df3-f83c5ffba025"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "金融界" },
       { "siteName": "新浪科技" },
