@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "周三，戴尔（DELL.US）跌幅扩大至 13%，为 2025 年 4 月以来最大跌幅，现报 401.99 美元，其所在的电脑硬件及存储板块今日集体走弱，行业整体回调拖累其股价。",
+    "id": "8umzUG3UfEG",
+    "order": 1784149834520,
+    "createdAt": "2026-07-15T21:10:34.520Z",
+    "publishDate": "2026-07-15T21:10:34.520Z",
+    "title": "戴尔 (DELL.US) 跌幅扩大至 13% 为 2025 年 4 月以来最大跌幅",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-16 05:10:34",
+    "uuid": "93387698-1330-4c0a-a9cf-4b9f830670f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "7 月 15 日纽约尾盘，ICE 美元指数跌 0.45% 报 100.465 点，彭博美元指数跌 0.31% 报 1214.20 点 ...",
+    "id": "8unN4asLNFS",
+    "order": 1784148323838,
+    "createdAt": "2026-07-15T20:45:23.838Z",
+    "publishDate": "2026-07-15T20:45:23.838Z",
+    "title": "美元指数跌超 0.4%，CPI 和 PPI 带来两连跌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-16 04:45:23",
+    "uuid": "ad789929-fd66-4f31-90b2-0bef6baa2302"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "界面" }
