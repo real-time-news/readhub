@@ -1,6 +1,152 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "欧洲主要股指集体收涨，英国富时 100 指数涨 0.58%，法国 CAC40 指数涨 0.18%，德国 DAX30 指数涨 0.59%，富时意大利 MIB 指数涨 0.81%。",
+    "id": "8uwNBRDLhfy",
+    "order": 1784648723398,
+    "createdAt": "2026-07-21T15:45:23.398Z",
+    "publishDate": "2026-07-21T15:45:23.398Z",
+    "title": "欧洲主要股指集体收涨 德国 DAX30 指数涨 0.59%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 23:45:23",
+    "uuid": "39aa5b62-96fa-4b96-bd9a-143f1d9ec179"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "苹果公司正准备推出支持大部分 iPhone、Mac、iPad 和 Apple Watch 型号的「Apple Upgrade」租赁计划，该计划运作模式类似订阅制，用户可选择提前付清款项、提前升级新机型或租赁期结束后保留设备，苹果将以其月供低于现有融资方案进行宣传，并停止现有 iPhone 付款计划的新用户注册为该计划让路。",
+    "id": "8uwzlWL4wIY",
+    "order": 1784648436595,
+    "createdAt": "2026-07-21T15:40:36.595Z",
+    "publishDate": "2026-07-21T15:40:36.595Z",
+    "title": "苹果将推出「升级」设备租赁计划以提振销量",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 23:40:36",
+    "uuid": "c24344b7-2737-4689-ae36-96e1b2f269bd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国内商品期市夜盘收盘涨跌参半，能源品涨幅居前，SHFE 燃油涨 3.98%。黑色系、化工品多数上涨，DCE 焦煤涨 1.84%，CZCE PTA 涨 1.67% ...",
+    "id": "8uwq7aRoOyO",
+    "order": 1784648434934,
+    "createdAt": "2026-07-21T15:40:34.933Z",
+    "publishDate": "2026-07-21T15:40:34.934Z",
+    "title": "国内商品期市夜盘收盘涨跌参半 能源品涨幅居前",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 23:40:34",
+    "uuid": "9d143262-ef88-4b3f-8c39-97e78c93b090"
+  },
+  {
+    "newsArray": [
+      { "siteName": "blog.google" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Google DeepMind" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "谷歌今日发布三款新 AI 模型：性能提升且成本降低的 Gemini 3.6 Flash、针对网络安全优化的 Gemini 3.5 Flash Cyber、面向 AI 智能体场景的 Gemini 3.5 Flash-Lite，这些模型旨在实现效率与性能的最佳平衡，且价格低于此前产品，完成相同任务所需 Token 较上一代减少 17% ...",
+    "id": "8ux0ppOxmKv",
+    "order": 1784649002380,
+    "createdAt": "2026-07-21T15:40:34.932Z",
+    "publishDate": "2026-07-21T15:50:02.380Z",
+    "title": "谷歌发布三款新 AI 模型，含 Gemini 3.6 Flash、3.5 Flash Cyber",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 23:40:34",
+    "uuid": "6e7788c2-5d71-41ba-aa7c-19e414f37a1b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "微软是 2026 年表现最差的大盘科技股之一，年内市值蒸发约五分之一，将于 7 月 29 日公布 2026 财年第四季度财报 ...",
+    "id": "8uwcuLPW4L5",
+    "order": 1784646628464,
+    "createdAt": "2026-07-21T15:10:28.464Z",
+    "publishDate": "2026-07-21T15:10:28.464Z",
+    "title": "美银看好微软财报修复行情 关注 Azure 增长表现",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 23:10:28",
+    "uuid": "d47c9db2-dc41-44fa-8fb5-fd64a12b98da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "顺丰控股 2025 年第 1 期 A 股回购方案已实施完毕，截至 2026 年 7 月 21 日，累计回购 A 股股份 1.6 亿股，占总股本 3.04%，成交总金额约 59.99 亿元 ...",
+    "id": "8uwhP9Csud0",
+    "order": 1784646628472,
+    "createdAt": "2026-07-21T15:10:28.472Z",
+    "publishDate": "2026-07-21T15:10:28.472Z",
+    "title": "顺丰控股：60 亿元回购方案实施完成 将尽快办理注销",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 23:10:28",
+    "uuid": "6275aa0b-6f0a-4a7e-863d-247440944fff"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "日元兑美元再度跌至 1986 年以来最低水平，触及 162.89。",
+    "id": "8uwu39oDmSG",
+    "order": 1784644834169,
+    "createdAt": "2026-07-21T14:40:34.169Z",
+    "publishDate": "2026-07-21T14:40:34.169Z",
+    "title": "日元兑美元再度跌至 1986 年以来最低水平，触及 162.89",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 22:40:34",
+    "uuid": "e41775f3-fa2b-4096-9288-dae07ea19089"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "联合国机构发布的 2026 年《世界粮食安全和营养状况》报告显示，2025 年全球饥饿人口连续第三年下降，但改善势头脆弱且地区间发展不均衡，实现 2030 年「零饥饿」目标仍面临严峻挑战。",
+    "id": "8uwhPDhd0MQ",
+    "order": 1784644834831,
+    "createdAt": "2026-07-21T14:40:34.831Z",
+    "publishDate": "2026-07-21T14:40:34.831Z",
+    "title": "联合国报告说全球饥饿人口持续下降但挑战犹存",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 22:40:34",
+    "uuid": "3abc7b8f-4c74-47b8-bcfe-a0d617d9a018"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "同花顺财经" }
@@ -190,6 +336,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Qwen3.8-Max-Preview 最新版本已上线，前端表现更好 ...",
+    "id": "8uwjh8wSVnN",
+    "order": 1784649116376,
+    "createdAt": "2026-07-21T12:15:24.323Z",
+    "publishDate": "2026-07-21T15:51:56.376Z",
+    "title": "阿里千问 Qwen3.8-Max-Preview 最新版本上线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 20:15:24",
+    "uuid": "0b002fe2-5f02-45c1-90f5-adcc2dff584c"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
@@ -295,6 +458,25 @@
     "up": false,
     "date": "2026-07-21 19:50:25",
     "uuid": "a356639d-c0b9-4d1e-8f2b-53189abd0e04"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "长鑫科技 (688825.SH) 公布首次公开发行股票并在科创板上市发行结果，发行价 8.66 元 / 股，初始发行股份 668,808.8608 万股，占发行后总股本约 10% ...",
+    "id": "8uwjiF0Uwaj",
+    "order": 1784649138304,
+    "createdAt": "2026-07-21T11:45:22.127Z",
+    "publishDate": "2026-07-21T15:52:18.304Z",
+    "title": "长鑫科技 IPO 发行结果公布：网上投资者放弃认购 658 万股",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-21 19:45:22",
+    "uuid": "d50b9bfd-1470-4157-b8b2-b57d35402924"
   },
   {
     "newsArray": [
