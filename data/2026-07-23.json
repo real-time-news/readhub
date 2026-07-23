@@ -1,6 +1,150 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Alphabet 首席执行官皮查伊在财报电话会议上强力捍卫谷歌 AI 战略，反驳外界关于谷歌因推迟旗舰模型 Gemini 3.5 Pro 发布、在 AI 编程领域被赶超而落后的担忧 ...",
+    "id": "8uzE2doWPit",
+    "order": 1784776962938,
+    "createdAt": "2026-07-23T03:11:11.538Z",
+    "publishDate": "2026-07-23T03:22:42.938Z",
+    "title": "Alphabet 首席执行官反驳谷歌在 AI 竞赛中失势的说法",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 11:11:11",
+    "uuid": "491beab2-fedb-41b5-a842-a91f8260e526"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家药监局近日通过优先审评审批程序，分别批准武田制药美国公司的 1 类创新药奥普雷顿片（商品名：奥泽悦 / ORZEYFUL）、四川海思科制药有限公司的 1 类创新药琥珀酸思普可泮片上市，前者用于 16 岁及以上青少年和成人 1 型发作性睡病患者，后者适用于治疗既往未接受过补体抑制剂治疗的阵发性睡眠性血红蛋白尿症（PNH）成人患者。",
+    "id": "8uzRGKtz2HT",
+    "order": 1784776269590,
+    "createdAt": "2026-07-23T03:11:09.590Z",
+    "publishDate": "2026-07-23T03:11:09.590Z",
+    "title": "国家药监局批准 2 款创新药上市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 11:11:09",
+    "uuid": "f4b5c9ca-9cc0-4c4e-84b1-117476139e4e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "三大指数全部翻绿，科创 50 指数跌近 4%，半导体芯片、白酒、游戏等方向跌幅居前，沪深京三市近 2100 只个股下跌。",
+    "id": "8uzQvwD3nDR",
+    "order": 1784774737973,
+    "createdAt": "2026-07-23T02:45:37.973Z",
+    "publishDate": "2026-07-23T02:45:37.973Z",
+    "title": "三大指数全部翻绿 科创 50 跌近 4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 10:45:37",
+    "uuid": "3dda0357-3e0e-44ea-a028-9be7d583af11"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "上半年，全省规模以上工业增加值同比增长 5.8%。分门类看，采矿业、制造业、电力热力燃气及水生产和供应业分别增长 8.8%、5.4%、8.9% ...",
+    "id": "8uzQuDY8rtZ",
+    "order": 1784774737986,
+    "createdAt": "2026-07-23T02:45:37.986Z",
+    "publishDate": "2026-07-23T02:45:37.986Z",
+    "title": "广东：上半年工业机器人产品产量同比增长 34.2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 10:45:37",
+    "uuid": "2aeb2f00-541c-4da6-bd72-55dd31677a43"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "开盘半小时，沪深京三市成交额达 7096 亿元，较上日此时缩量 2463 亿元，预计全天成交金额约 2.2 万亿。",
+    "id": "8uzOPgNoOC7",
+    "order": 1784772666266,
+    "createdAt": "2026-07-23T02:11:06.266Z",
+    "publishDate": "2026-07-23T02:11:06.266Z",
+    "title": "开盘半小时 沪深京三市成交额达 7096 亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 10:11:06",
+    "uuid": "17325e11-cab5-4cc1-b7c8-ca4fde9c2ccf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "上半年武汉市地区生产总值 11236.42 亿元，按不变价格计算同比增长 5.7%。分产业看，第一产业增加值 192.83 亿元，增长 3.3% ...",
+    "id": "8uzMdFWZugY",
+    "order": 1784772196899,
+    "createdAt": "2026-07-23T02:03:16.899Z",
+    "publishDate": "2026-07-23T02:03:16.899Z",
+    "title": "武汉上半年 GDP 同比增长 5.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 10:03:16",
+    "uuid": "6e96e601-d8db-4377-bcdb-197c49627cf6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国政府宣布将投入 50 亿美元，联合 15 个联邦政府部门，利用人工智能攻克识别慢性疾病根本病因、加速药物研发等多个科研领域难题，参与项目人员可使用美国能源部相关科研资源 ...",
+    "id": "8uyQliDKtzT",
+    "order": 1784776993166,
+    "createdAt": "2026-07-23T01:51:51.461Z",
+    "publishDate": "2026-07-23T03:23:13.166Z",
+    "title": "美国宣布投入 50 亿美元，利用 AI 攻克慢性病、加速药物研发等",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 09:51:51",
+    "uuid": "91a659f7-a690-47ba-aaff-fe5db5abf466"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "英伟达首席执行官黄仁勋表示，美国无需害怕中国开源 AI 模型，反而该担忧国内「封禁中国 AI 模型」的呼声，称美国企业绝对应被允许使用中国开源 AI 模型 ...",
+    "id": "8uyQklCl2Tj",
+    "order": 1784777024778,
+    "createdAt": "2026-07-23T00:11:02.417Z",
+    "publishDate": "2026-07-23T03:23:44.778Z",
+    "title": "黄仁勋：美国无需害怕中国开源 AI 模型，应警惕「封禁」呼声",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 08:11:02",
+    "uuid": "fbeff057-c36d-4044-85ce-3c9896b7ea86"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "同花顺财经" },
       { "siteName": "同花顺财经" }
@@ -178,6 +322,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "微信公开课公众号发文解读公众号推荐机制，说明推荐更看重标题清晰完整、主题明确的原创内容，真人真实分享、对用户有价值的内容，以及专业认证作者的行业知识或经验分享 ...",
+    "id": "8uxqIPjEVGd",
+    "order": 1784777069185,
+    "createdAt": "2026-07-22T22:03:55.078Z",
+    "publishDate": "2026-07-23T03:24:29.185Z",
+    "title": "微信发文解释公众号推荐机制：单篇内容推荐流量出现波动是正常现象",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 06:03:55",
+    "uuid": "0858a82f-0ad6-4153-a649-b969cab81ea0"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "同花顺财经" },
       { "siteName": "华尔街见闻" }
@@ -211,6 +372,23 @@
     "up": false,
     "date": "2026-07-23 05:25:19",
     "uuid": "321d89e7-dc21-4441-acbb-2dd2e5077f9c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Alphabet Inc. 公布第二财季业绩，云业务收入 247.7 亿美元，同比增 82%，超华尔街预期 ...",
+    "id": "8uz1BkuubgO",
+    "order": 1784777087331,
+    "createdAt": "2026-07-22T21:10:56.371Z",
+    "publishDate": "2026-07-23T03:24:47.331Z",
+    "title": "Alphabet 云业务营收超预期 搜索广告收入略逊预估",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-23 05:10:56",
+    "uuid": "a23bbffa-3eff-410c-b7be-463ed7d01028"
   },
   {
     "newsArray": [
