@@ -1,6 +1,150 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "上期所沪银主力合约涨超 2%，报 14410 元 / 千克。",
+    "id": "8v1Rbq9BXES",
+    "order": 1784906720061,
+    "createdAt": "2026-07-24T15:25:20.061Z",
+    "publishDate": "2026-07-24T15:25:20.061Z",
+    "title": "上期所沪银主力合约涨超 2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-24 23:25:20",
+    "uuid": "8c2baabb-ced2-4dc2-9716-6352ea3b6f72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "期市夜盘收盘，国内期货主力合约多数下跌。对二甲苯、低硫燃油跌超 2%，LPG、纯苯、合成橡胶、燃油、PTA 跌超 1%。烧碱涨超 2%，乙二醇、玻璃涨超 1%。",
+    "id": "8v1oq7oUFKO",
+    "order": 1784906720062,
+    "createdAt": "2026-07-24T15:25:20.062Z",
+    "publishDate": "2026-07-24T15:25:20.062Z",
+    "title": "期市夜盘收盘，国内期货主力合约多数下跌，低硫燃油跌超 2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-24 23:25:20",
+    "uuid": "45bd697c-f062-42d0-aaef-5536c29438be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "费城半导体（SOX）指数跌幅扩大至 4%，报 11850.11 点。",
+    "id": "8v1slfjCNht",
+    "order": 1784905519679,
+    "createdAt": "2026-07-24T15:05:19.679Z",
+    "publishDate": "2026-07-24T15:05:19.679Z",
+    "title": "费城半导体指数跌幅扩大至 4%，报 11850.11 点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-24 23:05:19",
+    "uuid": "5a81d418-c7ea-42f2-8879-618c8b1e04cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "波罗的海干散货运价指数（BDI）连升第三日至 2743 点，为一周高点，但周线下跌 0.3% ...",
+    "id": "8v1lc0Ugn3P",
+    "order": 1784904038623,
+    "createdAt": "2026-07-24T14:40:38.623Z",
+    "publishDate": "2026-07-24T14:40:38.623Z",
+    "title": "波罗的海干散货运价指数升至一周高点，但周线录得下滑",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-24 22:40:38",
+    "uuid": "a3c24a1d-5b9e-434a-943b-485d2094c419"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "IBM、Meta Platforms、英伟达、微软等 25 家美国科技公司联名签署公开信，呼吁开放权重 AI 模型，称开源权重模型对健康 AI 生态系统至关重要，开放可能是实现 AI 安全与保障的重要路径之一，封闭模型存在被攻破、滥用等风险，开放权重模型可让更广泛社区检查、改进模型。",
+    "id": "8v1t9J4ozc9",
+    "order": 1784903119557,
+    "createdAt": "2026-07-24T14:25:19.557Z",
+    "publishDate": "2026-07-24T14:25:19.557Z",
+    "title": "美国 25 家科技巨头联名签署公开信，力挺开放权重 AI 模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-24 22:25:19",
+    "uuid": "c50cdeea-a21f-4f8a-b075-a5bc91772090"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美股 AI 应用软件股盘初集体上涨，SAP、ServiceNow 升逾 5%，Figma 升逾 4%，Workday、赛富时、Adobe 升逾 2%.",
+    "id": "8v1rKTcrWSQ",
+    "order": 1784902521879,
+    "createdAt": "2026-07-24T14:15:21.879Z",
+    "publishDate": "2026-07-24T14:15:21.879Z",
+    "title": "美股 AI 应用软件股盘初集体上涨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-24 22:15:21",
+    "uuid": "ae05b80a-2c57-4a3d-bdf3-3cb41ba69ff4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "费城半导体指数跌 2%，报 12093.96 点，英伟达、台积电、博通等多只成分股均下跌，其中 SK 海力士跌 5.42%、闪迪跌 4.49%、美光科技跌 4.43%。",
+    "id": "8v1slHsbr9h",
+    "order": 1784902521882,
+    "createdAt": "2026-07-24T14:15:21.881Z",
+    "publishDate": "2026-07-24T14:15:21.882Z",
+    "title": "费城半导体指数跌 2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-24 22:15:21",
+    "uuid": "8810f34c-6c29-4ac3-b438-64af9c7cb845"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "中信证券研报认为，7 月以来科技板块大幅调整，相关标的估值回落，但自主可控、AI 零部件、涨价链及消费电子等方向基本面未逆转，部分细分板块估值未充分反映后续增长预期，具备超跌修复空间 ...",
+    "id": "8uzIgiTa2S7",
+    "order": 1784902521893,
+    "createdAt": "2026-07-24T14:15:21.893Z",
+    "publishDate": "2026-07-24T14:15:21.893Z",
+    "title": "中信证券：看好超跌后的电子板块投资机会",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-24 22:15:21",
+    "uuid": "5078633c-60c5-4667-ab36-77aa3553930e"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" },
       { "siteName": "华尔街见闻" }
