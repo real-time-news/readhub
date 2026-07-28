@@ -1,6 +1,186 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "亚马逊云服务（AWS）与人工智能公司 Recursive 达成价值 4.1 亿美元的多年期协议，Recursive 将指定 AWS 为其云服务提供商，并在该平台运行自动化 AI 研究系统。",
+    "id": "8v8PEG5FAhO",
+    "order": 1785242745741,
+    "createdAt": "2026-07-28T12:45:45.741Z",
+    "publishDate": "2026-07-28T12:45:45.741Z",
+    "title": "亚马逊云服务与 AI 公司 Recursive 签署价值 4.1 亿美元多年期合作协议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:45:45",
+    "uuid": "a541f685-4070-47fa-8ec0-c22bffa5d669"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "港证监会谴责六福证券（香港）有限公司并处以 210 万港元罚款，原因是该公司未实施足够有效的网络保安监控措施，可能无法抵御勒索软件攻击，且系统从网络攻击中全面恢复的时间延误约三星期。",
+    "id": "8v89VY10DdD",
+    "order": 1785242745755,
+    "createdAt": "2026-07-28T12:45:45.755Z",
+    "publishDate": "2026-07-28T12:45:45.755Z",
+    "title": "六福证券遭香港证监会谴责及罚款 210 万港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:45:45",
+    "uuid": "9b174829-b6b1-4610-908a-b277d2fc17c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "美国上周 ADP 就业人数周度变动为 1.5 万人，前值 1.65 万人。",
+    "id": "8v8PEUQGq5X",
+    "order": 1785242743643,
+    "createdAt": "2026-07-28T12:45:43.643Z",
+    "publishDate": "2026-07-28T12:45:43.643Z",
+    "title": "美国上周 ADP 就业人数周度变动为 1.5 万人，前值 1.65 万人",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:45:43",
+    "uuid": "47a7dc57-61dd-44a8-9eba-922ffd50f2de"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "九寨沟 7 月 29 日对所有入园游客实行门票及观光车票全免，已提前购票的游客可正常入园，游玩结束后 7 个工作日内将按原支付路径全额退款 ...",
+    "id": "8v8PELqKYKZ",
+    "order": 1785242490485,
+    "createdAt": "2026-07-28T12:41:30.485Z",
+    "publishDate": "2026-07-28T12:41:30.485Z",
+    "title": "九寨沟：7 月 29 日对入园游客门票及观光车票全免",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:41:30",
+    "uuid": "2fa1f89d-2dd7-4080-b533-3776e0053856"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "IT 之家" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "苹果全新 Apple Upgrade 设备租赁计划于 7 月 28 日在美国推出，同时停止 iPhone Upgrade Program 新用户注册，已加入用户可继续使用 ...",
+    "id": "8v7PnAcVGas",
+    "order": 1785242485844,
+    "createdAt": "2026-07-28T12:41:25.844Z",
+    "publishDate": "2026-07-28T12:41:25.844Z",
+    "title": "苹果全新设备租赁被曝计划明日美国上线：覆盖 iPhone/Mac 等多款产品",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:41:25",
+    "uuid": "75476144-04ed-4d21-8b34-bd4a75bae143"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "因所有船型运价悉数下滑，波罗的海干散货运价指数周一终结连续三日上涨，较前一交易日跌 47 点或 1.7% 报 2696 点，为 7 月 21 日以来首次下跌 ...",
+    "id": "8v6rqJTFpqm",
+    "order": 1785241531053,
+    "createdAt": "2026-07-28T12:25:31.053Z",
+    "publishDate": "2026-07-28T12:25:31.053Z",
+    "title": "波罗的海干散货运价指数终结三连涨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:25:31",
+    "uuid": "93666a93-8a10-4b75-bffd-3734426e4662"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "燕东微公告，公司控股股东北京电控的一致行动人电控产投拟自公告披露之日起 12 个月内，通过集中竞价方式增持公司股份，增持金额不低于 1.5 亿元、不高于 3 亿元，此次增持基于对公司未来发展的信心和长期投资价值的认可，旨在增强投资者信心。",
+    "id": "8v8O9nqWByT",
+    "order": 1785241287873,
+    "createdAt": "2026-07-28T12:21:27.873Z",
+    "publishDate": "2026-07-28T12:21:27.873Z",
+    "title": "燕东微：控股股东一致行动人拟增持 1.5 亿元至 3 亿元股份",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:21:27",
+    "uuid": "f0b5ffbd-6c8b-437f-9b6b-f92b8878824a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "7 月以来沪市披露回购增持公告合计 346 家次，其中新增回购增持计划 126 家次，计划回购增持上限 268.43 亿元 ...",
+    "id": "8v8MNCBxZlU",
+    "order": 1785241287944,
+    "createdAt": "2026-07-28T12:21:27.944Z",
+    "publishDate": "2026-07-28T12:21:27.944Z",
+    "title": "7 月以来沪市新增回购增持计划 126 家 金额上限达 268 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:21:27",
+    "uuid": "b9cefd32-bee0-472e-bc28-6ed007c6f496"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "ST 豆神（300010）公告拟与北京立思辰计算机技术有限公司等方签订《和解协议》进行债务重组，以抵债房产及现金方式解决仲裁纠纷，合计和解金额 1 亿元，预计本次债务重组收益约 5670.21 万元，该事项尚需股东会审议及仲裁庭签发《仲裁调解书》。",
+    "id": "8v8JWehDbTl",
+    "order": 1785241286260,
+    "createdAt": "2026-07-28T12:21:26.260Z",
+    "publishDate": "2026-07-28T12:21:26.260Z",
+    "title": "ST 豆神：签署债务重组和解协议，预计收益约 5670.21 万元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:21:26",
+    "uuid": "ea154aad-5bbd-4684-924f-01c0876cbb49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "宝马将推出基于 Neue Klasse 平台打造的 i4 敞篷版，采用电动软顶、双门四座布局，车身覆盖件接近量产，前后灯组尺寸轮廓位置确定，内部灯光设计将与 i3 相似，配备双色低风阻轮毂、M 运动套件，采用封闭式横向格栅，内饰沿用 i3 三厢版设计，取消 iDrive 旋钮控制器，实体按键减少 ...",
+    "id": "8v7nlRlpVuA",
+    "order": 1785241286611,
+    "createdAt": "2026-07-28T12:21:26.611Z",
+    "publishDate": "2026-07-28T12:21:26.611Z",
+    "title": "宝马 i4 敞篷版路试谍照首次曝光：基于新世代平台打造，预计 2028 年发布",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-28 20:21:26",
+    "uuid": "4e5221ed-ff8c-4153-bf9c-a5a14593cc5a"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "36Kr" },
       { "siteName": "同花顺财经" },
