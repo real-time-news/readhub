@@ -1,6 +1,59 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美、布两油日内跌幅均扩大至 2%，WTI 原油现报 81.8 美元 / 桶，布伦特原油一度跌破 86 美元 / 桶。",
+    "id": "8vBoTu3RCFD",
+    "order": 1785442236941,
+    "createdAt": "2026-07-30T20:10:36.941Z",
+    "publishDate": "2026-07-30T20:10:36.941Z",
+    "title": "国际原油跌幅扩大至 2%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-31 04:10:36",
+    "uuid": "4de3e3e9-0926-4f54-82a6-5255ffc16839"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "微软（MSFT）股价涨幅进一步扩大至 15%，公司第四财季 Azure 云业务远超预期，AI 变现进入加速轨道。",
+    "id": "8vBol3zPtcC",
+    "order": 1785442235248,
+    "createdAt": "2026-07-30T20:10:35.248Z",
+    "publishDate": "2026-07-30T20:10:35.248Z",
+    "title": "微软股价涨幅进一步扩大至 15%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-31 04:10:35",
+    "uuid": "1aca52dd-28b7-4f10-9e05-98142458ec1c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "7 月 30 日纽约尾盘，ICE 美元指数跌 0.93% 报 99.942 点，日内先微幅上扬刷新日高至 101.072 点，随后下挫并短线加速下跌，刷新日低至 99.857 点 ...",
+    "id": "8vBrc43gQvW",
+    "order": 1785441844547,
+    "createdAt": "2026-07-30T20:04:04.547Z",
+    "publishDate": "2026-07-30T20:04:04.547Z",
+    "title": "美元指数跌超 0.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-07-31 04:04:04",
+    "uuid": "77c78d43-a398-4503-ae21-8e9503171a17"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
