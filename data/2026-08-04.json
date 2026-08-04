@@ -1,6 +1,186 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英国石油公司公布第二季度业绩报告，调整后息税前利润 103.1 亿美元、净利润 57.3 亿美元、每股收益 0.3692 美元，均高于预估的 92.5 亿美元、50.1 亿美元、0.33 美元。",
+    "id": "8vJbq15t2WK",
+    "order": 1785825925327,
+    "createdAt": "2026-08-04T06:45:25.327Z",
+    "publishDate": "2026-08-04T06:45:25.327Z",
+    "title": "英国石油公司第二季度调整后净利润 57.3 亿美元，高于市场预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:45:25",
+    "uuid": "7d0a2879-7546-473e-af0d-5ab7d398495b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "宁德时代新能源科技股份有限公司全资持股的宁德时代（宁德）销售有限公司近日成立，法定代表人为张雅丽，注册资本 30 亿人民币，经营范围含电池销售、新能源汽车换电设施销售等。",
+    "id": "8vJcv3MX8u3",
+    "order": 1785825924705,
+    "createdAt": "2026-08-04T06:45:24.705Z",
+    "publishDate": "2026-08-04T06:45:24.705Z",
+    "title": "宁德时代在宁德成立新销售公司，注册资本 30 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:45:24",
+    "uuid": "a7dacdbe-bca8-46b9-82a0-a51ceec0cb0f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软可能正在开发首个原生实时语音模型「MAI Realtime」，该模型已在 MAI Playground 以隐藏条目出现，少数合作伙伴获早期访问权限 ...",
+    "id": "8vJDC1P5zE7",
+    "order": 1785825922322,
+    "createdAt": "2026-08-04T06:45:22.322Z",
+    "publishDate": "2026-08-04T06:45:22.322Z",
+    "title": "微软或正研发首个原生实时语音模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:45:22",
+    "uuid": "bf6dedc1-fdc4-4c7a-8f62-963a42ac2155"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "AI 基础设施需求飙升致存储芯片短缺，惠普、华硕及宏碁等 PC 制造商今年中完成长鑫存储 DRAM 芯片验证，已在笔记本电脑中小规模应用，但使用量及型号有限 ...",
+    "id": "8vJanYiVwnR",
+    "order": 1785825922324,
+    "createdAt": "2026-08-04T06:45:22.324Z",
+    "publishDate": "2026-08-04T06:45:22.324Z",
+    "title": "据报惠普华硕宏碁等 PC 制造商开始采用长鑫存储芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:45:22",
+    "uuid": "b0eafa52-ea5b-45b8-93ad-39d529621d72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "CPO 概念表现活跃，光库科技涨超 10%，源杰科技涨超 9%，仕佳光子、东山精密、长光华芯、新易盛、剑桥科技跟涨 ...",
+    "id": "8vJHpGmie29",
+    "order": 1785825922327,
+    "createdAt": "2026-08-04T06:45:22.327Z",
+    "publishDate": "2026-08-04T06:45:22.327Z",
+    "title": "CPO 概念表现活跃 光库科技涨超 10%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:45:22",
+    "uuid": "c101badd-78b5-4ba8-b977-77c231a2412b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" },
+      { "siteName": "金融界" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "蚂蚁阿福官方微博发文辟谣网传「蚂蚁阿福 1 号位伟鹤调整」为假消息 ...",
+    "id": "8vJatejfceg",
+    "order": 1785825638151,
+    "createdAt": "2026-08-04T06:40:38.151Z",
+    "publishDate": "2026-08-04T06:40:38.151Z",
+    "title": "蚂蚁阿福否认「1 号位伟鹤调整」传闻：假消息",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:40:38",
+    "uuid": "98831a71-3a23-4005-a1a4-486e37610057"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "科创 50 指数涨幅扩大至 4%，现报 1615.18 点，源杰科技、芯原股份、生益电子涨幅居前。另有「A 股主要指数偏离年线多少幅度了。」相关内容。",
+    "id": "8vJal8L5OQD",
+    "order": 1785824122485,
+    "createdAt": "2026-08-04T06:15:22.485Z",
+    "publishDate": "2026-08-04T06:15:22.485Z",
+    "title": "科创 50 指数涨幅扩大至 4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:15:22",
+    "uuid": "d8d09af7-ddbe-4202-b711-f826b6e8f62f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家气候中心副主任贾小龙介绍，今年 7 月我国气温为历史同期第二高，高温持续时间长。",
+    "id": "8vJYyQgxqwh",
+    "order": 1785824122597,
+    "createdAt": "2026-08-04T06:15:22.597Z",
+    "publishDate": "2026-08-04T06:15:22.597Z",
+    "title": "国家气候中心：今年 7 月我国气温为历史同期第二高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:15:22",
+    "uuid": "7b27861a-8325-4d23-96e9-acc62225c4a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "摩根士丹利将 Circle 目标价从 106 美元下调至 38 美元。",
+    "id": "8vIMecF0FKM",
+    "order": 1785823831784,
+    "createdAt": "2026-08-04T06:10:31.784Z",
+    "publishDate": "2026-08-04T06:10:31.784Z",
+    "title": "大摩：将 Circle 目标价下调至 38 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:10:31",
+    "uuid": "cda2d696-b837-4926-82f5-6c82d8c9be56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenCode 发文称 DeepSeek V4 Flash 因访问量过大出现容量不足问题，有网友反映其官方 API 上午几乎不可用，DeepSeek 官方披露该 API 上午出现性能下降情况，目前问题已解决，服务恢复。",
+    "id": "8vJamczhMpz",
+    "order": 1785823830079,
+    "createdAt": "2026-08-04T06:10:30.079Z",
+    "publishDate": "2026-08-04T06:10:30.079Z",
+    "title": "DeepSeek API 出现性能下降情况，现已恢复",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-04 14:10:30",
+    "uuid": "58a5e5c1-0d6d-43cd-ab45-b876fa5e3324"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" }
