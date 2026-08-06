@@ -2,6 +2,178 @@
   {
     "newsArray": [
       { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "日经 225（N225）指数跌幅扩大至 1%，现报 65664.7 点。",
+    "id": "8vMbKWxqN2Q",
+    "order": 1785985833761,
+    "createdAt": "2026-08-06T03:10:33.761Z",
+    "publishDate": "2026-08-06T03:10:33.761Z",
+    "title": "日经 225 指数跌幅扩大至 1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 11:10:33",
+    "uuid": "3c6ba36d-e5d2-4b92-aecf-8b2eb37ec632"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "2026 年上半年，国内原料产金 152.908 吨，同比降 14.62%。进口原料产金 77.080 吨，同比增 4.62%。合计产金 229.988 吨，同比降 9.01% ...",
+    "id": "8vMeUSTqd5g",
+    "order": 1785984325839,
+    "createdAt": "2026-08-06T02:45:25.839Z",
+    "publishDate": "2026-08-06T02:45:25.839Z",
+    "title": "2026 年上半年我国黄金产量同比下降 14.62% 消费量同比增长 1.23%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 10:45:25",
+    "uuid": "cbfddc5f-4119-4383-adeb-090e1b8903af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "xAI 推出的 AI 在线百科 Grokipedia 自 2026 年 4 月 24 日以来未更新，虽用户可提交词条建议或修改意见，但过去三个月所有建议均未被处理，且马斯克自今年 2 月后未再公开谈及该项目，已有不少用户猜测其是否已停止运营 ...",
+    "id": "8vMZ8j8Azs7",
+    "order": 1785984324669,
+    "createdAt": "2026-08-06T02:45:24.669Z",
+    "publishDate": "2026-08-06T02:45:24.669Z",
+    "title": "马斯克的 AI 百科 Grokipedia 已三个多月无更新",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 10:45:24",
+    "uuid": "1213662b-41f5-462e-8f82-cb1ef67ef455"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "最高人民法院发布关于适用《中华人民共和国生态环境法典》时间效力的若干规定，这是生态环境法典首个配套司法解释，将于 8 月 15 日与法典同步施行 ...",
+    "id": "8vMeUjNGT3n",
+    "order": 1785984323976,
+    "createdAt": "2026-08-06T02:45:23.976Z",
+    "publishDate": "2026-08-06T02:45:23.976Z",
+    "title": "保障生态环境法典实施 最高法发布首个配套司法解释",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 10:45:23",
+    "uuid": "8fc4f242-2b02-42ab-a7d5-007fbbab32a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI 研究员在网络安全会议上披露，一组内部 AI 智能体和模型早在 5 月就通过未被察觉的留言板私下通信协作，为完成被布置的部分需联网或因文件缺失而无法完成的任务，它们表现出明显作弊倾向，先利用漏洞获得互联网中转访问权限，后又找到新交流方式和零日漏洞，最终在 7 月攻击了 OpenAI 内部系统及 Hugging Face 系统 ...",
+    "id": "8vMbQufWUNc",
+    "order": 1785986839581,
+    "createdAt": "2026-08-06T02:45:23.251Z",
+    "publishDate": "2026-08-06T03:27:19.581Z",
+    "title": "OpenAI 披露其智能体「联手越狱」细节 攻破 Hugging Face 前已协作数月",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 10:45:23",
+    "uuid": "51d2cc2e-8e67-4f87-9ee7-412275eb32a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "DeepSeek 计划近期整体上调 API 服务定价，预计涨幅较大，提醒用户合理安排使用，具体方案以正式通知为准。",
+    "id": "8vMd3vTwRcW",
+    "order": 1785982525922,
+    "createdAt": "2026-08-06T02:15:25.922Z",
+    "publishDate": "2026-08-06T02:15:25.922Z",
+    "title": "DeepSeek 拟上调 API 服务定价",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 10:15:25",
+    "uuid": "c7ae4f62-1069-42bd-9d87-a37aeacf3b79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "金融界" },
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英伟达正加速布局电信运营商市场，在中国寻找基站厂商合作开发 6G AI-RAN 基站，计划 2027 或 2028 年进入试验网，深圳佳贤通信是合作方之一，双方基于 CUDA 生态研发，预计今年年底推出样机，一两年内推向市场，若规模化部署佳贤通信 6G 时代销量可达百万台级 ...",
+    "id": "8vMbOnwftP8",
+    "order": 1785982232718,
+    "createdAt": "2026-08-06T02:10:32.718Z",
+    "publishDate": "2026-08-06T02:10:32.718Z",
+    "title": "英伟达急寻中国 AI 基站供应商，明后年启动端侧算力组网",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 10:10:32",
+    "uuid": "55603555-8406-4c41-b3b2-acd60372ecd3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中国央行公开市场开展 50 亿元 7 天期逆回购操作，操作利率 1.40% 持平上次，今日有 2065 亿元逆回购到期。",
+    "id": "8vKwQ2Kmxc3",
+    "order": 1785981041228,
+    "createdAt": "2026-08-06T01:50:41.228Z",
+    "publishDate": "2026-08-06T01:50:41.228Z",
+    "title": "中国央行公开市场今日净回笼 2015 亿元人民币",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 09:50:41",
+    "uuid": "d6668d1b-ba07-4eca-83d0-d037009773ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "DoNews" },
+      { "siteName": "网易科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "中国烹饪协会响应相关管理办法，全面清理撤销此前颁发的各类称号，引发「大师清退潮」 ...",
+    "id": "8vLb849hg0d",
+    "order": 1785986889759,
+    "createdAt": "2026-08-06T00:50:31.159Z",
+    "publishDate": "2026-08-06T03:28:09.759Z",
+    "title": "费大厨「全国小炒肉大王」称号被指凭视频评出 官方回应",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 08:50:31",
+    "uuid": "6a079cd6-5753-436f-8964-1c3a4b0d30dd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
       { "siteName": "新浪科技" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" }
@@ -50,6 +222,25 @@
     "up": false,
     "date": "2026-08-06 07:40:36",
     "uuid": "dcee539a-7122-498b-befa-3b24b09314b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "Simon Willison" }
+    ],
+    "summary": "Meta 的 AI 模型在测试期间接入互联网并对另一家公司发动网络攻击。",
+    "id": "8vMOlrzx0Ju",
+    "order": 1785986929301,
+    "createdAt": "2026-08-05T23:10:31.024Z",
+    "publishDate": "2026-08-06T03:28:49.301Z",
+    "title": "Meta 的 AI 模型在测试期间入侵了另一家公司",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-06 07:10:31",
+    "uuid": "e4ac55d5-96b0-473f-b3cd-a3560150f666"
   },
   {
     "newsArray": [
