@@ -1,6 +1,182 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果上调多款 iPhone、iPad 等设备的以旧换新回收价，平均涨幅 6.6%，最高近 30%，并新增支持三星、谷歌、一加 3 个品牌的 6 款安卓智能手机回收。",
+    "id": "8vNV1jgbWzB",
+    "order": 1786091119553,
+    "createdAt": "2026-08-07T08:25:19.553Z",
+    "publishDate": "2026-08-07T08:25:19.553Z",
+    "title": "苹果上调多款设备以旧换新回收价格 并新增多款安卓机型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:25:19",
+    "uuid": "00e85450-ab6e-439b-8f11-d75171cf565e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "国家网信办就《大型个人信息处理者个人信息保护规定（征求意见稿）》公开征求意见，要求大型个人信息处理者采取加密、去标识化等措施保障个人信息安全，可应用相关公共服务、使用相关技术、通过认证提升保护水平，鼓励其开展相关创新，参与国际标准规则制定，推动规则标准协调互认。",
+    "id": "8vOi4QICxE0",
+    "order": 1786091119554,
+    "createdAt": "2026-08-07T08:25:19.554Z",
+    "publishDate": "2026-08-07T08:25:19.554Z",
+    "title": "国家网信办：大型个人信息处理者应当采取加密、去标识化等措施保障所处理个人信息安全",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:25:19",
+    "uuid": "37693351-bebc-4274-a397-827ac9311682"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中国 7 月外汇储备 34187.8 亿美元，前值 34162.6 亿美元。",
+    "id": "8vOi5kFAlXC",
+    "order": 1786091119562,
+    "createdAt": "2026-08-07T08:25:19.562Z",
+    "publishDate": "2026-08-07T08:25:19.562Z",
+    "title": "中国 7 月外汇储备 34187.8 亿美元，前值 34162.6 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:25:19",
+    "uuid": "42d72270-6432-48cb-ba41-709892090826"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Lazard 旗下一只 96 亿美元规模的基金管理者借三星电子 7 月股价暴跌之机，一年多来首次将该股纳入投资组合，押注三星内存芯片上行周期将持续至 2028 年，认为此次股价下跌是具吸引力的买入机会，同时预计大型科技公司支出推动芯片销售强劲增长的趋势不变。",
+    "id": "8vOgG1jsrFJ",
+    "order": 1786090524101,
+    "createdAt": "2026-08-07T08:15:24.101Z",
+    "publishDate": "2026-08-07T08:15:24.101Z",
+    "title": "Lazard 基金抄底三星 看好内存芯片上行周期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:15:24",
+    "uuid": "e3523ec9-5652-4092-89d4-85a40eea3dd6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "今年上半年上海海关累计监管进出口航空货运量 203.51 万吨，创历史新高，同比增长 15.76%。",
+    "id": "8vOMdFOoODs",
+    "order": 1786090524413,
+    "createdAt": "2026-08-07T08:15:24.413Z",
+    "publishDate": "2026-08-07T08:15:24.413Z",
+    "title": "上半年上海海关监管进出口航空货运量超 200 万吨，创历史新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:15:24",
+    "uuid": "b8b449ad-9244-49e3-9418-9351b960ac76"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "隆基绿能（601012）宣布将为 Innovo Renewables 在意大利开发建设的 71MWp 集中式光伏项目供应 Hi-MO9 高效 BC 组件。",
+    "id": "8vOhhKOyttR",
+    "order": 1786090524587,
+    "createdAt": "2026-08-07T08:15:24.587Z",
+    "publishDate": "2026-08-07T08:15:24.587Z",
+    "title": "隆基绿能：将为 Innovo Renewables 71MWp 项目供应 BC 组件",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:15:24",
+    "uuid": "041628dc-6985-43fb-8943-a38cf96de086"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "针对雪佛兰将停止在华销售的消息，通用汽车回应称不会停产，合资企业将继续在华生产雪佛兰产品并拓展美国以外的海外市场，同时会为现有中国雪佛兰车主提供完善售后服务保障 ...",
+    "id": "8vNDuxxXPky",
+    "order": 1786090523338,
+    "createdAt": "2026-08-07T08:15:23.338Z",
+    "publishDate": "2026-08-07T08:15:23.338Z",
+    "title": "通用汽车回应雪佛兰品牌将停止在华销售：不会停产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:15:23",
+    "uuid": "a90fd24d-6e0b-4342-96e0-7bb3cfedf443"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "量子位" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "阿里巴巴推出国内首个一站式 AI 语音生产力平台 CosyVoice Studio，该平台基于自研语音模型 Qwen-Audio 打造，包含语音记录 CosyFlow、语音智能体 CosyAgent 和音频内容创作工具 CosyCreative 等功能 ...",
+    "id": "8vOfx0VMA7C",
+    "order": 1786090523973,
+    "createdAt": "2026-08-07T08:15:23.973Z",
+    "publishDate": "2026-08-07T08:15:23.973Z",
+    "title": "阿里推出国内首个 AI 语音平台 CosyVoice Studio，限时免费体验",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:15:23",
+    "uuid": "f5e60ac7-2fe1-45ad-9d6f-a0de000e3241"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "东航发布新版国内客票自愿退票和变更实施细则，2026 年 8 月 6 日（含）后销售且同日及之后出行的国内客票，提前 14 天自愿变更或退票免费，规则分五个时间段，距起飞时间越近，变更和退票收费越高。",
+    "id": "8vOhguzsl7K",
+    "order": 1786090522809,
+    "createdAt": "2026-08-07T08:15:22.809Z",
+    "publishDate": "2026-08-07T08:15:22.809Z",
+    "title": "东航发布新规：提前 14 天可免费退改签",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:15:22",
+    "uuid": "bdf7c5c1-8abf-44a0-bd92-3b7d26cf3b74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "8 月 7 日早盘市场震荡反弹，创业板指领涨，沪指涨 0.49%，深成指涨 1.31%，创业板指涨 1.75% ...",
+    "id": "8vOP6zCvQd7",
+    "order": 1786089920031,
+    "createdAt": "2026-08-07T08:05:20.031Z",
+    "publishDate": "2026-08-07T08:05:20.031Z",
+    "title": "午评：创业板指半日涨 1.75% PCB、创新药概念集体爆发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-07 16:05:20",
+    "uuid": "ba33be08-9b5d-450b-85ba-8c23b2d9cbdf"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "财联社" }
