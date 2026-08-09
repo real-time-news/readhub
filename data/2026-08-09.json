@@ -1,6 +1,94 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间 8 月 8 日 23 时 55 分左右，日本福井县关西电力公司大饭核电站 3 号机组因发电机内部装置异常触发警报，反应堆自动停止运行，关西电力称此次事故不会对周边环境造成放射性影响 ...",
+    "id": "8vRYD4X7N1H",
+    "order": 1786239644586,
+    "createdAt": "2026-08-09T01:40:44.586Z",
+    "publishDate": "2026-08-09T01:40:44.586Z",
+    "title": "日本大饭核电站 3 号机组因发电机异常停止运行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-09 09:40:44",
+    "uuid": "df4be5a9-4a90-47c0-a469-653d822dc882"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" }
+    ],
+    "summary": "腾讯 WorkBuddy 获公司渠道、算力、组织和生态资源集中倾斜，是腾讯 AI 应用中战略优先级最高的产品之一，内部有其为继 QQ、微信后第三个战略级产品的说法，马化腾亲自参与产品会议，团队资源需求获批快速，今年极大概率入选腾讯里程碑式产品荣誉「名品堂」。",
+    "id": "8vPv5ryEWoI",
+    "order": 1786239644589,
+    "createdAt": "2026-08-09T01:40:44.589Z",
+    "publishDate": "2026-08-09T01:40:44.589Z",
+    "title": "消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-09 09:40:44",
+    "uuid": "d5e5eb22-9db4-445b-b212-c712bd450753"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "马斯克：这意味着带宽将超过星链 V2 系统的 100 倍 ... 更多工具。",
+    "id": "8vRXU7h5uN8",
+    "order": 1786238125640,
+    "createdAt": "2026-08-09T01:15:25.640Z",
+    "publishDate": "2026-08-09T01:15:25.640Z",
+    "title": "马斯克：这意味着带宽将超过星链 V2 系统的 100 倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-09 09:15:25",
+    "uuid": "0543ec4f-a726-43fc-817c-1dd58bd7e9c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "光大证券研报认为，短期内市场或继续反弹，8 月半年报密集披露期有望成为市场从估值消化切换至盈利驱动的拐点，财报季或将是下半年最好的配置窗口 ...",
+    "id": "8vRUciZIkB3",
+    "order": 1786236323546,
+    "createdAt": "2026-08-09T00:45:23.546Z",
+    "publishDate": "2026-08-09T00:45:23.546Z",
+    "title": "光大证券：短期内市场或继续反弹，关注三条业绩主线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-09 08:45:23",
+    "uuid": "cc32495b-a2e0-4162-a1e8-fb40364f0fd8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "极客公园" },
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果官网 Mac 简体中文使用手册曾出现一篇《在 Mac 上配合 Apple 智能使用千问》的支持文档，明确 Apple 智能可配合阿里千问模型工作，后该文档被删除，原链接无法访问 ...",
+    "id": "8vRRPZ4bkZf",
+    "order": 1786234239109,
+    "createdAt": "2026-08-09T00:10:39.109Z",
+    "publishDate": "2026-08-09T00:10:39.109Z",
+    "title": "苹果中国官网删除 Apple 智能接入阿里千问使用手册",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-09 08:10:39",
+    "uuid": "e21e0945-8837-4b7b-a4d3-df7c31503afb"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
