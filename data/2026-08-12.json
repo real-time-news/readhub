@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "国内期货主力合约夜盘收盘涨跌互现，瓶片跌超 1%、纸浆跌近 1%。燃油涨超 2%，焦煤、低硫燃油、焦炭涨超 1%。",
+    "id": "8vVqjlxqLrN",
+    "order": 1786469114953,
+    "createdAt": "2026-08-11T17:25:14.953Z",
+    "publishDate": "2026-08-11T17:25:14.953Z",
+    "title": "期市夜盘收盘，国内期货主力合约涨跌互现",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 01:25:14",
+    "uuid": "aecf2383-36c6-48ed-a403-9b5e3d0cebfb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "蓝点网" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "微软于 7 月大幅上调 PC OEM 厂商的 Windows 11 授权费，平均涨幅 7% 至 10%，涨幅超以往个位数水平，具体涨幅依 PC 处理器而定，高端 CPU 系统付费不同，这给本因内存和存储器涨价而承压的 PC 市场带来更大压力。",
+    "id": "8vUtpkzBMl3",
+    "order": 1786466426033,
+    "createdAt": "2026-08-11T16:40:26.033Z",
+    "publishDate": "2026-08-11T16:40:26.033Z",
+    "title": "微软大幅上涨 Windows 11 的 OEM 授权费",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 00:40:26",
+    "uuid": "0eefdd54-1e1f-4c68-b330-0c9af5b36f66"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英特尔首席执行官陈立武在公司增发股票前寻求美国政府批准，他曾致电美国商务部长霍华德・卢特尼克，美国政府最终决定不参与此次股票发行，但批准了该计划。",
+    "id": "8vVpguSgeJ1",
+    "order": 1786466426035,
+    "createdAt": "2026-08-11T16:40:26.035Z",
+    "publishDate": "2026-08-11T16:40:26.035Z",
+    "title": "英特尔增发股票前曾寻求美国政府的批准",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 00:40:26",
+    "uuid": "41b5a705-aeb6-4620-9da1-23a0585bd888"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
