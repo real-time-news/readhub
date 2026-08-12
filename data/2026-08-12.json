@@ -1,6 +1,164 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "截至 8 月 11 日，湖北、安徽 2 个省份的 2 个县区，以及安徽、广东、广西的 12 个县区因降雨天数、累计降雨量等达到相应标准，公路交通存在高风险。",
+    "id": "8vVgjaPpIEY",
+    "order": 1786508719264,
+    "createdAt": "2026-08-12T04:25:19.264Z",
+    "publishDate": "2026-08-12T04:25:19.264Z",
+    "title": "受降雨影响 全国 14 个地区公路交通存在高风险",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 12:25:19",
+    "uuid": "6496f529-915a-4522-86f9-c87a9cb089eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "AI 初创企业 Cognition 正开展新一轮融资早期磋商，目标估值至少 400 亿美元，较此前提升超 50% ...",
+    "id": "8vWj34ucJfQ",
+    "order": 1786507824482,
+    "createdAt": "2026-08-12T04:10:24.482Z",
+    "publishDate": "2026-08-12T04:10:24.482Z",
+    "title": "AI 初创企业 Cognition 开启新一轮融资谈判 估值目标直指 400 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 12:10:24",
+    "uuid": "aaf7d559-d58d-406f-a20d-fecc1cd9339f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "8 月 12 日早盘市场震荡拉升，科创 50 指数涨超 2%，沪深两市半日成交额 1.38 万亿，较上个交易日缩量 1375 亿，全市场超 3600 只个股上涨 ...",
+    "id": "8vWhJMAk1ZT",
+    "order": 1786507824488,
+    "createdAt": "2026-08-12T04:10:24.488Z",
+    "publishDate": "2026-08-12T04:10:24.488Z",
+    "title": "午评：创业板指半日涨 1.73% 算力硬件股集体反弹",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 12:10:24",
+    "uuid": "727a05e9-82dd-441a-9ae4-398b667cdeb8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "腾讯音乐-SW (01698.HK) 跌超 12%，上半年总收入 168.3 亿元，同比增长 6.5%，期内利润 46.9 亿元，同比下降 31.6%。",
+    "id": "8vWZ32JX3Jm",
+    "order": 1786506322231,
+    "createdAt": "2026-08-12T03:45:22.231Z",
+    "publishDate": "2026-08-12T03:45:22.231Z",
+    "title": "腾讯音乐跌超 12% 上半年利润同比下降 31.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 11:45:22",
+    "uuid": "957479ce-eb58-4031-8ea6-1ea781b9bd89"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "小红书正打造由道玄（潘博远）主导的全新「AI 导购」功能，该功能依托对话交互模式，在问答场景中直接推送商品卡片、挂载下单跳转链接，截至目前向小红书官方求证暂无回应。",
+    "id": "8vWWadPhzPk",
+    "order": 1786506322374,
+    "createdAt": "2026-08-12T03:45:22.374Z",
+    "publishDate": "2026-08-12T03:45:22.374Z",
+    "title": "小红书正在打造全新「AI 导购」功能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 11:45:22",
+    "uuid": "6aafefd3-b20a-4dbd-b091-c07600bd9da8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "量子计算公司 Quantinuum 与甲骨文达成多年战略合作，将其量子计算机 Helios 部署至在美甲骨文云基础设施 AI 数据中心，OCI 客户可通过 OCI 量子服务直接访问该量子计算机，并结合使用 OCI 的高性能计算及 GPU 基础设施。",
+    "id": "8vWWBMG3G4b",
+    "order": 1786506321113,
+    "createdAt": "2026-08-12T03:45:21.113Z",
+    "publishDate": "2026-08-12T03:45:21.113Z",
+    "title": "量子计算公司 Quantinuum 与甲骨文达成多年合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 11:45:21",
+    "uuid": "dfaa8cac-4c55-46b7-b587-9b5be5f514c1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "Google Research Blog" },
+      { "siteName": "blog.google" }
+    ],
+    "summary": "Google Research 与 Google DeepMind 联合研发的医疗 AI 系统 AMIE 基于 Gemini 与 Project Astra 底层架构，采用多智能体协作模式，在实时临床视频问诊场景中展现出专家级应用能力，能结合视听觉线索、引导虚拟体检并实时推理 ...",
+    "id": "8vVyFfh0Llg",
+    "order": 1786506321115,
+    "createdAt": "2026-08-12T03:45:21.115Z",
+    "publishDate": "2026-08-12T03:45:21.115Z",
+    "title": "医疗 AI 迎来重大突破：研究型系统 AMIE 首次展示实时临床视频问诊能力",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 11:45:21",
+    "uuid": "60796789-d748-4baa-b958-aa716f505c80"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "脑机接口概念异动拉升，创新医疗直线涨停，爱朋医疗、声迅股份、倍益康、三博脑科、南京熊猫跟涨 ...",
+    "id": "8vWgBnhtCTw",
+    "order": 1786506321125,
+    "createdAt": "2026-08-12T03:45:21.125Z",
+    "publishDate": "2026-08-12T03:45:21.125Z",
+    "title": "脑机接口概念异动拉升 创新医疗直线涨停",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 11:45:21",
+    "uuid": "cc88b4b9-1589-4aa8-9c6a-28e31bf5546c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "创新药概念延续强势，百花医药 7 连板，万邦医药涨超 10%，誉衡药业、哈药股份、美迪西、百诚医药跟涨 ...",
+    "id": "8vWZ2yNQ1SG",
+    "order": 1786506321695,
+    "createdAt": "2026-08-12T03:45:21.695Z",
+    "publishDate": "2026-08-12T03:45:21.695Z",
+    "title": "创新药概念延续强势 百花医药 7 连板",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 11:45:21",
+    "uuid": "8cde270e-247f-419c-9cfb-5b200268d567"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "同花顺财经" },
@@ -353,6 +511,23 @@
     "up": false,
     "date": "2026-08-12 03:10:21",
     "uuid": "df7d5493-3575-4eed-a7d3-801ac0d0bf3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenAI 高管 Brad Lightcap 将离职开启新项目，数月前他已卸任首席运营官 ...",
+    "id": "8vVxsl0MjjK",
+    "order": 1786506102233,
+    "createdAt": "2026-08-11T17:40:26.964Z",
+    "publishDate": "2026-08-12T03:41:42.233Z",
+    "title": "OpenAI COO 将离职 开启新项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-12 01:40:26",
+    "uuid": "fe307992-dab1-4a90-9a37-b78bbcae2a19"
   },
   {
     "newsArray": [
