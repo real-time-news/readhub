@@ -53,6 +53,45 @@
   },
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "智东西" },
+      { "siteName": "Hacker News AI" },
+      { "siteName": "Hacker News AI" }
+    ],
+    "summary": "DeepSeek 官网 API 文档的「模型 & 价格」页面新增 DeepSeek-V4-Pro-0813 模型版本，这款旗舰级产品拥有100万个令牌的上下文窗口和38.4万个令牌的最大输出，默认采用思考模式，同时还提供了一个非思考模式的端点，用于处理对延迟敏感的调用 ...",
+    "id": "8vXYr7sQRSr",
+    "order": 1786566602727,
+    "createdAt": "2026-08-12T16:40:32.516Z",
+    "publishDate": "2026-08-12T20:30:02.727Z",
+    "title": "DeepSeek V4 Pro正式上线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-13 00:40:32",
+    "uuid": "2c73e667-6ecd-4321-a22c-93c2da86b0ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "blog.google" }
+    ],
+    "summary": "Google 宣布 Pixel 11 系列智能手机，全型号起售价上涨 100 美元，现已开放预购，8 月 20 日发售 ...",
+    "id": "8vXQKfNmmHA",
+    "order": 1786566611017,
+    "createdAt": "2026-08-12T16:10:35.586Z",
+    "publishDate": "2026-08-12T20:30:11.017Z",
+    "title": "Google 宣布 Pixel 11 系列，价格上涨 100 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-13 00:10:35",
+    "uuid": "156be8b4-9114-4087-a778-fb01c385a417"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "新浪科技" },
       { "siteName": "格隆汇" },
