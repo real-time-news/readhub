@@ -1,6 +1,91 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国 30 年期国债收益率中标于 5.216%，高于发行前预发行收益率 5.212%。",
+    "id": "8vYupd8rQMa",
+    "order": 1786641918455,
+    "createdAt": "2026-08-13T17:25:18.455Z",
+    "publishDate": "2026-08-13T17:25:18.455Z",
+    "title": "美国 30 年期国债发行的中标收益率创 2001 年以来新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 01:25:18",
+    "uuid": "d799af1a-fd5b-4df7-bca8-663f3a12fe96"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "OpenAI" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "9to5Mac" }
+    ],
+    "summary": "GPT-5.6 Sol 超高速模式已向部分客户开放有限预览。",
+    "id": "8vZI3ViMigk",
+    "order": 1786643528517,
+    "createdAt": "2026-08-13T17:25:18.453Z",
+    "publishDate": "2026-08-13T17:52:08.517Z",
+    "title": "GPT-5.6 Sol 超高速模式已向部分客户群体开放有限预览",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 01:25:18",
+    "uuid": "373661af-e693-4c06-853c-f94752a3716d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "blog.google" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Gemini 3.7 Flash 将于今年年底前以限时优惠价提供，输入单价为每百万词元 0.75 美元，输出单价为每百万词元 3.75 美元。",
+    "id": "8vZI2xuxqUC",
+    "order": 1786641020719,
+    "createdAt": "2026-08-13T17:10:20.719Z",
+    "publishDate": "2026-08-13T17:10:20.719Z",
+    "title": "谷歌推出 Gemini 3.7 Flash 模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 01:10:20",
+    "uuid": "7d0adc91-8c10-421e-8202-fe43b653c8fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Accelerant 与私募股权公司 Thoma Bravo 达成私有化协议，交易股权价值约 44 亿美元，股东将获每股 20.25 美元现金对价，较 8 月 12 日收盘价溢价 49%，该股周四暴涨 43% 报 19.47 美元 ...",
+    "id": "8vYqXOuEw6t",
+    "order": 1786643531116,
+    "createdAt": "2026-08-13T17:10:20.718Z",
+    "publishDate": "2026-08-13T17:52:11.116Z",
+    "title": "Accelerant 将通过 44 亿美元交易被 Thoma Bravo 私有化",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 01:10:20",
+    "uuid": "51170b1a-b941-4da6-9157-652486d377ac"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
