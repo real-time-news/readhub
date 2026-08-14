@@ -1,6 +1,120 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "7 月全行业燃油摩托车产销 193.84 万辆和 189.96 万辆，产销量环比增长 5.13% 和 2.97%，同比增长 22.32% 和 18.85% ...",
+    "id": "8vaCrqBPgKj",
+    "order": 1786689920528,
+    "createdAt": "2026-08-14T06:45:20.528Z",
+    "publishDate": "2026-08-14T06:45:20.528Z",
+    "title": "中国摩托车商会：7 月全行业燃油摩托车销量同比增长 18.85%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 14:45:20",
+    "uuid": "84d4860a-b5f6-4bdb-9bcb-61894fdf455c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "日经 225 指数开盘涨 0.7%，报 68811.17 点，电子类股领涨。韩国综合股价指数开盘上涨 2.7%，至 6995.67 点。",
+    "id": "8vZmRHRrMxq",
+    "order": 1786689920529,
+    "createdAt": "2026-08-14T06:45:20.529Z",
+    "publishDate": "2026-08-14T06:45:20.529Z",
+    "title": "日韩股市集体高开 韩国股市开盘上涨 2.7%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 14:45:20",
+    "uuid": "5cdbaaf7-d64c-4bf3-92bb-88e5a762a849"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "乘联分会秘书长崔东树指出，2026 年 7 月车市走弱是油价反弹、宏观走弱、季节性淡季、前期需求透支及政策切换等多重因素共振所致 ...",
+    "id": "8vaDx32byZn",
+    "order": 1786689920531,
+    "createdAt": "2026-08-14T06:45:20.531Z",
+    "publishDate": "2026-08-14T06:45:20.531Z",
+    "title": "崔东树：7 月车市走弱是多重因素共振所致",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 14:45:20",
+    "uuid": "46cd8e13-9c5b-43fb-92c8-15b917fc7726"
+  },
+  {
+    "newsArray": [
+      { "siteName": "铅笔道" },
+      { "siteName": "量子位" },
+      { "siteName": "智源社区" }
+    ],
+    "summary": "具身智能数据基础设施公司元点科技完成数千万元人民币融资，投资方含国内具身智能产业方、恒旭资本和凯联资本，融资将用于物理 AI 操作系统 MatrixOS 迭代、大规模数据生产网络建设及团队扩展 ...",
+    "id": "8vYlX3919JB",
+    "order": 1786689634446,
+    "createdAt": "2026-08-14T06:40:34.446Z",
+    "publishDate": "2026-08-14T06:40:34.446Z",
+    "title": "元点科技融资数千万：为物理 AI 提供具身数据基础设施",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 14:40:34",
+    "uuid": "f7e3194d-cdfd-4a60-9fdf-7334440ea3b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "2026 年半年报密集披露期，头部私募二季度重仓股逐步浮出水面 ...",
+    "id": "8vZhPxWoOmv",
+    "order": 1786689630385,
+    "createdAt": "2026-08-14T06:40:30.385Z",
+    "publishDate": "2026-08-14T06:40:30.385Z",
+    "title": "百亿级私募二季度重仓股出炉，两大方向成布局重点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 14:40:30",
+    "uuid": "5771a5c0-0f0f-4a67-9be6-f12bd22d3bd7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" },
+      { "siteName": "钛媒体" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "智谱于 8 月 14 日正式发布 GLM-5.3，该模型基座未变，通过极致后训练 Scaling 提升了智能上界，编程能力更强，在内部体感评测中较 GLM-5.2 提升 50%，在 TerminalBench3.0、Agents'LastExam (CLI) 等公开基准测试中获开源第一，发布两周后将开放模型权重。",
+    "id": "8vaA07ZpJfd",
+    "order": 1786688124650,
+    "createdAt": "2026-08-14T06:15:24.650Z",
+    "publishDate": "2026-08-14T06:15:24.650Z",
+    "title": "智谱正式发布 GLM-5.3 拥有更强编程能力",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-14 14:15:24",
+    "uuid": "fe2d24f0-a98a-4907-ab08-7cd29c65e0dd"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
