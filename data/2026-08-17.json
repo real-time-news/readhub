@@ -1,6 +1,136 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "据香港交易所披露，摩根大通对立讯精密 H 股的多头持仓比例于 2026 年 8 月 12 日从 7.99% 增至 8.36%，交易平均股价为 63.67 港元。",
+    "id": "8vfORKIzBNr",
+    "order": 1786958714856,
+    "createdAt": "2026-08-17T09:25:14.856Z",
+    "publishDate": "2026-08-17T09:25:14.856Z",
+    "title": "摩根大通（JPMorgan）对立讯精密 H 股的多头持仓比例增至 8.36%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-17 17:25:14",
+    "uuid": "8e7bcfee-5c9c-459d-ad28-c618f54e6e81"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "DoNews" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "钉钉新管理层完成组织调整不到两个月，负责商业化多年的核心高管杨猛即将离任，其已完成离职相关内部流程，计划加入蚂蚁集团，阿里钉钉悟空副总裁任卿将接手杨猛负责的商业化工作。",
+    "id": "8vf2HhuFqBK",
+    "order": 1786958120776,
+    "createdAt": "2026-08-17T09:15:20.776Z",
+    "publishDate": "2026-08-17T09:15:20.776Z",
+    "title": "钉钉全球商业总裁杨猛将离任，下一站蚂蚁集团",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-17 17:15:20",
+    "uuid": "db00203e-fcea-4e46-aea6-9a5406514985"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "豆包「工作任务」模式上新，支持手机远程控制电脑，完成授权后可远程接管电脑执行或启动任务、接收进度提醒，还能在本地电脑环境获取文件上下文，处理各类资料并完成复杂操作，适用场景包括出门后远程操作电脑发送文件、不在电脑旁时完成复杂任务并回传结果、跨电脑调取文件发送至手机。",
+    "id": "8vfNMvZ7k29",
+    "order": 1786958120980,
+    "createdAt": "2026-08-17T09:15:20.980Z",
+    "publishDate": "2026-08-17T09:15:20.980Z",
+    "title": "豆包「工作任务」模式功能上新，支持手机远程操作电脑",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-17 17:15:20",
+    "uuid": "18e9242f-8a81-49b1-99b6-6f768e4889eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "DoNews" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "吉利汽车控股有限公司宣布管理层调整，自 2026 年 8 月 18 日起，李书福辞任公司董事会主席及执行董事，获任终身荣誉主席，仍任浙江吉利控股集团董事长 ...",
+    "id": "8vfNMwHyMaN",
+    "order": 1786958119179,
+    "createdAt": "2026-08-17T09:15:19.179Z",
+    "publishDate": "2026-08-17T09:15:19.179Z",
+    "title": "吉利汽车宣布管理层调整：李书福辞任董事会主席",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-17 17:15:19",
+    "uuid": "5d3f5256-36e6-40f9-95d7-cef565af55c9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "aibase" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "英伟达正与 OpenAI 及软银旗下子公司 SB Energy 磋商约 30 亿美元投资事宜，资金用于 OpenAI 俄亥俄州大型数据中心项目 ...",
+    "id": "8verDKHnQMk",
+    "order": 1786958118371,
+    "createdAt": "2026-08-17T09:15:18.371Z",
+    "publishDate": "2026-08-17T09:15:18.371Z",
+    "title": "Nvidia 拟投资 S Energy，支持 OpenAI 数据中心建设",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-17 17:15:18",
+    "uuid": "da95a24c-0a23-40aa-8088-8efa058b6005"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "品玩" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "360 集团创始人周鸿祎发布全员信，明确公司向 AI 原生组织转型中各级管理者是培养超级个体、打造超级团队的第一责任人，称这是用 AI 重新创业，也是 360 推进「All in Agent」战略的进一步升级 ...",
+    "id": "8vfLDWka3rP",
+    "order": 1786958118377,
+    "createdAt": "2026-08-17T09:15:18.377Z",
+    "publishDate": "2026-08-17T09:15:18.377Z",
+    "title": "周鸿祎发布全员信：360 启动 AI 时代组织变革，用领导力驱动 AI 原生转型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-17 17:15:18",
+    "uuid": "f6ec41a6-35c1-4f9f-8f9f-598adf81905f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华阳集团 (002906.SZ) 公告，控股股东惠州华越正筹划向四川九洲投资控股集团转让所持公司股份，该事项可能导致公司控股股东、实际控制人变更，公司股票自 2026 年 8 月 18 日开市起停牌，预计停牌不超过 2 个交易日。",
+    "id": "8vfN0TZfrYF",
+    "order": 1786958118920,
+    "createdAt": "2026-08-17T09:15:18.920Z",
+    "publishDate": "2026-08-17T09:15:18.920Z",
+    "title": "华阳集团：控股股东筹划控制权变更事项 明起停牌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-17 17:15:18",
+    "uuid": "fb8d6b49-d09c-45ca-8b61-116e60c3e658"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" }
