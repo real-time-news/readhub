@@ -1,6 +1,111 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当前赤道中东太平洋海表温度持续升高，预计 11—12 月前后达到峰值，形成大概率为历史最强的超强厄尔尼诺事件 ...",
+    "id": "8vgizapEgf3",
+    "order": 1787037321552,
+    "createdAt": "2026-08-18T07:15:21.552Z",
+    "publishDate": "2026-08-18T07:15:21.552Z",
+    "title": "国家气候中心：厄尔尼诺快速发展 大概率成历史最强",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-18 15:15:21",
+    "uuid": "de4a5a30-c577-454e-9ae8-26ccaa4deb99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "阿里旗下 Agent 产品「千问办公」在已接入钉钉和飞书后，正式接入企业微信，实现对国内三大主流协同办公平台的全面支持。",
+    "id": "8vgruIjRzD4",
+    "order": 1787037321552,
+    "createdAt": "2026-08-18T07:15:21.552Z",
+    "publishDate": "2026-08-18T07:15:21.552Z",
+    "title": "阿里「千问办公」接入企业微信",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-18 15:15:21",
+    "uuid": "b2f9d93a-9b1c-425c-9bc8-e565de83d0ca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "快科技" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "阿里旗下企业级办公 Agent 产品「千问办公」于 8 月 3 日开启公测，现已接入钉钉、飞书、企业微信三大国内主流协同办公平台及海外平台 Slack，实现多平台覆盖 ...",
+    "id": "8vgrZ7rXoNM",
+    "order": 1787037027544,
+    "createdAt": "2026-08-18T07:10:27.544Z",
+    "publishDate": "2026-08-18T07:10:27.544Z",
+    "title": "今日起，阿里「千问办公」接入企业微信",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-18 15:10:27",
+    "uuid": "eb1cb5a7-81f8-4ed1-abfa-8e784b3ae23d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "派杰投资将 Paypal（PYPL.US）目标价从 42 美元上调至 59 美元。",
+    "id": "8vexHH1gVz0",
+    "order": 1787037025853,
+    "createdAt": "2026-08-18T07:10:25.853Z",
+    "publishDate": "2026-08-18T07:10:25.853Z",
+    "title": "派杰投资上调 Paypal 目标价至 59 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-18 15:10:25",
+    "uuid": "9dc286a2-ed27-4a51-80af-09af81fc8a0f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "摩根士丹利维持亚马逊 335 美元近期目标价，较当前有 28% 上涨空间，预计其 2027 年底股价有望达 500 美元，关键在于 AWS 业务 ...",
+    "id": "8vfRg2TEMVk",
+    "order": 1787035519631,
+    "createdAt": "2026-08-18T06:45:19.631Z",
+    "publishDate": "2026-08-18T06:45:19.631Z",
+    "title": "大摩展望 AWS 营收十年内将迈过万亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-18 14:45:19",
+    "uuid": "f097902c-5935-441f-93c3-ce0a8711aad0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "9 只跟踪国证粮食指数的粮食 ETF 集体涨超 5%，该指数前十大权重股包括隆平高科、北大荒等，指数中钾肥、磷肥及磷化工、粮油加工行业占比位列前三。小摩警告明年或爆发全球粮食危机。",
+    "id": "8vgpRKAPi2i",
+    "order": 1787035519635,
+    "createdAt": "2026-08-18T06:45:19.635Z",
+    "publishDate": "2026-08-18T06:45:19.635Z",
+    "title": "9 只粮食 ETF 全线大涨",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-18 14:45:19",
+    "uuid": "14706aa7-3c4a-4367-87a5-4ede58c75a4e"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" }
