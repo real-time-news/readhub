@@ -1,6 +1,23 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "OpenAI 第二季度营收 67 亿美元，环比增长 18%，但亏损扩大，营收增速落后于竞争对手 Anthropic，后者同期营收超 115 亿美元并首次实现小幅营业盈利，目前 OpenAI 正筹备首次公开募股。",
+    "id": "8vi1OEJa0fh",
+    "order": 1787109335856,
+    "createdAt": "2026-08-19T03:15:35.856Z",
+    "publishDate": "2026-08-19T03:15:35.856Z",
+    "title": "OpenAI 二季度营收 67 亿美元，环比增长 18% 但亏损扩大",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-19 11:15:35",
+    "uuid": "a2ff9ce9-2fec-42a9-9d14-ce6c7758f599"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" }
@@ -196,6 +213,45 @@
   },
   {
     "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "aibase" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "OpenAI 宣布暂停下一代旗舰模型的强化学习训练两周，且更大规模前沿强化学习训练仍处于搁置状态，新模型预计很快上线 ...",
+    "id": "8viBjsEO81B",
+    "order": 1787108475503,
+    "createdAt": "2026-08-19T01:51:18.250Z",
+    "publishDate": "2026-08-19T03:01:15.503Z",
+    "title": "OpenAI 暂停前沿模型训练：AI能力进展超预期，安全护栏亟待升级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-19 09:51:18",
+    "uuid": "59eb069f-412b-4fd5-a620-60e74cff4fc9"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "25 岁前高盛分析师 Darren Zhou 在 ChatGPT 上详细写下强奸、谋杀前女友及伤害其家人的计划，还在现实中跟踪骚扰对方 ...",
+    "id": "8viBjsXPFjW",
+    "order": 1787108609899,
+    "createdAt": "2026-08-19T01:51:16.025Z",
+    "publishDate": "2026-08-19T03:03:29.899Z",
+    "title": "00 后高盛金融分析师欲奸杀前女友，被 ChatGPT 上报后被捕",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-19 09:51:16",
+    "uuid": "bccbf4d4-e415-4d06-8509-5038f80ea14f"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
@@ -378,6 +434,84 @@
     "up": false,
     "date": "2026-08-19 08:45:25",
     "uuid": "1b1c9313-6ead-4e97-948d-5af8aca6e2e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "李彦宏在百度财报电话会上表示，二季度昆仑芯保持强劲势头，需求旺盛且持续向多行业扩展，市场对其大规模应用中的稳定性、效率和适配能力认可度不断提升 ...",
+    "id": "8vhKX1VMCQb",
+    "order": 1787109045411,
+    "createdAt": "2026-08-19T00:41:03.381Z",
+    "publishDate": "2026-08-19T03:10:45.411Z",
+    "title": "百度李彦宏：昆仑芯已完成三代AI芯片的研发和商业化 未来将继续推进产品布局",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-19 08:41:03",
+    "uuid": "2486661e-7d30-485d-970e-d878134c9776"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "果壳科学人" },
+      { "siteName": "中华网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，一子级成功着陆于甘肃省民勤县朱雀三号着陆场坪，这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。",
+    "id": "8vi4GSt1hEl",
+    "order": 1787109074796,
+    "createdAt": "2026-08-19T00:11:02.323Z",
+    "publishDate": "2026-08-19T03:11:14.796Z",
+    "title": "我国首次实现火箭陆地回收",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-19 08:11:02",
+    "uuid": "f1ad4c52-a0e5-4c2f-a277-6cdd85cc5a6b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "迪士尼旗下美国广播公司（ABC）依据美国宪法第一修正案，向华盛顿哥伦比亚特区一家地区法院起诉美国联邦通信委员会（FCC），指控其因 ABC 播出批评特朗普总统的节目而发起的广播电台牌照提前续审调查属于报复性行动，请求 FCC 终止该审查流程，截至目前 FCC 尚未回应置评请求。",
+    "id": "8vhO7UY0gNh",
+    "order": 1787109108375,
+    "createdAt": "2026-08-18T23:10:59.086Z",
+    "publishDate": "2026-08-19T03:11:48.375Z",
+    "title": "迪士尼旗下 ABC 电视台起诉联邦通信委员会",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-19 07:10:59",
+    "uuid": "dd64c16c-48b1-45e9-9657-5a47f985d9a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Anthropic 正筹划赋予首席执行官 Dario Amodei 及其他联合创始人超级投票权，同时计划维持现有非股东受托人架构，通过特殊股份类别赋予其选出公司董事会多数成员的权利，以强化创始团队控制力并维持治理制衡 ...",
+    "id": "8vhpabtpLsE",
+    "order": 1787109169127,
+    "createdAt": "2026-08-18T23:10:57.036Z",
+    "publishDate": "2026-08-19T03:12:49.127Z",
+    "title": "Anthropic 拟赋予 CEO Amodei 超级投票权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-19 07:10:57",
+    "uuid": "d77d199c-9d81-4526-aab5-92fa375aa4c0"
   },
   {
     "newsArray": [
