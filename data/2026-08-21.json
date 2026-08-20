@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "8 月 20 日 17 时 49 分，青海海西州直辖区附近（北纬 37.77 度，东经 95.60 度）发生 4.2 级左右地震，最终结果以正式速报为准。",
+    "id": "8vkQOc5Yr4s",
+    "order": 1787261126884,
+    "createdAt": "2026-08-20T21:25:26.884Z",
+    "publishDate": "2026-08-20T21:25:26.884Z",
+    "title": "青海海西州直辖区附近发生 4.2 级左右地震",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 05:25:26",
+    "uuid": "25a0ed0d-e0f5-49b8-9c56-40a4d3295a4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "博通正与贷款方洽谈 AI 芯片融资交易，拟筹集超 600 亿美元债务，方案或含约 300 亿美元次级债务档，优先担保债务档规模约 600 亿-700 亿美元，总规模最高可达 1000 亿美元，该交易将使 Anthropic PBC 及其他公司受益，目前融资方案仍在完善中。",
+    "id": "8vl9OzP0GqX",
+    "order": 1787260260866,
+    "createdAt": "2026-08-20T21:11:00.866Z",
+    "publishDate": "2026-08-20T21:11:00.866Z",
+    "title": "报道：博通在最新 AI 债务交易中寻求超 600 亿美元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 05:11:00",
+    "uuid": "c475e5e9-65bc-4e86-9526-bd9ef47277f6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "雷蛇即将于今晚 23:00 推出矮轴版本的猎魂光蛛键盘，新轴体为光学矮轴，大概率支持模拟输入，这类矮轴键盘整体高度较低，能提升人体工学舒适度，缓解长时间输入后的疲劳感。",
+    "id": "8vkbVSIGU4E",
+    "order": 1787259936387,
+    "createdAt": "2026-08-20T21:05:36.387Z",
+    "publishDate": "2026-08-20T21:05:36.387Z",
+    "title": "今晚 23:00 发布：雷蛇将推矮轴版本猎魂光蛛键盘",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 05:05:36",
+    "uuid": "7081b931-a9f9-467e-98e8-bc11f3740859"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "DoNews" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "泡泡玛特上半年营收 171.7 亿元，同比增长 23.8%，不及市场预估的 199.8 亿元。毛利率 69.7%，略低于预估的 70% ...",
+    "id": "8vkKJNGntKE",
+    "order": 1787259934747,
+    "createdAt": "2026-08-20T21:05:34.747Z",
+    "publishDate": "2026-08-20T21:05:34.747Z",
+    "title": "泡泡玛特上半年营收 171.7 亿元 不及市场预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 05:05:34",
+    "uuid": "9d802d3a-6960-4dc4-bc73-5e7b4a8abbb2"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "theblockbeats.info" },
       { "siteName": "格隆汇" }
