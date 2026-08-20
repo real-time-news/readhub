@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "阿里巴巴公告 2027 财年第一季度营收 2689.5 亿元人民币，预估 2685.2 亿元人民币。调整后净利润 207.2 亿元人民币，预估 255.8 亿元人民币 ...",
+    "id": "8vkOGPGe8tJ",
+    "order": 1787219124220,
+    "createdAt": "2026-08-20T09:45:24.220Z",
+    "publishDate": "2026-08-20T09:45:24.220Z",
+    "title": "阿里巴巴：2027 财年第一季度营收 2,689.5 亿元人民币",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 17:45:24",
+    "uuid": "5d50a229-a5f2-4185-b245-cd956d7c86a2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "阿里巴巴 2027 财年第一季度营收 2689.5 亿元，同比增长 9%，预估 2685.2 亿元。调整后净利润 207.2 亿元，预估 255.8 亿元 ...",
+    "id": "8vkOFWd9Cb0",
+    "order": 1787219124223,
+    "createdAt": "2026-08-20T09:45:24.223Z",
+    "publishDate": "2026-08-20T09:45:24.223Z",
+    "title": "阿里巴巴：2027 财年第一季度营收 2,689.5 亿元 同比增长 9%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 17:45:24",
+    "uuid": "258a0c06-ddb1-47a7-a411-3ccb177628cf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "金融界" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "腾讯控股 (00700.HK) 于 2026 年 8 月 19 日耗资 3 亿港元回购 67.3 万股，回购价格每股 438.2-449.2 港元。",
+    "id": "8vilAJWLwg5",
+    "order": 1787219124225,
+    "createdAt": "2026-08-20T09:45:24.225Z",
+    "publishDate": "2026-08-20T09:45:24.225Z",
+    "title": "腾讯控股 (00700.HK) 8 月 19 日耗资 3 亿港元回购 67.3 万股",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 17:45:24",
+    "uuid": "4b4cf991-e811-4849-be5f-fe1a89218eb1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "华鑫证券指出，金徽酒产品结构持续优化，补缴税款扰动利润，2026 年上半年总归母净利润 2.14 亿元（同比-28%），其中二季度归母净利润 0.10 亿元（同比-85%） ...",
+    "id": "8viapg2A2xE",
+    "order": 1787218872392,
+    "createdAt": "2026-08-20T09:41:12.392Z",
+    "publishDate": "2026-08-20T09:41:12.392Z",
+    "title": "研报掘金丨华鑫证券：维持金徽酒「买入」评级，产品结构持续优化",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 17:41:12",
+    "uuid": "7a48b52a-f8c0-43f1-ba70-fd768e4c4300"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "网易 2026 年第二季度归属于公司股东的净利润为 70 亿元（10 亿美元），上一季度和去年同期分别为 107 亿元及 86 亿元 ...",
+    "id": "8vkLjxbM3TX",
+    "order": 1787218872497,
+    "createdAt": "2026-08-20T09:41:12.497Z",
+    "publishDate": "2026-08-20T09:41:12.497Z",
+    "title": "网易第二季度归属于公司股东的净利润为 70 亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 17:41:12",
+    "uuid": "96bbd42f-9937-4521-82c3-bdc1ebf98d72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "东方证券研报指出，受短期因素拖累杰瑞股份 26Q2 业绩下降，预计后续盈利随影响因素改善逐渐恢复，其电力和数据中心板块订单快速增长，有望为明后年带来业绩增量 ...",
+    "id": "8vkBOUzwkSu",
+    "order": 1787218869925,
+    "createdAt": "2026-08-20T09:41:09.925Z",
+    "publishDate": "2026-08-20T09:41:09.925Z",
+    "title": "研报掘金丨东方证券：维持杰瑞股份「买入」评级，发电板块将开始贡献业绩增量",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 17:41:09",
+    "uuid": "96a34cf0-a93b-42a6-8daf-7bb23f70fa56"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" }
@@ -84,6 +187,23 @@
     "up": false,
     "date": "2026-08-20 17:01:22",
     "uuid": "edf24196-9360-42cb-be0e-496458d5bf14"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "界面" }
+    ],
+    "summary": "抖音近期上线「馋猫外卖」小游戏，它高度复刻主流外卖平台界面，通过模拟点外卖的娱乐化交互实现单人攒钱目的，用户支付的金额存入专属攒钱子账簿，可随时提现，相关店铺、订单等均为虚构，无真实交易，也无资金收益 ...",
+    "id": "8vkBNgov6rU",
+    "order": 1787218809086,
+    "createdAt": "2026-08-20T08:55:39.318Z",
+    "publishDate": "2026-08-20T09:40:09.086Z",
+    "title": "抖音推出馋猫外卖，点外卖实为攒钱游戏",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 16:55:39",
+    "uuid": "74c88a98-3a1f-45e1-8d09-a62d545a913c"
   },
   {
     "newsArray": [
@@ -350,6 +470,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "新加坡警方周四称已对铁矿石贸易商 Radiant World 展开调查，此前有知情人士透露美国司法部正调查该公司，因其交易对手担心该公司曾向银行提供铁矿石交易相关伪造文件，美国商品期货交易委员会也在审查涉及该公司及其债权人的交易 ...",
+    "id": "8vjs7NStU5U",
+    "order": 1787218869792,
+    "createdAt": "2026-08-20T08:20:46.158Z",
+    "publishDate": "2026-08-20T09:41:09.792Z",
+    "title": "新加坡当局开始调查铁矿石贸易商 Radiant World",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 16:20:46",
+    "uuid": "ae5a7d02-bdc4-4f9e-a331-8fbc84ab9111"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "界面" },
       { "siteName": "快科技" }
@@ -384,6 +521,23 @@
   },
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "blog.google" }
+    ],
+    "summary": "谷歌将 Gemini 整合进 Waymo 专为网约车打造的 Ojai 自动驾驶出租车中，该车型已在洛杉矶、菲尼克斯和旧金山向所有用户开放，还计划今年晚些时候进入丹佛、拉斯维加斯和圣迭戈，未来乘客可在 Ojai 与捷豹 I-Pace 自动驾驶出租车间选择 ...",
+    "id": "8vjHdUTusLa",
+    "order": 1787218879250,
+    "createdAt": "2026-08-20T07:45:40.426Z",
+    "publishDate": "2026-08-20T09:41:19.250Z",
+    "title": "Waymo 将 Gemini AI 助手整合进 Ojai 自动驾驶出租车，可语音调温度、查周边",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 15:45:40",
+    "uuid": "ba3dcc18-fc26-49f5-9ba5-09f8d8d54542"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
@@ -398,6 +552,28 @@
     "up": false,
     "date": "2026-08-20 15:45:38",
     "uuid": "ed7ce1e0-30bb-44b9-8271-28f2656d304a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "腾讯网" },
+      { "siteName": "搜狐科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "品玩" },
+      { "siteName": "智东西" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "DeepSeek Harness v0.1.0-rc.8 版本上线，带来 14 项调整，重点补齐多模态能力，支持原生图片请求和图文混合输入，/goal、/plan 等命令可接收图片，@菜单新增文件和会话引用 ...",
+    "id": "8vjoVP6BaiN",
+    "order": 1787218900950,
+    "createdAt": "2026-08-20T07:45:37.608Z",
+    "publishDate": "2026-08-20T09:41:40.950Z",
+    "title": "DeepSeek Harness 首发新版本：多模态能力升级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 15:45:37",
+    "uuid": "db05e446-806e-4757-8bcc-8145ba4694c4"
   },
   {
     "newsArray": [
