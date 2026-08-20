@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "赛力斯官宣问界 M6 上市 97 天累计交付超 4 万台，有博主爆料增程大电池后驱版即将发售 ...",
+    "id": "8vijkf9whlP",
+    "order": 1787188256207,
+    "createdAt": "2026-08-20T01:10:56.207Z",
+    "publishDate": "2026-08-20T01:10:56.207Z",
+    "title": "累计交付 4 万台后 曝问界 M6 大电池增程后驱版将发售",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 09:10:56",
+    "uuid": "a4af929c-8b74-4572-947e-07d9b945d68a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "SpaceX 曾接洽人工智能编程初创公司 Cognition AI 探讨潜在收购，收购谈判已暂停，但双方仍在讨论合作，包括 Cognition 或使用 SpaceX 的计算能力 ...",
+    "id": "8vjP9bRPc9S",
+    "order": 1787188256227,
+    "createdAt": "2026-08-20T01:10:56.227Z",
+    "publishDate": "2026-08-20T01:10:56.227Z",
+    "title": "SpaceX 曾寻求收购 AI 编程初创公司 Cognition",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 09:10:56",
+    "uuid": "c5e2b842-5f8f-442e-8d7c-6296128c7165"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "金融界" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美国东部时间 8 月 19 日晚 8 点左右，ChatGPT 出现全球大规模服务中断，用户无法登录、注册、加载聊天界面及读取历史对话，发送消息时会因「并发请求过多」报错，此次故障还波及 OpenAI 的代码平台 Codex 以及多达 12 个 API 接口，OpenAI 已在官方状态页公示故障情况，确认所有受影响服务均存在登录异常问题，团队正在推进修复方案落地，截至当晚 8 点 15 分，事件状态标注为「已定位问题、仍在处理中」。",
+    "id": "8vjm1zsqHOm",
+    "order": 1787188254664,
+    "createdAt": "2026-08-20T01:10:54.664Z",
+    "publishDate": "2026-08-20T01:10:54.664Z",
+    "title": "ChatGPT 突发全球大规模服务中断，OpenAI 称正在修复",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 09:10:54",
+    "uuid": "7b4ed89c-e0cd-4cb8-8110-33ad8508fae5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "商务部消费促进司负责人介绍 2026 年 7 月我国消费市场情况，新型消费蓬勃发展，消费品以旧换新带动绿色、智能消费增长，当月新能源乘用车零售渗透率达 65.1% 创历史新高，重点平台具身智能机器人、外骨骼助力器、运动相机、扫地机器人销售额分别增长 95.1%、39.5%、24.7%、19.4%。",
+    "id": "8vjnSUM3t3D",
+    "order": 1787188254665,
+    "createdAt": "2026-08-20T01:10:54.665Z",
+    "publishDate": "2026-08-20T01:10:54.665Z",
+    "title": "商务部：新型消费蓬勃发展",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 09:10:54",
+    "uuid": "2805dc99-fb90-4801-a9ea-824f2adb6d5a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "韩国 KOSPI 指数涨幅扩大至 4%，SK 海力士涨近 9%，三星电子涨超 5%。",
+    "id": "8vjleqnCc8t",
+    "order": 1787187048798,
+    "createdAt": "2026-08-20T00:50:48.798Z",
+    "publishDate": "2026-08-20T00:50:48.798Z",
+    "title": "韩国 KOSPI 指数涨幅扩大至 4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 08:50:48",
+    "uuid": "331ac6ce-4793-4cac-b4eb-451026c950ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "嫦娥七号探测器和长征五号遥十四运载火箭组合体已转运至文昌发射场发射区，计划近日择机发射，将奔赴月球南极执行综合探测任务 ...",
+    "id": "8vj4nmISMOr",
+    "order": 1787187048799,
+    "createdAt": "2026-08-20T00:50:48.799Z",
+    "publishDate": "2026-08-20T00:50:48.799Z",
+    "title": "嫦娥七号发射在即：将赴充满未知的月球南极，首要任务寻找水冰",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 08:50:48",
+    "uuid": "7179d59d-e369-43b4-b63e-2fd5a9e50ca4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "DoNews" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "支付巨头 Stripe Inc．已敲定以超 70 亿美元收购初创公司 OpenRouter Inc．，后者今年初估值为 13 亿美元，投资者包括 CapitalG、Andreessen Horowitz 和 Menlo Ventures ...",
+    "id": "8vjHcxTL0WF",
+    "order": 1787187048801,
+    "createdAt": "2026-08-20T00:50:48.801Z",
+    "publishDate": "2026-08-20T00:50:48.801Z",
+    "title": "Stripe 同意收购人工智能公司 OpenRouter",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 08:50:48",
+    "uuid": "e80d68ba-62f8-46a8-beab-1a35e90595d4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "帝尔激光在机构电话会议表示，TGV 相关应用主要包括先进封装玻璃基板通孔、FAU 及光通信玻璃无源器件等方向，玻璃基板在多方面具备优势，未来应用领域广泛 ...",
+    "id": "8vjkb5iMCd5",
+    "order": 1787187048801,
+    "createdAt": "2026-08-20T00:50:48.801Z",
+    "publishDate": "2026-08-20T00:50:48.801Z",
+    "title": "帝尔激光：TGV 及其衍生应用仍处于产业导入阶段，但客户关注度和市场活跃度较高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 08:50:48",
+    "uuid": "af248edc-85f0-49f9-aeb3-a56ea01a4b2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "NASA 宣布放弃借助 Katalyst Space 公司的 LINK 探测器拯救尼尔・格雷尔斯・斯威夫特天文台的轨道提升计划，因 LINK 存在姿态控制问题失控旋转 ...",
+    "id": "8vjKryLyNLL",
+    "order": 1787187048802,
+    "createdAt": "2026-08-20T00:50:48.802Z",
+    "publishDate": "2026-08-20T00:50:48.802Z",
+    "title": "NASA 宣布放弃拯救 Swift 天文台，其年底前将坠入大气层",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 08:50:48",
+    "uuid": "35eea423-bf9b-4f4e-8c18-4a84414abe06"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "受监管政策变化影响，自 2026 年年初以来苹果 App Store 美国市场佣金收入同比降 18%，2026 年第二季度美国消费者支出降 6%，去年同期则增长 9% ...",
+    "id": "8vi6mtssLci",
+    "order": 1787186730873,
+    "createdAt": "2026-08-20T00:45:30.873Z",
+    "publishDate": "2026-08-20T00:45:30.873Z",
+    "title": "报告称 2026 苹果 App Store 在美国佣金收入同比下降 18%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-20 08:45:30",
+    "uuid": "49f7ed24-7f0f-4c63-a7a7-bc9d756c5f0c"
+  },
+  {
+    "newsArray": [
       { "siteName": "医谷网" },
       { "siteName": "健康界" },
       { "siteName": "aibase" }
