@@ -1,5 +1,35 @@
 [
   {
+    "newsArray": [{ "siteName": "搜狐科技" }],
+    "summary": "网传英伟达正计划借助Groq的LPU（语言处理单元）技术，为中国市场打造一款定制AI推理芯片，最快今年年底开始小批量出货。英伟达方面迅速出面否认 ...",
+    "id": "jKYPG5bkem",
+    "order": 1787302494472,
+    "createdAt": "2026-08-21T08:53:18.113Z",
+    "publishDate": "2026-08-21T08:54:54.472Z",
+    "title": "传年底推中国定制 AI 芯片，英伟达否认",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 16:53:18",
+    "uuid": "9b28e583-6634-43ad-b598-43e5ef6e58b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "中煤能源（601898）公告，2026 年上半年营业收入 731.36 亿元，同比下降 1.8% ...",
+    "id": "8vlxprilHmW",
+    "order": 1787301933804,
+    "createdAt": "2026-08-21T08:45:33.804Z",
+    "publishDate": "2026-08-21T08:45:33.804Z",
+    "title": "中煤能源：2026 年上半年净利润同比增长 5.8%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 16:45:33",
+    "uuid": "47e59744-47b0-4f17-ac72-8bcdc88ea2d3"
+  },
+  {
     "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "金融界" },
@@ -17,6 +47,23 @@
     "up": false,
     "date": "2026-08-21 16:15:26",
     "uuid": "bd95ed17-e757-4132-9741-f6882056d5a6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "搜狐科技" }
+    ],
+    "summary": "英伟达正与韩国 AI 芯片设计企业 Rebellions 展开初步磋商，探讨技术合作、投资甚至收购等可能性，双方高管已会面 ...",
+    "id": "8vlXPsGrThs",
+    "order": 1787302532104,
+    "createdAt": "2026-08-21T08:15:25.857Z",
+    "publishDate": "2026-08-21T08:55:32.104Z",
+    "title": "英伟达洽谈与芯片初创企业 Rebellions 达成潜在交易",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 16:15:25",
+    "uuid": "df6b04a3-7faf-4841-bfa2-7f8400f5815d"
   },
   {
     "newsArray": [
@@ -183,6 +230,25 @@
   },
   {
     "newsArray": [
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "速途网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "阿里云 MaaS 扩充实模型服务矩阵，智谱 GLM-5.3 与 DeepSeek-V4-Pro 正式版接入千问 AI 平台，相关 API 即日起向开发者开放 ...",
+    "id": "8vlbKFHDZiA",
+    "order": 1787302569156,
+    "createdAt": "2026-08-21T07:51:16.689Z",
+    "publishDate": "2026-08-21T08:56:09.156Z",
+    "title": "GLM-5.3、Deepseek-V4-Pro 等多款模型上线千问 AI 平台",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 15:51:16",
+    "uuid": "8a60f54a-e7f8-4d8d-b2aa-9c696b2f2e3a"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "央视新闻" },
       { "siteName": "格隆汇" },
@@ -341,6 +407,24 @@
   },
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "现代汽车工会因与管理层就薪资等问题未达成协议，于周五发起十年来首次八小时全天罢工，蔚山、全州和牙山工厂约 3.9 万名工会成员参与两个班次罢工，停产约 16 小时 ...",
+    "id": "8vlOocTxSIl",
+    "order": 1787302585459,
+    "createdAt": "2026-08-21T06:50:46.579Z",
+    "publishDate": "2026-08-21T08:56:25.459Z",
+    "title": "现代汽车近 4 万工人举行十年来首次全面罢工",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 14:50:46",
+    "uuid": "64befce3-eee4-4c76-ac9f-60e66a2b24c2"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
@@ -494,6 +578,23 @@
     "up": false,
     "date": "2026-08-21 14:41:04",
     "uuid": "04149dcb-675a-4f5f-ae90-020884b176ba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "aibase" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "腾讯新一代大模型 Hy4 内部测试界面曝光，距正式发布不远。腾讯延续自研与集成开源并行战略，提供 Hy4、Hy3、DeepSeek 三项核心选择 ...",
+    "id": "8vkbWHSJsdb",
+    "order": 1787302615862,
+    "createdAt": "2026-08-21T06:21:01.575Z",
+    "publishDate": "2026-08-21T08:56:55.862Z",
+    "title": "腾讯新一代大模型 Hy4 将发布，将成 WorkBuddy 核心引擎",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 14:21:01",
+    "uuid": "b964b480-d4fc-4cc4-a073-d1776b88bc73"
   },
   {
     "newsArray": [
