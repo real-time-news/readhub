@@ -1,6 +1,161 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "将沃尔玛百货（WMT.US）目标价从 137 美元下调至 131 美元。",
+    "id": "8vlcMeT1qu1",
+    "order": 1787307925806,
+    "createdAt": "2026-08-21T10:25:25.806Z",
+    "publishDate": "2026-08-21T10:25:25.806Z",
+    "title": "加拿大皇家银行下调沃尔玛目标价至 131 美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 18:25:25",
+    "uuid": "ef0abb3a-a1ee-41bb-a3e2-35c8f828b60c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "DeepSeek-V4-Flash-Vision-Exp 在 DeepSeek API 平台上线，文本能力与 DeepSeek-V4-Flash 持平，涵盖 agent、推理和世界知识等领域，在多模态智能体基准测试中性能较 V4-Flash 大幅提升，接近 Opus-4.8 ...",
+    "id": "8vm3ItAbwLS",
+    "order": 1787307321405,
+    "createdAt": "2026-08-21T10:15:21.405Z",
+    "publishDate": "2026-08-21T10:15:21.405Z",
+    "title": "DeepSeek 新一代多模态模型上线，性能接近 Opus-4.8",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 18:15:21",
+    "uuid": "03ca9b59-aecd-4946-9ab6-99366c957e27"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "theblockbeats.info" }
+    ],
+    "summary": "DeepSeek-V4-Flash-Vision-Exp 正式上线，其纯文本能力与 DeepSeek-V4-Flash 正式版持平，在视觉 Agent Benchmark 上相较后者大幅跃升，多模态 Agent 能力已接近 Opus-4.",
+    "id": "8vm38sDwVfR",
+    "order": 1787307321443,
+    "createdAt": "2026-08-21T10:15:21.443Z",
+    "publishDate": "2026-08-21T10:15:21.443Z",
+    "title": "DeepSeek 推出新的多模态模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 18:15:21",
+    "uuid": "3240ef83-bca7-4e3f-8eef-73df1a628c24"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "即日起至 9 月 20 日，Xiaomi Watch 5、Watch 5 eSIM、Watch S5 46mm 及 Watch S5 eSIM 46mm 四款设备用户，将手表固件及网易云音乐 App 升级至最新版本后，在手表端打开该应用扫码登录并播放任意一首「私人漫游」推荐歌曲，即可免费领取 1 个月仅限手表版 App 使用的网易云音乐「手表版 VIP」权益，每个设备与账号限领一次 ...",
+    "id": "8vlwlyooOxB",
+    "order": 1787307321622,
+    "createdAt": "2026-08-21T10:15:21.622Z",
+    "publishDate": "2026-08-21T10:15:21.622Z",
+    "title": "小米携手网易云音乐送福利：Watch 5 及 S5 系列用户可领 1 个月手表版 VIP",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 18:15:21",
+    "uuid": "2f44adfa-367a-498e-b230-dfcea0a8d041"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "宏桥控股 (002379.SZ) 发布 2026 年半年度报告，上半年实现营业收入 865.04 亿元，同比增长 11.95% ...",
+    "id": "8vm4xPyoL7W",
+    "order": 1787307320394,
+    "createdAt": "2026-08-21T10:15:20.393Z",
+    "publishDate": "2026-08-21T10:15:20.394Z",
+    "title": "宏桥控股：上半年净利润 156.45 亿元 同比扭亏为盈",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 18:15:20",
+    "uuid": "f5ca815c-bf93-482a-8f14-ba8a398a3665"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中兴通讯公告，2026 年上半年营业收入 780.25 亿元，同比增长 9.05%。归属于上市公司股东的净利润 27.53 亿元，同比下降 45.57% ...",
+    "id": "8vm5LS0Os7z",
+    "order": 1787307319089,
+    "createdAt": "2026-08-21T10:15:19.089Z",
+    "publishDate": "2026-08-21T10:15:19.089Z",
+    "title": "中兴通讯：2026 年上半年净利润 27.53 亿元，同比下降 45.57%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 18:15:19",
+    "uuid": "687cc708-76bd-4af5-9229-b35387e2c381"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英伟达首席执行官黄仁勋本周在加州圣克拉拉的英伟达总部会见三星电子支持的韩国 AI 芯片公司 Rebellions 联合创始人兼 CEO 朴成铉，双方就潜在合作展开洽谈。",
+    "id": "8vlwNIc8AQV",
+    "order": 1787307319090,
+    "createdAt": "2026-08-21T10:15:19.090Z",
+    "publishDate": "2026-08-21T10:15:19.090Z",
+    "title": "英伟达与 AI 芯片公司 Rebellions 就潜在交易进行谈判",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 18:15:19",
+    "uuid": "73137223-f73e-4165-b8fd-6b206afbaf4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "央视新闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "我国自主研发的新一代深水多功能海洋工程船「海洋石油 292」在江苏完工交付 ...",
+    "id": "8vlVEb1NHX2",
+    "order": 1787306723101,
+    "createdAt": "2026-08-21T10:05:23.101Z",
+    "publishDate": "2026-08-21T10:05:23.101Z",
+    "title": "我国自研新一代深水多功能海洋工程船完工交付",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 18:05:23",
+    "uuid": "edd363a8-c30f-4eb3-b036-4eec82c8e61b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家金融监管总局因恒大人寿保险有限公司存在保险资金运用严重不合规、向关联方输送利益、投后管理不合规、报送的报告报表存在虚假记载等问题，对其吊销业务许可证。",
+    "id": "8vm25gAHs4r",
+    "order": 1787306723106,
+    "createdAt": "2026-08-21T10:05:23.106Z",
+    "publishDate": "2026-08-21T10:05:23.106Z",
+    "title": "金融监管总局：对恒大人寿保险有限公司吊销业务许可证",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-21 18:05:23",
+    "uuid": "1e72320c-7f49-42de-9f84-7dcaf057d5c3"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "IT 之家" },
