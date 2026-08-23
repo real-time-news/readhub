@@ -1,6 +1,41 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "东风日产发布公告称，因服务器机房电力故障，车主 App 登录、远程控制等线上功能无法使用，目前正全力抢修，力争尽快恢复 ...",
+    "id": "8vpA6AwcxDR",
+    "order": 1787476240233,
+    "createdAt": "2026-08-23T09:10:40.233Z",
+    "publishDate": "2026-08-23T09:10:40.233Z",
+    "title": "东风日产：车主 App 因机房电力故障导致无法使用",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-23 17:10:40",
+    "uuid": "c3573199-4a99-4d9a-bbd4-e42bd1ae49fe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达明确否认年底前向中国客户小批量出货定制 AI 芯片的消息，称目前中国市场无 LPU 销售，产品路线图中也无针对中国市场的 LPU 产品 ...",
+    "id": "8vnfvj5Xls0",
+    "order": 1787476240236,
+    "createdAt": "2026-08-23T09:10:40.236Z",
+    "publishDate": "2026-08-23T09:10:40.236Z",
+    "title": "英伟达否认年底前推出中国特供 AI 芯片：路线图中无此产品",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-23 17:10:40",
+    "uuid": "99bb181c-02df-4e29-a3c7-ba20b9ce865d"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" }
