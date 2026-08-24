@@ -1,6 +1,42 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "当地时间 8 月 24 日，经合组织发布初步数据显示，2026 年第二季度其成员经济体 GDP 环比增长 0.5%，较第一季度的 0.4% 略有加快，同比增长 2.3%，高于第一季度的 1.7% ...",
+    "id": "8vrvauZos5p",
+    "order": 1787611551417,
+    "createdAt": "2026-08-24T22:45:51.417Z",
+    "publishDate": "2026-08-24T22:45:51.417Z",
+    "title": "经合组织：二季度七国集团经济增速放缓至 0.3%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 06:45:51",
+    "uuid": "fe341422-062a-4ae5-9619-5769a13507fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美联储 9 月维持利率不变的概率为 58.6%，累计加息 25 个基点的概率为 41.4% ...",
+    "id": "8vrutA4ztZg",
+    "order": 1787611295978,
+    "createdAt": "2026-08-24T22:41:35.978Z",
+    "publishDate": "2026-08-24T22:41:35.978Z",
+    "title": "美联储 9 月维持利率不变的概率为 58.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 06:41:35",
+    "uuid": "4fe11b7b-1d4c-4f1b-bd8f-51dedc7a3181"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "techflowpost.com" },
       { "siteName": "格隆汇" }
