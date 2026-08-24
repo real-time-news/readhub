@@ -1,6 +1,92 @@
 [
   {
     "newsArray": [
+      { "siteName": "9to5Mac" },
+      { "siteName": "手机中国" },
+      { "siteName": "9to5Mac" }
+    ],
+    "summary": "iOS 27 系统更新数周内将推送，重点修复信息应用的消息发送失败、媒体文件传输阻塞、跨设备同步问题，包括实现发送失败自动重试、消息独立发送互不影响、提升跨设备同步稳定性，还涵盖 Safari、邮件、日历等应用的性能改进和错误修复，完整功能列表将在正式推送后公布。",
+    "id": "8vrEnR5pHGI",
+    "order": 1787600750688,
+    "createdAt": "2026-08-24T19:45:50.688Z",
+    "publishDate": "2026-08-24T19:45:50.688Z",
+    "title": "苹果 iOS 27 修复信息应用三大 BUG 包括消息发送失败",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 03:45:50",
+    "uuid": "38a500e7-6274-478d-9210-6800df4bcb6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "亚马逊 AWS 推出 Glue 6.0，实现更快、更具成本效益的数据集成，该版本升级使 AWS Glue 定价降低 30%。",
+    "id": "8vrheqABEwZ",
+    "order": 1787600750691,
+    "createdAt": "2026-08-24T19:45:50.691Z",
+    "publishDate": "2026-08-24T19:45:50.691Z",
+    "title": "亚马逊 AWS 推出 Glue 6.0，实现更快、更具成本效益的数据集成",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 03:45:50",
+    "uuid": "74f5d4a9-220f-4a6c-a996-f6fc18bb80c0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "极客公园" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "雷军发文解读小米新一代玄戒自研芯片产品线，共三款：旗舰手机 SoC 玄戒 O3，基于 3nm 工艺，集成 240 亿晶体管，CPU、GPU、NPU 性能强劲，将在小米 18 Fold 上首发 ...",
+    "id": "8vqzjxW7j99",
+    "order": 1787600493047,
+    "createdAt": "2026-08-24T19:41:33.047Z",
+    "publishDate": "2026-08-24T19:41:33.047Z",
+    "title": "雷军详解玄戒三款自研芯片 五年累计研发经费超 210 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 03:41:33",
+    "uuid": "45c2a398-8438-456c-b392-b3b55603a847"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "恒指期货夜盘收涨 0.63%，报 25547.92 点，高水 30.59 点。",
+    "id": "8vrgaOEBmoy",
+    "order": 1787600493679,
+    "createdAt": "2026-08-24T19:41:33.679Z",
+    "publishDate": "2026-08-24T19:41:33.679Z",
+    "title": "恒指期货夜盘收涨 0.63%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 03:41:33",
+    "uuid": "c3311387-3c10-4ed9-a2a2-ba359f853609"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "Coinbase 近日宣布将代币化股票业务部署于自家 Layer 2 网络 Base 之上，用户交易的代币化现金股票由其托管的真实股票 1:1 全额背书，代表对应上市公司部分所有权并享有底层资产经济收益权，此次更新是其基础设施的重大扩展，旨在为 DeFi 用户提供接触传统资本市场的途径，拓宽区块链生态应用边界。",
+    "id": "8vraAKEQ6br",
+    "order": 1787600491006,
+    "createdAt": "2026-08-24T19:41:31.006Z",
+    "publishDate": "2026-08-24T19:41:31.006Z",
+    "title": "Coinbase 在 Base 网络推出代币化股票服务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 03:41:31",
+    "uuid": "931bf3ca-f363-4310-989a-6ef4df9f5a80"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
