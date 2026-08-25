@@ -1,6 +1,40 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "特斯拉公布一项专利申请，拟将含微孔晶态铝硅酸盐颗粒的聚丙烯材料融入前置摄像头外壳，通过吸附捕获 VOC 分子，从源头上阻止污染物在挡风玻璃内侧积聚以改善摄像头视野问题，该方案为被动式，此前马斯克曾提及简化摄像头清洁是重点关注领域，目前该技术是否量产尚未确定。",
+    "id": "8vs2U3o77bX",
+    "order": 1787638282987,
+    "createdAt": "2026-08-25T06:11:22.987Z",
+    "publishDate": "2026-08-25T06:11:22.987Z",
+    "title": "特斯拉公布新专利，从源头解决前置摄像头起雾问题",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 14:11:22",
+    "uuid": "b5c33cab-0c64-4a88-bc07-13bd3fece9d2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "9to5Mac" }
+    ],
+    "summary": "OpenAI 推出 ChatGPT 自定义贴纸功能，用户可通过上传图片、文字提示、迁移视觉风格等方式生成带透明背景的个性化贴纸，还能创建完整贴纸包，完成后可导出至 iMessage、WhatsApp 或保存到照片，其中 WhatsApp 要求一次至少导出 3 个贴纸 ...",
+    "id": "8vrvyWZQDUR",
+    "order": 1787638278156,
+    "createdAt": "2026-08-25T06:11:18.156Z",
+    "publishDate": "2026-08-25T06:11:18.156Z",
+    "title": "ChatGPT 上线自定义贴纸功能，支持导出 iMessage 和 WhatsApp",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 14:11:18",
+    "uuid": "17c055c8-5399-4174-8525-b8ac90c451c8"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
