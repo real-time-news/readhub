@@ -1,6 +1,161 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "网易科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "8 月 20 日在韩国大邱失联的 25 岁中国女留学生文文（A）被发现身亡，韩国庆北警察厅于 8 月 25 日抓获涉嫌杀害她的 30 多岁男性 B，警方计划对遗体进行尸检以确认死因，调查细节暂未公开 ...",
+    "id": "8vt0RbDZj5j",
+    "order": 1787673078006,
+    "createdAt": "2026-08-25T15:51:18.006Z",
+    "publishDate": "2026-08-25T15:51:18.006Z",
+    "title": "在韩失联中国女生被发现身亡，中领馆要求立即开展全面调查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 23:51:18",
+    "uuid": "d796f0db-bf02-4072-a787-48d886225a0d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "截至目前，2026 年度电影总票房（含预售）突破 275 亿元，其中暑期档票房（含预售）突破 117 亿元，暑期档连续 46 天单日票房过亿，观影人次、放映场次均刷新历史纪录。",
+    "id": "8vt5QSEVZ6q",
+    "order": 1787673077229,
+    "createdAt": "2026-08-25T15:51:17.229Z",
+    "publishDate": "2026-08-25T15:51:17.229Z",
+    "title": "2026 年度电影总票房突破 275 亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 23:51:17",
+    "uuid": "6f28848e-4942-4d15-accc-61529aa6c01e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "近日，海博思创智算投资（海南）有限公司成立，法定代表人为石晓霄，注册资本 5 亿人民币，经营范围涵盖以自有资金从事投资活动、融资咨询服务、软件开发等多项业务，由海南启芯智云科技合伙企业（有限合伙）、北京海博思创科技股份有限公司、新博创（北京）国际控股有限公司共同持股。",
+    "id": "8vsJCjU5IZS",
+    "order": 1787672745618,
+    "createdAt": "2026-08-25T15:45:45.618Z",
+    "publishDate": "2026-08-25T15:45:45.618Z",
+    "title": "海博思创等在海南成立新公司，注册资本 5 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 23:45:45",
+    "uuid": "fca1e483-3f7b-4b8e-ad29-d4218a63e1a7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "投资界" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "均胜电子 2026 年半年报显示，实现营收约 281 亿元，归母净利润约 7.4 亿元，同比增约 4.4%，经营性净现金流约 19.3 亿元且同比逐步提升 ...",
+    "id": "8vsxwkcZdLl",
+    "order": 1787672744322,
+    "createdAt": "2026-08-25T15:45:44.322Z",
+    "publishDate": "2026-08-25T15:45:44.322Z",
+    "title": "均胜电子上半年归母净利润约 7.4 亿，海外毛利率突破 18%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 23:45:44",
+    "uuid": "4992fd8d-6c68-4329-86dd-5c9287e48e4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "过去 24 小时全网 83465 人爆仓，总金额 3.61 亿美元，多单爆仓 1.57 亿美元、空单爆仓 2.04 亿美元 ...",
+    "id": "8vrRbGwaS7o",
+    "order": 1787672493048,
+    "createdAt": "2026-08-25T15:41:33.048Z",
+    "publishDate": "2026-08-25T15:41:33.048Z",
+    "title": "过去 24 小时全网爆仓 3.61 亿美元，空单爆仓超 2 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 23:41:33",
+    "uuid": "f64d4d2a-c71b-43ca-9e2c-fd7bf4e5d481"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英伟达推出 Jetson Orin Nano 2 机器人计算机，其拥有每秒 78 万亿次 AI 运算、8GB 内存和 8 核 Arm CPU，AI 和视频处理性能显著提升，经济高效且节能，推理性能为 Jetson Orin Nano Super 的两倍，15 瓦模式下功耗降低 40% 且性能与前代相当，该模块及开发者套件预计 2027 年上半年上市。",
+    "id": "8vt4hxbrx6T",
+    "order": 1787672493061,
+    "createdAt": "2026-08-25T15:41:33.061Z",
+    "publishDate": "2026-08-25T15:41:33.061Z",
+    "title": "英伟达宣布推出 Jetson Orin Nano 2 机器人计算机",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 23:41:33",
+    "uuid": "a201298f-afb3-4ffc-bf87-2f314e8f1a6c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "8 月 25 日晚，北京越野泰钽 700 正式上市，官方超级焕新价 24.98 万元起，首批车型已开始发运并开启全国交付 ...",
+    "id": "8vswClX3llJ",
+    "order": 1787670678354,
+    "createdAt": "2026-08-25T15:11:18.354Z",
+    "publishDate": "2026-08-25T15:11:18.354Z",
+    "title": "北京越野泰钽 700 正式上市 搭载华为 ADS 5 售 24.98 万起",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 23:11:18",
+    "uuid": "62ff592e-45b5-4ba1-a938-33063c8136c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "截至 8 月 25 日，北京边检总站今年查验的出入境人员总量突破 1500 万人次，同比增长 9%，较去年提前 20 天达到这一数量级，当前北京口岸因暑期出入境旅游、商务、探亲等需求，客流呈稳步攀升、高位运行态势。",
+    "id": "8vsmqjbLOeF",
+    "order": 1787670678457,
+    "createdAt": "2026-08-25T15:11:18.457Z",
+    "publishDate": "2026-08-25T15:11:18.457Z",
+    "title": "北京口岸今年出入境人员总量突破 1500 万人次",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 23:11:18",
+    "uuid": "f207b878-7105-48a4-8376-706cd66c8cc9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "荣耀今日宣布 MagicOS 11 平板内测版本已全面推送，涉及 MagicPad 3 Pro 和 MagicPad 3 Pro 12.3 机型 ...",
+    "id": "8vsu3rYY5lt",
+    "order": 1787670677380,
+    "createdAt": "2026-08-25T15:11:17.380Z",
+    "publishDate": "2026-08-25T15:11:17.380Z",
+    "title": "荣耀 MagicOS 11 平板内测版本全面推送，覆盖 MagicPad 3 Pro 等机型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-25 23:11:17",
+    "uuid": "753266ae-8fec-4ce1-852a-ace44194b4e1"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" }
