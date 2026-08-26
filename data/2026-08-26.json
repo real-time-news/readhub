@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "8 月 26 日，WTI 原油日内涨幅扩大至 1.00%，现报 81.50 美元 / 桶。布伦特原油日内涨幅扩大至 1.00%，现报 86.72 美元 / 桶。",
+    "id": "8vujEJ4oBja",
+    "order": 1787758835534,
+    "createdAt": "2026-08-26T15:40:35.534Z",
+    "publishDate": "2026-08-26T15:40:35.534Z",
+    "title": "国际原油日内涨幅扩大至 1%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 23:40:35",
+    "uuid": "ddf22da6-a954-417c-94c3-a9536bea092a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "daily.dev" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "亚马逊 AWS 将收购总部位于阿姆斯特丹、运营 DuckDB 的 Ducklabs 公司，但不会收购 DuckDB 开源项目，该项目将在独立的 DuckDB 基金会下保持免费开源状态。",
+    "id": "8vubksHBJcL",
+    "order": 1787758831900,
+    "createdAt": "2026-08-26T15:40:31.900Z",
+    "publishDate": "2026-08-26T15:40:31.900Z",
+    "title": "亚马逊 AWS 将收购 Ducklabs 公司",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 23:40:31",
+    "uuid": "26b54666-8d58-4218-bbfc-d1f89603fc32"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "MINIMAX 此前与阿里方面分别签订了至 2028 年 12 月 31 日的 API 服务提供协议及云产品服务采购协议，8 月 26 日交易时段后，公司与阿里云计算有限公司订立两份补充协议，修订上述协议项下 2026、2027 及 2028 年的持续关连交易年度上限。",
+    "id": "8vuhXj8ruF9",
+    "order": 1787757319182,
+    "createdAt": "2026-08-26T15:15:19.182Z",
+    "publishDate": "2026-08-26T15:15:19.182Z",
+    "title": "MINIMAX：修订阿里云计算服务协议项下持续关连交易的年度上限",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 23:15:19",
+    "uuid": "0da0aeed-8d5c-447d-9026-7e540253a908"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中华网" },
+      { "siteName": "财联社" },
+      { "siteName": "中华网" }
+    ],
+    "summary": "中国飞鹤发布 2026 年半年度业绩报告，报告期内营收 93.6 亿元，同比增长 2.3%，净利润 9.01 亿元 ...",
+    "id": "8vuhWoXJS1M",
+    "order": 1787757319561,
+    "createdAt": "2026-08-26T15:15:19.561Z",
+    "publishDate": "2026-08-26T15:15:19.561Z",
+    "title": "中国飞鹤 2026 半年报公布：营收 93.6 亿元 净利 9.01 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 23:15:19",
+    "uuid": "0ff4fdb0-99f3-46e7-99e0-c7d5dc2b1f3d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "aibase" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "京东在第十八届国际交通技术与设备展览会上推出「超脑」大模型 3.0 版本，该版本作为物流领域首个全流程 AI 指挥的工业级应用集成体，在亿级包裹端到端路径规划效率上实现突破，数秒即可得出最优解，能覆盖从入库到末端配送全环节，通过智能协同优化供应链核心要素，实现运营效率系统性提升、成本有效控制，是 AI 技术与实体产业深度融合成果，为物流行业智能化转型提供可复制范本。",
+    "id": "8vuHPTQfyyp",
+    "order": 1787757024673,
+    "createdAt": "2026-08-26T15:10:24.673Z",
+    "publishDate": "2026-08-26T15:10:24.673Z",
+    "title": "京东「超脑」大模型 3.0 亮相，物流全流程 AI 协同优化效率飙升",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 23:10:24",
+    "uuid": "4de2c310-abe4-4eec-83db-1a07919941e8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "阿里通义千问团队发布多模态 MoE 模型 Qwen3.8-Flash，同时开源 Qwen3.8-Flash-Next 权重，其为 Qwen4 系列雏形 ...",
+    "id": "8vuaf65CvSA",
+    "order": 1787755828321,
+    "createdAt": "2026-08-26T14:50:28.321Z",
+    "publishDate": "2026-08-26T14:50:28.321Z",
+    "title": "阿里通义发布 Qwen3.8-Flash 模型：125B 参数，训练成本仅为前代 1/9",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:50:28",
+    "uuid": "b573bf8f-c9c1-4556-9151-cf7b23dc2ffa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "柯尔百货公布第二季度业绩，销售额同比降 0.9% 至 33 亿美元，调整后营业利润 1.61 亿美元，调整后每股收益 0.56 美元，低于市场预期 1 美分，同店销售额降 0.9% ...",
+    "id": "8vuSBs3LTpg",
+    "order": 1787755827952,
+    "createdAt": "2026-08-26T14:50:27.952Z",
+    "publishDate": "2026-08-26T14:50:27.952Z",
+    "title": "柯尔百货 Q2 销售额同比小幅下降，上调全年业绩指引",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:50:27",
+    "uuid": "3392bdb9-26a4-437b-88f6-87394db45b35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "杭州银行发布 2026 年半年度报告，上半年实现营业收入 210.48 亿元，同比增长 4.75% ...",
+    "id": "8vuS9HzquTl",
+    "order": 1787755522578,
+    "createdAt": "2026-08-26T14:45:22.578Z",
+    "publishDate": "2026-08-26T14:45:22.578Z",
+    "title": "杭州银行：上半年净利润 128.13 亿元 同比增长 9.87%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:45:22",
+    "uuid": "c8111b78-a3f9-4663-a056-5777cd58f1b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "MiniMax 收入结构快速变化，2026 年中期 ARR 中 To B 业务占比约 80%，To C 业务占比约 20%，较去年同期 To B 占比 30%、To C 占比 70% 的结构有明显转变 ...",
+    "id": "8vuewNAAO2g",
+    "order": 1787755522578,
+    "createdAt": "2026-08-26T14:45:22.578Z",
+    "publishDate": "2026-08-26T14:45:22.578Z",
+    "title": "MiniMax：从 ARR 结构看 To B 业务占比已达到约 80%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:45:22",
+    "uuid": "0c537e25-7291-4b87-bb31-5d78d91d0ab5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "IBM 已完成对专长涵盖量子计算等领域的研发机构 HRL Laboratories 的收购，此次收购补充了 IBM 在量子制造和基础设施领域的创新与投资，HRL 的硅基量子技术专业知识为其与 IBM 纯量子晶圆代工厂 Anderon 的合作创造机会，可支持可扩展制造方法、加速多种量子计算模式的学习周期，波音和通用汽车将继续与 IBM 及 HRL 合作开展量子应用和先进技术开发，交易财务条款未披露。",
+    "id": "8vuXRtxaBR6",
+    "order": 1787755234195,
+    "createdAt": "2026-08-26T14:40:34.195Z",
+    "publishDate": "2026-08-26T14:40:34.195Z",
+    "title": "IBM 完成对 HRL 实验室的收购 加速量子未来的发展",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:40:34",
+    "uuid": "382ed571-8f0d-4f97-88bc-266f78b89e79"
+  },
+  {
+    "newsArray": [
       { "siteName": "DoNews" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "36Kr" }
