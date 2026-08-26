@@ -1,6 +1,188 @@
 [
   {
     "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "匈牙利总理毛焦尔称，因多瑙河低水位曾部分停运的保克什核电站已实现满负荷运转，所有四个反应堆和八台汽轮机均正常运行 ...",
+    "id": "8vv4JZnrKrF",
+    "order": 1787785831076,
+    "createdAt": "2026-08-26T23:10:31.076Z",
+    "publishDate": "2026-08-26T23:10:31.076Z",
+    "title": "匈牙利总理：保克什核电站恢复满负荷运转",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 07:10:31",
+    "uuid": "1df20abb-3251-41fc-a070-8ead29ea71fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "截至 2026 年 8 月 26 日早间，创业板 1403 家公司中已有 781 家披露 2026 年半年报，合计营收 1.61 万亿元，同比增 24.04% ...",
+    "id": "8vvEJyj0hOC",
+    "order": 1787785830998,
+    "createdAt": "2026-08-26T23:10:30.997Z",
+    "publishDate": "2026-08-26T23:10:30.998Z",
+    "title": "781 份创业板半年报扫描 超七成公司盈利 AI 产业链高景气度持续验证",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 07:10:30",
+    "uuid": "68356b53-fe78-430e-bd1c-75afc7109241"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "医药魔方" },
+      { "siteName": "动脉网" }
+    ],
+    "summary": "京科康养产业集团完成新一轮战略融资，由老股东北京春雨资本持续加持，齐鲁甄选、凡知云链医疗生态链平台联合参与 ...",
+    "id": "8vtgvvG5qXz",
+    "order": 1787783117243,
+    "createdAt": "2026-08-26T22:25:17.243Z",
+    "publishDate": "2026-08-26T22:25:17.243Z",
+    "title": "京科康养完成 A 轮融资，专注于大健康领域产品研发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 06:25:17",
+    "uuid": "a4011aca-31b8-4075-9bd1-62c442f1d9fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "英伟达首席财务官表示，预计第三财季毛利率为 74%，上下浮动 50 个基点。第四财季毛利率将在 71% 至 72% 之间触底。2028 财年毛利率应稳定在 72% 至 73%。",
+    "id": "8vvBTKkcJoI",
+    "order": 1787782229786,
+    "createdAt": "2026-08-26T22:10:29.786Z",
+    "publishDate": "2026-08-26T22:10:29.786Z",
+    "title": "英伟达首席财务官：预计 2028 财年毛利率应稳定在 72% 至 73%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 06:10:29",
+    "uuid": "e7656a69-3c21-462a-97e1-8db7e56c28af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "英伟达首席财务官称公司已向人工智能实验室投入超 500 亿美元。",
+    "id": "8vvB6AnKSyq",
+    "order": 1787780719700,
+    "createdAt": "2026-08-26T21:45:19.700Z",
+    "publishDate": "2026-08-26T21:45:19.700Z",
+    "title": "英伟达首席财务官表示，公司已向人工智能实验室投入超过 500 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 05:45:19",
+    "uuid": "c895b324-605a-4d29-844f-a54eb13eaae3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "英伟达称亚马逊将额外部署 200 万块 GPU。",
+    "id": "8vvA1uKOBh3",
+    "order": 1787780434047,
+    "createdAt": "2026-08-26T21:40:34.047Z",
+    "publishDate": "2026-08-26T21:40:34.047Z",
+    "title": "英伟达称亚马逊将额外部署 200 万块 GPU",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 05:40:34",
+    "uuid": "9cb57b96-81b3-4b11-95ab-976b2bf7b7d1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英伟达上半年总营收的 44% 来自三家直接客户。",
+    "id": "8vv8bdQVdZb",
+    "order": 1787778621696,
+    "createdAt": "2026-08-26T21:10:21.696Z",
+    "publishDate": "2026-08-26T21:10:21.696Z",
+    "title": "英伟达表示，上半年总营收的 44% 来自三家直接客户",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 05:10:21",
+    "uuid": "5eea97b1-d618-4f33-94fb-3e4c095fa87e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "英伟达称未来将同时交付 Blackwell 与 Rubin 系统，目前正面临部分供应限制。",
+    "id": "8vv8bilTvEq",
+    "order": 1787778621709,
+    "createdAt": "2026-08-26T21:10:21.709Z",
+    "publishDate": "2026-08-26T21:10:21.709Z",
+    "title": "英伟达：未来将同时交付 Blackwell 与 Rubin 系统",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 05:10:21",
+    "uuid": "fe95c469-5d5b-4ba9-a38b-1d569600a812"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "英伟达签署了约 15 年的数据中心租赁协议，预计将相关租赁权转租给第三方。",
+    "id": "8vv6oaFiCUX",
+    "order": 1787777119205,
+    "createdAt": "2026-08-26T20:45:19.205Z",
+    "publishDate": "2026-08-26T20:45:19.205Z",
+    "title": "英伟达：签署了为期约 15 年的数据中心租赁协议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 04:45:19",
+    "uuid": "42e06329-82ee-4fbe-a12b-9bbf851820af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英伟达称 Vera Rubin 现已全面投产。",
+    "id": "8vv6oEvWebw",
+    "order": 1787776834541,
+    "createdAt": "2026-08-26T20:40:34.541Z",
+    "publishDate": "2026-08-26T20:40:34.541Z",
+    "title": "英伟达表示，Vera Rubin 现已全面投入生产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-27 04:40:34",
+    "uuid": "79b089ec-0f7f-4445-85b7-571b9276ed73"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "theblockbeats.info" },
       { "siteName": "金融界" },
