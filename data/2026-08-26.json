@@ -1,6 +1,180 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2026 年上半年，古茗实现总收入 74.7 亿元，同比增长 31.9%。经调整利润 15.7 亿元，同比增长 44.4% ...",
+    "id": "8vuWPxBMVT1",
+    "order": 1787754029813,
+    "createdAt": "2026-08-26T14:20:29.813Z",
+    "publishDate": "2026-08-26T14:20:29.813Z",
+    "title": "古茗：上半年营收同比增长 31.9%，单店日均 GMV 为 7800 元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:20:29",
+    "uuid": "5c293d2b-9906-4c30-a9ba-1b93f119c656"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "8 月 26 日 20 时至 27 日 20 时，山西多地存在不同等级山洪灾害气象风险：4 市 9 县为橙色预警，5 市 8 县为黄色预警，6 市 39 县为蓝色预警，其他地区也可能因局地强降雨引发山洪，需做好相关防范工作。",
+    "id": "8vuRk0KP6Za",
+    "order": 1787754029866,
+    "createdAt": "2026-08-26T14:20:29.866Z",
+    "publishDate": "2026-08-26T14:20:29.866Z",
+    "title": "山西发布山洪灾害气象风险橙色预警",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:20:29",
+    "uuid": "cfcb76d4-28fd-4c28-a006-aa7c0f3b89b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "在 2026 世界人形机器人运动会两天的灵巧手专项比赛决赛中，智元子公司临界点闯入全部八个项目决赛，斩获 7 枚金牌、4 枚银牌、3 枚铜牌 ...",
+    "id": "8vtpw9FVH3O",
+    "order": 1787754028738,
+    "createdAt": "2026-08-26T14:20:28.738Z",
+    "publishDate": "2026-08-26T14:20:28.738Z",
+    "title": "智元子公司临界点赢得机器人运动会 7 枚金牌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:20:28",
+    "uuid": "47778fae-1060-4c22-bc27-e8b861022787"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "央视新闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "受第 18 号台风「沙德尔」影响，未来三天浙江部分地区有强降雨，东部和南部部分地区地质灾害风险较高，自然资源部于 8 月 26 日 20 时对浙江启动地质灾害防御 Ⅳ 级响应。",
+    "id": "8vueayWQnxr",
+    "order": 1787753718038,
+    "createdAt": "2026-08-26T14:15:18.038Z",
+    "publishDate": "2026-08-26T14:15:18.038Z",
+    "title": "自然资源部对浙江启动地质灾害防御 Ⅳ 级响应",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:15:18",
+    "uuid": "697dc4b3-3680-40fb-9b78-0a7f31c91144"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "MiniMax 创始人、CEO 闫俊杰称，下一阶段将继续推进模型智能、推理效率和基础设施能力的协同提升，加快 M 系列与 H 系列模型的研发及发布周期。",
+    "id": "8vucsM7uTaQ",
+    "order": 1787753427064,
+    "createdAt": "2026-08-26T14:10:27.064Z",
+    "publishDate": "2026-08-26T14:10:27.064Z",
+    "title": "MiniMax：正推进 M3 和 H3 的国产芯片适配，大规模国产算力集群将很快上线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:10:27",
+    "uuid": "2b06af66-4a4c-4aa0-af94-b560dfc637e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "theblockbeats.info" }
+    ],
+    "summary": "8 月 25 日，以太坊开发者 Kevaundray 等提交一项新的 EIP 草案，提出引入「抗量子攻击存款合约」，通过可变长度的验证者存款合约及不可逆的 BLS 密钥退役机制，为以太坊验证者存款合约提供应对未来量子计算威胁的升级路径，目前该提案仍处于 Draft 阶段，尚待进一步审议。",
+    "id": "8vsRkQNNL3q",
+    "order": 1787753427065,
+    "createdAt": "2026-08-26T14:10:27.065Z",
+    "publishDate": "2026-08-26T14:10:27.065Z",
+    "title": "以太坊开发者提出抗量子攻击存款合约方案",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:10:27",
+    "uuid": "aa97bff5-9863-4c3d-b552-06d7e7a7a4ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "花旗将甲骨文纳入 90 天催化剂观察名单，给予「买入」评级，目标价为 330 美元。",
+    "id": "8vucvbQLgdb",
+    "order": 1787753427067,
+    "createdAt": "2026-08-26T14:10:27.067Z",
+    "publishDate": "2026-08-26T14:10:27.067Z",
+    "title": "花旗将甲骨文纳入 90 天催化剂观察名单",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 22:10:27",
+    "uuid": "b1777a01-37b2-4861-bf35-0aa01711fb95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "MiniMax 在 2026 年中期业绩电话会上披露，公司第二季度收入较第一季度环比增长 81.8%，第三季度 7 月词元消耗量已达 1 月的 20 倍。",
+    "id": "8vuYyKhLre7",
+    "order": 1787752248054,
+    "createdAt": "2026-08-26T13:50:48.054Z",
+    "publishDate": "2026-08-26T13:50:48.054Z",
+    "title": "MiniMax：7 月词元（Token）消耗量已达到 1 月的 20 倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 21:50:48",
+    "uuid": "39cdb4dc-ec30-4afe-a67b-09f9c62882ea"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "亨通光电 (600487.SH) 及控股子公司近期中标国内外海洋能源项目，总金额 18.31 亿元，项目涵盖国内多个海上风电项目及欧洲、美洲、亚太地区相关项目，中标金额占公司 2025 年度经审计营业收入的 2.74%，预计将对未来经营业绩产生积极影响。",
+    "id": "8vuRj5tLoA5",
+    "order": 1787752248215,
+    "createdAt": "2026-08-26T13:50:48.215Z",
+    "publishDate": "2026-08-26T13:50:48.215Z",
+    "title": "亨通光电：中标海洋能源项目总金额 18.31 亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 21:50:48",
+    "uuid": "c534befc-4858-4ab4-8616-04dc69ff3a4a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "波罗的海干散货运价指数（BDI）周三连续第五个交易日上涨，报 3056 点，创 8 月 10 日以来最高水平，所有船型运费全面走强 ...",
+    "id": "8vuXRULQUg2",
+    "order": 1787752246141,
+    "createdAt": "2026-08-26T13:50:46.141Z",
+    "publishDate": "2026-08-26T13:50:46.141Z",
+    "title": "波罗的海干散货运价指数录得五连涨，海岬型船运价创逾两周新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-26 21:50:46",
+    "uuid": "002ebdfd-8c52-4681-b658-a85e58630dbb"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "华尔街见闻" },
       { "siteName": "同花顺财经" },
