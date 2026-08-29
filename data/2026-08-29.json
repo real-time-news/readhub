@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "截至 2026 年 7 月底，全国智算总规模达 245 万 PFLOPS（FP16），八大国家算力枢纽和三个算电协同发展区建成智算规模占全国超 85%，145 万 PFLOPS 智能算力纳入国家级监测调度平台 ...",
+    "id": "8vzdJ8JGSb3",
+    "order": 1788013232308,
+    "createdAt": "2026-08-29T14:20:32.308Z",
+    "publishDate": "2026-08-29T14:20:32.308Z",
+    "title": "国家数据局：截至 7 月底，我国智算总规模达到 245 万 PFLOPS",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 22:20:32",
+    "uuid": "87389d44-2f90-4262-99cc-baab1627fac9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "英伟达有望以 130 亿美元收购有「AI 时代 GitHub」之称的开放权重 AI 模型平台 Hugging Face，此前英伟达还曾以 60 亿美元收购 Poolside，两周前 Stripe 也以超 70 亿美元收购 OpenRouter ...",
+    "id": "8vxMBFmJ9GE",
+    "order": 1788012629941,
+    "createdAt": "2026-08-29T14:10:29.941Z",
+    "publishDate": "2026-08-29T14:10:29.941Z",
+    "title": "英伟达「看中」Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 22:10:29",
+    "uuid": "df3aa766-64f9-4100-81b3-7ad2a9040d6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "央视新闻" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "成华区网信办接举报后联合区公安分局调查发现，抖音账号持有人王某某、严某某为博流量，通过剧情摆拍等方式炒作「蛋烘糕婆婆」话题，侵害其合法权益，扰乱网络秩序，相关部门已依法处置涉事账号，对两人批评教育并责令清理违规信息，同时表示将持续打击网络违法违规行为，呼吁自媒体从业者规范网络行为。",
+    "id": "8vx2Agwl7lF",
+    "order": 1788012054018,
+    "createdAt": "2026-08-29T14:00:54.018Z",
+    "publishDate": "2026-08-29T14:00:54.018Z",
+    "title": "四川成都 2 人恶意炒作「蛋烘糕婆婆」被处置",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 22:00:54",
+    "uuid": "5f72309b-296b-4b37-aff3-9d37c0685ab9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "中欧基金披露旗下产品半年报，记者梳理发现，叶培培、殷姿、李波、黄华和陈蒙等管理的多只基金在 2025 年 7 月 1 日 —2026 年 6 月 30 日期间盈利投资者占比均超 99.9%。",
+    "id": "8vzSDWnf8Tx",
+    "order": 1788010835441,
+    "createdAt": "2026-08-29T13:40:35.441Z",
+    "publishDate": "2026-08-29T13:40:35.441Z",
+    "title": "最高 99.92% 中欧基金旗下多只基金盈利投资者占比出炉",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 21:40:35",
+    "uuid": "8747826a-1b6e-4d70-8171-03a97b2c116d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "前苹果 CEO 史蒂夫・乔布斯 1968 年读八年级时亲手制作的以可控硅整流器为主题的科学展览项目，经 RR Auction 拍卖，最终以 34375 美元（约合 23.2 万元人民币）成交 ...",
+    "id": "8vyc3fKdOoi",
+    "order": 1788009032314,
+    "createdAt": "2026-08-29T13:10:32.314Z",
+    "publishDate": "2026-08-29T13:10:32.314Z",
+    "title": "乔布斯八年级制作的科学展览项目拍卖，3.4 万美元成交",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 21:10:32",
+    "uuid": "9345e127-bbe7-43c0-92c2-f4e9e43a814c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "9to5Mac" }
+    ],
+    "summary": "OpenAI 开发者体验工程师 Gabriel Chua 确认，ChatGPT 和 Codex 现支持连接多个谷歌 Gmail 和日历账号，用户可通过侧边栏插件添加多账户，ChatGPT 还能从多账户提取信息以提供更具上下文关联的回答 ...",
+    "id": "8vyGc9MfEW2",
+    "order": 1788007239816,
+    "createdAt": "2026-08-29T12:40:39.816Z",
+    "publishDate": "2026-08-29T12:40:39.816Z",
+    "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 20:40:39",
+    "uuid": "207d053b-26cf-4203-adad-19f110d85808"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "程一笑在 2026 快手光合创作者大会上表示，快手平台已涌现 632 个兴趣圈层、4112 个细分兴趣标签，用户长期兴趣人均达 16 个，深耕垂直领域的作者月人均收入为泛流量作者的 2.2 倍。",
+    "id": "8vz8vO4J2f3",
+    "order": 1788007238173,
+    "createdAt": "2026-08-29T12:40:38.173Z",
+    "publishDate": "2026-08-29T12:40:38.173Z",
+    "title": "快手 CEO 程一笑：垂直深耕作者月均收入为泛流量作者 2.2 倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 20:40:38",
+    "uuid": "ef362742-c92d-4bf5-8c32-6acc491c787f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "丰田宣布重大战略调整，将下一代雷克萨斯纯电动 SUV 的生产基地设在中国上海，该车型将于 2027 年秋季在上海金山区的独资新能源工厂投产 ...",
+    "id": "8vzIw86s0EQ",
+    "order": 1788007238173,
+    "createdAt": "2026-08-29T12:40:38.173Z",
+    "publishDate": "2026-08-29T12:40:38.173Z",
+    "title": "丰田战略转向：2027 年将下一代纯电 SUV 首产地定在上海",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 20:40:38",
+    "uuid": "e2a93bfb-d0be-4c27-a21b-eb67c95b242c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "8 月 28 日，徐工集团与中石化起运公司联合研制的全球首台 14000 吨级环轨式起重机在徐州成功下线，标志着我国成为全球首个具备「华龙一号 2.0」核电双岛全模块一体化吊装自主装备能力的国家。",
+    "id": "8vxolQHzYCg",
+    "order": 1788004242343,
+    "createdAt": "2026-08-29T11:50:42.343Z",
+    "publishDate": "2026-08-29T11:50:42.343Z",
+    "title": "全球首台 14000 吨级环轨式起重机在徐州成功下线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 19:50:42",
+    "uuid": "d316d5e8-d3b7-4d45-b10b-531aec150de3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Meta 推出集成于 Meta XR SDK v205 版本的实验性开发者工具 Meta XR Operator，借助 AI 智能体构建自动化测试闭环，支持自然语言指令控制，可让开发者无需反复佩戴头显完成测试，减少 80% 以上重复性操作，提升开发效率，保障测试结果可复现性 ...",
+    "id": "8vyjDBVgQ9n",
+    "order": 1788003641295,
+    "createdAt": "2026-08-29T11:40:41.295Z",
+    "publishDate": "2026-08-29T11:40:41.295Z",
+    "title": "Meta 发布 XR Operator 工具：AI 智能体助力 VR 应用调试，简化开发者流程",
+    "type": "topic",
+    "up": false,
+    "date": "2026-08-29 19:40:41",
+    "uuid": "31097762-504a-415e-8bd7-a6dbe5974397"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
