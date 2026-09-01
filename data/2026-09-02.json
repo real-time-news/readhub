@@ -1,6 +1,109 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "奥特曼在播客中称 Astra 操作电脑的能力已达人类水平，AGI 已非常接近 ...",
+    "id": "8w4PYZD7H53",
+    "order": 1788289835118,
+    "createdAt": "2026-09-01T19:10:35.118Z",
+    "publishDate": "2026-09-01T19:10:35.118Z",
+    "title": "奥特曼称 Astra 操作电脑达人类水平，Fable 5.1 将发布",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-02 03:10:35",
+    "uuid": "781dc0f0-b88a-4495-8357-04112cb35132"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "雷科技" }
+    ],
+    "summary": "比亚迪 8 月新能源汽车销量超 44 万辆，海外市场贡献超 18 万辆，双双刷新单月纪录。当月乘用车销量 43.3 万辆，同比增约 16.66%，新能源汽车出口 189466 辆 ...",
+    "id": "8w4jX9s3OZH",
+    "order": 1788289835288,
+    "createdAt": "2026-09-01T19:10:35.288Z",
+    "publishDate": "2026-09-01T19:10:35.288Z",
+    "title": "比亚迪 8 月销量创新高：海外销售超 18 万辆，新能源累计破 1780 万",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-02 03:10:35",
+    "uuid": "f72f7369-a292-493f-bad1-2a78f0a6c507"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Anthropic 推出新版 AI 模型 Fable 5.1，其在编程和科学任务上表现更优，编程擅长处理长期复杂任务，科学能力涵盖实验方案设计等场景 ...",
+    "id": "8w4tXc4RYF7",
+    "order": 1788289835662,
+    "createdAt": "2026-09-01T19:10:35.662Z",
+    "publishDate": "2026-09-01T19:10:35.662Z",
+    "title": "Anthropic 发布 Fable 5.1，多能力提升且成本降低",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-02 03:10:35",
+    "uuid": "b232aad4-1373-4460-a9ca-7d2b0cab2aa8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "昨日蔚来发布 2026 年第二季度财报，业绩电话会上 CFO 曲玉披露，自今年 3 月起二季度单车成本较去年年底涨约 1.4 万元，下半年预计再增 2000-3000 元，累计抬升 1.6-1.7 万元，成本上涨源于车规内存芯片、锂等电池原材料、铜铝等大宗商品价格上涨 ...",
+    "id": "8w4mN8nht3D",
+    "order": 1788289834517,
+    "createdAt": "2026-09-01T19:10:34.517Z",
+    "publishDate": "2026-09-01T19:10:34.517Z",
+    "title": "蔚来首席财务官：预计下半年单车成本将继续上涨 2000-3000 元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-02 03:10:34",
+    "uuid": "e9240a1f-f869-4980-b709-c6fb83dcc9de"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Meta 对部分遭篡改的智能眼镜禁用摄像头。",
+    "id": "8w4tXDt8JCF",
+    "order": 1788288037990,
+    "createdAt": "2026-09-01T18:40:37.990Z",
+    "publishDate": "2026-09-01T18:40:37.990Z",
+    "title": "Meta 对部分遭到篡改的智能眼镜禁用摄像头",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-02 02:40:37",
+    "uuid": "c660f527-95a7-4295-82c4-d7f7af8b37bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "vivo TWS 5 Pro 真无线降噪耳机迎来功能更新，可通过 Wi-Fi 通道实现 4.6Mbps 码率的无损音频传输，目前适配 vivo X300 系列、iQOO15 系列及 vivo X Fold6 共 7 款机型，用户开启对应选项即可体验 ...",
+    "id": "8w4axZlHQXh",
+    "order": 1788288036183,
+    "createdAt": "2026-09-01T18:40:36.183Z",
+    "publishDate": "2026-09-01T18:40:36.183Z",
+    "title": "vivo TWS 5 Pro 更新：7 款手机支持 Wi-Fi 无损音质 无线聆听更畅快",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-02 02:40:36",
+    "uuid": "f10f1ecb-3f70-4eb8-9047-785ea18a3444"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "同花顺财经" }
@@ -15,6 +118,23 @@
     "up": false,
     "date": "2026-09-02 01:50:32",
     "uuid": "5ebe9c3c-5e62-42db-afb9-fb0c75446f74"
+  },
+  {
+    "newsArray": [
+      { "siteName": "网易科技" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间 8 月 31 日下午，纽约时代广场一名 49 岁有精神病史的女子帕梅拉・希斯内罗丝・洛佩兹持双刀随机攻击，20 秒内刺伤两人，其中 32 岁的美国银行副总裁艾琳・皮亚琴蒂伤重不治 ...",
+    "id": "8w4fx9mCa3l",
+    "order": 1788285742237,
+    "createdAt": "2026-09-01T17:50:30.610Z",
+    "publishDate": "2026-09-01T18:02:22.237Z",
+    "title": "美国银行副总裁在纽约时代广场被刺身亡 年仅 32 岁",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-02 01:50:30",
+    "uuid": "2a9cba23-b523-46f8-8265-4b41acff074c"
   },
   {
     "newsArray": [
