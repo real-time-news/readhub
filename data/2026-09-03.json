@@ -1,6 +1,113 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "9 月 3 日，Meta 发布 Muse Spark 1.3 模型更新，该版本在编码和智能代理任务上性能显著提升，Meta AI 负责人称其与前沿模型竞争力相当，将为未来个人 AI 代理产品铺路 ...",
+    "id": "8w6dPtnEdmh",
+    "order": 1788378325424,
+    "createdAt": "2026-09-02T19:45:25.424Z",
+    "publishDate": "2026-09-02T19:45:25.424Z",
+    "title": "Meta 发布 Muse Spark 1.3 模型 推进个人 AI 代理开发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 03:45:25",
+    "uuid": "86352045-0788-46f8-929c-29a281b1a687"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techradar.com" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "上个月，数千个 Dropbox 账户遭黑客入侵，约 5000 个账户受攻击，其中不到三分之一的账户文件被访问 ...",
+    "id": "8w5TFgm7Cum",
+    "order": 1788373234978,
+    "createdAt": "2026-09-02T18:20:34.978Z",
+    "publishDate": "2026-09-02T18:20:34.978Z",
+    "title": "黑客入侵约 5000 个 Dropbox 账户，部分文件被访问",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 02:20:34",
+    "uuid": "59392ace-daa1-498e-8914-1c8e3eee11db"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "当地时间 9 月 2 日，委内瑞拉代总统罗德里格斯会见美国能源部长赖特，两国正式签署多项合作协议，其中委政府与美国雪佛龙石油公司等就石油扩建项目签约 ...",
+    "id": "8w6EniZr4o8",
+    "order": 1788372633302,
+    "createdAt": "2026-09-02T18:10:33.302Z",
+    "publishDate": "2026-09-02T18:10:33.302Z",
+    "title": "美委签署石油合作协议，涉雪佛龙等企业项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 02:10:33",
+    "uuid": "3c8d8ad6-594d-4040-b7be-f1d918b0c14d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美光正在研发名为「近 GPU NAND」的高耐久性 NAND 闪存模块，计划将其部署在 GPU 封装内部或 PCB 上，靠近 GPU，在存储密度和耐久性间取折中，虽存储密度低于传统 TLC 或 QLC NAND，但侧重提升 I/O 速度与带宽 ...",
+    "id": "8w6GveQWloN",
+    "order": 1788372631668,
+    "createdAt": "2026-09-02T18:10:31.668Z",
+    "publishDate": "2026-09-02T18:10:31.668Z",
+    "title": "美光探索近 GPU NAND 闪存，可支撑更大规模 AI 模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 02:10:31",
+    "uuid": "bc456baa-6ac9-4519-93eb-8a864c007830"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国白宫称，委内瑞拉协议所产原油或于 11 月注入美国战略石油储备。",
+    "id": "8w6WH7Sgj0R",
+    "order": 1788371122241,
+    "createdAt": "2026-09-02T17:45:22.241Z",
+    "publishDate": "2026-09-02T17:45:22.241Z",
+    "title": "美国白宫：委内瑞拉协议所产原油或将在 11 月注入美国战略石油储备",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 01:45:22",
+    "uuid": "698197fa-56f3-477a-888f-cb9b6808021b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米即将推出中折叠旗舰机型小米 18 Fold，将于 9 月 7 日亮相。该机内外屏均为约 2:1 纸张比例，外屏 5.38 英寸、内屏 7.58 英寸 ...",
+    "id": "8w5qqVM0abr",
+    "order": 1788370838970,
+    "createdAt": "2026-09-02T17:40:38.970Z",
+    "publishDate": "2026-09-02T17:40:38.970Z",
+    "title": "小米 18 Fold 将于 9 月 7 日发布 配置全面升级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 01:40:38",
+    "uuid": "d2063956-2c5b-4ba6-9897-ca7f643d77b0"
+  },
+  {
+    "newsArray": [
       { "siteName": "微信公众号" },
       { "siteName": "投资界" },
       { "siteName": "36Kr" }
@@ -117,5 +224,22 @@
     "up": false,
     "date": "2026-09-03 00:10:32",
     "uuid": "21805667-2dba-478f-8efa-206ba5c0d3f0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "大众汽车管理委员会计划于 2031 年至 2034 年间分阶段关闭德国四家工厂，首批为埃姆登和茨维考工厂，汉诺威工厂拟 2032 年关闭，内卡苏尔姆工厂拟 2034 年停产，其监事会定于本周五召开会议。",
+    "id": "8w4fypX9ouE",
+    "order": 1788369955015,
+    "createdAt": "2026-09-02T16:05:23.726Z",
+    "publishDate": "2026-09-02T17:25:55.015Z",
+    "title": "传大众拟 2031-2034 年分阶段关闭德国四家工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 00:05:23",
+    "uuid": "499a8826-1d3f-4b55-b0a8-519d67cb7206"
   }
 ]
