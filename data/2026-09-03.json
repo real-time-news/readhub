@@ -1,6 +1,185 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "9 月 3 日，中国人民银行上海总部副主任苏赟在上海市政府新闻发布会上表示，人民银行上海总部围绕开展更加灵活的贸易外汇结算试点，已完成摸排企业诉求、搭建协同机制、完善配套制度等工作，近期正加强部门协同，加快推动试点政策落地，以支持新型贸易模式外汇资金结算，助力企业统筹两个市场。",
+    "id": "8w7EangiFY0",
+    "order": 1788416436488,
+    "createdAt": "2026-09-03T06:20:36.488Z",
+    "publishDate": "2026-09-03T06:20:36.488Z",
+    "title": "人民银行上海总部：加快推动更灵活贸易外汇结算试点落地",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 14:20:36",
+    "uuid": "faee94e5-8fa8-417c-bbc8-22347e90d9ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "国家药监局通过优先审评审批程序批准瑞阳（山东）生物制药有限公司的库莱韦拜单抗注射液（商品名：英沐乐）上市，用于即将进入或出生在首个呼吸道合胞病毒（RSV）流行季的胎龄≥35 周的新生儿和婴儿预防 RSV 引起的下呼吸道感染，不包括患有慢性肺疾病或伴有有临床意义的先天性呼吸道异常的儿童，为相关人群提供新选择。",
+    "id": "8w7LjAT4rRw",
+    "order": 1788415832490,
+    "createdAt": "2026-09-03T06:10:32.490Z",
+    "publishDate": "2026-09-03T06:10:32.490Z",
+    "title": "国家药监局批准库莱韦拜单抗注射液上市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 14:10:32",
+    "uuid": "6a1dad19-0daa-44cb-8bdf-7a345abfb182"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "广东省自然资源厅就《关于加快推进低效用地再开发促进高质量发展的若干措施（征求意见稿）》公开征求意见，内容包括有序推进政府收储改造，支持相关主体参与土地前期整理、落实净地供应、支持市县制定补偿标准由村集体自行开展前期整理后交政府收储 ...",
+    "id": "8w7Nt1KVEhK",
+    "order": 1788415832523,
+    "createdAt": "2026-09-03T06:10:32.523Z",
+    "publishDate": "2026-09-03T06:10:32.523Z",
+    "title": "广东：有序推进政府收储改造 鼓励国有企业盘活利用存量土地",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 14:10:32",
+    "uuid": "060e6ead-92e1-4273-830c-f47e59c562ad"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家药监局批准 Genzyme Corporation 申报的 1 类创新药利扎布替尼片（商品名：赛立止）上市，用于既往对糖皮质激素、免疫球蛋白等治疗反应不佳或不耐受的持续性或慢性原发免疫性血小板减少症成人患者，为患者提供新治疗选择。",
+    "id": "8w7KeyHp7u9",
+    "order": 1788415832866,
+    "createdAt": "2026-09-03T06:10:32.866Z",
+    "publishDate": "2026-09-03T06:10:32.866Z",
+    "title": "国家药监局批准利扎布替尼片上市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 14:10:32",
+    "uuid": "2f0b31fe-f2f7-4f57-b10e-70bc7e937714"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "9 月 3 日，Anthropic 宣布升级 Claude Cowork 和 Claude Code 的电脑控制功能，支持在 macOS 后台通过屏幕交互完成点击、输入和导航等操作，该功能要求设备运行 macOS 15 及以上版本，保持桌面唤醒、Claude Desktop 应用开启，目前仅面向 Pro 和 Max 个人订阅用户开放，团队版和企业版暂未支持。",
+    "id": "8w7FKlCOflw",
+    "order": 1788415832934,
+    "createdAt": "2026-09-03T06:10:32.934Z",
+    "publishDate": "2026-09-03T06:10:32.934Z",
+    "title": "Anthropic 升级 Claude 电脑控制功能，支持后台操控 Mac",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 14:10:32",
+    "uuid": "ed448cd7-82ac-4fdb-98c0-0585649d4eaa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "国家药品监督管理局批准 Milestone Pharmaceuticals Inc. 申报的 1 类创新药艾曲帕米鼻喷雾剂（商品名称：星必妥）上市，用于治疗成人阵发性室上性心动过速急性症状发作、转复为窦性心律，为患者提供新的治疗选择。",
+    "id": "8w7KfGv6XIl",
+    "order": 1788414324525,
+    "createdAt": "2026-09-03T05:45:24.525Z",
+    "publishDate": "2026-09-03T05:45:24.525Z",
+    "title": "国家药监局批准艾曲帕米鼻喷雾剂上市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 13:45:24",
+    "uuid": "3c6c0f43-327d-47cd-b562-032727b75b66"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "发改委副主任岳修虎多次主持召开「六张网」相关会议，研究完善政银企协作、项目库建设、投融资机制等，推动多元主体参与 ...",
+    "id": "8w74wZOdqeh",
+    "order": 1788414039081,
+    "createdAt": "2026-09-03T05:40:39.081Z",
+    "publishDate": "2026-09-03T05:40:39.081Z",
+    "title": "发改委部署加强「六张网」项目储备，多地密集展开谋划",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 13:40:39",
+    "uuid": "1a45d702-b0ba-46ae-a8b9-a1366eb040f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "努比亚即将于 9 月推出全球首款 AI 原生旗舰手机努比亚 NaviX Ultra，该机型将大模型智能体深度嵌入系统底层，定位为「AI 智能体手机」 ...",
+    "id": "8w7B1qAJvYp",
+    "order": 1788414039206,
+    "createdAt": "2026-09-03T05:40:39.206Z",
+    "publishDate": "2026-09-03T05:40:39.206Z",
+    "title": "努比亚 NaviX Ultra 预计 9 月发售：AI 原生架构手机",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 13:40:39",
+    "uuid": "a712817a-0ee8-4a4e-9cc3-8ad39ac02cce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "博通总裁陈福阳在 FY2026 Q3 财报电话会议上预测，Anthropic、OpenAI 将超越谷歌成为其 AI ASIC 业务前两大客户，其中 Anthropic 有望在 2027~2028 年成为博通最大 XPU 客户，OpenAI 有望成为第二大 ...",
+    "id": "8w73ApGtFEW",
+    "order": 1788414039574,
+    "createdAt": "2026-09-03T05:40:39.574Z",
+    "publishDate": "2026-09-03T05:40:39.574Z",
+    "title": "博通预测 Anthropic、OpenAI 将成其 AI ASIC 前两大客户",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 13:40:39",
+    "uuid": "51581e8a-6b1a-4fe0-bae2-d2231cd7b043"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "字节跳动获 296 亿美元银团贷款，为亚洲今年以来规模第二大美元计价借贷交易，原计划融资 200 亿美元，因银行认购踊跃上调至近 300 亿美元，资金主要用于一般企业用途 ...",
+    "id": "8w7EcK43OsK",
+    "order": 1788412835960,
+    "createdAt": "2026-09-03T05:20:35.960Z",
+    "publishDate": "2026-09-03T05:20:35.960Z",
+    "title": "字节跳动获近 300 亿美元银团贷款，交易尚未正式签署",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-03 13:20:35",
+    "uuid": "253d6dae-a809-4a72-8fd3-64992425106f"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "同花顺财经" }
