@@ -1,6 +1,144 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "巴斯夫旗下全资子公司创迈思在美国得克萨斯州西区联邦地区法院米德兰分院对苹果提起专利侵权诉讼，指控苹果多款 iPhone、iPad 等产品的 Face ID 侵犯其 7 项面部身份验证技术专利，诉讼焦点为 Face ID 使用的材料与皮肤检测能力，巴斯夫要求法院制止进一步侵权，未披露索赔金额 ...",
+    "id": "8w8IgRmKOqj",
+    "order": 1788477637379,
+    "createdAt": "2026-09-03T23:20:37.379Z",
+    "publishDate": "2026-09-03T23:20:37.379Z",
+    "title": "涉 iPhone 17 等：巴斯夫起诉苹果公司，称 Face ID 侵犯其 7 项专利",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-04 07:20:37",
+    "uuid": "196d0de6-9388-4c5c-8295-53e11a8f768a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "智能戒指制造商 Oura 提交 IPO 申请，数据显示其收入飙升但亏损也在增加。截至 6 月 30 日的九个月内，该公司营收 12.1 亿美元，净亏损 9.243 亿美元 ...",
+    "id": "8w8MbzFVRaA",
+    "order": 1788477637381,
+    "createdAt": "2026-09-03T23:20:37.381Z",
+    "publishDate": "2026-09-03T23:20:37.381Z",
+    "title": "智能戒指厂商 Oura 提交美国 IPO",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-04 07:20:37",
+    "uuid": "773239d8-9ca7-401e-b1cc-bc016c93cb4e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资。",
+    "id": "8w8XKfic2co",
+    "order": 1788477036304,
+    "createdAt": "2026-09-03T23:10:36.304Z",
+    "publishDate": "2026-09-03T23:10:36.304Z",
+    "title": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-04 07:10:36",
+    "uuid": "f0c0e4d3-0e4e-4a0a-8105-1d82c34f8a64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Crusoe 以 300 亿美元估值融资超 30 亿美元。",
+    "id": "8w8WyovSzjI",
+    "order": 1788477036638,
+    "createdAt": "2026-09-03T23:10:36.638Z",
+    "publishDate": "2026-09-03T23:10:36.638Z",
+    "title": "Crusoe 按 300 亿美元估值融资超 30 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-04 07:10:36",
+    "uuid": "57aaa416-63b5-4f4a-b184-7d3ed92aa886"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "本周（8 月 31 日 —9 月 4 日）82 只新基金启动发行，创单周启动募集数量新高，其中首批 8 只创业板算力基础设施 ETF 于 9 月 4 日集中发行 ...",
+    "id": "8w8VuDAKMSz",
+    "order": 1788475527904,
+    "createdAt": "2026-09-03T22:45:27.904Z",
+    "publishDate": "2026-09-03T22:45:27.904Z",
+    "title": "单周新发基金数量创纪录，权益类产品竞相入市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-04 06:45:27",
+    "uuid": "05c157cd-82d1-4b07-82f8-bf25d8e4336b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "近期地方政府债券发行使用明显提速，8 月发行规模达 1.19 万亿元创年内月度新高，其中新增专项债、新增一般债发行规模分别仅次于 6 月、2 月 ...",
+    "id": "8w8Vua6iJGM",
+    "order": 1788475527905,
+    "createdAt": "2026-09-03T22:45:27.905Z",
+    "publishDate": "2026-09-03T22:45:27.905Z",
+    "title": "8 月地方债发行创年内月度新高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-04 06:45:27",
+    "uuid": "5eb9cebf-25a8-4db7-86a1-24cb61180c07"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "智谱在天猫开设官方旗舰店售卖 GLM Coding Plan 套餐，价格与官网一致。有观点认为这预示大模型服务将像快消品一样面向个人消费者，但实际智谱瞄准 C 端更多是出于传播价值 ...",
+    "id": "8w7vqF96gJz",
+    "order": 1788474673001,
+    "createdAt": "2026-09-03T22:31:13.001Z",
+    "publishDate": "2026-09-03T22:31:13.001Z",
+    "title": "智谱天猫开旗舰店，实则为 API 业务打广告",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-04 06:31:13",
+    "uuid": "c606da2f-42a7-4ca5-a952-2f12ac34c9b8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "SpaceX AI 推出面向企业的 GrokBot，企业客户可免费试用两周。",
+    "id": "8w8RGE7YYLy",
+    "order": 1788471637446,
+    "createdAt": "2026-09-03T21:40:37.446Z",
+    "publishDate": "2026-09-03T21:40:37.446Z",
+    "title": "SpaceX AI 推出面向企业的 GrokBot，企业客户可免费试用两周",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-04 05:40:37",
+    "uuid": "cc44c8a7-ca20-40da-9cec-c996812e9364"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
