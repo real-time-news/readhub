@@ -1,6 +1,185 @@
 [
   {
     "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "9 月 4 日，追觅以「EMPOWER YOUR DREAM LIFE」为主题亮相 IFA 2026，集中展示覆盖超 16 个品类的百余款产品及数十项全球首创技术，旗下扫地机器人、吹风机等品类的 6 款产品获得国际奖项。",
+    "id": "8wAU6KMOBtd",
+    "order": 1788583847502,
+    "createdAt": "2026-09-05T04:50:47.502Z",
+    "publishDate": "2026-09-05T04:50:47.502Z",
+    "title": "追觅百余款产品亮相 IFA：覆盖 16 个品类，6 款产品获国际奖项",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 12:50:47",
+    "uuid": "152edd55-81bc-4635-be8f-bd9bbe87818b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "果壳科学人" }
+    ],
+    "summary": "沙特 AI 企业 HUMAIN 发布首款阿拉伯语大模型 HUMAIN M3，该模型以中国 MiniMax 公司的开源旗舰模型 MiniMax M3 为技术底座，经深度本地化训练而成，是中国大模型技术首次直接支撑海外本土模型研发 ...",
+    "id": "8w9TxIL9sdl",
+    "order": 1788583243490,
+    "createdAt": "2026-09-05T04:40:43.490Z",
+    "publishDate": "2026-09-05T04:40:43.490Z",
+    "title": "沙特 HUMAIN 发布以 MiniMax 为底座的 HUMAIN M3 大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 12:40:43",
+    "uuid": "c16ce5fc-2254-49a2-8595-7bdba2a46299"
+  },
+  {
+    "newsArray": [
+      { "siteName": "量子位" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "光象科技联合清华大学李升波教授课题组发布第一代物理原生世界模型 Phi-WM 1.0 ActEffect，该模型一反传统世界模型随机器人部署的模式，仅在训练阶段发挥作用：让机器人交出三版动作提案，模型预测各提案的执行后果，将预测与真实未来对比后形成反馈优化策略，训练完成后便退出部署链路，机器人执行任务时无需再展开未来推理 ...",
+    "id": "8wAYONn7LAc",
+    "order": 1788583243507,
+    "createdAt": "2026-09-05T04:40:43.507Z",
+    "publishDate": "2026-09-05T04:40:43.507Z",
+    "title": "光象科技发布 ActEffect：世界模型训练后退场，机器人更高效",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 12:40:43",
+    "uuid": "92bda168-92b2-4592-9cca-6fda2c689d2c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌正扩大旗下 Pixel 设备对苹果 AirDrop 跨平台传输功能的支持范围，此前已通过 Quick Share 实现兼容，该功能先在 Pixel 10 系列推出，后扩展至 Pixel 8a、Pixel Tablet，近期又覆盖到 Pixel 7 和 Pixel 8 系列 ...",
+    "id": "8wAJNySdKUL",
+    "order": 1788581432333,
+    "createdAt": "2026-09-05T04:10:32.333Z",
+    "publishDate": "2026-09-05T04:10:32.333Z",
+    "title": "谷歌持续发力：旧款 Pixel 手机逐步获苹果 AirDrop 跨平台传输支持",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 12:10:32",
+    "uuid": "d4150b27-3c49-43c9-8813-109b900f5331"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "长安汽车计划明年率先在海外落地「天枢领航」的高速 NCA 方案，城市 NCA 落地稍晚，还将在海外建立算力中心，构建当地数据闭环并依规落地智能驾驶辅助 ...",
+    "id": "8w9XWlF4rrO",
+    "order": 1788581122628,
+    "createdAt": "2026-09-05T04:05:22.628Z",
+    "publishDate": "2026-09-05T04:05:22.628Z",
+    "title": "长安汽车：「天枢领航」海外高速 NCA 计划明年落地",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 12:05:22",
+    "uuid": "15934a9a-bcd7-4615-ba40-3db8436d8146"
+  },
+  {
+    "newsArray": [
+      { "siteName": "麻省理工科技评论" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英国数学家安德鲁・怀尔斯 1995 年完成的费马大定理证明，近日由 Anthropic 公司的 AI 模型 Claude 自主运行 11 天后完成形式化验证，生成超 1300 万行代码并验证 3 万余个定理 ...",
+    "id": "8wAFp2qK8f9",
+    "order": 1788580232341,
+    "createdAt": "2026-09-05T03:50:32.341Z",
+    "publishDate": "2026-09-05T03:50:32.341Z",
+    "title": "AI 助力数学突破：Claude 11 天完成费马大定理形式化验证",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 11:50:32",
+    "uuid": "a5608e03-136f-4292-a2c7-1cf6da7f5171"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "重庆市发改委近日印发《重庆市鼓励外商投资企业境内再投资若干措施》，按内外资一致原则从引导外资投向、便利投资经营、提升保障水平三方面提出 16 条举措，鼓励外资参与当地「33618」现代制造业集群建设，重点投向智能网联新能源汽车等产业，落实制造业领域外资准入限制全面清零，符合条件的再投资制造业项目同等享受市级重点产业项目要素保障与扶持政策。",
+    "id": "8wAVX1NvuDi",
+    "order": 1788579053819,
+    "createdAt": "2026-09-05T03:30:53.819Z",
+    "publishDate": "2026-09-05T03:30:53.819Z",
+    "title": "重庆出台 16 条举措 鼓励外商投资企业境内再投资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 11:30:53",
+    "uuid": "682c9a91-0d10-4fa7-9398-282c32e50e21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷科技" },
+      { "siteName": "爱范儿" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "岚图梦想家 9 开启预售，预售价 42.99 万至 52.99 万，含插混、纯电共五个配置，至高享 5 万元购车权益，展车已陆续到店 ...",
+    "id": "8wASh9V84um",
+    "order": 1788577837096,
+    "createdAt": "2026-09-05T03:10:37.096Z",
+    "publishDate": "2026-09-05T03:10:37.096Z",
+    "title": "岚图梦想家 9 开启预售，售价 42.99 万元起，全系全域 L3 级架构设计",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 11:10:37",
+    "uuid": "08ffbf04-9de2-4009-b562-3bab4556ed6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "第 32 次亚太经合组织（APEC）中小企业部长会议 4 日在广州举行，发布《第 32 次亚太经合组织（APEC）中小企业部长会议主席声明》和《中小企业创新和韧性发展主席倡议（广州倡议）》 ...",
+    "id": "8w9eeIv4rtU",
+    "order": 1788577250331,
+    "createdAt": "2026-09-05T03:00:50.331Z",
+    "publishDate": "2026-09-05T03:00:50.331Z",
+    "title": "第 32 次 APEC 中小企业部长会议发布广州倡议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 11:00:50",
+    "uuid": "21272483-c1f7-47df-b586-783c372816eb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "maomu.com" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "SpaceXAI 将旗下 AI 代理系统 Grok Bot 扩展至 iPad 和 Android 平台，同时大幅下调使用门槛，原月费 300 美元，现可兼容月费 20 美元的 Cursor Pro 套餐 ...",
+    "id": "8w9v5RnVZmL",
+    "order": 1788576632720,
+    "createdAt": "2026-09-05T02:50:32.720Z",
+    "publishDate": "2026-09-05T02:50:32.720Z",
+    "title": "SpaceXAI 将 Grok Bot 扩展至 iPad、Android，同步推出低价套餐",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 10:50:32",
+    "uuid": "fe2f45be-5df0-46ac-a7cd-f82377865967"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" }
