@@ -1,6 +1,142 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "2026 年国家基本医保药品目录谈判竞价及商保创新药目录价格协商于 9 月 5 日在北京全国人大会议中心开启，早 7 时 30 分左右已有企业代表候场 ...",
+    "id": "8wAJ1lOpMut",
+    "order": 1788568838077,
+    "createdAt": "2026-09-05T00:40:38.077Z",
+    "publishDate": "2026-09-05T00:40:38.077Z",
+    "title": "2026 年国家医保目录现场谈判竞价与商保创新药品价格协商在京开启",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 08:40:38",
+    "uuid": "7570ad55-fffa-490f-a9c5-92d77630eb8c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "8 月份中国大宗商品价格指数为 132.3 点，环比上涨 2.8%，同比上涨 18.4%，环比止跌回升，同比涨幅扩大 ...",
+    "id": "8wAGAx5UjdN",
+    "order": 1788568838077,
+    "createdAt": "2026-09-05T00:40:38.077Z",
+    "publishDate": "2026-09-05T00:40:38.077Z",
+    "title": "需求回暖 8 月大宗商品市场运行向好",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 08:40:38",
+    "uuid": "2bfcf7da-8d06-4358-aba8-79eb58c6696f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "上海星启灵知智能科技有限公司近日成立，法定代表人为刘灵辉，注册资本 1000 万元，经营范围涵盖人工智能基础软件开发等，该公司由星网锐捷旗下福建星启灵知智能科技有限公司全资持股。",
+    "id": "8w8pvchabKT",
+    "order": 1788568838079,
+    "createdAt": "2026-09-05T00:40:38.079Z",
+    "publishDate": "2026-09-05T00:40:38.079Z",
+    "title": "星网锐捷成立智能科技公司 含多项 AI 业务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 08:40:38",
+    "uuid": "9e73a344-1b78-4223-a3f9-cc58fda8c530"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Epoch AI 和曼彻斯特大学发布 FrontierMath Erdős（FME）基准测试论文，针对陶哲轩对 AI 数学成果的批评设计该测试：用 68 道人类未解的 Erdős 数学难题消除数据污染，要求 AI 用 Lean 证明助手提交形式化证明，所有模型在相同条件下作答 ...",
+    "id": "8w9TF5FOLgM",
+    "order": 1788567635221,
+    "createdAt": "2026-09-05T00:20:35.221Z",
+    "publishDate": "2026-09-05T00:20:35.221Z",
+    "title": "GPT-6 Astra 解 5 道 Erdős 难题，其余 4 个 AI 模型得零分",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 08:20:35",
+    "uuid": "f91fb251-1b4e-4c8c-a0c7-9c3dc70f24e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Anthropic 旗下 Claude iOS 应用已支持苹果 CarPlay，用户可通过车载信息娱乐系统与该 AI 助手进行语音对话，实现免提交互，但目前无法控制车辆或 iPhone 其他功能，且因 CarPlay 暂不支持第三方唤醒词，需先手动打开应用才能语音对话 ...",
+    "id": "8wADg27hJpE",
+    "order": 1788567042792,
+    "createdAt": "2026-09-05T00:10:42.792Z",
+    "publishDate": "2026-09-05T00:10:42.792Z",
+    "title": "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 08:10:42",
+    "uuid": "921c387c-8a36-46b2-9e38-ad73594224bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果计划 2027 年推出全新家庭安全监控服务，同时研发注重隐私保护、借助 AI 分析环境而非持续录制视频的家庭安防摄像头及自动化设备，该设备将与新服务连接，成为新订阅项目 ...",
+    "id": "8wAEO2jxvKW",
+    "order": 1788567042793,
+    "createdAt": "2026-09-05T00:10:42.793Z",
+    "publishDate": "2026-09-05T00:10:42.793Z",
+    "title": "消息称苹果 2027 年将推 AI 驱动的家庭安全监控服务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 08:10:42",
+    "uuid": "a1caeea5-eca2-4882-bd76-f53676014179"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "Google 宣布个人智能体 Gemini Spark 可管理 Google Photos 图库，支持编辑图片、策划相册、自动创建共享相册、将演出海报照片转为日历日程及运行工作流，该功能未来几周将向美国订阅 Gemini AI Pro 和 Ultra 的英文用户推出，使用前需将 Google Photos 连接到 Gemini 并在应用中开启 Spark。",
+    "id": "8w9hX5KTp6Q",
+    "order": 1788565238004,
+    "createdAt": "2026-09-04T23:40:38.004Z",
+    "publishDate": "2026-09-04T23:40:38.004Z",
+    "title": "Google Gemini Spark 新增 Google Photos 图库管理功能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 07:40:38",
+    "uuid": "211214df-fa06-4ef0-9b07-5972f192f29c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "美国汽车创新联盟（代表通用、福特等多家车企）敦促国会年底前立法禁止中国汽车进入美国市场，称中国车企在全球倾销获补贴的联网车辆，该联盟 7 月就曾推动相关限制 ...",
+    "id": "8w9BONkmyv1",
+    "order": 1788564656964,
+    "createdAt": "2026-09-04T23:30:56.964Z",
+    "publishDate": "2026-09-04T23:30:56.964Z",
+    "title": "消息称美国「汽车创新联盟」敦促国会年内立法封杀中国汽车",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-05 07:30:56",
+    "uuid": "8e80caba-cc46-429b-b723-a9df002fa6fb"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "IT 之家" },
       { "siteName": "techflowpost.com" }
