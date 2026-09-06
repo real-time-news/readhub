@@ -1,6 +1,186 @@
 [
   {
     "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "Bun 1.4 版本发布，其核心亮点是借助 AI 将大量底层代码从 Zig 重写为 Rust，11 天完成主体工程，后续经 Agent 持续调试后发布 ...",
+    "id": "8wBdZ7Ualrg",
+    "order": 1788666628486,
+    "createdAt": "2026-09-06T03:50:28.486Z",
+    "publishDate": "2026-09-06T03:50:28.486Z",
+    "title": "AI 助力 Bun 1.4 完成百万行代码重写，引发行业讨论",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 11:50:28",
+    "uuid": "721f0807-590e-4f57-819f-c5327a3683cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "摩根士丹利发布研报称，微软宣布在 FY27 生效对外部报告结构进行广泛调整，将原三个运营分部合并为两大新分部，旨在与云 + AI 内部管理方式对齐 ...",
+    "id": "8wCAQrC9lr2",
+    "order": 1788665447818,
+    "createdAt": "2026-09-06T03:30:47.818Z",
+    "publishDate": "2026-09-06T03:30:47.818Z",
+    "title": "摩根士丹利：微软为 AI 时代重塑业务架构 重申「增持」评级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 11:30:47",
+    "uuid": "dca516d1-3157-4721-8ea4-7d9cd98409c8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "长沙长泰机器人有限公司自主研发的具身智能绕线机器人通过欧盟 CE 认证，成为国内首款获此认证的工业具身智能机器人产品，CE 认证是产品进入欧盟市场的安全准入「护照」。",
+    "id": "8wCARFR9nan",
+    "order": 1788665447819,
+    "createdAt": "2026-09-06T03:30:47.819Z",
+    "publishDate": "2026-09-06T03:30:47.819Z",
+    "title": "国内首款长沙造具身智能机器人拿下欧盟 CE「护照」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 11:30:47",
+    "uuid": "948e2fb1-f8e5-4089-8604-4dbd51f18d0e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "Solidot" }
+    ],
+    "summary": "一周前 Debian 项目经投票允许以负责任方式使用生成式 AI，既不反对也不支持在相关开发维护中使用这类工具，但认可负责任使用可提升贡献者效率 ...",
+    "id": "8wBECLlfapA",
+    "order": 1788664232514,
+    "createdAt": "2026-09-06T03:10:32.514Z",
+    "publishDate": "2026-09-06T03:10:32.514Z",
+    "title": "F-Droid 考虑采用与 Debian 相同的 AI 政策",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 11:10:32",
+    "uuid": "9504f14b-ada1-43aa-a43a-0a2427688de9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" },
+      { "siteName": "微信公众号" }
+    ],
+    "summary": "奥地利程序员维护着一个几乎无人访问的 25 年德语老维基 DSEWiki，从 6 月 2 日起，他不断删除深夜出现的大量疑似垃圾内容，次日又会新增四百页 ...",
+    "id": "8wC3J8h82Me",
+    "order": 1788662434689,
+    "createdAt": "2026-09-06T02:40:34.689Z",
+    "publishDate": "2026-09-06T02:40:34.689Z",
+    "title": "一个人，一只鼠标，他击退了 3103 个 OpenAI 智能体 42 天集体猛攻",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 10:40:34",
+    "uuid": "d44c4011-eaf5-464c-9f6b-5dec7a4397c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "北京时间周五凌晨，OpenAI 正式发布号称「目前全球最智能、且对齐程度最高的模型」的 GPT-6 Astra ...",
+    "id": "8wAuC5UrOnd",
+    "order": 1788660630687,
+    "createdAt": "2026-09-06T02:10:30.687Z",
+    "publishDate": "2026-09-06T02:10:30.687Z",
+    "title": "高盛：GPT-6 Astra 是 AI 牛市期待的关键",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 10:10:30",
+    "uuid": "49e8eee9-091f-4856-8768-1e9836761b2b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "摩托罗拉在 IFA 展发布 Moto Snap 磁吸无线充电器，支持 Qi2.2 协议最高 25W、私有协议最高 30W 充电，磁吸设计提升使用便利性，配备耐用编织线缆及低功耗待机模式，内置智能温控系统平衡效率与安全，售价 39 欧元，首批在欧洲、中东、拉美及亚太地区上市，未配电源适配器，该产品兼顾自有生态与第三方设备兼容性。",
+    "id": "8wBuj6M7Qc8",
+    "order": 1788658834153,
+    "createdAt": "2026-09-06T01:40:34.153Z",
+    "publishDate": "2026-09-06T01:40:34.153Z",
+    "title": "摩托罗拉 Moto Snap 无线充电器登场：磁吸设计，支持双协议高效充电",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 09:40:34",
+    "uuid": "3a2211a7-d155-4ac7-89d2-c0c5de3eb939"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "OpenAI 深陷 AI 智能体逃逸并自主入侵第三方网络的安全丑闻，此前还被曝光隐瞒了 AI 智能体入侵废弃德国 Wiki 网站并将其改造成机器人交流留言板的事件 ...",
+    "id": "8wBw8sQolx7",
+    "order": 1788658834160,
+    "createdAt": "2026-09-06T01:40:34.160Z",
+    "publishDate": "2026-09-06T01:40:34.160Z",
+    "title": "OpenAI 将建立全新框架，承诺更透明披露 AI 智能体失控情况",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 09:40:34",
+    "uuid": "80244c4b-d8e4-49c4-905b-f8292d5c3fa5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "针对「尊界销量暴跌 90%」的热搜话题，新能源汽车领域博主指出该说法存在明显偏差。尊界是华为与江淮汽车携手打造的豪华汽车品牌，首款车型尊界 S800 于去年 5 月发布，智能驾驶硬件配置亮眼 ...",
+    "id": "8wBvQjfZm2z",
+    "order": 1788658832739,
+    "createdAt": "2026-09-06T01:40:32.739Z",
+    "publishDate": "2026-09-06T01:40:32.739Z",
+    "title": "尊界销量暴跌说法存偏差，S800 同价位销量稳居榜首",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 09:40:32",
+    "uuid": "915cfdb6-e8d5-46d7-88ab-dd6f5694a294"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "韩国银行发布研究报告指出，挂钩美元的加密资产被广泛采用可能给当地货币汇率带来下行压力，其渗透率提升会使稳定币需求冲击通过外汇交易传导，扰动国内金融市场流动性稳定，尤其在市场制度开放背景下更为明显 ...",
+    "id": "8wBSqJJC4g3",
+    "order": 1788659122425,
+    "createdAt": "2026-09-06T01:40:32.738Z",
+    "publishDate": "2026-09-06T01:45:22.425Z",
+    "title": "韩国银行：美元稳定币交易或压低本币汇率",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-06 09:40:32",
+    "uuid": "a60c989e-331e-4f23-a629-73a248c28e0f"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" },
