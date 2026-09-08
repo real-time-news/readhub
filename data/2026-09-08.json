@@ -1,6 +1,177 @@
 [
   {
     "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "微信视频号服务器出现抖动，导致部分功能异常，目前正在火速恢复中，对此深表歉意。",
+    "id": "8wFqPvqdabI",
+    "order": 1788857720105,
+    "createdAt": "2026-09-08T08:55:20.105Z",
+    "publishDate": "2026-09-08T08:55:20.105Z",
+    "title": "腾讯微信团队致歉：视频号服务器抖动致部分功能异常，正恢复中",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:55:20",
+    "uuid": "c7986dca-0262-4436-8c97-5801c0c50a0c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软首席执行官萨提亚・纳德拉于 9 月 7 日在 X 平台宣布为 Microsoft 365 Copilot 推出全新 AI 功能 Project Opal，它是能在可控安全环境中规划执行复杂长周期任务的 AI 智能体，可连续工作数小时或数天完成找素材、做表格、生成 PPT、分享给同事等完整流程，能处理如分析户外相机影像制作精选视频、整理记录生成表格和 PPT 并分享至 Teams 等任务，用户可通过 Microsoft 365 Copilot 的 Frontier 模块启动，它会生成计划并调度完成操作，早期应用涵盖季度合规审计等场景，能大幅节省工时，其核心是用高级推理模型将自然语言请求转为动态计划并依进展调整工具调用顺序。",
+    "id": "8wFqQO2t2im",
+    "order": 1788857720107,
+    "createdAt": "2026-09-08T08:55:20.107Z",
+    "publishDate": "2026-09-08T08:55:20.107Z",
+    "title": "微软推出 Project Opal：AI 可完成复杂长周期全流程任务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:55:20",
+    "uuid": "cdc2c377-7268-45f5-9baf-be4aaf292d2d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "亚马逊已授权银行进行首次英镑债券发行，交易最早预计于周三启动，发行分四部分，期限三年至十九年，由摩根大通等四家机构管理 ...",
+    "id": "8wFqPjjHNIT",
+    "order": 1788857431556,
+    "createdAt": "2026-09-08T08:50:31.556Z",
+    "publishDate": "2026-09-08T08:50:31.556Z",
+    "title": "亚马逊启动首次英镑债券发行 最早周三落地",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:50:31",
+    "uuid": "e00f27be-d11b-42c5-a914-689149273e41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "苹果首款折叠 iPhone 因质量管控标准极高，8 月追加一轮试产，截至 8 月下旬日产量仅数百部，远低于原规划日产数万部的水平，若无法加快产量爬坡，恐难达成今年 800 万～1000 万部的生产目标，也可能需更长时间满足市场需求。",
+    "id": "8wFqQ8c1FFE",
+    "order": 1788857431560,
+    "createdAt": "2026-09-08T08:50:31.559Z",
+    "publishDate": "2026-09-08T08:50:31.560Z",
+    "title": "消息称折叠屏 iPhone 初期产量受限，每日仅数百部",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:50:31",
+    "uuid": "fe67b941-8dbd-4cdd-a9eb-08ebd40ccb6d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "海优新材在 2026 年半年度业绩说明会上表示，调光膜是公司重点培育的核心新业务，具备性价比优势，已启动年产 200 万平方米扩产项目，且已在海外建筑领域推广，公司看好其在汽车前装、后装及建筑等多场景的发展空间，该业务有望成为公司未来重要增长驱动力。",
+    "id": "8wFiYTooOK4",
+    "order": 1788857126149,
+    "createdAt": "2026-09-08T08:45:26.149Z",
+    "publishDate": "2026-09-08T08:45:26.149Z",
+    "title": "海优新材：调光膜已在海外建筑领域推广",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:45:26",
+    "uuid": "cb1fa993-c003-49c4-8403-cb0c99e3010f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "超图软件表示，公司空间智能体（SuperMap AgentX）可赋能机器人 / 无人装备行业，输出空间感知、空间分析、任务规划、多机协同的底层空间智能能力，为机器人提供空间层面的决策支撑。",
+    "id": "8wFlOy6ZYhp",
+    "order": 1788857126471,
+    "createdAt": "2026-09-08T08:45:26.471Z",
+    "publishDate": "2026-09-08T08:45:26.471Z",
+    "title": "公司问答丨超图软件：公司空间智能体可赋能机器人 / 无人装备行业",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:45:26",
+    "uuid": "37023523-d3d4-4091-b57d-65bc9193843f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Arm 在 Arm Everywhere China 年度大会上发布面向云和数据中心、智能体基础设施的新款计算子系统 Neoverse CSS N4 ...",
+    "id": "8wFUGa7894h",
+    "order": 1788857125221,
+    "createdAt": "2026-09-08T08:45:25.221Z",
+    "publishDate": "2026-09-08T08:45:25.221Z",
+    "title": "Arm 发布面向云和数据中心的新款计算子系统 Neoverse CSS N4",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:45:25",
+    "uuid": "4772ea20-47fd-4a5c-b5e7-b1dcf899d7d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "截至 2026 年第 35 周，华为 Mate 80 系列累计销量达 897.93 万台，距 900 万台仅差 2.07 万台，最快第 36 周可突破该大关，此前有博主预判其全周期销量将破千万台 ...",
+    "id": "8wFjGRXgVdK",
+    "order": 1788857125297,
+    "createdAt": "2026-09-08T08:45:25.297Z",
+    "publishDate": "2026-09-08T08:45:25.297Z",
+    "title": "华为 Mate 80 系列销量逼近 900 万台 单周卖出 16 万台",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:45:25",
+    "uuid": "e277dff2-fdc2-44f6-b286-6692addeb00b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "A 股油气、石化板块尾盘持续冲高，华锦股份、石化机械、中曼石油封板涨停，科力股份、通源石油等多股涨超 5%。消息面上，胡塞武装称沙特没有安全之地，所有能源设施都是合法目标。",
+    "id": "8wFkL2wOpcw",
+    "order": 1788857123207,
+    "createdAt": "2026-09-08T08:45:23.207Z",
+    "publishDate": "2026-09-08T08:45:23.207Z",
+    "title": "A 股油气、石化板块尾盘持续冲高",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:45:23",
+    "uuid": "57866f3b-8948-4ca8-b57e-bba3a95d9c6e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子正挑战台积电晶圆代工主导地位，其美国得州泰勒工厂本月底将试生产，投产前因特斯拉、博通等巨头订单已达满负荷状态，该厂是其 2 纳米芯片制程核心基地，初期月产能 5 万片，接近台积电的 8 万片，其 2 纳米工艺良率已达约 80%，今年 2nm 订单量预计较去年翻番以上 ...",
+    "id": "8wFhq1ccBFo",
+    "order": 1788856251377,
+    "createdAt": "2026-09-08T08:30:51.377Z",
+    "publishDate": "2026-09-08T08:30:51.377Z",
+    "title": "三星电子美国工厂月底试产 2 纳米订单已接满 有望挑战台积电",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-08 16:30:51",
+    "uuid": "753a39da-541a-467a-827f-0647470cc344"
+  },
+  {
+    "newsArray": [
       { "siteName": "maomu.com" },
       { "siteName": "36Kr" },
       { "siteName": "铅笔道" }
