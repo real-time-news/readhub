@@ -1,6 +1,127 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "WTI 原油期货重新涨超 2.4%，一艘伊朗小型油轮在哈尔克岛约 4 海里处遭美国军队导弹袭击，油轮在该岛锚地范围内被击中，事件未造成人员伤亡，工作人员正在撤离，相关部门正调查油轮受损程度及事件具体情况。",
+    "id": "8wGcHpiqjsy",
+    "order": 1788897044369,
+    "createdAt": "2026-09-08T19:50:44.369Z",
+    "publishDate": "2026-09-08T19:50:44.369Z",
+    "title": "伊媒称美国导弹袭击霍尔木兹附近伊朗油轮",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-09 03:50:44",
+    "uuid": "9895cbf2-c156-4e47-ae43-69cda4982115"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "韩国济州岛 Campertree 酒店度假村携手新石器在韩本地合作伙伴 NT1，启用新石器自动驾驶无人配送车，为宾客运送行李与日常用品，这是新石器无人车首次进入济州户外度假场景运营，标志其在韩从试点示范迈向规模化商业落地 ...",
+    "id": "8wFgOm9e9Nk",
+    "order": 1788896435466,
+    "createdAt": "2026-09-08T19:40:35.466Z",
+    "publishDate": "2026-09-08T19:40:35.466Z",
+    "title": "新石器无人车落地韩国济州岛，率先在旅游业投入运营",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-09 03:40:35",
+    "uuid": "c8fcdc0b-3112-4990-bd72-3f32a8d58d97"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Hacker News AI" },
+      { "siteName": "Google DeepMind" },
+      { "siteName": "blog.google" }
+    ],
+    "summary": "我们推出 AlphaGenome Atlas 数据库，可预测人类基因组中所有可能的单核苷酸变异的影响。",
+    "id": "8wGEkN5pjOE",
+    "order": 1788896118553,
+    "createdAt": "2026-09-08T19:35:18.553Z",
+    "publishDate": "2026-09-08T19:35:18.553Z",
+    "title": "AlphaGenome Atlas：人类全基因组单核苷酸变异预测数据库",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-09 03:35:18",
+    "uuid": "b436d7d1-2b37-4dff-874d-85d9bee2f56a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "科大讯飞推出星火 X2.5 大模型，该模型以混合专家架构为核心，总参数量 2930 亿，推理时仅激活 300 亿参数，在代码生成、智能体交互能力上有重点突破，强化了数学计算、语义理解等通用领域表现，支持 256K 上下文长度，针对国产算力环境深度优化 ...",
+    "id": "8wFicXYjyWB",
+    "order": 1788892834171,
+    "createdAt": "2026-09-08T18:40:34.171Z",
+    "publishDate": "2026-09-08T18:40:34.171Z",
+    "title": "科大讯飞发布星火 X2.5 大模型，多能力升级且推优惠",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-09 02:40:34",
+    "uuid": "71380dee-0a37-48b9-b79a-1e2311c67819"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "阿斯麦盘前涨超 2%，报 1754.5 美元。公司计划与主要客户合作开发新方案，以满足英伟达等公司大型数据中心芯片需求 ...",
+    "id": "8wFuiXTB7IF",
+    "order": 1788892832657,
+    "createdAt": "2026-09-08T18:40:32.657Z",
+    "publishDate": "2026-09-08T18:40:32.657Z",
+    "title": "阿斯麦盘前涨超 2%，拟升级光刻机适配大芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-09 02:40:32",
+    "uuid": "3e59e35e-d680-4df7-a1e0-0c494b45321a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "手机外设制造商 CASETiFY 曾在官网短暂上架苹果首款折叠屏手机保护壳，将该机称为「iPhone Duo」，目前无决定性证据表明苹果最终会采用该名称，苹果曾有 Duo 命名产品的先例，苹果预计于 9 月 10 日举行新品发布会，届时将揭晓首款折叠 iPhone 的最终命名。",
+    "id": "8wG0REn0kr5",
+    "order": 1788891029230,
+    "createdAt": "2026-09-08T18:10:29.230Z",
+    "publishDate": "2026-09-08T18:10:29.230Z",
+    "title": "CASETiFY 曾上架苹果折叠屏壳，称其为「iPhone Duo」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-09 02:10:29",
+    "uuid": "e2964366-5b8a-44be-98a1-fef463f388f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "荣耀 AI 首席科学家黄非称，从 MagicOS 6.0 到 10.0，荣耀一直在探索 AI 操作系统发展方向，推动系统从传统 OS 向 Agentic OS 演进 ...",
+    "id": "8wFvUj8ghia",
+    "order": 1788891028700,
+    "createdAt": "2026-09-08T18:10:28.700Z",
+    "publishDate": "2026-09-08T18:10:28.700Z",
+    "title": "荣耀 AI 首席科学家谈 MagicOS 11：持续引领 AI 系统演进",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-09 02:10:28",
+    "uuid": "322864b9-3450-4a10-9175-f2da96a76bf1"
+  },
+  {
+    "newsArray": [
       { "siteName": "theblockbeats.info" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" }
