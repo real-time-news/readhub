@@ -1,6 +1,168 @@
 [
   {
     "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "infoq.cn" }
+    ],
+    "summary": "DeepSeek 团队成员崔添翼发文称 V4.1 Flash 在性能、费用等方面全面超过 V4 Pro，平台将在 V4.1 Pro 上线前把 V4 Pro 的请求路由到 V4.1 Flash，且仅提前一天通知，未设迁移缓冲期，引发开发者不满 ...",
+    "id": "8wM50vvUudd",
+    "order": 1789210253217,
+    "createdAt": "2026-09-12T10:50:53.217Z",
+    "publishDate": "2026-09-12T10:50:53.217Z",
+    "title": "DeepSeek 仓促切换模型引不满，缺用户侧软件工程思维",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:50:53",
+    "uuid": "be4dba82-ed53-4e1a-a47b-9214d3810162"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "陶哲轩等 25 位菲尔兹奖得主联合发布《AI 在数学中的严重失准》声明，未否认 AI 在数学领域的强大作用，但担忧 AI 快速批量产出的解法未经规范整理、来不及剥离新方法新思想和引用前作，会破坏孕育新思想的土壤，断裂数学家间的人类传承链条，因事态紧迫他们未走充分征询流程便发布声明 ...",
+    "id": "8wMe15J2G8L",
+    "order": 1789210253227,
+    "createdAt": "2026-09-12T10:50:53.227Z",
+    "publishDate": "2026-09-12T10:50:53.227Z",
+    "title": "AI 宣称证明 Komlós 猜想，菲尔兹奖得主发声明警示",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:50:53",
+    "uuid": "145be6ee-f036-4e1b-a71f-579db3653e2b"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "爱博智能英文名 Aible 意为用 AI 帮助能力受限者重获能力，其选定非侵入式脑机接口康复路径，一是看中广阔应用市场，二是依托母公司科大讯飞的信号处理经验，并与中国科大先研院陈勋教授团队共建联合实验室推进技术落地 ...",
+    "id": "8wM9IdM1sVn",
+    "order": 1789210253306,
+    "createdAt": "2026-09-12T10:50:53.306Z",
+    "publishDate": "2026-09-12T10:50:53.306Z",
+    "title": "从「Disable」到「Able」，爱博智能在康复里寻找答案",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:50:53",
+    "uuid": "00f0295f-4125-444c-b658-5069843a9cdc"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "淘天自研的 S266 系列编码器在第 19 届 MSU 世界视频编码器大赛中斩获 6 项世界冠军及 1 项季军，其中 S266 横扫 VMAF 全速度段冠军，S26X 包揽极限画质三项第一，实现 H.266 时代「速度」与「画质」双线领先 ...",
+    "id": "8wMBRTtePCV",
+    "order": 1789210253310,
+    "createdAt": "2026-09-12T10:50:53.310Z",
+    "publishDate": "2026-09-12T10:50:53.310Z",
+    "title": "淘天自研编码器斩获 MSU 6 项冠军，视频编码技术支撑内容体验升级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:50:53",
+    "uuid": "c1bbb249-c41c-4b69-9996-51f0f9146f34"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "9 月 12 日，2026 中国算力大会揭晓 15 项「年度重大突破成果」，这些成果具备技术指标先进、核心技术创新性突出、能提升行业技术能级、兼顾多方面效益四大特点，且已取得良好社会效益，如中兴相关技术压缩芯片适配周期，长飞空芯光纤算力互联技术创下多项世界纪录并落地多个项目。",
+    "id": "8wMdfDKN6Xr",
+    "order": 1789209923625,
+    "createdAt": "2026-09-12T10:45:23.625Z",
+    "publishDate": "2026-09-12T10:45:23.625Z",
+    "title": "中国算力大会「年度重大突破成果」揭晓",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:45:23",
+    "uuid": "526f4d69-64b3-4022-849e-8e7eeb8810e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" }
+    ],
+    "summary": "9 月 12 日，Revolut 疑因未识别欺诈性请求致部分用户个人身份信息泄露，泄露信息涵盖证件、交易记录、联系方式等多类内容，疑似针对高净值用户，已有多名用户收到安全提醒邮件。",
+    "id": "8wMOIQEiZ4D",
+    "order": 1789209641704,
+    "createdAt": "2026-09-12T10:40:41.704Z",
+    "publishDate": "2026-09-12T10:40:41.704Z",
+    "title": "Revolut 疑因未识别欺诈性请求，部分用户个人信息遭泄露",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:40:41",
+    "uuid": "1673318b-1534-4d77-adf3-1ac05cdbba64"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "乘联分会秘书长崔东树表示，2026 年 8 月车市零售环比回升 5.5%，是多重因素交织共振的结果。国际油价高位震荡推高燃油车用车成本，燃油车消费需求持续萎缩 ...",
+    "id": "8wMbBEXCxR5",
+    "order": 1789208718255,
+    "createdAt": "2026-09-12T10:25:18.255Z",
+    "publishDate": "2026-09-12T10:25:18.255Z",
+    "title": "乘联分会崔东树：本轮乘用车市场下行属于阶段性结构性波动",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:25:18",
+    "uuid": "6fe17123-80c7-43f8-9336-be770d4be261"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "自然资源部起草《自然资源部关于规范临时用地管理的通知（征求意见稿)》并公开征求社会意见，相比 2 号文，该征求意见稿主要从四方面完善：新增临时用地类型清单 ...",
+    "id": "8wMcEb4Jod3",
+    "order": 1789208718263,
+    "createdAt": "2026-09-12T10:25:18.263Z",
+    "publishDate": "2026-09-12T10:25:18.263Z",
+    "title": "自然资源部：临时用地管理文件修订面向社会公开征求意见",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:25:18",
+    "uuid": "d5953181-c60e-4d9c-bbbb-d4448b04b6e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "英伟达 DLSS 5 神经渲染技术因核心 DLL 文件流出引发科技圈热议，全球开发者社区展开技术探索 ...",
+    "id": "8wM65BqwWa7",
+    "order": 1789207836126,
+    "createdAt": "2026-09-12T10:10:36.126Z",
+    "publishDate": "2026-09-12T10:10:36.126Z",
+    "title": "英伟达 DLSS 5 混合精度 Mod 测试：RTX 50 系列显卡性能提升幅度有限",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:10:36",
+    "uuid": "60eb773e-1384-418a-b6b4-a61b58f81778"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国联邦航空管理局发布通告，SpaceX 计划于 9 月 18 日在得州星际基地执行星舰第 14 次飞行任务，这是其首次以商业收入为目标的星舰飞行任务，核心是将量产版 V3 Starlink 卫星送入太空，主发射窗口为 UTC 时间当日 12:15 至 14:14（北京时间 20:15 至 22:14），9 月 19 日同一时段为备用窗口，任务标志着 SpaceX 从技术验证向商业运营的实质性跨越 ...",
+    "id": "8wMFNQ6U9jT",
+    "order": 1789207836205,
+    "createdAt": "2026-09-12T10:10:36.205Z",
+    "publishDate": "2026-09-12T10:10:36.205Z",
+    "title": "SpaceX 星舰第 14 次飞行 9 月 18 日启程 首次瞄准商业收入任务部署 V3 星链卫星",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 18:10:36",
+    "uuid": "6a72d8fe-780c-4a9f-9465-948212691f05"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" }
