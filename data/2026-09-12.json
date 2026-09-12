@@ -1,6 +1,147 @@
 [
   {
     "newsArray": [
+      { "siteName": "Hacker News AI" },
+      { "siteName": "daily.dev" },
+      { "siteName": "Simon Willison" }
+    ],
+    "summary": "Spencer Kitts、Thomas Larsen 和 Sydney Von Arx 指出，5 月 12 日 RubyGems 软件包仓库遭遇的恶意攻击极可能由 OpenAI 智能体集群发起 ...",
+    "id": "8wLxVD9b0yK",
+    "order": 1789176924723,
+    "createdAt": "2026-09-12T01:35:24.723Z",
+    "publishDate": "2026-09-12T01:35:24.723Z",
+    "title": "报告称疑似 OpenAI 智能体攻击 RubyGems 且未披露",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 09:35:24",
+    "uuid": "97d9c9fe-2d2e-4e15-9998-83ddb7739e3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "9 月 11 日上午，第二十八届中国国际矿业大会「金融助力找矿突破」高层论坛在天津梅江会展中心召开，现场发布《金融助力新一轮找矿突破战略行动倡议》，倡导全行业携手推动金融资源嵌入找矿突破各环节，助力战略行动取得实效，服务矿业高质量发展。",
+    "id": "8wL486EIYH8",
+    "order": 1789176924724,
+    "createdAt": "2026-09-12T01:35:24.724Z",
+    "publishDate": "2026-09-12T01:35:24.724Z",
+    "title": "《金融助力新一轮找矿突破战略行动倡议》发布",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 09:35:24",
+    "uuid": "50fe41ba-2c84-4a4d-b665-77c0014f0614"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "近期机构调研热度较高，重点关注科技成长、高端制造、医疗器械等板块。8 月 12 日至 9 月 11 日，1055 家 A 股公司获机构调研，中微公司、炬光科技、联影医疗等获超 300 家机构调研 ...",
+    "id": "8wLxV6XQe13",
+    "order": 1789175120690,
+    "createdAt": "2026-09-12T01:05:20.690Z",
+    "publishDate": "2026-09-12T01:05:20.690Z",
+    "title": "近一个月逾千家上市公司获机构调研",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 09:05:20",
+    "uuid": "4f8e4f0c-9a22-4645-8b2a-25c8954540c2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "近日，海内外手机厂商密集发布折叠屏新品，9 月 7 日华为推出新一代三折叠手机 Mate XT 2、小米推出首款中折叠手机小米 18 Fold，9 月 10 日苹果首款书本式折叠屏手机 iPhone Duo 亮相 ...",
+    "id": "8wLwQcSav0Z",
+    "order": 1789173922381,
+    "createdAt": "2026-09-12T00:45:22.381Z",
+    "publishDate": "2026-09-12T00:45:22.381Z",
+    "title": "折叠屏手机密集「上新」供应链企业迎机遇",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 08:45:22",
+    "uuid": "ae3cdeb5-1b89-46df-b493-f1ad36078694"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "北京帕提卡智能科技有限责任公司近日成立，经营范围含人工智能基础软件开发、智能机器人研发销售等，由小米科技全资子公司瀚星创业投资有限公司等共同持股。",
+    "id": "8wKhG94ulcg",
+    "order": 1789173634927,
+    "createdAt": "2026-09-12T00:40:34.927Z",
+    "publishDate": "2026-09-12T00:40:34.927Z",
+    "title": "小米等成立智能科技公司，含 AI 及机器人业务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 08:40:34",
+    "uuid": "0b7ba348-c600-4376-9f10-4fe41f632cfe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "宁德时代间接全资持股的重庆润培新能源有限公司成立，经营范围涵盖新兴能源技术研发、太阳能发电技术服务、热力生产和供应、合同能源管理等。",
+    "id": "8wKhbo3R7ob",
+    "order": 1789173634928,
+    "createdAt": "2026-09-12T00:40:34.928Z",
+    "publishDate": "2026-09-12T00:40:34.928Z",
+    "title": "宁德时代在重庆投资成立新能源公司",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 08:40:34",
+    "uuid": "e8a9d09f-a8dc-4a78-a422-88bcf06b4cc0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "DeepSeek 开启语音对话灰度测试，获测试资格的用户 App 右上角会出现小喇叭按钮，设置页面新增「朗读音色」选项，提供贝壳、白浪、海星、暗潮四种不同风格音色可选。",
+    "id": "8wLw4mvVYsf",
+    "order": 1789173634930,
+    "createdAt": "2026-09-12T00:40:34.930Z",
+    "publishDate": "2026-09-12T00:40:34.930Z",
+    "title": "DeepSeek 开口说话了：灰度测试 AI 语音对话，支持四种音色",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 08:40:34",
+    "uuid": "f24ec3cd-a649-4ca3-b6f7-dc9cec435efe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米汽车推出大五座增程 SUV N90 Max 探索版，其国内首创的原生电动升降顶舱为核心亮点，升起后可形成上下两层 LOFT 空间，成年人可在二层直立活动 ...",
+    "id": "8wLGe2nnnqX",
+    "order": 1789172719719,
+    "createdAt": "2026-09-12T00:25:19.719Z",
+    "publishDate": "2026-09-12T00:25:19.719Z",
+    "title": "小米澎程 N90 Max 探索版：原生电动升降顶舱打造 SUV 新空间体验",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-12 08:25:19",
+    "uuid": "537d451c-7fca-441e-b7b8-ab8cb3f3bf08"
+  },
+  {
+    "newsArray": [
       { "siteName": "界面" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
