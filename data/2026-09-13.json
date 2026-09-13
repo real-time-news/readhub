@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" }
+    ],
+    "summary": "美国参议院结束休会重返华盛顿后，旨在明确 SEC 与 CFTC 数字资产监管权限的《数字资产市场清晰法案》（H.R.3633 号法案）推进前景高度不确定，该法案此前已在众议院跨党派通过、获参议院银行委员会阶段性支持，但目前参议院未公布明确投票或听证日程，立法机构也未就后续议程公开表态。",
+    "id": "8wOID7Efa7k",
+    "order": 1789308633767,
+    "createdAt": "2026-09-13T14:10:33.767Z",
+    "publishDate": "2026-09-13T14:10:33.767Z",
+    "title": "美参议院回归后，CLARITY 法案立法仍陷停滞",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 22:10:33",
+    "uuid": "03c9307e-65c6-4964-8488-f41225908000"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "经营 130 年的德国家族汽车零部件制造商 Prinz&Co. Stahlrohre 宣布破产，数百名员工面临失业风险 ...",
+    "id": "8wOWrbQuopr",
+    "order": 1789308633772,
+    "createdAt": "2026-09-13T14:10:33.772Z",
+    "publishDate": "2026-09-13T14:10:33.772Z",
+    "title": "德国汽车零部件制造商经营 130 年后申请破产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 22:10:33",
+    "uuid": "dd01dfd7-05fb-4091-a095-a493024d8091"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Anthropic CEO 达里奥・阿莫迪发文呼吁为前沿 AI 限速，提出围绕「可核验性」的三步方案：先由企业引入驻场第三方评估员，再推动美国及盟友协同，最终寻求全球协作 ...",
+    "id": "8wNeYjA9TvJ",
+    "order": 1789308325820,
+    "createdAt": "2026-09-13T14:05:25.820Z",
+    "publishDate": "2026-09-13T14:05:25.820Z",
+    "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼、马斯克表态支持",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 22:05:25",
+    "uuid": "7614b8bc-1ad7-417b-aeee-f7be99d67456"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国投行摩根大通已终止向由前 OpenAI 研究员创立的 AI 主题对冲基金「态势感知」提供借贷服务，该基金因 AI 相关杠杆投资遭遇巨额亏损，今年 7 月因全球科技股系统性回调，单月净值回撤约 67%，濒临崩盘。",
+    "id": "8wORA23mkc0",
+    "order": 1789305329737,
+    "createdAt": "2026-09-13T13:15:29.737Z",
+    "publishDate": "2026-09-13T13:15:29.737Z",
+    "title": "一 AI 对冲基金遭遇巨亏 摩根大通终止借贷合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 21:15:29",
+    "uuid": "3a98b878-2456-4387-955c-7685ec65f43c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "三名消息人士称，沙特在延布的出口储存量仅够 5 至 7 天，埃及还有少量储备，若几天内无法恢复输送，其管道中断将导致全球石油供应减少 4%。",
+    "id": "8wOPi5eHIeu",
+    "order": 1789304728071,
+    "createdAt": "2026-09-13T13:05:28.071Z",
+    "publishDate": "2026-09-13T13:05:28.071Z",
+    "title": "报道：若沙特输油管道中断，全球石油供应恐损失 4%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 21:05:28",
+    "uuid": "be2839e1-602c-47d3-8b33-b7f02d5433e7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "199IT" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "随着传统车企从电动车领域撤退，特斯拉重新占据美国电动车市场一半以上份额，2026 年前八个月达 52%，高于去年同期的 43% ...",
+    "id": "8wNhPM7Wud2",
+    "order": 1789302921062,
+    "createdAt": "2026-09-13T12:35:21.062Z",
+    "publishDate": "2026-09-13T12:35:21.062Z",
+    "title": "传统车企撤退，特斯拉正重新夺回美国电动车市场",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 20:35:21",
+    "uuid": "d03d9313-7b67-4de1-8a7b-d397996b5206"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "赛力斯集团董事长张兴海谈及问界造豪华车的方法论，称仅靠硬件堆砌难以造出豪华车，问界的优势在于基于赛力斯魔方平台的整车原生体系，能实现华为智驾座舱、电池等技术与整车架构的同步仿真、标定、验证 ...",
+    "id": "8wO9HmMIgPR",
+    "order": 1789302324808,
+    "createdAt": "2026-09-13T12:25:24.808Z",
+    "publishDate": "2026-09-13T12:25:24.808Z",
+    "title": "赛力斯张兴海：只靠硬件堆砌难以造出豪华车",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 20:25:24",
+    "uuid": "a1024dd1-7f5e-40af-9e5c-2c381da6da12"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "罗博特科更新聆讯后资料集，意味着该公司港交所 IPO 通过聆讯。",
+    "id": "8wOOHQydPCU",
+    "order": 1789301430671,
+    "createdAt": "2026-09-13T12:10:30.671Z",
+    "publishDate": "2026-09-13T12:10:30.671Z",
+    "title": "罗博特科通过港交所上市聆讯",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 20:10:30",
+    "uuid": "3d3837f1-b80d-4f52-ab55-1ca99e4555da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "深圳市欢创科技股份有限公司通过港交所上市聆讯。",
+    "id": "8wOMV6Aeden",
+    "order": 1789300561280,
+    "createdAt": "2026-09-13T11:56:01.280Z",
+    "publishDate": "2026-09-13T11:56:01.280Z",
+    "title": "深圳市欢创科技股份有限公司通过港交所上市聆讯",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 19:56:01",
+    "uuid": "c58a1b50-f87f-4829-bbec-947d5b96d8bb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "OPPO 官方发布主题视频预热 Find X10 系列，宣布系列新机明日发布，该系列已开启预约，搭载全新「哈苏超清原相机」，包含 Find X10 标准版、Find X10 Pro Max 和 Find X10 E 三款机型 ...",
+    "id": "8wO4HBlxkDO",
+    "order": 1789297830512,
+    "createdAt": "2026-09-13T11:10:30.512Z",
+    "publishDate": "2026-09-13T11:10:30.512Z",
+    "title": "OPPO Find X10 系列手机官宣明天见，搭载全新「哈苏超清原相机」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-13 19:10:30",
+    "uuid": "1ea2f289-a0a0-4434-af11-df62c10d711b"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" }
