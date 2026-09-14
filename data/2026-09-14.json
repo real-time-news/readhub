@@ -1,6 +1,170 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华之杰 (603400.SH) 拟以发行股份及支付现金方式收购苏州格丽明电子科技有限公司 100% 股权并募集配套资金，本次交易预计不构成重大资产重组，公司股票自 2026 年 9 月 15 日开市起停牌，预计停牌不超 10 个交易日。",
+    "id": "8wQ648XW6rU",
+    "order": 1789391126318,
+    "createdAt": "2026-09-14T13:05:26.318Z",
+    "publishDate": "2026-09-14T13:05:26.318Z",
+    "title": "华之杰：拟收购格丽明电子 100% 股权 股票明起停牌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 21:05:26",
+    "uuid": "a379132b-5475-4ed0-8a1f-450dfc3f4a37"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "近期，OpenAI 新模型 GPT-6 Astra 引发关注，其在 3D 渲染、图形及计算机操作任务上表现突出，OpenAI 采购数万台 Mac 用于强化学习以训练模型的计算机操作能力 ...",
+    "id": "8wQ6OtvUxhF",
+    "order": 1789390523654,
+    "createdAt": "2026-09-14T12:55:23.654Z",
+    "publishDate": "2026-09-14T12:55:23.654Z",
+    "title": "Sebastian Raschka 详解 GPT-6 Astra：循环 Transformer 与思维链争议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 20:55:23",
+    "uuid": "e0e98657-01eb-41b3-aa07-637b6227edce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "美国能源部长赖特表示，美国将在未来几个月内开始重新填充战略石油储备。",
+    "id": "8wQ5h1yZ1PP",
+    "order": 1789390522300,
+    "createdAt": "2026-09-14T12:55:22.300Z",
+    "publishDate": "2026-09-14T12:55:22.300Z",
+    "title": "美国能源部长赖特：美国将在未来数月开始填充战略石油储备",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 20:55:22",
+    "uuid": "67a92ee3-210b-4a7f-9a19-542da3e0b7a2"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "生物类似药正迎来黄金时代，2025-2034 年全球将有 118 种生物制剂专利到期，对应 2340 亿美元市场空间，但仅 10% 有生物类似药在研，吸引海内外药企加速布局 ...",
+    "id": "8wQ64tktHIv",
+    "order": 1789390520866,
+    "createdAt": "2026-09-14T12:55:20.866Z",
+    "publishDate": "2026-09-14T12:55:20.866Z",
+    "title": "超 2000 亿美元生物类似药市场开闸",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 20:55:20",
+    "uuid": "594fd3ba-94ca-436f-9aed-7bfb48d1b548"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "腾讯团队提出的 T-Mem 记忆系统，突破了当前 AI 长期记忆仅依赖相似度检索的局限，借鉴认知科学中的「情景未来思维」，让 AI 具备联想回忆能力 ...",
+    "id": "8wPXOmGyOCE",
+    "order": 1789390520880,
+    "createdAt": "2026-09-14T12:55:20.880Z",
+    "publishDate": "2026-09-14T12:55:20.880Z",
+    "title": "告别「只会相似度检索」：腾讯最新 T-Mem 让 AI 学会「联想回忆」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 20:55:20",
+    "uuid": "9f86c5b8-f0a9-407b-a4c5-5e9511108f24"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "投资界" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "深圳大学和香港科技大学研究者提出 ECA（Evidence-Carrying Multimodal Agents），针对 AI Agent 因幻觉产生错误前提进而引发错误执行的问题，构建模型提动作、独立验证器出证据、门控程序核条件的架构，通过多通道证据交叉核验拦截伪装攻击 ...",
+    "id": "8wPkFh0gwLo",
+    "order": 1789390233313,
+    "createdAt": "2026-09-14T12:50:33.313Z",
+    "publishDate": "2026-09-14T12:50:33.313Z",
+    "title": "当 AI 幻觉开始操作电脑：深大、港科大提出 ECA，让 Agent 行动前先验证证据",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 20:50:33",
+    "uuid": "9215b923-2e72-43ff-af5d-839e68955393"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "沪八条政策红利延续下，上海楼市成交稳步增长。上周末上海二手房（含商业）两日合计网签 2481 套，9 月 12 日网签 1319 套，创近 77 天新高 ...",
+    "id": "8wQ4cESUU6u",
+    "order": 1789390232011,
+    "createdAt": "2026-09-14T12:50:32.011Z",
+    "publishDate": "2026-09-14T12:50:32.011Z",
+    "title": "上海楼市「金九」成色足：二手房 13 天网签已破万套，新盘陆续收回折扣",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 20:50:32",
+    "uuid": "f84c8033-833c-4a25-a0f3-fb2cac9110a2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "工信部党组成员、副部长辛国斌主持召开部分省份工业经济运行座谈会，了解当前工业经济运行情况，研判形势，谋划 2027 年工作思路 ...",
+    "id": "8wQ5hO9XxTy",
+    "order": 1789390232589,
+    "createdAt": "2026-09-14T12:50:32.589Z",
+    "publishDate": "2026-09-14T12:50:32.589Z",
+    "title": "工信部召开部分省份工业经济运行座谈会",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 20:50:32",
+    "uuid": "4ae6837d-ff09-4bd1-ad2c-2da4a4b0a6cd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "金橙子公告终止此前筹划的以发行股份及支付现金方式购买深圳市智博泰克科技股份有限公司控股权并募集配套资金的交易，因交易各方未就核心条款达成一致，双方无需承担违约责任 ...",
+    "id": "8wQ5M4xJR3T",
+    "order": 1789390232636,
+    "createdAt": "2026-09-14T12:50:32.636Z",
+    "publishDate": "2026-09-14T12:50:32.636Z",
+    "title": "金橙子：终止筹划购买资产，2026 年 9 月 15 日复牌",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 20:50:32",
+    "uuid": "5ce91dd3-0308-4980-8e3f-9ba0411772d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "奥瑞德 (600666.SH) 发布 2026 年度向特定对象发行 A 股股票预案，拟募资不超 8.68 亿元，扣除发行费用后将用于内蒙古蓝宝石生产基地建设项目、西部国产服务器集群建设项目及补充流动资金。",
+    "id": "8wQ5hF1pPFN",
+    "order": 1789390232723,
+    "createdAt": "2026-09-14T12:50:32.723Z",
+    "publishDate": "2026-09-14T12:50:32.723Z",
+    "title": "奥瑞德拟定增募资不超 8.68 亿元 用于三项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-14 20:50:32",
+    "uuid": "f5d71ed3-0543-4f53-b51c-bde640558710"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
