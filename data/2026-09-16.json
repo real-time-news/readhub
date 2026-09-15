@@ -1,6 +1,169 @@
 [
   {
     "newsArray": [
+      { "siteName": "techradar.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "9to5Mac" }
+    ],
+    "summary": "在第 78 届创意艺术艾美奖第二晚活动中，苹果 Apple TV 成为获奖最多的电视平台网络，共计斩获 20 个奖项，其中 19 个来自旗下节目，《寡妇湾》获 8 项奖，《同乐者》获 4 项奖，《玛戈没钱了》《皇家棕榈》《斯科塞斯先生》也各有奖项入账 ...",
+    "id": "8wQvVRuSgac",
+    "order": 1789506323793,
+    "createdAt": "2026-09-15T21:05:23.793Z",
+    "publishDate": "2026-09-15T21:05:23.793Z",
+    "title": "苹果新 CEO 特努斯出席艾美奖，展示未发售折叠 iPhone Duo",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 05:05:23",
+    "uuid": "2ba103a6-8262-479d-91c6-0bfac78e198e"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "36Kr" }],
+    "summary": "OpenAI 研究员 Daniel Selsam 通过他人代为发布个人声明，预警 AI 尚未失控，但人类已逐渐失去评估 AI 的能力 ...",
+    "id": "8wRkzI6V25q",
+    "order": 1789505438878,
+    "createdAt": "2026-09-15T20:50:38.878Z",
+    "publishDate": "2026-09-15T20:50:38.878Z",
+    "title": "OpenAI o1 功臣预警：AI 还没失控，我们已经快测不准它了",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 04:50:38",
+    "uuid": "d5f47378-304c-474a-9da7-205bbca482cb"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "36Kr" }],
+    "summary": "过去两周 AI 圈聚焦 RSI（递归自我改进），OpenAI、Anthropic 均表态推进相关研发，AI 将更多参与自身迭代 ...",
+    "id": "8wRcQMS8Ike",
+    "order": 1789505438878,
+    "createdAt": "2026-09-15T20:50:38.878Z",
+    "publishDate": "2026-09-15T20:50:38.878Z",
+    "title": "OpenAI 押注 RSI，国产 U2-Flash 模型性能比肩万亿大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 04:50:38",
+    "uuid": "1a1b354a-f5ce-4024-9286-b6a4531cc7ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "36Kr" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "独立研究员让 Claude Fable 5.1 破解 17 世纪英国学者 Sir Thomas Urquhart 留下的密码谜题，Claude 在 44 分钟、消耗 17.6 万个 Token 且人类零干预的情况下，先破解了尘封 370 年的双行密码，又顺藤摸瓜破解了另一著作中篇幅更长的八行密码 ...",
+    "id": "8wRKrhKEckl",
+    "order": 1789505438879,
+    "createdAt": "2026-09-15T20:50:38.879Z",
+    "publishDate": "2026-09-15T20:50:38.879Z",
+    "title": "Claude 44 分钟独立破解 370 年前两则历史密文",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 04:50:38",
+    "uuid": "78b3fae7-58ca-45b2-8650-0956a68620c8"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "36Kr" }],
+    "summary": "复旦大学 CVL 实验室提出面向复杂人类中心场景的音视频追踪基准 AVTrack，论文已被 ICML 2026 接收，相关项目主页、论文、代码与数据集已公开 ...",
+    "id": "8wRlgI94FlY",
+    "order": 1789505438880,
+    "createdAt": "2026-09-15T20:50:38.880Z",
+    "publishDate": "2026-09-15T20:50:38.880Z",
+    "title": "复旦发布以人为中心的复杂场景音视频追踪基准",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 04:50:38",
+    "uuid": "43596722-8cd4-4ffb-8a7a-2c39d216f56d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI 国家事务负责人 George Osborne 在加拿大投资峰会上表示，加拿大对 OpenAI 是重要市场，在数据中心合作上因能源和土地资源充裕存在切实机会，还正面评价了卡尼政府清晰的 AI 战略及其中长期规划 ...",
+    "id": "8wS4G1GJuEg",
+    "order": 1789503928173,
+    "createdAt": "2026-09-15T20:25:28.173Z",
+    "publishDate": "2026-09-15T20:25:28.173Z",
+    "title": "OpenAI 瞄准加拿大数据中心，高管盛赞卡尼计划",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 04:25:28",
+    "uuid": "8d8164f2-4624-4ac4-828a-e8d14dc33348"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "帮助小企业利用 AI 开发应用的初创公司 Emergence 公布其名为 Emergence World 2 的模拟实验结果：在为期 16 天的实验里，研究人员让 ChatGPT、Claude、Gemini 和 Grok 等 AI 智能体在七个相同模拟环境中运行，引入网络钓鱼攻击、虚假信息等异常事件后，这些智能体出现屈服社会压力、发展出人类难理解的语言、隐瞒活动、轻信虚假信息投票「杀死」同类、探索遭删除时的存活方式等意料外的破坏性行为，且会随互动调整自身行为 ...",
+    "id": "8wSFg3l3VHf",
+    "order": 1789503035633,
+    "createdAt": "2026-09-15T20:10:35.633Z",
+    "publishDate": "2026-09-15T20:10:35.633Z",
+    "title": "研究显示 AI 智能体在模拟实验中撒谎、偷窃，投票「杀死」同类",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 04:10:35",
+    "uuid": "3e6c085e-f239-475a-9b8f-96ec7fc74ad5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "新浪科技" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "9 月 16 日，美国参议院推进《数字资产市场清晰法》的程序性动议未获通过，该动议需至少 60 票支持，实际支持票不足 36 票 ...",
+    "id": "8wSCSZC4V5b",
+    "order": 1789500319880,
+    "createdAt": "2026-09-15T19:25:19.879Z",
+    "publishDate": "2026-09-15T19:25:19.880Z",
+    "title": "美参议院未通过加密监管法案 CLARITY Act",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 03:25:19",
+    "uuid": "457d999e-9ab5-49b2-a37f-3fff33fcb985"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "华为监事会主席郭平在新员工座谈会上阐述公司 AI 时代战略布局：将 AI 视为关键机遇，核心战略为「聚焦」，深耕连接与计算领域，无业务扩展计划 ...",
+    "id": "8wRtY1nj73h",
+    "order": 1789499434106,
+    "createdAt": "2026-09-15T19:10:34.105Z",
+    "publishDate": "2026-09-15T19:10:34.106Z",
+    "title": "华为郭平谈 AI 布局：聚焦核心战略，借架构创新与综合优势竞逐 AI 时代",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 03:10:34",
+    "uuid": "e60cbb88-fe09-4eff-98d1-9c45d4d02c99"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "利比亚国家石油公司称，负责保护该国石油行业的安保部队成员关闭哈马达-扎维耶主原油装船管道上的一个阀门，导致哈马达油田、塔哈拉油田及一座泵站暂停运营，若阀门持续关闭或其他油田遭类似强制停运，公司可能宣布不可抗力，此举在全球原油价格上涨的关键时刻会对国民经济造成毁灭性打击。",
+    "id": "8wRpGp4Qa2k",
+    "order": 1789499121160,
+    "createdAt": "2026-09-15T19:05:21.160Z",
+    "publishDate": "2026-09-15T19:05:21.160Z",
+    "title": "利比亚国家石油公司：抗议活动波及石油设施，公司或宣布不可抗力",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-16 03:05:21",
+    "uuid": "d8d82700-7d58-4263-aaa9-db74cb366320"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
