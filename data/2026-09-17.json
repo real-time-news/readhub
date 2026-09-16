@@ -1,6 +1,75 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国法官称，鉴于谷歌反垄断违法行为的严重性，谷歌应任命一名内部合规官。",
+    "id": "8wU2nqxBcpb",
+    "order": 1789596646471,
+    "createdAt": "2026-09-16T22:10:46.471Z",
+    "publishDate": "2026-09-16T22:10:46.471Z",
+    "title": "美国法官：鉴于谷歌反垄断违法行为的「严重性」，谷歌应任命一名内部合规官",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-17 06:10:46",
+    "uuid": "55667e81-38ce-4308-9e64-0e410eac2922"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "无人机配送公司 Zipline 正就新一轮融资谈判，计划筹资约 10 亿美元，估值目标 200 亿美元。",
+    "id": "8wTwjH6uZJ1",
+    "order": 1789591241556,
+    "createdAt": "2026-09-16T20:40:41.556Z",
+    "publishDate": "2026-09-16T20:40:41.556Z",
+    "title": "无人机配送公司 Zipline 计划筹集约 10 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-17 04:40:41",
+    "uuid": "1b169591-50dd-4944-a76a-47d3e0dd8588"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "由 10 家银行组成的银团正向黑石集团与 Alphabet 旗下新云企业 Crux AI 提供 220 亿美元芯片贷款，该笔债务将用于采购谷歌制造的张量处理单元（TPU），并以芯片价值及 Crux AI 的客户合同作为抵押，目前银团正通过银团化引入更多贷款方分担风险。",
+    "id": "8wTtsJk7Mk6",
+    "order": 1789588252615,
+    "createdAt": "2026-09-16T19:50:52.615Z",
+    "publishDate": "2026-09-16T19:50:52.615Z",
+    "title": "银团拟向 Crux AI 提供 220 亿美元芯片贷款",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-17 03:50:52",
+    "uuid": "df85fe35-b977-4ea9-bea0-23607ff92d6f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "自当地时间 9 月 17 日起，最优惠利率上调 25 个基点至 7.00%。",
+    "id": "8wTsn1nYizR",
+    "order": 1789587644781,
+    "createdAt": "2026-09-16T19:40:44.781Z",
+    "publishDate": "2026-09-16T19:40:44.781Z",
+    "title": "摩根大通：将上调最优惠利率 25 个基点至 7.00%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-17 03:40:44",
+    "uuid": "2f7c2913-082f-4b54-af81-845739fcc52a"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "theblockbeats.info" },
