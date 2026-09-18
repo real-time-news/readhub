@@ -1,6 +1,194 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "软银将所持 ARM 股份质押的保证金贷款额度提升至 250 亿美元，资金用于扩大 AI 相关投资。",
+    "id": "8wWH61k4bz8",
+    "order": 1789711842184,
+    "createdAt": "2026-09-18T06:10:42.184Z",
+    "publishDate": "2026-09-18T06:10:42.184Z",
+    "title": "软银把以所持 ARM 股份作为质押的保证金贷款额度提升至 250 亿美元，资金用于扩大 AI 相关投资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 14:10:42",
+    "uuid": "a9b115c2-1fe1-4601-aabf-2f2deb2455f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "SK 海力士旗下 Solidigm 正评估在美国建设首座 NAND 闪存工厂的相关选项，但尚未确认任何计划。",
+    "id": "8wWGiJIo3RZ",
+    "order": 1789711840469,
+    "createdAt": "2026-09-18T06:10:40.469Z",
+    "publishDate": "2026-09-18T06:10:40.469Z",
+    "title": "SK 海力士旗下 Solidigm 考虑在美国建设首座 NAND 闪存工厂",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 14:10:40",
+    "uuid": "6a610f76-ca6c-47bd-8897-321b11c014ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "受邀参与 OpenAI 漏洞悬赏的独立信息安全研究团队 Hacktron AI，利用 Anthropic 旗下 Claude 模型找到并利用一系列漏洞，成功进入一名 OpenAI 员工的 ChatGPT 帐户，获得 OpenAI 内部 Monorepo 私有代码系统访问权限，事后 OpenAI 向其支付 6500 美元奖金，并表示已解决相关安全问题。",
+    "id": "8wWFIEsi1tc",
+    "order": 1789710645569,
+    "createdAt": "2026-09-18T05:50:45.569Z",
+    "publishDate": "2026-09-18T05:50:45.569Z",
+    "title": "研究人员借 Claude 攻入 OpenAI 内部代码系统",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 13:50:45",
+    "uuid": "8e9c2b08-d1b0-4798-87e3-33a9a31ed89a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "9 月 15 日，鸿蒙智行和问界汽车宣布即日起在鸿蒙智行合作框架下探索新合作模式，问界品牌将专属专营 ...",
+    "id": "8wWAHh6wOgd",
+    "order": 1789710055605,
+    "createdAt": "2026-09-18T05:40:55.605Z",
+    "publishDate": "2026-09-18T05:40:55.605Z",
+    "title": "赛力斯康波：问界坚持高端出海，将亮相 10 月的巴黎车展",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 13:40:55",
+    "uuid": "240bc8d9-271d-43c8-959e-22ab138f0382"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "maomu.com" },
+      { "siteName": "maomu.com" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "智谱正式发布 GLM-5.3-FlashX 并全面开放 API，新版本推理速度最高可达 200 tokens/s，较 GLM-5.3-Flash 提升 5 倍，定价为原版本的 2.5 倍。",
+    "id": "8wWCQaV7QHi",
+    "order": 1789707677126,
+    "createdAt": "2026-09-18T05:01:17.126Z",
+    "publishDate": "2026-09-18T05:01:17.126Z",
+    "title": "智谱发布 GLM-5.3-FlashX，扩算力、提速度、提定价",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 13:01:17",
+    "uuid": "817100bd-6f6b-4236-8161-906a99206dce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "当地时间 9 月 17 日 15 时 45 分左右，美滨核电站 3 号机组被发现管道排气阀周边有水滴落，关西电力公司判断该情况不会立刻影响机组运行，但仍于次日凌晨暂时关停反应堆，目前未确定恢复运行时间，且称滴落水滴不含放射性物质，不会影响周边环境。",
+    "id": "8wV93vAB3xU",
+    "order": 1789706731424,
+    "createdAt": "2026-09-18T04:45:31.424Z",
+    "publishDate": "2026-09-18T04:45:31.424Z",
+    "title": "日本一核电站反应堆或因管道漏水暂时关停",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 12:45:31",
+    "uuid": "10891f78-10d3-4fd2-883a-ac1cf4eb881e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷科技" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "全球首条高阶通用人形机器人自动化产线正式启用。",
+    "id": "8wV09H7XDOz",
+    "order": 1789706731430,
+    "createdAt": "2026-09-18T04:45:31.430Z",
+    "publishDate": "2026-09-18T04:45:31.430Z",
+    "title": "小鹏汽车：高阶通用人形机器人自动化产线正式启用",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 12:45:31",
+    "uuid": "ffa58846-9e62-4317-a228-28cdd53c4ea2"
+  },
+  {
+    "newsArray": [{ "siteName": "ai-bot.cn" }],
+    "summary": "阿里千问推出新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频、视频输入及 1M 长上下文，30 项评测较上代平均提升超 26%，音频能力整体超越 Gemini 3.8 Flash，API 音频输入价格降幅超 98%，可端到端完成视频剪辑、短剧翻译等长程工作流。",
+    "id": "8wWB0nYltME",
+    "order": 1789706459806,
+    "createdAt": "2026-09-18T04:40:59.806Z",
+    "publishDate": "2026-09-18T04:40:59.806Z",
+    "title": "阿里千问推出新一代原生全模态模型 Qwen3.8-Omni-Flash",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 12:40:59",
+    "uuid": "46e7739f-ea5f-4abe-b537-0071ad3bdc56"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "张雪机车将于 9 月 19 日上午 10:30 在重庆国际博览中心 N7 馆 7T13 举行新品发布活动，同步在抖音官方账号直播，此次为 2026 中国摩博会期间的正式亮相，将推出 820X、600V、500F-2027、820RR-RS 和 820RR-RC 五款新车，覆盖多个产品系列，含全新车型和年度升级版本，目前未公布售价 ...",
+    "id": "8wW89jksfsI",
+    "order": 1789706458095,
+    "createdAt": "2026-09-18T04:40:58.095Z",
+    "publishDate": "2026-09-18T04:40:58.095Z",
+    "title": "张雪机车 9 月 19 日将发布五款新车：820X/500F 等齐发",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 12:40:58",
+    "uuid": "01c545f3-df79-4103-9229-78255f6644cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "顺丰控股全资附属公司 CelestialOceanInvestmentsLimited 于 2026 年 9 月 18 日通过大宗交易收购顺丰同城 4584.4 万 H 股，占其全部已发行股本约 4.9973% ...",
+    "id": "8wW9a4vJNFJ",
+    "order": 1789705883046,
+    "createdAt": "2026-09-18T04:31:23.046Z",
+    "publishDate": "2026-09-18T04:31:23.046Z",
+    "title": "顺丰同城：控股股东增持 4584.4 万股 H 股 持股比例升至 63.48%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-18 12:31:23",
+    "uuid": "1171157a-0bd3-4bd7-8c25-a65e69870ea6"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" }
