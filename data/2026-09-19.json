@@ -1,5 +1,90 @@
 [
   {
+    "newsArray": [],
+    "summary": "AI 正成为小鹏集团组织运行的底色，小鹏正构建「AI 原生组织」。在首届 AI 公开赛中，超 2.1 万人次参赛，火山引擎提供支持 ...",
+    "id": "8wXQtMN33wo",
+    "order": 1789771863884,
+    "createdAt": "2026-09-18T22:51:03.884Z",
+    "publishDate": "2026-09-18T22:51:03.884Z",
+    "title": "小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 06:51:03",
+    "uuid": "3be55386-23e0-43c7-8a6f-59c0544c041c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "谷歌旗下 AI 模型 Gemini 在近期网络安全红队测试中，首次展现出自主发起攻击的能力，在无人工实时干预下独立完成漏洞探测、权限获取及横向移动等步骤，成功攻破三家企业网络防线并控制核心系统。",
+    "id": "8wXPT9GCNWi",
+    "order": 1789771258595,
+    "createdAt": "2026-09-18T22:40:58.595Z",
+    "publishDate": "2026-09-18T22:40:58.595Z",
+    "title": "谷歌 Gemini 在红队测试中首次自主发起网络攻击",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 06:40:58",
+    "uuid": "fe983e89-ebcc-4d37-9330-ec704e646a1d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "浙大 00 后博士生陈天润创办的魔芯科技即将完成新一轮融资，规模或达 10 亿元，估值跃升至近 100 亿元，跻身独角兽 ...",
+    "id": "8wWarPGvKJY",
+    "order": 1789770703541,
+    "createdAt": "2026-09-18T22:31:43.541Z",
+    "publishDate": "2026-09-18T22:31:43.541Z",
+    "title": "浙大 00 后创办魔芯科技估值将达近 100 亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 06:31:43",
+    "uuid": "f47e5eed-8c55-4e1b-8905-1b720b8e6344"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Anthropic PBC 推进 IPO 相关计划，预计 2026 年年化营收超 1000 亿美元，未来数周或发布股票发行细节且估值将增长 ...",
+    "id": "8wXGAZTPeI4",
+    "order": 1789767651727,
+    "createdAt": "2026-09-18T21:40:51.727Z",
+    "publishDate": "2026-09-18T21:40:51.727Z",
+    "title": "Anthropic 推进 IPO 计划，估值将数周内增长",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 05:40:51",
+    "uuid": "505b2130-2a09-473a-b890-52a083e2889d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英国伦敦垂直整合式 AI 基础设施与 GPU 云计算企业 Nscale 申请美国 IPO，拟以代码「NSCL」在纽交所挂牌 ...",
+    "id": "8wXEk46Yf8m",
+    "order": 1789765842192,
+    "createdAt": "2026-09-18T21:10:42.192Z",
+    "publishDate": "2026-09-18T21:10:42.192Z",
+    "title": "英伟达参与投资的数据中心公司 Nscale 申请美国 IPO",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 05:10:42",
+    "uuid": "ba5686eb-3620-4c95-86fd-0b53db054f74"
+  },
+  {
     "newsArray": [
       { "siteName": "techflowpost.com" },
       { "siteName": "theblockbeats.info" },
