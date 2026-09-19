@@ -1,5 +1,91 @@
 [
   {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "今年以来券商私募资管规模稳健增长，截至 7 月末达 6.62 万亿元，创近 12 个月新高，已连续 10 个月环比增长，较去年末增 14.16% ...",
+    "id": "8wX2bVbkBwm",
+    "order": 1789777878293,
+    "createdAt": "2026-09-19T00:31:18.293Z",
+    "publishDate": "2026-09-19T00:31:18.293Z",
+    "title": "券商私募资管规模连续 10 个月环比增长",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 08:31:18",
+    "uuid": "47d8128c-c6de-4cd1-85b0-621c1acaeb02"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "摩根士丹利第三季度再度限制旗下规模近 70 亿美元的 North Haven Private Income Fund 私募信贷基金赎回，该基金赎回上限设为 5%，但投资者申请赎回份额达 11.4%，与前三月基本持平 ...",
+    "id": "8wXVtEolH66",
+    "order": 1789776660327,
+    "createdAt": "2026-09-19T00:11:00.327Z",
+    "publishDate": "2026-09-19T00:11:00.327Z",
+    "title": "大摩再度限制私募信贷赎回，11% 投资者申请退出",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 08:11:00",
+    "uuid": "78fcd056-c77c-4ddb-992d-27d59dcb31cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国数据中心运营商 CleanSpark Inc. 发行的首只与 Meta Platforms Inc. 挂钩的五年期高收益债认购需求超发行规模四倍，该债券规模近 22.8 亿美元，认购金额约达 100 亿美元，以面值 98.5 美分定价，收益率 8.25%，较彭博追踪的 BB 级企业债平均收益率高约 175 个基点。",
+    "id": "8wXRbaWfX4t",
+    "order": 1789774276946,
+    "createdAt": "2026-09-18T23:31:16.946Z",
+    "publishDate": "2026-09-18T23:31:16.946Z",
+    "title": "Meta 关联数据中心垃圾债因需求火爆而溢价发行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 07:31:16",
+    "uuid": "1062b8cd-a2cf-4b09-881d-e4378895cf1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "苹果相关高管近日披露了 iPhone Duo 从硬件到软件的设计思路：硬件上，灵感参考日常笔记本，整机比例沿用国际 A 系列纸张体系，铰链采用定制可变扭矩曲线调校开合手感 ...",
+    "id": "8wWjKeGxjVc",
+    "order": 1789774276978,
+    "createdAt": "2026-09-18T23:31:16.978Z",
+    "publishDate": "2026-09-18T23:31:16.978Z",
+    "title": "苹果揭秘 iPhone Duo 设计理念：灵感来自纸质笔记本",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 07:31:16",
+    "uuid": "7d3e225f-7dd6-4394-8bf9-aeb996884c9e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "美国罗德岛州一名联邦法官裁定，特朗普政府非法终止了旨在帮助低收入社区投资太阳能及其他家庭改造的 70 亿美元「全民太阳能」计划，该计划去年 8 月被环保署取消后遭多方司法挑战。",
+    "id": "8wXSK6Erg2M",
+    "order": 1789773654796,
+    "createdAt": "2026-09-18T23:20:54.796Z",
+    "publishDate": "2026-09-18T23:20:54.796Z",
+    "title": "美国法官裁定：特朗普政府取消 70 亿美元太阳能项目违法",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-19 07:20:54",
+    "uuid": "769d2ea5-a607-47dd-a442-5edd5486e021"
+  },
+  {
     "newsArray": [],
     "summary": "AI 正成为小鹏集团组织运行的底色，小鹏正构建「AI 原生组织」。在首届 AI 公开赛中，超 2.1 万人次参赛，火山引擎提供支持 ...",
     "id": "8wXQtMN33wo",
