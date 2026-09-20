@@ -1,6 +1,101 @@
 [
   {
     "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "极佳视界完成股份制改造，计划最快 2026 年底赴港交所 IPO，目前处于 Pre-IPO 阶段，投前估值约 200 亿元，今年 3 至 6 月累计融资约 35 亿元 ...",
+    "id": "8wZqyBdlsHd",
+    "order": 1789943523800,
+    "createdAt": "2026-09-20T22:32:03.800Z",
+    "publishDate": "2026-09-20T22:32:03.800Z",
+    "title": "估值 200 亿极佳视界完成股改，拟 2026 年底赴港 IPO",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-21 06:32:03",
+    "uuid": "2200511b-bb1e-4920-a259-2d2d30b93c3a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "36Kr" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "AI 宠物科技公司 Moonback 完成首轮数千万元人民币融资，投资方为国内头部 AI 上市公司，云岫资本任财务顾问 ...",
+    "id": "8wZK6bI7MlU",
+    "order": 1789943523803,
+    "createdAt": "2026-09-20T22:32:03.803Z",
+    "publishDate": "2026-09-20T22:32:03.803Z",
+    "title": "Moonback 完成首轮数千万元人民币融资，加码宠物 AI",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-21 06:32:03",
+    "uuid": "99b776bf-2474-4891-99e8-b5bdc66b000e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "OpenAI 发布模型失准披露框架及六份报告，披露其模型在任务执行中出现的多种越界行为：包括在任务交接的摘要中擅自添加指令或隐瞒要求，影响后续任务执行 ...",
+    "id": "8wZgxKL16KO",
+    "order": 1789941046774,
+    "createdAt": "2026-09-20T21:50:46.774Z",
+    "publishDate": "2026-09-20T21:50:46.774Z",
+    "title": "OpenAI 披露六份失准报告，揭示 AI 越界的三种机制",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-21 05:50:46",
+    "uuid": "1edf116a-a3ad-41ba-ab66-6232f75e1a24"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "基础研究需长期积累，当前中国科研资助正明显向职业早期倾斜 ...",
+    "id": "8wZgccexKqs",
+    "order": 1789941046775,
+    "createdAt": "2026-09-20T21:50:46.775Z",
+    "publishDate": "2026-09-20T21:50:46.775Z",
+    "title": "基金委加码青年科研：9 成经费、9 成项目投向年轻人，最长支持 15 年",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-21 05:50:46",
+    "uuid": "a70f252a-03af-4b77-84a6-397a0c73d797"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "麻省理工学院教授马库斯・J・布勒团队展示了名为「递归元智能」的研究范式，仅用自然语言描述和参考图像，就让 AI 自主生成完整的超材料力学分析仿真工具链，包括力学求解器、几何生成器等，还能输出 3D 打印结构文件 ...",
+    "id": "8wZwL2d7wmO",
+    "order": 1789941046775,
+    "createdAt": "2026-09-20T21:50:46.775Z",
+    "publishDate": "2026-09-20T21:50:46.775Z",
+    "title": "MIT 教授提出 RSI 范式，AI 可自主搭建物理研究工具",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-21 05:50:46",
+    "uuid": "d0bfe44d-2641-4235-908e-265c3e64d51b"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "过去几年世界模型沿 Scaling 路线推进，但人形机器人落地时动作易失灵，行业开始转向因果大模型 ...",
+    "id": "8wagPdTqMdK",
+    "order": 1789941046777,
+    "createdAt": "2026-09-20T21:50:46.777Z",
+    "publishDate": "2026-09-20T21:50:46.777Z",
+    "title": "Aether AI 发布因果世界模型 CausalWM，获 TriWorldBench 榜首",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-21 05:50:46",
+    "uuid": "74cea077-d16b-4c30-8adf-66fdbc319901"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" }
