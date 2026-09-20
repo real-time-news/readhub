@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "新修订的《住房公积金管理条例》9 月 20 日起施行，以满足缴存人多样化住房需求为目标，主要有几方面变化：提取情形从 6 种拓展为 9 种，新增装修自住住房、支付自住住房物业费等，多地已出台相关细化政策 ...",
+    "id": "8wZjpUAxYgK",
+    "order": 1789897245806,
+    "createdAt": "2026-09-20T09:40:45.806Z",
+    "publishDate": "2026-09-20T09:40:45.806Z",
+    "title": "住房公积金新政施行 服务全生命周期住房消费",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 17:40:45",
+    "uuid": "a47fc1cc-1cd7-456c-b69f-ec8257ea0df3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "投资界" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "中秋国庆假期或将成为今年 AI 圈最繁忙的时段，国内外 AI 企业将集中发布新模型 ...",
+    "id": "8wZgxjw2OZD",
+    "order": 1789897243259,
+    "createdAt": "2026-09-20T09:40:43.259Z",
+    "publishDate": "2026-09-20T09:40:43.259Z",
+    "title": "国内外 AI 厂商密集筹备新模型，假期或迎发布潮",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 17:40:43",
+    "uuid": "bb374af1-b7f8-42d8-83ca-43954886d42a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华远控股 (600743.SH) 公告，控股股东华远集团拟将所持公司 29.9% 股份（7.01 亿股）通过非公开协议转让及无偿划转相结合的方式转让至同一实控人西城区国资委控制下的金融街资本，其中 21.504% 股份（5.05 亿股）以 2.22 元 / 股协议转让，8.396% 股份（1.97 亿股）无偿划转 ...",
+    "id": "8wZkt4oKwVt",
+    "order": 1789896664111,
+    "createdAt": "2026-09-20T09:31:04.110Z",
+    "publishDate": "2026-09-20T09:31:04.111Z",
+    "title": "华远控股：控股股东拟变更为金融街资本",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 17:31:04",
+    "uuid": "e581e968-8600-4805-b2a7-d9c7d75a936d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "2026 启元机器人全球产品发布会上，上纬新材旗下上纬启元发布启元 Q1、T1 两款消费级人形机器人。启元 Q1 主打自定义特性，为可折叠放入背包的个人机器人 ...",
+    "id": "8wZmgfOyY0p",
+    "order": 1789896041403,
+    "createdAt": "2026-09-20T09:20:41.403Z",
+    "publishDate": "2026-09-20T09:20:41.403Z",
+    "title": "稚晖君发布启元 Q1、T1 人形机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 17:20:41",
+    "uuid": "11ef64f2-9b60-4b47-af54-f07cd13bde3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "投资界" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Anthropic 经济团队联合 MIT、斯坦福学者发布 2030 年三种经济情景推演，将美国劳工部岗位拆解为微观任务，基于 AI 技术落地速度勾勒不同未来：温和情景下 AI 类似升级版 Office，GDP 增 1.6%，劳动力市场几乎无变化 ...",
+    "id": "8wZgxPESINP",
+    "order": 1789895437317,
+    "createdAt": "2026-09-20T09:10:37.317Z",
+    "publishDate": "2026-09-20T09:10:37.317Z",
+    "title": "Anthropic 推演 2030 年 AI 对美经济及就业的三种情景",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 17:10:37",
+    "uuid": "2637c2e1-bff0-4a72-b3c2-8be0c84c9578"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" },
+      { "siteName": "开源中国" }
+    ],
+    "summary": "微信 AI 团队开源知识管理框架 WeKnora（维娜拉）0.8.0 版本，定位为让知识库可执行而非仅能查询，解决大模型落地时知识难以转化为可验证结果的问题 ...",
+    "id": "8wZhfygYibn",
+    "order": 1789895437405,
+    "createdAt": "2026-09-20T09:10:37.405Z",
+    "publishDate": "2026-09-20T09:10:37.405Z",
+    "title": "微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能「动手」执行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 17:10:37",
+    "uuid": "818af4ab-df73-40a6-b85b-bd2a146fc670"
+  },
+  {
+    "newsArray": [
+      { "siteName": "电商报" },
+      { "siteName": "电商报" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "2026 中国摩托车博览会上，京东汽车与张雪机车达成深度战略合作，涵盖零售、营销等多领域，张雪机车京东自营旗舰店同步上线，提供整车配送上门、行业首创的「带油运输」、金融分期等服务，还打通双方订单系统实现同步排单 ...",
+    "id": "8wY9vO6HFXM",
+    "order": 1789896542593,
+    "createdAt": "2026-09-20T09:10:37.435Z",
+    "publishDate": "2026-09-20T09:29:02.593Z",
+    "title": "京东汽车与张雪机车达成深度战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 17:10:37",
+    "uuid": "4117271f-cb0a-4285-bdba-f20408fe00e1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌亚太及日本地区 AI 业务总经理哈沙・孔杜里称，亚洲 AI 普及速度远超预估，仅用约两年便迅速普及，而云计算普及耗时十多年 ...",
+    "id": "8wZilUPVxtG",
+    "order": 1789894235005,
+    "createdAt": "2026-09-20T08:50:35.005Z",
+    "publishDate": "2026-09-20T08:50:35.005Z",
+    "title": "谷歌高管称亚洲 AI 普及速度被低估，两年走完云计算十多年历程",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 16:50:35",
+    "uuid": "d416b44b-d011-479d-b333-8f44c8576574"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "微博大 V「理记」透露西贝已对罗永浩提起诉讼，案件即将开庭，并分析罗永浩近期就「野人先生」事件发声是一石二鸟，既联动钟薛高复出话题，又试图淡化自身角色，将公众认知导向普通消费者吐槽的叙事框架以重构历史语境。",
+    "id": "8wZeo816js1",
+    "order": 1789896551744,
+    "createdAt": "2026-09-20T08:31:02.447Z",
+    "publishDate": "2026-09-20T09:29:11.744Z",
+    "title": "西贝起诉罗永浩案即将开庭，大 V 理记质疑其借事重塑舆论",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 16:31:02",
+    "uuid": "b1560926-7a76-4958-bc24-1bdfacd5179a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" },
+      { "siteName": "新浪科技" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "Anthropic 计划将 IPO 推迟至 11 月，早于 AI 发展速度辩论前便已决定，时间仍可能变动 ...",
+    "id": "8wZK82iKXLz",
+    "order": 1789896557085,
+    "createdAt": "2026-09-20T08:15:28.970Z",
+    "publishDate": "2026-09-20T09:29:17.085Z",
+    "title": "Anthropic 拟将 IPO 推迟至 11 月，预计上市估值约 2 万亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-20 16:15:28",
+    "uuid": "cee2f617-2928-4205-a27f-bc58c8fa32bc"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" },
