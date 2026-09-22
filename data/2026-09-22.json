@@ -1,6 +1,182 @@
 [
   {
     "newsArray": [
+      { "siteName": "daily.dev" },
+      { "siteName": "开源中国" },
+      { "siteName": "daily.dev" }
+    ],
+    "summary": "Cloudflare 正式推出可用的 Python Workers，Python 成为其开发者平台头等语言，可对接平台全系列服务绑定，直接运行 FastAPI、Django、Flask 等主流 Python Web 框架 ...",
+    "id": "8wbmKaf55LD",
+    "order": 1790088052491,
+    "createdAt": "2026-09-22T14:40:52.491Z",
+    "publishDate": "2026-09-22T14:40:52.491Z",
+    "title": "Cloudflare 正式推出 Python Workers：可直接跑主流 Python 框架无需胶水代码",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 22:40:52",
+    "uuid": "5e04bbdb-32a0-4d42-996c-06bfc5ded2c5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "速途网" },
+      { "siteName": "IT 之家" },
+      { "siteName": "少数派" }
+    ],
+    "summary": "Beats 推出首款支持可更换耳罩与头梁软垫的全新旗舰头戴式耳机 Beats 360，售价 2999 元，即日起可线上订购，9 月 24 日线下零售店上架 ...",
+    "id": "8wdTSNnYEhk",
+    "order": 1790088051958,
+    "createdAt": "2026-09-22T14:40:51.958Z",
+    "publishDate": "2026-09-22T14:40:51.958Z",
+    "title": "Beats 360 正式发布：首款可换耳罩头戴耳机，售价 2999 元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 22:40:51",
+    "uuid": "ce6ed855-b12a-4c61-a063-7edb26285a70"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "豆包通用 Session 团队正在减员，规模预计缩减约一半。该团队此前约有 50 人，曾是豆包内规模最大的团队，主要负责豆包的对话产品能力，包括策略、评测等工作 ...",
+    "id": "8wdVX5x8KBi",
+    "order": 1790088051959,
+    "createdAt": "2026-09-22T14:40:51.959Z",
+    "publishDate": "2026-09-22T14:40:51.959Z",
+    "title": "豆包对话相关团队减员 规模预计缩减约一半",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 22:40:51",
+    "uuid": "6b972fd8-e7fd-4f6b-95eb-544feabb9670"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "宁波远洋运输股份有限公司近日工商变更，注册资本由约 13.1 亿元增至约 14.5 亿元，增幅约 11% ...",
+    "id": "8wd5owyCQVe",
+    "order": 1790088049539,
+    "createdAt": "2026-09-22T14:40:49.539Z",
+    "publishDate": "2026-09-22T14:40:49.539Z",
+    "title": "宁波远洋增资至 14.5 亿，增幅约 11%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 22:40:49",
+    "uuid": "bab7da40-c9af-407a-8759-9dd64ac593b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美股开盘三大指数小幅高开，纳指涨 0.14%，标普 500 指数涨 0.08%，道指涨 0.39%。阿里巴巴涨超 4%，阿里云栖大会上平头哥发布新一代 AI 芯片真武 V900 ...",
+    "id": "8wdPSfNNNry",
+    "order": 1790086525341,
+    "createdAt": "2026-09-22T14:15:25.341Z",
+    "publishDate": "2026-09-22T14:15:25.341Z",
+    "title": "美股三大指数小幅高开 阿里涨超 4% 平头哥发布新一代 AI 芯片",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 22:15:25",
+    "uuid": "2b46c936-bc44-40f0-bc58-aa7b9b8b8db8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "2026 云栖大会上，阿里云推出面向下一代 AI 训练集群的新一代高性能存储 CPFS，其可提供百 TB/s 级吞吐和亿级 IOPS，单文件系统规模提升至 100PiB，为百万卡模型训练加速，能将模型启动平均耗时降低 50%、峰值算力利用率提升 30%、AI 存储成本最高降低 69%，业务承载能力翻倍 ...",
+    "id": "8wdCD9fzJ3T",
+    "order": 1790086525354,
+    "createdAt": "2026-09-22T14:15:25.354Z",
+    "publishDate": "2026-09-22T14:15:25.354Z",
+    "title": "阿里云发布新一代自研存储：为百万卡加速 AI 存储成本大降 69%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 22:15:25",
+    "uuid": "439ed46b-d5ff-4c76-85ee-4fe75fc4988d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "9 月 22 日晚间，OPPO Enco X4 真无线降噪耳机正式发布，定价 1199 元，首销期到手价 1099 元 ...",
+    "id": "8wdOLbJsGiD",
+    "order": 1790086524775,
+    "createdAt": "2026-09-22T14:15:24.775Z",
+    "publishDate": "2026-09-22T14:15:24.775Z",
+    "title": "OPPO Enco X4 正式发布 首销 1099 元起 支持 2.3Mbps 无损传输",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 22:15:24",
+    "uuid": "8649b77d-cc61-4f7d-90ad-dcc152880eee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "粤芯半导体本次发行价格确定为 12.01 元 / 股，网下发行不再进行累计投标询价，投资者可于 2026 年 9 月 24 日（T 日）参与网上和网下申购，申购时无需缴付申购资金，其中网下申购时间为当日 9:30-15:00，网上申购时间为当日 9:15-11:30、13:00-15:00。",
+    "id": "8wdRv35OjxK",
+    "order": 1790085055904,
+    "createdAt": "2026-09-22T13:50:55.904Z",
+    "publishDate": "2026-09-22T13:50:55.904Z",
+    "title": "粤芯半导体：本次发行价格为 12.01 元 / 股",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 21:50:55",
+    "uuid": "6190e01c-0192-42d6-818c-4769020b66af"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "金融界" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "苹果涨近 2%，最高触及 345.34 美元，创历史新高，总市值再次突破 5 万亿美元大关 ...",
+    "id": "8wdRv5QAAIF",
+    "order": 1790085055917,
+    "createdAt": "2026-09-22T13:50:55.917Z",
+    "publishDate": "2026-09-22T13:50:55.917Z",
+    "title": "苹果涨近 2% 创新高 总市值突破 5 万亿美元大关",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 21:50:55",
+    "uuid": "a766d2b1-fafa-4e05-9f22-dab6856bf9b7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "梅赛德斯-奔驰与英国自动驾驶初创公司 Wayve 达成合作，计划未来两年内至少将一款车型接入 Wayve 的自动驾驶系统，提升城市点到点驾驶辅助能力 ...",
+    "id": "8wdPmQr6HrP",
+    "order": 1790084450214,
+    "createdAt": "2026-09-22T13:40:50.214Z",
+    "publishDate": "2026-09-22T13:40:50.214Z",
+    "title": "奔驰与 Wayve 达成自动驾驶合作 未来至少一款车型将搭载其系统",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-22 21:40:50",
+    "uuid": "09c63a75-b3ea-4d89-9cea-6bb1f12693be"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
