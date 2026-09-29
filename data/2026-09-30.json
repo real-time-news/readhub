@@ -1,0 +1,145 @@
+[
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "丹麦奥尔堡大学 AI 安全实验室与 Seafill 开源社区联合发表研究，通过标准 API 的 tool calling 协议层方法，成功提取多款前沿大模型的隐藏思维链，经开源、闭源模型验证，提取出的推理内容接近模型原生推理，可作为研究其推理行为的有效代理 ...",
+    "id": "8wodoH65BQY",
+    "order": 1790707841583,
+    "createdAt": "2026-09-29T18:50:41.583Z",
+    "publishDate": "2026-09-29T18:50:41.583Z",
+    "title": "GPT-6 Astra 的隐藏推理，丹麦团队用 tool calling 撬出来了",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-30 02:50:41",
+    "uuid": "bee6cf4b-8fcb-4ea2-a2da-031126f6ce75"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "九阳股份公告，公司股票 2026 年 9 月 28 日、9 月 29 日连续两个交易日收盘价格涨幅偏离值累计达 23.65% ...",
+    "id": "8wp1QwcNqZH",
+    "order": 1790706661070,
+    "createdAt": "2026-09-29T18:31:01.070Z",
+    "publishDate": "2026-09-29T18:31:01.070Z",
+    "title": "九阳股份：公司与华为无战略合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-30 02:31:01",
+    "uuid": "e780c5e2-2786-4cac-924e-49442c2e463d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "多家基金管理人集中上报首批跟踪中证红利增长指数的 ETF 产品。该指数定位于 A 股红利增长策略，反映分红连续增长的上市公司整体表现 ...",
+    "id": "8wozFwrDKzf",
+    "order": 1790705440149,
+    "createdAt": "2026-09-29T18:10:40.149Z",
+    "publishDate": "2026-09-29T18:10:40.149Z",
+    "title": "多家基金管理人上报首批中证红利增长 ETF",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-30 02:10:40",
+    "uuid": "ff4258e5-f7ab-4f26-bb28-482868ee7d60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenAI 宣布与亚马逊云服务合作，利用 AWS 基础设施运行托管式 AI 智能体，还将把 ChatGPT 部署至 Slack 和微软 Teams，用户无需单独购买个人许可证即可使用相关功能，目前每周有 3500 万人通过 ChatGPT Work 和 Codex 进行构建和开发。",
+    "id": "8wpJcLdOcGD",
+    "order": 1790703649497,
+    "createdAt": "2026-09-29T17:40:49.497Z",
+    "publishDate": "2026-09-29T17:40:49.497Z",
+    "title": "OpenAI 宣布与亚马逊云服务合作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-30 01:40:49",
+    "uuid": "9e6c1649-6e13-40d0-b76c-4ca4f435e37a"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "36Kr" }],
+    "summary": "开发者大会前夜，OpenAI 紧急撤回原定于十月在 ChatGPT 和 Codex 上线的下一代模型 GPT-6.1 Astra 的发布计划，冻结其训练集群 ...",
+    "id": "8woliFd8E7U",
+    "order": 1790700921919,
+    "createdAt": "2026-09-29T16:55:21.919Z",
+    "publishDate": "2026-09-29T16:55:21.919Z",
+    "title": "OpenAI 因安全对齐问题取消 GPT-6.1 发布计划",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-30 00:55:21",
+    "uuid": "865467b2-ed4f-4963-8a0a-3d6792323b98"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "MiniMax 推出的 M3.1-Flash-Preview 模型拥有百万 token 上下文，推理强度六档可调，支持图文视频输入，实测在生成符合要求的鹈鹕骑车 SVG、手绘草图转功能落地页、自主生成数据可视化图表、从零创作 AI 短片、修复系统性能与隐蔽代码 bug、搭建 3D 火箭与黑洞场景、生成完整第一人称射击游戏等多类任务中表现出色，且生成速度快，一改过往 Flash 模型仅满足基础可用的预期，能直接产出可落地的实用成果，其后续 Pro 版本也备受期待。",
+    "id": "8wpH71CoGzH",
+    "order": 1790700652259,
+    "createdAt": "2026-09-29T16:50:52.259Z",
+    "publishDate": "2026-09-29T16:50:52.259Z",
+    "title": "MiniMax M3.1 Flash 实测：多场景能力表现亮眼",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-30 00:50:52",
+    "uuid": "f4b01571-ab70-4229-a078-0728c4a0ea94"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "OpenAI 首席执行官奥尔特曼称暂无 IPO 时间表。",
+    "id": "8wpFg95m5dC",
+    "order": 1790700652256,
+    "createdAt": "2026-09-29T16:50:52.256Z",
+    "publishDate": "2026-09-29T16:50:52.256Z",
+    "title": "OpenAI 首席执行官奥尔特曼称，暂无 IPO 时间表",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-30 00:50:52",
+    "uuid": "04297d43-478e-4de9-99ca-3d592ef240fb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "我国自主研发的 150 马力 / 250 马力 4500 米级深海作业机器人从山东威海港启航，将联合哈尔滨工业大学（威海）奔赴南海开展联合科考 ...",
+    "id": "8wp4I8e4dfn",
+    "order": 1790700049112,
+    "createdAt": "2026-09-29T16:40:49.112Z",
+    "publishDate": "2026-09-29T16:40:49.112Z",
+    "title": "奔赴南海科考，我国自主研发 4500 米级深海作业机器人启航",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-30 00:40:49",
+    "uuid": "c9c29433-4df0-4334-bc1c-93d98d9eed32"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "电动邦" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "当地时间 9 月 28 日晚，由重庆市沙坪坝区与赛力斯共同投资的赛豆科技旗下 AIVA 品牌首款量产车型 AIVA ME7 在法国巴黎尚普拉特勒城堡完成全球首秀 ...",
+    "id": "8wozxYhYRgb",
+    "order": 1790698849035,
+    "createdAt": "2026-09-29T16:20:49.035Z",
+    "publishDate": "2026-09-29T16:20:49.035Z",
+    "title": "赛豆科技 AIVA 首款量产车 ME7 全球首秀：提供纯电与增程版本",
+    "type": "topic",
+    "up": false,
+    "date": "2026-09-30 00:20:49",
+    "uuid": "f6c37ad7-0cec-449e-bed8-f860cedfd125"
+  }
+]
