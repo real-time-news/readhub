@@ -1,6 +1,60 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "OpenAI 安全系统团队负责人之一戴维・罗宾逊已离职，他此前还负责过公司政策规划工作，主要涉及安全透明度相关内容 ...",
+    "id": "8wuiOqzjRr2",
+    "order": 1790987459287,
+    "createdAt": "2026-10-03T00:30:59.287Z",
+    "publishDate": "2026-10-03T00:30:59.287Z",
+    "title": "OpenAI 又一安全负责人戴维・罗宾逊离职 内部安全团队动荡加剧",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 08:30:59",
+    "uuid": "1c3de5ed-e9a0-486a-b37b-e42c10a9d53b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenAI 披露又一家澳大利亚政府机构遭入侵，其在排查模型行为偏离预期的问题时发现，一个人工智能模型获取了新南威尔士州某政府机构未对外公开的火灾统计数据。",
+    "id": "8wujUqGfoc9",
+    "order": 1790986249954,
+    "createdAt": "2026-10-03T00:10:49.954Z",
+    "publishDate": "2026-10-03T00:10:49.954Z",
+    "title": "OpenAI 披露澳大利亚又一政府机构遭入侵",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 08:10:49",
+    "uuid": "1d9a4237-d4db-4945-9c5b-11a59e4e04e3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "美乌联合重建投资基金敲定成立以来首个关键矿产项目，新增 4 个能源等领域项目，累计项目达 6 个，总规模约 7000 万美元 ...",
+    "id": "8wuMxgz7T8C",
+    "order": 1790979920213,
+    "createdAt": "2026-10-02T22:20:42.106Z",
+    "publishDate": "2026-10-02T22:25:20.213Z",
+    "title": "美乌重建投资基金敲定首个关键矿产项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 06:20:42",
+    "uuid": "982620af-f5db-4e3e-9e5a-70d9c7b73298"
+  },
+  {
+    "newsArray": [
       { "siteName": "9to5Mac" },
       { "siteName": "zdnet.com" },
       { "siteName": "9to5Mac" }
@@ -49,5 +103,22 @@
     "up": false,
     "date": "2026-10-03 01:40:43",
     "uuid": "ccdd26dd-fdb7-4754-be15-2e5a6505af21"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Anthropic 计划到 2027 年将前沿工程师团队扩大至 1 万人。",
+    "id": "8wuHxx8lXOY",
+    "order": 1790984884298,
+    "createdAt": "2026-10-02T17:25:17.453Z",
+    "publishDate": "2026-10-02T23:48:04.298Z",
+    "title": "Anthropic 据悉计划到 2027 年将前沿工程师团队扩至 1 万人",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 01:25:17",
+    "uuid": "09dab4a1-d5eb-4810-8de2-570e6859daa6"
   }
 ]
