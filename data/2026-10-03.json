@@ -1,5 +1,204 @@
 [
   {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "arXiv 自 10 月 1 日起实施投稿限流新规，每个提交账号每月最多可投 2 篇论文，同时等待审核的稿件不能超过 3 篇，被审核员拒掉的稿件同样占用名额，名额仅统计点击提交操作的账号，其他共同作者不受影响 ...",
+    "id": "8wv5GnJjqDg",
+    "order": 1791003053905,
+    "createdAt": "2026-10-03T04:50:53.905Z",
+    "publishDate": "2026-10-03T04:50:53.905Z",
+    "title": "arXiv 实施限流新规：每人每月限发 2 篇论文",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 12:50:53",
+    "uuid": "907aa23f-49f5-456e-9aa1-6673c3e55503"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "今年前 8 个月，中国出口信用保险公司扩大出口信用保险覆盖面，承保金额 8541.8 亿美元，同比增长 12.6%，服务客户 25.1 万家，同比增长 5.2% ...",
+    "id": "8wv4YR6Fl1q",
+    "order": 1791002724535,
+    "createdAt": "2026-10-03T04:45:24.535Z",
+    "publishDate": "2026-10-03T04:45:24.535Z",
+    "title": "中国信保前 8 个月承保金额同比增长 12.6%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 12:45:24",
+    "uuid": "56352e37-db45-4bf5-a646-aa354797cf60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "成立不到 5 个月的上海 AI 企业 StartLux 推出完全开源的决策模型 StartLux-Decision，在 Decision Index 0.2.1 的 38 项基准测试中 31 项成绩超过热门模型 Jev，综合得分领先近 6 分，36 局国际象棋对弈中赢下 35 局，是当前公开评测下全球最强的开源决策模型 ...",
+    "id": "8wuvzpnKPXg",
+    "order": 1791002444970,
+    "createdAt": "2026-10-03T04:40:44.970Z",
+    "publishDate": "2026-10-03T04:40:44.970Z",
+    "title": "StartLux 开源决策模型公开评测成绩超 Jev 登顶榜首",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 12:40:44",
+    "uuid": "bbeff1d6-497c-41de-8878-d73704a1475b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国谷歌公司一颗搭载谷歌张量处理单元（TPU）芯片的原型卫星日前发射升空，用于测试该芯片在太空环境中的运行性能，探索未来能否在太空部署可扩展的机器学习人工智能基础设施，目前团队已与卫星建立通信，卫星运行正常。",
+    "id": "8wuy7m4xzu2",
+    "order": 1791000923851,
+    "createdAt": "2026-10-03T04:15:23.851Z",
+    "publishDate": "2026-10-03T04:15:23.851Z",
+    "title": "谷歌搭载 AI 芯片的测试卫星发射升空",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 12:15:23",
+    "uuid": "baef6d2b-1d0c-4d0c-b314-6725da57a8fd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Meta 为其个人 AI Agent 产品 Muse 推出 Muse Gadgets 开源项目，下放硬件能力，支持开发者通过 ESP32 开发板或 Linux SDK 等为其打造专属外围硬件，官方给出了彩色墨水屏、HDMI 显示扩展、触控掌上挂件等 DIY 参考形态，同时公布了开发者上手的具体步骤 ...",
+    "id": "8wurhvfOAaQ",
+    "order": 1790998848452,
+    "createdAt": "2026-10-03T03:40:48.452Z",
+    "publishDate": "2026-10-03T03:40:48.452Z",
+    "title": "Meta 开源 Muse Gadgets 支持开发者打造专属 AI 外设",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 11:40:48",
+    "uuid": "ccd963dc-22b4-485e-b618-8b775637bda2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软官方 X 账号遭未经授权访问，攻击者发布不实推文称点赞达 50 万就让 Clippy 回归，还关注相关主题账号、更换账号头像，整个过程持续约 30 分钟 ...",
+    "id": "8wunmL0572w",
+    "order": 1790998846603,
+    "createdAt": "2026-10-03T03:40:46.603Z",
+    "publishDate": "2026-10-03T03:40:46.603Z",
+    "title": "微软官方 X 账号被劫持约 30 分钟，攻击者借相关炒作加密代币",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 11:40:46",
+    "uuid": "6f1fc4b5-4ed5-406f-af0a-2ef18db6cddc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "央视新闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "快科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国铁集团优化老年人购票优惠举措，年满 60 周岁及以上老年人购买 2026 年 10 月 18 日至 12 月 30 日标注「敬」字车次的火车票可享折上折优惠，不再限定周中时段，相关优惠车票 10 月 4 日起陆续发售 ...",
+    "id": "8wuvGZJ0acV",
+    "order": 1790995246543,
+    "createdAt": "2026-10-03T02:40:46.543Z",
+    "publishDate": "2026-10-03T02:40:46.543Z",
+    "title": "老年旅客淡季火车票将享「折上折」相关优惠车票明起陆续发售",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 10:40:46",
+    "uuid": "6f924b32-33a9-4a47-b34b-1d201e5626d6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "央视新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "央视新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "商务部新闻发言人就中方对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问，称此次调查应国内产业申请发起，申请人初步证据显示 2022 至 2025 年自欧进口相关产品数量处于高位、价格累计跌幅近 60%，倾销进口产品对国内产业生产经营造成损害，相关申请符合立案条件，中方将依法依规开展调查，保障各利害关系方权利，客观公正作出裁决 ...",
+    "id": "8wuuYMRR0AQ",
+    "order": 1790994320576,
+    "createdAt": "2026-10-03T02:25:20.576Z",
+    "publishDate": "2026-10-03T02:25:20.576Z",
+    "title": "商务部新闻发言人就对欧盟进口对硝基甲苯反倾销调查答记者问",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 10:25:20",
+    "uuid": "44f3c158-bbb0-4141-aa17-12812a9e3b8d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "截至 2026 年 10 月 2 日，华为乾崑官网显示其累计辅助驾驶里程已正式突破 160 亿公里。",
+    "id": "8wut7UGzdFh",
+    "order": 1790993441588,
+    "createdAt": "2026-10-03T02:10:41.588Z",
+    "publishDate": "2026-10-03T02:10:41.588Z",
+    "title": "华为乾崑智驾累计辅助驾驶里程突破 160 亿公里",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 10:10:41",
+    "uuid": "1979fe45-ef0e-48c5-8810-d6173e8c9fc0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "NEAR Intents 负责人 Alex Shevchenko 发文称此前攻击涉及的 380 万美元资金已全额归还，团队将停止相关调查，其呼吁通过漏洞赏金计划报告漏洞，避免扰乱服务 ...",
+    "id": "8wtH4dOvNk3",
+    "order": 1790989838253,
+    "createdAt": "2026-10-03T01:10:38.253Z",
+    "publishDate": "2026-10-03T01:10:38.253Z",
+    "title": "NEAR Intents：被盗资金已全额归还，团队将停止相关调查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-03 09:10:38",
+    "uuid": "b3f244d7-759a-4a56-892d-a7e62c809e67"
+  },
+  {
     "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "财联社" },
