@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "韩国发生一系列导致金融业个人数据泄露的网络攻击事件后，金融监管机构敦促金融机构尽快完成内部安全检查并上报结果 ...",
+    "id": "8wwqygiJJmB",
+    "order": 1791099322723,
+    "createdAt": "2026-10-04T07:35:22.723Z",
+    "publishDate": "2026-10-04T07:35:22.723Z",
+    "title": "韩国金融业接连遭网络攻击，监管机构要求全面排查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-04 15:35:22",
+    "uuid": "969b6454-50b5-410d-9ce2-3dc656eb933f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "医药魔方" },
+      { "siteName": "动脉网" }
+    ],
+    "summary": "一周内 AI 头部企业 Anthropic 连续两次布局医疗：上线生物学能力顶尖、获 CB-1 生化风险评级的 Claude Opus 5.5，与头部临床决策支持工具企业 OpenEvidence 合作，将基于 Claude 的相关工具免费开放给约 100 个中低收入国家的医生 ...",
+    "id": "8wwQAK1RoEb",
+    "order": 1791092442131,
+    "createdAt": "2026-10-04T05:40:42.131Z",
+    "publishDate": "2026-10-04T05:40:42.131Z",
+    "title": "模型强到要风险管控，Anthropic 借 OpenEvidence 把医疗 AI 铺向 100 国",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-04 13:40:42",
+    "uuid": "56bd5371-7a74-4105-8835-2663b1c44924"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "当地时间 10 月 3 日，厄瓜多尔主要国有输油管道系统跨厄瓜多尔输油管道系统因纳波省一处泵站发生火灾暂停运营，厄瓜多尔国家石油公司已请求相关部门介入调查 ...",
+    "id": "8wwgc4A9jXX",
+    "order": 1791087034732,
+    "createdAt": "2026-10-04T04:10:34.732Z",
+    "publishDate": "2026-10-04T04:10:34.732Z",
+    "title": "厄瓜多尔一国有输油管道系统因泵站火灾暂停运营",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-04 12:10:34",
+    "uuid": "7e3ad69c-b823-4e4f-932f-70de660bb011"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "同花顺财经" }
