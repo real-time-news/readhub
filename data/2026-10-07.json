@@ -1,6 +1,77 @@
 [
   {
     "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "谷歌推出 EmbeddingGemma 2，基于 Gemma 4 架构开发，采用 Apache 2.0 许可发布，总参数 7.4 亿，基于 Gemini 嵌入模型同源技术打造，可将文本、代码、图像、视频、音频统一映射到同一嵌入空间 ...",
+    "id": "8x0rIW14NLA",
+    "order": 1791328235843,
+    "createdAt": "2026-10-06T23:10:35.843Z",
+    "publishDate": "2026-10-06T23:10:35.843Z",
+    "title": "谷歌推出多模态嵌入模型 EmbeddingGemma 2，端侧运行内存低至 191MB",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-07 07:10:35",
+    "uuid": "57dc4b37-5de0-4236-8eba-7bc349aae0b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI 公开其内部前沿大模型生成的一系列全新数学研究成果，相关内容通过 GitHub 代码库发布，附带论文修订与引用的规范协议 ...",
+    "id": "8x1Hjextlfk",
+    "order": 1791326725398,
+    "createdAt": "2026-10-06T22:45:25.398Z",
+    "publishDate": "2026-10-06T22:45:25.398Z",
+    "title": "OpenAI 发布前沿大模型全新数学能力相关测试成果",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-07 06:45:25",
+    "uuid": "f965fb99-a5e4-46e0-a89d-ec650a4086ac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "深圳传音控股申请香港 IPO，拟发行 8660 万股股票，发行价指导区间上限为每股 38.80 港元，预计股票将于 10 月 15 日上市交易。",
+    "id": "8x1HjBRcExg",
+    "order": 1791325856742,
+    "createdAt": "2026-10-06T22:30:56.742Z",
+    "publishDate": "2026-10-06T22:30:56.742Z",
+    "title": "传音控股拟通过香港 IPO 募资逾 33 亿港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-07 06:30:56",
+    "uuid": "7782cc88-3952-4d4c-817f-25ca03cb4b45"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "新浪科技" },
+      { "siteName": "9to5Mac" }
+    ],
+    "summary": "苹果计划推出智能门铃、恒温器等智能家居设备，将与 LG 电子合作开发智能门栓锁、安全摄像头等相关配件，产品采用 LG 品牌，由 LG 负责生产和产品支持，这些产品将接入升级版 HomePod mini 及新款 Apple TV 机顶盒组成的智能家居生态系统，预计 10 月 13 日发布相关新品，苹果借此合作可在无需承担生产和支持各类配件的全部成本和复杂性的情况下，快速扩展其生态系统。",
+    "id": "8x1Cj82MKQV",
+    "order": 1791323437093,
+    "createdAt": "2026-10-06T21:45:25.246Z",
+    "publishDate": "2026-10-06T21:50:37.093Z",
+    "title": "据悉苹果将联手 LG 加码智能家居 拟推门锁、摄像头等产品",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-07 05:45:25",
+    "uuid": "0bfde150-aec5-4207-9186-58060d505d33"
+  },
+  {
+    "newsArray": [
       { "siteName": "techflowpost.com" },
       { "siteName": "techflowpost.com" },
       { "siteName": "theblockbeats.info" }
