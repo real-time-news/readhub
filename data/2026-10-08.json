@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中证协发布今年上半年券业经营情况分析显示，上半年证券公司为 112.74 万亿元客户资产提供交易、托管服务，全行业平均代理买卖证券净佣金率下降至万分之 1.71，投资者交易成本显著降低。",
+    "id": "8x3W0pkqpGn",
+    "order": 1791442233517,
+    "createdAt": "2026-10-08T06:50:33.517Z",
+    "publishDate": "2026-10-08T06:50:33.517Z",
+    "title": "中证协：全行业平均净佣金率下降至万分之 1.71",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 14:50:33",
+    "uuid": "9a3976b5-e7aa-4fef-9f5f-305070a0006b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "日本企业 Preferred Networks 发布完全自主研发的全新翻译模型 PLaMo3Translate31B，该模型基于 PLaMo3 基础模型打造，训练数据中日语占比约 30%，支持 53 种语言，还引入覆盖 15 种语言的在线会议翻译模式，多项权威翻译基准测试平均得分超越 OpenAI 相关模型，针对日语的高效处理机制使其运营成本显著低于同类竞品。",
+    "id": "8x3TsZYAXwX",
+    "order": 1791441925138,
+    "createdAt": "2026-10-08T06:45:25.138Z",
+    "publishDate": "2026-10-08T06:45:25.138Z",
+    "title": "PFN 发布自研 PLaMo 3 Translate 31B 翻译大模型 性能超同类竞品",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 14:45:25",
+    "uuid": "845e18f4-961d-4b2d-8f20-d49f9607cb52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为披露轮值董事长徐直军与海思首席科学家廖恒此前在华为全联接大会期间同媒体问答的相关内容，针对有记者问及美国领先 AI 模型供应商近期呼吁放缓 AI 开发的问题，徐直军表示需关注中美 AI 发展的水平和节奏，中国 AI 模型大多为开源、进展相对透明，美国主流模型提供商算力更强，其模型复杂程度或仅自身知晓 ...",
+    "id": "8x1q2Vgisdy",
+    "order": 1791441070473,
+    "createdAt": "2026-10-08T06:31:10.473Z",
+    "publishDate": "2026-10-08T06:31:10.473Z",
+    "title": "徐直军回应美国同行呼吁放缓 AI 开发：中国需加快 AI 模型发展",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 14:31:10",
+    "uuid": "cea754bf-b628-495b-8383-24ca17242f98"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "江淮汽车盘中跌停，报 24.72 元 / 股，成交额 35.9 亿元，换手率 6.31%，最新市值 557.23 亿元 ...",
+    "id": "8x3EVFEsanc",
+    "order": 1791440443880,
+    "createdAt": "2026-10-08T06:20:43.880Z",
+    "publishDate": "2026-10-08T06:20:43.880Z",
+    "title": "江淮汽车盘中跌停 此前披露与华为等合作尚不确定",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 14:20:43",
+    "uuid": "0f671941-19ce-42c1-b6b1-a1ccd674dcfa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "埃默里奇报业等多家美国地方媒体指控两家公司蓄意窃取数万篇版权文章训练 AI 模型，通过付费墙绕过等手段未经授权获利数十亿美元，要求赔偿并删除侵权训练数据。",
+    "id": "8x27tvXZiXa",
+    "order": 1791440126015,
+    "createdAt": "2026-10-08T06:15:26.015Z",
+    "publishDate": "2026-10-08T06:15:26.015Z",
+    "title": "微软、OpenAI 遭美国多家地方媒体起诉 被指侵犯版权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 14:15:26",
+    "uuid": "d92c85ba-67ec-4c0e-a9c9-1f31140a5166"
+  },
+  {
+    "newsArray": [{ "siteName": "ai-bot.cn" }],
+    "summary": "Manus 母公司蝴蝶效应完成超 5 亿美元融资，由博裕投资、IDG 资本领投，腾讯、红杉中国、真格基金等老股东继续加持，这是其恢复独立运营后首次披露融资 ...",
+    "id": "8x3TWxzgXva",
+    "order": 1791439838760,
+    "createdAt": "2026-10-08T06:10:38.760Z",
+    "publishDate": "2026-10-08T06:10:38.760Z",
+    "title": "Manus 母公司蝴蝶效应完成超 5 亿美元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 14:10:38",
+    "uuid": "72d676ff-fc24-4838-b8b1-e0a27ff146fa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "三星电子移动体验部门计划智能手机减产，2026 年第四季度产量最高降幅可达 30%，已通知合作伙伴将产品供应量减少 20% 至 30% ...",
+    "id": "8x3OWGkcqaV",
+    "order": 1791439259943,
+    "createdAt": "2026-10-08T06:00:59.943Z",
+    "publishDate": "2026-10-08T06:00:59.943Z",
+    "title": "消息称三星手机 2026 年 Q4 最高减产 30% 卖出去也不赚钱",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 14:00:59",
+    "uuid": "52a64de6-a137-4486-900e-3a09d7019c1d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "欧菲光为华为 Pura 90 Pro、Pro Max 旗舰机型核心光学供应商，独家供应两款机型的主摄与 2 亿像素潜望长焦，其中外挂式长焦影像系统也由欧菲光供货 ...",
+    "id": "8x3RjJ2FcLa",
+    "order": 1791438921417,
+    "createdAt": "2026-10-08T05:55:21.417Z",
+    "publishDate": "2026-10-08T05:55:21.417Z",
+    "title": "华为 Pura 90 Pro 系列主摄及外挂式长焦系统由欧菲光供货",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 13:55:21",
+    "uuid": "f159cedb-39c2-4692-9035-a56c435a2de0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "金发科技发布致客户联络函称，受中东局势持续扰动，国际油价长期高位运行推高改性塑料核心石化原料价格，化工助剂、能源及生产加工成本同步走高，相关成本增加已远超公司内部消化能力，公司拟对相关产品实施价格调整，不同品类改性产品每吨涨价幅度从 1000 元到 2500 元不等，本次调价自 2026 年 10 月 8 日起接收的订单开始适用。",
+    "id": "8x3RMU1aban",
+    "order": 1791438328296,
+    "createdAt": "2026-10-08T05:45:28.296Z",
+    "publishDate": "2026-10-08T05:45:28.296Z",
+    "title": "金发科技拟上调多款改性产品价格 每吨涨幅 1000-2500 元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 13:45:28",
+    "uuid": "7791f1d2-07bc-44de-aa11-4c15b3ebe4df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "动脉网" }
+    ],
+    "summary": "北京北卓医疗科技发展有限责任公司宣布完成近亿元 Pre-A 轮融资，由元明资本与中关村资本联合领投，广州赛芮博医疗科技有限公司等产业投资人跟投，多维资本和亦心资本联合担任本轮财务顾问 ...",
+    "id": "8x33n9dvJVH",
+    "order": 1791438326323,
+    "createdAt": "2026-10-08T05:45:26.323Z",
+    "publishDate": "2026-10-08T05:45:26.323Z",
+    "title": "北卓医疗获得近亿元 Pre-A 轮融资，加速无创脑机神经调控商业化落地",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 13:45:26",
+    "uuid": "5fb03154-ced6-4b37-979b-e895025fdc61"
+  },
+  {
+    "newsArray": [
       { "siteName": "techflowpost.com" },
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" }
