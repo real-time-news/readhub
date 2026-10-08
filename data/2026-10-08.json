@@ -1,6 +1,185 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "星巴克曾探讨收购市值接近 390 亿美元的墨西哥烧烤连锁品牌 Chipotle，近几个月已联合顾问团队研究收购方案，目前尚无法确认该计划最新进展及是否已提交正式收购要约 ...",
+    "id": "8x42XsQNVI9",
+    "order": 1791469867487,
+    "createdAt": "2026-10-08T14:31:07.487Z",
+    "publishDate": "2026-10-08T14:31:07.487Z",
+    "title": "星巴克曾洽谈收购 Chipotle 该并购交易尚处早期阶段未必落地",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 22:31:07",
+    "uuid": "1542260e-1572-4cb9-97a6-bef565ff93aa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "长盈精密已与国内外多家人形机器人头部品牌建立紧密合作，2026 年 1-8 月交付超 110 万件人形机器人精密零组件，三、四季度订单相比上半年增速更快，公司正根据客户需求积极扩产。",
+    "id": "8x41oFgolL5",
+    "order": 1791469243497,
+    "createdAt": "2026-10-08T14:20:43.497Z",
+    "publishDate": "2026-10-08T14:20:43.497Z",
+    "title": "长盈精密：1-8 月交付超 110 万件人形机器人精密零组件 三、四季度订单增速更快",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 22:20:43",
+    "uuid": "fa249808-05cc-4035-b94a-b49238d5e378"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "五菱汽车宣布星光 L 上市 80 天销量突破 20000 台 ...",
+    "id": "8x3I5JAbGLp",
+    "order": 1791467451909,
+    "createdAt": "2026-10-08T13:50:51.909Z",
+    "publishDate": "2026-10-08T13:50:51.909Z",
+    "title": "五菱星光 L 上市 80 天销量突破 20000 台 达成新里程碑",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 21:50:51",
+    "uuid": "d972fe47-840d-4d5b-9b76-a4a029fec703"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "亚马逊发布全新儿童专用平板电脑系列，该系列提供 8.7 英寸和 11 英寸两种尺寸，其中 Amazon Kids Tablet 8 起售价 229.99 美元，Amazon Kids Tablet 11 起售价 329.99 美元。",
+    "id": "8x3yEhBkLm6",
+    "order": 1791467122229,
+    "createdAt": "2026-10-08T13:45:22.229Z",
+    "publishDate": "2026-10-08T13:45:22.229Z",
+    "title": "亚马逊发布全新儿童专用平板电脑系列",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 21:45:22",
+    "uuid": "937b0c60-14a7-49e4-b1fa-8ab4668beed0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Solidot" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国司法部公告显示，北卡罗来纳州男子 Michael Smith 因利用人工智能生成数十万首歌曲，通过大量虚假账户在流媒体平台上线相关歌曲，再借助机器人账户矩阵进行欺诈性播放骗取音乐版权收入，被判 18 个月监禁，其 800 万美元违法收入被罚没 ...",
+    "id": "8x38piAgCyG",
+    "order": 1791467122236,
+    "createdAt": "2026-10-08T13:45:22.236Z",
+    "publishDate": "2026-10-08T13:45:22.236Z",
+    "title": "美国一男子利用 AI 骗取音乐版权收入被判 18 个月监禁罚没 800 万美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 21:45:22",
+    "uuid": "5a7faf8b-3e83-486a-be16-5576056d9207"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "界面" }
+    ],
+    "summary": "苹果面向全球应用开发者公布针对首款折叠屏 iPhone Duo 的应用提交新规，要求开发者适配 iPhone Duo，自明年 4 月起，未完成适配的新应用和应用更新都无法通过 App Store 审核，该政策标志着苹果正式建立折叠屏 iPhone 的应用上架准入标准。",
+    "id": "8x3yFFfj3U8",
+    "order": 1791466845197,
+    "createdAt": "2026-10-08T13:40:45.197Z",
+    "publishDate": "2026-10-08T13:40:45.197Z",
+    "title": "苹果要求开发者明年 4 月起新 App 及更新需适配折叠屏 iPhone",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 21:40:45",
+    "uuid": "16bf664d-367b-4381-915f-cead546250ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" },
+      { "siteName": "腾讯网" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Anthropic 推出 Claude Haiku 5.5，号称是其迄今速度最快、能力最强、价格最低的小模型，每百万输入 Token 最低仅 0.1 美元，较上代降价 90%，同类任务平均成本下降约 75% ...",
+    "id": "8x3tIHRJFKp",
+    "order": 1791466842889,
+    "createdAt": "2026-10-08T13:40:42.889Z",
+    "publishDate": "2026-10-08T13:40:42.889Z",
+    "title": "Anthropic 发布 Claude Haiku 5.5 降价 90% 多项测试超 GPT-6 Luna",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 21:40:42",
+    "uuid": "22ad03a3-b883-41f2-8f6e-34f8509abba0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" },
+      { "siteName": "DoNews" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "尊界汽车针对近期引发关切的制动踏板支架底座相关问题作出说明，称其制动系统按高于相关国家及行业标准的要求完成全流程开发验证，首批车辆交付后未发生该部件断裂故障 ...",
+    "id": "8x3yGQcLswF",
+    "order": 1791466521265,
+    "createdAt": "2026-10-08T13:35:21.265Z",
+    "publishDate": "2026-10-08T13:35:21.265Z",
+    "title": "尊界汽车：将优化部件设计 为已交付用户提供免费升级选择",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 21:35:21",
+    "uuid": "2ebfc6ad-de23-47ce-bf71-9a00f446321b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美的集团公告，截至 2026 年 9 月 30 日，公司通过集中竞价方式累计回购 A 股股份 1.23 亿股，占总股本 1.61%，成交价区间为 73.66 元至 87.71 元 / 股，支付总金额 99.4 亿元，本次回购方案已变更用途为注销减资，符合相关法规及既定方案。",
+    "id": "8x3gNOnI4bH",
+    "order": 1791465325963,
+    "createdAt": "2026-10-08T13:15:25.963Z",
+    "publishDate": "2026-10-08T13:15:25.963Z",
+    "title": "美的集团：截至 9 月 30 日累计回购金额达 99.4 亿元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 21:15:25",
+    "uuid": "ec4ca58e-3433-48d0-8f77-30585069957b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华域汽车公告，其全资子公司上海汇众拟以 3.2 亿元的挂牌底价通过公开摘牌方式收购绿色基金持有的联创电子 10.9569% 股权，交易完成后上海汇众对联创电子的持股比例将提升至 16.25%，本次交易构成关联交易。",
+    "id": "8x3vkfknebC",
+    "order": 1791465035848,
+    "createdAt": "2026-10-08T13:10:35.848Z",
+    "publishDate": "2026-10-08T13:10:35.848Z",
+    "title": "华域汽车：子公司拟公开摘牌收购联创电子 10.96% 股权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-08 21:10:35",
+    "uuid": "4a56a51b-f030-44af-88dd-f16a17c8565a"
+  },
+  {
+    "newsArray": [
       { "siteName": "新浪科技" },
       { "siteName": "格隆汇" },
       { "siteName": "新浪科技" },
