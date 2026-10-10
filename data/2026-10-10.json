@@ -1,6 +1,194 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "今日起国内航线客票燃油附加费上调，调整后成人旅客 800 公里及以下航线每航段 50 元，800 公里以上航线每航段 90 元，较调整前分别上涨 10 元和 20 元 ...",
+    "id": "8x6TJBYT3po",
+    "order": 1791596728083,
+    "createdAt": "2026-10-10T01:45:28.083Z",
+    "publishDate": "2026-10-10T01:45:28.083Z",
+    "title": "国内航线燃油附加费今起上调",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 09:45:28",
+    "uuid": "1d003bdc-c580-4084-b943-0fa2fd096f9d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "品玩" }
+    ],
+    "summary": "针对外界关于三名研究人员离职原因的猜测与公开信质疑，OpenAI 研究负责人发布官方说明澄清，解雇三人并非因他们表达安全担忧或批评公司，而是经调查发现三人严重违反敏感信息处理政策，构成重大信任违规，公司坚持不再雇用 ...",
+    "id": "8x6MsyuDVkT",
+    "order": 1791596727939,
+    "createdAt": "2026-10-10T01:45:27.939Z",
+    "publishDate": "2026-10-10T01:45:27.939Z",
+    "title": "OpenAI 研究负责人回应解雇三名员工争议并澄清解雇原因",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 09:45:27",
+    "uuid": "0b2c66d7-3a9a-455b-8215-91da8936ce4b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "苹果新增一笔 AI 相关的收购式招聘交易，被欧盟《数字市场法》透明度网站列为最新案例，这也是苹果今年披露的至少第四笔 AI 相关交易 ...",
+    "id": "8x6PlCWL2PD",
+    "order": 1791596726280,
+    "createdAt": "2026-10-10T01:45:26.280Z",
+    "publishDate": "2026-10-10T01:45:26.280Z",
+    "title": "苹果收购式招聘前 NotebookLM 开发者创立的 AI 音频公司 Huxe 相关团队",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 09:45:26",
+    "uuid": "78ecc29f-ee08-403a-a840-11314bda2de3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "日本关西电力公司于 10 日启动福井县美滨核电站 3 号机组的反应堆，进入调整运行阶段，计划 11 月 4 日恢复商业运行 ...",
+    "id": "8x6SxOOhWDV",
+    "order": 1791595862520,
+    "createdAt": "2026-10-10T01:31:02.520Z",
+    "publishDate": "2026-10-10T01:31:02.520Z",
+    "title": "日本美滨核电站 3 号机组反应堆重启",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 09:31:02",
+    "uuid": "4acd7bab-c4a0-46c1-8855-b81c257c2ab8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "埃隆・马斯克旗下的 SpaceX AI 公司宣布为常驻型 AI 助手 Grok Bot 推出专属邮箱功能，这标志着人工智能助手正逐步摆脱单纯的对话交互角色，开始拥有独立网络身份与联络点 ...",
+    "id": "8x6P1ZBaqQ6",
+    "order": 1791595249986,
+    "createdAt": "2026-10-10T01:20:49.986Z",
+    "publishDate": "2026-10-10T01:20:49.986Z",
+    "title": "马斯克旗下 Grok Bot 新增专属邮箱，AI 助手迈向独立联络新阶段",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 09:20:49",
+    "uuid": "52912955-2c5c-4d9d-bd2e-55a37b4eff4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "投资界" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" },
+      { "siteName": "微信公众号" }
+    ],
+    "summary": "OpenAI 推出 Day 5 两项更新，一是全天候个人 AI 智能体 dots 新增手机端创建配置入口，依托 GPT-6 Astra 运行，自带云电脑与浏览器可连接超 4000 个应用，还强化了与 Codex 的协作能力，可自主查找相关对话与任务上下文、智能管理新旧任务线程、跟进编程进度并管理定时任务，统筹派活给 Codex 推进工作 ...",
+    "id": "8x6LSHrFnm6",
+    "order": 1791594925017,
+    "createdAt": "2026-10-10T01:15:25.017Z",
+    "publishDate": "2026-10-10T01:15:25.017Z",
+    "title": "OpenAI dots 现已支持手机端创建 可便捷指挥 Codex 派活",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 09:15:25",
+    "uuid": "ad3b80a0-caf0-4bf6-b2b5-a85d820a4c49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "十五五时期，北京城市副中心将保持每年千亿级投资规模，社会投资占比七成以上，预计滚动实施约 500 个重大项目 ...",
+    "id": "8x6RAkUCerl",
+    "order": 1791594637985,
+    "createdAt": "2026-10-10T01:10:37.985Z",
+    "publishDate": "2026-10-10T01:10:37.985Z",
+    "title": "十五五北京城市副中心将继续保持每年千亿投资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 09:10:37",
+    "uuid": "79b79abb-5798-4190-9c11-23f3eb2d2d93"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "受房地产、基建投资持续走弱影响，水泥行业进入深度调整期，当前行业亏损面达 60%，大量中小水泥企业面临价格倒挂、库存高企、回款不畅的经营困局，今年已有 20 余家水泥及粉磨企业进入破产相关程序，中小主体债务风险集中暴露并向上游产业链传导 ...",
+    "id": "8x6M9xeYjiB",
+    "order": 1791593439368,
+    "createdAt": "2026-10-10T00:50:39.368Z",
+    "publishDate": "2026-10-10T00:50:39.368Z",
+    "title": "低端产能加速出清 水泥行业市场集中度进一步提升",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 08:50:39",
+    "uuid": "4a46cd2c-faad-4165-b53a-ce2706144bde"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" },
+      { "siteName": "aibase" },
+      { "siteName": "钛媒体" },
+      { "siteName": "投资界" },
+      { "siteName": "maomu.com" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "近期 Anthropic 推出低价轻量模型 Claude Haiku 5.5，单价仅为上一代的 1/10，短上下文 API 裸价甚至低于国产小模型 DeepSeek-V4.1-Flash，同时 OpenAI 宣布 GPT-6 全量上线，将同代小模型 GPT-6 Luna 下放至 ChatGPT 免费层，海外两大巨头同步下调小模型价格 ...",
+    "id": "8x5TvRUXer5",
+    "order": 1791593439368,
+    "createdAt": "2026-10-10T00:50:39.368Z",
+    "publishDate": "2026-10-10T00:50:39.368Z",
+    "title": "Claude 推低价小模型，GPT-6 Luna 向 C 端免费开放",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 08:50:39",
+    "uuid": "b235e2ff-81ff-46d8-8c3c-9057823bbbd3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "美国白宫 AI 工作组声明称，受 Anthropic 安全事件影响，白宫出台强制性的 AI 事件报告要求，明确要求 AI 企业必须报告安全漏洞，该通报制度不设可选空间。",
+    "id": "8x6Ix0dMfXw",
+    "order": 1791592847019,
+    "createdAt": "2026-10-10T00:40:47.019Z",
+    "publishDate": "2026-10-10T00:40:47.019Z",
+    "title": "美国出台强制要求 AI 企业报告安全漏洞的相关制度",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 08:40:47",
+    "uuid": "ffe8cf6e-d129-4d88-a2db-7b5fde440edd"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "新浪科技" },
