@@ -1,6 +1,185 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "2026 巴黎车展即将开幕，将举办智驾实验室公开体验活动，供观众及媒体申请参与，该活动最初邀请所有参展车企，最终仅小鹏与特斯拉接受邀请，这也是小鹏 NGP 在欧洲的首次大规模公开体验 ...",
+    "id": "8x6gB9QqMgo",
+    "order": 1791618646587,
+    "createdAt": "2026-10-10T07:50:46.587Z",
+    "publishDate": "2026-10-10T07:50:46.587Z",
+    "title": "2026 巴黎车展新设智驾实验室公开体验，仅小鹏、特斯拉参与",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 15:50:46",
+    "uuid": "3e955753-d7cc-447e-b0b7-3c8d71f386b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "阿里 Qoder 上线全新 Fast 模式，桌面端 0.4.4 及以上版本的个人版、企业版、CN 版与国际版均可同步使用，后续 Qoder 产品家族其他相关产品也将陆续接入 ...",
+    "id": "8x6o2aWlOcY",
+    "order": 1791618902080,
+    "createdAt": "2026-10-10T07:50:46.588Z",
+    "publishDate": "2026-10-10T07:55:02.080Z",
+    "title": "阿里 Qoder 迎重大升级：首发上线 Fast 模式 响应仅 3 秒消耗大降",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 15:50:46",
+    "uuid": "ac5e2a38-4476-4132-8928-9c310ea30d20"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "印度商工部应国内企业 Superform Chemistries Limited 申请，对原产于或进口自中国和欧盟的氰化钠启动反倾销期中复审调查，审查是否调整现行反倾销税，涉案产品主要涉及印度海关编码 28371100 项下产品及 2837 项下部分产品，明确了对应的倾销调查期与损害调查期。",
+    "id": "8x6sgbJxyT0",
+    "order": 1791618321706,
+    "createdAt": "2026-10-10T07:45:21.706Z",
+    "publishDate": "2026-10-10T07:45:21.706Z",
+    "title": "印度对原产自中国和欧盟的氰化钠启动反倾销期中复审调查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 15:45:21",
+    "uuid": "854bf803-9a3c-484a-bb21-c10ce1eba185"
+  },
+  {
+    "newsArray": [
+      { "siteName": "Hacker News AI" },
+      { "siteName": "蓝点网" },
+      { "siteName": "theblockbeats.info" }
+    ],
+    "summary": "安全研究员披露 Telegram Desktop 版存在高危安全漏洞，该漏洞已由平台在 7.2.9 版本中修复，待多数用户更新后研究员公开了漏洞细节 ...",
+    "id": "8x5Y9H2bipz",
+    "order": 1791617720429,
+    "createdAt": "2026-10-10T07:35:20.429Z",
+    "publishDate": "2026-10-10T07:35:20.429Z",
+    "title": "Telegram 桌面版存高危漏洞 点击恶意链接账号或被劫持",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 15:35:20",
+    "uuid": "9fcedd54-6146-46c7-8925-1814501f45b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "开源中国" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "谷歌新一代生图模型 Nano Banana 2.1 正式发布，在视觉设计、蒙版编辑、主体一致性和画面真实自然性上实现全面升级，支持 4K 直出摄影级效果，中文文字渲染表现大幅改善，API 价格也有所下调 ...",
+    "id": "8x6LTeR9MkG",
+    "order": 1791616520034,
+    "createdAt": "2026-10-10T07:15:20.034Z",
+    "publishDate": "2026-10-10T07:15:20.034Z",
+    "title": "谷歌发布生图模型 Nano Banana 2.1，支持 4K 直出中文效果提升",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 15:15:20",
+    "uuid": "462cc61e-2256-4dad-a23d-3841f347bf23"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "第二十届全国半导体与集成技术会议于今日上午在青岛西海岸新区开幕，本次会议由中国电子学会半导体与集成技术分会、中国科学院半导体研究所、山东大学主办，旨在推动半导体领域学科发展、技术创新与产业升级，为我国半导体与集成电路产业发展注入创新活力与动力，会议期间还将举行青岛市集成电路产业生态合作大会。",
+    "id": "8x6qtpAFXqF",
+    "order": 1791616232812,
+    "createdAt": "2026-10-10T07:10:32.812Z",
+    "publishDate": "2026-10-10T07:10:32.812Z",
+    "title": "第二十届全国半导体与集成技术会议在青岛西海岸新区开幕",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 15:10:32",
+    "uuid": "f674a8e0-18b5-45cc-adce-2e6d019eebdc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "四川省经济和信息化厅印发《四川省促进中小企业发展工作方案（2026—2030 年）》，提出到 2030 年力争全省 5 年累计新增规上工业企业 6000 户，创新型中小企业达 20000 户，专精特新中小企业达 7000 户，专精特新「小巨人」企业达 700 户，国家级中小企业特色产业集群达 40 个，明确力争专精特新中小企业数量从 2025 年的 6010 户增加至 2030 年的 7000 户。",
+    "id": "8x6rG1Ek9Jn",
+    "order": 1791616232890,
+    "createdAt": "2026-10-10T07:10:32.890Z",
+    "publishDate": "2026-10-10T07:10:32.890Z",
+    "title": "四川出台促进中小企业发展五年工作方案 力争专精特新企业增近千户",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 15:10:32",
+    "uuid": "206c1db5-efbc-4bc5-9440-6a3698702b0e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "Cloudflare 推出全新开放权重决策模型 Clef-omni，在原有文本、图像处理能力基础上扩展支持音频和完整视频格式，可通过单次 API 调用同时处理多模态内容 ...",
+    "id": "8x6pWAqGXjY",
+    "order": 1791616231110,
+    "createdAt": "2026-10-10T07:10:31.110Z",
+    "publishDate": "2026-10-10T07:10:31.110Z",
+    "title": "Cloudflare 发布开放权重决策模型 Clef-omni，支持音视频多模态输入",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 15:10:31",
+    "uuid": "eeb46582-340c-45a0-a410-c4b8e95d7c61"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "宜家家居抖音官方旗舰店将于 10 月 11 日正式上线，配送服务可覆盖全国 301 个城市，提供 179 个品类、超 6500 款家居产品。",
+    "id": "8x6pUJDZ1jp",
+    "order": 1791615035928,
+    "createdAt": "2026-10-10T06:50:35.928Z",
+    "publishDate": "2026-10-10T06:50:35.928Z",
+    "title": "宜家家居抖音官方旗舰店即将上线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 14:50:35",
+    "uuid": "fa412462-9bbe-40bf-a6fd-ec875e81a9e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "全球 MLCC 龙头村田制作所旗下子公司冈山村田制作所计划投资约 90 亿日元，新增产线扩产 MLCC 等电子零件用陶瓷原料，新产线预计 2026 年 10 月动工，2028 年 4 月投产，本次扩产新增产能规模暂未披露，其生产的超微粒、高纯度陶瓷原料用于村田全球市占第一的 MLCC 产品。",
+    "id": "8x6pTxYwMUY",
+    "order": 1791615034339,
+    "createdAt": "2026-10-10T06:50:34.339Z",
+    "publishDate": "2026-10-10T06:50:34.339Z",
+    "title": "村田制作所子公司拟投 90 亿日元扩产 MLCC 陶瓷原料",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-10 14:50:34",
+    "uuid": "795f4eaf-24af-4d93-9055-8e41e4bf8502"
+  },
+  {
+    "newsArray": [
       { "siteName": "36Kr" },
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" },
