@@ -1,6 +1,95 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "甲骨文致信美国联邦能源监管委员会，请求其尽快批准由 Energy Transfer LP 旗下子公司运营的 Green Chile 天然气管道项目，称若继续推迟审批将威胁其新墨西哥州木星大型数据中心项目的运营进度，进而影响相关就业、经济活动及社区效益 ...",
+    "id": "8xCncIddlEj",
+    "order": 1791926716647,
+    "createdAt": "2026-10-13T21:25:16.647Z",
+    "publishDate": "2026-10-13T21:25:16.647Z",
+    "title": "甲骨文敦促监管机构加快审批数据中心天然气管道项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 05:25:16",
+    "uuid": "9c104f84-a844-4e04-8be2-31ae6860ae34"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "英伟达首席执行官黄仁勋正在欧洲展开高密度访问行程，未来一周内将宣布逾 20 亿美元的欧洲投资计划，叠加过去一年已投入欧洲的 80 亿美元，其在欧战略布局持续加深 ...",
+    "id": "8xCQlUbcrCA",
+    "order": 1791924025974,
+    "createdAt": "2026-10-13T20:40:25.974Z",
+    "publishDate": "2026-10-13T20:40:25.974Z",
+    "title": "英伟达黄仁勋欧洲行：未来一周将宣布 20 亿美元投资，力推开源模式助欧洲入局",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 04:40:25",
+    "uuid": "31d0d368-31e4-4072-aaed-feb801c4aa3c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "daily.dev" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "OpenAI 发现办公室内有一台由某员工数天前放置的精密录音设备，涉事员工已被解雇。目前没有迹象表明该员工不当访问或提取模型权重、源代码或客户数据，相关事宜已转交美国联邦调查局。",
+    "id": "8xCjKWEHDbD",
+    "order": 1791922218958,
+    "createdAt": "2026-10-13T20:10:18.958Z",
+    "publishDate": "2026-10-13T20:10:18.958Z",
+    "title": "OpenAI：一员工在办公室安装录音设备 已解雇并知会 FBI",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 04:10:18",
+    "uuid": "846dbaa6-fe18-41c1-bd57-3a5fe82d7327"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "火山引擎安全运营智能体实现三方面升级：新增需求文档安全评审，将安全把关前移至方案阶段，提前识别设计风险。漏洞运营升级为研判加 POC 验证，漏洞降噪率超 90% ...",
+    "id": "8xCicCMyYOp",
+    "order": 1791921025253,
+    "createdAt": "2026-10-13T19:50:25.253Z",
+    "publishDate": "2026-10-13T19:50:25.253Z",
+    "title": "火山引擎安全运营智能体升级 新能力上架豆包工作技能市场",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 03:50:25",
+    "uuid": "5cf7db6c-baee-448a-adcb-eb37a6999acc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "高通对陪审团认定 Arm 违反与该公司签订的架构许可协议的结果感到欣慰。",
+    "id": "8xCZgWE6tne",
+    "order": 1791913513563,
+    "createdAt": "2026-10-13T17:45:13.563Z",
+    "publishDate": "2026-10-13T17:45:13.563Z",
+    "title": "高通：陪审团认定 Arm 违反许可协议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 01:45:13",
+    "uuid": "67ec88b7-74be-4260-bb1f-8ffc01666ead"
+  },
+  {
+    "newsArray": [
       { "siteName": "每经网" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -32,5 +121,36 @@
     "up": false,
     "date": "2026-10-14 00:40:21",
     "uuid": "9a05c6b0-a4d3-4418-81e1-49ad068243b0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "blog.google" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "blog.google" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "blog.google" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "快科技" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "谷歌开始向 Google AI 订阅用户推出 Gemini 4 Argon，适用平台包括 Google Antigravity、Gemini 应用以及谷歌搜索中的 AI 模式，该模型以每百万输入代币 2 美元、每百万输出代币 10 美元的价格推出。",
+    "id": "8xCSui6ljCP",
+    "order": 1791913624242,
+    "createdAt": "2026-10-13T16:10:19.063Z",
+    "publishDate": "2026-10-13T17:47:04.242Z",
+    "title": "谷歌向 Google AI 订阅用户推出 Gemini 4 Argon",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 00:10:19",
+    "uuid": "166fddb6-c5a2-4e67-8946-f34efd8be306"
   }
 ]
