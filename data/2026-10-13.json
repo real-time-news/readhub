@@ -1,6 +1,180 @@
 [
   {
     "newsArray": [
+      { "siteName": "ai-bot.cn" },
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "QwenGyre 通过弹性调度与轨迹处理解决超长程智能体任务训练难题，可让空出的 GPU 单元动态转入训练，训练效率提升 1.78 倍，模型通过率从 52.5% 提升至 58.5%。",
+    "id": "8xAUjGU5emZ",
+    "order": 1791861021886,
+    "createdAt": "2026-10-13T03:10:21.886Z",
+    "publishDate": "2026-10-13T03:10:21.886Z",
+    "title": "阿里千问发布面向超长程智能体任务的在线强化学习框架 QwenGyre",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 11:10:21",
+    "uuid": "03700e50-31cf-4580-88c1-f2d981181449"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国长安汽车总经理赵非在 2026 巴黎车展上透露，公司欧洲本地化基地布局已基本确定，2028 年将建成 18 万辆产能，2030 年规划落地 35 万辆产能，目前正与合作方积极商谈，预计今年内正式宣布合作内容。",
+    "id": "8xANutvAiXJ",
+    "order": 1791861021994,
+    "createdAt": "2026-10-13T03:10:21.994Z",
+    "publishDate": "2026-10-13T03:10:21.994Z",
+    "title": "中国长安汽车赵非：2028 年欧洲本地化基地建成 18 万辆产能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 11:10:21",
+    "uuid": "e7ad96df-31aa-4169-a5a7-76ebe74a61c4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "钛媒体" },
+      { "siteName": "36Kr" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "珠海金智维人工智能股份有限公司在首次向港交所递表失效后，再度递交上市申请 ...",
+    "id": "8x9yCd39xne",
+    "order": 1791860855530,
+    "createdAt": "2026-10-13T03:05:15.022Z",
+    "publishDate": "2026-10-13T03:07:35.530Z",
+    "title": "数字员工赛道头部企业金智维递表港交所 连年亏损负债高企",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 11:05:15",
+    "uuid": "d0238948-ba01-4b3f-9e82-04747bf5aca6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "刚过去的周末，杭州九溪玫瑰园一套法式独栋别墅经 5 小时 228 轮竞拍，最终以 2.88 亿元成交，折合单价约 45.7 万元 /㎡，远超此前钱塘江边顶豪的最高总价，这场非司法拍卖的商业竞拍吸引 5 人报名、6 万多人次围观，两位买家激烈竞价，溢价率达 71.43% ...",
+    "id": "8xAeiXYV1bG",
+    "order": 1791860867227,
+    "createdAt": "2026-10-13T03:05:14.541Z",
+    "publishDate": "2026-10-13T03:07:47.227Z",
+    "title": "杭州一套别墅拍出 2.88 亿 竞拍双方每分钟加价 7 位数",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 11:05:14",
+    "uuid": "d36ce4ab-0d49-48fd-8163-17d7804af83d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "品玩" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "微软官方发布第三代 AI 加速系统 Azure Maia 300，计划 2027 年投产，作为其多吉瓦级 AI 基础设施部署的核心 ...",
+    "id": "8xAcDeVv8PI",
+    "order": 1791860117915,
+    "createdAt": "2026-10-13T02:55:17.915Z",
+    "publishDate": "2026-10-13T02:55:17.915Z",
+    "title": "微软 Azure Maia 300 发布 2027 年投产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 10:55:17",
+    "uuid": "2ac66603-d2d6-48a7-b417-d99c4cd4b459"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "电商报" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "国产头部大模型厂商 MiniMax 正式入驻天猫开设首家品牌官方旗舰店，目前已上架含 Go、Explore、Build 三档的 M Plan 订阅套餐，支持按月、按年购买 ...",
+    "id": "8xBX0vKEfzj",
+    "order": 1791860116375,
+    "createdAt": "2026-10-13T02:55:16.375Z",
+    "publishDate": "2026-10-13T02:55:16.375Z",
+    "title": "MiniMax 入驻天猫开设首家官方旗舰店 开售 Token 套餐",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 10:55:16",
+    "uuid": "a6f269a3-f973-4c64-8260-c0d153987110"
+  },
+  {
+    "newsArray": [
+      { "siteName": "蓝点网" },
+      { "siteName": "央视新闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "法国数百家超市的制冷系统夜间遭大规模网络攻击，黑客利用广泛使用的制冷控制系统漏洞，远程启动强制除霜功能并将温度设为 50 摄氏度，使设备连续数小时加热，大量生鲜及冷冻产品变质，全国范围损失可能高达数百万欧元。",
+    "id": "8xBNjeXNBuA",
+    "order": 1791859825523,
+    "createdAt": "2026-10-13T02:50:25.523Z",
+    "publishDate": "2026-10-13T02:50:25.523Z",
+    "title": "法国数百家超市制冷系统遭网攻 大量食品变质",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 10:50:25",
+    "uuid": "45d39014-4681-4c0e-ad92-40dfeac9d71b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" },
+      { "siteName": "动脉网" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "一批医疗上市公司正斥资数亿元，通过认购投向 AI、半导体行业的基金成为 LP，谋求分享跨行业红利 ...",
+    "id": "8xBOSLUiAKT",
+    "order": 1791859518099,
+    "createdAt": "2026-10-13T02:45:18.099Z",
+    "publishDate": "2026-10-13T02:45:18.099Z",
+    "title": "多家医疗上市公司集体认购投向 AI、半导体的基金",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 10:45:18",
+    "uuid": "b59b8438-154d-4ebf-b00f-b112aa0f0603"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "每经网" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "合肥作为长三角 GDP 破 1.4 万亿、常住人口破千万的双万之城，硬实力突出，但高能级商业、国际化消费场景与上海、苏州、南京、杭州等城市存在明显差距 ...",
+    "id": "8xAe0yN4rUL",
+    "order": 1791860949612,
+    "createdAt": "2026-10-13T02:15:16.507Z",
+    "publishDate": "2026-10-13T03:09:09.612Z",
+    "title": "合肥发力招引高端商业项目 欲补齐消费短板",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 10:15:16",
+    "uuid": "10ce30b0-a0c3-4b01-be6d-9ad7b533f4ae"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" }
+    ],
+    "summary": "Anthropic 表示新防护措施已使蒸馏攻击者从其平台提取的 Claude 推理 Token 数量减少约 90% 至 99% ...",
+    "id": "8xBORVF6Eo0",
+    "order": 1791860980967,
+    "createdAt": "2026-10-13T01:30:30.659Z",
+    "publishDate": "2026-10-13T03:09:40.967Z",
+    "title": "Anthropic 强化蒸馏攻击防御，已封禁数万个相关账号",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-13 09:30:30",
+    "uuid": "b93e07b1-0e0b-4afc-9e63-4990d3ca4de0"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
