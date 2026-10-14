@@ -1,6 +1,187 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果股价一度涨约 1.7%，报 347.07 美元，该股前一交易日盘中创下 348.15 美元的历史新高 ...",
+    "id": "8xDzxRnOzrV",
+    "order": 1791990028623,
+    "createdAt": "2026-10-14T15:00:28.623Z",
+    "publishDate": "2026-10-14T15:00:28.623Z",
+    "title": "苹果盘中一度涨约 1.7%，加码智能家居布局",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 23:00:28",
+    "uuid": "90627e92-d523-4f41-a3cf-b0a6b3b1acc4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "每经网" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "东诚药业董事会审议通过终止此前拟分拆蓝纳成至香港联交所主板上市的事项并撤回相关上市申请文件，公司承诺在公告后的一个月内不再筹划含分拆上市在内的重大资产重组事项。",
+    "id": "8xDpxz984oF",
+    "order": 1791988820923,
+    "createdAt": "2026-10-14T14:40:20.923Z",
+    "publishDate": "2026-10-14T14:40:20.923Z",
+    "title": "东诚药业：终止分拆蓝纳成上市 承诺一个月内不再筹划重组",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 22:40:20",
+    "uuid": "efe69909-6b52-4d24-96bb-4c7951e15743"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "慈文传媒公告称公司股票 2026 年 10 月 13 日、14 日连续两个交易日收盘价格涨幅偏离值累计超 20%，属股票交易异常波动 ...",
+    "id": "8xDyuZywZSE",
+    "order": 1791987312637,
+    "createdAt": "2026-10-14T14:15:12.637Z",
+    "publishDate": "2026-10-14T14:15:12.637Z",
+    "title": "慈文传媒公告：微短剧《开标之战》相关收入约 50 万元占比小",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 22:15:12",
+    "uuid": "befdfd46-33aa-4732-bd5b-ac38e3363c5b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米汽车宣布专为《Gran Turismo 7》打造的非量产纯电概念超跑 Xiaomi Vision GT 将于 2026 年 10 月 15 日 14 点正式入驻该游戏，这是首台进入该系列的中国 Vision GT 车型 ...",
+    "id": "8xDqhvDgSBf",
+    "order": 1791987019516,
+    "createdAt": "2026-10-14T14:10:19.516Z",
+    "publishDate": "2026-10-14T14:10:19.516Z",
+    "title": "Xiaomi Vision GT 即将入驻 GT7 首台中国 Vision GT 来了",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 22:10:19",
+    "uuid": "23f30f65-6d1a-4ec6-a17c-c59d678487b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "奈飞将裁员 6%，约 1000 个岗位，为 2022 年以来规模最大的一轮，主要影响产品、技术、法务和人力资源部门。",
+    "id": "8xDveVp8U1P",
+    "order": 1791987017004,
+    "createdAt": "2026-10-14T14:10:17.003Z",
+    "publishDate": "2026-10-14T14:10:17.004Z",
+    "title": "报道：奈飞将裁员 6%（约 1000 个岗位）",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 22:10:17",
+    "uuid": "bf51141f-7339-4aa2-9b9d-2aa306f1fb72"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "东百集团公告，因各方未能就关键条款达成一致，决定终止全资子公司福建东百创智投资有限公司原拟收购主营光探测芯片研发生产销售的杭州快灵光电科技有限公司部分股权的事项 ...",
+    "id": "8xDxRgARkoe",
+    "order": 1791985829934,
+    "createdAt": "2026-10-14T13:50:29.934Z",
+    "publishDate": "2026-10-14T13:50:29.934Z",
+    "title": "东百集团：终止收购杭州快灵光电部分股权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 21:50:29",
+    "uuid": "38353f90-fb77-442f-b7b9-b3f31c5fd917"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "雷科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "手机屏幕是近年智能手机的重要竞赛领域，高分辨率与高刷新率渐成趋势 ...",
+    "id": "8xDs6TY2STx",
+    "order": 1791984633175,
+    "createdAt": "2026-10-14T13:30:33.175Z",
+    "publishDate": "2026-10-14T13:30:33.175Z",
+    "title": "pTSF 技术落地，中国显示产业实现底层材料端破局越级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 21:30:33",
+    "uuid": "b822c0ca-6889-41b2-a80b-9d1325d45691"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "平安电工公告拟向特定对象发行 A 股股票，募资总额不超过 13 亿元，扣除发行费用后拟用于泰国云母绝缘材料生产基地建设项目、泰国电子布生产基地建设项目、高性能电子布生产基地建设项目及补充流动资金。",
+    "id": "8xDvgwTsZKs",
+    "order": 1791984631555,
+    "createdAt": "2026-10-14T13:30:31.555Z",
+    "publishDate": "2026-10-14T13:30:31.555Z",
+    "title": "平安电工：拟定增募资不超 13 亿元用于高性能电子布等项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 21:30:31",
+    "uuid": "bacb127d-6aab-4e28-b788-33c1d6642be6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "每经网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "富祥股份公告，公司于 2026 年 10 月 14 日收到监察机关通知，控股股东、实际控制人、董事长包建华被留置。经初步了解，本次立案调查系包建华个人事项，与公司无关 ...",
+    "id": "8xDtVhKOeSX",
+    "order": 1791983113067,
+    "createdAt": "2026-10-14T13:05:13.067Z",
+    "publishDate": "2026-10-14T13:05:13.067Z",
+    "title": "富祥股份：控股股东、实控人、董事长包建华被留置",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 21:05:13",
+    "uuid": "ae474a07-4410-463c-8a5f-f06b3fb82a92"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "10 月 12 日英伟达在 OCP 全球峰会上宣布开放 Vera Rubin 机架与计算托架设计，开放 NVIDIA MGX 架构并推出 1.2 版规范，支持最高 250kW 机架部署，简化相关运维部署流程 ...",
+    "id": "8xBWeiarpmV",
+    "order": 1791981913672,
+    "createdAt": "2026-10-14T12:45:13.672Z",
+    "publishDate": "2026-10-14T12:45:13.672Z",
+    "title": "英伟达开放 Vera Rubin 机架设计 联合多家企业发布 AI 基建开放标准",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-14 20:45:13",
+    "uuid": "2426e6a0-1bcc-46bd-922e-02e684a3479f"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
