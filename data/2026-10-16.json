@@ -1,6 +1,57 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国铝业公司第三季度销售额 37.0 亿美元，同比增加 24%，低于预估的 37.6 亿美元 ...",
+    "id": "8xG4ZJLVLUG",
+    "order": 1792096819836,
+    "createdAt": "2026-10-15T20:40:19.836Z",
+    "publishDate": "2026-10-15T20:40:19.836Z",
+    "title": "美国铝业公司第三季度销售额 37.0 亿美元 同比增 24%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-16 04:40:19",
+    "uuid": "506580ac-8a5e-4e49-91aa-5a330a3c9e18"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "芝加哥期权交易所旗下期权交易所将于下周一开始，为指定股票及 ETF 期权增加早间和收盘后的交易时段，覆盖阿里巴巴、台积电、英伟达、苹果、特斯拉等众多热门公司，相关期权可参与美东时间上午 7:30 至 9:25 的盘前交易，常规交易结束后也可继续交易 15 分钟。",
+    "id": "8xG3Uq8t0Ko",
+    "order": 1792095018407,
+    "createdAt": "2026-10-15T20:10:18.407Z",
+    "publishDate": "2026-10-15T20:10:18.407Z",
+    "title": "阿里巴巴、台积电在列 美股期权交易时段下周扩容",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-16 04:10:18",
+    "uuid": "b3079054-0ae4-4721-8fd5-dfe16e97d2df"
+  },
+  {
+    "newsArray": [
+      { "siteName": "daily.dev" },
+      { "siteName": "daily.dev" },
+      { "siteName": "9to5Mac" }
+    ],
+    "summary": "Meta 推出 Muse Spark Open，称其为目前性能最强的美国开源权重模型，该模型针对搭载 M5 Ultra 的 Mac Studio 进行了优化，可供苹果用户使用。",
+    "id": "8xFsQVlOaQi",
+    "order": 1792095018414,
+    "createdAt": "2026-10-15T20:10:18.414Z",
+    "publishDate": "2026-10-15T20:10:18.414Z",
+    "title": "Meta 推出 Muse Spark Open 模型 优化适配 Mac Studio 运行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-16 04:10:18",
+    "uuid": "53e42d4a-16b7-468d-98c2-1eb856270985"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
@@ -58,6 +109,41 @@
   },
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Adobe 与英伟达扩大合作协议，加速智能体驱动的创作。",
+    "id": "8xFr0vgxU8k",
+    "order": 1792094000180,
+    "createdAt": "2026-10-15T17:40:17.971Z",
+    "publishDate": "2026-10-15T19:53:20.180Z",
+    "title": "Adobe 与英伟达扩大合作协议，加速智能体驱动的创作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-16 01:40:17",
+    "uuid": "e213654c-0628-4e31-9de6-4df9b8a77a7a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "苹果与 Meta 合作，让 MuseAI 模型可在 Mac 电脑上运行。",
+    "id": "8xFr0qYBx4G",
+    "order": 1792094006981,
+    "createdAt": "2026-10-15T17:25:11.209Z",
+    "publishDate": "2026-10-15T19:53:26.981Z",
+    "title": "苹果与 Meta 合作，使 MuseAI 模型可在 Mac 电脑上运行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-16 01:25:11",
+    "uuid": "540f8d6e-88e1-42c8-84e9-f5fca22a6eeb"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "格隆汇" },
@@ -108,6 +194,23 @@
     "up": false,
     "date": "2026-10-16 00:40:21",
     "uuid": "9c81c264-8da2-46c1-8331-c42abaeb5764"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "《时代》周刊 2026 年度「最佳发明」专题公布，苹果公司新任 CEO 约翰・特努斯登上专题封面并接受独家专访，畅谈 iPhone Duo 及带领公司迈向新五十年的规划 ...",
+    "id": "8xFeBVpC3IG",
+    "order": 1792094017007,
+    "createdAt": "2026-10-15T16:25:11.880Z",
+    "publishDate": "2026-10-15T19:53:37.007Z",
+    "title": "苹果 CEO 特努斯登《时代》封面，iPhone Duo 入选 2026 最佳发明",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-16 00:25:11",
+    "uuid": "82241d9b-6959-44b2-bcd2-6c63855ed389"
   },
   {
     "newsArray": [
