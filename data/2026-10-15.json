@@ -1,6 +1,184 @@
 [
   {
     "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "投资界" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "深圳若愚科技有限公司 2023 年成立，专注具身智能机器人大脑研发与场景化应用，近日完成亿元级 Pre-A 轮融资，由信维通信领投，多家机构跟投 ...",
+    "id": "8xF5uJ052a3",
+    "order": 1792074022664,
+    "createdAt": "2026-10-15T14:20:22.664Z",
+    "publishDate": "2026-10-15T14:20:22.664Z",
+    "title": "若愚科技完成亿元级 Pre-A 轮融资，信维通信领投",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 22:20:22",
+    "uuid": "35781051-dde5-448d-b89a-e9355b4b1320"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为智慧屏推出秋季版本升级，以常用常新为主题，围绕多方面带来六大升级，覆盖多款在售产品，老用户无需更换硬件即可通过系统更新获得新体验 ...",
+    "id": "8xFYQjuVIYM",
+    "order": 1792073420412,
+    "createdAt": "2026-10-15T14:10:20.412Z",
+    "publishDate": "2026-10-15T14:10:20.412Z",
+    "title": "华为智慧屏推送秋季升级：六大新功能 包括 iOS 快捷投屏",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 22:10:20",
+    "uuid": "6f4d06cb-eb9f-4d49-8259-beb2d6b14c52"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "芯片股市值蒸发 1 万亿美元之际，ETF 投资者趁跌势投入数十亿美元，多只半导体相关 ETF 获大额资金流入，其中三倍半导体看涨杠杆 ETF 本周资金流入有望创历史纪录，尽管该基金本周累计下跌近 21% ...",
+    "id": "8xFbzvj5IbP",
+    "order": 1792072231814,
+    "createdAt": "2026-10-15T13:50:31.814Z",
+    "publishDate": "2026-10-15T13:50:31.814Z",
+    "title": "芯片股市值蒸发 1 万亿美元 投资者逆势涌入半导体 ETF 抄底",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 21:50:31",
+    "uuid": "9b3f9bf8-4ea2-43df-a7dc-15fb620153ec"
+  },
+  {
+    "newsArray": [
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "Stripe 与 Plasma 宣布合作推出多货币稳定币卡，旨在简化跨货币日常消费、降低外汇转换成本 ...",
+    "id": "8xFbzWTLv7T",
+    "order": 1792071915087,
+    "createdAt": "2026-10-15T13:45:15.087Z",
+    "publishDate": "2026-10-15T13:45:15.087Z",
+    "title": "Stripe 与 Plasma 合作推出多货币稳定币卡",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 21:45:15",
+    "uuid": "58605bb4-7bdd-47a8-8d21-7dd56057ca17"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "超微电脑任命 Mark Long 为首席财务官，接替 David Weigand，Mark Long 的基本年薪为 72.5 万美元，签约奖金为 50 万美元。",
+    "id": "8xFaaLFx5zZ",
+    "order": 1792071034153,
+    "createdAt": "2026-10-15T13:30:34.153Z",
+    "publishDate": "2026-10-15T13:30:34.153Z",
+    "title": "超微电脑任命 Mark Long 为首席财务官",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 21:30:34",
+    "uuid": "99ea6349-b0e9-4f62-bd55-9806d1e78ac1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "小鹏汽车宣布 MONA 系列首款大五座 SUV MONA L05 开启预售，共 5 款车型，预售价 16.98 万至 19.18 万元，将于 10 月 29 日正式上市 ...",
+    "id": "8xFUV5mt5lt",
+    "order": 1792071032620,
+    "createdAt": "2026-10-15T13:30:32.620Z",
+    "publishDate": "2026-10-15T13:30:32.620Z",
+    "title": "小鹏 MONA L05 开启预售，起售价 16.98 万元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 21:30:32",
+    "uuid": "b970aae2-79bf-42bb-8832-4d80e742a77b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "新华传媒公告，公司股票 2026 年 9 月 21 日至 10 月 12 日连续 10 个交易日涨停，累计上涨 159.51%，最新滚动市盈率为 337.4，远高于行业的 17.77 ...",
+    "id": "8xFZVeXOsqR",
+    "order": 1792070115601,
+    "createdAt": "2026-10-15T13:15:15.601Z",
+    "publishDate": "2026-10-15T13:15:15.601Z",
+    "title": "新华传媒：10 月 16 日复牌，重组审计评估尚在进行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 21:15:15",
+    "uuid": "74ef0a2f-aeaa-4fab-9d8e-1ebf89810be7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "深南电路预计 2026 年前三季度归属于上市公司股东的净利润为 40.50 亿元-41.50 亿元，同比增长 74.13%-78.43% ...",
+    "id": "8xFZV4wjFep",
+    "order": 1792069516435,
+    "createdAt": "2026-10-15T13:05:16.435Z",
+    "publishDate": "2026-10-15T13:05:16.435Z",
+    "title": "深南电路：预计前三季度净利润同比增长 74.13%-78.43%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 21:05:16",
+    "uuid": "84c4369f-514a-4adf-aa7d-9b93cd1228ce"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "拓荆科技拟通过发行股份及支付现金方式，向王世宽、夏小军、无锡芯聚等 34 名交易对方购买无锡尚积 82.97% 股份、上海泰纳微 100% 股权和无锡宽行 100% 股权，交易总价 25 亿元，同时向不超过 35 名特定投资者募集配套资金 ...",
+    "id": "8xFXiHxLpMr",
+    "order": 1792068622176,
+    "createdAt": "2026-10-15T12:50:22.176Z",
+    "publishDate": "2026-10-15T12:50:22.176Z",
+    "title": "拓荆科技拟发行股份及支付现金收购多家公司股权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 20:50:22",
+    "uuid": "7617deec-97e2-4653-b37f-0199ab4a55ba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "随着我国医疗服务吸引力持续增强，境外人士来华就医、海外保险客户跨境就诊需求不断增长，国际医疗金融服务平台在粤港澳大湾区正式首发上线，打通跨境医疗保险直付堵点，构建起跨境医疗直付新通道。",
+    "id": "8xFY4834FNO",
+    "order": 1792068622802,
+    "createdAt": "2026-10-15T12:50:22.802Z",
+    "publishDate": "2026-10-15T12:50:22.802Z",
+    "title": "构建跨境医疗直付新通道 国际医疗金融服务平台大湾区首发上线",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 20:50:22",
+    "uuid": "5bd4fde1-63de-46e7-9af2-c029c725aefd"
+  },
+  {
+    "newsArray": [
       { "siteName": "中华网" },
       { "siteName": "快科技" },
       { "siteName": "IT 之家" }
