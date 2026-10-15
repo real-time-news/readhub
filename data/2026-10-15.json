@@ -1,6 +1,183 @@
 [
   {
     "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "界面" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" }
+    ],
+    "summary": "当地时间 10 月 15 日 9 时 07 分 42 秒，韩国交易所因 KOSPI200 指数期货价格较基准价下跌 5% 以上并持续超 1 分钟，启动 Sidecar 机制，暂停韩国综合股价指数市场的程序化卖出报价 5 分钟，当时该指数期货主力合约报 892.58 点，基准价 942.26 点，跌幅 5.27%。",
+    "id": "8xEgoxFTPVh",
+    "order": 1792023623402,
+    "createdAt": "2026-10-15T00:20:23.402Z",
+    "publishDate": "2026-10-15T00:20:23.402Z",
+    "title": "韩国股市触发卖出盘暂停机制，KOSPI200 期货跌逾 5%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 08:20:23",
+    "uuid": "de27d12b-038a-40be-a6bb-11c5b11fae2a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Colossal Biosciences 发布全新人工智能平台 GenoMorph，该平台结合多领域技术，可在基因数据有限的灭绝物种复活项目中筛选出可供基因编辑的目标基因，助力推进渡渡鸟等复活计划，目前团队已借助该平台找到约 2300 个有望用于渡渡鸟颅面部形态改造的 DNA 编辑靶点，后续将开展验证 ...",
+    "id": "8xEfPZyyM1i",
+    "order": 1792023024836,
+    "createdAt": "2026-10-15T00:10:24.836Z",
+    "publishDate": "2026-10-15T00:10:24.836Z",
+    "title": "Colossal 推出 AI 平台 GenoMorph，助力加快复活灭绝物种研究",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 08:10:24",
+    "uuid": "ab07ab71-853a-486e-8ea3-733619d00f79"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2026 年前三季度港股 IPO 市场表现远超预期，115 家企业上市，募资总额 3855.66 亿港元，该规模已超过 2011 年以来任何一年的全年水平，市场火热带动中介机构受益，头部效应显著，前三家承销商承销规模合计占比达 42%，但保荐机构的资源紧张问题及执业质量仍受到监管关注。",
+    "id": "8xEfOG8XJi6",
+    "order": 1792022716956,
+    "createdAt": "2026-10-15T00:05:16.956Z",
+    "publishDate": "2026-10-15T00:05:16.956Z",
+    "title": "2026 前三季度港股 IPO 募资超 3800 亿港元 前三承销商占比 42%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 08:05:16",
+    "uuid": "412fd73d-efaa-4dee-86e2-15959e8a115d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "我国内地与香港的可再生能源绿色电力证书集中交易完成，本次交易由广州电力交易中心和香港交易所联合组织开展，共有 6 家内地新能源发电企业与 9 家香港用户参与，覆盖银行金融、地产物业、教育服务等多个行业，共成交绿证 9.6 万个，对应可再生能源电量近 1 亿度。",
+    "id": "8xEdFA5n0aM",
+    "order": 1792022429335,
+    "createdAt": "2026-10-15T00:00:29.335Z",
+    "publishDate": "2026-10-15T00:00:29.335Z",
+    "title": "内地与香港绿电证书集中交易完成",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 08:00:29",
+    "uuid": "88133f0a-a236-4f00-b3cc-51b9089f1b82"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "金融界" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "美国八个州周三对 OpenAI 提起诉讼，指控其 ChatGPT 聊天机器人是不安全产品，伤害儿童并欺骗家长 ...",
+    "id": "8xEJwfRd6sQ",
+    "order": 1792022427862,
+    "createdAt": "2026-10-15T00:00:27.862Z",
+    "publishDate": "2026-10-15T00:00:27.862Z",
+    "title": "OpenAI 因 ChatGPT 儿童安全相关问题被美国 8 个州起诉",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 08:00:27",
+    "uuid": "e6f114ca-4f9d-41be-b2aa-52b541f75e19"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "米家全新 20 英寸金属登机旅行箱将在小米有品众筹，众筹价 1699 元，提供浅银色、钛金色两种配色，预计 2026 年 10 月 29 日发货 ...",
+    "id": "8xDBwth8HrE",
+    "order": 1792022427864,
+    "createdAt": "2026-10-15T00:00:27.864Z",
+    "publishDate": "2026-10-15T00:00:27.864Z",
+    "title": "1699 元米家金属旅行箱将开启众筹：配铝镁合金 + 无铆钉工艺",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 08:00:27",
+    "uuid": "9a4804f6-87e6-4af7-9454-3a0c366afbe8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "苹果计划于 12 月通过 iOS 27.3 更新在中国大陆正式上线 Apple Intelligence，上线内容为两年前率先在美国推出的 AI 功能套件，将排除今年发布的基于谷歌 Gemini 模型重构的全新 Siri AI 助手及其他新功能 ...",
+    "id": "8xEWoQKiPq0",
+    "order": 1792022716951,
+    "createdAt": "2026-10-15T00:00:27.869Z",
+    "publishDate": "2026-10-15T00:05:16.951Z",
+    "title": "苹果计划 12 月在中国上线 Apple Intelligence 新版 Siri 暂不包含",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 08:00:27",
+    "uuid": "e9bfaf80-6d98-49a5-89d1-215a3acffc77"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "36Kr" }],
+    "summary": "Anthropic 披露，今年 5 月其日均代码合并量约 2500 次，到 9 月已超 3 万次，暴增的代码合并量让原有 Git 版本控制系统等开发工具难以适配，此前团队针对持续集成相关服务做的三次临时补救能维持的时间越来越短，最终一名工程师重构了该服务 ...",
+    "id": "8xDtWoKLFn1",
+    "order": 1792021819607,
+    "createdAt": "2026-10-14T23:50:19.607Z",
+    "publishDate": "2026-10-14T23:50:19.607Z",
+    "title": "Claude 写代码太快，Anthropic 连源码系统都重造了，7 人只用 5 个月",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 07:50:19",
+    "uuid": "2a35ce4a-a5b8-4f8b-a72e-ea1d18777aeb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见，多项涉及基金投资范围的松绑条款引发行业关注，包括拟将非 FOF 产品投资其他基金的比例上限从 10% 上调至 30%、允许 FOF 投资 ETF 联接基金，同时 FOF 成立门槛拟降至 5000 万元 ...",
+    "id": "8xEZgNg1YCb",
+    "order": 1792021224145,
+    "createdAt": "2026-10-14T23:40:24.145Z",
+    "publishDate": "2026-10-14T23:40:24.145Z",
+    "title": "证监会就公募基金运作管理办法征求意见 多项条款松绑",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 07:40:24",
+    "uuid": "199fb592-d450-4cc1-867e-c31bf893582a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2026 年三季度末北向资金持股数据出炉，当期北向资金持仓总规模较二季度末回落超 5500 亿元，与一季度末基本持平 ...",
+    "id": "8xEcskYCWR9",
+    "order": 1792021222406,
+    "createdAt": "2026-10-14T23:40:22.406Z",
+    "publishDate": "2026-10-14T23:40:22.406Z",
+    "title": "北向资金三季度调仓 银行、医药等板块持仓市值增幅显著",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-15 07:40:22",
+    "uuid": "059b3a6a-98e3-4aac-9b65-c8d21dcfa62c"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "同花顺财经" }
