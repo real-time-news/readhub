@@ -1,6 +1,83 @@
 [
   {
     "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "投资界" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "公司近日完成近亿元 A 轮融资，由沂景资本、复星创富和路遥资本联合投资，资金将重点投入太空机器人集群建设以及商业化市场拓展，加速推动国内在轨服务从技术验证走向规模化商业交付。",
+    "id": "8xLlds2dN7s",
+    "order": 1792449034011,
+    "createdAt": "2026-10-19T22:30:34.011Z",
+    "publishDate": "2026-10-19T22:30:34.011Z",
+    "title": "国宇星辰完成近亿元 A 轮融资，布局太空机器人集群",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 06:30:34",
+    "uuid": "392e661f-556a-451c-9f5d-4c977d1215cc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "据知情人士透露，美国交通部长肖恩・达菲预计将于周二在访问华盛顿州期间宣布美国联邦航空管理局已批准波音 737 MAX 10，他计划周二出席位于华盛顿州埃弗里特的波音工厂活动，宣传联邦航空管理局对波音最畅销飞机更大改型的认证。",
+    "id": "8xMmTU706fs",
+    "order": 1792446020619,
+    "createdAt": "2026-10-19T21:40:20.619Z",
+    "publishDate": "2026-10-19T21:40:20.619Z",
+    "title": "美交通部长达菲预计周二将宣布波音 737 MAX 10 获 FAA 认证",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 05:40:20",
+    "uuid": "4ed5a4cb-6e5b-40d3-aabd-0ac18e97bc24"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "每经网" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "2026 财年美国联邦赤字达 1.99 万亿美元，净利息支出达创纪录的 1.05 万亿美元，惠誉指出美国主权评级面临下调风险，同时将法国、英国也列为债务稳定受威胁、主权评级存下调风险的国家，明确若高额财政赤字、利息支出占财政收入比重、政府债务占 GDP 比重三项指标持续恶化且缺乏可信中期财政调整方案，相关国家主权评级将面临下调压力 ...",
+    "id": "8xLd1VLSijr",
+    "order": 1792443912964,
+    "createdAt": "2026-10-19T21:05:12.964Z",
+    "publishDate": "2026-10-19T21:05:12.964Z",
+    "title": "惠誉称美法英等国主权评级存下调风险，发达市场年利息超 3.3 万亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 05:05:12",
+    "uuid": "0045aa31-d532-4c20-a8a5-7fb1a2ea45ea"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "北大王选计算机研究所王勇涛团队联合 VGI Labs、加州大学默塞德分校提出首个面向大规模无位姿流式动态场景的高斯前馈重建框架 DynStream，针对在线 4D 重建的增量处理、跨时间全局一致性、动态场景高保真表达三大核心挑战，通过分块局部在线重建、无需额外计算的全局聚合、动静分离的场景累计三大模块，实现输入无位姿 RGB 在线视频流即可前馈输出相机轨迹与可持续更新的可渲染动态场景表示，无需重跑全部场景或逐场景优化 ...",
+    "id": "8xLfA9bVTS7",
+    "order": 1792440026218,
+    "createdAt": "2026-10-19T20:00:26.218Z",
+    "publishDate": "2026-10-19T20:00:26.218Z",
+    "title": "北大、VGI Labs 和加州大学联合提出 DynStream 大规模无位姿流式动态场景重建框架",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 04:00:26",
+    "uuid": "5364c1d8-39dc-4329-908d-9bc3806ec6d8"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "浙江大学 APRIL Lab 团队发布首篇聚焦智能眼镜第一人称智能的系统性综述，搭建了完整研究框架 ...",
+    "id": "8xM73DDh9Ht",
+    "order": 1792439711332,
+    "createdAt": "2026-10-19T19:55:11.332Z",
+    "publishDate": "2026-10-19T19:55:11.332Z",
+    "title": "从「看见」到「行动」：浙大团队发布首篇「智能眼镜第一人称智能」综述",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 03:55:11",
+    "uuid": "5e2e7d70-cd28-4784-b3d8-bafca2501a8b"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
@@ -19,6 +96,24 @@
   {
     "newsArray": [
       { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "Netflix 电影部门负责人 Dan Lin 据称于本周末被解雇。",
+    "id": "8xMOYL9rDnJ",
+    "order": 1792439725709,
+    "createdAt": "2026-10-19T17:25:11.106Z",
+    "publishDate": "2026-10-19T19:55:25.709Z",
+    "title": "Netflix 电影部门负责人 Dan Lin 据称于本周末被解雇",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 01:25:11",
+    "uuid": "5880d7dd-88dd-4085-b3df-d24223a22f22"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "央视新闻" },
       { "siteName": "同花顺财经" }
@@ -33,6 +128,33 @@
     "up": false,
     "date": "2026-10-20 01:00:25",
     "uuid": "424a18d3-fe41-4fe5-b88d-0708bf8d9871"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "9to5Mac" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "快科技" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "techradar.com" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "金融界" }
+    ],
+    "summary": "苹果公司确认，将于10月28日（下周三）在美国洛杉矶举行主题为“Pro and tell”的活动举行新品发布会，届时计划推出公司首款触屏MacBook ...",
+    "id": "8xMQglCXTcW",
+    "order": 1792439827540,
+    "createdAt": "2026-10-19T16:20:19.598Z",
+    "publishDate": "2026-10-19T19:57:07.540Z",
+    "title": "苹果宣布 10 月 28 日于洛杉矶举办「Pro and Tell」专场活动",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 00:20:19",
+    "uuid": "955d068a-ea19-4063-bc3f-14cb7abc95cd"
   },
   {
     "newsArray": [
