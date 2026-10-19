@@ -1,6 +1,152 @@
 [
   {
     "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "聊天机器人初创公司 Character.AI 在申请破产之际迎来转折，其前首席执行官 Karandeep Anand 已出任迪士尼首位首席技术官 ...",
+    "id": "8xLLW2a3NTt",
+    "order": 1792372517128,
+    "createdAt": "2026-10-19T01:15:17.128Z",
+    "publishDate": "2026-10-19T01:15:17.128Z",
+    "title": "迪士尼拟 2000 万美元收购 Character.AI 部分资产并接纳核心团队",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-19 09:15:17",
+    "uuid": "f387b34b-8588-423b-8eec-44e0ea17b5bf"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "中证网" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "10 月 19 日深交所主板新股皇冠新材开启申购，公司主营工业级、电子级胶粘材料及功能性薄膜材料等功能性复合材料的研发、生产与销售，产品应用覆盖多领域，拥有多项专精特新等相关认定资质，产品已进入多家知名终端企业供应链。",
+    "id": "8xLGVAmiHa9",
+    "order": 1792372517139,
+    "createdAt": "2026-10-19T01:15:17.139Z",
+    "publishDate": "2026-10-19T01:15:17.139Z",
+    "title": "专精特新小巨人皇冠新材今日开启申购",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-19 09:15:17",
+    "uuid": "602c3a9a-0219-43b3-8e4e-8b2d9a5fb6ee"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "站长之家" },
+      { "siteName": "站长之家" }
+    ],
+    "summary": "苹果明知 iPhone Duo 折叠屏手机面临严重供应短缺，仍按计划于本周五开启预购，未等备货更充足时启动 ...",
+    "id": "8xKhqgWmSKf",
+    "order": 1792370420023,
+    "createdAt": "2026-10-19T00:40:20.023Z",
+    "publishDate": "2026-10-19T00:40:20.023Z",
+    "title": "古尔曼：苹果明知 iPhone Duo 折叠屏供应不足仍坚持周五启动预售",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-19 08:40:20",
+    "uuid": "6d973b12-e467-4f23-9c84-764db3593c03"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "中证网" }
+    ],
+    "summary": "华密新材、同惠电子、民士达三家北交所上市公司披露 2026 年三季报，前三季度三家公司营业收入均同比增长，利润表现有所分化，经营活动现金流量净额均同比增加 ...",
+    "id": "8xLHZljtVxY",
+    "order": 1792368025560,
+    "createdAt": "2026-10-19T00:00:25.560Z",
+    "publishDate": "2026-10-19T00:00:25.560Z",
+    "title": "北交所三家公司率先披露三季报：盈利分化 经营现金流改善",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-19 08:00:25",
+    "uuid": "29b484d6-0d4b-4654-b407-b7dd6a3be8ba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "以 2024 年诺贝尔化学奖得主、美国华盛顿大学教授戴维・贝克为代表的科学家团队开发出生成式 AI 系统 RFdiffusion3（RFD3），可直接从原子层面设计蛋白质和核酸，生成蛋白质结构的速度约为前代系统的 10 倍。",
+    "id": "8xLF4KQOT30",
+    "order": 1792367114266,
+    "createdAt": "2026-10-18T23:45:14.266Z",
+    "publishDate": "2026-10-18T23:45:14.266Z",
+    "title": "生成式 AI 能从原子层面设计蛋白质",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-19 07:45:14",
+    "uuid": "2510b991-eb0b-4321-ab18-8441f1a58ea2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "2026 年以来，已有 3734 家 A 股上市公司实施现金分红，总额超 2 万亿元，分红机制趋于常态化，龙头公司大额分红案例频现，不同行业分红呈现出规模和数量上的差异化特征，一年多次分红渐成常态，红利资产票息优势凸显 ...",
+    "id": "8xLFmrRUI4r",
+    "order": 1792367114274,
+    "createdAt": "2026-10-18T23:45:14.274Z",
+    "publishDate": "2026-10-18T23:45:14.274Z",
+    "title": "A 股分红回购增持热潮涌动",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-19 07:45:14",
+    "uuid": "5b58a899-aadb-4975-9d1a-d3c47c93ec11"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "证监会发布《公开募集证券投资基金运作管理办法（征求意见稿）》，下调股票基金成立门槛并取消发起式基金三年清盘规定，为不少基金产品解决长不大难题带来转机 ...",
+    "id": "8xLHDEapIka",
+    "order": 1792366822538,
+    "createdAt": "2026-10-18T23:40:22.538Z",
+    "publishDate": "2026-10-18T23:40:22.538Z",
+    "title": "基金「长不大」难题迎转机 突围仍需靠业绩",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-19 07:40:22",
+    "uuid": "707370f0-23f4-41fc-8488-1c3f5866f332"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "Nscale 约 300 亿美元的 IPO 估值目标遭到投资者抵触，部分投资者认为其合理估值区间为 160 亿至 190 亿美元 ...",
+    "id": "8xL7vGaOSrq",
+    "order": 1792366516714,
+    "createdAt": "2026-10-18T23:35:16.713Z",
+    "publishDate": "2026-10-18T23:35:16.714Z",
+    "title": "AI 云企业 Nscale IPO 高估值目标遭投资者抵触",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-19 07:35:16",
+    "uuid": "5ad3f33d-5fd2-4db7-b170-204132318189"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" },
