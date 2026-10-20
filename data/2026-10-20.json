@@ -1,6 +1,182 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间 19 日，欧盟委员会首席发言人葆拉・皮尼奥在回应美国提议将恢复购买俄罗斯天然气作为乌克兰和平方案一部分的相关提问时表示，欧盟立场不变，在俄乌冲突结束前无意解除对俄任何制裁，且欧盟委员会仍认为欧美有必要对俄实施协调一致的制裁 ...",
+    "id": "8xN2C42YGeT",
+    "order": 1792459221071,
+    "createdAt": "2026-10-20T01:20:21.071Z",
+    "publishDate": "2026-10-20T01:20:21.071Z",
+    "title": "欧盟：俄乌冲突结束前不会解除任何对俄制裁",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 09:20:21",
+    "uuid": "eb12b9f5-6c80-4e47-ad7f-3655a8529d29"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间 10 月 19 日，3M 宣布与亚马逊全资子公司扩大战略商业合作，并向亚马逊另一家全资子公司发行七年期认股权证，允许其以每股 164.89 美元的价格认购最多 316.2 万股 3M 普通股 ...",
+    "id": "8xMyz4ccOK1",
+    "order": 1792458027344,
+    "createdAt": "2026-10-20T01:00:27.344Z",
+    "publishDate": "2026-10-20T01:00:27.344Z",
+    "title": "3M 与亚马逊扩大合作，亚马逊七年内可认购逾 316 万股 3M 股票",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 09:00:27",
+    "uuid": "e2da3ff2-4266-4721-b4b9-c963e0bc389f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "研究人员开发出一款可仅凭单张面部照片预测癌症患者生存几率的人工智能工具，可补充医生临床经验判断，为治疗方案制定提供参考，在医疗资料不足场景下尤具价值 ...",
+    "id": "8xMyzugalVt",
+    "order": 1792458027383,
+    "createdAt": "2026-10-20T01:00:27.383Z",
+    "publishDate": "2026-10-20T01:00:27.383Z",
+    "title": "新 AI 工具问世：仅凭一张面部照片即可预测癌症患者生存几率",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 09:00:27",
+    "uuid": "43cf55fe-f728-4d47-a30d-13b27354196c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "微亿智造发布港交所公告，拟全球发售 37275800 股 H 股，其中香港发售 3727600 股，国际发售 33548200 股，最高发售价为每股 21.46 港元，预期股份于 2026 年 10 月 28 日在香港联交所开始买卖。",
+    "id": "8xMsYCYv2jf",
+    "order": 1792458027448,
+    "createdAt": "2026-10-20T01:00:27.448Z",
+    "publishDate": "2026-10-20T01:00:27.448Z",
+    "title": "微亿智造：拟全球发售 3727.58 万股 H 股，发售价不超 21.46 港元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 09:00:27",
+    "uuid": "6ca7d452-caf9-44db-be1b-d1345e91dd6a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "标普全球估计全球大型科技公司与人工智能相关的潜在负债可能高于当前已知水平，目前暂无必要调整相关企业信用评级 ...",
+    "id": "8xMTBDJUni7",
+    "order": 1792458025746,
+    "createdAt": "2026-10-20T01:00:25.746Z",
+    "publishDate": "2026-10-20T01:00:25.746Z",
+    "title": "标普：科技巨头 AI 相关负债或高于已知水平 暂不影响评级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 09:00:25",
+    "uuid": "f22db01d-1437-49b4-b428-dae530b0148a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中信证券指出，商务部、科技部就修订《中国禁止出口限制出口技术目录》征求意见，将光伏多晶硅、硅片、电池三个环节的核心技术与关键设备一并纳入管制，同日工信部发布《光伏制造行业规范条件（2026 年本）》征求意见稿，全面转向 N 型并收紧效率与能耗门槛 ...",
+    "id": "8xN0lz4fyci",
+    "order": 1792457112406,
+    "createdAt": "2026-10-20T00:45:12.406Z",
+    "publishDate": "2026-10-20T00:45:12.406Z",
+    "title": "中信证券：光伏行业转向高质量发展新阶段",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 08:45:12",
+    "uuid": "9ed4cbfe-2c40-4df4-bf81-70fc11017e18"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "亚马逊推出开源工具 TorchNeuron，开发者只需更改一次配置无需重写，即可让原有 PyTorch 代码在其自研 Trainium 芯片上本地运行 ...",
+    "id": "8xMEBZjb1PY",
+    "order": 1792457112408,
+    "createdAt": "2026-10-20T00:45:12.408Z",
+    "publishDate": "2026-10-20T00:45:12.408Z",
+    "title": "亚马逊推出开源工具 TorchNeuron，可让 PyTorch 代码在自研 Trainium 芯片运行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 08:45:12",
+    "uuid": "8f0d4679-915f-48d9-98f7-c0b3db3a9cf1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "佳华科技成功中标晋创谷・太原未来和国际智慧产业园区基础设施建设项目，该项目以建筑智能化为基底，核心打造晋创谷・太原智算中心，构建太原国投自主可控的智算底座，是佳华科技 AI 技术与智算综合能力在智慧园区场景的重要落地实践。",
+    "id": "8xMzLfuZaF5",
+    "order": 1792456820594,
+    "createdAt": "2026-10-20T00:40:20.594Z",
+    "publishDate": "2026-10-20T00:40:20.594Z",
+    "title": "佳华科技中标晋创谷智能化项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 08:40:20",
+    "uuid": "ade5b39a-f348-44cc-94d3-8c5292ccb757"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "36Kr" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "OpenAI 正加快推进约 300 亿美元的融资，目标估值可能超 1.4 万亿美元，希望赶在竞争对手 Anthropic 预计 11 月中旬上市前获得投资者承诺，软银集团、阿布扎比投资机构 MGX 及其他现有投资者正洽谈参与本轮融资 ...",
+    "id": "8xMyGKnIvLD",
+    "order": 1792455619758,
+    "createdAt": "2026-10-20T00:20:19.758Z",
+    "publishDate": "2026-10-20T00:20:19.758Z",
+    "title": "OpenAI 拟融资 300 亿美元，估值或超 1.4 万亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 08:20:19",
+    "uuid": "c31e255f-4385-46a3-86f9-246cad7b1061"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "当地时间 10 月 19 日，投资公司 Forward Consumer Partners 宣布已签署协议，拟从联合利华收购 2018 年创立、主营创可贴等日常急救护理产品的急救护理品牌 Welly ...",
+    "id": "8xMN7R91VSE",
+    "order": 1792455619760,
+    "createdAt": "2026-10-20T00:20:19.760Z",
+    "publishDate": "2026-10-20T00:20:19.760Z",
+    "title": "联合利华拟出售急救护理品牌 Welly 交易预计 2026 年底完成",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-20 08:20:19",
+    "uuid": "e34862df-5386-4c74-b2ea-e11fbe91b0ac"
+  },
+  {
+    "newsArray": [
       { "siteName": "猎云网" },
       { "siteName": "投资界" },
       { "siteName": "第一财经" }
