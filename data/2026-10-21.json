@@ -1,6 +1,178 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "爱旭股份披露第三季度营业收入 52.89 亿元，同比增长 67.89%，归母净利润 4456.66 万元 ...",
+    "id": "8xPJicGOjsm",
+    "order": 1792577718049,
+    "createdAt": "2026-10-21T10:15:18.049Z",
+    "publishDate": "2026-10-21T10:15:18.049Z",
+    "title": "爱旭股份第三季度净利润 4456.66 万元 环比扭亏为盈",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 18:15:18",
+    "uuid": "97a8c3f8-148c-456b-8cb5-5984a4b07c41"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "爱旭股份计划将天津基地现有 PERC 电池产能升级改造为 6GW ABC 电池产能，项目预计总投资 11.50 亿元，其中固定资产投资 11.31 亿元，铺底及营运流动资金 0.19 亿元 ...",
+    "id": "8xPJjoLQ5az",
+    "order": 1792577716177,
+    "createdAt": "2026-10-21T10:15:16.177Z",
+    "publishDate": "2026-10-21T10:15:16.177Z",
+    "title": "爱旭股份：拟 11.50 亿元升级天津基地 6GW ABC 电池产能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 18:15:16",
+    "uuid": "172bc2c1-d1a7-423a-bcb7-cb880d6221a2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "金辰股份公告，拟以自有资金和自筹资金通过集中竞价交易方式回购公司股份，回购金额不低于 5000 万元且不超过 1 亿元，回购价格不超过 47.31 元 / 股，回购股份将用于员工持股计划或股权激励，回购期限为董事会审议通过之日起不超过 12 个月。",
+    "id": "8xPIcDEmiRt",
+    "order": 1792577716184,
+    "createdAt": "2026-10-21T10:15:16.184Z",
+    "publishDate": "2026-10-21T10:15:16.184Z",
+    "title": "金辰股份：拟 5000 万元至 1 亿元回购公司股份",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 18:15:16",
+    "uuid": "b46a001f-f52d-4057-8ca5-ae0257b2e29f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "Nscale 在冰岛 AI 工厂使用 DSX MaxLPS 对 4 个英伟达 GB300 NVL72 机架进行评估，在 264 千瓦固定供电预算下，推理吞吐量提高 49%，可管理 GPU 容量增加 37%。",
+    "id": "8xPK2l0NVmG",
+    "order": 1792577716897,
+    "createdAt": "2026-10-21T10:15:16.897Z",
+    "publishDate": "2026-10-21T10:15:16.897Z",
+    "title": "Nscale 测试英伟达 DSX 方案 推理吞吐量提高 49%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 18:15:16",
+    "uuid": "f2124e68-3a91-4261-8ede-4a9e56844b58"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英伟达推出面向 AI 智能体的开源软件 OpenShell 参考架构。",
+    "id": "8xPJhpZcjYV",
+    "order": 1792577928198,
+    "createdAt": "2026-10-21T10:15:16.961Z",
+    "publishDate": "2026-10-21T10:18:48.198Z",
+    "title": "英伟达推出面向 AI 智能体的开源软件 OpenShell 参考架构",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 18:15:16",
+    "uuid": "16e7706f-1f94-46b8-a3e5-dd015cddce91"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "英伟达 CEO 黄仁勋在 GTC 柏林主题演讲中宣布推出 Vera Rubin DSX POD 全栈模块化 AI 工厂参考架构，该方案采用工厂预制、集成及预先测试的集群设计，旨在将从交付到部署的周期从数月缩短至数天，英伟达称集装箱本身就是 AI 工厂。",
+    "id": "8xPIcFi46gk",
+    "order": 1792576831193,
+    "createdAt": "2026-10-21T10:00:31.193Z",
+    "publishDate": "2026-10-21T10:00:31.193Z",
+    "title": "英伟达发布 Vera Rubin DSX POD 模块化 AI 工厂参考架构",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 18:00:31",
+    "uuid": "27abcc74-95e8-4219-a4dc-89d4a443fd8b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "新浪科技" },
+      { "siteName": "36Kr" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "有网友询问段永平关于投资泡泡玛特的相关问题，段永平回应称自己应该还会再买一些泡泡玛特的股份，但不会超过该公司的 10%，不然公司该有意见了，他还提到自己持有网易的股份最多也就到过 10% 左右，称现在自己搞得像泡泡玛特代理人似的，以后不想再回答这类问题，自己该说的观点都已经说了，对错过几年就知道了。",
+    "id": "8xPJ06dsZVz",
+    "order": 1792577933185,
+    "createdAt": "2026-10-21T10:00:31.181Z",
+    "publishDate": "2026-10-21T10:18:53.185Z",
+    "title": "段永平称会继续买入泡泡玛特",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 18:00:31",
+    "uuid": "438422cc-adb8-493f-89b1-03003a2eeed8"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "梅赛德斯-奔驰宣布，与英伟达合作开发的 MB.DRIVE ASSIST PRO 辅助驾驶系统将于 2027 年上半年在德国开放订购 ...",
+    "id": "8xPIcWKjbz3",
+    "order": 1792576513926,
+    "createdAt": "2026-10-21T09:55:13.926Z",
+    "publishDate": "2026-10-21T09:55:13.926Z",
+    "title": "梅赛德斯-奔驰：将于 2027 年上半年在德国推出城市辅助驾驶系统",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 17:55:13",
+    "uuid": "ef608668-5cc2-461c-9666-49d972e4768b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "安踏体育 2026 年第三季度安踏品牌产品零售金额同比录得中单位数负增长，FILA 品牌产品零售金额同比录得低单位数负增长，所有其他品牌产品零售金额同比录得 25%—30% 的正增长。",
+    "id": "8xPENwEAcWS",
+    "order": 1792576218839,
+    "createdAt": "2026-10-21T09:50:18.839Z",
+    "publishDate": "2026-10-21T09:50:18.839Z",
+    "title": "安踏体育：第三季度安踏品牌产品零售额同比中单位数负增长",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 17:50:18",
+    "uuid": "5fb48213-105b-4255-8e52-623ee671b752"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "华尔街见闻" },
       { "siteName": "同花顺财经" }
@@ -134,6 +306,29 @@
     "up": false,
     "date": "2026-10-21 12:45:15",
     "uuid": "0dbb392e-d329-4d19-9b5e-4f377c4a483d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "腾讯网" },
+      { "siteName": "快科技" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "微信公众号" },
+      { "siteName": "maomu.com" },
+      { "siteName": "infoq.cn" },
+      { "siteName": "36Kr" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "曾任职月之暗面 Kimi 团队的 17 岁 AI 领域从业者陈广宇被传加入 2026 年 8 月成立、创始班底均为谷歌体系资深技术人员的美国 AI 初创企业 Discovery Loop，该企业定位打造可参与科学、工程研究的 AI 工具，实现科研实验流程自动化以加快复杂科研工程问题解决速度 ...",
+    "id": "8xOm8WiclEq",
+    "order": 1792576233580,
+    "createdAt": "2026-10-21T04:40:23.225Z",
+    "publishDate": "2026-10-21T09:50:33.580Z",
+    "title": "传闻 17 岁天才少年陈广宇加入美 AI 初创，团队均为谷歌老将",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 12:40:23",
+    "uuid": "054e4c9f-f60b-4d2b-93ae-99dd6b31be51"
   },
   {
     "newsArray": [
