@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI 指出相关 PHP 安全漏洞因严重程度高且 PHP 应用广泛，属于近年来影响最重大的安全漏洞之一，并称据其所知，前沿人工智能模型先于攻击者发现了这些漏洞。",
+    "id": "8xPe5saWQZD",
+    "order": 1792595712020,
+    "createdAt": "2026-10-21T15:15:12.020Z",
+    "publishDate": "2026-10-21T15:15:12.020Z",
+    "title": "OpenAI：前沿 AI 模型先于攻击者发现 PHP 安全漏洞",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 23:15:12",
+    "uuid": "70e9e7d1-6774-4e3d-a9b1-ec813f3ebf61"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "芬兰政府信息通信技术中心（Valtori）宣布，因 PHP 软件被发现存在严重安全漏洞，为防范风险，芬兰政府公共服务网站于当日陆续下线 ...",
+    "id": "8xPZnUWBYuI",
+    "order": 1792594829353,
+    "createdAt": "2026-10-21T15:00:29.353Z",
+    "publishDate": "2026-10-21T15:00:29.353Z",
+    "title": "为预防 PHP 安全漏洞，芬兰政府临时关闭部分网站",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 23:00:29",
+    "uuid": "582b53cb-d228-448f-a9b1-4dba7e92e446"
+  },
+  {
+    "newsArray": [
+      { "siteName": "中证网" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "2026 年前三季度我国期货市场新增客户 91 万个，同比增长 41% ...",
+    "id": "8xPWxwJfHln",
+    "order": 1792594516560,
+    "createdAt": "2026-10-21T14:55:16.560Z",
+    "publishDate": "2026-10-21T14:55:16.560Z",
+    "title": "我国期货市场前三季度新增客户 91 万个 同比增长 41%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 22:55:16",
+    "uuid": "b097a3df-cb9a-4658-9233-d14bbd6d5191"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" }
+    ],
+    "summary": "谷歌就 PHP 核心漏洞 CVE-2026-109618 和 CVE-2026-109619 作出回应，称 Google Cloud 云平台本身不受这两个漏洞影响，平台上运行 PHP 的用户仍可能面临风险，Gemini 4 Argon 参与了该漏洞的发现、漏洞利用程序开发、攻击检测和补丁验证工作。",
+    "id": "8xPdMb81e4P",
+    "order": 1792593917906,
+    "createdAt": "2026-10-21T14:45:17.906Z",
+    "publishDate": "2026-10-21T14:45:17.906Z",
+    "title": "谷歌回应 PHP 核心漏洞 CVE-2026-109618 和 CVE-2026-109619",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 22:45:17",
+    "uuid": "3d3962c5-d4d8-4933-903f-8b2fa2679a95"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "航运公司选择替代航线绕开冲突关键航道后，中东石油出口量已回升至战前水平，截至 10 月 18 日当周海湾产油国（不含伊朗）石油出货量日均 2460 万桶，为 2 月中旬美以打击伊朗引发战事以来的七天平均出口量最高值，当前经霍尔木兹海峡外运的原油量仍较战前减少逾三分之一 ...",
+    "id": "8xPWCkaOq6G",
+    "order": 1792593915997,
+    "createdAt": "2026-10-21T14:45:15.997Z",
+    "publishDate": "2026-10-21T14:45:15.997Z",
+    "title": "绕开冲突航道 中东石油出口回升至战前水平",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 22:45:15",
+    "uuid": "11021a28-beef-4c0f-9cc6-07659ff11aef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "电商平台 eBay 将裁员约 9%，以简化营运并将资源转向成长最快的业务，按公司去年底约 12300 名员工推算，此次裁员人数约为 1100 人 ...",
+    "id": "8xPScchiLb5",
+    "order": 1792593915998,
+    "createdAt": "2026-10-21T14:45:15.998Z",
+    "publishDate": "2026-10-21T14:45:15.998Z",
+    "title": "电商平台 eBay 将裁员约 9%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 22:45:15",
+    "uuid": "731bd9d1-dae0-4c6a-8698-84c3b616a482"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "中共中央办公厅、国务院办公厅印发《关于推动科技创新和产业创新深度融合的意见》，科技部有关负责同志就文件相关情况答记者问，介绍了制定该意见的背景意义、总体考虑与主要框架，还围绕促进创新链产业链无缝对接、以高质量科技供给支撑现代化产业体系建设、加强企业主导的产学研融通创新、提高创新资源统筹配置效能、营造深度融合的良好生态、拓展深度融合的发展空间等重点任务及组织实施要求作出详细说明。",
+    "id": "8xPYLTq7xj6",
+    "order": 1792593628361,
+    "createdAt": "2026-10-21T14:40:28.361Z",
+    "publishDate": "2026-10-21T14:40:28.361Z",
+    "title": "科技部有关负责同志就《关于推动科技创新和产业创新深度融合的意见》答记者问",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 22:40:28",
+    "uuid": "ea993d98-615b-474b-817c-a6f636c3586c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "一家投资研究机构为弄清 AI 制药的实际发展阶段，由 5 人组成的非专业生命科学背景团队，以 20 万美元预算、3 个月周期，借助 Claude 协调 300 多个 Agent，消耗逾万小时 H100 算力，用 35 页提示词搭建研究流程，最终完成抗蝎毒全新蛋白设计 ...",
+    "id": "8xOulwNfPQw",
+    "order": 1792593628440,
+    "createdAt": "2026-10-21T14:40:28.440Z",
+    "publishDate": "2026-10-21T14:40:28.440Z",
+    "title": "3 个月 5 人团队 20 万美元预算，Claude 加持设计出抗蝎毒蛋白",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 22:40:28",
+    "uuid": "3d820a72-1202-4ba5-856f-68b8886ccf0a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" }
+    ],
+    "summary": "Solana 于 10 月 21 日启动 Alpenglow 升级，这是该网络 2020 年以来最大规模的底层改造之一 ...",
+    "id": "8xP16YO0Ln0",
+    "order": 1792593626623,
+    "createdAt": "2026-10-21T14:40:26.623Z",
+    "publishDate": "2026-10-21T14:40:26.623Z",
+    "title": "Solana 将于周三启动 6 年来最大规模网络升级，交易确认时间有望缩至 150 毫秒",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 22:40:26",
+    "uuid": "6bcba3ad-f806-4553-926c-3f1197b79c49"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国航空航天局公布其月球车的最新研发进展及任务规划，用于探测月球水资源的 VIPER 月球车已完成组装正在进行最终测试，计划 2027 年运抵月球南极开展探测，收集相关数据助力研究月球水资源相关情况、评估月球资源用于月球基地建设的潜力 ...",
+    "id": "8xPcdHQRPpy",
+    "order": 1792593626629,
+    "createdAt": "2026-10-21T14:40:26.629Z",
+    "publishDate": "2026-10-21T14:40:26.629Z",
+    "title": "美航空航天局公布月球车最新研发进展及任务规划",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-21 22:40:26",
+    "uuid": "6c74ebeb-86e9-4513-8c52-9bebafb0de45"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
