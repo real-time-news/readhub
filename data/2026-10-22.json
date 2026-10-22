@@ -1,6 +1,178 @@
 [
   {
     "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "特斯拉第三季度资本支出虽同比翻倍，但环比减少约 10 亿美元，远低于分析师预期，同时将 2026 年资本支出目标下调近 20% 至约 200 亿美元，不过三季度自由现金流表现好于市场预期，短期财务得到支撑 ...",
+    "id": "8xQVM59Kl2m",
+    "order": 1792645820437,
+    "createdAt": "2026-10-22T05:10:20.437Z",
+    "publishDate": "2026-10-22T05:10:20.437Z",
+    "title": "特斯拉 AI 豪赌遇阻：2026 支出砍 20%，马斯克转型节奏生变",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 13:10:20",
+    "uuid": "97f1c85c-0864-4998-855a-6f0d026aa6dc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "品玩" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "高德宣布完成针对 iPhone Duo 设备形态的全面适配优化，即将推出全球首个适配该折叠屏 iPhone 的分屏导航功能 ...",
+    "id": "8xQTs8PEjhP",
+    "order": 1792645820437,
+    "createdAt": "2026-10-22T05:10:20.437Z",
+    "publishDate": "2026-10-22T05:10:20.437Z",
+    "title": "高德全面适配 iPhone Duo，将推出折叠屏 iPhone 分屏导航功能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 13:10:20",
+    "uuid": "4c774b93-366c-4af4-a194-5adf0573ee36"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "每经网" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "郑巍山因个人原因卸任在管的 3 只公募产品基金经理职务，其拥有 18 年证券从业经历、7 年公募管理经历，离任前管理规模超 200 亿元，是典型的强赛道、高弹性、弱防御型基金经理，长期锚定半导体产业链投资，代表作银河创新成长混合曾被称为「芯片双雄」之一，截至今年 6 月底该基金持有人户数达 97.6 万户，其实际投资方向与原业绩比较基准存在偏离，若后续继续聚焦半导体赛道，基准应按规定调整 ...",
+    "id": "8xQNodK6QnU",
+    "order": 1792645237180,
+    "createdAt": "2026-10-22T05:00:37.180Z",
+    "publishDate": "2026-10-22T05:00:37.180Z",
+    "title": "银河基金郑巍山卸任全部在管基金，代表作由两位老将接管",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 13:00:37",
+    "uuid": "c14b2112-a4ff-4ea8-8d73-84e2344ca78b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "虎嗅网" },
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" }
+    ],
+    "summary": "近期十余家区域性民营银行密集推进个人存款业务属地化整改，明确暂停向居住地、户籍地均不在本省（市）的客户新增销售个人存款，压缩关闭线上异地购买入口，存量存款可按原有协议持有至到期，到期后不再办理续存 ...",
+    "id": "8xQSR7JHZ6g",
+    "order": 1792644314196,
+    "createdAt": "2026-10-22T04:45:14.196Z",
+    "publishDate": "2026-10-22T04:45:14.196Z",
+    "title": "多家民营银行限制个人异地存款",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 12:45:14",
+    "uuid": "b2ea2c07-9222-4298-bd9d-537a51eaf579"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "daily.dev" },
+      { "siteName": "daily.dev" }
+    ],
+    "summary": "LiteLLM 遭遇供应链攻击，恶意版本 litellm@1.107.0 影响 PyPI 包及 Docker 镜像相关浮动标签，该恶意程序会在 Python 启动时自动执行，窃取云服务凭证、AI API 密钥、SSH 私钥等敏感数据，还可实现远程代码执行 ...",
+    "id": "8xPbbD8zBgP",
+    "order": 1792644026764,
+    "createdAt": "2026-10-22T04:40:26.764Z",
+    "publishDate": "2026-10-22T04:40:26.764Z",
+    "title": "慢雾：LiteLLM 再遭供应链攻击 恶意版本可窃取云凭证与 AI 密钥",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 12:40:26",
+    "uuid": "25137862-f852-4a9d-ae18-58770d7d90e6"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医谷网" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" }
+    ],
+    "summary": "和黄医药确认其附属公司与葛兰素史克关于 HMPL-A830 的独家开发和许可协议已完成交易，GSK 获得该药物在中国内地、香港、澳门和台湾以外全球范围内的开发和商业化权利 ...",
+    "id": "8xP7Yv6bGxQ",
+    "order": 1792644025113,
+    "createdAt": "2026-10-22T04:40:25.113Z",
+    "publishDate": "2026-10-22T04:40:25.113Z",
+    "title": "和黄医药与 GSK 交易落地，首付款 1.1 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 12:40:25",
+    "uuid": "7a0a6a9d-7f9e-40df-9e85-1b7c8a3048aa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "AMZ123" },
+      { "siteName": "鸟哥笔记" },
+      { "siteName": "电商报" }
+    ],
+    "summary": "京东物流在 11.11 大促期间对快运产品进行系统性服务能力升级，围绕运输时效、货物安全、揽派体验三方面优化服务 ...",
+    "id": "8xP7ZV5OoCW",
+    "order": 1792643441005,
+    "createdAt": "2026-10-22T04:30:41.005Z",
+    "publishDate": "2026-10-22T04:30:41.005Z",
+    "title": "京东物流快运产品进行三大升级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 12:30:41",
+    "uuid": "d1ab6e2a-e518-4b10-89b6-655ddaa15537"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "国家广播电视总局印发《广播电视和网络视听「十五五」规划》，提出建强多元立体传播渠道，支持重点网络视听平台本土化发展以提高海外市场占有率，支持微短剧出海巩固海外市场领先优势，推动真人剧与 AI 剧双轨发展打造「世界故事工厂」，组建微短剧出海产业联盟建立行业出海信息共享、资源互通机制，引导头部平台、制作机构错位布局。",
+    "id": "8xQZESk9eWJ",
+    "order": 1792642830286,
+    "createdAt": "2026-10-22T04:20:30.286Z",
+    "publishDate": "2026-10-22T04:20:30.286Z",
+    "title": "《广播电视和网络视听「十五五」规划》印发：支持微短剧出海 打造「世界故事工厂」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 12:20:30",
+    "uuid": "95620fad-6a88-4e75-a45f-e02d4be15857"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "特斯拉首席财务官瓦伊巴夫・塔内贾表示未来几年将继续扩张资本开支，用于扩大 Robotaxi 车队规模、Optimus 产能、太阳能制造产能，采购 AI 算力基础设施，建设芯片工厂，这套战略将支撑公司迈入新一轮增长周期，颠覆多个现有市场同时创造全新赛道，自动驾驶、人形机器人、储能打下的基础将让公司拥有无比光明的前景。",
+    "id": "8xQZEEvlr5e",
+    "order": 1792642828392,
+    "createdAt": "2026-10-22T04:20:28.391Z",
+    "publishDate": "2026-10-22T04:20:28.392Z",
+    "title": "特斯拉 CFO 称未来几年资本开支将继续扩张涉及多领域",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 12:20:28",
+    "uuid": "884042ff-ed10-4aa2-bacd-2110dbbd1c3e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "PHP 曝出严重安全漏洞，波及日本金融机构、企业、地方政府及政府机关等多方 ...",
+    "id": "8xQXnUNNPTZ",
+    "order": 1792642517329,
+    "createdAt": "2026-10-22T04:15:17.329Z",
+    "publishDate": "2026-10-22T04:15:17.329Z",
+    "title": "PHP 漏洞波及日本多方 日本政府已暂时停止公开部分网站内容",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-22 12:15:17",
+    "uuid": "b6ca367d-d8b6-48c8-9752-caea5f36bffc"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "IT 之家" },
       { "siteName": "手机中国" }
