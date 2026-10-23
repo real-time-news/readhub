@@ -1,6 +1,182 @@
 [
   {
     "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "软银宣布因应对 PHP 漏洞，自日本时间 10 月 23 日上午 6 时 47 分起对紧急速报邮件服务开展紧急维护，暂停向软银、Y ...",
+    "id": "8xSFZHHa4dA",
+    "order": 1792732513130,
+    "createdAt": "2026-10-23T05:15:13.130Z",
+    "publishDate": "2026-10-23T05:15:13.130Z",
+    "title": "软银因应对 PHP 漏洞暂停紧急速报邮件服务",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 13:15:13",
+    "uuid": "0190b028-59c3-462b-b10b-c0b11b4b43f1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "投资界" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "近期 PHP 被曝两个潜伏 14 年、评分为 9.2 级的严重远程代码执行漏洞，攻击者无需登录仅发送一个请求即可远程接管服务器，覆盖全球 70% 的网站基座 ...",
+    "id": "8xRAON8M16H",
+    "order": 1792732513204,
+    "createdAt": "2026-10-23T05:15:13.204Z",
+    "publishDate": "2026-10-23T05:15:13.204Z",
+    "title": "AI 挖出 PHP 潜藏 14 年严重漏洞 全球运维紧急抢修",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 13:15:13",
+    "uuid": "9ea8d492-dbbc-4299-9874-82931822fc85"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "The Browser Company 宣布将于 2026 年 12 月 22 日停止 Arc 浏览器服务，集中资源投入 AI 浏览器 Dia ...",
+    "id": "8xS717MwmGN",
+    "order": 1792732511418,
+    "createdAt": "2026-10-23T05:15:11.418Z",
+    "publishDate": "2026-10-23T05:15:11.418Z",
+    "title": "Arc 浏览器 2026 年 12 月 22 日停运，团队转向 AI 浏览器 Dia",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 13:15:11",
+    "uuid": "32a07c02-911a-4672-b617-8f7b1c84365a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "印度信实工业旗下数字服务子公司 Jio Platforms 规模 32 亿美元的 IPO，在投标第三天印度标准时间上午 10:18 时已获 6.05 倍认购。",
+    "id": "8xQc7UCIVAa",
+    "order": 1792732511427,
+    "createdAt": "2026-10-23T05:15:11.427Z",
+    "publishDate": "2026-10-23T05:15:11.427Z",
+    "title": "信实 Jio Platforms 32 亿美元 IPO 第三日认购倍数达 6.05 倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 13:15:11",
+    "uuid": "0e3934ba-bdb5-4267-92de-292e5c61a2d0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "联讯仪器面向 800G、1.6T 高速光模块测试的采样示波器、误码分析仪、时钟恢复单元等核心测试仪器为 2026 年交付的主力产品，市场需求旺盛，公司生产扩充正按业务需求推进，相关生产建设按既定安排实施，整体进展符合预期。",
+    "id": "8xSIRU7jOJw",
+    "order": 1792732511429,
+    "createdAt": "2026-10-23T05:15:11.429Z",
+    "publishDate": "2026-10-23T05:15:11.429Z",
+    "title": "联讯仪器：市场需求旺盛 公司生产扩充正按业务需求推进",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 13:15:11",
+    "uuid": "023179c8-5add-4af0-a879-b09ef1072ee0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "首批 18 只主动 ETF 发售首日，仅上午合计募集规模已超 70 亿元 ...",
+    "id": "8xSGfH1l7nl",
+    "order": 1792731911708,
+    "createdAt": "2026-10-23T05:05:11.708Z",
+    "publishDate": "2026-10-23T05:05:11.708Z",
+    "title": "主动 ETF 首日发行 仅上午时段募集规模已超 70 亿",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 13:05:11",
+    "uuid": "7e7152b3-ebc9-4acb-9b66-268fd80d3d8e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "当地时间 10 月 22 日，英伟达 CEO 黄仁勋在德国柏林的英伟达 GPU 技术大会期间接受采访，被问及是否考虑与中国长鑫存储合作时称持开放态度，他表示几乎整个世界的供应链都在某个环节和中国公司合作，中国在底层基础设施技术方面表现出色，没有国家的制造业比中国更强 ...",
+    "id": "8xSCSdSTEeP",
+    "order": 1792731911710,
+    "createdAt": "2026-10-23T05:05:11.710Z",
+    "publishDate": "2026-10-23T05:05:11.710Z",
+    "title": "黄仁勋回应与长鑫存储合作：持开放态度 称没有国家制造业比中国更强",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 13:05:11",
+    "uuid": "d8715795-5944-418e-9736-3ba09f2f2693"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "中际旭创披露近期生产经营情况，目前生产经营、供应链均稳定，产能利用率充足，在手订单饱满，下游需求高景气 ...",
+    "id": "8xSH16TS6Ss",
+    "order": 1792731312433,
+    "createdAt": "2026-10-23T04:55:12.433Z",
+    "publishDate": "2026-10-23T04:55:12.433Z",
+    "title": "中际旭创公告披露近期生产经营情况：在手订单饱满 产品价格体系健康",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 12:55:12",
+    "uuid": "d9262464-5f39-4070-a94d-a83dc4430521"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "天孚通信发布公告称公司长期专注光互连领域，业务覆盖无源及有源光器件等方向，与全球头部光模块厂商及 AI 算力基础设施厂商建立长期深度合作关系，紧跟行业产品高速率迭代趋势加大研发投入，CPO 配套领域相关产品已稳定量产交付，目前公司生产经营、主营业务开展均正常，在手订单充足，内外部经营环境未发生重大异常变化。",
+    "id": "8xSH1ArfQCl",
+    "order": 1792731311268,
+    "createdAt": "2026-10-23T04:55:11.268Z",
+    "publishDate": "2026-10-23T04:55:11.268Z",
+    "title": "天孚通信披露近期生产经营情况：主营业务正常在手订单充足",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 12:55:11",
+    "uuid": "2b24574f-66c0-4462-9306-bb5042d99d39"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" }
+    ],
+    "summary": "三星电子已启动美国得克萨斯州泰勒市 1 号晶圆厂的后续设备投资，推进量产前最后阶段布局 ...",
+    "id": "8xSGdNtNysn",
+    "order": 1792731025771,
+    "createdAt": "2026-10-23T04:50:25.771Z",
+    "publishDate": "2026-10-23T04:50:25.771Z",
+    "title": "三星泰勒 1 号晶圆厂启动后续设备投资 冲刺 2 纳米量产",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 12:50:25",
+    "uuid": "43d5c350-9f36-4998-9347-8f116d96183f"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" }
