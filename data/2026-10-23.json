@@ -1,6 +1,178 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "MINIMAX 发布港交所公告称，已依据商务部及科技部 2026 年第 48 号公告相关要求，顺利完成若干近期已发布及预期将发布的模型的开源及海外授权使用所需的商务部技术出口登记手续。",
+    "id": "8xSxrlrpk1t",
+    "order": 1792767017746,
+    "createdAt": "2026-10-23T14:50:17.746Z",
+    "publishDate": "2026-10-23T14:50:17.746Z",
+    "title": "MINIMAX 完成模型开源及海外授权所需商务部技术出口登记",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 22:50:17",
+    "uuid": "39120464-4dc7-4641-9918-ebac50022df2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国证监会国际合作司发布深圳市晶存科技股份有限公司境外发行上市及境内未上市股份全流通备案通知书，公司拟发行不超过 13053800 股境外上市普通股并在香港联合交易所上市，公司 40 名股东拟将所持合计 102160000 股境内未上市股份转为境外上市股份并在香港联合交易所上市流通。",
+    "id": "8xSfI4zNwJs",
+    "order": 1792766422402,
+    "createdAt": "2026-10-23T14:40:22.402Z",
+    "publishDate": "2026-10-23T14:40:22.402Z",
+    "title": "晶存科技港股 IPO 获中国证监会备案",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 22:40:22",
+    "uuid": "fadd67b7-5a37-4ee4-8915-a1f977ebaa81"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "会议要求各单位以实施新一轮安全质量提升行动为抓手，固化上一轮提升行动良好实践，进一步提高核电安全质量管理水平，以核电高水平安全保障高质量发展，重点要做好四方面工作：一是端口前移加强源头治理，加快核电设计标准化进程，推进模块化施工与智慧工地建设，实现核电工程质量管理提档升级，全面提升核电工程建设质量 ...",
+    "id": "8xSv0UKx6aQ",
+    "order": 1792765511110,
+    "createdAt": "2026-10-23T14:25:11.110Z",
+    "publishDate": "2026-10-23T14:25:11.110Z",
+    "title": "国家能源局召开新一轮核电行业安全质量提升行动动员启动会议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 22:25:11",
+    "uuid": "f4006b80-3132-4cc2-9582-da95a53198d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "美国能源部宣布批准从战略石油储备中紧急交换最多 40 万桶原油，以应对路易斯安那州菲利普斯 66 查尔斯湖炼油厂的原油供应中断问题。",
+    "id": "8xSv0IxZuM5",
+    "order": 1792764912606,
+    "createdAt": "2026-10-23T14:15:12.606Z",
+    "publishDate": "2026-10-23T14:15:12.606Z",
+    "title": "美国能源部批准从战略石油储备中紧急交换最多 40 万桶原油",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 22:15:12",
+    "uuid": "57e94513-8788-4244-8a32-9197c3b1b51e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "以预测市场闻名的纽约公司 Kalshi 正深化与传统金融交易所的竞争，计划 12 月推出分别追踪美国消费者价格指数和核心通胀指标的交易所交易期货合约，这类合约将是市场上唯一直接与 CPI 挂钩的期货产品 ...",
+    "id": "8xStDWIM0Id",
+    "order": 1792764031589,
+    "createdAt": "2026-10-23T14:00:31.589Z",
+    "publishDate": "2026-10-23T14:00:31.589Z",
+    "title": "Kalshi 拟推出通胀挂钩期货市场 进军华尔街",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 22:00:31",
+    "uuid": "9bf4f40d-eb3b-4ae1-bc88-06ce102b448a"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "千问 Go。上线接入阿里云 AI 应用生产平台秒悟的新功能我的应用，用户无需编程基础，说出想法即可搭建可保存更新数据、支持分享的专属应用，覆盖学习、户外运动、周末出游、亲子陪伴、健身约课等多场景，结合云端 Pro 能力获权后还可调用多平台个人数据生成更个性化工具 ...",
+    "id": "8xStvbod07m",
+    "order": 1792763424384,
+    "createdAt": "2026-10-23T13:50:24.384Z",
+    "publishDate": "2026-10-23T13:50:24.384Z",
+    "title": "千问 Go! 上线「我的应用」功能，无需编程即可搭建专属应用",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 21:50:24",
+    "uuid": "5cc7a42c-1732-4f7c-bedb-f6312e4a505d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "Anthropic 表示已调查英国人工智能安全研究所 8 月 4 日发布的报告，深入研究了 Claude Mythos 5 的相关行为，指出 Mythos 表现出的相关行为本应触发安全防护机制，将该行为定性为一次严重的 AI 对齐失败，同时说明较新版本的模型主动发起攻击的可能性更低，强调人工智能能力的提升应当循序渐进，其内部研究模型能够持续遵循这一原则。",
+    "id": "8xSstJkUZJk",
+    "order": 1792763114070,
+    "createdAt": "2026-10-23T13:45:14.070Z",
+    "publishDate": "2026-10-23T13:45:14.070Z",
+    "title": "Anthropic 调查英 AI 安全研究所报告 认定 Claude Mythos 5 对齐失败",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 21:45:14",
+    "uuid": "3ef94cfb-a690-47de-88a6-da2048551622"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "腾讯网" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "Linux 基金会旗下的 Agentic AI Foundation 一次性迎来四个新托管项目，分别是 Anthropic 贡献的 Agent Skills、OpenAI 贡献的 Open Responses、Hugging Face 贡献的 OpenEnv、阿里贡献的 OpenSandbox，覆盖 AI Agent 获取技能、调用模型、训练到执行任务的多个关键环节，AAIF 托管项目总数增至 10 个 ...",
+    "id": "8xSjvmMU6QQ",
+    "order": 1792763114136,
+    "createdAt": "2026-10-23T13:45:14.136Z",
+    "publishDate": "2026-10-23T13:45:14.136Z",
+    "title": "四家企业四项基础设施入驻 Linux 基金会旗下 AAIF",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 21:45:14",
+    "uuid": "584f1214-4304-4d6f-89e2-cd15da648e28"
+  },
+  {
+    "newsArray": [
+      { "siteName": "爱范儿" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "东风风神 L8 + 车型上市，限时置换价 12.99 万元-15.99 万元，共推出四款配置版本 ...",
+    "id": "8xSnX8oK8YE",
+    "order": 1792763113656,
+    "createdAt": "2026-10-23T13:45:13.656Z",
+    "publishDate": "2026-10-23T13:45:13.656Z",
+    "title": "东风风神 L8+ 上市：全球首搭天元智驾 T800，限时置换价 12.99 万元起",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 21:45:13",
+    "uuid": "7b9dbea9-75a2-46fd-864d-a8c5d287ef43"
+  },
+  {
+    "newsArray": [
+      { "siteName": "雷锋网" },
+      { "siteName": "智东西" },
+      { "siteName": "36Kr" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "国内首家通用存算一体架构 AI 大算力芯片公司亿铸科技完成超 10 亿元融资，资金将用于后续研发投入、产品迭代及产业化推进 ...",
+    "id": "8xSCSQKwrrT",
+    "order": 1792762820953,
+    "createdAt": "2026-10-23T13:40:20.953Z",
+    "publishDate": "2026-10-23T13:40:20.953Z",
+    "title": "AI 大算力芯片公司「亿铸科技」完成 10 亿 + 元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-23 21:40:20",
+    "uuid": "26d59c9a-3679-437c-a881-2f0b31d9c997"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "虎嗅网" },
       { "siteName": "界面" }
