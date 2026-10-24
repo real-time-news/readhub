@@ -1,6 +1,58 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "波音与美国佛罗里达州小型供应商 Vaero 的纠纷导致 777 货机停产近两个月，同时扰乱 767 系列含货机和 KC-46 空中加油机的生产 ...",
+    "id": "8xTaoLzmuv5",
+    "order": 1792800316707,
+    "createdAt": "2026-10-24T00:05:16.707Z",
+    "publishDate": "2026-10-24T00:05:16.707Z",
+    "title": "报道：波音与供应商纠纷已导致 777 货机停产近两个月",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-24 08:05:16",
+    "uuid": "610a9bc7-810e-4c7c-bccc-d46c1681f69b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "华尔街见闻" },
+      { "siteName": "央视新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "截至昨天，今年中欧班列东通道累计通行量达 6024 列，同比增长 40.3%，年内通行量首次突破 6000 列，创历史同期新高。",
+    "id": "8xSyx8fHBf2",
+    "order": 1792797912526,
+    "createdAt": "2026-10-23T23:20:20.036Z",
+    "publishDate": "2026-10-23T23:25:12.526Z",
+    "title": "中欧班列东通道年内通行量首破 6000 列 同比增超四成",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-24 07:20:20",
+    "uuid": "c19ae913-ad14-4337-8355-fcd31aa9b5e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "猎云网" },
+      { "siteName": "量子位" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "2026 科大讯飞全球 1024 开发者节举办，现场发布端云一体讯飞星火 X2.6、星辰 TaaS 平台、星火语音基座大模型 SparkAudio1.0、星火具身多模交互技术等多项 AI 创新成果 ...",
+    "id": "8xSTaEBNBaj",
+    "order": 1792794632728,
+    "createdAt": "2026-10-23T22:30:32.728Z",
+    "publishDate": "2026-10-23T22:30:32.728Z",
+    "title": "科大讯飞在 1024 开发者节发布多项 AI 成果 含星辰 TaaS 平台等",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-24 06:30:32",
+    "uuid": "5e4eeda2-2d34-46c4-82c0-fd30526c3d03"
+  },
+  {
+    "newsArray": [
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" },
       { "siteName": "财联社" }
