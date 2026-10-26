@@ -1,6 +1,153 @@
 [
   {
     "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "图灵奖得主杨立昆离开 Meta 创办的 AI 初创公司 AMI Labs 目前处于技术研发阶段，团队规模约 50 至 60 人，采用全球化布局，虽初期未获硅谷普遍认可，但已完成约 10.3 亿美元种子轮融资 ...",
+    "id": "8xXR8wOOrvW",
+    "order": 1793047515940,
+    "createdAt": "2026-10-26T20:45:15.940Z",
+    "publishDate": "2026-10-26T20:45:15.940Z",
+    "title": "杨立昆披露 AMI Labs 商业化路线：先发论文，落地工业，瞄准交互智能系统",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 04:45:15",
+    "uuid": "561fee2e-3e9a-4792-b939-f8d9181584b9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "铿腾电子第三季度调整后每股收益 2.11 美元、营收 16.3 亿美元，均高于市场预期，公司预计第四季度调整后每股收益为 2.19 至 2.25 美元，高于市场预期的 2.02 美元。",
+    "id": "8xYJnYVQA5w",
+    "order": 1793047222997,
+    "createdAt": "2026-10-26T20:40:22.997Z",
+    "publishDate": "2026-10-26T20:40:22.997Z",
+    "title": "铿腾电子第三季度调整后每股收益为 2.11 美元 高于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 04:40:22",
+    "uuid": "25269fe6-f47a-4323-b09f-6d518d4b1139"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "医药魔方" }],
+    "summary": "作为全球首个获批上市的 PD-1/VEGF 双抗，依沃西此前已在肺癌领域拿下三项适应症，是全球首个在 III 期研究中对比帕博利珠单抗取得阳性结果的药物，也是首个登陆 ASCO 全体大会的中国原创肺癌新药 ...",
+    "id": "8xXFLtquyH3",
+    "order": 1793044227185,
+    "createdAt": "2026-10-26T19:50:27.185Z",
+    "publishDate": "2026-10-26T19:50:27.185Z",
+    "title": "全球首个 PD-1/VEGF 双抗依沃西胆道癌 III 期研究获阳性结果",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 03:50:27",
+    "uuid": "aa20785f-23af-4ea9-985c-f4871d43ed80"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "近期全球科技股过去两周净卖出约 200 亿美元，抛售强度处于极端水平，TMT 板块卖出规模接近今年 7 月水平，纳斯达克 100 与标普 500 指数的波动率利差升至近五年高位，市场对科技股避险需求明显上升 ...",
+    "id": "8xXyNyjRBXz",
+    "order": 1793042716151,
+    "createdAt": "2026-10-26T19:25:16.151Z",
+    "publishDate": "2026-10-26T19:25:16.151Z",
+    "title": "高盛：全球科技股两周净卖出 200 亿美元，AI 融资风险升温",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 03:25:16",
+    "uuid": "8f7aba7f-344b-4310-8bc6-fe393e106051"
+  },
+  {
+    "newsArray": [
+      { "siteName": "daily.dev" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "Meta 提交混合证券储架发行申请。",
+    "id": "8xXgWpGD6x6",
+    "order": 1793041817316,
+    "createdAt": "2026-10-26T19:10:17.316Z",
+    "publishDate": "2026-10-26T19:10:17.316Z",
+    "title": "Meta 提交混合证券储架发行申请",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 03:10:17",
+    "uuid": "d55a2417-1061-44e4-b1cd-092f5ceada4e"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "Q Labs 提出名为 Dust 的零阶优化方法，无需反向传播即可完成 Transformer 预训练 ...",
+    "id": "8xXNv3DzWfZ",
+    "order": 1793040917836,
+    "createdAt": "2026-10-26T18:55:17.836Z",
+    "publishDate": "2026-10-26T18:55:17.836Z",
+    "title": "不用反向传播也能预训练 Transformer，Jeff Dean 投的公司出相关成果",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 02:55:17",
+    "uuid": "6b03a107-1384-4910-b935-89375ebfec52"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "可可矩阵发布机器人模型 CO01，提出「经验提示」方式，可将示范、失败经历、即时指导、目标图片等各类经验直接放入模型上下文，无需为新任务重新训练，大幅降低机器人适配与部署成本，用户也可通过示范和指点教机器人做事，使用中积累的经验还能持续推动模型改进 ...",
+    "id": "8xYE5MA8Uhh",
+    "order": 1793040915433,
+    "createdAt": "2026-10-26T18:55:15.433Z",
+    "publishDate": "2026-10-26T18:55:15.433Z",
+    "title": "可可矩阵 COCO Matrix 发布 CO01 模型：言传身教，让机器人边做边学",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 02:55:15",
+    "uuid": "dafacb80-b37f-4d24-89b0-7bea6d071929"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "36Kr" }],
+    "summary": "近期数学界因商业 AI 介入科研引发巨大震荡：OpenAI 放出 700 余篇 AI 生成的未解决数学问题半成品文稿，陶哲轩使用 AI 工具协助修订其中相关数论难题的文稿并发起社区共建，此举引发学界关于学者是否该无偿为商业 AI 成果善后的激烈争论 ...",
+    "id": "8xXp53ybcTQ",
+    "order": 1793040915437,
+    "createdAt": "2026-10-26T18:55:15.437Z",
+    "publishDate": "2026-10-26T18:55:15.437Z",
+    "title": "ChatGPT 助力攻克 26 年数学猜想，千名数学家联名拒为商业 AI 出力",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 02:55:15",
+    "uuid": "9e501c5c-ea3c-483c-87d9-81e42ebfa495"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "清华大学与新加坡国立大学研究者提出 ParallelWorld 具身智能框架，将多步预演引入高层规划，让智能体在执行动作前探索多条候选行动路径，比较不同选择的后续观察与任务进展再决策，采用预演与执行循环结合的滚动规划机制，可自适应调整搜索的宽深度，将相关操作任务成功率从 56% 提升至 83% ...",
+    "id": "8xXNuhCex18",
+    "order": 1793040915437,
+    "createdAt": "2026-10-26T18:55:15.437Z",
+    "publishDate": "2026-10-26T18:55:15.437Z",
+    "title": "清华等团队提出具身智能预演框架 ParallelWorld 提升机器人任务成功率",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 02:55:15",
+    "uuid": "82a7140c-f626-4c1d-af0d-1031045bfd88"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "针对传统 JEPA 学到的隐表征无法对应真实观测生成隐变量的问题，来自多所机构的研究者提出无需重建观测、解码器与标签的 Dependency-Sparsity Regularization（DSReg）方法，可直接加载现有预训练 LeJEPA checkpoint，通过对白化后的 JEPA 表征寻找最优正交旋转，拆分混合的隐变量，在宽松的 Structural Diversity 假设下可理论保证恢复出与真实世界变量一一对应的隐表征维度，且原有预测能力不受损失 ...",
+    "id": "8xXng51eAnH",
+    "order": 1793040620862,
+    "createdAt": "2026-10-26T18:50:20.862Z",
+    "publishDate": "2026-10-26T18:50:20.862Z",
+    "title": "让 JEPA 真正理解世界背后的生成机制，DSReg 让世界模型的每一维都有了真实含义",
+    "type": "topic",
+    "up": false,
+    "date": "2026-10-27 02:50:20",
+    "uuid": "7252b152-e55c-4704-970f-4c4b3ff2e725"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "华尔街见闻" },
       { "siteName": "快科技" }
