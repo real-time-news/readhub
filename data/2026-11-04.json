@@ -1,6 +1,188 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "手机中国" },
+      { "siteName": "速途网" }
+    ],
+    "summary": "国行版 Apple 智能随 iOS 27.3 Beta1 正式上线，用户升级对应版本后可在设置中找到「Apple 智能与 Siri」入口，自主选择开通接入的阿里千问扩展服务，相关调用由用户自主决定是否授权，用户请求及千问回复不会被用于模型训练 ...",
+    "id": "8xljdRjDiZ6",
+    "order": 1793805013967,
+    "createdAt": "2026-11-04T15:10:13.967Z",
+    "publishDate": "2026-11-04T15:10:13.967Z",
+    "title": "国行 Apple 智能整合千问服务 附 iOS 27.3 Beta 升级指南",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 23:10:13",
+    "uuid": "aecbe4ed-6586-40ea-b985-6431e41cc521"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "苹果大涨超 5%，报 348.56 美元，总市值再度突破 5 万亿美元，重返美股市值第一 ...",
+    "id": "8xmtS8O1s09",
+    "order": 1793805012446,
+    "createdAt": "2026-11-04T15:10:12.446Z",
+    "publishDate": "2026-11-04T15:10:12.446Z",
+    "title": "苹果大涨超 5%，重返美股市值第一",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 23:10:12",
+    "uuid": "d3120552-9386-41d8-a114-2e633cbaea1d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "techradar.com" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软宣布面向 8GB 内存配置的 Windows 11 电脑推送一系列系统级性能与内存优化，覆盖日常办公、浏览网页和轻度多任务场景，提升入门设备流畅体验 ...",
+    "id": "8xll2C6OM4N",
+    "order": 1793804117137,
+    "createdAt": "2026-11-04T14:55:17.137Z",
+    "publishDate": "2026-11-04T14:55:17.137Z",
+    "title": "微软优化 Win11 8GB 设备：多任务提速最高 40% 内存压力最高减 900MB",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 22:55:17",
+    "uuid": "2dfdcdd8-3a69-49a8-974e-310ef06862ef"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米自研视觉生成框架 WorldCast 已搭载于 REDMI K100，可将静态照片转化为带环绕、推拉等运镜效果的 3D 视频，生成过程中能保持人物相关特征一致，该功能与其他几项功能共同构成该机的 AI 影像玩法矩阵 ...",
+    "id": "8xmbyBjDLPB",
+    "order": 1793803243591,
+    "createdAt": "2026-11-04T14:40:43.591Z",
+    "publishDate": "2026-11-04T14:40:43.591Z",
+    "title": "REDMI K100 搭载小米 WorldCast 技术：一键生成 3D 运镜视频",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 22:40:43",
+    "uuid": "e8382b9e-325e-4aa6-83e9-bf162dbb5b23"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "美国财政部调整未来国债拍卖规模相关表述，分析师预计此举将为增加短中期国债发行规模铺路，或缩减长期国债拍卖规模 ...",
+    "id": "8xmp9mjHbtO",
+    "order": 1793801431189,
+    "createdAt": "2026-11-04T14:10:31.189Z",
+    "publishDate": "2026-11-04T14:10:31.189Z",
+    "title": "美国财政部调整措辞 为调整拍卖规模敞开大门",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 22:10:31",
+    "uuid": "c93e61d1-08f3-47fe-ac1d-8cf6ec762a0d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "高通宣布 SpaceX 选择其 Dragonwing 用于 5G 网络，以加速星链项目。",
+    "id": "8xmp9zPYUC8",
+    "order": 1793801112686,
+    "createdAt": "2026-11-04T14:05:12.686Z",
+    "publishDate": "2026-11-04T14:05:12.686Z",
+    "title": "SpaceX 选择高通以加速「星链」项目",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 22:05:12",
+    "uuid": "be067634-4b7a-419d-baa5-94fd5ca50d16"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "原中兴手机微信公众号更名为中兴终端，账号运营主体同步由中兴通讯股份有限公司变更为上海申启纪元智能终端有限责任公司。",
+    "id": "8xmo7Ulfx5P",
+    "order": 1793800517429,
+    "createdAt": "2026-11-04T13:55:17.429Z",
+    "publishDate": "2026-11-04T13:55:17.429Z",
+    "title": "中兴手机公众号更名，终端业务运营主体调整为上海申启纪元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 21:55:17",
+    "uuid": "53c7fecf-710b-460b-aa6a-edbc65a689a0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "华为云智果 AgentArts 智能体平台近日通过中国信通院组织的可信 AI 企业级智能体平台评估，是首个通过该项测评并获得当前最高 4 + 级的产品。",
+    "id": "8xmhebl4BUj",
+    "order": 1793799913691,
+    "createdAt": "2026-11-04T13:45:13.691Z",
+    "publishDate": "2026-11-04T13:45:13.691Z",
+    "title": "华为云智果 AgentArts 获中国信通院最高等级评级 为首个通过测评产品",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 21:45:13",
+    "uuid": "9a2e0771-d638-4894-acd2-aada2259418f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "界面" },
+      { "siteName": "界面" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "每经网" }
+    ],
+    "summary": "天山股份公告收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案 ...",
+    "id": "8xmn3QNp62x",
+    "order": 1793799319943,
+    "createdAt": "2026-11-04T13:35:19.943Z",
+    "publishDate": "2026-11-04T13:35:19.943Z",
+    "title": "天山股份：因涉嫌信息披露违法违规 证监会决定对公司立案",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 21:35:19",
+    "uuid": "0c3b503d-8df5-4665-9dbd-84eb0f763d8f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" },
+      { "siteName": "网易科技" }
+    ],
+    "summary": "近期字节扣子企业版、腾讯元器等多款 AI 产品接连宣布停服，国内大厂及 AI 创业公司已累计关停或合并数十款 AI 产品 ...",
+    "id": "8xmi1GuJE4B",
+    "order": 1793798124458,
+    "createdAt": "2026-11-04T13:15:24.458Z",
+    "publishDate": "2026-11-04T13:15:24.458Z",
+    "title": "多家大厂及 AI 独角兽关停合并数十款 AI 产品 试错潮退去",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-04 21:15:24",
+    "uuid": "b5cdf561-e97f-4045-ba66-39bec0940353"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "格隆汇" },
       { "siteName": "新浪科技" },
