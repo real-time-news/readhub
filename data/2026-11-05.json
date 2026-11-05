@@ -1,6 +1,180 @@
 [
   {
     "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "韩国交易所启动 SIDECAR 机制，暂停 KOSPI 程序化卖盘。",
+    "id": "8xncTbkevEf",
+    "order": 1793842525667,
+    "createdAt": "2026-11-05T01:35:25.667Z",
+    "publishDate": "2026-11-05T01:35:25.667Z",
+    "title": "韩国交易所启动 SIDECAR 机制，暂停 KOSPI 程序化卖盘",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 09:35:25",
+    "uuid": "fc38c4b9-98cb-431b-8afc-7f5dd71339f5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "欧盟委员会正式启动欧洲芯片设计平台，欧盟及其成员国将投入 5.25 亿欧元资金支持新一代欧洲芯片设计公司，该平台将从提供相关工具服务与制造能力、分档给予资金支持、通过欧洲芯片能力中心网络开展指导三方面扶持芯片设计企业 ...",
+    "id": "8xmwI0LesFv",
+    "order": 1793841917288,
+    "createdAt": "2026-11-05T01:25:17.288Z",
+    "publishDate": "2026-11-05T01:25:17.288Z",
+    "title": "欧盟启动欧洲芯片设计平台，以 5.25 亿欧元支持中小型半导体业者发展",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 09:25:17",
+    "uuid": "77848a28-003b-4989-bd05-b9785a4dba65"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "苯乙烯、纯苯、聚丙烯期货主力合约触及跌停。",
+    "id": "8xnbk0JzrMT",
+    "order": 1793841917291,
+    "createdAt": "2026-11-05T01:25:17.291Z",
+    "publishDate": "2026-11-05T01:25:17.291Z",
+    "title": "快讯：苯乙烯、纯苯、聚丙烯期货主力合约触及跌停",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 09:25:17",
+    "uuid": "9e4c0651-3904-4807-b351-8e46483813f3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "20 家单位联合发布《智能体发展自律公约》，提出通过相关技术手段确保智能体行为合规，抵制利用智能体实施算法压榨、黑灰产等行为 ...",
+    "id": "8xmTjVpgqti",
+    "order": 1793841014583,
+    "createdAt": "2026-11-05T01:10:14.583Z",
+    "publishDate": "2026-11-05T01:10:14.583Z",
+    "title": "20 家单位联合发布《智能体发展自律公约》",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 09:10:14",
+    "uuid": "397d6755-2566-4c4f-9f9d-0dde49c7ec13"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "maomu.com" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "Neuralink 第 22 位渐冻症植入者 Zach 通过脑中植入的 N1 脑机接口，仅凭意念就能操控扫地机器人公司 Matic 的产品完成清扫，重新拿回了部分生活主动权 ...",
+    "id": "8xnX5TAEr2K",
+    "order": 1793841013055,
+    "createdAt": "2026-11-05T01:10:13.055Z",
+    "publishDate": "2026-11-05T01:10:13.055Z",
+    "title": "Neuralink 植入者用意念操控 Matic 扫地机器人",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 09:10:13",
+    "uuid": "0380b30b-6fc5-40a9-8f0f-a36af0d28581"
+  },
+  {
+    "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "和黄医药宣布，其新型高选择性口服脾酪氨酸激酶抑制剂索乐匹尼布获美国 FDA 授予用于治疗自身免疫性溶血性贫血的孤儿药资格认定，这是该药继 2026 年 10 月斩获原发性免疫性血小板减少症孤儿药资格后的第二项美国 FDA 孤儿药资格 ...",
+    "id": "8xnYtS8g3Ip",
+    "order": 1793840422721,
+    "createdAt": "2026-11-05T01:00:22.721Z",
+    "publishDate": "2026-11-05T01:00:22.721Z",
+    "title": "和黄医药索乐匹尼布获 FDA 孤儿药资格认定用于治疗自身免疫性溶血性贫血",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 09:00:22",
+    "uuid": "37e46141-da4c-425c-a864-35e26a4fdf19"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "中国科技网" }
+    ],
+    "summary": "该校机械科学与工程学院黄禹教授团队与上海空间电源研究所联合研制的舱外激光维修装置，近期在轨完成我国空间站舱外激光切割维护试验，这是国际上首次在数百公里外的太空极端环境下通过遥操作开展的激光精密切割试验，标志着我国在轨运维与装备制造技术领域取得重大突破。",
+    "id": "8xmjoA5SKDR",
+    "order": 1793840117399,
+    "createdAt": "2026-11-05T00:55:17.399Z",
+    "publishDate": "2026-11-05T00:55:17.399Z",
+    "title": "我国实现世界首次舱外遥操作激光精密切割试验",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 08:55:17",
+    "uuid": "c6a1fc32-81d6-40f9-89b2-4d16a116dccc"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "月之暗面在 Hugging Face 平台开放 Kimi K3.1 Pro 模型权重，该模型在 Agent Arena 智能体排行榜中位列开放权重模型第一、全部参评模型第 13 位，工作、编程与聊天三类均居开放模型首位 ...",
+    "id": "8xnYAhIupi2",
+    "order": 1793839218821,
+    "createdAt": "2026-11-05T00:40:18.820Z",
+    "publishDate": "2026-11-05T00:40:18.821Z",
+    "title": "2.8 万亿参数 Kimi K3.1 Pro 开放权重，登顶 Agent Arena 开源模型榜",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 08:40:18",
+    "uuid": "5f4a02f3-2d7b-4df1-82fb-3167ed03a623"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "小米近期在海外面向数十款覆盖小米、REDMI、Poco 品牌的智能手机推送基于 Android 17 的 HyperOS 4，采用分阶段分地区方式部署，整体推送持续至 12 月底 ...",
+    "id": "8xm7CzINlS5",
+    "order": 1793839218823,
+    "createdAt": "2026-11-05T00:40:18.823Z",
+    "publishDate": "2026-11-05T00:40:18.823Z",
+    "title": "小米开启 HyperOS 4 海外推送 第二批计划本月中旬展开",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 08:40:18",
+    "uuid": "5868ed47-6946-4fca-bd83-6931b6e4c8a3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "自 11 月 5 日起，国内航线旅客运输燃油附加费征收标准调整，800 公里（含）以下航段每位成人旅客收取 80 元，800 公里以上航段每位成人旅客收取 140 元，较此前分别上涨 30 元和 50 元 ...",
+    "id": "8xnXRs2fVKr",
+    "order": 1793838916983,
+    "createdAt": "2026-11-05T00:35:16.983Z",
+    "publishDate": "2026-11-05T00:35:16.983Z",
+    "title": "11 月 5 日起国内航线燃油附加费正式上调",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-05 08:35:16",
+    "uuid": "f4ea19a5-dcc7-4175-bc5b-548585a32ff1"
+  },
+  {
+    "newsArray": [
       { "siteName": "财联社" },
       { "siteName": "华尔街见闻" },
       { "siteName": "华尔街见闻" }
