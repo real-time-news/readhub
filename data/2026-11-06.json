@@ -1,0 +1,55 @@
+[
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "英伟达指出受 AI 模型规模扩大等因素影响，GPU 内存压力持续上升，HBM 供应趋紧、价格上涨，提出通过 GPU、CPU、网络、存储及软件协同设计提升内存使用效率，而非单纯增加 GPU 内存容量，具体可通过低精度格式压缩模型权重和 KV Cache、转移不活跃上下文至低成本存储层、多 GPU 分布式部署等方式释放 HBM 空间 ...",
+    "id": "8xoe2dyYhGc",
+    "order": 1793895915354,
+    "createdAt": "2026-11-05T16:25:15.354Z",
+    "publishDate": "2026-11-05T16:25:15.354Z",
+    "title": "英伟达提出 AI 内存全栈协同设计方案，Vera Rubin 平台推理吞吐量最高提 30 倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-06 00:25:15",
+    "uuid": "d56a993d-61ef-4079-9e0e-55a7fb2c5e4c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" }
+    ],
+    "summary": "苹果将于 11 月 6 日正式发售五款新品，分别是配备 OLED 显示屏和 A20 Pro 芯片的 iPad mini、搭载 M6 芯片的 iMac、搭载 M6 芯片的 14 英寸 MacBook Pro，以及配备 OLED 触控屏的 14 英寸和 16 英寸 MacBook Pro，相关产品此前已开启预订 ...",
+    "id": "8xoMZEFUrL3",
+    "order": 1793895915349,
+    "createdAt": "2026-11-05T16:25:15.349Z",
+    "publishDate": "2026-11-05T16:25:15.349Z",
+    "title": "苹果五款新品明日发售 含首款触控屏 MacBook Pro",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-06 00:25:15",
+    "uuid": "cc054745-3961-4002-96d2-d42c06ae855a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "站长之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "iPad mini 8 正式开售，国行起售价 5499 元，分无线网络版和仅支持中国联通 eSIM 的蜂窝版 ...",
+    "id": "8xmzsmaVQb9",
+    "order": 1793895324815,
+    "createdAt": "2026-11-05T16:15:24.815Z",
+    "publishDate": "2026-11-05T16:15:24.815Z",
+    "title": "iPad mini 8 正式开售 搭载 A20 Pro 芯片 起售价 5499 元配 60Hz 屏",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-06 00:15:24",
+    "uuid": "62383d4d-77d8-498e-bb85-ca49d7a19a84"
+  }
+]
