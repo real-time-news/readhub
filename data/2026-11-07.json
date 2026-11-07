@@ -1,6 +1,180 @@
 [
   {
     "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "虎嗅网" },
+      { "siteName": "动脉网" }
+    ],
+    "summary": "2026 年 11 月 4 日晚间，赣州和美药业在招股结束当日宣布延迟全球发售及上市，退回全部申请股款，后续仍有重启上市可能 ...",
+    "id": "8xqqtQjxMTY",
+    "order": 1794012064852,
+    "createdAt": "2026-11-07T00:41:04.852Z",
+    "publishDate": "2026-11-07T00:41:04.852Z",
+    "title": "从千倍认购到 0.9 倍，这家 Biotech 把 IPO 停在了招股结束当天",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 08:41:04",
+    "uuid": "c52f6ac1-086a-4198-a63f-cded5fb73885"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Anthropic 发布研究拆解 Claude 智能体记忆系统实现逻辑，借鉴人脑睡眠巩固记忆的机制提出名为 Dreaming 的离线计算范式，在交互空闲时段让 AI 复盘历史日志、修正记忆错误、沉淀结构化知识，解决长周期任务下智能体跨会话记忆混乱等痛点 ...",
+    "id": "8xqpT45H1r3",
+    "order": 1794011502284,
+    "createdAt": "2026-11-07T00:31:42.284Z",
+    "publishDate": "2026-11-07T00:31:42.284Z",
+    "title": "Anthropic 揭秘 Claude 智能体记忆架构：引入「做梦」离线机制",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 08:31:42",
+    "uuid": "b7309b33-dcb6-4792-89a0-6b0b47683878"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AI 编程工具 Cursor 推出与智能体实时语音聊天功能，开发者可通过语音与编码智能体双向对话，口头提代码修改需求、询问任务进展等，智能体可同步在后台完成编码工作 ...",
+    "id": "8xqo1rV8Hwa",
+    "order": 1794011502361,
+    "createdAt": "2026-11-07T00:31:42.361Z",
+    "publishDate": "2026-11-07T00:31:42.361Z",
+    "title": "AI 编程工具 Cursor 推出与智能体实时语音聊天功能",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 08:31:42",
+    "uuid": "5fd541a6-dab2-408e-98e9-9bde73f3470e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "界面" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "快科技" },
+      { "siteName": "央视新闻" }
+    ],
+    "summary": "7 时 37 分，谷神星二号遥三运载火箭在酒泉卫星发射中心发射升空，顺利将搭载的 4 颗卫星送入预定轨道，飞行试验任务取得圆满成功。",
+    "id": "8xqrbSvImTC",
+    "order": 1794011498080,
+    "createdAt": "2026-11-07T00:31:38.080Z",
+    "publishDate": "2026-11-07T00:31:38.080Z",
+    "title": "谷神星二号遥三运载火箭发射成功",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 08:31:38",
+    "uuid": "517e6188-b859-4a36-ba65-853a0b587ab9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "谷歌母公司 Alphabet 第三季度首次买入约 297.7 万股高通股票，持仓市值约 5.48 亿美元，占高通总股本 0.5%，在其持仓组合中市值排名第六 ...",
+    "id": "8xqmxRbAjZe",
+    "order": 1794010854723,
+    "createdAt": "2026-11-07T00:20:54.723Z",
+    "publishDate": "2026-11-07T00:20:54.723Z",
+    "title": "Alphabet 斥资约 5.48 亿美元建仓高通，未明确关联 AI 芯片押注",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 08:20:54",
+    "uuid": "558d9500-e2f9-439e-b108-bab88ecc516f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "AI 编程协作工具 Amp 推出 Spaces 功能，用户无需手动创建管理多智能体线程，只需与主 Agent 对话，由其理解需求、拆解任务并自动生成协调其他 Agent 线程 ...",
+    "id": "8xqng3AhR1i",
+    "order": 1794010854724,
+    "createdAt": "2026-11-07T00:20:54.724Z",
+    "publishDate": "2026-11-07T00:20:54.724Z",
+    "title": "AI 编程工具 Amp 推出 Spaces：自主编排协调 Agent 工作",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 08:20:54",
+    "uuid": "2668b15e-82e3-46fe-b3b3-2af9de4fc300"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "紫光展锐推动 AI Agent 从 Demo 走向生产场景，提出 Agent 落地生产的「4+1」标准，即安全优先，兼顾稳定、可观测、可度量，叠加人机协同 ...",
+    "id": "8xqpSXMrULr",
+    "order": 1794009050814,
+    "createdAt": "2026-11-06T23:50:50.814Z",
+    "publishDate": "2026-11-06T23:50:50.814Z",
+    "title": "AI 帮芯片研发查问题、做分析：紫光展锐把「能演示」做到了「进生产」",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 07:50:50",
+    "uuid": "c2b4e473-a3a4-490a-bc9a-e7fae43a4b8f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "斯坦福大学启动数字大脑计划，汇集多院系研究人员，计划未来五年借助大规模高精度人脑成像数据与人工智能技术训练大脑基础模型，突破传统神经科学研究局限，从预测单一脑系统反应走向预测全脑在复杂情境下的活动，覆盖感知、记忆、语言等多类认知任务 ...",
+    "id": "8xq5N4KSovC",
+    "order": 1794009050826,
+    "createdAt": "2026-11-06T23:50:50.826Z",
+    "publishDate": "2026-11-06T23:50:50.826Z",
+    "title": "斯坦福启动「数字大脑」计划：用 AI 模拟人脑，探索帕金森症等疾病治疗",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 07:50:50",
+    "uuid": "45a98556-b5f2-4f97-92cb-2349df9a0eeb"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "诺奖得主戴维・贝克获伦敦皇家学会克鲁恩奖章，其获奖演讲聚焦近一两年 AI 辅助蛋白质设计的突破性进展，指出该技术首次赋予人类在分子层面编程物质的能力，已形成清晰的技术发展阶梯 ...",
+    "id": "8xq5NALjKy4",
+    "order": 1794005479676,
+    "createdAt": "2026-11-06T22:51:19.676Z",
+    "publishDate": "2026-11-06T22:51:19.676Z",
+    "title": "AI 正在重新设计生命，David Baker 要用蛋白质造计算机和分子机器",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 06:51:19",
+    "uuid": "1113be8a-0c98-4900-b9cc-cdefa21dbfe4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "谷歌斥资约 5.48 亿美元购入芯片制造商高通近 300 万股股份，占高通总股本不到 0.5%，借此获得进军 AI 数据中心市场的高通的业务敞口 ...",
+    "id": "8xqgWvydSVW",
+    "order": 1794003915620,
+    "createdAt": "2026-11-06T22:25:15.620Z",
+    "publishDate": "2026-11-06T22:25:15.620Z",
+    "title": "谷歌斥资 5.48 亿美元买入高通股份",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-07 06:25:15",
+    "uuid": "fe93fd0c-819a-433f-b9ce-94a2d0b6e4b2"
+  },
+  {
+    "newsArray": [
       { "siteName": "金融界" },
       { "siteName": "IT 之家" },
       { "siteName": "华尔街见闻" }
