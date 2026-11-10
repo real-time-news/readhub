@@ -1,6 +1,181 @@
 [
   {
     "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "冲刺 IPO 的人工智能公司 Anthropic 推出两款底层能力一致的最强前沿模型 Claude Fable 5.2 与 Claude Mythos 5.2，二者差异在安全防护与开放权限，相比上一代版本速度提升、定价下调，在复杂软件工程、科研推理等多个领域表现突出，多项评测指标优于 OpenAI、谷歌同期前沿模型，同时优化了安全对齐机制 ...",
+    "id": "8xvotaf4cqn",
+    "order": 1794276032473,
+    "createdAt": "2026-11-10T02:00:32.473Z",
+    "publishDate": "2026-11-10T02:00:32.473Z",
+    "title": "冲刺 IPO 前夕 Anthropic 发布旗下当前最强新一代大模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 10:00:32",
+    "uuid": "8b453782-8dd0-4a69-b398-ccb56856f007"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中国台湾地区 10 月出口额同比增长 58.9%，单月金额历史上首次突破 900 亿美元。",
+    "id": "8xuk5L6SYHB",
+    "order": 1794276032607,
+    "createdAt": "2026-11-10T02:00:32.607Z",
+    "publishDate": "2026-11-10T02:00:32.607Z",
+    "title": "中国台湾地区 10 月出口额同比增长 58.9%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 10:00:32",
+    "uuid": "8fd3bd3e-6b2b-48ff-9423-0542d5ee66d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "近日，珠海稀宇极智科技有限公司成立，法定代表人为严奕骏，注册资本 500 万元人民币，经营范围含多类人工智能相关软件开发，由 MiniMax 关联公司上海稀宇极智科技有限公司全资持股。",
+    "id": "8xuaQpbxBQs",
+    "order": 1794275431333,
+    "createdAt": "2026-11-10T01:50:31.333Z",
+    "publishDate": "2026-11-10T01:50:31.333Z",
+    "title": "MiniMax 关联公司于珠海横琴成立新科技公司 注册资本 500 万",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 09:50:31",
+    "uuid": "5e722e0e-d179-4083-a704-6ce8488bd7bd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "站长之家" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "华为常务董事余承东发布预告视频，展示最新款小折电脑华为 MateBook Fold S。该新品采用类似手机的全新背屏设计，预计支持信息显示，展开后为 14.7 英寸显示屏 ...",
+    "id": "8xvtwnapZRh",
+    "order": 1794274824059,
+    "createdAt": "2026-11-10T01:40:24.059Z",
+    "publishDate": "2026-11-10T01:40:24.059Z",
+    "title": "余承东预告华为 MateBook Fold S 小折电脑即将发布，配全新背屏设计",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 09:40:24",
+    "uuid": "76e8fdc4-2b74-4bc0-82b4-adba5f944947"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "西方石油第三季度净销售额 65.7 亿美元，低于预期的 67.9 亿美元。每股收益 1.61 美元，调整后净利润 20 亿美元，高于预期的 14.5 亿美元 ...",
+    "id": "8xveshtloUM",
+    "order": 1794274238898,
+    "createdAt": "2026-11-10T01:30:38.898Z",
+    "publishDate": "2026-11-10T01:30:38.898Z",
+    "title": "西方石油第三季度净销售额 65.7 亿美元 调整后净利润超预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 09:30:38",
+    "uuid": "5e54916c-0c33-4635-af81-88cfd8e34541"
+  },
+  {
+    "newsArray": [
+      { "siteName": "aibase" },
+      { "siteName": "IT 之家" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "苹果开始为部分 Apple Intelligence 功能推出付费智能使用包，首个落地产品为音乐创作软件 Logic Pro，售价 49.99 美元 ...",
+    "id": "8xvWJ9HogKp",
+    "order": 1794274236030,
+    "createdAt": "2026-11-10T01:30:36.030Z",
+    "publishDate": "2026-11-10T01:30:36.030Z",
+    "title": "苹果推出 50 美元 AI 使用包：Logic Pro 率先支持付费扩容，有效期 12 个月",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 09:30:36",
+    "uuid": "59187497-29ce-4e10-9171-7d3cd8b5369b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "JBS 第三财季调整后 EBITDA 为 11.8 亿美元，低于预估的 13.3 亿美元。净营收为 227.4 亿美元，低于预估的 231.7 亿美元。",
+    "id": "8xvetG5aBsF",
+    "order": 1794273911211,
+    "createdAt": "2026-11-10T01:25:11.211Z",
+    "publishDate": "2026-11-10T01:25:11.211Z",
+    "title": "JBS 第三财季调整后 EBITDA 为 11.8 亿美元，低于预期",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 09:25:11",
+    "uuid": "8e3ecf39-0aeb-4a7a-a882-1de2d06428d3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "中国诚通相关负责人披露，目前集团统筹管理 9 只基金，总规模 7100 亿元，实缴超 3000 亿元，已累计完成投资项目 400 余个，投资交割超过 2500 亿元，带动社会资本 1.5 万亿元，实现资本放大 6.5 倍 ...",
+    "id": "8xvtZbImIH7",
+    "order": 1794273313660,
+    "createdAt": "2026-11-10T01:15:13.660Z",
+    "publishDate": "2026-11-10T01:15:13.660Z",
+    "title": "中国诚通 9 只基金总规模达 7100 亿元 资本放大 6.5 倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 09:15:13",
+    "uuid": "27f31f4a-64fc-4ced-95ae-c59e19d20c7e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "快科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "本田计划扩大在华车型对中国标准件的采用范围，重新审视部分超出当地市场需求的独有品质要求，摒弃过往部分统一标准下的品质过剩问题，以经中国市场验证的标准化零部件为基础平衡成本、品质与当地需求 ...",
+    "id": "8xuWW3fS1xS",
+    "order": 1794273313719,
+    "createdAt": "2026-11-10T01:15:13.719Z",
+    "publishDate": "2026-11-10T01:15:13.719Z",
+    "title": "本田扩大在华采用「中国标准件」日系供应商直面价格竞争",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 09:15:13",
+    "uuid": "c10a809a-ed85-4443-bb24-5dd20d4cb01a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "搜狐科技" },
+      { "siteName": "雷科技" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "iPhone Duo 发布前就有消息称苹果研究过 OPPO Find N 系列折叠屏铰链相关技术方案 ...",
+    "id": "8xufRRI8Flp",
+    "order": 1794273019049,
+    "createdAt": "2026-11-10T01:10:19.049Z",
+    "publishDate": "2026-11-10T01:10:19.049Z",
+    "title": "网传苹果曾研究 OPPO 铰链 iPhone Duo 部分机型现内屏故障",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-10 09:10:19",
+    "uuid": "b2a1bca7-3139-4d3f-a321-7e3c726467b7"
+  },
+  {
+    "newsArray": [
       { "siteName": "同花顺财经" },
       { "siteName": "财联社" },
       { "siteName": "格隆汇" }
