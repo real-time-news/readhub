@@ -1,6 +1,188 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "比亚迪辅助驾驶车型保有量超 419 万辆，其中十月销售 24.55 万辆，天神之眼辅助驾驶每天生成数据超 2.6 亿公里。",
+    "id": "8y2nwkMhhcO",
+    "order": 1794663622200,
+    "createdAt": "2026-11-14T13:40:22.200Z",
+    "publishDate": "2026-11-14T13:40:22.200Z",
+    "title": "比亚迪辅助驾驶车型保有量超 419 万辆",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 21:40:22",
+    "uuid": "19a6bb2a-dd62-4514-a5cf-d016175fc2ab"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "IT 之家" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "意大利数据保护机构针对 Meta 平台涉嫌未经安卓用户同意使用其视频和照片的行为，对 Meta 处以 8.05 亿欧元罚款。",
+    "id": "8y3K64Lv56J",
+    "order": 1794660022790,
+    "createdAt": "2026-11-14T12:40:22.790Z",
+    "publishDate": "2026-11-14T12:40:22.790Z",
+    "title": "Meta 被意大利罚款 8.05 亿欧元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 20:40:22",
+    "uuid": "dad511f9-c62e-4a37-835b-46c2eaa89a6f"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "医药魔方" }],
+    "summary": "2026 年国家医保药品目录与商业健康保险创新药品目录正式公布 ...",
+    "id": "8y33fx7KIc0",
+    "order": 1794657020076,
+    "createdAt": "2026-11-14T11:50:20.076Z",
+    "publishDate": "2026-11-14T11:50:20.076Z",
+    "title": "医保商保双目录出炉：CAR-T 破冰、ADC 加速、GLP-1 卷上加卷",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 19:50:20",
+    "uuid": "4ea01bc3-acf1-47dd-868e-493b38fa6a35"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "近期 Cursor 安全事件调查显示，攻击者获取其签发给 Fireworks 的访问密钥，复制共享存储中部分编程智能体链路追踪数据，利用其中未脱敏凭证访问部分内部 SaaS 工具 ...",
+    "id": "8y2kMrDAmJa",
+    "order": 1794654619706,
+    "createdAt": "2026-11-14T11:10:19.706Z",
+    "publishDate": "2026-11-14T11:10:19.706Z",
+    "title": "Cursor 披露安全事件调查：部分用户数据泄露",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 19:10:19",
+    "uuid": "d2727b05-c894-477e-a442-92dc9bff2ef0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "创业邦" },
+      { "siteName": "太平洋电脑网" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "曾被宣告停售、看似已被时代淘汰的磁带，近年迎来新发展：富士胶片宣布斥资百亿日元将磁带产能扩至五倍，多家数据存储企业也将磁带视作核心增长动力 ...",
+    "id": "8y11EYLEaCq",
+    "order": 1794654034336,
+    "createdAt": "2026-11-14T11:00:34.336Z",
+    "publishDate": "2026-11-14T11:00:34.336Z",
+    "title": "被宣判死刑近 20 年的磁带因冷数据存储需求重获发展",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 19:00:34",
+    "uuid": "e8fd0538-a6a5-4290-99ee-1c4fcad3b08c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "美国电动车初创公司 Slate Auto 上架限量售价 30 美元的 Rand McNally 2027 版纸质道路地图册，将其戏称为「原始导航系统」「无屏 GPS」，玩梗称其零启动时间、无订阅费、续航近乎无限，实则是普通纸质地图册 ...",
+    "id": "8y2xwjCSh0l",
+    "order": 1794652826610,
+    "createdAt": "2026-11-14T10:40:26.610Z",
+    "publishDate": "2026-11-14T10:40:26.610Z",
+    "title": "纯电皮卡取消车机导航 车企售 30 美元限量纸质地图配件",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 18:40:26",
+    "uuid": "7b6cbe6a-b5e0-4c36-af02-e476ddf00445"
+  },
+  {
+    "newsArray": [
+      { "siteName": "医药魔方" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "国家医保局公布 2026 年国家医保药品目录，东阳光药自主研发的 1 类创新降糖药奥洛格列净胶囊成功纳入。该药可单药治疗或联合二甲双胍，改善成人 2 型糖尿病患者的血糖控制 ...",
+    "id": "8y2nwXsdZuP",
+    "order": 1794652824728,
+    "createdAt": "2026-11-14T10:40:24.728Z",
+    "publishDate": "2026-11-14T10:40:24.728Z",
+    "title": "东阳光药奥洛格列净胶囊纳入国家医保药品目录",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 18:40:24",
+    "uuid": "4bde8fed-a4ba-45c9-8f43-7636e14e666b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "工业软件标准化技术委员会正加快推进工业操作系统标准工作组筹建，同步推进重点标准研制与验证应用，为工业操作系统规模化应用提供支撑 ...",
+    "id": "8y2TaDTFcYN",
+    "order": 1794651019565,
+    "createdAt": "2026-11-14T10:10:19.565Z",
+    "publishDate": "2026-11-14T10:10:19.565Z",
+    "title": "工信部：将筹备成立工业操作系统标准工作组",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 18:10:19",
+    "uuid": "89b9c56f-fb2e-4eb0-af2a-5590417964b2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "医药魔方" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "AI 智能体管理初创公司 LangChain 完成 3 亿美元 C 轮融资，估值达 30 亿美元 ...",
+    "id": "8y2EDIuLj7Y",
+    "order": 1794651019580,
+    "createdAt": "2026-11-14T10:10:19.580Z",
+    "publishDate": "2026-11-14T10:10:19.580Z",
+    "title": "AI 智能体管理平台 LangChain 完成 3 亿美元 C 轮融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 18:10:19",
+    "uuid": "75cbeb94-6d31-4cea-97a3-5fb6dfa4e842"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "快科技" },
+      { "siteName": "中国科技网" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "大型无人货运飞机 W5000 顺利完成试飞。该飞机由江苏常州研发制造，整机 22 万个零部件全部国产化，最大载重 5 吨，最远可飞 2600 公里 ...",
+    "id": "8y2hVxxqYo4",
+    "order": 1794650716086,
+    "createdAt": "2026-11-14T10:05:16.086Z",
+    "publishDate": "2026-11-14T10:05:16.086Z",
+    "title": "整机 22 万个零部件全部国产化 大型无人货运飞机 W5000 试飞成功",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-14 18:05:16",
+    "uuid": "a3cd75da-ba3a-4427-baae-f35d3b675bda"
+  },
+  {
+    "newsArray": [
       { "siteName": "IT 之家" },
       { "siteName": "财联社" },
       { "siteName": "IT 之家" }
