@@ -1,6 +1,179 @@
 [
   {
     "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "金融界" },
+      { "siteName": "金融界" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "中远海运控股（01919.HK）公告，于相关交易日斥资约 5217.17 万港元实施回购，合计回购股份 300.2 万股，本次回购的每股价格区间为 17.13 港元至 17.58 港元。",
+    "id": "8y874H9febd",
+    "order": 1794960036545,
+    "createdAt": "2026-11-18T00:00:36.545Z",
+    "publishDate": "2026-11-18T00:00:36.545Z",
+    "title": "中远海运控股：以约 5217 万港元回购 300.2 万股",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 08:00:36",
+    "uuid": "1d536efe-d16b-4a4a-aceb-0fb5e337085b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "全球 AI 算力基础设施建设提速，作为数据中心备用电源的大功率柴油发电机组供不应求，海内外头部厂商在手订单普遍排至 2027 年乃至 2028 年 ...",
+    "id": "8y95P6vI2YM",
+    "order": 1794960033962,
+    "createdAt": "2026-11-18T00:00:33.962Z",
+    "publishDate": "2026-11-18T00:00:33.962Z",
+    "title": "大功率柴油发电机组供不应求 头部厂商订单排至 2027 至 2028 年",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 08:00:33",
+    "uuid": "04ea2651-3f6a-45db-b974-4a609369e22b"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "校准基金产品风险等级旨在落实投资者适当性管理，确保基金产品销售给合适的投资者。近期，二十余家基金公司密集发布公告，调整旗下基金风险等级 ...",
+    "id": "8y92Ba4wnZ7",
+    "order": 1794959422474,
+    "createdAt": "2026-11-17T23:50:22.474Z",
+    "publishDate": "2026-11-17T23:50:22.474Z",
+    "title": "校准截止日期临近 基金密集调整风险等级",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 07:50:22",
+    "uuid": "b69ef217-78ca-445c-89d6-8f4a8ac9e5b5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "绝味食品原拟将所持有的内蒙古塞飞亚农业科技发展股份有限公司 24.1661% 股权转让给驭唐控股（湖北）集团有限公司，交易对价为 8458.14 万元 ...",
+    "id": "8y8Ay92Oc6I",
+    "order": 1794959422948,
+    "createdAt": "2026-11-17T23:50:22.948Z",
+    "publishDate": "2026-11-17T23:50:22.948Z",
+    "title": "绝味食品：终止转让塞飞亚 24.1661% 股权",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 07:50:22",
+    "uuid": "80dcc5fe-73f0-4174-8999-11ad2b1081e5"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "Anthropic 旗下的 Claude Mythos 仅用 3 天、几乎无需人工干预就完成了 AMD MI355X 芯片近 100% 的底层内核代码编写，将原本数十名工程师 6 到 12 个月的芯片适配周期压缩至 72 小时，移植后模型运行性能与英伟达 CUDA 优化方案差距仅 8%-12%，已满足商用要求 ...",
+    "id": "8y8PFsnY791",
+    "order": 1794959421428,
+    "createdAt": "2026-11-17T23:50:21.428Z",
+    "publishDate": "2026-11-17T23:50:21.428Z",
+    "title": "Claude 大幅压缩 AMD 芯片适配周期 英伟达 CUDA 护城河遇挑战",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 07:50:21",
+    "uuid": "a0e20b27-5e4c-45cb-8159-076cc4f15e3e"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "Anthropic IPO 定价前一天，OpenAI 正式发布 GPT-6.2 系列模型，分为面向复杂任务的 Astra 和主打日常效率的 Sol ...",
+    "id": "8y954hqWUZ4",
+    "order": 1794959421626,
+    "createdAt": "2026-11-17T23:50:21.626Z",
+    "publishDate": "2026-11-17T23:50:21.626Z",
+    "title": "Anthropic 上市前夕，OpenAI 发布 GPT-6.2：成本大降，3D 能力再突破",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 07:50:21",
+    "uuid": "a2cae174-1f98-4680-a913-5d19dc5c61be"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "当地 11 月 17 日英伟达公布 2027 财年第三季度财报，文件显示该公司本季度供应链承诺从上季度的 2790 亿美元增至 3900 亿美元，主要涉及多年期内存供应采购 ...",
+    "id": "8y8zgXBEXL8",
+    "order": 1794959420190,
+    "createdAt": "2026-11-17T23:50:20.189Z",
+    "publishDate": "2026-11-17T23:50:20.190Z",
+    "title": "英伟达三季度供应链承诺增至 3900 亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 07:50:20",
+    "uuid": "6256723a-d0e7-46aa-aa27-03fb8335e6b1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "DoNews" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "微软推出 MAI Image 2.7 和 MAI Image 2.7 Flash 图像生成与编辑模型，同时上线由 Flash 驱动的交互式创作空间 Canvas ...",
+    "id": "8y92u8TlTsa",
+    "order": 1794958822930,
+    "createdAt": "2026-11-17T23:40:22.930Z",
+    "publishDate": "2026-11-17T23:40:22.930Z",
+    "title": "微软发布 MAI Image 2.7 修图 AI 模型 成本仅竞品五分之一",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 07:40:22",
+    "uuid": "12a170c8-b210-4385-8c22-d84a5e81cab7"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "格隆汇" },
+      { "siteName": "maomu.com" },
+      { "siteName": "DoNews" }
+    ],
+    "summary": "微软宣布，其语音 AI 模型 MAI Realtime 1 在公开基准测试及微软内部产品评估中的表现优于 GPT Realtime 2.1。",
+    "id": "8y8iXVsdCoD",
+    "order": 1794958513355,
+    "createdAt": "2026-11-17T23:35:13.355Z",
+    "publishDate": "2026-11-17T23:35:13.355Z",
+    "title": "微软称 MAI Realtime 1 在评估中表现优于 GPT Realtime 2.1",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 07:35:13",
+    "uuid": "013f5701-a189-40f2-a15e-16baed95d6a1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "英伟达董事会已批准新增 1500 亿美元股票回购额度，进一步扩大公司股票回购规模。此举将为公司提供更多回购自身股票的空间，通常被视为管理层对公司长期价值及现金流状况抱有信心的信号。",
+    "id": "8y8w7aDBg95",
+    "order": 1794957911162,
+    "createdAt": "2026-11-17T23:25:11.162Z",
+    "publishDate": "2026-11-17T23:25:11.162Z",
+    "title": "英伟达董事会批准增加 1500 亿美元股票回购额度",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-18 07:25:11",
+    "uuid": "c035a490-91cf-4727-bed4-c16b99779734"
+  },
+  {
+    "newsArray": [
       { "siteName": "techflowpost.com" },
       { "siteName": "格隆汇" },
       { "siteName": "techflowpost.com" }
