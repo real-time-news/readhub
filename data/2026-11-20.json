@@ -1,6 +1,187 @@
 [
   {
     "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "9to5Mac" }
+    ],
+    "summary": "OpenAI 核心产品负责人蒂博・索蒂奥宣布，邀请少量 ChatGPT Plus 用户测试 dots，同时向所有 ChatGPT Business Standard 用户开放该功能。",
+    "id": "8yCPxIfdGco",
+    "order": 1795139119373,
+    "createdAt": "2026-11-20T01:45:19.373Z",
+    "publishDate": "2026-11-20T01:45:19.373Z",
+    "title": "OpenAI 邀部分 Plus 用户测试 dots，向 Business Standard 用户开放",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:45:19",
+    "uuid": "26fdea7d-04d8-413d-9385-2669dff79102"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国国际贸易委员会发布公告，对特定变压器及其部件（调查编码：337-TA-1517）作出 337 部分终裁，决定不对本案行政法官于 2026 年 10 月 22 日作出的初裁予以复审，基于和解终止本案调查。",
+    "id": "8yCXRzCEBjx",
+    "order": 1795139119900,
+    "createdAt": "2026-11-20T01:45:19.366Z",
+    "publishDate": "2026-11-20T01:45:19.900Z",
+    "title": "美国 ITC 对特定变压器及其部件作出 337 部分终裁终止调查",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:45:19",
+    "uuid": "6bf29005-90c2-4eca-83ef-6faa372df853"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "9to5Mac" }
+    ],
+    "summary": "苹果面向开发者推送 watchOS 27.3 预览版，为 Siri Modular 表盘新增两种外观，分别是大时钟样式，以及紧凑时钟搭配智能堆栈的样式 ...",
+    "id": "8yApJfO03Tq",
+    "order": 1795138817278,
+    "createdAt": "2026-11-20T01:40:17.278Z",
+    "publishDate": "2026-11-20T01:40:17.278Z",
+    "title": "苹果 watchOS 27.3 测试版新增两款 Siri 表盘样式",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:40:17",
+    "uuid": "923fd272-de58-48fe-af14-fc9565f13f1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "36Kr" },
+      { "siteName": "第一财经" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "随着新能源汽车快速普及，国内首个汽车智能座舱 AI 能力分级评价体系由中国汽车技术研究中心推出 ...",
+    "id": "8yCVHjbQhpQ",
+    "order": 1795138513628,
+    "createdAt": "2026-11-20T01:35:13.628Z",
+    "publishDate": "2026-11-20T01:35:13.628Z",
+    "title": "国内推出首个智能座舱 AI 分级评价体系",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:35:13",
+    "uuid": "73d14c02-1146-421a-a3b7-b34f1badda59"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "河南拟优化完善工商业分时电价政策，公开征求意见，拟将系统运行费纳入分时浮动、移出输配电价，并建立峰谷时段年度动态调整机制 ...",
+    "id": "8yCW0hIFYfb",
+    "order": 1795138513809,
+    "createdAt": "2026-11-20T01:35:13.809Z",
+    "publishDate": "2026-11-20T01:35:13.809Z",
+    "title": "华泰证券：河南分时电价新政征求意见 储能项目或受益",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:35:13",
+    "uuid": "6e2e3736-efcf-47fe-974c-04b07d9c2f1e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "新浪科技" },
+      { "siteName": "新浪科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "中国科技网" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "国家邮政局公布 2026 年 1-10 月邮政行业运行情况 ...",
+    "id": "8yCW1A3Pfmy",
+    "order": 1795138511676,
+    "createdAt": "2026-11-20T01:35:11.676Z",
+    "publishDate": "2026-11-20T01:35:11.676Z",
+    "title": "国家邮政局：前 10 月邮政寄递业务量、收入双增长",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:35:11",
+    "uuid": "45ae8b26-5ff4-4fac-8f7b-e5f23d795dde"
+  },
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "手机中国" },
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "特斯拉首席执行官马斯克完成一次快节奏中国行，在 24 小时内专程从深圳飞赴上海超级工厂。他当面感谢亚太及中国团队，分享了辅助驾驶技术的飞速进展、人形机器人技能快速提升等相关消息，现场气氛热烈 ...",
+    "id": "8yBgYF0zeKv",
+    "order": 1795137614963,
+    "createdAt": "2026-11-20T01:20:14.963Z",
+    "publishDate": "2026-11-20T01:20:14.963Z",
+    "title": "马斯克已抵达特斯拉上海超级工厂 分享机器人等进展",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:20:14",
+    "uuid": "f443f6f6-3fbc-47e3-81f7-bce8a14e49da"
+  },
+  {
+    "newsArray": [
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" },
+      { "siteName": "快科技" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "OpenAI 为 ChatGPT 正式引入全新实时听写功能，用户对着麦克风说话时可同步看到转写文字，提升语音输入效率 ...",
+    "id": "8yCPZrFA7Qk",
+    "order": 1795137611874,
+    "createdAt": "2026-11-20T01:20:11.874Z",
+    "publishDate": "2026-11-20T01:20:11.874Z",
+    "title": "ChatGPT 语音输入大升级：上线实时听写功能取消 10 分钟限制全平台推送",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:20:11",
+    "uuid": "63ce789b-7d3f-4be3-b702-95d3ec4bfb60"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "新浪科技" },
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "金价本周料创 3 月以来最大单周跌幅，累计跌幅势将超 7%，周中触及 2025 年 9 月以来最低水平，周五一度跌 1% 接近每盎司 3590 美元，当前现货黄金报每盎司 3614.59 美元 ...",
+    "id": "8yCIQU0C5z9",
+    "order": 1795137611918,
+    "createdAt": "2026-11-20T01:20:11.918Z",
+    "publishDate": "2026-11-20T01:20:11.918Z",
+    "title": "金价势创 3 月以来最差单周表现 受美联储鹰派信号及 AI 股票下跌影响",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:20:11",
+    "uuid": "349aa4ae-dc9e-4c93-b200-9fb2e667aa43"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "比亚迪推出折叠智舱，核心亮点为可折叠收纳的方向盘，该配置将首次搭载于方程豹钛 9 ...",
+    "id": "8yBe3iLJqfi",
+    "order": 1795137313009,
+    "createdAt": "2026-11-20T01:15:13.009Z",
+    "publishDate": "2026-11-20T01:15:13.009Z",
+    "title": "方程豹钛 9 将搭可折叠方向盘 泊车时十秒完成收纳",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-20 09:15:13",
+    "uuid": "ea17c533-6b04-423e-9ae3-0da519e2e274"
+  },
+  {
+    "newsArray": [
       { "siteName": "格隆汇" },
       { "siteName": "格隆汇" },
       { "siteName": "财联社" },
