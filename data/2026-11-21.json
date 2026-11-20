@@ -1,6 +1,147 @@
 [
   {
     "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "美国数据及人工智能公司 Databricks 正开展初步洽谈，计划以 2250 亿美元的估值进行数十亿美元规模的融资。",
+    "id": "8yE0XbH0zVh",
+    "order": 1795216220312,
+    "createdAt": "2026-11-20T23:10:20.312Z",
+    "publishDate": "2026-11-20T23:10:20.312Z",
+    "title": "Databricks 拟以 2250 亿美元估值融资数十亿美元",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 07:10:20",
+    "uuid": "eea4ec3d-93bc-4c0e-8efd-88a37749e385"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "美三大股指大幅收跌，道琼斯指数跌 1.94%，标普 500 指数跌 3.70%，纳斯达克综合指数跌 5.28%，道指、标普 500 指数均较此前高点回撤 10%，进入回调区间 ...",
+    "id": "8yDtkvzI7OB",
+    "order": 1795215633844,
+    "createdAt": "2026-11-20T23:00:33.841Z",
+    "publishDate": "2026-11-20T23:00:33.844Z",
+    "title": "英伟达暴跌近 14% AI 交易抛售加剧推动美股进入回调区间",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 07:00:33",
+    "uuid": "4c954209-7178-4de9-b51b-5d39546278ea"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "中油共享承接中国石油集团共享运营服务，为破解大型央企共享运营智能化中知识管理难、高并发下稳定运行要求高、合规可追溯性要求严等痛点，与火山引擎深度合作，推进知识型、流程型、数据型三类智能体建设，目前已在内部运行 18 个智能体，覆盖六大业务场景 ...",
+    "id": "8yDzpI7QYLH",
+    "order": 1795215030589,
+    "createdAt": "2026-11-20T22:50:30.589Z",
+    "publishDate": "2026-11-20T22:50:30.589Z",
+    "title": "知识、数据、流程三类 Agent 进驻中石油共享运营万人后台",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 06:50:30",
+    "uuid": "351cca67-93d1-4bc1-8d86-86080540676c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "据知情人士透露，CrowdStrike 正在洽谈收购 Zscaler，这笔交易若达成将成为网络安全行业史上规模最大的交易之一，合并后将缔造一家合计市值约 2650 亿美元的公司。",
+    "id": "8yDtOfvYtca",
+    "order": 1795211111547,
+    "createdAt": "2026-11-20T21:45:11.546Z",
+    "publishDate": "2026-11-20T21:45:11.547Z",
+    "title": "Crowdstrike 据悉洽购 Zscaler 或缔造网安行业史上最大交易之一",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 05:45:11",
+    "uuid": "bbaa72f2-a62e-4201-85e5-1add5011034e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "央视新闻" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "我国首个海上注碳增气技术示范应用工程——东方 1-1 气田二氧化碳捕集封存利用项目，在重达 1.7 万吨的中心平台完成装船后，陆地建设已全面完工，正式转入海上运输安装阶段。",
+    "id": "8yCvj0MEB0L",
+    "order": 1795205417861,
+    "createdAt": "2026-11-20T20:10:17.861Z",
+    "publishDate": "2026-11-20T20:10:17.861Z",
+    "title": "我国首个海上注碳增气技术示范应用工程陆地建设全面完工",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 04:10:17",
+    "uuid": "c74db072-696e-48e9-b040-b04e8798f4e9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "费城半导体指数跌幅扩大至 10%。成分股普遍大幅下跌，其中英伟达跌近 12%，台积电下跌 9.19%，博通下跌 12.51%，超威半导体下跌 13.35%，美光科技下跌 13.03%，阿斯麦下跌 6.6%。",
+    "id": "8yDmGDlxD4O",
+    "order": 1795204225018,
+    "createdAt": "2026-11-20T19:50:25.018Z",
+    "publishDate": "2026-11-20T19:50:25.018Z",
+    "title": "费城半导体指数跌幅扩大至 10% 英伟达跌近 12%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 03:50:25",
+    "uuid": "43fb63e2-76fe-417f-9954-3517061a5898"
+  },
+  {
+    "newsArray": [
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "据知情人士透露，美国证券交易委员会正在调查英伟达的会计处理方式，令这家本就深陷丑闻的芯片巨头面临的法律困境进一步加剧 ...",
+    "id": "8yDlX9NZbny",
+    "order": 1795203620753,
+    "createdAt": "2026-11-20T19:40:20.753Z",
+    "publishDate": "2026-11-20T19:40:20.753Z",
+    "title": "报道：英伟达会计处理成为美国 SEC 调查重点",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 03:40:20",
+    "uuid": "14df3590-ddcc-4ade-a701-e6a3d085f977"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" }
+    ],
+    "summary": "OpenAI 推出 MedChemBench 基准测试集，用于评估 AI 模型在药物化学研究相关推理任务上的表现，检验模型关联分子结构与实验证据、解释实验结果、对比化合物并预测其性质的能力，打造可可靠支撑这类研究的 AI 是助力科学家研发更优质药物的重要一步 ...",
+    "id": "8yDk7bi9uo1",
+    "order": 1795203620754,
+    "createdAt": "2026-11-20T19:40:20.754Z",
+    "publishDate": "2026-11-20T19:40:20.754Z",
+    "title": "OpenAI 推出 MedChemBench 药物化学基准",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 03:40:20",
+    "uuid": "ae7f1846-aafc-47b6-abce-f926531b1c4d"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" },
       { "siteName": "格隆汇" }
