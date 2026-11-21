@@ -1,6 +1,185 @@
 [
   {
     "newsArray": [
+      { "siteName": "金融界" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "前英特尔首席执行官帕特・基辛格在 2026 年 COSM 科技峰会的炉边谈话中表示，人工智能需要实现 10000 倍的计算效率激进跃升，常规渐进式芯片增益无法满足需求，同时他否认摩尔定律已走向终结，反驳半导体微缩触及物理极限的观点，认为摩尔定律重焕生机取决于光学、供电、散热、材料和封装五大核心工程领域的根本性突破 ...",
+    "id": "8yEuI3U8VxY",
+    "order": 1795263911201,
+    "createdAt": "2026-11-21T12:25:11.201Z",
+    "publishDate": "2026-11-21T12:25:11.201Z",
+    "title": "前英特尔 CEO 基辛格：AI 需万倍效率跃升 渐进式芯片提升无法满足",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 20:25:11",
+    "uuid": "6be19f54-eefc-4c7a-90f6-d80630efeaac"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "手机市场阔形态升级正在加快，除华为外，其他厂商也考虑在正代旗舰产品线加入阔直板，与常规直板机并行发展 ...",
+    "id": "8yEg0Wmob9e",
+    "order": 1795261223551,
+    "createdAt": "2026-11-21T11:40:23.551Z",
+    "publishDate": "2026-11-21T11:40:23.551Z",
+    "title": "消息称安卓厂商考虑引入阔直板，旗舰线或双线并行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 19:40:23",
+    "uuid": "8050388b-fc80-45c5-ba13-1fb06c794ce9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国罗切斯特大学与康奈尔大学的研究团队公布一款低成本生物打印机，整套设备成本约 450 美元，远低于通常售价超 10 万美元的商用生物打印机 ...",
+    "id": "8yEgiBUZ08H",
+    "order": 1795261223641,
+    "createdAt": "2026-11-21T11:40:23.641Z",
+    "publishDate": "2026-11-21T11:40:23.641Z",
+    "title": "美高校团队研发低成本生物打印机 可堆叠约百层活细胞凝胶",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 19:40:23",
+    "uuid": "40af0bf2-1cde-4cae-9f06-25eaa9be1f77"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "武汉迎来一项聚焦人工智能安全的校企合作，华中科技大学与阿里巴巴集团签署协议，将共同建设智能攻防与前沿安全联合研究中心 ...",
+    "id": "8yEmmM8nSsa",
+    "order": 1795259420548,
+    "createdAt": "2026-11-21T11:10:20.548Z",
+    "publishDate": "2026-11-21T11:10:20.548Z",
+    "title": "校企携手布局 AI 安全 九大课题聚焦攻防与隐私",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 19:10:20",
+    "uuid": "2b805c64-da12-4044-ae74-a1d21aebe50c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "一项针对预量产宝马 iX5 的续航测试显示，表显电量归零后车辆仍可继续行驶，最终累计行驶 35 公里 ...",
+    "id": "8yEmmO8GySf",
+    "order": 1795259419073,
+    "createdAt": "2026-11-21T11:10:19.073Z",
+    "publishDate": "2026-11-21T11:10:19.073Z",
+    "title": "宝马 iX5 续航测试：表显归零后仍行驶 35 公里",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 19:10:19",
+    "uuid": "fd48dd54-eeba-4224-b2e3-01a22aa1990c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "比亚迪闪充网络规模数据显示，其已覆盖 345 座城市，闪充总用户超过 357 万人。全国累计上线闪充枪 31014 个，其中有 5572 个布局在高速公路场景。",
+    "id": "8yEEppsCUZA",
+    "order": 1795259419074,
+    "createdAt": "2026-11-21T11:10:19.074Z",
+    "publishDate": "2026-11-21T11:10:19.074Z",
+    "title": "345 城接入比亚迪闪充网络 全国已上线 31014 个闪充枪",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 19:10:19",
+    "uuid": "fc4b20e2-5130-4a9f-8f57-2846d7ef725f"
+  },
+  {
+    "newsArray": [
+      { "siteName": "theblockbeats.info" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "11 月 20 日，欧洲央行宣布邀请市场参与者加入 Appia 计划的分析与实践工作，重点覆盖代币化存款及相关支付、代币化证券和共享网络治理三个领域 ...",
+    "id": "8yEmQIaGlL2",
+    "order": 1795257620729,
+    "createdAt": "2026-11-21T10:40:20.728Z",
+    "publishDate": "2026-11-21T10:40:20.729Z",
+    "title": "欧洲央行邀请市场机构参与代币化存款及证券测试",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 18:40:20",
+    "uuid": "d618b646-d6ea-4cb9-82b9-14fbb53884aa"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "中国科技网" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "首台国产 120kV 冷冻透射电子显微镜 TH-F120C 在广州发布，其所有关键核心部件均实现自主研制，摆脱国外软硬件绑定限制，保障科研数据自主安全 ...",
+    "id": "8yEkHkuPBgR",
+    "order": 1795257311373,
+    "createdAt": "2026-11-21T10:35:11.372Z",
+    "publishDate": "2026-11-21T10:35:11.373Z",
+    "title": "首台国产 120kV 冷冻透射电子显微镜在广州发布",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 18:35:11",
+    "uuid": "1a4399a2-f1a4-48b8-9525-8abe055d681c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "澎湃新闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "财联社" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "11 月 20 日国际黄金期现货价格盘中均跌破每盎司 3550 美元，黄金期货价格一度下跌近 5% ...",
+    "id": "8yEnUWnGnVW",
+    "order": 1795257311381,
+    "createdAt": "2026-11-21T10:35:11.381Z",
+    "publishDate": "2026-11-21T10:35:11.381Z",
+    "title": "国内多家品牌宣布：下调金饰克价",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 18:35:11",
+    "uuid": "192dc80c-d4fe-41b0-a002-b21dde5a662d"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "蔚来透露 NWM 3.0 世界模型将在蔚来创新科技日正式亮相。该版本将围绕模型架构、闭环训练和跨域融合等方向，集中呈现其智能辅助驾驶团队在物理世界人工智能领域的新探索 ...",
+    "id": "8yEgho2fZtk",
+    "order": 1795256112849,
+    "createdAt": "2026-11-21T10:15:12.849Z",
+    "publishDate": "2026-11-21T10:15:12.849Z",
+    "title": "蔚来 NWM 3.0 世界模型将在 11 月 25 日科技日亮相",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-21 18:15:12",
+    "uuid": "52782d89-b118-4c10-ae31-6b9118c633e2"
+  },
+  {
+    "newsArray": [
       { "siteName": "maomu.com" },
       { "siteName": "36Kr" },
       { "siteName": "虎嗅网" }
