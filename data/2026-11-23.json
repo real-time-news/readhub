@@ -1,0 +1,46 @@
+[
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" }
+    ],
+    "summary": "帕洛阿尔托初创公司 Architect Labs 公布由 AI 系统自主完成全流程设计验证的通用 CPU Frostbite，采用全新指令集，以 Tile 为计算单元，配套「免费多线程」方案 ...",
+    "id": "8yGr3P93jqt",
+    "order": 1795369218631,
+    "createdAt": "2026-11-22T17:40:18.631Z",
+    "publishDate": "2026-11-22T17:40:18.631Z",
+    "title": "AI 自研 CPU 架构 Frostbite 模拟能效达对照芯片 4.59 倍",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-23 01:40:18",
+    "uuid": "dc65ccff-a9ac-4683-81da-426c051f2bec"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "OpenAI 用 AI 参与芯片设计取得显著成果：不到 5 个月就在 AMD 已被工程师多年高度优化的旗舰 GPU 设计上，通过重写 SystemVerilog RTL 代码，实现 PPA 最高 14% 的净提升，相关修改后的电路已送流片，其 AI 在 RTL 层面的推理能力达到专家级微架构师水平 ...",
+    "id": "8yGtuVnVSCi",
+    "order": 1795370775178,
+    "createdAt": "2026-11-22T16:55:11.135Z",
+    "publishDate": "2026-11-22T18:06:15.178Z",
+    "title": "OpenAI 用 GPT 优化 AMD 旗舰 GPU 电路，相关设计已送流片",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-23 00:55:11",
+    "uuid": "673f936c-f763-4c60-8152-8d4632a8edf9"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "AI 联合造出包含近 3000 亿个变量的多项式方程，可从全体有理数中精准识别整数，相关成果引发学术圈震动 ...",
+    "id": "8yGtuSEfX0V",
+    "order": 1795366226183,
+    "createdAt": "2026-11-22T16:50:26.183Z",
+    "publishDate": "2026-11-22T16:50:26.183Z",
+    "title": "AI 协助造出近 3000 亿变量方程，中国数学家压缩至 26 个",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-23 00:50:26",
+    "uuid": "dadb90ca-e6a1-4353-b26c-b272f8152ef9"
+  }
+]
