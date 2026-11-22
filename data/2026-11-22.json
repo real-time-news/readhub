@@ -1,6 +1,211 @@
 [
   {
     "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "同花顺财经" }
+    ],
+    "summary": "2026 脑机接口大会主论坛发布《脑机接口创新发展研究报告 (2026)》。报告指出，中国脑机接口产业集聚于京津冀、长三角和粤港澳三大城市群，已初步形成重视原创、转化、制造的优质协同链条 ...",
+    "id": "8yEyDFhfauI",
+    "order": 1795313112582,
+    "createdAt": "2026-11-22T02:05:12.582Z",
+    "publishDate": "2026-11-22T02:05:12.582Z",
+    "title": "行业报告：中国脑机接口产业集聚于三大城市群",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 10:05:12",
+    "uuid": "4b60671f-1d5a-4c55-b41e-b3b228a11042"
+  },
+  {
+    "newsArray": [
+      { "siteName": "36Kr" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "2026 年重型燃气轮机现代产业链共链行动大会暨产业化推进会在上海临港召开 ...",
+    "id": "8yFlsnTB8Ji",
+    "order": 1795312227236,
+    "createdAt": "2026-11-22T01:50:27.236Z",
+    "publishDate": "2026-11-22T01:50:27.236Z",
+    "title": "上海电气与中国重燃签署合资合作框架协议",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 09:50:27",
+    "uuid": "492904db-0ee3-49f2-8bb3-de2f03d31619"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "谷歌更新了 Nest 应用的服务安排，独立版 Nest App 和网页端将在 2027 年 1 月 15 日停止服务，原有能力转入 Google Home 应用 ...",
+    "id": "8yFgsSIrCD6",
+    "order": 1795311915689,
+    "createdAt": "2026-11-22T01:45:15.689Z",
+    "publishDate": "2026-11-22T01:45:15.689Z",
+    "title": "Nest 应用及网页端 2027 年停服 相关能力迁移至 Google Home",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 09:45:15",
+    "uuid": "b7ef404f-db11-4f2e-8253-1ebe1c1adae1"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "金融界" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为旗下全新子品牌 OSTA 星芒正式发布后，星芒负责人刘赫披露了 O1 PRO 的首销情况 ...",
+    "id": "8yEUYhKL8EK",
+    "order": 1795311915706,
+    "createdAt": "2026-11-22T01:45:15.706Z",
+    "publishDate": "2026-11-22T01:45:15.706Z",
+    "title": "华为子品牌星芒 O1 Pro 开卖 16G 版本售罄",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 09:45:15",
+    "uuid": "abf368b3-c610-4034-93ba-7975079032e2"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "美国威斯康星州企业 Hoffman EV 在 SEMA 展会上推出名为 Badger 的车型，该车并非全新平台开发，而是围绕旧款特斯拉 Model 3 的电池、电机等核心零部件重新搭建，瞄准特斯拉尚未涉足的 MPV 细分市场 ...",
+    "id": "8yEr4wmsQoy",
+    "order": 1795311915804,
+    "createdAt": "2026-11-22T01:45:15.804Z",
+    "publishDate": "2026-11-22T01:45:15.804Z",
+    "title": "美国团队基于旧 Model 3 改 MPV，计划 2027 年生产约百辆",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 09:45:15",
+    "uuid": "04f5bc82-3512-470f-b7ef-b46a9080b496"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "开源端到端加密聊天应用 Signal 推出 iOS 与安卓版更新，默认关闭应用内截图功能，防范 Siri AI、Gemini 等 AI 智能体在用户不知情的情况下读取私人消息，规避系统级 AI 智能体对其既有隐私机制造成的威胁 ...",
+    "id": "8yFiJTHQnNw",
+    "order": 1795311913825,
+    "createdAt": "2026-11-22T01:45:13.825Z",
+    "publishDate": "2026-11-22T01:45:13.825Z",
+    "title": "加密聊天应用 Signal 默认屏蔽截图 防止 AI 智能体读取用户消息",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 09:45:13",
+    "uuid": "473194d1-f201-4197-9f67-c350622e069c"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "群联在 SC26 大会上展示两款专为 AI 场景设计的企业级固态硬盘 ...",
+    "id": "8yFlWidAkM2",
+    "order": 1795311913828,
+    "createdAt": "2026-11-22T01:45:13.828Z",
+    "publishDate": "2026-11-22T01:45:13.828Z",
+    "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 09:45:13",
+    "uuid": "f3a64edc-8ebc-4102-b636-023ee52e661a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "界面" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "第一财经" },
+      { "siteName": "澎湃新闻" },
+      { "siteName": "新浪科技" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "IT 之家" },
+      { "siteName": "新浪科技" },
+      { "siteName": "央视新闻" },
+      { "siteName": "格隆汇" }
+    ],
+    "summary": "针对美国联邦通信委员会投票通过规则，拟禁止被列入其「覆盖清单」的中国电信、中国联通、中国移动等电信运营商直接获取美国互联网电话号码资源一事，商务部作出回应，表示中方注意到有关情况 ...",
+    "id": "8yFpoBZ1ggB",
+    "order": 1795311037074,
+    "createdAt": "2026-11-22T01:30:37.073Z",
+    "publishDate": "2026-11-22T01:30:37.074Z",
+    "title": "商务部新闻发言人就美拟禁止中资电信运营商获取美互联网号码答记者问",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 09:30:37",
+    "uuid": "6572851f-3707-416c-b6ce-fa545d0be8bd"
+  },
+  {
+    "newsArray": [
+      { "siteName": "动脉网" },
+      { "siteName": "医药魔方" },
+      { "siteName": "医药魔方" },
+      { "siteName": "虎嗅网" }
+    ],
+    "summary": "脑机接口行业当下愈发重视临床与患者，其重要性甚至超过资金 ...",
+    "id": "8yFlsr2Iedz",
+    "order": 1795308020001,
+    "createdAt": "2026-11-22T00:40:20.001Z",
+    "publishDate": "2026-11-22T00:40:20.001Z",
+    "title": "脑机接口临床试验资源紧张 企业下沉多地招募受试者",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 08:40:20",
+    "uuid": "9b683099-1ee7-4ac3-a4ae-11bbe2b51781"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" },
+      { "siteName": "techflowpost.com" },
+      { "siteName": "格隆汇" },
+      { "siteName": "格隆汇" },
+      { "siteName": "华尔街见闻" },
+      { "siteName": "财联社" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "特斯拉宣布 FSD V15 已启动推送，本次版本升级覆盖端到端驾驶网络的各个部分。新版新增 Tesla Reality View 功能，可实时呈现行驶画面，支持用户查看并控制 FSD 的规划行为 ...",
+    "id": "8yFTIProekl",
+    "order": 1795307433566,
+    "createdAt": "2026-11-22T00:30:33.566Z",
+    "publishDate": "2026-11-22T00:30:33.566Z",
+    "title": "特斯拉开始推送 FSD V15，升级端到端驾驶网络",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-22 08:30:33",
+    "uuid": "d1117b6f-c879-4dc3-b178-03ca1e919c1c"
+  },
+  {
+    "newsArray": [
       { "siteName": "澎湃新闻" },
       { "siteName": "IT 之家" },
       { "siteName": "快科技" }
