@@ -1,0 +1,74 @@
+[
+  {
+    "newsArray": [
+      { "siteName": "IT 之家" },
+      { "siteName": "maomu.com" },
+      { "siteName": "techflowpost.com" }
+    ],
+    "summary": "OpenAI 员工 Thibault Sottiaux 发文表示，GPT-6.2 推出时的计量错误导致多数用户使用 Astra 和 Sol 模型的额度被错误折算，该问题现已修正 ...",
+    "id": "8yNSeGheS5z",
+    "order": 1795735216944,
+    "createdAt": "2026-11-26T23:20:16.944Z",
+    "publishDate": "2026-11-26T23:20:16.944Z",
+    "title": "OpenAI 修正计量错误 GPT-6.2 Astra 额度达上限速度提 40%",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-27 07:20:16",
+    "uuid": "dd6d25ab-ac03-44f5-969c-995bf4996adc"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "现有音频编辑模型在选择性编辑中可靠性不足，常改错声音，问题根源在于去噪前几步就决定了编辑目标，而常规训练对前期步骤训练不足，且模型缺乏纠错能力 ...",
+    "id": "8yNDYiXez42",
+    "order": 1795730111619,
+    "createdAt": "2026-11-26T21:55:11.619Z",
+    "publishDate": "2026-11-26T21:55:11.619Z",
+    "title": "SteerSound：迈向更可靠的音频编辑",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-27 05:55:11",
+    "uuid": "adf23fd5-ffee-4d32-8eb3-071e594e9eba"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "麻省理工科技评论" }
+    ],
+    "summary": "AI 正反向加速芯片研发：Anthropic 模型三天完成 AMD MI355X 芯片特定推理任务近 100% 底层内核代码编写，OpenAI 让 AMD 旗舰 GPU 的 PPA 综合指标最高改善 14%，其自研芯片的 AI 优化也已流片验证 ...",
+    "id": "8yN6NeKEQKn",
+    "order": 1795729817330,
+    "createdAt": "2026-11-26T21:50:17.330Z",
+    "publishDate": "2026-11-26T21:50:17.330Z",
+    "title": "40 亿参数小模型逼近 Astra，MIT 探索低成本 AI 芯片设计",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-27 05:50:17",
+    "uuid": "6a592c87-8fdc-4cba-aa9f-9f985e2f3a19"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "医药魔方" }],
+    "summary": "第一三共的创新药物维复泰（盐酸奎扎替尼片）在中国商业上市，用于治疗携带 FLT3-ITD 突变的新诊断急性髓系白血病（AML）成人患者 ...",
+    "id": "8yN2vy6uWPd",
+    "order": 1795729817329,
+    "createdAt": "2026-11-26T21:50:17.329Z",
+    "publishDate": "2026-11-26T21:50:17.329Z",
+    "title": "第一三共创新药物维复泰在中国商业上市",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-27 05:50:17",
+    "uuid": "8e0e1736-e1d8-404b-ae5e-940649f807e8"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }, { "siteName": "腾讯网" }],
+    "summary": "南京大学、可灵 AI、北京大学等机构提出 Coda-DaVinci，探索代码与视频生成模型协同的创作路径 ...",
+    "id": "8yN4xMOU7vV",
+    "order": 1795729817318,
+    "createdAt": "2026-11-26T21:50:17.318Z",
+    "publishDate": "2026-11-26T21:50:17.318Z",
+    "title": "可灵联合北大南大提出 Coda-DaVinci 用代码拓展视频生成边界",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-27 05:50:17",
+    "uuid": "8456346c-2b06-4cd7-8bf6-7736d0dd3c2e"
+  }
+]
