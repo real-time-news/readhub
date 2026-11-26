@@ -1,6 +1,173 @@
 [
   {
     "newsArray": [
+      { "siteName": "格隆汇" },
+      { "siteName": "中国科技网" },
+      { "siteName": "第一财经" }
+    ],
+    "summary": "北京在 2025 年蝉联全球科研城市榜首，上海、南京分列第二、第三位，这是中国城市首次包揽该榜单前三位。",
+    "id": "8yMZAW3TQAr",
+    "order": 1795669239827,
+    "createdAt": "2026-11-26T05:00:39.827Z",
+    "publishDate": "2026-11-26T05:00:39.827Z",
+    "title": "自然指数：中国城市首次包揽全球科研城市前三",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 13:00:39",
+    "uuid": "daecd146-eb0f-4e2f-9f00-330622b6431e"
+  },
+  {
+    "newsArray": [{ "siteName": "微信公众号" }],
+    "summary": "当前具身智能行业处于技术路线十字路口，通用大模型与专用具身模型路线加速碰撞，行业缺乏公认方向和标准 ...",
+    "id": "8yMi4leLIAk",
+    "order": 1795668623028,
+    "createdAt": "2026-11-26T04:50:23.028Z",
+    "publishDate": "2026-11-26T04:50:23.028Z",
+    "title": "智源 REAL 开放日发布物理 AI 评测体系等多项成果",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 12:50:23",
+    "uuid": "36149204-359f-466f-b3a8-43f83630cd25"
+  },
+  {
+    "newsArray": [
+      { "siteName": "微信公众号" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "腾讯网" }
+    ],
+    "summary": "针对长程编程任务训练环境构建成本高、训练价值优化依赖高成本下游反馈的问题，北航、上交和 IQuest 团队提出 RepoFactory，用低成本代理指标推动长程编程环境递归改进 ...",
+    "id": "8yMYnue8eqp",
+    "order": 1795668623034,
+    "createdAt": "2026-11-26T04:50:23.034Z",
+    "publishDate": "2026-11-26T04:50:23.034Z",
+    "title": "RepoFactory 用低成本代理指标推动长程编程环境的递归改进",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 12:50:23",
+    "uuid": "a14434c9-83bc-496c-9860-3ec92c18197e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "第一财经" },
+      { "siteName": "36Kr" }
+    ],
+    "summary": "豪鹏科技聚焦服务世界五百强及细分领域头部品牌客户，大疆是其长期合作的战略客户之一，双方合作关系具备较强稳定性与延续性 ...",
+    "id": "8yMgduslB2k",
+    "order": 1795668314954,
+    "createdAt": "2026-11-26T04:45:14.954Z",
+    "publishDate": "2026-11-26T04:45:14.954Z",
+    "title": "豪鹏科技：已在机器人等新兴场景实现电池产品批量供货",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 12:45:14",
+    "uuid": "e69c98bc-889d-4f40-8d6e-76c2d8e57abe"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "清华大学举行「非凡 2026」智能经济论坛，重点讨论 AI 驱动的组织飞跃，该论坛由清华经管学院人工智能与管理研究中心、清华大学可持续社会价值研究院与同道猎聘集团共同举办 ...",
+    "id": "8yMbLkyCCIe",
+    "order": 1795668312957,
+    "createdAt": "2026-11-26T04:45:12.957Z",
+    "publishDate": "2026-11-26T04:45:12.957Z",
+    "title": "猎聘 Lily 升级独立 AI 产品，服务延伸至组织管理",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 12:45:12",
+    "uuid": "72512bc4-d8b6-464e-bcd6-323dc7defad0"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "英伟达公开了一款自回归图像生成模型的权重，该模型采用混合专家架构，总参数 300 亿，运行时仅激活约 30 亿参数，更利于本地硬件部署 ...",
+    "id": "8yMZDfapFb3",
+    "order": 1795668312961,
+    "createdAt": "2026-11-26T04:45:12.961Z",
+    "publishDate": "2026-11-26T04:45:12.961Z",
+    "title": "英伟达开源 30B 生图模型，部分跑分优于 GPT Image2",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 12:45:12",
+    "uuid": "dd928c0c-8864-454c-a8b9-b98538788f44"
+  },
+  {
+    "newsArray": [
+      { "siteName": "同花顺财经" },
+      { "siteName": "36Kr" },
+      { "siteName": "财联社" }
+    ],
+    "summary": "华菱线缆发布公告，公司拟发行可转换公司债券购买吴根红、江源持有的安徽三竹智能科技有限公司 35% 股权，并向华菱津杉（天津）产业投资基金合伙企业（有限合伙）发行股份募集配套资金 ...",
+    "id": "8yMgHl4m0xG",
+    "order": 1795668020869,
+    "createdAt": "2026-11-26T04:40:20.869Z",
+    "publishDate": "2026-11-26T04:40:20.869Z",
+    "title": "华菱线缆：重组相关事项将于 12 月 2 日上会",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 12:40:20",
+    "uuid": "de48b0d5-dc4a-48b8-a981-7406ef0a366a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "智东西" },
+      { "siteName": "创业邦" },
+      { "siteName": "投资界" }
+    ],
+    "summary": "上海闪科光联科技有限公司近日宣布连续完成种子轮与天使轮两轮融资，累计数千万元人民币。种子轮由励石创投独家投资，天使轮由商汤国香、长石资本、厚雪资本联合领投，多家产业基金跟投 ...",
+    "id": "8yMUUjolnso",
+    "order": 1795668020874,
+    "createdAt": "2026-11-26T04:40:20.874Z",
+    "publishDate": "2026-11-26T04:40:20.874Z",
+    "title": "融资丨闪科光联连续完成两轮数千万元融资",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 12:40:20",
+    "uuid": "c6549665-4def-4944-82a6-1dd51a84ebca"
+  },
+  {
+    "newsArray": [
+      { "siteName": "快科技" },
+      { "siteName": "手机中国" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "华为智选车产品总监（享界系列）彭磊宣布，享界 G9 本月交付量突破 5000 辆，成为鸿蒙智行又一款均价超 50 万、月销破 5000 的产品 ...",
+    "id": "8yMbILPdukq",
+    "order": 1795667435502,
+    "createdAt": "2026-11-26T04:30:35.502Z",
+    "publishDate": "2026-11-26T04:30:35.502Z",
+    "title": "华为智选车产品总监彭磊：享界 G9 本月交付量已突破 5000 台，均价超 50 万",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 12:30:35",
+    "uuid": "50709777-e36f-424f-903a-c232fb2500e4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "DoNews" },
+      { "siteName": "maomu.com" },
+      { "siteName": "aibase" }
+    ],
+    "summary": "知乎参投的天津砺思星深股权投资合伙企业已通过中间主体间接投资 DeepSeek，取得低个位数百分比股权 ...",
+    "id": "8yMbeCuVBh0",
+    "order": 1795666821201,
+    "createdAt": "2026-11-26T04:20:21.201Z",
+    "publishDate": "2026-11-26T04:20:21.201Z",
+    "title": "知乎 CEO 回应间接投资 DeepSeek：对长期价值有清晰判断",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-26 12:20:21",
+    "uuid": "d81723e5-58e4-40f4-8d6b-cb8e4682f575"
+  },
+  {
+    "newsArray": [
       { "siteName": "ITBear科技资讯" },
       { "siteName": "ITBear科技资讯" },
       { "siteName": "IT 之家" }
