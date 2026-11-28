@@ -1,5 +1,179 @@
 [
   {
+    "newsArray": [
+      { "siteName": "财联社" },
+      { "siteName": "格隆汇" },
+      { "siteName": "同花顺财经" },
+      { "siteName": "新浪科技" }
+    ],
+    "summary": "南京市发布《开源鸿蒙智能体发展行动计划（2026—2028 年）》，部署九项重点任务，涵盖鸿蒙智能体产品发展、生态企业培育、公共服务体系完善、产业园区建设、特色 OPC 社区打造、安全可信技术支撑体系构建、标杆场景打造及人才体系培育等 ...",
+    "id": "8yQ1Bmp9gae",
+    "order": 1795841128135,
+    "createdAt": "2026-11-28T04:45:28.135Z",
+    "publishDate": "2026-11-28T04:45:28.135Z",
+    "title": "南京发布鸿蒙智能体三年行动计划：2028 年营收破千亿，集聚企业超 100 家",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 12:45:28",
+    "uuid": "1d5e3cc0-4469-464b-adde-d0fd8b5b0839"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "电动邦" }
+    ],
+    "summary": "魏牌在广州车展带来魏牌 V9X EV、魏牌二代蓝山、高山 8 HEV 三款车型，其中 V9X EV 与 V8X EV 开启预订，支付 3000 元意向金可抵扣 8000 元购车尾款，计划 12 月上旬上市 ...",
+    "id": "8yOxng2a9wv",
+    "order": 1795841127615,
+    "createdAt": "2026-11-28T04:45:27.615Z",
+    "publishDate": "2026-11-28T04:45:27.615Z",
+    "title": "广州车展魏牌三车亮相 两款车型启动预订",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 12:45:27",
+    "uuid": "e267e4c1-9517-4510-bbd6-4e21d25d108e"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" }
+    ],
+    "summary": "小米 2026 年第三季度总营收 1072 亿元，经调整净利润 49 亿元。新能源汽车与 AI 等创新业务营收 239 亿元，成为增长新增量 ...",
+    "id": "8yPnEV1sci2",
+    "order": 1795841127618,
+    "createdAt": "2026-11-28T04:45:27.618Z",
+    "publishDate": "2026-11-28T04:45:27.618Z",
+    "title": "小米单季营收 1072 亿 汽车与 AI 创新业务成增长新支柱",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 12:45:27",
+    "uuid": "b14cd828-b3e3-4514-8085-814ed52e3467"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "勒索软件组织 Inception 声称已入侵域名注册与网站托管服务商 GoDaddy，并在泄密网站公开约 37.5GB 数据，包含 10800 个文件，有 25GB 会议和全体员工大会视频、9.6GB 个人照片与视频，以及 Microsoft Office 文档、PDF、内部数据湖配置和 Go、Typescript 代码文件，部分文件含员工姓名、聊天记录和薪酬数据等个人身份信息，相关文件据称使用信息权限管理加密技术保护 ...",
+    "id": "8yPkN9M70Zp",
+    "order": 1795837236707,
+    "createdAt": "2026-11-28T03:40:36.707Z",
+    "publishDate": "2026-11-28T03:40:36.707Z",
+    "title": "勒索组织称入侵 GoDaddy 约 37.5GB 数据被公开",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 11:40:36",
+    "uuid": "3dc60a54-9133-47b8-a691-0159152dc76a"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Mozilla 公布调整，Firefox 浏览器中用于切回旧版界面的实验性 Flag（browser.nova.enabled）将在 2026 年 12 月被移除，届时 Nova 新界面会成为所有用户默认且仅有的界面方案 ...",
+    "id": "8yPqntSTW5n",
+    "order": 1795835715333,
+    "createdAt": "2026-11-28T03:15:15.333Z",
+    "publishDate": "2026-11-28T03:15:15.333Z",
+    "title": "Mozilla 宣布 Nova 界面将成 Firefox 唯一选择",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 11:15:15",
+    "uuid": "d934a356-3dc8-43f8-95fe-0ef853047ed4"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "Open 3D Engine（O3DE）推出 26.10 版本，更新规模超 200 项，覆盖修复、改进，面向游戏、仿真、交互式应用开发需求 ...",
+    "id": "8yPjJKROk44",
+    "order": 1795835715334,
+    "createdAt": "2026-11-28T03:15:15.334Z",
+    "publishDate": "2026-11-28T03:15:15.334Z",
+    "title": "开源 3D 引擎 O3DE 更新，加入 Wayland 与苹果芯片支持",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 11:15:15",
+    "uuid": "f69a511b-d450-4f59-bd2a-4c9832c4a199"
+  },
+  {
+    "newsArray": [
+      { "siteName": "手机中国" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" },
+      { "siteName": "ITBear科技资讯" }
+    ],
+    "summary": "苹果公司预计下月推出 iOS 27.3、macOS 27.3 及 iPadOS 27.3 系统更新 ...",
+    "id": "8yPmW9vN47u",
+    "order": 1795835715335,
+    "createdAt": "2026-11-28T03:15:15.335Z",
+    "publishDate": "2026-11-28T03:15:15.335Z",
+    "title": "苹果 iOS 27.3 拟对部分云端高级 AI 功能设每日使用额度",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 11:15:15",
+    "uuid": "0ea68008-719a-4a19-911a-9e8b85fee073"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "独立开发者 keklick1337 推出 Silent Hill PC 项目，让 1999 年的 PS 恐怖经典《寂静岭》可在 Windows、Linux、macOS 和安卓平台原生运行 ...",
+    "id": "8yPq6HlmlpX",
+    "order": 1795835715337,
+    "createdAt": "2026-11-28T03:15:15.337Z",
+    "publishDate": "2026-11-28T03:15:15.337Z",
+    "title": "独立开发者重写引擎 寂静岭初代实现多端运行",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 11:15:15",
+    "uuid": "154e7e71-2fb6-4869-9eb1-ea65113597d9"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "开源兼容层 Wine 推出 11.23 版本，首次支持 ARM64 架构的 macOS，加强了 ARM64 环境下的 32 位模拟能力，同时增加 AVX 指令支持 ...",
+    "id": "8yPqnvcSBUG",
+    "order": 1795835715337,
+    "createdAt": "2026-11-28T03:15:15.337Z",
+    "publishDate": "2026-11-28T03:15:15.337Z",
+    "title": "Wine 11.23 版支持 Mac ARM64，修复 40 项问题",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 11:15:15",
+    "uuid": "4e9abf97-d741-41d4-ab6f-d967e6fe9dc3"
+  },
+  {
+    "newsArray": [
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "ITBear科技资讯" },
+      { "siteName": "快科技" },
+      { "siteName": "IT 之家" }
+    ],
+    "summary": "开发者推出名为 CapivaOS 的开源项目，尝试把 LineageOS 24 引入 x86 架构 PC，项目 GitHub 名称为 LineageOS 24.0 for x86_64 PCs，基于安卓 17 打造，目标之一是让闲置笔记本电脑以较低成本变身为「安卓笔记本」 ...",
+    "id": "8yPp1bEs72K",
+    "order": 1795835715346,
+    "createdAt": "2026-11-28T03:15:15.346Z",
+    "publishDate": "2026-11-28T03:15:15.346Z",
+    "title": "开源项目让老电脑跑安卓 17：4GB 内存也能装",
+    "type": "topic",
+    "up": false,
+    "date": "2026-11-28 11:15:15",
+    "uuid": "4aad8d63-7b69-46aa-bc2e-dbbeb28e9f03"
+  },
+  {
     "newsArray": [{ "siteName": "微信公众号" }],
     "summary": "最新一代 3D 大模型 Hy3D 3.6 发布，面向专业 3D 创作，重点优化高模和 PBR 材质贴图生成能力，生成的几何表面整洁、结构清晰、高模刻画细腻、贴图质量更高，可服务各类 3D 创作者 ...",
     "id": "8yPPI6iBzah",
